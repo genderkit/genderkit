@@ -1,2 +1,3 @@
-# genderkit
-Gender Construction Kit
+# Coming soon
+
+http://www.genderkit.org.uk
