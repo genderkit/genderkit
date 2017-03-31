@@ -132,6 +132,20 @@
       padding-left: 0.5em;
       padding-top: 0.5em;
   }
+
+  div.warning {
+    background-color: black;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1em;
+    color: white;
+  }
+
+  div.warning > div:before {
+    content: "⚠ Warning";
+    color: #ff2222;
+    font-size: 150%;
+  }
   </style>
 </head<>
 <body>
@@ -158,7 +172,9 @@
               <div class="definition">Medications that temporarily reduce production of testosterone or the body's response to it</div>
 
               <div class="warning">
-                  Some anti-androgens can cause permanent liver damage. Prolonged anti-androgen treatment can cause infertility, erectile dysfunction and genital shrinkage. Taking anti-androgens without also taking another sex hormone (e.g. [oestrogen] or [testosterone]) can cause osteoporosis.
+                  <div>
+                    Some anti-androgens can cause permanent liver damage. Prolonged anti-androgen treatment can cause infertility, erectile dysfunction and genital shrinkage. Taking anti-androgens without also taking another sex hormone (e.g. [oestrogen] or [testosterone]) can cause osteoporosis.
+                  </div>
               </div>
 
               Anti-androgen treatment should be supervised by a medical professional. If this is not possible, you should carry out regular blood tests to avoid dangerous health complications.
