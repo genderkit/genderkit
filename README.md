@@ -1,3 +1,7 @@
+# What
+
+A website for people in the UK who want to change gendered aspects of themselves.
+
 # Where
 
 - http://www.genderkit.org.uk
