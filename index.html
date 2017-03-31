@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html class="height100">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Gender Construction Kit</title>
+  <link rel="stylesheet" href="css.css">
+  <link href="//overpass-30e2.kxcdn.com/overpass.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.materialdesignicons.com/1.7.22/css/materialdesignicons.min.css" media="all" type="text/css" />
+  <style>
+  #logo
+  {
+    margin-bottom: 50px;
+  }
+  #halftone
+  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-bottom: -220px;
+    margin-top: -300px;
+  }
+
+  .optionsList-optionTitle
+  {
+    color: white;
+    border-bottom: 2px solid #98f;
+  }
+
+  .black-on-white .se-content
+  {
+    color: black;
+  }
+
+  .slope
+  {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  h3
+  {
+    font-size: 32px;
+    color: white;
+  }
+
+  .person IMG
+  {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+
+  .person
+  {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left;
+  }
+
+  .person A
+  {
+    color: #80f;
+  }
+
+  .people
+  {
+    display: flex;
+    flex-direction: row;
+  }
+
+  </style>
+  <script src="svg.js"></script>
+  <script>
+    function render()
+    {
+      var size = 500;
+      var grid = 50;
+      var gridspace = size/grid;
+      var dotsize = grid/2;
+      var density = 2.2;
+
+      var draw = SVG('halftone').size(size, size);
+      var container = draw.group();
+      container.rotate(15).translate(size/2, size/2);
+      for (var i = 0; i < grid; i++)
+      { 
+        for (var j = 0; j < grid; j++)
+        {
+          // get distance from center
+          var distance = Math.sqrt(Math.abs(i - grid/2)*Math.abs(i - grid/2) + Math.abs(j - grid/2)*Math.abs(j - grid/2)); 
+          var size = Math.max(0, gridspace*density*((grid/2)-distance)/grid);
+          var rect = draw.circle(size).attr({ fill: '#60c' }).move(((i - grid/2) * gridspace) - size/2, ((j - grid/2) * gridspace) - size/2);
+          container.add(rect);
+        }
+      }
+    }
+  </script>
+</head>
+<body class="white-on-black height100" onload="render();">
+<div class="se-container" style="margin-left:auto; margin-right: auto; padding-top: 50px">
+  <div id="halftone"></div>
+   <img id="logo" src="logo.svg" width="250px" />
+
+  <div class="graphic">
+
+<div id="nicknames" class="optionsList tabular">
+  <div class="optionsList-option">
+    <span class="optionsList-optionTitle">My identity</span>
+    <span class="tableRow"><span class="left">Names and nicknames</span></span>
+    <span class="tableRow"><span class="left">Terms of address</span></span>
+    <span class="tableRow"><span class="left">Legal and official</span></span>
+    <span class="tableRow"><span class="left">Public/online identity</span></span>
+    <span class="tableRow"><span class="left">Self-expression</span></span>
+  </div>
+  <div class="optionsList-option">
+    <span class="optionsList-optionTitle">My style</span>
+    <span class="tableRow"><span class="left">Hair and beards</span></span>
+    <span class="tableRow"><span class="left">Grooming and makeup</span></span>
+    <span class="tableRow"><span class="left">Clothes and shoes</span></span>
+    <span class="tableRow"><span class="left">Fragrances</span></span>
+    <span class="tableRow"><span class="left">Accessories and jewelry</span></span>
+  </div>
+  <div class="optionsList-option">
+    <span class="optionsList-optionTitle">My life</span>
+    <span class="tableRow"><span class="left">Gendered spaces</span></span>
+    <span class="tableRow"><span class="left">Hobbies and activities</span></span>
+    <span class="tableRow"><span class="left">Faith and religion</span></span>
+    <span class="tableRow"><span class="left">Relationships and sex</span></span>
+    <span class="tableRow"><span class="left">Supporting other people</span></span>
+    <span class="tableRow"><span class="left">How others treat you</span></span>
+  </div>
+  <div class="optionsList-option">
+    <span class="optionsList-optionTitle">My body</span>
+    <span class="tableRow"><span class="left">Face</span></span>
+    <span class="tableRow"><span class="left">Voice</span></span>
+    <span class="tableRow"><span class="left">Chest</span></span>
+    <span class="tableRow"><span class="left">Body shape</span></span>
+    <span class="tableRow"><span class="left">Crotch</span></span>
+    <span class="tableRow"><span class="left">Reproduction</span></span>
+    <span class="tableRow"><span class="left">Body hair</span></span>
+  </div>
+</div>
+
+<div class="slope black-on-white">
+  <div class="se-content">
+    <div class="graphic">
+      <div class="people">
+      <div class="person">
+        <img src="https://t4.ftcdn.net/jpg/00/67/90/29/240_F_67902901_Yapt0XPbF6yyCd7RusWFS78nrUv8WcEv.jpg" />
+        This is a description of this person for purposes of the mockup<br />
+        <a href="#">Read more...</a>
+      </div>
+      <div class="person">
+        <img src="http://ww2.hdnux.com/photos/07/03/64/1850625/3/628x471.jpg" />
+        This is a description of this person for purposes of the mockup<br />
+        <a href="#">Read more...</a>
+      </div>
+      <div class="person">
+        <img src="http://2.bp.blogspot.com/-x49X0S-hqgw/VEcDhDYneiI/AAAAAAABDgc/utitSCaNE-Y/s1600/joy%2Bpix2.jpg" />
+        This is a description of this person for purposes of the mockup<br />
+        <a href="#">Read more...</a>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+<h3>Social media</h3>
+<i class="mdi mdi-facebook-box mdi-48px"></i>&nbsp;<i class="mdi mdi-twitter-box mdi-48px"></i>
+</div>
+
+</div>
+</body>
+</html>
