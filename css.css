@@ -99,7 +99,7 @@ header,
   width: 10rem;
 }
 .diagonal-slope {
-  background: url("/gck/halftoneheader.png");
+  background: url("/images/halftoneheader.png");
   border: none;
   padding: 0;
   margin: 0;
@@ -138,7 +138,7 @@ header,
   border-top: none;
 }
 .halftone {
-  background-image: url("/gck/dimhalftones.png");
+  background-image: url("/images/dimhalftones.png");
   background-repeat: no-repeat;
   background-size: 768px;
   background-position: center -300px;
