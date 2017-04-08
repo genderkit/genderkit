@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width">
+	<title>Test page</title>
+  <link href="//overpass-30e2.kxcdn.com/overpass.css" rel="stylesheet" />
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Source+Sans+Pro:400">
+  <link rel="stylesheet" href="css.css" />
+  <style>
+  	.activity
+  	{
+  		display: flex;
+  		flex-direction: column;
+  	}
+  	.activityphoto
+  	{
+  		flex-shrink: 0;
+  		flex-grow: 0;
+  		height: 150px;
+  		background: #f0f0f0;
+  		margin-bottom: 1em;
+  	}
+  	.bigphoto
+  	{
+  		height: 150px;
+  		width: 100%;
+  		background: #f0f0f0;
+  		margin-bottom: 1em;
+  	}
+
+  	.activitydescription
+  	{
+  		margin-bottom: 2em;
+  	}
+
+  	.activitydescription h4
+  	{
+  		margin-top: 0;
+  		margin-bottom: 0;
+  		padding-top: 0;
+  	}
+
+  	.activitydescription p
+  	{
+  		margin-top: 0;
+  		margin-bottom: 0;
+  	}
+
+  	.morelinks
+  	{
+  		margin-top: 0.25em;
+  	}
+
+  	@media (min-width: 600px) {
+  		.activity
+	  	{
+	  		display: flex;
+	  		flex-direction: row;
+	  	}
+	  	.activityphoto
+	  	{
+  			margin-right: 1em;
+  			width: 200px;
+  			height: 150px;
+  			max-height: 150px;
+	  	}
+  	}
+  </style>
+  	<script src="js-yaml.js"></script>
+  	<script src="markdown.js"></script>
+	<script
+	    src="https://code.jquery.com/jquery-3.1.1.min.js"
+	    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+	    crossorigin="anonymous"></script>
+<script>
+
+var gender = {};
+
+function processText(input)
+{
+		// Replace anything in []s with a link to that page
+		var re = /\[\[([\w\s]+)\]\]/g;
+		var filtered = input.replace(re, "<a href='./aspects.html?name=\"$1\")'>$1</a>");
+		return markdown.toHTML(filtered);
+}
+
+function draw()
+{
+	var queryname = "Hair density"
+	var urlParams = new URLSearchParams(window.location.search);
+	if (urlParams.has('name'))
+	{
+		queryname = urlParams.get('name');
+	}
+	 
+	// find the right aspect
+	if (gender.aspects.filter(function (a) { return a.name == queryname}).length > 0)
+	{
+		var aspect = gender.aspects.filter(function (a) { return a.name == queryname})[0];
+
+		$('#title').html(aspect.name);
+
+		for (var i = 0; i < gender.activities.length; i++)
+		{
+			if (gender.activities[i].effects)
+			{
+				for (var j = 0; j < gender.activities[i].effects.length; j++)
+				{
+					if (gender.activities[i].effects[j].effect == aspect.name)
+					{
+						var image = "";
+						if (gender.activities[i].image)
+						{
+							image = "src='photos/" + gender.activities[i].image + "'";
+						}
+
+						$('#description').append($("<div class='activity smallcontent'><img class='activityphoto' " + image + " ></img><div class='activitydescription'><h4>" + gender.activities[i].name + "</h4><p>" + gender.activities[i].effects[j].description + "</p><div class='morelinks'><a href='./aspects.html?name=" + gender.activities[i].name + "'>More information</a></div></div></div>"));
+					}
+				}			
+			}
+		}
+	}
+	else if (gender.activities.filter(function (a) { return a.name == queryname}).length > 0)
+	{
+		var activity = gender.activities.filter(function (a) { return a.name == queryname})[0];
+
+		$('#title').html(activity.name);
+		$('#description').html(processText(activity.summary));
+		$('#description').append("<img class='bigphoto smallcontent'></img>");
+		if (activity.effects)
+		{
+			for (var j = 0; j < activity.effects.length; j++)
+			{
+				$('#description').append($("<p>" + activity.effects[j].description + "</p>"));
+			}			
+		}
+	}
+	else
+	{
+		console.log("Unknown aspect/activity name");
+	}
+}
+
+function init()
+{
+	$('#results').hide();
+	$.get("./gender.yaml", function (data)
+	{
+		file = data;
+		gender = jsyaml.load(file);
+		draw();	
+	});
+}
+</script>
+</head>
+<body onload="init();">
+	<section class="se-container">
+	  <div class="head-slope"></div>
+	  <div class="headercontainer">
+	  <h1>
+	    <a href="http://www.genderkit.org.uk"><img src="logostraight.svg" width=150></img></a>
+	  </h1>
+	  </div>
+	  <h3 id="title">Title</h3>
+	<div id="description">
+	</div>	
+	</section>
+</body>
+</html>
