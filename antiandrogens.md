@@ -5,15 +5,15 @@ aka: [Goserelin, Zoladex, Triptorelin, Decapeptyl, Leuprorelin, Spironolactone, 
 summary: "Medications that temporarily reduce production of testosterone or the body's response to it"
 categories: [ Hair, Skin, Medical, Permanent ]
 effects:
-  "Fertility": "Long term use of antiandrogens may cause temporary or permanent loss of fertility (but is not suitable for use as a contraceptive)."
+  "Body hair": "Antiandrogens cause a reduction in or supression of testosterone, which can cause a mild reduction in density and thickness of body hair."
+  "Body shape": "Antiandrogens cause a reduction in or supression of testosterone, which causes significant loss of strength and muscle volume."
+  "Fertility": "Antiandrogens may cause temporary or permanent loss of fertility after long term use (but are not suitable for use as a contraceptive)."
   "Crotch shape": "Antiandrogens may cause shrinkage of the genitalia, particularly the testes (testicles)."
   "Arousal": "Antiandrogens may cause a reduction in spontaneous erections or inability to reach or maintain erection. Antiandrogens may also cause a reduction in the volume of semen produced at orgasm."
   "Skin": "Antiandrogens cause a reduction in or supression of testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
-  "Body hair": "Antiandrogens cause a reduction in or supression of testosterone, which can cause a mild reduction in density and thickness of body hair."
-  "Body shape": "Antiandrogens cause a reduction in or supression of testosterone, which causes significant loss of strength and muscle volume."
-duration: "Days to months. Prolonged use may have some effects that are permanent and cannot be reversed."
+duration: "The effects of antiandrogens will last from days to months, depending on the type of medication used. Prolonged use may have some effects that are permanent and cannot be reversed."
 feature:
-  image: /assets/images/antiandrogens.jpg
+  image: /assets/photos/antiandrogens.jpg
   caption: "A pill bottle of spironolactone, a commonly used antiandrogen"
 ---
 
