@@ -10,6 +10,13 @@
       {{ page.title }}
     </h2>
     <div class="content">
+      {% if page.feature %}
+        <img src="{{ page.feature.image | absolute_url }}" />
+      {% endif %}
+      {% for item in page.effects %}
+        <p>{{ item[1] }}</p>
+      {% endfor %}
+
       {{ content }}
     </div>
   </div>
