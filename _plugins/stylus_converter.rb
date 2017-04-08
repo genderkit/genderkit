@@ -38,7 +38,7 @@ module Jekyll
     def convert(content)
       begin
         setup
-        Stylus.compile content opts
+        Stylus.compile content
       rescue => e
         puts "Stylus Exception: #{e.message}"
       end

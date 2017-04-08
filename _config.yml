@@ -15,6 +15,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - "old/*"
 
 stylus:
   compress: true
