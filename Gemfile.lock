@@ -4,6 +4,7 @@ GEM
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
+    execjs (2.7.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
     jekyll (3.4.3)
@@ -40,6 +41,10 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
+    stylus (1.0.2)
+      execjs
+      stylus-source
+    stylus-source (0.54.5)
 
 PLATFORMS
   ruby
@@ -48,6 +53,7 @@ DEPENDENCIES
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  stylus
   tzinfo-data
 
 RUBY VERSION
