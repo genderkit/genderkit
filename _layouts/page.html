@@ -12,7 +12,10 @@
     <div class="sidebarcontainer">
       <div class="content">
         {% if page.feature %}
-          <img src="{{ page.feature.image | absolute_url }}" />
+          <figure>
+            <img src="{{ page.feature.image | absolute_url }}" alt="{{ page.feature.caption }}" />
+            <figcaption>{{ page.feature.caption }}</figcaption>
+          </figure>
         {% endif %}
         {% for item in page.effects %}
           <p>{{ item[1] }}</p>

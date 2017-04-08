@@ -70,6 +70,21 @@ h2
 h3
 	font-weight bold
 	font-size 100%
+figure
+	margin $standard-padding 0
+	img
+		margin auto
+		display block
+		@media screen and (max-width: $page-twowide)
+			width $container-onewide
+			max-width $container-onewide
+		@media screen and (min-width: $page-twowide)
+			width $container-twowide
+			max-width $container-twowide
+figcaption
+	text-align: center;
+	margin-top: $standard-padding;
+	margin-bottom: $standard-padding * 2;
 
 // A wrapper around the page that centers the content
 // and sets the width of the content
