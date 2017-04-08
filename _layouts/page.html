@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <div class="pagecontainer">
+    <header id="headercontainer">
+      <h1><a href="{{site.url}}"><img src="{{ site.url }}/assets/images/logostraight.svg"  width="150"/></a></h1>
+    </header>
+    <nav class="sidebar">
+      <h4>Categories</h4>
+      <ul id="tags">
+        {% for cat in page.categories %}
+        <li class="tag"><a href="{{site.url}}/categories/{{cat | slugify}}">{{ cat }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <section class="se-container">
+      {{ content }}
+    </section>
+    </div>
+    {% include footer.html %}
+  </div>
+</body>
+</html>
