@@ -4,23 +4,25 @@
   {% include head.html %}
 </head>
 <body class="dark halftone">
-  <div class="wrapper" id="frontpage" style="padding-bottom: 4rem;">
-    <div id="logobox">
-      <img src="{{ site.url }}/assets/images/logostraight.svg" id="logo"/>
+  <div class="wrapper" id="frontpage">
+    <div id="frontpage-logo-and-title">
+      <div id="logobox">
+        <img src="{{ site.url }}/assets/images/logostraight.svg" id="logo"/>
+      </div>
+      <h3>
+        {{ page.description }}
+      </h3>
     </div>
-    <h3>
-      {{ page.description }}
-    </h3>
-  </div>
-  <div class="gridcontainer">
-    {% include home_navgrid.html %}
-    <div class="griditem widegriditem">
-      <h3>Featured gender constructors</h3>
-      <ul style="flex-direction: row;">
-        {% for person in site.data.people limit:3 %}
-        <li><a href="{{person.url}}"><img src="{{person.image}}" width="80" height="80" style="display:inline-block"/></a></li>
-        {% endfor %}
-      </ul>
+    <div class="gridcontainer">
+      {% include home_navgrid.html %}
+      <div class="griditem widegriditem">
+        <h3>Featured gender constructors</h3>
+        <ul style="flex-direction: row;">
+          {% for person in site.data.people limit:3 %}
+          <li><a href="{{person.url}}"><img src="{{person.image}}" width="80" height="80" style="display:inline-block"/></a></li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 </body>
