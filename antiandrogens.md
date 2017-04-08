@@ -13,7 +13,7 @@ effects:
   "Skin": "Antiandrogens cause a reduction in or supression of testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
 duration: "The effects of antiandrogens will last from days to months, depending on the type of medication used. Prolonged use may have some effects that are permanent and cannot be reversed."
 feature:
-  image: /assets/photos/antiandrogens.jpg
+  image: /assets/images/articles/antiandrogens.jpg
   caption: "A pill bottle of spironolactone, a commonly used antiandrogen"
 ---
 
@@ -34,6 +34,6 @@ Several different types of drug are used as anti-androgens:
 
 - Cyproterone acetate (Androcur) is a drug that reduces the amount that the body reacts to testosterone.
 
-Anti-androgen treatment is available to people with a [formal diagnosis]({% link formal-diagnosis.md %})  of gender dysphoria for free on the NHS.
+Anti-androgen treatment is available to people with a [formal diagnosis]({% link formal-diagnosis.md %}) of gender dysphoria for free on the NHS.
 
 TODO: list sources for this information
