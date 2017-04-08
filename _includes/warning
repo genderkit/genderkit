@@ -1,5 +1,3 @@
----
----
 <div class="warning">
   <div class="header">⚠ Warning</div>
   <div>{{ include.warning | markdownify }}</div>
