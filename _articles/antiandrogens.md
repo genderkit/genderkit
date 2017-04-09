@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Anti-androgens
 categories: [ Hair, Skin, Medical, Permanent ]
 feature:

@@ -28,6 +28,7 @@ defaults:
       path: ""
       type: articles
     values:
+      layout: page
       weighting: 999
       permalink: /:collection/:name/
   - scope:
