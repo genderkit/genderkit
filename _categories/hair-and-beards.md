@@ -1,5 +1,5 @@
 ---
-category: Hair and beards
+index-for: Hair and beards
 title: 'Hair and beards'
 ---
 

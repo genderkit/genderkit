@@ -1,40 +1,55 @@
 ---
 layout: page
 ---
+
 {% capture wherecond %}
-item.categories contains "{{ page.category }}"
+item.categories contains "{{ page.index-for }}"
 {% endcapture %}
+
+{% assign catsUnsorted = site.categories | where_exp:"item", wherecond %}
+{% assign numCats = catsUnsorted | size %}
+{% if numCats > 0 %}
+  {% assign cats = catsUnsorted | sort %}
+  <p>The category "{{ page.index-for }}" has {{ numCats }} {% if numCats > 1 %}subcategories{% else %}subcategory{% endif %}</p>
+  <ul>
+    {% for c in cats %}
+      <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
 {% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %} 
 {% assign numArticles = articlesUnsorted | size %}
 {% if numArticles > 0 %}
-{% assign articles = articlesUnsorted | sort:"weighting" %}
-<p>
-    There {% if numArticles > 1 %}are {{numArticles}} articles {% else %}is 1 article{% endif %}
-    in the category "{{ page.category }}"
-</p>
-<ul class="details">
+  {% assign articles = articlesUnsorted | sort:"weighting" %}
+  <p>
+      There {% if numArticles > 1 %}are {{numArticles}} articles {% else %}is 1 article{% endif %}
+      in the category "{{ page.index-for }}"
+  </p>
+  <ul class="details">
     {% for p in articles %}
     <li>
-        {% if p.feature %}
-            <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
-        {% endif %}
-        <div>
-            <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-            {% assign slug = p.title | slugify %}
-            {% assign info = site.data.articles[slug] %}
-            {% if info.effects %}
-                {% for item in info.effects %}
-                    {% assign effect = item[0] %}
-                    {% if site.data.ontology[effect] == page.category %}
-                        <p>{{ item[1] }}</p>
-                    {% endif %}
-                {% endfor %}
+      {% if p.feature %}
+        <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+      {% endif %}
+      <div>
+        <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+        {% assign slug = p.title | slugify %}
+        {% assign info = site.data.articles[slug] %}
+        {% if info.effects %}
+          {% for item in info.effects %}
+            {% assign effect = item[0] %}
+            {% if site.data.ontology[effect] == page.category %}
+                <p>{{ item[1] }}</p>
             {% endif %}
-        </div>
+          {% endfor %}
+        {% endif %}
+      </div>
     </li>
     {% endfor %}
-</ul>
+  </ul>
 {% else %}
-<p>There are no articles in the category "{{ page.category }}"</p>
+  <p>There are no articles in the category "{{ page.category }}"</p>
 {% endif %}
 

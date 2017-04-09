@@ -1,4 +1,4 @@
 ---
-category: Medical
+index-for: Medical
 title: "Category: Medical"
 ---
