@@ -20,6 +20,8 @@ exclude:
 collections:
   articles:
     output: true
+  categories:
+    output: true
 
 defaults:
   - scope:
@@ -27,6 +29,13 @@ defaults:
       type: articles
     values:
       weighting: 999
+      permalink: /:collection/:name/
+  - scope:
+      path: ""
+      type: categories
+    values:
+      layout: category
+      permalink: /category/:name/
 
 stylus:
   compress: true

@@ -1,0 +1,30 @@
+---
+layout: page
+---
+{% capture wherecond %}
+item.categories contains "{{ page.category }}"
+{% endcapture %}
+{% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %} 
+{% assign numArticles = articlesUnsorted | size %}
+{% if numArticles > 0 %}
+{% assign articles = articlesUnsorted | sort:"weighting" %}
+<p>
+    There {% if numArticles > 1 %}are {{numArticles}} articles {% else %}is 1 article{% endif %}
+    in the category "{{ page.category }}"
+</p>
+<ul>
+    {% for p in articles %}
+    <li>
+        <h4><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h4>
+        {% assign slug = page.title | slugify %}
+        {% assign info = site.data.articles[slug] %}
+        {% if info.effects[page.category] %}
+        <p>{{ info.effects[page.category] }}</p>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>There are no articles in the category "{{ page.category }}"</p>
+{% endif %}
+
