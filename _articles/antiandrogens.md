@@ -10,7 +10,7 @@ feature:
 Some anti-androgens can cause permanent liver damage.  Prolonged anti-androgen
 treatment can cause infertility, erectile dysfunction and genital shrinkage.
 Taking anti-androgens without also taking another sex hormone (e.g.
-[oestrogen]({% link _articles/oestrogen.md %}) or [testosterone]({% link _articles/testosterone.md %})
+[oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})
 can cause osteoporosis.
 {% endcapture %}
 {% include warning warning=warn %}
