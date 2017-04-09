@@ -9,22 +9,22 @@
     <h2>
       {{ page.title }}
     </h2>
+    <div class="content">
+      {% if page.feature %}
+        <figure>
+          <img src="{{ page.feature.image | absolute_url }}" alt="{{ page.feature.caption }}" />
+          <figcaption>{{ page.feature.caption }}</figcaption>
+        </figure>
+      {% endif %}
+      {% for item in page.effects %}
+        <p>{{ item[1] }}</p>
+      {% endfor %}
+      {% if page.duration %}
+        <p>{{ page.duration }}</p>
+      {% endif %}
+      {{ content }}
+    </div>
     <div class="sidebarcontainer">
-      <div class="content">
-        {% if page.feature %}
-          <figure>
-            <img src="{{ page.feature.image | absolute_url }}" alt="{{ page.feature.caption }}" />
-            <figcaption>{{ page.feature.caption }}</figcaption>
-          </figure>
-        {% endif %}
-        {% for item in page.effects %}
-          <p>{{ item[1] }}</p>
-        {% endfor %}
-        {% if page.duration %}
-          <p>{{ page.duration }}</p>
-        {% endif %}
-        {{ content }}
-      </div>
       <nav class="sidebar">
         <h3>See also</h3>
         <ul>
