@@ -1,5 +1,5 @@
 ---
-category: Hair
-title: 'Category: Hair'
+category: Hair and beards
+title: 'Hair and beards'
 ---
 

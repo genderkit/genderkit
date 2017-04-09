@@ -24,7 +24,10 @@ item.categories contains "{{ page.category }}"
             {% assign info = site.data.articles[slug] %}
             {% if info.effects %}
                 {% for item in info.effects %}
-                  <p>{{ item[1] }}</p>
+                    {% assign effect = item[0] %}
+                    {% if site.data.ontology[effect] == page.category %}
+                        <p>{{ item[1] }}</p>
+                    {% endif %}
                 {% endfor %}
             {% endif %}
         </div>

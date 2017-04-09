@@ -1,6 +1,6 @@
 ---
 title: Anti-androgens
-categories: [ Hair, Skin, Medical, Permanent ]
+categories: [ "Hair and beards", Skin, Medical, Permanent ]
 feature:
   image: /assets/images/articles/anti-androgens.jpg
   caption: "A pill bottle of spironolactone, a commonly used antiandrogen"

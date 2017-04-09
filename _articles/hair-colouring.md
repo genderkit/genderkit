@@ -1,6 +1,6 @@
 ---
 title: Hair colouring
-categories: [ Hair ]
+categories: [ Hair and beards ]
 feature:
   image: "/assets/images/articles/hair-colouring.jpg"
   caption: "Two different brands of hair colouring product"

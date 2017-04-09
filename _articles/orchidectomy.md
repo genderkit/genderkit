@@ -1,6 +1,6 @@
 ---
 title: Orchidectomy
-categories: [ Hair ]
+categories: [ Surgery ]
 feature:
   image: /assets/images/articles/tweezing.jpg
   caption: "TODO"
