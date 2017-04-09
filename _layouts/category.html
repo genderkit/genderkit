@@ -12,15 +12,22 @@ item.categories contains "{{ page.category }}"
     There {% if numArticles > 1 %}are {{numArticles}} articles {% else %}is 1 article{% endif %}
     in the category "{{ page.category }}"
 </p>
-<ul>
+<ul class="details">
     {% for p in articles %}
     <li>
-        <h4><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h4>
-        {% assign slug = page.title | slugify %}
-        {% assign info = site.data.articles[slug] %}
-        {% if info.effects[page.category] %}
-        <p>{{ info.effects[page.category] }}</p>
+        {% if p.feature %}
+            <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
         {% endif %}
+        <div>
+            <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+            {% assign slug = p.title | slugify %}
+            {% assign info = site.data.articles[slug] %}
+            {% if info.effects %}
+                {% for item in info.effects %}
+                  <p>{{ item[1] }}</p>
+                {% endfor %}
+            {% endif %}
+        </div>
     </li>
     {% endfor %}
 </ul>

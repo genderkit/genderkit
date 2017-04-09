@@ -11,17 +11,22 @@
     </h2>
     <div class="sidebarcontainer">
       <div class="content">
+        {% assign slug = page.title | slugify %}
+        {% assign info = site.data.articles[slug] %}
+        {% if info.summary %}
+        <h3>{{ info.summary }}</h3>
+        {% endif %}
         {% if page.feature %}
           <figure>
             <img src="{{ page.feature.image | absolute_url }}" alt="{{ page.feature.caption }}" />
             <figcaption>{{ page.feature.caption }}</figcaption>
           </figure>
         {% endif %}
-        {% for item in page.effects %}
+        {% for item in info.effects %}
           <p>{{ item[1] }}</p>
         {% endfor %}
-        {% if page.duration %}
-          <p>{{ page.duration }}</p>
+        {% if info.duration %}
+          <p>{{ info.duration }}</p>
         {% endif %}
         {{ content }}
       </div>
