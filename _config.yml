@@ -17,5 +17,16 @@ exclude:
   - Gemfile.lock
   - "old/*"
 
+collections:
+  articles:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      weighting: 999
+
 stylus:
   compress: true

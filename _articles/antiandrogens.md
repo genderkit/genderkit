@@ -11,7 +11,7 @@ feature:
 Some anti-androgens can cause permanent liver damage.  Prolonged anti-androgen
 treatment can cause infertility, erectile dysfunction and genital shrinkage.
 Taking anti-androgens without also taking another sex hormone (e.g.
-[oestrogen]({% link oestrogen.md %}) or [testosterone]({% link testosterone.md %})
+[oestrogen]({% link _articles/oestrogen.md %}) or [testosterone]({% link _articles/testosterone.md %})
 can cause osteoporosis.
 {% endcapture %}
 {% include warning warning=warn %}
@@ -24,6 +24,6 @@ Several different types of drug are used as anti-androgens:
 
 - Cyproterone acetate (Androcur) is a drug that reduces the amount that the body reacts to testosterone.
 
-Anti-androgen treatment is available to people with a [formal diagnosis]({% link formal-diagnosis.md %}) of gender dysphoria for free on the NHS.
+Anti-androgen treatment is available to people with a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) of gender dysphoria for free on the NHS.
 
 TODO: list sources for this information
