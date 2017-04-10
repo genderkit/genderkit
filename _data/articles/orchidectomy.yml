@@ -1,10 +1,22 @@
 aka: [Orchiectomy, Orchi]
 summary: Surgical removal of the testes (testicles) usually causing permanent reduction in testosterone levels
 effects:
-  "Fertility": "Orchidectomy causes complete sterility and infertility - it becomes impossible to make someone pregnant."
-  "Crotch shape": "Orchiectomy can make it easier to perform [tucking] and changes the shape of your crotch."
-  "Hormones": "Orchidectomy removes the need to take antiandrogen medications to lower testosterone."
-  "Skin": "Orchidectomy causes a reduction in testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
-  "Body hair density": "Orchidectomy causes a reduction in testosterone, which can cause a mild reduction in density and thickness of body hair."
-  "Body shape": "Orchidectomy causes a reduction in testosterone, which causes significant loss of strength and muscle volume."
+  -
+    category: "Fertility"
+    detail: "Orchidectomy causes complete sterility and infertility - it becomes impossible to make someone pregnant."
+  -
+    category: "Crotch shape"
+    detail: "Orchiectomy can make it easier to perform [tucking] and changes the shape of your crotch."
+  -
+    category: "Hormones"
+    detail: "Orchidectomy removes the need to take antiandrogen medications to lower testosterone."
+  -
+    category: "Skin"
+    detail: "Orchidectomy causes a reduction in testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
+  -
+    category: "Body hair density"
+    detail: "Orchidectomy causes a reduction in testosterone, which can cause a mild reduction in density and thickness of body hair."
+  -
+    category: "Body shape"
+    detail: "Orchidectomy causes a reduction in testosterone, which causes significant loss of strength and muscle volume."
 duration: "The effects are permanent and cannot be reversed."

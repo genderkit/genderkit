@@ -1,21 +1,132 @@
-"Hair location": "Hair and beards"
-"Hair length": "Hair and beards"
-"Hair style": "Hair and beards"
-"Hair straightness": "Hair and beards"
-"Hair colour": "Hair and beards"
-"Beard": "Hair and beards"
-"Hairline": "Hair and beards"
-"Vocal pitch": "Voice"
-"Vocal resonance": "Voice"
-"Vocal volume": "Voice"
-"Prosody": "Voice"
-"Crotch shape": "Crotch"
-"Arousal": "Crotch"
-"Chest shape": "Chest"
-"Height": "Body shape"
-"Waist and hips": "Body shape"
-"Muscles": "Body shape"
-"Menstruation": "Reproduction"
-"Fertility": "Reproduction"
-"Body hair density": "Body hair"
-"Skin appearance": "Skin"
+"Hair and beards":
+  children:
+    - "Beard"
+    - "Body hair"
+    - "Hair colour"
+    - "Hair length"
+    - "Hair location"
+    - "Hair straightness"
+    - "Hair style"
+    - "Hairline"
+
+"Hair location":
+  parent: "Hair and beards"
+  children: []
+
+"Hair length":
+  parent: "Hair and beards"
+  children: []
+
+"Hair style":
+  parent: "Hair and beards"
+  children: []
+
+"Hair straightness":
+  parent: "Hair and beards"
+  children: []
+
+"Hair colour":
+  parent: "Hair and beards"
+  children: []
+
+"Beard":
+  parent: "Hair and beards"
+  children: []
+
+"Hairline":
+  parent: "Hair and beards"
+  children: []
+
+"Voice":
+  children:
+    - "Prosody"
+    - "Vocal pitch"
+    - "Vocal resonance"
+    - "Vocal volume"
+
+"Vocal pitch":
+  parent: "Voice"
+  children: []
+
+"Vocal resonance":
+  parent: "Voice"
+  children: []
+
+"Vocal volume":
+  parent: "Voice"
+  children: []
+
+"Prosody":
+  parent: "Voice"
+  children: []
+
+"Crotch":
+  children:
+    - "Crotch shape"
+    - "Arousal"
+
+"Crotch shape":
+  parent: "Crotch"
+  children: []
+
+"Arousal":
+  parent: "Crotch"
+  children: []
+
+"Body shape":
+  children:
+    - "Chest"
+    - "Height"
+    - "Muscles"
+    - "Waist and hips"
+  
+"Chest":
+  parent: "Body shape"
+  children:
+    - "Chest shape"
+
+"Chest shape":
+  parent: "Chest"
+  children: []
+
+"Height":
+  parent: "Body shape"
+  children: []
+
+"Waist and hips":
+  parent: "Body shape"
+  children: []
+
+"Muscles":
+  parent: "Body shape"
+  children: []
+
+"Reproduction":
+  children:
+    - "Fertility"
+    - "Menstruation"
+
+"Menstruation":
+  parent: "Reproduction"
+  children: []
+
+"Fertility":
+  parent: "Reproduction"
+  children: []
+
+"Body hair":
+  parent: "Hair and beard"
+  children:
+    - "Body hair density"
+  
+"Body hair density":
+  parent: "Body hair"
+  children: []
+
+"Skin":
+  children:
+    - "Skin appearance"
+
+"Skin appearance":
+  parent: "Skin"
+  children: []
