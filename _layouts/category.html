@@ -6,41 +6,36 @@ layout: page
 item.categories contains "{{ page.index-for }}"
 {% endcapture %}
 
-{% assign catsUnsorted = site.categories | where_exp:"item", wherecond %}
-{% assign numCats = catsUnsorted | size %}
-{% if numCats > 0 %}
-  {% assign cats = catsUnsorted | sort %}
-  <p>The category "{{ page.index-for }}" has {{ numCats }} {% if numCats > 1 %}subcategories{% else %}subcategory{% endif %}</p>
-  <ul>
-    {% for c in cats %}
-      <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endif %}
-
-
 {% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %} 
 {% assign numArticles = articlesUnsorted | size %}
 {% if numArticles > 0 %}
   {% assign articles = articlesUnsorted | sort:"weighting" %}
-  <p>
-      There {% if numArticles > 1 %}are {{numArticles}} articles {% else %}is 1 article{% endif %}
-      in the category "{{ page.index-for }}"
-  </p>
   <ul class="details">
     {% for p in articles %}
-    <li>
+      {% assign slug = p.title | slugify %}
+      {% assign info = site.data.articles[slug] %}
+      {% assign cssclasses = "" %}
+      {% if info.effects %}
+        {% for item in info.effects %}
+          {% assign cssclass = "category " | append: item[0] | slugify %}
+          {% assign effect = item[0] %}
+          {% if site.data.ontology[effect] == page.index-for %}
+            {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
       {% if p.feature %}
-        <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+        <a href="{{ p.url | relative_url }}">
+          <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+        </a>
       {% endif %}
       <div>
         <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-        {% assign slug = p.title | slugify %}
-        {% assign info = site.data.articles[slug] %}
         {% if info.effects %}
           {% for item in info.effects %}
             {% assign effect = item[0] %}
-            {% if site.data.ontology[effect] == page.category %}
+            {% if site.data.ontology[effect] == page.index-for %}
                 <p>{{ item[1] }}</p>
             {% endif %}
           {% endfor %}
@@ -50,6 +45,5 @@ item.categories contains "{{ page.index-for }}"
     {% endfor %}
   </ul>
 {% else %}
-  <p>There are no articles in the category "{{ page.category }}"</p>
+  <p>There are no articles in the category "{{ page.index-for }}"</p>
 {% endif %}
-

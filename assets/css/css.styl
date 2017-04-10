@@ -88,7 +88,7 @@ figcaption
 
 // A wrapper around the page that centers the content
 // and sets the width of the content
-header, .wrapper
+header, .wrapper, footer
 	margin 0 auto 1rem auto
 
 	@media screen and (max-width: $page-twowide)
@@ -228,7 +228,7 @@ header, .wrapper
 .details p, .details ul, .details h3
 	margin 0
 
-.details > li > img
+.details > li > a > img
 	width $column-width
 	height $column-width * 0.75
 	padding 0

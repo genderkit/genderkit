@@ -10,6 +10,19 @@
       {{ page.title }}
     </h2>
     <div class="sidebarcontainer">
+      {% if page.index-for %}
+        <nav class="sidebar">
+          <h3>Categories</h3>
+          <ul>
+            <li><a href="javascript:$('.details li').show();">Show all</a></li>
+            {% for item in site.data.ontology %}
+              {% if item[1] == page.index-for %}
+                <li><a href="javascript:$('.details li').hide();$('.category-{{ item[0] | slugify }}').show();">{{ item[0] }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+      {% endif %}
       <div class="content">
         {% assign slug = page.title | slugify %}
         {% assign info = site.data.articles[slug] %}
@@ -30,14 +43,17 @@
         {% endif %}
         {{ content }}
       </div>
-      <nav class="sidebar">
-        <h3>See also</h3>
-        <ul>
-          {% for cat in page.categories %}
-            <li class="tag"><a href="{{site.url}}{{site.baseurl}}/category/{{cat | slugify}}">{{ cat }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
+      {% unless page.index-for %}
+        <nav class="sidebar">
+          <h3>See also</h3>
+          <ul>
+            {% for cat in page.categories %}
+              {% assign slug = cat | slugify %}
+              <li><a href="{{ '/category/' | append: slug | absolute_url }}">{{ cat }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      {% endunless %}
     </div>
   </div>
   {% include footer.html %}
