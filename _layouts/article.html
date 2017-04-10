@@ -1,0 +1,33 @@
+---
+layout: page
+---
+
+<div class="sidebarcontainer">
+    <div class="content">
+        {% assign slug = page.title | slugify %}
+        {% assign info = site.data.articles[slug] %}
+        {% if info.summary %}
+            <h3>{{ info.summary }}</h3>
+        {% endif %}
+        {% include feature.html %}
+
+        {% for item in info.effects %}
+          <p>{{ item[1] }}</p>
+        {% endfor %}
+        {% if info.duration %}
+          <p>{{ info.duration }}</p>
+        {% endif %}
+
+        {{ content }}
+    </div>
+    <nav class="sidebar">
+    <h3>See also</h3>
+    <ul>
+        {% for cat in page.categories %}
+            {% assign slug = cat | slugify %}
+            <li><a href="{{ '/category/' | append: slug | absolute_url }}">{{ cat }}</a></li>
+        {% endfor %}
+    </ul>
+    </nav>
+
+</div>

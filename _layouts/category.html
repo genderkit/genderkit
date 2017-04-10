@@ -2,48 +2,65 @@
 layout: page
 ---
 
-{% capture wherecond %}
-item.categories contains "{{ page.index-for }}"
-{% endcapture %}
+<div class="sidebarcontainer">
+  <nav class="sidebar">
+    <h3>Categories</h3>
+    <ul>
+      <li><a href="javascript:$('.details li').show();">Show all</a></li>
+      {% for item in site.data.ontology %}
+      {% if item[1] == page.index-for %}
+      <li><a href="javascript:$('.details li').hide();$('.category-{{ item[0] | slugify }}').show();">{{ item[0] }}</a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
 
-{% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %} 
-{% assign numArticles = articlesUnsorted | size %}
-{% if numArticles > 0 %}
+  <div class="content">
+    {% include feature.html %}
+  </div>
+  {% capture wherecond %}
+  item.categories contains "{{ page.index-for }}"
+  {% endcapture %}
+
+  {% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %}
+  {% assign numArticles = articlesUnsorted | size %}
+  {% if numArticles > 0 %}
   {% assign articles = articlesUnsorted | sort:"weighting" %}
   <ul class="details">
     {% for p in articles %}
-      {% assign slug = p.title | slugify %}
-      {% assign info = site.data.articles[slug] %}
-      {% assign cssclasses = "" %}
-      {% if info.effects %}
-        {% for item in info.effects %}
-          {% assign cssclass = "category " | append: item[0] | slugify %}
-          {% assign effect = item[0] %}
-          {% if site.data.ontology[effect] == page.index-for %}
-            {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-          {% endif %}
-        {% endfor %}
-      {% endif %}
+    {% assign slug = p.title | slugify %}
+    {% assign info = site.data.articles[slug] %}
+    {% assign cssclasses = "" %}
+    {% if info.effects %}
+    {% for item in info.effects %}
+    {% assign cssclass = "category " | append: item[0] | slugify %}
+    {% assign effect = item[0] %}
+    {% if site.data.ontology[effect] == page.index-for %}
+    {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+    {% endif %}
+    {% endfor %}
+    {% endif %}
     <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
       {% if p.feature %}
-        <a href="{{ p.url | relative_url }}">
-          <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
-        </a>
+      <a href="{{ p.url | relative_url }}">
+        <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+      </a>
       {% endif %}
       <div>
         <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
         {% if info.effects %}
-          {% for item in info.effects %}
-            {% assign effect = item[0] %}
-            {% if site.data.ontology[effect] == page.index-for %}
-                <p>{{ item[1] }}</p>
-            {% endif %}
-          {% endfor %}
+        {% for item in info.effects %}
+        {% assign effect = item[0] %}
+        {% if site.data.ontology[effect] == page.index-for %}
+        <p>{{ item[1] }}</p>
+        {% endif %}
+        {% endfor %}
         {% endif %}
       </div>
     </li>
     {% endfor %}
   </ul>
-{% else %}
+  {% else %}
   <p>There are no articles in the category "{{ page.index-for }}"</p>
-{% endif %}
+  {% endif %}
+</div>
