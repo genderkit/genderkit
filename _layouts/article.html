@@ -12,7 +12,7 @@ layout: page
         {% include feature.html %}
 
         {% for item in info.effects %}
-          <p>{{ item[1] }}</p>
+          <p>{{ item.details }}</p>
         {% endfor %}
         {% if info.duration %}
           <p>{{ info.duration }}</p>
