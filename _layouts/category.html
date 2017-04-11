@@ -11,6 +11,15 @@ layout: page
       <li><a href="javascript:$('.details li').hide();$('.category-{{ item | slugify }}').show();">{{ item }}</a></li>
       {% endfor %}
     </ul>
+    {% if site.data.categories[page.index-for].seealso %}
+      <h3>See also</h3>
+      <ul>
+        {% for item in site.data.categories[page.index-for].seealso %}
+        {% assign slug = item | slugify %}
+            <li><a href="{{ '/category/' | append: slug | absolute_url }}">{{ item }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </nav>
 
   <div class="content">

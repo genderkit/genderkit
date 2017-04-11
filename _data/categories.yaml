@@ -1,34 +1,14 @@
 "Hair and beards":
   children:
     - "Beard"
-    - "Body hair"
     - "Hair colour"
     - "Hair length"
     - "Hair location"
     - "Hair straightness"
     - "Hair style"
     - "Hairline"
-
-"Hair location":
-  children: []
-
-"Hair length":
-  children: []
-
-"Hair style":
-  children: []
-
-"Hair straightness":
-  children: []
-
-"Hair colour":
-  children: []
-
-"Beard":
-  children: []
-
-"Hairline":
-  children: []
+  seealso:
+    - "Body hair"
 
 "Voice":
   children:
@@ -37,28 +17,10 @@
     - "Vocal resonance"
     - "Vocal volume"
 
-"Vocal pitch":
-  children: []
-
-"Vocal resonance":
-  children: []
-
-"Vocal volume":
-  children: []
-
-"Prosody":
-  children: []
-
 "Crotch":
   children:
     - "Crotch shape"
     - "Arousal"
-
-"Crotch shape":
-  children: []
-
-"Arousal":
-  children: []
 
 "Body shape":
   children:
@@ -71,39 +33,15 @@
   children:
     - "Chest shape"
 
-"Chest shape":
-  children: []
-
-"Height":
-  children: []
-
-"Waist and hips":
-  children: []
-
-"Muscles":
-  children: []
-
 "Reproduction":
   children:
     - "Fertility"
     - "Menstruation"
 
-"Menstruation":
-  children: []
-
-"Fertility":
-  children: []
-
 "Body hair":
   children:
     - "Body hair density"
   
-"Body hair density":
-  children: []
-
 "Skin":
   children:
     - "Skin appearance"
-
-"Skin appearance":
-  children: []
