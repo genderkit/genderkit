@@ -51,9 +51,10 @@ layout: page
           {% endif %}
           <div>
             <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+            <p>{{ site.data.articles[slug].summary }}</p>
             {% for item in effects %}
               {% assign effect = item %}
-              <p>{{ item.detail }}</p>
+              <p><b>{{ item.category }} - </b>{{ item.detail }}</p>
             {% endfor %}
           </div>
         </li>
