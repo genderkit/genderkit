@@ -17,6 +17,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - "old/*"
+  - vendor # Gem install location under travis
+  - scripts
+  - .travis.yml
 
 collections:
   articles:
