@@ -13,7 +13,7 @@ task :test do
       :report_script_embeds => true
     },
     :url_swap => {
-      /^\/genderkit\// => "/"
+      /(genderkit\.github\.io)?\/genderkit\// => "/"
     },
     :internal_domains => [ "genderkit.github.io" ],
   }
