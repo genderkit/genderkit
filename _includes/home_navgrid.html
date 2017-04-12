@@ -1,41 +1,13 @@
+{% for section in site.data.sections %}
 <div class="griditem">
-    <h3>My identity</h3>
-    <ul>
-    <li><a href="#">Names and nicknames</a></li>
-    <li><a href="#">Terms of address</a></li>
-    <li><a href="#">Legal and official</a></li>
-    <li><a href="#">Public and online identity</a></li>
-    </ul>
+  <h3>{{ section }}</h3>
+  <ul>
+  {% for category in site.data.categories %}
+    {% if category[1].section == section %}
+      {% assign categoryslug = category[0] | slugify %}
+      <li><a href="{{ '/category/' | append: categoryslug | absolute_url }}">{{ category[0] }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
 </div>
-<div class="griditem">
-    <h3>My style</h3>
-    <ul>
-    <li><a href="#">Hair and beards</a></li>
-    <li><a href="#">Grooming and makeup</a></li>
-    <li><a href="#">Clothes and shoes</a></li>
-    <li><a href="#">Fragrances</a></li>
-    <li><a href="#">Accessories and jewelry</a></li>
-    </ul>
-</div>
-<div class="griditem">
-    <h3>My life</h3>
-    <ul>
-    <li><a href="#">Gendered spaces</a></li>
-    <li><a href="#">Hobbies and activities</a></li>
-    <li><a href="#">Faith and religion</a></li>
-    <li><a href="#">Relationships and sex</a></li>
-    <li><a href="#">Supporting other people</a></li>
-    </ul>
-</div>
-<div class="griditem">
-    <h3>My body</h3>
-    <ul>
-    <li><a href="#">Face</a></li>
-    <li><a href="#">Voice</a></li>
-    <li><a href="#">Chest</a></li>
-    <li><a href="#">Body hair</a></li>
-    <li><a href="#">Body shape</a></li>
-    <li><a href="#">Crotch</a></li>
-    <li><a href="#">Reproduction</a></li>
-    </ul>
-</div>
+{% endfor %}
