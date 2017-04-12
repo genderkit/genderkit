@@ -1,11 +1,25 @@
 aka: [Goserelin, Zoladex, Triptorelin, Decapeptyl, Leuprorelin, Spironolactone, Cyproterone]
 summary: "Medications that temporarily reduce production of testosterone or the body's response to it"
 effects:
-  "Body hair density": "Antiandrogens cause a reduction in or supression of testosterone, which can cause a mild reduction in density and thickness of body hair."
-  "Muscles": "Antiandrogens cause a reduction in or supression of testosterone, which causes significant loss of strength and muscle volume."
-  "Hairline": "Antiandrogens cause a reduction in or supression of testosterone, which usually causes a cessation of balding and sometimes some hair regrowth."
-  "Fertility": "Antiandrogens may cause temporary or permanent loss of fertility after long term use (but are not suitable for use as a contraceptive)."
-  "Crotch shape": "Antiandrogens may cause shrinkage of the genitalia, particularly the testes (testicles)."
-  "Arousal": "Antiandrogens may cause a reduction in spontaneous erections or inability to reach or maintain erection. Antiandrogens may also cause a reduction in the volume of semen produced at orgasm."
-  "Skin appearance": "Antiandrogens cause a reduction in or supression of testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
+  -
+    category: "Body hair density"
+    detail: "Antiandrogens cause a reduction in or supression of testosterone, which can cause a mild reduction in density and thickness of body hair."
+  -
+    category: "Muscles"
+    detail: "Antiandrogens cause a reduction in or supression of testosterone, which causes significant loss of strength and muscle volume."
+  -
+    category: "Hairline"
+    detail: "Antiandrogens cause a reduction in or supression of testosterone, which usually stops the hairline from receding, causes a cessation of balding and sometimes some hair regrowth."
+  -
+    category: "Fertility"
+    detail: "Antiandrogens may cause temporary or permanent loss of fertility after long term use (but are not suitable for use as a contraceptive)."
+  -
+    category: "Crotch shape"
+    detail: "Antiandrogens may cause shrinkage of the genitalia, particularly the testes (testicles)."
+  -
+    category: "Arousal"
+    detail: "Antiandrogens may cause a reduction in spontaneous erections or inability to reach or maintain erection. Antiandrogens may also cause a reduction in the volume of semen produced at orgasm."
+  -
+    category: "Skin appearance"
+    detail: "Antiandrogens cause a reduction in or supression of testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
 duration: "The effects of antiandrogens will last from days to months, depending on the type of medication used. Prolonged use may have some effects that are permanent and cannot be reversed."

@@ -2,54 +2,66 @@
 layout: page
 ---
 
-{% capture wherecond %}
-item.categories contains "{{ page.index-for }}"
-{% endcapture %}
+<div class="sidebarcontainer">
+  <nav class="sidebar">
+    <h3>Categories</h3>
+    <ul>
+      <li><a href="javascript:$('.details li').show();">Show all</a></li>
+      {% for item in site.data.categories[page.index-for].children %}
+      <li><a href="javascript:$('.details li').hide();$('.category-{{ item | slugify }}').show();">{{ item }}</a></li>
+      {% endfor %}
+    </ul>
+    {% if site.data.categories[page.index-for].seealso %}
+      <h3>See also</h3>
+      <ul>
+        {% for item in site.data.categories[page.index-for].seealso %}
+        {% assign slug = item | slugify %}
+            <li><a href="{{ '/category/' | append: slug | absolute_url }}">{{ item }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </nav>
 
-{% assign catsUnsorted = site.categories | where_exp:"item", wherecond %}
-{% assign numCats = catsUnsorted | size %}
-{% if numCats > 0 %}
-  {% assign cats = catsUnsorted | sort %}
-  <p>The category "{{ page.index-for }}" has {{ numCats }} {% if numCats > 1 %}subcategories{% else %}subcategory{% endif %}</p>
-  <ul>
-    {% for c in cats %}
-      <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endif %}
+  <div class="content">
+    {% include feature.html %}
+  </div>
+
+  {% for p in site.articles %} 
+    {% assign slug = p.title | slugify %}
+    {% assign articledata = site.data.articles[slug] %}
+    
+  {% endfor %}
 
 
-{% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %} 
-{% assign numArticles = articlesUnsorted | size %}
-{% if numArticles > 0 %}
-  {% assign articles = articlesUnsorted | sort:"weighting" %}
-  <p>
-      There {% if numArticles > 1 %}are {{numArticles}} articles {% else %}is 1 article{% endif %}
-      in the category "{{ page.index-for }}"
-  </p>
+  {% assign articles = site.articles | sort:"weighting" %}
   <ul class="details">
     {% for p in articles %}
-    <li>
-      {% if p.feature %}
-        <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+      {% assign slug = p.title | slugify %}
+      {% assign cssclasses = "" %}
+
+      {% assign effects = site.data.articles[slug].effects
+         | where_exp:"item", "site.data.categories[page.index-for].children contains item.category" %}
+      {% if effects.size > 0 %}
+        {% for item in effects %}
+          {% assign cssclass = "category " | append: item.category | slugify %}
+          {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+        {% endfor %}
+        <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
+          {% if p.feature %}
+            <a href="{{ p.url | relative_url }}">
+              <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+            </a>
+          {% endif %}
+          <div>
+            <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+            <p>{{ site.data.articles[slug].summary }}</p>
+            {% for item in effects %}
+              {% assign effect = item %}
+              <p><b>{{ item.category }} - </b>{{ item.detail }}</p>
+            {% endfor %}
+          </div>
+        </li>
       {% endif %}
-      <div>
-        <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-        {% assign slug = p.title | slugify %}
-        {% assign info = site.data.articles[slug] %}
-        {% if info.effects %}
-          {% for item in info.effects %}
-            {% assign effect = item[0] %}
-            {% if site.data.ontology[effect] == page.category %}
-                <p>{{ item[1] }}</p>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      </div>
-    </li>
     {% endfor %}
   </ul>
-{% else %}
-  <p>There are no articles in the category "{{ page.category }}"</p>
-{% endif %}
-
+</div>

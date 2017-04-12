@@ -1,6 +1,4 @@
 ---
-index-for: Body hair 
-categories: [ Hair and beards]
+index-for: Body hair
 title: 'Body hair'
 ---
-

@@ -1,0 +1,79 @@
+---
+layout: page
+---
+<script>
+function selectCategory(category, event)
+{
+  if (category)
+  {
+    $('.details li').hide();
+    $('.category-' + category).show();
+    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
+    $(event.currentTarget).parent().css('font-weight', 'bold');
+  }
+  else
+  {
+    $('.details li').show();
+    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
+  }
+}
+</script>
+<div class="sidebarcontainer">
+  <nav class="sidebar">
+    <h3>Youth Groups</h3>
+    <p>Looking for youth support groups? Find them at the <a href="http://ntyn.genderjam.org.uk/network/">National Trans Youth Network</a>. 
+    </p>
+    <h3>Categories</h3>
+    <ul>
+      <li><a href="#" onclick="javascript:selectCategory(null, event); return true;">Show all</a></li>
+      {% for item in site.data.organisations.tags %}
+      <li><a href="#" onclick="javascript:selectCategory('{{ item | slugify }}', event); return true;">{{ item }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <div class="content">
+    <ul class="details">
+    {% assign sortedOrganisations = site.data.organisations.organisations | sort: 'name' %}
+    {% for item in sortedOrganisations %}
+    {% assign cssclasses = "" %}
+    {% for category in item.tags %}
+          {% assign cssclass = "category " | append: category | slugify %}
+          {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+        {% endfor %}
+      <li class="{{ cssclasses }}">
+        <div>
+        {% assign url = "" %}
+        {% if item.url %}
+        {% assign url = item.url %}
+        {% elsif item.twitter %}
+        {% assign url = "http://www.twitter.com/" | append: item.twitter %}
+        {% elsif item.facebook %}
+        {% assign url = "http://www.facebook.com/" | append: item.facebook %}
+        {% endif %}
+        <h3><a href="{{ url }}">{{ item.name }}</a></h3>
+        <p>
+          {% if item.twitterDescription %}
+            {{ item.twitterDescription }}
+          {% elsif item.facebookDescription %}
+            {{ item.facebookDescription }}
+          {% else %}
+            {{ item.manualDescription }}
+          {% endif %}
+        </p>
+        <ul class="links">
+        {% if item.url %}
+          <li><a href="{{ item.url }}">Website</a></li>
+        {% endif %}
+        {% if item.twitter %}
+          <li><a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a></li>
+        {% endif %}
+        {% if item.facebook %}
+          <li><a href="http://www.facebook.com/{{ item.facebook }}">Facebook</a></li>
+        {% endif %}
+        </ul>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>

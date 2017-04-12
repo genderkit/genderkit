@@ -1,0 +1,172 @@
+"Names and nicknames":
+  children:
+    - "Personal names"
+    - "Nicknames"
+    - "Family names"
+    - "Online handles"
+  section: "My identity"
+
+"Terms of address":
+  children:
+    - "Pronouns"
+    - "Titles"
+    - "Salutations"
+    - "Family terms"
+  section: "My identity"
+
+"Legal and official":
+  children:
+    - "Legal protection"
+    - "Identity documents"
+    - "Pensions"
+    - "Marriage"
+    - "Probate"
+    - "Healthcare"
+  section: "My identity"
+
+"Public and online":
+  children:
+    - "Identity labels"
+    - "Privacy and openness"
+  section: "My identity"
+
+"Hair and beards":
+  children:
+    - "Beard"
+    - "Hair colour"
+    - "Hair length"
+    - "Hair location"
+    - "Hair straightness"
+    - "Hair style"
+    - "Hairline"
+  seealso:
+    - "Body hair"
+  section: "My style"
+
+"Grooming and makeup":
+  children:
+    - "Nail length"
+    - "Nail painting"
+    - "Makeup"
+  seealso:
+    - "Skin"
+  section: "My style"
+
+"Clothes and shoes":
+  children:
+    - "Formal clothes"
+    - "Casual clothes"
+    - "Sports and swimwear"
+    - "Masking and emphasising"
+    - "Subculture"
+    - "Standing out and blending in"
+  section: "My style"
+
+"Fragrance":
+  children:
+    - "Body odour"
+    - "Added fragrance"
+  section: "My style"
+
+"Accessories":
+  children:
+    - "Jewellery"
+    - "Purses and wallets"
+    - "Bags and luggage"
+  seealso:
+    - "Body modification"
+  section: "My style"
+
+"Gendered spaces":
+  children:
+    - "Changing rooms"
+    - "Toilets"
+    - "Swimming pools"
+    - "Formal occasions"
+    - "Employment and education"
+  section: "My life"
+
+"Hobbies and activities":
+  children:
+    - "Sports"
+  section: "My life"
+
+"Faith and religion":
+  children:
+    - "Visiting"
+  section: "My life"
+
+"Relationships and sex":
+  children:
+    - "Existing relationships"
+    - "Attractiveness"
+    - "Ways of having sex"
+    - "Libido"
+  seealso:
+    - "Reproduction"
+    - "Crotch"
+  section: "My life"
+
+"Supporting others":
+  children:
+    - "Mentoring"
+  section: "My life"
+
+"Treatment by others":
+  children:
+    - "Discrimination"
+  section: "My life"
+
+"Voice":
+  children:
+    - "Prosody"
+    - "Vocal pitch"
+    - "Vocal resonance"
+    - "Vocal volume"
+  section: "My body"
+
+"Crotch":
+  children:
+    - "Crotch shape"
+    - "Arousal"
+  seealso:
+    - "Reproduction"
+  section: "My body"
+
+"Body and chest shape":
+  children:
+    - "Chest"
+    - "Height"
+    - "Muscles"
+    - "Waist and hips"
+  seealso:
+    - "Crotch"
+  section: "My body"
+
+"Reproduction":
+  children:
+    - "Fertility"
+    - "Menstruation"
+    - "Breastfeeding"
+  seealso:
+    - "Relationships and sex"
+    - "Crotch"
+  section: "My body"
+
+"Body hair":
+  children:
+    - "Body hair density"
+  seealso:
+    - "Hair and beards"
+  section: "My body"
+
+"Skin":
+  children:
+    - "Skin appearance"
+  section: "My body"
+
+"Body modification":
+  children:
+    - "Tattoos"
+    - "Piercings"
+  section: "My style"

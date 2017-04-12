@@ -32,7 +32,7 @@ defaults:
       path: ""
       type: articles
     values:
-      layout: page
+      layout: article
       weighting: 999
       permalink: /article/:name/
   - scope:

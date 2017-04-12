@@ -88,7 +88,7 @@ figcaption
 
 // A wrapper around the page that centers the content
 // and sets the width of the content
-header, .wrapper
+header, .wrapper, footer
 	margin 0 auto 1rem auto
 
 	@media screen and (max-width: $page-twowide)
@@ -104,6 +104,15 @@ header, .wrapper
 		width $container-fourwide
 		max-width $container-fourwide
 
+footer
+	border-image linear-gradient(to left, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%) 10
+	border-top 4px solid 
+	padding 2rem 0
+	text-align center
+	.links
+		justify-content center 
+		padding-bottom 0.5em
+
 // Site logo
 #logobox
 	background black
@@ -116,6 +125,11 @@ header, .wrapper
 	
 #logo
 	width $column-width - ($standard-padding * 2)
+
+#logo-footer
+	display inline-block
+	margin 0 auto
+	padding-bottom 1rem
 
 // Diagonal top element
 // This is HORRIBLE and hacky but the best way
@@ -216,7 +230,15 @@ header, .wrapper
 
 .details
 	padding 0
-	
+	p
+		-ms-word-break break-all
+		word-break break-all
+		word-break break-word
+		-webkit-hyphens auto
+		-moz-hyphens auto
+		-ms-hyphens auto
+		hyphens auto
+
 .details > li
 	list-style-type none
 	padding 0 0 $standard-padding 0
@@ -228,7 +250,7 @@ header, .wrapper
 .details p, .details ul, .details h3
 	margin 0
 
-.details > li > img
+.details > li > a > img
 	width $column-width
 	height $column-width * 0.75
 	padding 0
