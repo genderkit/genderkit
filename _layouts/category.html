@@ -25,20 +25,23 @@ layout: page
   <div class="content">
     {% include feature.html %}
   </div>
-  {% capture wherecond %}
-  item.categories contains "{{ page.index-for }}"
-  {% endcapture %}
 
-  {% assign articlesUnsorted = site.articles | where_exp:"item", wherecond %}
-  {% assign numArticles = articlesUnsorted | size %}
-  {% if numArticles > 0 %}
-    {% assign articles = articlesUnsorted | sort:"weighting" %}
-    <ul class="details">
-      {% for p in articles %}
-        {% assign slug = p.title | slugify %}
-        {% assign cssclasses = "" %}
-        {% assign effects = site.data.articles[slug].effects
-           | where_exp:"item", "site.data.categories[page.index-for].children contains item.category" %}
+  {% for p in site.articles %} 
+    {% assign slug = p.title | slugify %}
+    {% assign articledata = site.data.articles[slug] %}
+    
+  {% endfor %}
+
+
+  {% assign articles = site.articles | sort:"weighting" %}
+  <ul class="details">
+    {% for p in articles %}
+      {% assign slug = p.title | slugify %}
+      {% assign cssclasses = "" %}
+
+      {% assign effects = site.data.articles[slug].effects
+         | where_exp:"item", "site.data.categories[page.index-for].children contains item.category" %}
+      {% if effects.size > 0 %}
         {% for item in effects %}
           {% assign cssclass = "category " | append: item.category | slugify %}
           {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
@@ -58,9 +61,7 @@ layout: page
             {% endfor %}
           </div>
         </li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p>There are no articles in the category "{{ page.index-for }}"</p>
-  {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>

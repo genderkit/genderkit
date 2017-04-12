@@ -10,9 +10,8 @@ layout: page
             <h3>{{ info.summary }}</h3>
         {% endif %}
         {% include feature.html %}
-
         {% for item in info.effects %}
-          <p>{{ item.details }}</p>
+          <p>{{ item.detail }}</p>
         {% endfor %}
         {% if info.duration %}
           <p>{{ info.duration }}</p>
@@ -23,9 +22,13 @@ layout: page
     <nav class="sidebar">
     <h3>See also</h3>
     <ul>
-        {% for cat in page.categories %}
-            {% assign slug = cat | slugify %}
-            <li><a href="{{ '/category/' | append: slug | absolute_url }}">{{ cat }}</a></li>
+        {% for entry in site.data.categories %}
+          {% assign fnord = entry[1] %}
+          {% assign effects = site.data.articles[slug].effects | where_exp:"item", "fnord.children contains item.category" %}
+          {% if effects.size > 0 %}
+            {% assign categoryslug = entry[0] | slugify %}
+            <li><a href="{{ '/category/' | append: categoryslug | absolute_url }}">{{ entry[0] }}</a></li>
+          {% endif %}
         {% endfor %}
     </ul>
     </nav>
