@@ -25,9 +25,9 @@ function selectCategory(category, event)
     </p>
     <h3>Categories</h3>
     <ul>
-      <li><a href="#" onclick="javascript:selectCategory(null, event); return true;">Show all</a></li>
+      <li><a onclick="javascript:selectCategory(null, event); return true;">Show all</a></li>
       {% for item in site.data.organisations.tags %}
-      <li><a href="#" onclick="javascript:selectCategory('{{ item | slugify }}', event); return true;">{{ item }}</a></li>
+      <li><a onclick="javascript:selectCategory('{{ item | slugify }}', event); return true;">{{ item }}</a></li>
       {% endfor %}
     </ul>
   </nav>
