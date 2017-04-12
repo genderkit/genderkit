@@ -50,14 +50,14 @@ function selectCategory(category, event)
         {% elsif item.facebook %}
         {% assign url = "http://www.facebook.com/" | append: item.facebook %}
         {% endif %}
-        <h3><a href="{{ url }}">{{ item.name }}</a></h3>
+        <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
         <p>
           {% if item.twitterDescription %}
-            {{ item.twitterDescription }}
+            {{ item.twitterDescription | xml_escape }}
           {% elsif item.facebookDescription %}
-            {{ item.facebookDescription }}
+            {{ item.facebookDescription | xml_escape }}
           {% else %}
-            {{ item.manualDescription }}
+            {{ item.manualDescription | xml_escape }}
           {% endif %}
         </p>
         <ul class="links">
