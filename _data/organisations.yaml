@@ -683,7 +683,7 @@ organisations:
     lastTwitterPost: 'Sat Jul 30 12:23:36 +0000 2016'
   -
     name: 'The Sibyls'
-    url: www.sibyls.co.uk
+    url: 'http://www.sibyls.co.uk'
     facebook: sibylsgroup
     tags: [National]
     lastFacebookPost: '2017-03-12T18:39:37+0000'
