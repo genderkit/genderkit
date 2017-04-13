@@ -1,6 +1,9 @@
 - url: "#"
   image: "https://t4.ftcdn.net/jpg/00/67/90/29/240_F_67902901_Yapt0XPbF6yyCd7RusWFS78nrUv8WcEv.jpg"
+  alt: Example person number 1
 - url: "#"
   image: "http://ww2.hdnux.com/photos/07/03/64/1850625/3/628x471.jpg"
+  alt: Example person number 2
 - url: "#"
   image: "http://2.bp.blogspot.com/-x49X0S-hqgw/VEcDhDYneiI/AAAAAAABDgc/utitSCaNE-Y/s1600/joy%2Bpix2.jpg"
+  alt: Example person number 3
