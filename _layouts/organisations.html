@@ -6,14 +6,14 @@ function selectCategory(category, event)
 {
   if (category)
   {
-    $('.details li').hide();
+    $('.details > li').hide();
     $('.category-' + category).show();
     $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
     $(event.currentTarget).parent().css('font-weight', 'bold');
   }
   else
   {
-    $('.details li').show();
+    $('.details > li').show();
     $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
   }
 }
