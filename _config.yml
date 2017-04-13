@@ -21,6 +21,7 @@ exclude:
   - vendor # Gem install location under travis
   - scripts
   - .travis.yml
+  - Rakefile
 
 collections:
   articles:
