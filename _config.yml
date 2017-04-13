@@ -1,4 +1,4 @@
-title: Genderkit
+title: Gender Construction Kit
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -6,7 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 url: "https://genderkit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /genderkit
-twitter_username: jekyllrb
+twitter_username: genderkit
+facebook_username: genderkit
 github_username:  genderkit
 
 # Build settings
