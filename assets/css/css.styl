@@ -4,6 +4,7 @@
 // Font sizes
 $smaller-font-size = 14px
 $base-font-size = 16px
+$big-font-size = 18px
 $bigger-font-size = 20px
 
 // Colours and gradients
@@ -15,17 +16,20 @@ $night = linear-gradient(to bottom, black 0%, $main-colour 99%)
 // Grid system - a standard column size and gutter size
 $standard-padding = 1rem
 $column-width = 12rem
+$bigger-column-width = 18rem
 $two-column-width = ($column-width * 2) + ($standard-padding * 2)
 
 // Container sizes
 // These widths accomodate this number of columns incl. padding
 $container-onewide = $column-width + ($standard-padding * 2)
+$container-onebigwide = $bigger-column-width + ($standard-padding * 2)
 $container-twowide = 2 * $container-onewide
 $container-threewide = 3 * $container-onewide
 $container-fourwide = 4 * $container-onewide
 
 // Page widths
 // At each size, the media queries change the number of columns
+$page-onebigwide = 360px
 $page-twowide = 410px
 $page-threewide = 700px
 $page-fourwide = 920px
@@ -41,6 +45,8 @@ html
 	font-size $base-font-size
 	@media screen and (min-width: 280px)
 		font-size $bigger-font-size
+	@media screen and (min-width: $page-onebigwide)
+		font-size $base-font-size
 	@media screen and (min-width: $page-twowide)
 		font-size $smaller-font-size
 	@media screen and (min-width: 460px)
@@ -61,6 +67,8 @@ a
 	cursor pointer
 h2
 	font-size 200%
+	@media screen and (max-width: $page-twowide)
+		font-size 150%
 	font-weight normal
 	line-height 1.0
 	border-style none none solid none
@@ -72,17 +80,22 @@ h2
 h3
 	font-weight bold
 	font-size 100%
+	line-height 1.25
+	padding-bottom 0.25em
 figure
 	margin $standard-padding 0
 	img
 		margin auto
 		display block
-		@media screen and (max-width: $page-twowide)
-			width $ccolumn-width
+		@media screen and (max-width: $page-onebigwide)
+			width $column-width
 			max-width $column-width
+		@media screen and (min-width: $page-onebigwide)
+			width $bigger-column-width
+			max-width $bigger-column-width
 		@media screen and (min-width: $page-twowide)
-			width $two-ccolumn-width
-			max-width $two-ccolumn-width
+			width $two-column-width
+			max-width $two-column-width
 figcaption
 	text-align: center;
 	margin-top: $standard-padding;
@@ -92,10 +105,13 @@ figcaption
 // and sets the width of the content
 header, .wrapper, footer
 	margin 0 auto 1rem auto
-
-	@media screen and (max-width: $page-twowide)
+	
+	@media screen and (max-width: $page-onebigwide)
 		width $container-onewide
 		max-width $container-onewide
+	@media screen and (min-width: $page-onebigwide)
+		width $container-onebigwide
+		max-width $container-onebigwide
 	@media screen and (min-width: $page-twowide)
 		width $container-twowide
 		max-width $container-twowide
@@ -128,7 +144,10 @@ footer
 	transform-style preserve-3d
 	
 #logo
-	width $column-width - ($standard-padding * 2)
+	@media screen and (max-width: $page-twowide)
+		width $column-width - ($standard-padding * 2)
+	@media screen and (min-width: $page-twowide)
+		width $column-width - ($standard-padding * 2)
 
 #logo-footer
 	display inline-block
@@ -201,13 +220,24 @@ footer
 
 // Sidebar
 .sidebar
-	width $column-width
-	min-width $column-width
+	@media screen and (max-width: $page-onebigwide)
+		width $column-width - ($standard-padding * 2)
+		min-width $column-width - ($standard-padding * 2)
+	@media screen and (min-width: $page-onebigwide)
+		width $bigger-column-width - ($standard-padding * 2)
+		min-width $bigger-column-width - ($standard-padding * 2)
+	@media screen and (min-width: $page-twowide)
+		width $column-width - ($standard-padding * 2)
+		min-width $column-width - ($standard-padding * 2)
 	padding 0 $standard-padding
 	// If the page is small, move the sidebar to the top
 	@media screen and (max-width: $page-threewide)
 		width inherit
-		background-color $main-colour + 95%
+		line-height 1.25
+		h3
+			margin 0.25rem 0
+		p
+			margin 0.5rem 0
 	ul
 		padding 0
 		display flex
@@ -215,6 +245,7 @@ footer
 		flex-direction column
 		@media screen and (max-width: $page-threewide)
 			flex-direction row
+			margin 0.25rem 0
 	li
 		list-style-type none
 		padding-bottom 0.25rem
@@ -255,8 +286,16 @@ footer
 	margin 0
 
 .details > li > a > img
-	width $column-width
-	height $column-width * 0.75
+	@media screen and (max-width: $page-onebigwide)
+		width $column-width
+		height $column-width * 0.75
+	@media screen and (min-width: $page-onebigwide)
+		width $bigger-column-width
+		height $bigger-column-width * 0.75
+	@media screen and (min-width: $page-twowide)
+		width $column-width
+		height $column-width * 0.75	
+	
 	padding 0
 	margin-bottom $standard-padding * 0.5
 	@media screen and (min-width: $page-threewide)
@@ -280,12 +319,18 @@ footer
 	flex-wrap wrap
 
 .griditem
-	width $column-width
-	min-width $column-width
+	@media screen and (max-width: $page-onebigwide)
+		width $column-width
+		max-width $column-width
+	@media screen and (min-width: $page-onebigwide)
+		width $bigger-column-width
+		max-width $bigger-column-width
+	@media screen and (min-width: $page-twowide)
+		width $column-width
+		max-width $column-width
 	padding $standard-padding
 	h3
 		margin 0 0 0.5rem 0
-		padding 0
 		color $main-colour
 		border-bottom 2px solid $main-colour
 		font-size 150%
@@ -301,11 +346,15 @@ footer
 		list-style-type none
 	
 .widegriditem
-	width $two-column-width
-	min-width $two-column-width
-	@media screen and (max-width: $page-twowide)
+	@media screen and (max-width: $page-onebigwide)
 		width $column-width
-		min-width $column-width
+		max-width $column-width
+	@media screen and (min-width: $page-onebigwide)
+		width $bigger-column-width
+		max-width $bigger-column-width
+	@media screen and (min-width: $page-twowide)
+		width $two-column-width
+		max-width $two-column-width
 
 // Frontpage specific styling
 #frontpage
