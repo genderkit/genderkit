@@ -35,7 +35,6 @@
     - "Beard"
     - "Hair colour"
     - "Hair length"
-    - "Hair location"
     - "Hair straightness"
     - "Hair style"
     - "Hairline"
@@ -155,6 +154,7 @@
 
 "Body hair":
   children:
+    - "Body hair locations"
     - "Body hair density"
   seealso:
     - "Hair and beards"
