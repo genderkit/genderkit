@@ -24,44 +24,44 @@ layout: page
 
   <div class="content">
     {% include feature.html %}
-  </div>
 
-  {% for p in site.articles %} 
-    {% assign slug = p.title | slugify %}
-    {% assign articledata = site.data.articles[slug] %}
-    
-  {% endfor %}
-
-
-  {% assign articles = site.articles | sort:"weighting" %}
-  <ul class="details">
-    {% for p in articles %}
+    {% for p in site.articles %} 
       {% assign slug = p.title | slugify %}
-      {% assign cssclasses = "" %}
-
-      {% assign effects = site.data.articles[slug].effects
-         | where_exp:"item", "site.data.categories[page.index-for].children contains item.category" %}
-      {% if effects.size > 0 %}
-        {% for item in effects %}
-          {% assign cssclass = "category " | append: item.category | slugify %}
-          {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-        {% endfor %}
-        <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
-          {% if p.feature %}
-            <a href="{{ p.url | relative_url }}">
-              <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
-            </a>
-          {% endif %}
-          <div>
-            <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-            <p>{{ site.data.articles[slug].summary }}</p>
-            {% for item in effects %}
-              {% assign effect = item %}
-              <p><b>{{ item.category }} - </b>{{ item.detail }}</p>
-            {% endfor %}
-          </div>
-        </li>
-      {% endif %}
+      {% assign articledata = site.data.articles[slug] %}
+      
     {% endfor %}
-  </ul>
+
+
+    {% assign articles = site.articles | sort:"weighting" %}
+    <ul class="details">
+      {% for p in articles %}
+        {% assign slug = p.title | slugify %}
+        {% assign cssclasses = "" %}
+
+        {% assign effects = site.data.articles[slug].effects
+           | where_exp:"item", "site.data.categories[page.index-for].children contains item.category" %}
+        {% if effects.size > 0 %}
+          {% for item in effects %}
+            {% assign cssclass = "category " | append: item.category | slugify %}
+            {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+          {% endfor %}
+          <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
+            {% if p.feature %}
+              <a href="{{ p.url | relative_url }}">
+                <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+              </a>
+            {% endif %}
+            <div>
+              <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+              <p>{{ site.data.articles[slug].summary }}</p>
+              {% for item in effects %}
+                {% assign effect = item %}
+                <p><b>{{ item.category }} - </b>{{ item.detail }}</p>
+              {% endfor %}
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 </div>
