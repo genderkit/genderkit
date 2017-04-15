@@ -50,6 +50,10 @@ layout: page
               <a href="{{ p.url | relative_url }}">
                 <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
               </a>
+            {% else %}
+              <a href="{{ p.url | relative_url }}">
+                <img src="{{ 'assets/images/nophoto.png' | absolute_url }}" alt="Placeholder image for article with no associated illustratrion" />
+              </a>            
             {% endif %}
             <div>
               <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>

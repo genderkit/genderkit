@@ -1,8 +1,5 @@
 ---
 title: Orchidectomy
-feature:
-  image: /assets/images/articles/tweezing.jpg
-  caption: "TODO"
 ---
 
 {% capture warn %}
