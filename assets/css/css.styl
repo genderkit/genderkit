@@ -82,8 +82,7 @@ h2
 h3
 	font-weight bold
 	font-size 100%
-	line-height 1.25
-	padding-bottom 0.25em
+
 figure
 	margin $standard-padding 0
 	img
@@ -235,7 +234,7 @@ footer
 	// If the page is small, move the sidebar to the top
 	@media screen and (max-width: $page-threewide)
 		width inherit
-		line-height 1.25
+		line-height 1.5
 		h3
 			margin 0.25rem 0
 		p
@@ -252,7 +251,8 @@ footer
 		list-style-type none
 		padding-bottom 0.25rem
 		padding-right 0.5rem
-
+		@media screen and (max-width: $page-threewide)
+			padding-bottom 0rem
 .content
 	padding 0 $standard-padding
 	
@@ -337,6 +337,8 @@ footer
 		border-bottom 2px solid $main-colour
 		font-size 150%
 		font-weight normal
+		line-height 1.25
+		padding-bottom 0.25em
 	ul
 		margin 0
 		padding 0
