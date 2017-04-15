@@ -29,7 +29,7 @@ $container-fourwide = 4 * $container-onewide
 
 // Page widths
 // At each size, the media queries change the number of columns
-$page-onebigwide = 360px
+$page-onebigwide = 320px
 $page-twowide = 410px
 $page-threewide = 700px
 $page-fourwide = 920px
@@ -44,8 +44,10 @@ html
 	// Adjust font size appropriately to screen size
 	font-size $base-font-size
 	@media screen and (min-width: 280px)
-		font-size $bigger-font-size
+		font-size $base-font-size
 	@media screen and (min-width: $page-onebigwide)
+		font-size $smaller-font-size
+	@media screen and (min-width: 360px)
 		font-size $base-font-size
 	@media screen and (min-width: $page-twowide)
 		font-size $smaller-font-size
