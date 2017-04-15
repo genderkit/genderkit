@@ -117,6 +117,11 @@ organisations:
     twitterDescription: 'I head up GenderCare, a private sector network of gender healthcare practitioners. 15 years'' experience working with trans and non-binary people.  He/him/his.'
     lastTwitterPost: 'Fri Apr 07 12:41:36 +0000 2017'
   -
+    name: 'National Gender Identity Clinical Network for Scotland'
+    url: 'http://www.ngicns.scot.nhs.uk'
+    manualDescription: 'NHS Scotland network for Scottish gender clinics and online information hub'
+    tags: ['NHS Gender Services', Scotland]
+  -
     name: Born
     url: 'http://born.uk.com'
     twitter: Borntoturnheads
