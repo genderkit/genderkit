@@ -12,6 +12,7 @@ github_username:  genderkit
 markdown: kramdown
 gems:
   - jekyll-feed
+  - 'jekyll/scholar'
 exclude:
   - Gemfile
   - Gemfile.lock
