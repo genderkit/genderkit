@@ -222,14 +222,14 @@ footer
 // Sidebar
 .sidebar
 	@media screen and (max-width: $page-onebigwide)
-		width $column-width - ($standard-padding * 2)
-		min-width $column-width - ($standard-padding * 2)
+		width $container-onewide
+		min-width $container-onewide
 	@media screen and (min-width: $page-onebigwide)
-		width $bigger-column-width - ($standard-padding * 2)
-		min-width $bigger-column-width - ($standard-padding * 2)
+		width $container-onebigwide
+		min-width $container-onebigwide
 	@media screen and (min-width: $page-twowide)
-		width $column-width - ($standard-padding * 2)
-		min-width $column-width - ($standard-padding * 2)
+		width $container-onewide
+		min-width $container-onewide
 	padding 0 $standard-padding
 	// If the page is small, move the sidebar to the top
 	@media screen and (max-width: $page-threewide)
