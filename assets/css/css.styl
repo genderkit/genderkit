@@ -222,14 +222,14 @@ footer
 // Sidebar
 .sidebar
 	@media screen and (max-width: $page-onebigwide)
-		width $container-onewide
-		min-width $container-onewide
+		width $column-width
+		min-width $column-width
 	@media screen and (min-width: $page-onebigwide)
-		width $container-onebigwide
-		min-width $container-onebigwide
+		width $bigger-column-width
+		min-width $bigger-column-width
 	@media screen and (min-width: $page-twowide)
-		width $container-onewide
-		min-width $container-onewide
+		width $column-width
+		min-width $column-width
 	padding 0 $standard-padding
 	// If the page is small, move the sidebar to the top
 	@media screen and (max-width: $page-threewide)
@@ -416,11 +416,10 @@ footer
 			font-size 1.5rem
 
 .warning
-	background-color black
-	margin-top 2em
-	margin-bottom 2em
-	padding 1em
-	color white
+	margin 2em 0 0 0
+	padding 0
+	border-top 4px solid #f22
+	font-weight bold
 	.header
 		color #f22
 		font-size 150%
