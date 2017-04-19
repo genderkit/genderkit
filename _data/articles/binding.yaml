@@ -1,6 +1,6 @@
 summary: "Using a binder to reduce the apparent size of breasts"
+duration: "The effects of binding only last whilst wearing the binder."
 effects:
--
-  category: "Chest"
-  detail: "Significantly reducing the size of the chest to within male range"
-  duration: "Only whilst wearing the binder"
+  -
+    category: "Chest"
+    detail: "Significantly reducing the size of the chest to within male range."

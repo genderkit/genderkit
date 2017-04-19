@@ -1,5 +1,6 @@
 aka: [Orchiectomy, Orchi]
 summary: Surgical removal of the testes (testicles) usually causing permanent reduction in testosterone levels
+duration: "The effects are permanent and cannot be reversed."
 effects:
   -
     category: "Fertility"
@@ -19,4 +20,3 @@ effects:
   -
     category: "Body shape"
     detail: "Orchidectomy causes a reduction in testosterone, which causes significant loss of strength and muscle volume."
-duration: "The effects are permanent and cannot be reversed."

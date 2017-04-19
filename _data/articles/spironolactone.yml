@@ -1,6 +1,6 @@
 aka: [Aldactone, Spirotone]
 summary: "Medication that temporarily reduces production of testosterone"
-effects:
+duration: "Spironolactone is taken as daily pills and the effects stop if the medication is discontinued. Prolonged use may have some effects that are permanent and cannot be reversed."
 effects:
   -
     category: "Body hair density"
@@ -23,4 +23,3 @@ effects:
   -
     category: "Skin appearance"
     detail: "Spironolactone usually causes a reduction in testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
-duration: "Spironolactone is taken as daily pills and the effects stop if the medication is discontinued. Prolonged use may have some effects that are permanent and cannot be reversed."
