@@ -32,7 +32,7 @@ layout: page
     {% endfor %}
 
 
-    {% assign articles = site.articles | sort:"weighting" %}
+    {% assign articles = site.articles | sort: "weighting" %}
     <ul class="details">
       {% for p in articles %}
         {% assign slug = p.title | slugify %}

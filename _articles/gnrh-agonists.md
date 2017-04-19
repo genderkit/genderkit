@@ -1,5 +1,6 @@
 ---
 title: GnRH agonists
+weighting: 4
 ---
 
 {% capture warn %}

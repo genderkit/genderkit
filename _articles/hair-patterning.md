@@ -1,5 +1,6 @@
 ---
 title: Hair patterning
+weighting: 2
 feature:
   image: /assets/images/articles/hair-patterning.jpg
   caption: A person with their hair in foils during application of hair dye for full head highlights

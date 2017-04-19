@@ -1,5 +1,6 @@
 ---
 title: Orchidectomy
+weighting: 5
 ---
 
 {% capture warn %}

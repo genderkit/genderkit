@@ -1,5 +1,6 @@
 ---
 title: Eflornithine
+weighting: 3
 ---
 
 Eflornithine inhibits an enzyme (ornithine decarboxylase) that is part of the process of hair growth {% cite seal:2007 --locator 165 %}. 

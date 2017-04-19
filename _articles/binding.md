@@ -1,5 +1,6 @@
 ---
 title: Binding
+weighting: 3
 ---
 
 {% capture warn %}

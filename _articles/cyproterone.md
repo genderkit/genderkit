@@ -1,5 +1,6 @@
 ---
 title: Cyproterone
+weighting: 4
 ---
 
 {% capture warn %}

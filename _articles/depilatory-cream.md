@@ -1,5 +1,6 @@
 ---
 title: Depilatory cream
+weighting: 2
 feature:
   image: /assets/images/articles/depilatory-cream.jpg
   caption: "A tube of depilatory cream"
