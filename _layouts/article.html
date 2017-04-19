@@ -11,7 +11,7 @@ layout: page
         {% endif %}
         {% include feature.html %}
         {% if info.aka %}
-          <p>{{page.title}} may also be called {{ info.aka | array_to_sentence_string: 'or' }}.</p>
+          <p>{{page.title}} may also be known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
         {% endif %}
         <h3>What does it do?</h3>
         {% for item in info.effects %}
