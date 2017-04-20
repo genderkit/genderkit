@@ -369,7 +369,7 @@ footer
   flex-wrap wrap
   justify-content space-between
   li
-    padding $standard-padding 0
+    padding $standard-padding * 0.5 0
     @media screen and (max-width: $page-onebigwide)
       width $column-width
       max-width $column-width
@@ -390,7 +390,7 @@ footer
     border 0
   input[type=checkbox]+label::before
     content "\2718"
-    color #ddf
+    color #e0e0e0
     width 2em
     height 2em
     font-weight bold
@@ -398,15 +398,16 @@ footer
     display flex
     align-items center
     justify-content center
-    border 2px solid #80f
+    border 2px solid $main-colour
     margin-right 16px
     flex-shrink 0
   input[type=checkbox]:checked+label::before
     content "\2714"
     color #444
   input[type=checkbox]:hover+label::before
-    background-color #eef
+    background-color $main-colour + 95%
   input[type=checkbox]+label
+    line-height 1.25
     height 2em
     display flex
     align-items center
