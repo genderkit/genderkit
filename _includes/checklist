@@ -1,0 +1,12 @@
+<div class="checklistcontainer">
+  {% assign slug = page.title | slugify %}
+  {% assign data = site.data.checklists[slug] %}
+  <h3>{{ data.title }}</h3>
+  {% if data.items %}
+    <ul class="checklist">
+    {% for item in data.items %}
+      <li><input type="checkbox" id="{{ item | slugify }}" /><label for="{{ item | slugify }}">{{ item }}</label></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+</div>
