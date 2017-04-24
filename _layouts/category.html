@@ -46,16 +46,7 @@ layout: page
             {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
           {% endfor %}
           <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
-            {% if p.feature %}
-              <a href="{{ p.url | relative_url }}">
-                <img src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
-              </a>
-            {% else %}
-              <a href="{{ p.url | relative_url }}">
-                <img src="{{ 'assets/images/nophoto.png' | absolute_url }}" alt="Placeholder image for article with no associated illustratrion" />
-              </a>            
-            {% endif %}
-            <div>
+            <div class="categorydescription">
               <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
               <p>{{ site.data.articles[slug].summary }}</p>
               {% for item in effects %}
@@ -63,6 +54,11 @@ layout: page
                 <p><b>{{ item.category }} - </b>{{ item.detail }}</p>
               {% endfor %}
             </div>
+            {% if p.feature %}
+              <img class="categorypicture" src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+            {% else %}
+              <img class="categorypicture" src="{{ 'assets/images/nophoto.png' | absolute_url }}" alt="Placeholder image for article with no associated illustratrion" />          
+            {% endif %}
           </li>
         {% endif %}
       {% endfor %}
