@@ -160,8 +160,9 @@
     - "Hair and beards"
   section: "My body"
 
-"Skin":
+"Face and skin":
   children:
+    - "Face shape"
     - "Skin appearance"
   section: "My body"
 
