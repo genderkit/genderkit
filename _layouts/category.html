@@ -16,7 +16,7 @@ layout: page
       <ul>
         {% for item in site.data.categories[page.index-for].seealso %}
         {% assign slug = item | slugify %}
-            <li><a href="{{ '/category/' | append: slug | absolute_url }}">{{ item }}</a></li>
+            <li><a href="{{ '/category/' | append: slug | relative_url }}">{{ item }}</a></li>
         {% endfor %}
       </ul>
     {% endif %}
@@ -55,9 +55,9 @@ layout: page
               {% endfor %}
             </div>
             {% if p.feature %}
-              <img class="categorypicture" src="{{ p.feature.image | absolute_url }}" alt="{{ p.feature.caption }}" />
+              <img class="categorypicture" src="{{ p.feature.image | relative_url }}" alt="{{ p.feature.caption }}" />
             {% else %}
-              <img class="categorypicture" src="{{ 'assets/images/nophoto.png' | absolute_url }}" alt="Placeholder image for article with no associated illustratrion" />          
+              <img class="categorypicture" src="{{ 'assets/images/nophoto.png' | relative_url }}" alt="Placeholder image for article with no associated illustratrion" />
             {% endif %}
           </li>
         {% endif %}

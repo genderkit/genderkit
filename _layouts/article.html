@@ -31,7 +31,7 @@ layout: page
           {% assign effects = site.data.articles[slug].effects | where_exp:"item", "fnord.children contains item.category" %}
           {% if effects.size > 0 %}
             {% assign categoryslug = entry[0] | slugify %}
-            <li><a href="{{ '/category/' | append: categoryslug | absolute_url }}">{{ entry[0] }}</a></li>
+            <li><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ entry[0] }}</a></li>
           {% endif %}
         {% endfor %}
     </ul>
