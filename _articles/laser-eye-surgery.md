@@ -15,3 +15,5 @@ There are two main types of laser eye surgery:
 - *Laser-assisted in-situ keratomileusis (LASIK)* - which works in a similar fashion, but before reshaping the cornea, the eye is held in place by a suction ring and a laser is used to cut a flap into the epithelium (thin layer covering the cornea), and the flap is repositioned afterwards. LASIK may sometimes require less recovery time than PRK/LASEK.
 
 Laser eye surgery is an area with continual development of new techniques, so you are advised to do your own research into the different kinds of eye surgery available to you.
+
+You can read more about laser eye surgery on the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Lasers.aspx).

@@ -16,3 +16,5 @@ Contact lenses are available in several types:
 - *Spherical lenses* can correct for myopia (short-sightedness, i.e. inability to clearly see things in the distance) and hypermetropia (long-sightedness, i.e. inability to clearly see things close by), but cannot correct for astigmatism (where the lens does not focus evenly).
 - *Toric lenses* are able to correct for astigmatism combined with myopia or hypermetropia. They are able to do this because they are designed to have a heavier edge which naturally rotates to the bottom of the eye. If the head is tilted, the lenses will no longer correct the astigmatism.
 - *Multifocal lenses* are able to correct for presbyopia (needing a different prescription for reading than the prescription required for distance vision) in a similar way to bifocal or multifocal glasses.
+
+You can read more about how to use contact lenses safely at the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Contactlenssafety.aspx).
