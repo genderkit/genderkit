@@ -1,0 +1,7 @@
+aka: ["Vocal fold relaxation"]
+summary: "Surgery to lower the fundamental frequency (pitch) of the voice"
+duration: "duration: TODO"
+effects:
+  -
+    category: "Vocal pitch"
+    detail: "This surgery usually causes a lowering of the pitch of the voice."
