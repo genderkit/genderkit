@@ -1,6 +1,6 @@
 {% if page.feature %}
   <figure>
-    <img src="{{ page.feature.image | absolute_url }}" alt="{{ page.feature.caption }}" />
+    <img src="{{ page.feature.image | relative_url }}" alt="{{ page.feature.caption }}" />
     <figcaption>{{ page.feature.caption }}</figcaption>
   </figure>
 {% endif %}
