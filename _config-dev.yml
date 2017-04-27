@@ -1,0 +1,49 @@
+title: Gender Construction Kit
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The UK guide to changing things linked to gender
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 
+twitter_username: genderkit
+facebook_username: genderkit
+github_username:  genderkit
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - 'jekyll/scholar'
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "old/*"
+  - vendor # Gem install location under travis
+  - scripts
+  - .travis.yml
+  - Rakefile
+
+collections:
+  articles:
+    output: true
+  categories:
+    output: true
+  checklists:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+      weighting: 999
+      permalink: /article/:name/
+  - scope:
+      path: ""
+      type: categories
+    values:
+      layout: category
+      permalink: /category/:name/
+
+stylus:
+  compress: true
