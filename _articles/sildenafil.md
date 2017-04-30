@@ -1,4 +1,4 @@
 ---
-title: sildenafil
+title: Sildenafil
 weighting: 3
 ---
