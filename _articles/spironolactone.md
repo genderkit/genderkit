@@ -15,4 +15,8 @@ Several different types of drug are used as anti-androgens. Spironolactone is a 
 
 While spironolactone is much cheaper to obtain than GnRH agonists, it can often have side effects and after prolonged use may cause liver damage. In the UK endocrinologists usually prescribe GnRH (gonadotropin releasing hormone) agonists instead {% cite seal:2007 --location 170 %}. These medications are described in more detail on the [GnRH agonists page]({% link _articles/gnrh-agonists.md %}).
 
+A study has suggested that taking spironolactone with [oestrogen]({% link _articles/oestrogen.md %}) may reduce the breast development caused by oestrogen {% cite seal2012predictive %}, though this has not been confirmed by other researchers.
+
+Spironolactone may cause erectile disfunction. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
+
 {% bibliography --cited %}

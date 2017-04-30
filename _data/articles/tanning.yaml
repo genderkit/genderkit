@@ -1,7 +1,7 @@
 aka: [Sunbathing, Sunbeds]
 summary: "Exposing the skin to sunlight or using a tanning bed to darken the skin colour"
-duration: "TODO"
+duration: "The length for which tanning will last varies depending on level of sun exposure and type of skin."
 effects:
   -
     category: "Skin appearance"
-    detail: "Tanning darkens the colour of skin"
+    detail: "Tanning darkens the colour of skin."

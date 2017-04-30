@@ -21,3 +21,5 @@ Orchidectomy, like other gender surgeries, will normally require two opinions fr
 The cost of privately obtaining an orchidectomy in the UK is around £xxxx.
 
 If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for an orchidectomy.
+
+Orchidectomy may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
