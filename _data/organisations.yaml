@@ -153,6 +153,14 @@ organisations:
     lastFacebookPost: '2017-03-07T11:14:33+0000'
     facebookDescription: 'The UK''s First Genderqueer Fashion Label'
   -
+    name: 'gfw Clothing'
+    url: 'https://www.genderfreeworld.com/'
+    twitter: genderfreeworld
+    facebook: Genderfreeworld
+    tags: [Companies, Brighton, South East]
+    twitterDescription: 'Gender free clothing which doesn''t care what gender you are, but does fit your body.'
+    facebookDescription: 'GFW Clothing- the online store that focuses on ''fit'' and style rather than whether you are shopping in the men''s/women''s section'
+  -
     name: 'This Is Me'
     url: 'http://www.thisismelgbt.com'
     facebook: thisisme.ofcl
