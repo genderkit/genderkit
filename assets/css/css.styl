@@ -39,6 +39,7 @@ $page-fourwide = 920px
 $page-extrawide = 1150px
 
 html
+  height 100% // needed to ensure that the background gradient doesn't repeat
   color black
   background white
   line-height 1.5
@@ -139,20 +140,20 @@ footer
 
 // Site logo
 #logobox
-  background black
   padding $standard-padding
+  background black
   margin 0 $standard-padding
   // Size the box to fit the contents and no more
   display inline-block
   // Hack to deal with SVG rendering bug in WebKit
   transform-style preserve-3d
-  
+
 #logo
   @media screen and (max-width: $page-twowide)
-    width $column-width - ($standard-padding * 2)
+    width $column-width - $standard-padding * 2
   @media screen and (min-width: $page-twowide)
-    width $column-width - ($standard-padding * 2)
-
+    width $column-width - $standard-padding * 2
+    
 #logo-footer
   display inline-block
   margin 0 auto
@@ -205,22 +206,20 @@ footer
   border-bottom-color $dark-border-colour
 
 .dark #logobox
-  border solid
-  border-color $dark-border-colour
-  border-width 1px
-  border-top none
+  border none
 
-.halftone
-  background-image url("{{ site.baseurl }}/assets/images/front-page-background.png")
-  background-repeat no-repeat
-  background-size 768px
-  background-position center -300px
+.purpleglow
+  background radial-gradient(circle 360px at 50% 50px, hsl(264,100%,50%) 0%, hsl(0,0%,0%) 100%)
+  @media screen and (max-width: $page-onebigwide)
+    background radial-gradient(circle 360px at 50% 50px, hsl(264,100%,50%) 0%, hsl(0,0%,0%) 100%)
+  @media screen and (min-width: $page-onebigwide)
+    background radial-gradient(circle 420px at 50% 50px, hsl(264,100%,50%) 0%, hsl(0,0%,0%) 100%) 
+  @media screen and (min-width: $page-twowide)
+    background radial-gradient(circle 480px at 50% 80px, hsl(264,100%,50%) 0%, hsl(0,0%,0%) 100%)
   @media screen and (min-width: $page-threewide)
-    background-size 1024px
-    background-position center -400px
+    background radial-gradient(circle 720px at 50% 100px, hsl(264,100%,50%) 0%, hsl(0,0%,0%) 100%)  
   @media screen and (min-width: $page-extrawide)
-    background-size 1536px
-    background-position center -600px
+    background radial-gradient(circle 1024px at 50% 150px, hsl(264,100%,50%) 0%, hsl(0,0%,0%) 100%)
 
 // Sidebar
 .sidebar
@@ -427,26 +426,26 @@ footer
   @media screen and (min-width: $page-threewide)
     flex-direction row
 
+#frontpage #logobox
+  padding 0
+  background none
+
 // Bigger logo on the front page where
 // screen sizes make it possible
 #frontpage #logo, #frontpage-logo-and-title h3
-  width $column-width - $standard-padding*2
+  width $column-width
+  margin-bottom -1rem
+  margin-top -2rem
+  @media screen and (min-width: $page-onebigwide)
+    width $container-onebigwide
   @media screen and (min-width: $page-twowide)
-    width $column-width * 1.5
+    width $column-width * 2
   @media screen and (min-width: $page-threewide)
-    width $column-width * 0.75
+    width $column-width
+    margin-bottom 0
+    margin-top 0
   @media screen and (min-width: $page-fourwide)
-    width $column-width * 1.25
-
-// Make the padding correspondingly bigger if the
-// logo is bigger (otherwise it looks weird!)
-#frontpage #logobox
-  @media screen and (min-width: $page-twowide)
-    padding $standard-padding * 2
-  @media screen and (min-width: $page-threewide)
-    padding $standard-padding
-  @media screen and (min-width: $page-fourwide)
-    padding $standard-padding * 1.5
+    width $column-width * 2
 
 #frontpage-logo-and-title
   display flex
