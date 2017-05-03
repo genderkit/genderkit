@@ -5,7 +5,7 @@
 @import "assets/css/flex"
 
 // Icon font
-@import "iconfont/flaticon.css"
+@import "glyphter-font/css/genderkit-icons.css"
 
 // Font sizes
 $smaller-font-size = 14px
@@ -504,15 +504,20 @@ footer
   display flex
   flex-direction row
   align-items center
-  margin 0.5rem 0
+  margin 0.5rem 1rem 0.5rem 0
+  line-height 1.25
   width $column-width
   max-width $column-width
+  @media screen and (min-width: $page-onebigwide)
+    width $bigger-column-width
+    max-width $bigger-column-width
 
 .effects h3
   margin 0
 
 .effects i
   margin-right 1rem
+  opacity 0.6
 
 .effects i::before
   font-size 4rem

@@ -17,7 +17,7 @@ layout: page
         <ul class="effects">
         {% for item in info.effects %}
           {% assign categoryslug = item.category | slugify %}
-          <li><i class="flaticon-{{ categoryslug }}"></i><div><h3>{{ item.category}}</h3>{{ item.detail }}</div></li>
+          <li><i class="icon-{{ categoryslug }}"></i><div><h3>{{ item.category}}</h3>{{ item.detail }}</div></li>
         {% endfor %}
         </ul>
         {% if info.duration %}

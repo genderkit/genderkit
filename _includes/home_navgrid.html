@@ -3,7 +3,7 @@
   {% for category in site.data.categories %}
 	  {% assign categoryslug = category.name | slugify %}
 	  <li><a href="{{ '/category/' | append: categoryslug | relative_url }}"><div class="icon">
-        <i class="flaticon-{{ categoryslug }}"></i></div>{{ category.name }}</a></li>
+        <i class="icon-{{ categoryslug }}"></i></div>{{ category.name }}</a></li>
   {% endfor %}
   </ul>
 </div>
