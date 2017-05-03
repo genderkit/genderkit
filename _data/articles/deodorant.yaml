@@ -3,9 +3,5 @@ summary: "Products used to reduce body odour or sweating"
 duration: "Deodorants usually require regular reapplication on at least a daily basis."
 effects:
   -
-    category: "Added fragrance"
-    detail: "Despite the name, most deodorants have an added fragrance that will remain on your body for some time, in addition to removing existing odours."
-
-  -
-    category: "Body odour"
-    detail: "Deodorants reduce the smell of body odour, either by neutralising the smell, or reducing sweating that promotes the microbes that cause body odour."
+    category: "Fragrance"
+    detail: "Reduces and changes odour"

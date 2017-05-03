@@ -4,6 +4,9 @@
 // Flexible box model: support old vendor prefixes
 @import "assets/css/flex"
 
+// Icon font
+@import "iconfont/flaticon.css"
+
 // Font sizes
 $smaller-font-size = 14px
 $base-font-size = 16px
@@ -473,6 +476,46 @@ footer
       font-size 1.25rem
     @media screen and (min-width: $page-fourwide)
       font-size 1.5rem
+
+#effectslist
+  display flex
+  flex-direction row
+  flex-wrap wrap
+  justify-content center
+
+#effectslist li
+  width 6em
+  height 4em
+  margin 0.5em 1em
+  text-align center
+
+#effectslist .icon
+  font-size 2rem
+  line-height 1
+
+.effects
+  display flex
+  flex-direction row
+  flex-wrap wrap
+  padding 0
+
+.effects li
+  list-style-type none
+  display flex
+  flex-direction row
+  align-items center
+  margin 0.5rem 0
+  width $column-width
+  max-width $column-width
+
+.effects h3
+  margin 0
+
+.effects i
+  margin-right 1rem
+
+.effects i::before
+  font-size 4rem
 
 .warning
   margin 2em 0 0 0

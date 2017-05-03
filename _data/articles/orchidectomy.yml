@@ -4,19 +4,16 @@ duration: "The effects are permanent and cannot be reversed."
 effects:
   -
     category: "Fertility"
-    detail: "Orchidectomy causes complete sterility and infertility - it becomes impossible to make someone pregnant."
+    detail: "Permanent infertility"
   -
-    category: "Crotch shape"
-    detail: "Orchiectomy can make it easier to perform tucking and changes the shape of your crotch."
+    category: "Body hair"
+    detail: "Reduces and thins"
   -
-    category: "Hormones"
-    detail: "Orchidectomy removes the need to take antiandrogen medications to lower testosterone."
+    category: "Muscles"
+    detail: "Weaker and smaller"
   -
-    category: "Skin"
-    detail: "Orchidectomy causes a reduction in testosterone, which can cause the skin to become thinner, softer, change appearance, and have less hormonal acne."
+    category: "Lower body"
+    detail: "Easier to tuck, genital shrinkage, reduces erections"
   -
-    category: "Body hair density"
-    detail: "Orchidectomy causes a reduction in testosterone, which can cause a mild reduction in density and thickness of body hair."
-  -
-    category: "Body shape"
-    detail: "Orchidectomy causes a reduction in testosterone, which causes significant loss of strength and muscle volume."
+    category: "Face"
+    detail: "Softer skin, less acne"

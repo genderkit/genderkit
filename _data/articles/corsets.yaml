@@ -3,5 +3,8 @@ summary: "Shaped clothing that thins the waist or has a slimming effect"
 duration: "The effects last as long as the corset is worn. Prolonged use over a period of years can be used to 'train' the body to have a smaller waist."
 effects:
   -
-    category: "Waist and hips"
-    detail: "Corsets are used to make the waist smaller or slim the body."
+    category: "Upper body"
+    detail: "Slims waist"
+  -
+    category: "Lower body"
+    detail: "Slims waist"

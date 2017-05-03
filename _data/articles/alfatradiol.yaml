@@ -3,5 +3,5 @@ summary: "Medication that temporarily slows hair loss due to baldness and someti
 duration: "Alfatradiol only causes an effect while it is still being applied."
 effects:
   -
-    category: "Hairline"
-    detail: "Alfatradiol can reduce hair loss due to baldness and in some cases can cause some regrowth"
+    category: "Head hair"
+    detail: "Reduces hair loss"

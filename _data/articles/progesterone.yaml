@@ -3,6 +3,6 @@ summary: "Hormone sometimes used in conjuction with oestrogen therapy and also f
 duration: "TODO"
 effects:
   - category: "Menstruation"
-    detail: "Progesterone therapy causes menstruation (periods) to stop."
-  - category: "Chest"
-    detail: "Progesterone therapy may possibly cause increased breast growth, though this is controversial."
+    detail: "Stops"
+  - category: "Upper body"
+    detail: "(Possibly) increased breast growth"

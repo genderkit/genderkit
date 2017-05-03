@@ -14,9 +14,12 @@ layout: page
           <p>{{page.title}} may also be known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
         {% endif %}
         <h3>What does it do?</h3>
+        <ul class="effects">
         {% for item in info.effects %}
-          <p>{{ item.detail }}</p>
+          {% assign categoryslug = item.category | slugify %}
+          <li><i class="flaticon-{{ categoryslug }}"></i><div><h3>{{ item.category}}</h3>{{ item.detail }}</div></li>
         {% endfor %}
+        </ul>
         {% if info.duration %}
           <p>{{ info.duration }}</p>
         {% endif %}
@@ -26,14 +29,10 @@ layout: page
     <nav class="sidebar">
     <h3>See also</h3>
     <ul>
-        {% for entry in site.data.categories %}
-          {% assign fnord = entry[1] %}
-          {% assign effects = site.data.articles[slug].effects | where_exp:"item", "fnord.children contains item.category" %}
-          {% if effects.size > 0 %}
-            {% assign categoryslug = entry[0] | slugify %}
-            <li><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ entry[0] }}</a></li>
-          {% endif %}
-        {% endfor %}
+      {% for item in info.effects %}
+         {% assign categoryslug = item.category | slugify %}
+            <li><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ item.category }}</a></li>
+      {% endfor %}
     </ul>
     </nav>
 

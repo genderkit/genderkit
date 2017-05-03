@@ -2,14 +2,8 @@ summary: "Informing employers, educational institutions, etc, of a change in nam
 duration: "Organisations will normally expect changes to be permanent, though you may make changes several times if you like."
 effects:
   -
-    category: "Personal names"
-    detail: "Telling organisations about a change in personal name(s) changes how they refer to you."
+    category: "Legal and financial"
+    detail: "New name, title, or pronouns"
   -
-    category: "Family names"
-    detail: "Telling organisations about a change in family name(s) changes how they refer to you."
-  -
-    category: "Pronouns"
-    detail: "Telling organisations about a change in pronouns changes how they refer to you."
-  -
-    category: "Titles"
-    detail: "Telling organisations about a change in titles changes how they refer to you."
+    category: "ID documentation"
+    detail: "New name, title, or pronouns"

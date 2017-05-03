@@ -1,13 +1,9 @@
-{% for section in site.data.sections %}
-<div class="griditem">
-  <h3>{{ section }}</h3>
-  <ul>
+<div class="griditem widegriditem">
+  <ul id="effectslist">
   {% for category in site.data.categories %}
-    {% if category[1].section == section %}
-      {% assign categoryslug = category[0] | slugify %}
-      <li><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category[0] }}</a></li>
-    {% endif %}
+	  {% assign categoryslug = category.name | slugify %}
+	  <li><a href="{{ '/category/' | append: categoryslug | relative_url }}"><div class="icon">
+        <i class="flaticon-{{ categoryslug }}"></i></div>{{ category.name }}</a></li>
   {% endfor %}
   </ul>
 </div>
-{% endfor %}

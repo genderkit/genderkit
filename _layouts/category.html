@@ -3,48 +3,16 @@ layout: page
 ---
 
 <div class="sidebarcontainer">
-  <nav class="sidebar">
-    <h3>Categories</h3>
-    <ul>
-      <li><a href="javascript:$('.details li').show();">Show all</a></li>
-      {% for item in site.data.categories[page.index-for].children %}
-      <li><a href="javascript:$('.details li').hide();$('.category-{{ item | slugify }}').show();">{{ item }}</a></li>
-      {% endfor %}
-    </ul>
-    {% if site.data.categories[page.index-for].seealso %}
-      <h3>See also</h3>
-      <ul>
-        {% for item in site.data.categories[page.index-for].seealso %}
-        {% assign slug = item | slugify %}
-            <li><a href="{{ '/category/' | append: slug | relative_url }}">{{ item }}</a></li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </nav>
 
   <div class="content">
-    {% include feature.html %}
-
-    {% for p in site.articles %} 
-      {% assign slug = p.title | slugify %}
-      {% assign articledata = site.data.articles[slug] %}
-      
-    {% endfor %}
-
-
     {% assign articles = site.articles | sort: "weighting" %}
     <ul class="details">
       {% for p in articles %}
         {% assign slug = p.title | slugify %}
-        {% assign cssclasses = "" %}
 
         {% assign effects = site.data.articles[slug].effects
-           | where_exp:"item", "site.data.categories[page.index-for].children contains item.category" %}
+           | where_exp:"item", "item.category == page.index-for" %}
         {% if effects.size > 0 %}
-          {% for item in effects %}
-            {% assign cssclass = "category " | append: item.category | slugify %}
-            {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-          {% endfor %}
           <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
             <div class="categorydescription">
               <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>

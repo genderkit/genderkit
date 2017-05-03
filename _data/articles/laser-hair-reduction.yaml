@@ -2,5 +2,5 @@ aka: ["Laser hair removal"]
 summary: Permanently reducing the amount of hair by burning the hair and follicle using a laser
 duration: "The effects of laser hair removal are permanent and cannot be reversed."    
 effects:
-  - category: "Body hair locations"
-    detail: "Laser hair removal permanently reduces the amount of hair on part of the body."
+  - category: "Body hair"
+    detail: "Permanently reduces"
