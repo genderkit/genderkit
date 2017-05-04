@@ -1,0 +1,6 @@
+aka: ["Falls"]
+summary: Increasing the length of hair by attaching more hair to it
+duration: "TODO"
+effects:
+  - category: "Head hair"
+    detail: "Increases length"

@@ -1,0 +1,6 @@
+aka: ["Electro"]
+summary: Permanently reducing the amount of hair by burning the hair and follicle by passing an electric current through it
+duration: "The effects of electrolysis are permanent and cannot be reversed."    
+effects:
+  - category: "Body hair"
+    detail: "Permanently reduces"
