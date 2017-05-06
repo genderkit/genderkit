@@ -1,0 +1,9 @@
+summary: "Permanent surgical removal of the ovaries"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Lower body"
+    detail: "Ovaries removed"
+  -
+    category: "Fertility"
+    detail: "Permanent infertility"

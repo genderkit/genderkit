@@ -1,0 +1,6 @@
+summary: "Surgery to remove the breast tissue, more suitable to larger amounts of breast tissue"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Upper body"
+    detail: "Flattens chest"

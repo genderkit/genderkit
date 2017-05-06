@@ -1,0 +1,10 @@
+aka: [Hysto]
+summary: "Permanent surgical removal of the uterus (womb)"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Lower body"
+    detail: "Womb removed"
+  -
+    category: "Fertility"
+    detail: "Permanent infertility"

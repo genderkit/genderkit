@@ -1,0 +1,7 @@
+aka: ["Botulinum toxin"]
+summary: "Injections of a chemical into the face to relax the muscles and reduce wrinkles"
+duration: "The effects for three to four months, after which the skin returns to its original appearance."
+effects:
+  -
+    category: "Face"
+    detail: "Reduction of wrinkles"

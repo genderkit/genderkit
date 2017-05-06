@@ -1,0 +1,6 @@
+summary: "Surgery to improve the appearance of the chest after mastecomy"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Upper body"
+    detail: "Improves appearance after surgery"
