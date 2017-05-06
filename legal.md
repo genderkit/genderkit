@@ -3,8 +3,6 @@ layout: page
 title: Legal
 ---
 
-TODO: Legal content
-
 Gender Construction Kit uses the following open source projects:
 
 - [Overpass](https://github.com/RedHatBrand/Overpass)
@@ -12,3 +10,14 @@ Gender Construction Kit uses the following open source projects:
 - [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar)
 - [Stylus](https://github.com/stylus/stylus)
 - [stylus-flex-mixin](https://github.com/differui/stylus-flex-mixin)
+
+Gender Construction Kit also uses a number of icon sets which have been published with with-attribution licenses:
+
+- [Speech bubbles 3](http://www.flaticon.com/packs/speech-bubbles-3) designed by "Pixel perfect"
+- [Cumulus](http://www.flaticon.com/packs/cumulus) designed by Yannick
+- [Body parts](http://www.flaticon.com/packs/body-parts) designed by Freepik
+- [Human body outline](http://www.flaticon.com/packs/human-body-outline) designed by Freepik
+- [Medicine and health](http://www.flaticon.com/packs/medicine-and-health) designed by Freepik
+- [Flowers and leaves](http://www.flaticon.com/packs/flowers-and-leaves) designed by Freepik
+- [Presentation cards](http://www.flaticon.com/packs/presentation-cards) designed by Freepik
+- [Social](http://www.flaticon.com/categories/social) designed by Freepik
