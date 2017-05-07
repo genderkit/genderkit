@@ -4,6 +4,11 @@ weighting: 4
 ---
 
 {% capture warn %}
+Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting). This includes a higher risk of deep vein thrombosis (DVT) {% cite seal:2007 --location 175 %}. Where possible, oestrogen should be taken under medical supervision with regular blood testing.
+{% endcapture %}
+{% include warning warning=warn %}
+
+{% capture warn %}
 Taking oestrogen causes development of breast tissue, and all people who have taken oestrogen should be aware that they are at risk of breast cancer. There is no recommended method for breast self-examination in the UK, but you should learn how your breast tissue feels and looks and see a doctor if you experience any unexpected changes.
 {% endcapture %}
 {% include warning warning=warn %}
