@@ -20,4 +20,10 @@ Metoidioplasty first requires taking [testosterone]({% link _articles/testostero
 
 Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({% link _articles/vaginectomy.md %}), or [hysterectomy]({% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
 
+Metoidioplasty, like other gender surgeries, will normally require two opinions from gender specialists (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery.
+
+The cost of privately obtaining metoidioplasty in the UK is around £xxxx.
+
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for metoidioplasty.
+
 {% bibliography --cited %}

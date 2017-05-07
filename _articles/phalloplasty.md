@@ -14,4 +14,10 @@ An alterative option to phalloplasty is [metoidioplasty]({% link _articles/metoi
 
 Phalloplasty reqires reuse of skin from some other part of the body, most commonly the forearm. This skin is removed and used to create a tube that is reconnected to veins and nerves in the desired location. The arm then normally receives skin grafts to replace the removed skin, but there will be significant scarring on the arm {% cite frey2017update %}.
 
+Phalloplasty, like other gender surgeries, will normally require two opinions from gender specialists (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery.
+
+The cost of privately obtaining phalloplasty in the UK is around £xxxxx.
+
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for phalloplasty.
+
 {% bibliography --cited %}
