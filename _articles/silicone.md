@@ -4,6 +4,10 @@ weighting: 5
 ---
 
 {% capture warn %}
-Silicone filler injections are extrememly dangerous and can result in permanent disfigurement or even death. Do not attempt this.
+Silicone filler injections are extrememly dangerous and can result in permanent disfigurement {% cite hage2001devastating %} or death {% cite clark2008subcutaneous %}. Do not attempt this.
 {% endcapture %}
 {% include warning warning=warn %}
+
+Silicone injections are different from modern [breast augmentation]({% link _articles/breast-augmentation.md %}), which normally involves saline-filled implants with a solid silicone outer, which is significantly safer.
+
+{% bibliography --cited %}
