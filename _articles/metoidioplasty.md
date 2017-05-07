@@ -26,4 +26,6 @@ The cost of privately obtaining metoidioplasty in the UK is around £xxxx.
 
 If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for metoidioplasty.
 
+You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
+
 {% bibliography --cited %}
