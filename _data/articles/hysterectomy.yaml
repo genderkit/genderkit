@@ -8,3 +8,6 @@ effects:
   -
     category: "Fertility"
     detail: "Permanent infertility"
+  -
+    category: "Menstruation"
+    detail: "Stops"

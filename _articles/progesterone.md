@@ -1,6 +1,6 @@
 ---
 title: Progesterone
-weighting: 5
+weighting: 4
 ---
 
 Progesterone (in particular, medroxyprogesterone or norethisterone) can be used to supress menstruation {% cite seal:2007 --location 182 %}. More recently, [GnRH agonists]({% link _articles/gnrh-agonists.md %}) have also been used for this purpose. (TODO: work out whether to cite Seal 2015 here or something else?)
