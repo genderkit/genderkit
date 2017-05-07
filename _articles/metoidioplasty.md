@@ -19,3 +19,5 @@ In combination with metiodioplasty, many patients also choose to have [scrotopla
 Metoidioplasty first requires taking [testosterone]({% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occured (usually after 1-2 years into taking testosterone), metiodioplasty can be carried out {% cite frey2017update --location 732 %}. 
 
 Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({% link _articles/vaginectomy.md %}), or [hysterectomy]({% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
+
+{% bibliography --cited %}
