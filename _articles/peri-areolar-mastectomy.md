@@ -8,7 +8,7 @@ Not all breast tissue is removed in mastectomy, and it does not remove the risk 
 {% endcapture %}
 {% include warning warning=warn %}
 
-Typically, mastectomy is performed using the [double incision mastectomy]({% link _articles/double-incision-mastectomy.md %}) technique. However, some people may be able to undergo peri-areolar mastectomy instead.
+Typically, mastectomy is performed using the [double incision mastectomy]({{ site.baseurl }}{% link _articles/double-incision-mastectomy.md %}) technique. However, some people may be able to undergo peri-areolar mastectomy instead.
 
 Peri-areolar mastectomy is usually used only to remove small breasts (B-cup or less) where the patient also has good skin elasticity. 
 

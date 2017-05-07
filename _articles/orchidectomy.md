@@ -4,12 +4,12 @@ weighting: 5
 ---
 
 {% capture warn %}
-Orchidectomy results in permanent destruction of the testes and is irreversible. After orchidectomy you will be infertile and unable to have children unless you have previously carried out [gamete storage]({% link _articles/gamete-storage.md %}) (i.e. sperm banking).
+Orchidectomy results in permanent destruction of the testes and is irreversible. After orchidectomy you will be infertile and unable to have children unless you have previously carried out [gamete storage]({{ site.baseurl }}{% link _articles/gamete-storage.md %}) (i.e. sperm banking).
 {% endcapture %}
 {% include warning warning=warn %}
 
 {% capture warn %}
-After orchidectomy, you will need to take at least one sex hormone ([oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) in order to prevent medical problems like osteoporosis.
+After orchidectomy, you will need to take at least one sex hormone ([oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) and/or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %})) in order to prevent medical problems like osteoporosis.
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -21,4 +21,4 @@ The cost of privately obtaining an orchidectomy in the UK is around £xxxx.
 
 If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for an orchidectomy.
 
-Orchidectomy may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
+Orchidectomy may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
