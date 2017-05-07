@@ -9,8 +9,7 @@ Orchidectomy results in permanent destruction of the testes and is irreversible.
 {% include warning warning=warn %}
 
 {% capture warn %}
-After orchidectomy, you will need to take at least one sex hormone (
-[oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) in order to prevent medical problems like osteoporosis.
+After orchidectomy, you will need to take at least one sex hormone ([oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) in order to prevent medical problems like osteoporosis.
 {% endcapture %}
 {% include warning warning=warn %}
 
