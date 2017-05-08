@@ -72,7 +72,7 @@ organisations:
     manualDescription: NHS gender service located in Newcastle-upon-Tyne
   -
     name: 'Leeds Gender Identity Service'
-    url: 'http://www.leedspft.nhs.uk/our_services/gender_identity/'
+    url: 'https://www.leedsandyorkpft.nhs.uk/our-services/services-list/gender-identity-service/'
     tags: ['NHS Gender Services', Yorkshire]
     manualDescription: NHS gender service located in Leeds
   -
