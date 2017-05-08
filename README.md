@@ -2,9 +2,9 @@
 
 The UK guide to changing things linked to gender - [http://www.genderkit.org.uk](http://www.genderkit.org.uk)
 
-If you'd like to contribute writing to the articles on this site, please read [Contributing](https://github.com/genderkit/genderkit/wiki/Contributing) on the wiki.
+Want to help with writing articles? Please read [Contributing](https://github.com/genderkit/genderkit/wiki/Contributing) on the wiki.
 
-If you'd like to contribute to the code used to display this webiste, please read [Local Development](https://github.com/genderkit/genderkit/wiki/Local-development) on the wiki for instructions on how to set up a local installation of the website for testing.
+Want to write some code? Please read [Local Development](https://github.com/genderkit/genderkit/wiki/Local-development) on the wiki for instructions on how to set up a local installation of the website for testing. If you're looking for some jobs to do, check out the [issues list](https://github.com/genderkit/genderkit/issues) for ideas.
 
 ## License
 
