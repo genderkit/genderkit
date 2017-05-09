@@ -2,11 +2,9 @@
 layout: page
 ---
 
-<div class="sidebarcontainer">
 
-  <div class="content">
     {% assign articles = site.articles | sort: "weighting" %}
-    <ul class="details">
+    <ul class="details categories">
       {% for p in articles %}
         {% assign slug = p.title | slugify %}
 
@@ -15,21 +13,26 @@ layout: page
         {% if effects.size > 0 %}
           <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
             <div class="categorydescription">
-              <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-              <p>{{ site.data.articles[slug].summary }}</p>
+            {% if p.feature %}
+              <a href="{{ p.url | relative_url }}">
+                <div class="categorypicture" style="background-image: url({{ p.feature.image | relative_url }})">
+                  <h3>{{ p.title }}</h3>
+                </div>
+              </a>
+            {% else %}
+              <a href="{{ p.url | relative_url }}">
+                <div style="background-image: url({{ 'assets/images/nophoto.png' | relative_url }})" class="categorypicture">
+                  <h3>{{ p.title }}</h3>
+                </div>
+              </a>
+            {% endif %}
+              <!--<h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>-->
               {% for item in effects %}
                 {% assign effect = item %}
-                <p><b>{{ item.category }} - </b>{{ item.detail }}</p>
+                <p>{{ item.detail }}</p>
               {% endfor %}
             </div>
-            {% if p.feature %}
-              <img class="categorypicture" src="{{ p.feature.image | relative_url }}" alt="{{ p.feature.caption }}" />
-            {% else %}
-              <img class="categorypicture" src="{{ 'assets/images/nophoto.png' | relative_url }}" alt="Placeholder image for article with no associated illustratrion" />
-            {% endif %}
           </li>
         {% endif %}
       {% endfor %}
     </ul>
-  </div>
-</div>

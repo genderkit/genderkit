@@ -294,22 +294,45 @@ footer
 .details p, .details ul, .details h3
   margin 0
 
-.details > li > img
-  flex-shrink 0
+.categories
+  display flex
+  flex-direction row
+  flex-wrap wrap
+  align-items stretch
+  
+.categories > li
+  @media screen and (max-width: $page-onebigwide)
+    max-width $column-width
+  @media screen and (min-width: $page-onebigwide)
+    max-width $bigger-column-width
+  @media screen and (min-width: $page-twowide)
+    max-width $column-width
+  flex-direction column
+  margin $standard-padding
+  padding 0
+  background #eee
+
+.categories h3
+  background rgba(255,255,255,0.85)
+  padding 0.25rem 0.5rem
+  color black
+  
+.categories p
+  padding 0.5rem
+
+.categorypicture
   @media screen and (max-width: $page-onebigwide)
     width $column-width
     height $column-width * 0.75
+    background-size $column-width
   @media screen and (min-width: $page-onebigwide)
     width $bigger-column-width
     height $bigger-column-width * 0.75
+    background-size $bigger-column-width
   @media screen and (min-width: $page-twowide)
     width $column-width
     height $column-width * 0.75 
-  
-  padding 0
-  margin-bottom $standard-padding * 0.5
-  @media screen and (min-width: $page-threewide)
-    padding 0 $standard-padding*2 0 0
+    background-size $column-width
 
 .links
   padding 0
