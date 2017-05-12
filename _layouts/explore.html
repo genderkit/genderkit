@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html class="dark dots">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <div class="wrapper">
+    <div id="top" style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2rem;">
+    <div id="logobox" style="box-shadow: 0px 0px 0px 2px rgba(255,255,255,0.4);">
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/logostraight.png" alt="Gender Consturctuion Kit logo" id="logo" /></a>
+    </div>
+    </div>
+    <h2 style="padding: 1rem; margin: 0; margin-bottom: 1rem;">
+      {{ page.title }}
+    </h2>
+    <div class="sidebarcontainer">
+      <nav class="sidebar">
+      {% assign exploreList = site.explore | where: "category", page.category | sort: "title" %}
+      {% if exploreList.size == 1 %}
+      {% else %}
+      <h3>{{ page.category }}</h3>
+      <ul>
+        {% for p in exploreList %}
+          {% if p.title == page.title %}
+            <li>{{ p.title }}</li>
+          {% else %}
+            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
+      <h3>More to explore</h3>
+      {% assign categoryList = site.explore | group_by: "category" | sort: "name" %}
+      <ul>
+      {% for category in categoryList %}
+        {% if category.name == page.category %}
+        {% else %}
+          {% for p in category.items %}
+            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+      </nav>
+      <div>
+        {% if page.format == "grid" %}
+          <ul class="gridcontainer">
+            {% for item in site.data.explore[page.data] %}
+            <li class="griditem">
+              <h3 style="color:{{ site.data.wordcloud.colours | cycle }};">{{ item.title }}</h3>
+              <ul>
+              {% for subitem in item.items %}
+                <li>{{ subitem }}</li>
+              {% endfor %}
+              </ul>
+            </li>
+            {% endfor %}
+          </ul>
+        {% else %}
+        <ul class="wordcloud">
+          {% for name in site.data.explore[page.data] %}
+            <li style="font-size:{{ site.data.wordcloud.sizes | sample }};color:{{ site.data.wordcloud.colours | sample }};font-weight:{{ site.data.wordcloud.weights | sample }};">{{ name }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </div>
+</body>
+</html>

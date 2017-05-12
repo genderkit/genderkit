@@ -1,0 +1,20 @@
+sizes:
+  - 1.3rem
+  - 1.1rem
+  - 1.4rem
+  - 1rem
+  - 1.5rem
+  - 1.2rem
+
+colours:
+  - "#98f"
+  - "#bd0"
+  - "#8ea"
+  - "#0cc"
+  - "#0bf"
+  - "#6af"
+
+weights:
+  - 300
+  - 400
+  - 700

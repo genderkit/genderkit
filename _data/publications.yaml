@@ -1,0 +1,217 @@
+tags: 
+  - "Employment"
+  - "Education"
+  - "Media"
+  - "Legal"
+  - "Medical policies"
+  - "England"
+  - "Scotland"
+  - "Wales"
+  - "Studies"
+
+publications:
+  -
+    title: "Equality and Diversity Transgender Policy Guide for Employers 2015"
+    organisation: "GIRES"
+    year: 2015
+    url: "http://www.gires.org.uk/assets/Workplace/Transition-in-workplace-policy-Nov-2015.pdf"
+    tags: [Employment]
+  -
+    title: "Trans People and Stonewall"
+    organisation: "Stonewall"
+    year: 2015
+    url: "https://www.stonewall.org.uk/sites/default/files/trans_people_and_stonewall.pdf"
+    tags: []
+  -
+    title: "Monitoring Gender Nonconformity - A Quick Guide"
+    organisation: "GIRES"
+    year: 2015
+    url: "http://gires.org.uk/assets/Workplace/Monitoring.pdf"
+    tags: [Employment]
+  -
+    title: "Transition of a Pupil in School"
+    organisation: "GIRES"
+    year: 2015
+    url: "http://www.gires.org.uk/assets/Schools/Memorandum%20of%20understanding%20transition%20of%20pupil.pdf"
+    tags: [Education]
+  -
+    title: "Transition of a Teacher in School - Summary of the Law and Good Practice"
+    organisation: "GIRES"
+    year: 2015
+    url: "http://www.gires.org.uk/assets/Schools/Memorandum%20of%20understanding%20transition%20of%20pupil.pdf"
+    tags: [Education, Employment]
+  -
+    title: "Schools Transgender Guidance"
+    organisation: "Intercom Trust"
+    year: 2015
+    url: "http://www.lgbtqyouthcornwall.co.uk/images/TransGuidance/Transgender_Guidance_booklet%20a4.pdf"
+    tags: [Education]
+  -
+    title: "Promoting transgender equality
+in further education"
+    organisation: "Learning and Skills Improvement Service"
+    year: 2010
+    url: "http://webarchive.nationalarchives.gov.uk/20130802100617/http://www.lsis.org.uk/sites/www.lsis.org.uk/files/migrated-files/LSIS-Transequality-Briefing.pdf"
+    tags: [Education]
+  -
+    title: "Guidance for schools on preventing and responding to sexist, sexual and transphobic bullying"
+    organisation: "Department for Children, Schools and Families"
+    year: 2009
+    url: "http://gires.org.uk/assets/Schools/DCSF-01136-2009.pdf"
+    tags: [Education]
+  -
+    title: "Understanding non-binary people - A guide for the media"
+    organisation: "Trans Media Watch"
+    year: 2014
+    url: "http://www.transmediawatch.org/Documents/non_binary.pdf"
+    tags: [Media]
+  -
+    title: "A Transgender Primer"
+    organisation: "Channel Four"
+    year: 2011
+    url: "https://uktrans.info/attachments/article/31/transgender-primer-final.pdf"
+    tags: [Media]
+  -
+    title: "Media Style Guide"
+    organisation: "Trans Media Watch"
+    year: 2015
+    url: "http://www.transmediawatch.org/Documents/Media%20Style%20Guide.pdf"
+    tags: [Media]
+  -
+    title: "Policy on Trans People in Football"
+    organisation: "The Football Association" 
+    year: 2014
+    url: "http://www.thefa.com/~/media/files/thefaportal/governance-docs/equality/lgbt/the-fa-policy-on-trans-people-in-football.ashx?la=en"
+    tags: [Sport]
+  -
+    title: "Changing names and Changing Legal Gender"
+    organisation: "Press for Change"
+    year: 2013
+    url: "https://uktrans.info/attachments/article/157/amcechaasd.pdf"
+    tags: [Legal]
+  -
+    title: "Shining the Light - 10 Keys to Becoming a Trans Positive Organisation"
+    organisation: "Galop"
+    year: 2011
+    url: "http://www.galop.org.uk/wp-content/uploads/2011/05/final-shine-report-low-res.pdf"
+    tags: [Organisations]
+  -
+    title: "Policy for the Recruitment and Management of Transsexual Personnel in the Armed Forces"
+    organisation: "Ministry of Defence"
+    year: 2009
+    url: "https://uktrans.info/attachments/article/269/modpolicy.pdf"
+    tags: [Employment, Military]
+  -
+    title: "Guidelines for the Care of Trans* Patients in Primary Care"
+    organisation: "Royal College of General Practitioners"
+    year: 2015
+    url: "http://www.rcgp.org.uk/policy/rcgp-policy-areas/~/media/Files/Policy/A-Z-policy/RCGPNI-Guidance-for-the-care-of-Trans-people-in-primary-care-2015-web.ashx"
+    tags: [Medical policies]
+  -
+    title: "NHS Interim Protocol Guide"
+    organisation: "Action for Trans* Health"
+    year: 2014
+    url: "http://actionfortranshealth.org.uk/wp-content/uploads/2014/09/ATH-Interim-Protocol-Guide-1.pdf"
+    tags: [Medical policies, England]
+  -
+    title: "Primary Care responsibilities in relation to the prescribing and monitoring of hormone therapy for patients undergoing or having undergone Gender dysphoria treatments"
+    organisation: "NHS England"
+    year: 2014
+    url: "http://www.dorsetccg.nhs.uk/Downloads/aboutus/medicines-management/Other%20Guidelines/Specialised%20services%20circular.pdf"
+    tags: [Medical policies, England]
+  -
+    title: "Interim Gender Dysphoria Protocol and service Guideline 2013/14"
+    organisation: "NHS England"
+    year: 2013
+    url: "https://www.england.nhs.uk/wp-content/uploads/2013/10/int-gend-proto.pdf"
+    tags: [Medical policies, England]
+  -
+    title: "Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria"
+    organisation: "Royal College of Psychiatrists"
+    year: 2013
+    url: "http://www.rcpsych.ac.uk/files/pdfversion/CR181_Nov15.pdf"
+    tags: [Medical policies]
+  -
+    title: "Gender dysphoria services: a guide for General Practitioners and other healthcare staff"
+    organisation: "Department of Health"
+    year: 2013
+    url: "http://www.nhs.uk/Livewell/Transhealth/Documents/gender-dysphoria-guide-for-gps-and-other-health-care-staff.pdf"
+    tags: [Medical policies]
+  -
+    title: "Specialised Services Policy: CP21 Specialised Adult Gender Identity Services"
+    organisation: "Welsh Health Specialised Services Committee"
+    year: 2012
+    url: "http://www.wales.nhs.uk/sites3/Documents/898/Specialies%20Services%20Policy%20Gender%20Services%20CP21%20Approved%20120925.pdf"
+    tags: [Medical policies, Wales]
+  -
+    title: "NHS Scotland Gender Reassignment Protocol"
+    organisation: "NHS Scotland"
+    year: 2012
+    url: "http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf"
+    tags: [Medical policies, Scotland]
+  -
+    title: "Statement on the management of Gender Identity Disorder (GID) in Children & Adolescents"
+    organisation: "British Society for Paediatric Endocrinology and Diabetes"
+    year: 2009
+    url: "https://www.bsped.org.uk/clinical/docs/BSPEDStatementOnTheManagementOfGID.pdf"
+    tags: [Medical policies, Children]
+  -
+    title: "Guidelines for health organisations commissioning treatment services for trans people"
+    organisation: "Parliamentary Forum on Gender Identity"
+    year: 2009
+    url: "http://gires.org.uk/assets/Medpro-Assets/parliamentary-guidelines.pdf"
+    tags: [Medical policies, Organisations]
+  -
+    title: "Information about Hormonal Treatment for Trans Men"
+    organisation: "Leighton J Seal"
+    year: 2016
+    url: "https://uktrans.info/attachments/article/449/Seal%20-%20Information%20about%20hormonal%20therapy%20for%20trans%20men.pdf"
+    tags: [London]
+  -
+    title: "Administration Review"
+    organisation: "West London Mental Health NHS Trust"
+    year: 2012
+    url: "https://uktrans.info/attachments/article/435/GIC-administration-review.pdf"
+    tags: [London GIC]
+  -
+    title: "Information about Hormonal Treatment for Trans Women"
+    organisation: "Leighton J Seal"
+    year: 2016
+    url: "https://uktrans.info/attachments/article/447/HRT-info-for-Trans-Women.pdf"
+    tags: [London GIC]
+  -
+    title: "Prescribing Guideline PG12 - Pharmacological Treatment of Gender Dysphoria"
+    organisation: "Devon Partnership NHS Trust"
+    year: 2017
+    url: "http://www.devonpartnership.nhs.uk/fileadmin/user_upload/MedsMan/InternetDocs/PG12-GenderDysphoria.pdf"
+    tags: [The Laurels]
+  -
+    title: "Frequently asked questions about Trans* "
+    organisation: "Nottinghamshire Healthcare NHS Trust"
+    year: 2016
+    url: "https://www.nottinghamshirehealthcare.nhs.uk/download.cfm?doc=docm93jijm4n3242.pdf&ver=5502"
+    tags: [Nottingham]
+  -
+    title: "FAQs about the Nottingham Centre for Gender Dysphoria"
+    organisation: "Nottinghamshire Healthcare NHS Trust"
+    year: 2016
+    url: "https://www.nottinghamshirehealthcare.nhs.uk/download.cfm?doc=docm93jijm4n3240.pdf&ver=3866"
+    tags: [Nottingham]
+  -
+    title: "Out of sight, out of mind - Transgender People’s Experiences of Domestic Abuse"
+    organisation: "Scottish Transgender Alliance"
+    year: 2010
+    url: "http://www.scottishtrans.org/wp-content/uploads/2013/03/trans_domestic_abuse.pdf"
+    tags: [Studies, Scotland]
+  -
+    title: "Transgender Experiences in Scotland"
+    organisation: "Scottish Transgender Alliance"
+    year: 2008
+    url: "http://www.scottishtrans.org/wp-content/uploads/2013/03/staexperiencessummary03082.pdf"
+    tags: [Studies, Scotland]
+  -
+    title: "Trans Mental Health Study 2012"
+    organisation: "Scottish Transgender Alliance"
+    year: 2012
+    url: "http://www.scottishtrans.org/wp-content/uploads/2013/03/trans_mh_study.pdf"
+    tags: [Studies, Scotland]
