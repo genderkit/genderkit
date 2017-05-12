@@ -27,7 +27,7 @@ collections:
     output: true
   categories:
     output: true
-  checklists:
+  explore:
     output: true
 
 defaults:
@@ -44,6 +44,12 @@ defaults:
     values:
       layout: category
       permalink: /category/:name/
-
+  - scope:
+      path: ""
+      type: explore
+    values:
+      layout: explore
+      permalink: /explore/:name/
+      
 stylus:
   compress: true

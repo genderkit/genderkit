@@ -17,6 +17,7 @@ $bigger-font-size = 20px
 $main-colour = #60f
 $dark-border-colour = rgba(255, 255, 255, .5)
 $sunset = linear-gradient(to left, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%)
+$dawn = linear-gradient(to right, hsla(75, 100%, 75%, 1) 0%, hsla(165, 100%, 75%, 1) 50%, hsla(255, 100%, 75%, 1) 100%)
 $night = linear-gradient(to bottom, black 0%, $main-colour 99%)
 
 // Grid system - a standard column size and gutter size
@@ -86,6 +87,10 @@ h2
   border-bottom 4px solid #f90
   padding 0 $standard-padding $standard-padding $standard-padding
   margin $standard-padding 0
+.dark h2
+  font-weight 300
+  border-image $dawn 10
+  border-bottom 2px solid #f90
 h3
   font-weight bold
   font-size 100%
@@ -104,10 +109,13 @@ figure
     @media screen and (min-width: $page-twowide)
       width $two-column-width
       max-width $two-column-width
+    @media screen and (min-width: $page-fourwide)
+      width $three-column-width
+      max-width $three-column-width
 figcaption
-  text-align: center;
-  margin-top: $standard-padding;
-  margin-bottom: $standard-padding * 2;
+  text-align center
+  margin-top $standard-padding
+  margin-bottom $standard-padding * 2
 
 // A wrapper around the page that centers the content
 // and sets the width of the content
@@ -140,7 +148,10 @@ footer
   .links
     justify-content center 
     padding-bottom 0.5em
-
+.dark footer
+  border-image $dawn 10
+  border-width 2px 0 0 0
+  
 // Site logo
 #logobox
   padding $standard-padding
@@ -254,7 +265,8 @@ footer
       margin 0.25rem 0
   li
     list-style-type none
-    padding-bottom 0.25rem
+    line-height 1.25
+    padding-bottom 0.5rem
     padding-right 0.5rem
     @media screen and (max-width: $page-threewide)
       padding-bottom 0rem
@@ -347,11 +359,13 @@ footer
 
 .gridcontainer
   margin 0 auto
+  padding 0
   display flex
   flex-direction row
   flex-wrap wrap
 
 .griditem
+  list-style-type none
   @media screen and (max-width: $page-onebigwide)
     width $column-width
     max-width $column-width
@@ -561,3 +575,27 @@ footer
   
 .categorydescription
   order 1
+  
+.wordcloud
+  display flex
+  flex-direction row
+  flex-wrap wrap
+  align-items center
+  justify-content space-between
+  margin 1rem 0.5rem
+  padding 0
+  
+.wordcloud li
+  list-style-type none
+  padding 0 0.5rem 0 0.5rem
+  font-size 2rem
+  color rgb(223, 255, 127)
+  text-transform uppercase
+  
+.dots
+  background-color black
+  background-image url("{{ site.baseurl }}/assets/images/halftoneheader2.png")
+  background-repeat repeat-x
+  
+.dark .sidebar a
+  color #98f
