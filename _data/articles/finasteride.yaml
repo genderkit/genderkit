@@ -1,0 +1,6 @@
+summary: "Medication that temporarily slows hair loss due to baldness and sometimes causes some regrowth"
+duration: "TODO"
+effects:
+  -
+    category: "Head hair"
+    detail: "Reduces hair loss"
