@@ -1,13 +1,23 @@
 tags: 
-  - "Employment"
-  - "Education"
-  - "Media"
-  - "Legal"
+  - "Under 18s"
+  - "Family"
+  - "Studies"
   - "Medical policies"
+  - "Hormones"
+  - "Surgery"
   - "England"
   - "Scotland"
   - "Wales"
-  - "Studies"
+  - "Northern Ireland"
+  - "Race"
+  - "Learning Disabilities"
+  - "Employment"
+  - "Education"
+  - "Media"
+  - "Sport"
+  - "Legal"
+  - "Sex"
+
 
 publications:
   -
@@ -150,6 +160,19 @@ in further education"
     url: "http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf"
     tags: [Medical policies, Scotland]
   -
+    title: "Gender Reassignment Protocol - Interim Guidance"
+    organisation: "NHS Scotland"
+    year: 2017
+    url: "http://www.ngicns.scot.nhs.uk/wp-content/uploads/2015/07/Gender-Reassignment-Interim-Guidance-2.pdf"
+    tags: [Medical policies, Scotland]
+  -
+    title: "Explanatory Notes to be read in conjunction with
+the Gender Reassignment Protocol"
+    organisation: "National Gender Identity Clinical Network for Scotland"
+    year: 2016
+    url: "http://www.ngicns.scot.nhs.uk/wp-content/uploads/2016/04/NGICNS-Explanatory-Notes-for-GRP-v1-0-2.pdf"
+    tags: [Medical policies, Scotland]
+  -
     title: "Statement on the management of Gender Identity Disorder (GID) in Children & Adolescents"
     organisation: "British Society for Paediatric Endocrinology and Diabetes"
     year: 2009
@@ -166,37 +189,37 @@ in further education"
     organisation: "Leighton J Seal"
     year: 2016
     url: "https://uktrans.info/attachments/article/449/Seal%20-%20Information%20about%20hormonal%20therapy%20for%20trans%20men.pdf"
-    tags: [London]
+    tags: [London, Hormones]
   -
     title: "Administration Review"
     organisation: "West London Mental Health NHS Trust"
     year: 2012
     url: "https://uktrans.info/attachments/article/435/GIC-administration-review.pdf"
-    tags: [London GIC]
+    tags: [London]
   -
     title: "Information about Hormonal Treatment for Trans Women"
     organisation: "Leighton J Seal"
     year: 2016
     url: "https://uktrans.info/attachments/article/447/HRT-info-for-Trans-Women.pdf"
-    tags: [London GIC]
+    tags: [London, Hormones]
   -
     title: "Prescribing Guideline PG12 - Pharmacological Treatment of Gender Dysphoria"
     organisation: "Devon Partnership NHS Trust"
     year: 2017
     url: "http://www.devonpartnership.nhs.uk/fileadmin/user_upload/MedsMan/InternetDocs/PG12-GenderDysphoria.pdf"
-    tags: [The Laurels]
+    tags: [The Laurels, Hormones]
   -
     title: "Frequently asked questions about Trans* "
-    organisation: "Nottinghamshire Healthcare NHS Trust"
+    organisation: "The Nottingham Centre for Transgender Health"
     year: 2016
     url: "https://www.nottinghamshirehealthcare.nhs.uk/download.cfm?doc=docm93jijm4n3242.pdf&ver=5502"
-    tags: [Nottingham]
+    tags: [England]
   -
     title: "FAQs about the Nottingham Centre for Gender Dysphoria"
-    organisation: "Nottinghamshire Healthcare NHS Trust"
+    organisation: "The Nottingham Centre for Transgender Health"
     year: 2016
     url: "https://www.nottinghamshirehealthcare.nhs.uk/download.cfm?doc=docm93jijm4n3240.pdf&ver=3866"
-    tags: [Nottingham]
+    tags: [England]
   -
     title: "Out of sight, out of mind - Transgender People’s Experiences of Domestic Abuse"
     organisation: "Scottish Transgender Alliance"
@@ -215,3 +238,270 @@ in further education"
     year: 2012
     url: "http://www.scottishtrans.org/wp-content/uploads/2013/03/trans_mh_study.pdf"
     tags: [Studies, Scotland]
+  -
+    title: "Survey of Patient Satisfaction with Transgender Services"
+    organisation: "NHS Audit Information and Analysis Unit"
+    year: 2008
+    url: "https://www.gires.org.uk/assets/Medpro-Assets/AIAUSatisfactionAuditJune2008.pdf"
+    tags: [Studies]
+  -
+    title: "Transsexual people and sport - Guidance for sporting bodies"
+    organisation: "Department for Culture, Media and Sport"
+    year: 2005
+    url: "http://www.lgbthistorymonth.org.uk/documents/DCMS%20Guidance%20-%20Transsexual%20People%20and%20Sport%20(1).pdf"
+    tags: [Sport]
+  -
+    title: "Patients’ Guide to Phalloplasty Techniques"
+    organisation: "St Peter’s Andrology Centre"
+    year: 2016
+    url: "https://www.andrology.co.uk/download/documents/1/0/Patients-Guide-To-Phalloplasty.pdf"
+    tags: [Surgery]
+  -
+    title: "Frequently Asked Questions"
+    organisation: "Sheffield Gender Identity Clinic"
+    year: 2016
+    url: "https://shsc.nhs.uk/wp-content/uploads/2014/04/GIS-FAQs.pdf"
+    tags: [England]
+  -
+    title: "Guidelines for the safe prescribing of treatments used in gender dysphoria for Trans Women"
+    organisation: "Sheffield Gender Identity Clinic"
+    year: 2015
+    url: "https://shsc.nhs.uk/wp-content/uploads/2015/02/Trans-women-collaborative-care-protocol-v6.2.pdf"
+    tags: [England, Medical policies, Hormones]
+  -
+    title: "Guidelines for the safe prescribing of treatments used in gender dysphoria for Trans Men"
+    organisation: "Sheffield Gender Identity Clinic"
+    year: 2015
+    url: "https://shsc.nhs.uk/wp-content/uploads/2015/02/Trans-men-collaborative-care-protocol-v6.2.pdf"
+    tags: [England, Medical policies, Hormones]
+  -
+    title: "Falling through the cracks - Non-binary people’s experiences of transition related healthcare"
+    organisation: "Action for Trans* Health"
+    year: 2015
+    url: "http://actionfortranshealth.org.uk/wp-content/uploads/2015/11/Falling-through-the-cracks-final-with-cover.pdf"
+    tags: [Studies]
+  -
+    title: "Sexual Health Guide for trans and non-binary young people"
+    organisation: "Gender Jam"
+    year: 2015
+    url: https://genderjam.org.uk/wp-content/uploads/2015/09/TYSHGuide.pdf
+    tags: [Sex, Northern Ireland]
+  -
+    title: "Domestic Violence - a Resource for Trans People"
+    organisation: "NHS Barking and Dagenham"
+    year: 2009
+    url: "http://www.domesticviolencelondon.nhs.uk/uploads/downloads/DV%20Trans%20guide_FINAL_FOR_WEB.pdf"
+    tags: [Legal]
+  -
+    title: "Coming Out - A Coming Out Guide for Trans Young People"
+    organisation: "LGBT Youth Scotland"
+    year: 2015
+    url: "https://www.lgbtyouth.org.uk/files/documents/guides/Coming_out_guide_-_T.pdf"
+    tags: [Under 18s, Scotland]
+  -
+    title: "Trans Youth Sexual Health Booklet"
+    organisation: "Gendered Intelligence"
+    year: 2012
+    url: "http://cdn0.genderedintelligence.co.uk/2012/11/17/17-14-04-GI-sexual-health-booklet.pdf"
+    tags: [Sex, Under 18s]
+  -
+    title: "A Guide for Parents and Family Members of Trans People in the UK"
+    organisation: "Gendered Intelligence"
+    year: 2013
+    url: "http://cdn0.genderedintelligence.co.uk/2013/01/21/17-05-54-booklet2013FINAL3.pdf"
+    tags: [Family]
+  -
+    title: "Parents and Family Members of Trans People in the UK - A Report on the Issues"
+    organisation: "Gendered Intelligence"
+    year: 2012
+    url: "http://cdn0.genderedintelligence.co.uk/2012/11/17/17-18-53-Report_into_Parents_and_family_members_of_trans_people1108.pdf"
+    tags: [Family]
+  -
+    title: "A guide for young trans people in the UK"
+    organisation: "Department of Health"
+    year: 2007
+    url: "http://cdn0.genderedintelligence.co.uk/2012/11/17/17-15-02-A-Guide-For-Young-People.pdf"
+    tags: [Under 18s]
+  -
+    title: "Medical care for gender variant children and young people: answering families’ questions"
+    organisation: "Department of Health"
+    year: 2008
+    url: "http://www.gires.org.uk/assets/DOH-Assets/pdf/doh-children-and-adolescents.pdf"
+    tags: [Under 18s, Family]
+  -
+    title: "Transgender issues and later life"
+    organisation: "Age UK"
+    year: 2017
+    url: "http://www.ageuk.org.uk/Documents/EN-GB/Factsheets/FS16_Transgender_issues_and_later_life_fcs.pdf?dtrk=true"
+    tags: []
+  -
+    title: "Living My Life - Information for people who currently identify as trans or who are beginning to explore their gender identity"
+    organisation: "Centre for HIV and Sexual Health"
+    year: 2011
+    url: "http://www.nhs.uk/Livewell/Transhealth/Documents/LivingMyLife.pdf"
+    tags: []
+  -
+    title: "The workplace and gender reassignment"
+    organisation: "Civil Service"
+    year: 2016
+    url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503663/Workplace_Guide_CSEP_revised_Final_V1_.pdf"
+    tags: [Employment]
+  -
+    title: "Guidance for GPs and other clinicians on the
+treatment of gender variant people"
+    organisation: "Department of Health"
+    year: 2008
+    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-guidelines-for-clinicians.pdf"
+    tags: [Medical policies]
+  -
+    title: "A guide to hormone therapy for trans people"
+    organisation: "Department of Health"
+    year: 2007
+    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-hormone-therapy.pdf"
+    tags: [Hormones]
+  -
+    title: "Trans - A practical guide for the NHS"
+    organisation: "Department of Health"
+    year: 2008
+    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-trans-practical-guide.pdf"
+    tags: []
+  -
+    title: "Bereavement: A guide for Transsexual, Transgender people and their loved ones"
+    organisation: "Department of Health"
+    year: 2007
+    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-bereavement.pdf"
+    tags: [Family, Legal]
+  -
+    title: "Lower surgery for those assigned male, who
+identify as trans women, trans feminine,
+non-binary or non-gender"
+    organisation: "GIRES"
+    year: 2016
+    url: "https://www.gires.org.uk/assets/Support-Assets/lowersurgery-transwomen.pdf"
+    tags: [Surgery]
+  -
+    title: "A guide to lower surgery for those assigned female, identifying as men, trans masculine, non-binary or non-gender "
+    organisation: "GIRES"
+    year: 2015
+    url: "https://www.gires.org.uk/assets/Support-Assets/lower-surgery.pdf"
+    tags: [Surgery]
+  -
+    title: "Barriers to health faced by transgender and non-binary black and minority ethnic people"
+    organisation: "Race Equality Foundation"
+    year: 2016
+    url: "http://www.better-health.org.uk/sites/default/files/briefings/downloads/Better%20Health%2041%20-%20Trans%20NB%20[final].pdf"
+    tags: [Studies, Race]
+  -
+    title: "Inclusivity - Supporting BAME Trans People"
+    organisation: "GIRES"
+    year: 2016
+    url: "http://www.gires.org.uk/assets/Support-Assets/BAME_Inclusivity.pdf"
+    tags: [Studies, Race]
+  -
+    title: "Providing services for transgender customers - a guide"
+    organisation: "Government Equalities Office"
+    year: 2015
+    url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484857/Providing_services_for_transgender_customers-a_guide.pdf"
+    tags: [Legal]
+  -
+    title: "Recruiting and retaining transgender staff: a guide for employers"
+    organisation: "Government Equalities Office"
+    year:
+    url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484855/The_recruitment_and_retention_of_transgender_staff-_guidance_for_employers.pdf"
+    tags: [Employment]
+  -
+    title: "Preventing suicide among trans young people: a toolkit for nurses"
+    organisation: "Public Health England"
+    year: 2015
+    url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/417707/Trans_suicide_Prevention_Toolkit_Final_26032015.pdf"
+    tags: [Medical policies]
+  -
+    title: "Guide to UK Legal Gender Recognition"
+    organisation: "UK Trans Info"
+    year: 2015
+    url: "http://uktrans.info/graguide.pdf"
+    tags: [Legal]
+  -
+    title: "Change of name"
+    organisation: "The Nottingham Centre for Transgender Health"
+    year: 2016
+    url: "https://www.nottinghamshirehealthcare.nhs.uk/download.cfm?doc=docm93jijm4n2281.pdf&ver=2453"
+    tags: [Legal, England]
+  -
+    title: "Scottish Trans Justice Guide"
+    organisation: "Scottish Trans"
+    year: 2015
+    url: "http://www.scottishtrans.org/wp-content/uploads/2015/05/STA-trans-justice-guide.pdf"
+    tags: [Legal, Scotland]
+  -
+    title: "A Guide to Supporting Trans Children and Young People"
+    organisation: "Action for Children"
+    year: 2016
+    url: "https://www.actionforchildren.org.uk/media/6718/a-guide-to-supporting-trans-children-and-young-people.pdf"
+    tags: [Under 18s, Organisations]
+  -
+    title: "A guide to supporting trans staff and volunteers "
+    organisation: "Action for Children"
+    year: 2016
+    url: "https://www.actionforchildren.org.uk/media/6717/a-guide-to-supporting-trans-staff-and-volunteers.pdf"
+    tags: [Organisations]
+  -
+    title: "What is transgender - Information Booklet for people with Learning Disabilities"
+    organisation: "Scottish Government"
+    year: 2017
+    url: "http://www.lgbthealth.org.uk/wp-content/uploads/2017/03/What-is-transgender-Final-Version.pdf"
+    tags: [Learning Disabilities]
+  -
+    title: "Gender Identity - An information booklet for trans people in Scotland and their families and friends"
+    organisation: "NHS Health Scotland"
+    year: 2007
+    url: "http://www.lgbthealth.org.uk/wp-content/uploads/2014/08/gender_identity.pdf"
+    tags: [Family]
+  -
+    title: "Transgender Workplace Support Guide"
+    organisation: "NHS Lothian"
+    year: 2016
+    url: "http://www.ngicns.scot.nhs.uk/wp-content/uploads/2016/09/TWSP-LGBT-Info-Guide-Final.pdf"
+    tags: [Employment]
+  -
+    title: "Issues of Bullying Around Trans and Gender Variant Students in Schools, Colleges and Universities"
+    organisation: "Gendered Intelligence"
+    year: 2008
+    url: "http://cdn0.genderedintelligence.co.uk/2015/10/07/10-31-21-Trans%20Youth%20Bullying%20Report%20-%20Gendered%20Intelligence%20(formatted%20Aug%2015)%20pdf%20(1).pdf"
+    tags: [Education]
+  -
+    title: "Gender and Sexual Diversity Therapy"
+    organisation: "Pink Therapy"
+    year: 2012
+    url: "http://www.pinktherapy.com/Portals/0/Downloadables/Translations/GB_GSDT.pdf"
+    tags: [Therapy]
+  -
+    title: "Changing for the Better - How to Include Transgender People in your Workplace"
+    organisation: "Stonewall Scotland"
+    year: 2009
+    url: "http://www.gires.org.uk/assets/Workplace/changing_for_the_better.pdf"
+    tags: [Employment]
+  -
+    title: "Advancing transgender equality - A Plan for Action"
+    organisation: "Home Office"
+    year: 2011
+    url: "http://www.pfc.org.uk/pdf/transgender-action-plan.pdf"
+    tags: [Legal]
+  -
+    title: "Supporting a student or member of staff who is transitioning"
+    organisation: "Equality Challenge Unit"
+    year: 2013
+    url: "http://www.ecu.ac.uk/wp-content/uploads/external/supporting-a-student-or-member-of-staff-who-is-transitioning.pdf"
+    tags: [Education]
+  -
+    title: "Trans staff and students in higher education"
+    organisation: "Equality Challenge Unit"
+    year: 2010
+    url: "http://www.ecu.ac.uk/wp-content/uploads/external/trans-staff-and-students-in-he-revised-2010.pdf"
+    tags: [Education]
+  # -
+  #   title: ""
+  #   organisation: ""
+  #   year:
+  #   url: ""
+  #   tags: []
