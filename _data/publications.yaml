@@ -404,9 +404,9 @@ non-binary or non-gender"
     url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484857/Providing_services_for_transgender_customers-a_guide.pdf"
     tags: [Legal]
   -
-    title: "Recruiting and retaining transgender staff: a guide for employers"
+    title: "The recruitment and retention of transgender staff - guidance for employers"
     organisation: "Government Equalities Office"
-    year:
+    year: 2015
     url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484855/The_recruitment_and_retention_of_transgender_staff-_guidance_for_employers.pdf"
     tags: [Employment]
   -
@@ -414,7 +414,7 @@ non-binary or non-gender"
     organisation: "Public Health England"
     year: 2015
     url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/417707/Trans_suicide_Prevention_Toolkit_Final_26032015.pdf"
-    tags: [Medical policies]
+    tags: [Medical policies, Mental Health]
   -
     title: "Guide to UK Legal Gender Recognition"
     organisation: "UK Trans Info"
@@ -499,6 +499,154 @@ non-binary or non-gender"
     year: 2010
     url: "http://www.ecu.ac.uk/wp-content/uploads/external/trans-staff-and-students-in-he-revised-2010.pdf"
     tags: [Education]
+  -
+    title: 'Frequently asked questions'
+    organisation: 'Northamptonshire Gender Identity Clinic'
+    year: 2017
+    url: 'https://www.nhft.nhs.uk/download.cfm?doc=docm93jijm4n6826.pdf&ver=15086'
+    tags: [England]
+  -
+    title: 'Gender Reassignment Protocol Audit Community Engagement Focus Groups Report of Findings'
+    organisation: 'Scottish Transgender Alliance'
+    year: 2014
+    url: 'http://www.scottishtrans.org/wp-content/uploads/2017/02/Gender-Reassignment-Audit-Community-Report.pdf'
+    tags: [Studies, Scotland]
+  -
+    title: 'Public bodies and the public sector duties relating to transsexual and transgender people: Report of findings and case studies'
+    organisation: 'Equality and Human Rights Commission'
+    year: 2010
+    url: 'http://www.scottishtrans.org/wp-content/uploads/2013/03/psd_trans_report.pdf'
+    tags: [Studies]
+  -
+    title: 'Engendered Penalties: Transgender and Transsexual People’s Experiences of Inequality and Discrimination'
+    organisation: 'The Equalities Review'
+    year: 2007
+    url: 'http://www.pfc.org.uk/pdf/EngenderedPenalties.pdf'
+    tags: [Studies]
+  -
+    title: 'Gender Identity Services in England'
+    organisation: 'Press for Change'
+    year: 2007
+    url: 'http://www.pfc.org.uk/pdf/UK_GIC_%20Mapping&ServicesProject%204DoH.pdf'
+    tags: [Studies]
+  -
+    title: 'Count Me In Too - Trans People Additional Findings Report'
+    organisation: 'Spectrum'
+    year: 2008
+    url: 'http://www.realadmin.co.uk/microdir/3700/File/CMIT_Trans_Report_Dec08.pdf'
+    tags: [Studies]
+  -
+    title: 'Guidance on trans equality
+in post-school education'
+    organisation: 'Unison'
+    year: 2012
+    url: 'https://www.ucu.org.uk/media/5014/Trans-equality-in-post-school-education/pdf/forum_trans_guide_20121.pdf'
+    tags: [Education]
+  -
+    title: 'Sandyford Gender Identity Services'
+    organisation: 'NHS Greater Glasgow and Clyde'
+    year: 2014
+    url: 'http://www.sandyford.org/media/1520/gender-identity-service.pdf'
+    tags: [Scotland]
+  -
+    title: 'Transgender Guidance'
+    organisation: 'Lancashire County Council'
+    year: 2014
+    url: 'http://www.lancashirechildrenstrust.org.uk/web/viewdoc.asp?id=121455'
+    tags: [Education, England]
+  -
+    title: 'Changing your name and title'
+    organisation: 'UK Trans Info'
+    year: 2016
+    url: 'http://uktrans.info/namechange.pdf'
+    tags: [Legal]
+  -
+    title: 'Government Response to the Women and Equalities Committee Report on Transgender Equality'
+    organisation: 'Government Equalities Office'
+    year: 2016
+    url: 'https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/535764/Government_Response_to_the_Women_and_Equalities_Committee_Report_on_Transgender_Equality.pdf'
+    tags: [Legal]
+  -
+    title: 'Trans Health Factsheet on Ageing - Rising to the challenge'
+    organisation: 'The National LGB&T Partnership'
+    year: 2015
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2012/07/np-trans-health-factsheet-ageing-final.pdf'
+    tags: []
+  -
+    title: 'Trans Health Factsheet on Sexual Health'
+    organisation: 'The National LGB&T Partnership'
+    year: 2015
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2012/07/np-trans-health-factsheet-sexual-health-final.pdf'
+    tags: [Sex]
+  -
+    title: 'Trans Health Factsheet on Trans Children, Teens & their Parents'
+    organisation: 'The National LGB&T Partnership'
+    year: 2015
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2012/07/np-trans-health-factsheet-children-teens-final.pdf'
+    tags: [Under 18s, Family]
+  -
+    title: 'Trans Health Factsheet on Alcohol, Drugs & Tobacco'
+    organisation: 'The National LGB&T Partnership'
+    year: 2015
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2012/07/np-trans-health-factsheet-adt-final.pdf'
+    tags: []
+  -
+    title: 'Trans Health Factsheet on Exercise and Nutrition'
+    organisation: 'The National LGB&T Partnership'
+    year: 2015
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2012/07/np-trans-health-factsheet-exercise-and-nutrition-final.pdf'
+    tags: []
+  -
+    title: 'Trans Health Factsheet on
+Mental Health & Wellbeing'
+    organisation: 'The National LGB&T Partnership'
+    year: 2015
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2012/07/np-trans-health-factsheet-mental-health-and-wellbeing-final.pdf'
+    tags: [Mental Health]
+  -
+    title: 'Trans Health Factsheet on BAME people'
+    organisation: 'The National LGB&T Partnership'
+    year: 2016
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2015/02/trans-health-factsheet-bame-final-may2016.pdf'
+    tags: [Race]
+  -
+    title: 'Trans Health Factsheet on Hormones'
+    organisation: 'The National LGB&T Partnership'
+    year: 2016
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2015/02/np-trans-health-factsheet-hormones.pdf'
+    tags: [Hormones]
+  -
+    title: 'Trans Health Factsheet on
+General Healthcare'
+    organisation: 'The National LGB&T Partnership'
+    year: 2016
+    url: 'https://nationallgbtpartnershipdotorg.files.wordpress.com/2015/02/trans-health-factsheet-general-healthcare-final-may2016.pdf'
+    tags: []
+  -
+    title: 'The Luck of the Draw - A Report on the Experiences of Trans Individuals Reporting Hate Incidents in Northern Ireland'
+    organisation: 'Institute for Conflict Research'
+    year: 2010
+    url: 'http://conflictresearch.org.uk/reports/hatecrime/The-Luck-of-the-Draw-August-2011.pdf'
+    tags: [Studies, Northern Ireland]
+  -
+    title: 'Grasping the Nettle:  The Experiences of Gender Variant Children and Transgender Youth Living in Northern Ireland'
+    organisation: 'Institute for Conflict Research'
+    year: 2013
+    url: 'https://www.executiveoffice-ni.gov.uk/sites/default/files/publications/ofmdfm_dev/grasping-the-nettle-transgender-youth-living-in-ni.pdf'
+    tags: [Studies, Northern Ireland]
+  -
+    title: 'Healthcare Issues for Transgender People Living in Northern Ireland'
+    organisation: 'Institute for Conflict Research'
+    year: 2011
+    url: 'http://conflictresearch.org.uk/reports/equality-diversity/Healthcare-issues-for-transgender-individuals.pdf'
+    tags: [Studies, Northern Ireland]
+  -
+    title: 'Student Activism Guide'
+    organisation: 'Action for Trans* Health'
+    year: 2014
+    url: 'http://actionfortranshealth.org.uk/wp-content/uploads/2014/09/ATH-Student-Activist-Guide-3.pdf'
+    tags: [Activism, Education]
+
   # -
   #   title: ""
   #   organisation: ""
