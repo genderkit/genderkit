@@ -36,7 +36,7 @@ function selectCategory(category, event)
 
     {% for publisher in publishers %}
     <div class="grouping">
-      <h3>{{ publisher.name }}</h3>
+      <h3>{{ publisher.name | xml_escape }}</h3>
       <ul class="details">
       {% assign sortedPublications = publisher.items | sort: 'year' | reverse %}
       {% for item in sortedPublications %}
