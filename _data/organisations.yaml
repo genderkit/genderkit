@@ -101,10 +101,12 @@ organisations:
         facebook: gendergp
         youtube: UCU1mUfFhtdIRZiWADXqPtnw
         tags: ['Private Gender Services', National]
-        lastFacebookPost: '2017-05-10T13:29:49+0000'
+        lastFacebookPost: '2017-05-12T17:48:41+0000'
         facebookDescription: 'This is a page to allow people to contact a real NHS GP for confidential advice on Transgender hormones, counselling and advice.'
         twitterDescription: 'Transgender advocate and Gender Specialist. Free medical advice for gender queries. https://t.co/w7AlxI5aP3'
-        lastTwitterPost: 'Wed May 10 13:29:49 +0000 2017'
+        lastTwitterPost: 'Fri May 12 17:48:41 +0000 2017'
+        facebookId: '822307394522466'
+        twitterID: 2815718824
     -
         name: 'GenderCare (Dr. Lorimer)'
         url: 'http://gendercare.co.uk'
@@ -114,7 +116,9 @@ organisations:
         lastFacebookPost: '2017-04-23T14:45:21+0000'
         facebookDescription: 'I head up GenderCare, a network of individual healthcare practitioners, all qualified, Consultant-level professionals experienced in the gender field.'
         twitterDescription: 'I head up GenderCare, a private sector network of gender healthcare practitioners. 15 years'' experience working with trans and non-binary people.  He/him/his.'
-        lastTwitterPost: 'Tue May 09 18:31:16 +0000 2017'
+        lastTwitterPost: 'Sun May 14 12:49:28 +0000 2017'
+        facebookId: '1790072994549142'
+        twitterID: 731232741078007800
     -
         name: 'National Gender Identity Clinical Network for Scotland'
         url: 'http://www.ngicns.scot.nhs.uk'
@@ -127,10 +131,12 @@ organisations:
         facebook: borntoturnheads
         youtube: BornUk
         tags: ['North West', Manchester, Companies]
-        lastFacebookPost: '2017-05-11T07:05:42+0000'
+        lastFacebookPost: '2017-05-13T10:41:00+0000'
         facebookDescription: 'Advice, Friendship, Makeup, Hair and Beauty. Run by and for transgender people. '
         twitterDescription: 'Born is a style and make-up studio specialising in trans beauty, voice and confidence building.'
         lastTwitterPost: 'Mon May 08 11:13:33 +0000 2017'
+        facebookId: '780039575408867'
+        twitterID: 3123685997
     -
         name: Barberette
         url: 'http://www.barberette.co.uk/'
@@ -139,8 +145,10 @@ organisations:
         tags: [London, Companies]
         twitterDescription: 'Gender neutral barbershop est. 2012 Appointments ONLY via the website. Our prices are based on the cut you have, not your gender. (cuts,shaves,beards,colouring)'
         lastTwitterPost: 'Sat Apr 29 12:21:11 +0000 2017'
-        lastFacebookPost: '2017-05-11T17:38:02+0000'
+        lastFacebookPost: '2017-05-12T16:34:39+0000'
         facebookDescription: 'This page is for clients, their friends and people interested in services at the salon. All photographs are for this page only and are not to be displayed on any other website, without permission from me. Enjoy my page '
+        facebookId: '156899411110339'
+        twitterID: 532196169
     -
         name: 'Bull and Dagger'
         url: 'http://bullanddagger.com/'
@@ -151,6 +159,8 @@ organisations:
         lastTwitterPost: 'Sun Apr 30 09:22:59 +0000 2017'
         lastFacebookPost: '2017-04-21T21:04:35+0000'
         facebookDescription: 'The UK''s First Genderqueer Fashion Label'
+        facebookId: '1437772779869547'
+        twitterID: 3218844424
     -
         name: 'gfw Clothing'
         url: 'https://www.genderfreeworld.com/'
@@ -159,8 +169,10 @@ organisations:
         tags: [Companies, Brighton, 'South East']
         twitterDescription: 'Gender free clothing which doesn''t care what gender you are, but does fit your body.'
         facebookDescription: 'GFW Clothing- the online store that focuses on ''fit'' and style rather than whether you are shopping in the men''s/women''s section. '
-        lastTwitterPost: 'Thu May 11 13:19:45 +0000 2017'
-        lastFacebookPost: '2017-05-11T09:11:02+0000'
+        lastTwitterPost: 'Sun May 14 06:45:19 +0000 2017'
+        lastFacebookPost: '2017-05-13T11:58:23+0000'
+        facebookId: '1589028318004994'
+        twitterID: 3166884509
     -
         name: 'This Is Me'
         url: 'http://www.thisismelgbt.com'
@@ -168,6 +180,7 @@ organisations:
         tags: [National, Companies]
         lastFacebookPost: '2017-04-29T17:20:57+0000'
         facebookDescription: 'A social enterprise clothing range for beautiful people to comfortably and confidently show the world who they are, and feel great about it!'
+        facebookId: '491885764346343'
     -
         name: 'All About Trans'
         url: 'http://www.allabouttrans.org.uk'
@@ -177,7 +190,9 @@ organisations:
         lastFacebookPost: '2017-05-05T10:59:18+0000'
         facebookDescription: 'All About Trans: Encouraging greater understanding between media professionals and the transgender community. An On Road project. www.allabouttrans.org.uk'
         twitterDescription: 'Improving understanding of trans people & promoting trans voices in the media. Supported by @phf_UK @esmeefairbairn @PostcodeLottery. Delivered by @onroadmedia.'
-        lastTwitterPost: 'Thu May 11 14:19:37 +0000 2017'
+        lastTwitterPost: 'Fri May 12 11:10:37 +0000 2017'
+        facebookId: '1375792552662028'
+        twitterID: 376762928
     -
         name: 'The Gender Trust'
         url: 'http://gendertrust.org.uk'
@@ -185,47 +200,55 @@ organisations:
         tags: [National]
         twitterDescription: 'British charity supporting people affected by gender identity issues.'
         lastTwitterPost: 'Tue Dec 27 16:49:32 +0000 2011'
+        twitterID: 78589915
     -
         name: 'Action For Trans Health'
         url: 'http://actionfortranshealth.org.uk/'
         twitter: act4transhealth
         facebook: actionfortranshealth
         tags: [National]
-        lastFacebookPost: '2017-05-08T20:20:30+0000'
+        lastFacebookPost: '2017-05-13T17:02:50+0000'
         facebookDescription: 'seeking to increase trans people''s access to healthcare'
         twitterDescription: 'The UK''s largest campaign for democratic trans health care'
-        lastTwitterPost: 'Mon May 08 16:42:32 +0000 2017'
+        lastTwitterPost: 'Sat May 13 17:06:11 +0000 2017'
+        facebookId: '195529377323813'
+        twitterID: 2377456692
     -
         name: 'Action For Trans Health Nottingham'
         facebook: ATHnotts
         tags: ['East Midlands']
         lastFacebookPost: '2016-11-30T03:10:44+0000'
         facebookDescription: 'Campaigning for better quality and signposting of trans healthcare in Nottinghamshire and nationwide'
+        facebookId: '1050494528381622'
     -
         name: 'Edinburgh Action for Trans Health'
         facebook: edinburghath
         tags: [Scotland]
-        lastFacebookPost: '2017-05-11T15:02:50+0000'
+        lastFacebookPost: '2017-05-12T21:10:14+0000'
         facebookDescription: 'Edinburgh Chapter of Action for Trans Health. ATH is a grassroots organisation fighting for democratic trans healthcare and trans liberation.'
+        facebookId: '1804658476481700'
     -
         name: 'Sheffield Action for Trans Health'
         url: 'http://sheffieldact4transhealth.wordpress.com'
         tags: [Yorkshire]
         facebook: sheffieldath
-        lastFacebookPost: '2017-04-28T17:54:13+0000'
+        lastFacebookPost: '2017-05-12T16:55:53+0000'
         facebookDescription: "Sheffield Action for Trans Health are a local branch of the national\norganisation, aiming to improve access to health care for transgender\npeople"
+        facebookId: '1332702606758761'
     -
         name: 'Leeds Action for Trans Health'
         facebook: leedsactionfortranshealth
         tags: [Yorkshire]
         lastFacebookPost: '2017-04-08T12:02:28+0000'
         facebookDescription: 'Our aim is to improve access to healthcare for trans people through funding and engagement with communities and medical professionals. '
+        facebookId: '105715889833710'
     -
         name: 'Liverpool Action for Trans Health'
         facebook: liverpoolactionfortranshealth
         tags: ['North West', Liverpool]
         lastFacebookPost: '2017-05-08T20:16:18+0000'
         facebookDescription: 'Seeking to increase trans people''s access to healthcare.'
+        facebookId: '621302534713097'
     -
         name: Mermaids
         url: 'http://www.mermaidsuk.org.uk/'
@@ -235,7 +258,9 @@ organisations:
         lastFacebookPost: '2017-04-21T14:59:57+0000'
         facebookDescription: 'Family & individual support for teenagers & children with Gender Identify issues.  Click ''About'' for more details'
         twitterDescription: 'Family & individual support for children and teenagers with gender identity issues.'
-        lastTwitterPost: 'Thu May 11 18:03:52 +0000 2017'
+        lastTwitterPost: 'Sun May 14 09:08:01 +0000 2017'
+        facebookId: '192046384225479'
+        twitterID: 2199786713
     -
         name: GIRES
         url: 'https://www.gires.org.uk/'
@@ -246,6 +271,8 @@ organisations:
         facebookDescription: 'Official GIRES messages (taken over from @girescharity)'
         twitterDescription: "GIRES' purpose is to improve the lives of trans and gender non-conforming people.\r\nFind us on facebook too:\r\nhttps://t.co/Ob5HJaylgm"
         lastTwitterPost: 'Wed Jan 04 20:32:45 +0000 2017'
+        facebookId: '1143033949098835'
+        twitterID: 2785707557
     -
         name: 'Press For Change'
         url: 'http://pfc.org.uk'
@@ -256,6 +283,8 @@ organisations:
         facebookDescription: 'Press For Change: The UK’s Leading Authority on Transgender Law. Announcements & campaigns in the Trans world. => Click ''like'' to show support.'
         twitterDescription: 'Founded in 1992, Press For Change - The UK''s Leading Authority on Transgender Law. Run entirely by Volunteers. Catch us on facebook at:https://t.co/bEA6SCNI3x'
         lastTwitterPost: 'Fri Mar 31 13:02:03 +0000 2017'
+        facebookId: '696553097101951'
+        twitterID: 356826046
     -
         name: 'Beyond The Binary'
         url: 'http://beyondthebinary.co.uk'
@@ -265,7 +294,9 @@ organisations:
         lastFacebookPost: '2017-05-11T13:44:00+0000'
         facebookDescription: 'Beyond the Binary is a submissions-based magazine website, which aims to give non-binary people the opportunity to contribute and share their experiences.'
         twitterDescription: 'Beyond the Binary is a NEW submissions-based magazine website for non-binary people. Check out http://t.co/n6HNGcJzCs. SUBMIT TODAY!'
-        lastTwitterPost: 'Thu May 11 16:49:00 +0000 2017'
+        lastTwitterPost: 'Sun May 14 08:58:40 +0000 2017'
+        facebookId: '1386286884985018'
+        twitterID: 2432213046
     -
         name: 'UK Trans Info'
         url: 'https://uktrans.info'
@@ -276,16 +307,20 @@ organisations:
         facebookDescription: 'UK Trans Info is a national organisation focused on improving the lives of trans and non-binary people in the UK.'
         twitterDescription: "UK Trans Info is a national organisation focused on improving the lives of trans & non-binary people in the UK. RT/Follow =/= Endorsement.\nSee also #NHSGenderID"
         lastTwitterPost: 'Wed Apr 19 18:13:34 +0000 2017'
+        facebookId: '1413702998905095'
+        twitterID: 2477348124
     -
         name: 'Scottish Transgender Alliance'
         url: 'http://www.scottishtrans.org'
         twitter: ScottishTrans
         facebook: scottishtrans.org
         tags: [Scotland]
-        lastFacebookPost: '2017-05-07T17:24:50+0000'
+        lastFacebookPost: '2017-05-12T15:48:05+0000'
         facebookDescription: 'For gender identity and gender reassignment equality and rights. => Click ''like'' to show support.'
         twitterDescription: "Scottish Trans Alliance.\n Working for gender identity and gender reassignment equality and rights in Scotland."
-        lastTwitterPost: 'Mon May 08 09:07:44 +0000 2017'
+        lastTwitterPost: 'Fri May 12 16:08:10 +0000 2017'
+        facebookId: '190710539707'
+        twitterID: 247685418
     -
         name: 'Trans Media Watch'
         url: 'http://www.transmediawatch.org'
@@ -295,25 +330,29 @@ organisations:
         lastFacebookPost: '2017-03-31T12:02:36+0000'
         facebookDescription: 'We are a charity that works to encourage the British media to treat transgender and intersex people with accuracy, dignity and respect.'
         twitterDescription: 'Helping the media report on transgender issues with accuracy, dignity & respect. Helping trans people who are receiving media attention. We tackle the bullies!'
-        lastTwitterPost: 'Thu May 11 11:16:55 +0000 2017'
+        lastTwitterPost: 'Fri May 12 11:20:59 +0000 2017'
+        facebookId: '240321219468389'
+        twitterID: 140509257
     -
         name: Sparkle
         url: 'http://www.sparkle.org.uk'
         twitter: SparkleWeekend
         facebook: sparkletg
         tags: [National]
-        lastFacebookPost: '2017-05-11T16:55:14+0000'
+        lastFacebookPost: '2017-05-13T14:30:00+0000'
         facebookDescription: 'The Sparkle Weekend is a celebration of gender diversity and expression. Hosted in Manchester over the second weekend every July. '
         twitterDescription: 'Sparkle - The National Transgender Charity. Hosts the Sparkle Celebration in Manchester on the second weekend in July. July 1st to July 7th we host Spark.'
-        lastTwitterPost: 'Thu May 11 17:15:22 +0000 2017'
+        lastTwitterPost: 'Sun May 14 13:45:16 +0000 2017'
+        facebookId: '172996022767347'
+        twitterID: 486999637
     -
         name: 'UK Angels'
         url: 'http://theangels.co.uk'
         twitter: ukangels
-        facebook: UkAngels
         tags: [National]
         twitterDescription: 'We''ve providing help, friendship and support to the Transgender community since 2000. Visit our forum to join in. #girlslikeus'
         lastTwitterPost: 'Mon Jan 30 15:38:02 +0000 2017'
+        twitterID: 40501259
     -
         name: nonbinary.org
         url: 'http://nonbinary.org'
@@ -324,13 +363,16 @@ organisations:
         facebookDescription: 'New Nonbinary visibility, education and advocacy network coming soon, arguing for equal access to employment, services and medical treatment for those who don''t fit the gender binary.'
         twitterDescription: 'New Nonbinary gender visibility, education and advocacy network coming soon, arguing for equal access to employment, services and medical treatment.'
         lastTwitterPost: 'Fri May 05 11:30:55 +0000 2017'
+        facebookId: '255114597869248'
+        twitterID: 329095638
     -
         name: 'Trans*Code'
         url: 'http://trans-code.org'
         twitter: trans_code
         tags: [National]
         twitterDescription: 'Bringing trans* folk and allies together for a hack day and community building in the UK and around the world.'
-        lastTwitterPost: 'Wed May 10 19:54:47 +0000 2017'
+        lastTwitterPost: 'Thu May 11 22:52:25 +0000 2017'
+        twitterID: 2929703872
     -
         name: 'Nonbinary Inclusion Project'
         url: 'http://nonbinary.co.uk'
@@ -341,25 +383,31 @@ organisations:
         facebookDescription: 'We campaign for the recognition, inclusion, protection and equality of nonbinary in all organisations, as well as in law.'
         twitterDescription: 'Nonbinary Inclusion Project (NBIP)'
         lastTwitterPost: 'Sun Feb 12 12:54:40 +0000 2017'
+        facebookId: '283379525161977'
+        twitterID: 2465231166
     -
         name: 'Gender Jam NI'
         url: 'http://www.genderjam.lgbt'
         twitter: GenderJamNI
         facebook: GenderJamNI
         tags: ['Northern Ireland']
-        lastFacebookPost: '2017-05-11T15:55:17+0000'
+        lastFacebookPost: '2017-05-13T12:02:08+0000'
         facebookDescription: 'We support and advocate for young trans, non-binary, questioning and intersex people in Northern Ireland.'
         twitterDescription: 'We support and advocate for young trans, non-binary, questioning and intersex people in Northern Ireland. Phone: 02890 996819'
-        lastTwitterPost: 'Thu May 11 15:44:52 +0000 2017'
+        lastTwitterPost: 'Sat May 13 15:21:10 +0000 2017'
+        facebookId: '649526628450836'
+        twitterID: 2383643534
     -
         name: 'Unity Identity Centre'
         twitter: TiwWales
         facebook: UnityIdentityCentre
         tags: [Wales]
-        lastFacebookPost: '2017-05-05T19:10:54+0000'
+        lastFacebookPost: '2017-05-13T18:10:15+0000'
         facebookDescription: 'Supporting Transgender people in Wales'
         twitterDescription: "Formally known as Transgender in Wales. Supporting Transgender people from Wales. \nUnity Identity Centre\n71 High St\nSwansea\nSA1 1LN"
-        lastTwitterPost: 'Tue May 09 15:19:54 +0000 2017'
+        lastTwitterPost: 'Sat May 13 09:16:56 +0000 2017'
+        facebookId: '405335936178573'
+        twitterID: 520350950
     -
         name: TransPALS
         url: 'http://transpals.org.uk'
@@ -370,16 +418,20 @@ organisations:
         facebookDescription: "This is TransPALS presence on Facebook. \nTo find out more about TransPALS please visit the web site."
         twitterDescription: 'TransPALS is a social support group for Trans People Across London South. We meet on second Saturday of every month at a local family pub in the Croydon area.'
         lastTwitterPost: 'Wed Apr 26 11:41:21 +0000 2017'
+        facebookId: '457093337734163'
+        twitterID: 2757628121
     -
         name: 'Transgender Peer Associates (TG PALS)'
         url: 'http://www.tgpals.org/'
         twitter: TGPALS
         facebook: 160566110732714
         tags: ['South East']
-        lastFacebookPost: '2017-05-10T22:11:30+0000'
+        lastFacebookPost: '2017-05-11T22:44:24+0000'
         facebookDescription: 'TG PALS a non profit charitable organisation supporting transgender people and their families, friends and colleagues across Kent.'
         twitterDescription: 'Professional and peer support services for transgender people and their families in Kent and beyond!'
         lastTwitterPost: 'Wed Apr 08 13:22:01 +0000 2015'
+        facebookId: '160566110732714'
+        twitterID: 562761620
     -
         name: 'Trans Girls Can'
         url: 'http://transgirlscan.tumblr.com'
@@ -390,26 +442,32 @@ organisations:
         facebookDescription: 'Celebrating trans* women who embrace health and fitness worldwide. share YOUR stories, events, pictures. Help us empower trans women! #TransGirlsCan'
         twitterDescription: 'Celebrating trans women who embrace health and fitness #TransGirlsCan Inspired by awesome #ThisGirlCan campaign. All tweets @sophiegreen @megs_key.'
         lastTwitterPost: 'Thu Mar 30 06:41:46 +0000 2017'
+        facebookId: '880734718683801'
+        twitterID: 3310541920
     -
         name: 'Trans Pride Southwest'
         url: 'http://www.transpridesw.org.uk'
         tags: ['South West']
         twitter: TransPrideSW
         facebook: transpridesouthwest
-        lastFacebookPost: '2017-05-09T09:37:49+0000'
+        lastFacebookPost: '2017-05-12T18:54:54+0000'
         facebookDescription: "Our second year event will be running 22nd-24th Sept 2017. Come and join us all are welcome. Updates will be via our page\n\nadmin@transpridesw.org.uk"
         twitterDescription: 'Promoting & celebrating diversity of Transgender, Non-Binary, Intersex & Gender Variant individuals. By encouraging awareness, openness & interaction.'
         lastTwitterPost: 'Thu Apr 20 05:14:40 +0000 2017'
+        facebookId: '237749983231258'
+        twitterID: 702904032193613800
     -
         name: 'Wipe Out Transphobia'
         url: 'http://wipeouttransphobia.com'
         twitter: WipeTransphobia
         facebook: wipeouttransphobia
         tags: [National]
-        lastFacebookPost: '2017-05-10T16:56:31+0000'
+        lastFacebookPost: '2017-05-13T06:16:05+0000'
         facebookDescription: 'Wiping Out Transphobia, - www.wipeouttransphobia.com - Twitter: @WipeTransphobia. Email: info@wipeouttransphobia.com'
         twitterDescription: 'Official Twitter of Wipe Out Transphobia - worldwide gender diverse activism, education and campaigning. https://t.co/FXgCi0LO98'
-        lastTwitterPost: 'Thu May 11 18:32:53 +0000 2017'
+        lastTwitterPost: 'Sun May 14 06:08:03 +0000 2017'
+        facebookId: '138139996263661'
+        twitterID: 637144701
     -
         name: 'Trans Pride Brighton'
         url: 'http://transpridebrighton.tumblr.com'
@@ -420,6 +478,8 @@ organisations:
         facebookDescription: 'Trans Pride Brighton: Putting the T first.'
         twitterDescription: '21st, 22nd & 23rd July 2017. Sowing the seeds of change in Brighton & beyond. 5th annual Trans Pride. Join us!! #TransPrideBrighton'
         lastTwitterPost: 'Wed May 10 13:57:12 +0000 2017'
+        facebookId: '134259600086322'
+        twitterID: 796596054
     -
         name: 'Brighton Transformed'
         url: 'http://brightontransformed.org.uk'
@@ -430,6 +490,8 @@ organisations:
         facebookDescription: 'Brighton Transformed is the Trans* history project from Brighton''s community publisher, QueenSpark Books.  Over the next 18 months we''ll be taking a snapshot of contemporary Trans* lives in Brighton & Hove.'
         twitterDescription: 'Brighton Transformed is the Trans* oral history project from Brighton''s community publisher QueenSpark Books. Come and get involved! https://t.co/fnJwjitX6D'
         lastTwitterPost: 'Fri Jan 23 09:52:28 +0000 2015'
+        facebookId: '593335887366464'
+        twitterID: 1468229540
     -
         name: 'Trans Forum Manchester'
         url: 'http://transforum.org.uk'
@@ -440,6 +502,8 @@ organisations:
         facebookDescription: 'This Group is for all those identifying as Trans & all those interested in supporting and understanding those who breach the socially set Gender Norms.  It was formerly MCC Manchester TransDiscussion Group, and usually meets on the 4th Satu'
         twitterDescription: 'TransForum Manchester is a discussion group and peer support forum for all Transgendered people and those in any way questioning their gender'
         lastTwitterPost: 'Sun Jul 12 12:44:35 +0000 2015'
+        facebookId: '49534556942'
+        twitterID: 2308839596
     -
         name: 'Liverpool Trans'
         url: 'http://www.liverpooltrans.co.uk'
@@ -450,6 +514,8 @@ organisations:
         facebookDescription: 'Sharing positive trans news and stories, UK trans events, campaigns, projects, and blog posts from the Liverpool Trans website!'
         twitterDescription: 'If it''s Liverpool and trans. Visibility, Advocacy, Engagement, Empowerment. https://t.co/9kUUubIAv3'
         lastTwitterPost: 'Sat Apr 01 12:39:06 +0000 2017'
+        facebookId: '805466536201849'
+        twitterID: 2598551269
     -
         name: 'Beaumont Society'
         url: 'http://www.beaumontsociety.org.uk/'
@@ -457,16 +523,19 @@ organisations:
         tags: [National]
         twitterDescription: 'The official twitter feed from the Beaumont Society, the UKs largest and longest running transgender support group'
         lastTwitterPost: 'Sat Sep 24 08:44:15 +0000 2016'
+        twitterID: 214361788
     -
         name: 'sail NI'
         url: 'https://sailni.com/'
         twitter: SAIL_NI
         facebook: SAIL.NI.1
         tags: ['Northern Ireland']
-        lastFacebookPost: '2017-05-10T12:52:18+0000'
+        lastFacebookPost: '2017-05-12T09:19:01+0000'
         facebookDescription: "SAIL is a support organisation for the families of trans individuals of any age who need help, support or advice in Northern Ireland.\n\n\n"
         twitterDescription: 'We support the families of transgender & gender variant people of all ages across Northern Ireland.'
-        lastTwitterPost: 'Wed May 10 16:51:38 +0000 2017'
+        lastTwitterPost: 'Sat May 13 11:39:37 +0000 2017'
+        facebookId: '818399668205260'
+        twitterID: 407102626
     -
         name: 'Trans* Jersey'
         url: 'http://transjersey.org'
@@ -474,6 +543,7 @@ organisations:
         tags: ['Channel Islands']
         twitterDescription: 'Not-for-profit group providing info and support to Jersey (CI) residents who are trans* or providing services to trans* islanders. Activists for trans* rights.'
         lastTwitterPost: 'Sun May 07 21:03:27 +0000 2017'
+        twitterID: 2432428922
     -
         name: 'Be: Trans & NB North'
         url: 'http://be-north.org.uk/'
@@ -483,7 +553,9 @@ organisations:
         lastFacebookPost: '2017-05-10T14:21:22+0000'
         facebookDescription: 'Be: Trans Support & Development North is Trans Community Support, Development and Campaigning Organisation operating across the North of England.'
         twitterDescription: 'Be is a North East based, not for profit, community organisation for Trans & Non-Binary people offering support, training and development'
-        lastTwitterPost: 'Thu May 11 18:54:40 +0000 2017'
+        lastTwitterPost: 'Sun May 14 09:20:44 +0000 2017'
+        facebookId: '223091141094812'
+        twitterID: 634111049
     -
         name: 'Anchor Trans NI'
         url: 'http://anchortransni.org'
@@ -494,23 +566,28 @@ organisations:
         facebookDescription: 'We are a social support group for transmen, trans* masculine, gender variant, NB & questioning people, who were assigned female at birth (AFAB) age 25+'
         twitterDescription: 'We are a social/peer support group for transmen, trans* masculine, gender variant, non binary & questioning people, assigned female at birth (AFAB) aged 25+'
         lastTwitterPost: 'Tue Apr 11 17:40:53 +0000 2017'
+        facebookId: '497818340370284'
+        twitterID: 3200857408
     -
         name: 'Trans*form Cymru'
         url: 'http://youthcymru.org.uk/transform-cymru'
         twitter: TransFormCymru
         tags: [Wales]
         twitterDescription: '@YouthCymru project working with trans young people. Support / information / events / training & more.'
-        lastTwitterPost: 'Thu May 11 12:40:43 +0000 2017'
+        lastTwitterPost: 'Fri May 12 13:53:33 +0000 2017'
+        twitterID: 2854662352
     -
         name: 'Trans Equality Legal Initiative'
         url: 'http://www.teli.org.uk'
         twitter: UKTELI
         facebook: UKTELI
         tags: [National]
-        lastFacebookPost: '2017-05-02T18:36:10+0000'
+        lastFacebookPost: '2017-05-12T06:14:50+0000'
         facebookDescription: 'The Trans Equality Legal Initiative (TELI) is a coalition of trans third sector organisations, human rights lawyers and diversity professionals.'
         twitterDescription: 'The UK''s first Trans Equality Legal Initiative, bringing together Human Rights Lawyers, Trans Activists and Diversity Professionals.'
-        lastTwitterPost: 'Thu May 11 18:35:21 +0000 2017'
+        lastTwitterPost: 'Sat May 13 10:56:05 +0000 2017'
+        facebookId: '1741603586091834'
+        twitterID: 741588096047779800
     -
         name: 'National Trans Youth Network'
         url: 'http://ntyn.org.uk/'
@@ -518,6 +595,7 @@ organisations:
         tags: [National]
         twitterDescription: 'The National Trans Youth Network is a network of trans youth groups from around the UK, and includes the youth workers who support them'
         lastTwitterPost: 'Thu May 11 13:31:33 +0000 2017'
+        twitterID: 3382749831
     -
         name: 'Trans Network London'
         url: 'http://transnetworklondon.org.uk'
@@ -527,7 +605,9 @@ organisations:
         lastFacebookPost: '2017-04-24T23:14:23+0000'
         facebookDescription: 'Trans Network London is a network of organisations based in London and is not a service provider. Please go to our web site for more info.'
         twitterDescription: 'Trans Network London (TNL) is a trans led networking group that aims to improve London living within our trans communities through establishing connections.'
-        lastTwitterPost: 'Mon Apr 24 23:14:26 +0000 2017'
+        lastTwitterPost: 'Sun May 14 09:56:52 +0000 2017'
+        facebookId: '909225765813543'
+        twitterID: 4152300022
     -
         name: 'Trans Men Scotland'
         url: 'http://transmenscotland.wordpress.com'
@@ -535,6 +615,7 @@ organisations:
         tags: [Scotland, Transmasculine]
         twitterDescription: 'Individual peer support for trans men and trans-masculine non-binary people. Occasional social events & meetings. Check website for contact info. Tweets by Alex'
         lastTwitterPost: 'Sun Apr 23 16:27:18 +0000 2017'
+        twitterID: 1449979297
     -
         name: 'Trans Men Support & Advice UK'
         url: 'http://tmsauk.org'
@@ -542,21 +623,25 @@ organisations:
         tags: [National, Transmasculine]
         twitterDescription: 'Trans Men Support & Advice UK -A secret FB group offering peer support, mentoring and much more to 1957 + members. To join, email us at tmsauk@gmail.com'
         lastTwitterPost: 'Sat Apr 22 22:16:08 +0000 2017'
+        twitterID: 2780154495
     -
         name: 'Breaking The Binary'
         twitter: breaking_binary
         facebook: breaking.binary
         tags: [Wales, Nonbinary]
-        lastFacebookPost: '2017-04-27T13:58:38+0000'
+        lastFacebookPost: '2017-05-13T18:10:05+0000'
         facebookDescription: 'A not-for-profit project run in partnership with the Unity Centre seeking to meet the needs of the non-binary community.'
         twitterDescription: 'Creating a Safe Space for Non-Binary People of All Identities'
         lastTwitterPost: 'Thu Apr 13 12:25:42 +0000 2017'
+        facebookId: '936033406432511'
+        twitterID: 3995486668
     -
         name: Transvision
         twitter: _Transvision
         tags: [National]
         twitterDescription: 'One mission: To improve societal attitudes and the law in order to achieve equal rights for the #transgender community. @alyxzamazing @missemilyruss'
         lastTwitterPost: 'Fri May 05 09:52:53 +0000 2017'
+        twitterID: 725438374069342200
     -
         name: 'Non-Binary+ Northern Ireland'
         url: 'http://nonbinaryni.wordpress.com'
@@ -567,6 +652,8 @@ organisations:
         facebookDescription: 'Non-Binary+ Northern Ireland is a meet-up group open to all people who identify under the non-binary spectrum. Meet-ups hosted on 1st Sunday of the month'
         twitterDescription: 'Community group for people living in Northern Ireland who identify outside of the gender binary. RT aren''t endorsement! Meet-ups: 1st Sunday of the month, 12-3.'
         lastTwitterPost: 'Sat May 06 11:30:08 +0000 2017'
+        facebookId: '935526069856722'
+        twitterID: 4895350294
     -
         name: 'Trans Pride North'
         tags: ['North East', 'North West']
@@ -575,7 +662,9 @@ organisations:
         lastFacebookPost: '2017-05-08T13:45:36+0000'
         facebookDescription: 'Trans Pride North is a not for profit organization providing safe space events for the transgender community in the North East and North West of England.'
         twitterDescription: 'Trans Pride North is a not for profit organization providing safe space events for the trans community in the North East and North West of England.'
-        lastTwitterPost: 'Thu May 11 00:13:56 +0000 2017'
+        lastTwitterPost: 'Sat May 13 17:25:16 +0000 2017'
+        facebookId: '1605155223139265'
+        twitterID: 732130333731196900
     -
         name: 'Nonbinary Scotland'
         url: 'http://nonbinaryscotland.org'
@@ -583,6 +672,7 @@ organisations:
         tags: [Scotland, Nonbinary]
         twitterDescription: 'A group for people with non-binary gender identities in Scotland'
         lastTwitterPost: 'Mon Apr 17 10:19:47 +0000 2017'
+        twitterID: 2198493786
     -
         name: 'Gender Matters'
         url: 'http://gender-matters.org.uk'
@@ -590,6 +680,7 @@ organisations:
         tags: [National]
         twitterDescription: 'Supporting trans people; advancing trans equality'
         lastTwitterPost: 'Sat Aug 22 12:13:20 +0000 2015'
+        twitterID: 142271659
     -
         name: 'Beaumont Trust'
         url: 'http://www.beaumont-trust.org.uk'
@@ -599,16 +690,20 @@ organisations:
         lastFacebookPost: '2017-05-04T13:31:45+0000'
         twitterDescription: 'Charitable education resource for the transgender community and those who are looking for more information on the issues these people face.'
         lastTwitterPost: 'Thu May 04 13:31:50 +0000 2017'
+        facebookId: '213963335371356'
+        twitterID: 541559605
     -
         name: 'TAGS* Swimming'
         url: 'http://www.tagswim.co.uk/'
         twitter: TAGS_swimming
         facebook: 540358062757588
         tags: [London]
-        lastFacebookPost: '2017-05-09T10:35:16+0000'
+        lastFacebookPost: '2017-05-12T15:27:42+0000'
         facebookDescription: 'We are starting a swimming group in London for trans and gender non-conforming peeps, first in Lewisham and in other areas  if need and interest exists.'
         twitterDescription: 'Trans* and Gender Non-Conforming Swimming.We are at Fusion Pool Lewisham Every Friday Very safe and secure space.'
         lastTwitterPost: 'Sat Feb 11 10:31:35 +0000 2017'
+        facebookId: '540358062757588'
+        twitterID: 2781158997
     -
         name: 'MORF Binder Scheme'
         url: 'http://morfmanchester.blogspot.co.uk/p/binder-scheme.html'
@@ -616,12 +711,14 @@ organisations:
         tags: [National, Transmasculine]
         twitterDescription: 'Want a binder and cant afford one? email binders@morf.org.uk 4 copy of latest cataloge from MORF Binder Scheme. Free binders 4 FtM/dfab/afab/GQ/transmasculine.'
         lastTwitterPost: 'Sat Apr 09 17:38:56 +0000 2016'
+        twitterID: 2959342006
     -
         name: TransAgenda
         twitter: TransAgendaOrg
         tags: [National]
         twitterDescription: 'Designing Our Trans Future Today. Together. info@transagenda.org'
         lastTwitterPost: 'Tue Feb 14 14:50:44 +0000 2017'
+        twitterID: 2605286173
     -
         name: 'National Trans Police Association'
         url: 'http://www.ntpa.org.uk'
@@ -631,33 +728,40 @@ organisations:
         lastFacebookPost: '2017-03-22T17:25:18+0000'
         facebookDescription: 'The NTPA exists primarily to provide support to serving and retired Police Officers, Police Staff and Special Constables with any gender identity issue.'
         twitterDescription: 'The NTPA exists primarily to provide support to serving and retired Police Officers and staff who identify as trans*. We also advise forces on trans* issues.'
-        lastTwitterPost: 'Sun May 07 23:26:34 +0000 2017'
+        lastTwitterPost: 'Sun May 14 13:51:13 +0000 2017'
+        facebookId: '203111816483304'
+        twitterID: 339729641
     -
         name: CliniQ
         url: 'https://cliniq.org.uk'
         twitter: Clini_Q
         facebook: cliniQlondon
         tags: [London]
-        lastFacebookPost: '2017-05-10T21:43:07+0000'
+        lastFacebookPost: '2017-05-13T09:49:59+0000'
         facebookDescription: 'cliniQ CIC - Community Interest Company.  Trans and nonbinary people''s  holistic wellbeing and sexual health service in partnership with 56 Dean Street'
         twitterDescription: 'Trans/NB, queer inclusive sexual health & well-being services. Also for friends and families. Free & confidential [Cannot offer client advice via twitter]'
-        lastTwitterPost: 'Thu May 11 08:22:24 +0000 2017'
+        lastTwitterPost: 'Sat May 13 18:24:08 +0000 2017'
+        facebookId: '236031843137850'
+        twitterID: 2221952629
     -
         name: 'a:Gender'
         url: 'http://agender.org.uk'
         twitter: agendergovuk
         tags: [National]
         twitterDescription: 'The Trans Inclusive and Intersex support network for staff in UK Government Depts/Agencies. ''Here for you, free to join'''
+        twitterID: 3608869035
     -
         name: 'Open Barbers'
         url: 'http://openbarbers.co.uk'
         twitter: OpenBarbers
         facebook: openbarbers
         tags: [London, Companies]
-        lastFacebookPost: '2017-05-11T10:32:49+0000'
+        lastFacebookPost: '2017-05-13T11:19:45+0000'
         facebookDescription: 'Open Barbers is a hairdressing service for any hair length and type, welcoming all genders and sexualities. '
         twitterDescription: 'Hairdressing for any hair length/type, welcoming all genders & sexualities, led by Greygory, Felix (@felixislucky), and Richard (@or_etac)'
-        lastTwitterPost: 'Thu May 11 17:56:53 +0000 2017'
+        lastTwitterPost: 'Sun May 14 14:38:58 +0000 2017'
+        facebookId: '186285698090259'
+        twitterID: 365693460
     -
         name: 'Gendered Intelligence'
         url: 'http://genderedintelligence.co.uk'
@@ -667,7 +771,9 @@ organisations:
         lastFacebookPost: '2017-05-11T14:41:49+0000'
         facebookDescription: 'Increasing understandings of gender diversity in creative ways'
         twitterDescription: 'Youth group, creative workshops, mentoring for young trans people in the UK.  Plus support for families & training and resources for professionals.'
-        lastTwitterPost: 'Thu May 11 14:38:41 +0000 2017'
+        lastTwitterPost: 'Sun May 14 12:00:02 +0000 2017'
+        facebookId: '197823266925027'
+        twitterID: 264069839
     -
         name: 'The Dawn Skinner Fund'
         url: 'http://www.dawnskinnerfund.org.uk/'
@@ -675,6 +781,7 @@ organisations:
         tags: [National]
         twitterDescription: 'Working for transgender people in end-of-life care'
         lastTwitterPost: 'Sun Aug 16 20:32:47 +0000 2015'
+        twitterID: 1539650618
     -
         name: 'FTM UK'
         url: 'http://www.ftmuk.net'
@@ -685,6 +792,8 @@ organisations:
         facebookDescription: "FTM UK is a UK based FTM forum. The forum is open to all you don't have to be a transguy or from the UK to join.\n\nhttp://www.ftmuk.net"
         twitterDescription: 'The official twitter of FTM UK.'
         lastTwitterPost: 'Sat Dec 08 12:41:27 +0000 2012'
+        facebookId: '324685666914'
+        twitterID: 124024206
     -
         name: RosesRepartee
         url: 'http://www.repartee.tv/'
@@ -695,6 +804,8 @@ organisations:
         facebookDescription: 'Repartee 82 (1.6.2016) is the current issue and our final printed magazine.'
         twitterDescription: 'Trans-lifestyle magazine-style website, published for over 25 years in print, and now available on-line.'
         lastTwitterPost: 'Sat Jul 30 12:23:36 +0000 2016'
+        facebookId: '448961208481742'
+        twitterID: 2989649591
     -
         name: 'The Sibyls'
         url: 'http://www.sibyls.co.uk'
@@ -702,6 +813,7 @@ organisations:
         tags: [National]
         lastFacebookPost: '2017-05-10T18:12:23+0000'
         facebookDescription: "The Sibyls is a UK-based confidential Christian \nspirituality group for transgender people, their \npartners and their supporters. "
+        facebookId: '338323263207884'
     -
         name: TransLiving
         url: 'http://transliving.co.uk'
@@ -712,12 +824,15 @@ organisations:
         facebookDescription: 'International Trans (TG, TV, CD, TS) lifestyle magazine. Available in PRINTED & DIGITAL formats from http://transliving.co.uk '
         twitterDescription: 'International Trans (TG, TV, CD, TS) lifestyle magazine. Available in PRINTED & DIGITAL formats from https://t.co/VyZU3mKSnX'
         lastTwitterPost: 'Mon May 08 13:24:16 +0000 2017'
+        facebookId: '338620715542'
+        twitterID: 622029159
     -
         name: transiness
         url: 'http://transiness.co.uk'
         twitter: transiness
         twitterDescription: 'Peer support and empowerment.  Providing a sense of belonging + providing targeted support for physically and/or socially transitioning  people 365/7.'
         lastTwitterPost: 'Mon Jan 02 22:52:17 +0000 2017'
+        twitterID: 2821023021
     -
         name: TransBareAll
         url: 'http://www.transbareall.co.uk/'
@@ -729,6 +844,8 @@ organisations:
         facebookDescription: 'Improving the Health and Wellbeing of Trans* People'
         twitterDescription: 'Improving the health and wellbeing of trans* people'
         lastTwitterPost: 'Tue May 09 10:35:00 +0000 2017'
+        facebookId: '250302418421589'
+        twitterID: 802627363
     -
         name: 'trans*formation'
         url: 'http://www.transformationuk.com/'
@@ -738,7 +855,9 @@ organisations:
         lastFacebookPost: '2017-04-25T08:16:15+0000'
         facebookDescription: 'Trans*formation is.......'
         twitterDescription: 'Networking group for trans* professionals. The go to place for trans* and non-binary at work.'
-        lastTwitterPost: 'Tue May 09 20:33:52 +0000 2017'
+        lastTwitterPost: 'Fri May 12 23:49:58 +0000 2017'
+        facebookId: '555904621232078'
+        twitterID: 2565754288
     -
         name: TForm
         url: 'http://www.tform.uk/'
@@ -746,6 +865,7 @@ organisations:
         tags: [National]
         twitterDescription: 'Trans support community and information forum. We have a bright, friendly community. Come and join us, take part, meet new friends and support other people! ♥'
         lastTwitterPost: 'Sun Aug 16 17:32:48 +0000 2015'
+        twitterID: 136337638
     -
         name: 'Transworkers UK'
         url: 'http://transiness.co.uk'
@@ -753,6 +873,7 @@ organisations:
         tags: [National]
         twitterDescription: 'Promoting positive stories of trans employment across all sectors; private, public, union & non union. Trans workers, employers & allies. Join us on Facebook.'
         lastTwitterPost: 'Tue Feb 28 13:41:40 +0000 2017'
+        twitterID: 3057998989
     -
         name: 'Twilight People'
         url: 'http://www.twilightpeople.com'
@@ -763,6 +884,8 @@ organisations:
         facebookDescription: 'Twilight People: Stories of Gender and Faith Beyond the Binary'
         twitterDescription: 'UK''s landmark multi-faith heritage project exploring gender&faith beyond the binary. Lottery supported. Hosted by Liberal Judaism. Founder: Surat-Shaan Knan'
         lastTwitterPost: 'Tue May 02 23:01:24 +0000 2017'
+        facebookId: '689017144547872'
+        twitterID: 2937067409
     -
         name: 'Transformers - Trans Youth Brighton'
         url: 'http://www.allsortsyouth.org.uk/groups/transformers/'
@@ -770,6 +893,7 @@ organisations:
         tags: ['South East', Brighton]
         lastFacebookPost: '2015-06-29T13:25:27+0000'
         facebookDescription: 'A Brighton trans* youth project for 16-25''s.'
+        facebookId: '552944758089583'
     -
         name: 'Navigate Brighton'
         url: 'https://navigatebrighton.wordpress.com/'
@@ -780,6 +904,8 @@ organisations:
         facebookDescription: 'Navigate is a group for transgender men, gender queer people and those questioning their gender identity.'
         twitterDescription: 'Navigate is a group for transgender men, gender queer people and those questioning their gender identity in and around Brighton & Hove.'
         lastTwitterPost: 'Wed Mar 22 13:07:10 +0000 2017'
+        facebookId: '139883729440312'
+        twitterID: 348426123
     -
         name: 'Tawe Butterflies'
         url: 'http://www.tawebutterflies.co.uk'
@@ -790,6 +916,8 @@ organisations:
         facebookDescription: 'Tawe Butterflies is a transgender support group with free membership    '
         twitterDescription: 'Tawe Butterflies is a Swansea based non profit organisation run by the transgender community for the transgender community offering advice and guidance.'
         lastTwitterPost: 'Sun Aug 21 11:03:27 +0000 2016'
+        facebookId: '378628152295886'
+        twitterID: 1342891927
     -
         name: 'Blackpool Renaissance'
         url: 'http://www.gynwayblackpool.com/renaissance_transgender_forum.htm'
@@ -797,6 +925,7 @@ organisations:
         facebook: 194379587311631
         lastFacebookPost: '2017-05-07T09:36:58+0000'
         facebookDescription: ' We have been organising meetings and helping people in the trans community for 16 years. We hope we can be of help to you!!'
+        facebookId: '194379587311631'
     -
         name: 'Beyond Gender'
         url: 'http://www.beyondgenderyouth.org'
@@ -807,6 +936,8 @@ organisations:
         facebookDescription: 'Transgender, Non-binary and Intersex youth group for people ages 13-25. Tuesdays 7pm-9pm. 40 Commercial Street, Edinburgh'
         twitterDescription: 'Group for transgender people and their friends aged 13 – 25. The last Tuesday of every month from 7.00 – 9.00pm.'
         lastTwitterPost: 'Thu Apr 20 10:49:30 +0000 2017'
+        facebookId: '150810514966960'
+        twitterID: 142833087
     -
         name: 'Edinburgh Trans Women'
         url: 'http://www.edinburghtranswomen.org.uk'
@@ -816,7 +947,9 @@ organisations:
         lastFacebookPost: '2017-05-03T18:40:25+0000'
         facebookDescription: 'A support and social group for trans women.'
         twitterDescription: 'Edinburgh Trans Women is a support group for transsexual women, transgender women or just uncertain of their gender identity. Tweets by Helen.'
-        lastTwitterPost: 'Sat May 06 22:30:36 +0000 2017'
+        lastTwitterPost: 'Sat May 13 14:34:24 +0000 2017'
+        facebookId: '318055412771'
+        twitterID: 435159957
     -
         name: 'Me & T Monthly'
         url: 'http://meandtscotland.wordpress.com'
@@ -827,6 +960,8 @@ organisations:
         facebookDescription: 'Me & T Monthly is a peer support group for the family, friends and partners of trans people.  We meet monthly in the LGBT Centre, Edinburgh.'
         twitterDescription: 'Me & T Monthly is a peer support group for the family, friends and partners of trans and non-binary people. We meet monthly in the LGBT Centre, Edinburgh.'
         lastTwitterPost: 'Mon Dec 05 21:25:55 +0000 2016'
+        facebookId: '340235599385719'
+        twitterID: 718744549
     -
         name: 'Seahorses Glasgow'
         twitter: seahorsesGLA
@@ -836,6 +971,8 @@ organisations:
         facebookDescription: 'Seahorses is a community swimming group for Trans identifying people in Glasgow'
         twitterDescription: "Seahorses is a community swimming group for trans & non-binary people in Glasgow. \nEmail: seahorsesGLA@gmail.com"
         lastTwitterPost: 'Mon Mar 06 11:25:56 +0000 2017'
+        facebookId: '1212763248737223'
+        twitterID: 759038022016831500
     -
         name: TransparenTsees
         url: 'http://www.transgenderscotland.org/html/transparentsees.html'
@@ -843,6 +980,7 @@ organisations:
         tags: [Scotland]
         twitterDescription: 'Support group for families of trans children/people'
         lastTwitterPost: 'Wed May 10 21:26:15 +0000 2017'
+        twitterID: 761537721093488600
     -
         name: 'Swans of Scotland'
         url: 'http://www.spanglefish.com/SwansofScotland/'
@@ -850,6 +988,7 @@ organisations:
         tags: [Scotland]
         lastFacebookPost: '2016-06-14T21:50:06+0000'
         facebookDescription: 'Swans of Scotland is a support group for transgender folk in the Highlands of Scotland.'
+        facebookId: '163478787134513'
     -
         name: 'Affirm NI'
         url: 'http://www.affirmni.co.uk/'
@@ -860,6 +999,8 @@ organisations:
         facebookDescription: 'AffirmNI is a Northern Ireland charity working for all Transgender people irrespective of stage of transition or identity. Registered charity # NIC102530 '
         twitterDescription: 'Transgender Awareness Training & Support. For more info email us on info@affirmni.co.uk or visit our website. AffirmNI is a reg NI charity # NIC102530'
         lastTwitterPost: 'Mon Mar 13 11:09:50 +0000 2017'
+        facebookId: '369412093269971'
+        twitterID: 2825788695
     -
         name: 'Belfast Butterfly Club'
         url: 'http://www.belfastbutterflyclub.co.uk/'
@@ -870,12 +1011,15 @@ organisations:
         facebookDescription: 'The Club aims to provide a sympathetic ear to help others to come to terms with being trans or gender variant'
         twitterDescription: 'By providing education and information, our club seeks to increase awareness, overcome discrimination and achieve equality.'
         lastTwitterPost: 'Sat Jun 18 17:27:54 +0000 2016'
+        facebookId: '394428850729789'
+        twitterID: 3118060331
     -
         name: 'Buoys NI'
         twitter: buoysni
         tags: ['Northern Ireland']
         twitterDescription: 'Youth group for 18-25 year old people who identify as trans* masculine, gender variant, non binary or questioning who were assigned female at birth.'
         lastTwitterPost: 'Wed Aug 12 18:46:31 +0000 2015'
+        twitterID: 3364091025
     -
         name: 'The Focus Trust'
         url: 'http://thefocustrust.com'
@@ -886,6 +1030,8 @@ organisations:
         facebookDescription: 'Focus: The Identity Trust represents and supports transgender and intersex people in Northern Ireland and the border counties of the Republic of Ireland.'
         twitterDescription: 'Supporting Transgender & Intersex individuals and their families on the island of Ireland'
         lastTwitterPost: 'Thu May 11 19:18:29 +0000 2017'
+        facebookId: '275849942562401'
+        twitterID: 1536528810
     -
         name: 'Transgender NI'
         url: 'https://transgenderni.com/'
@@ -893,6 +1039,7 @@ organisations:
         tags: ['Northern Ireland']
         twitterDescription: 'Promoting visibility & support for the transgender, non binary & intersex community in Northern Ireland'
         lastTwitterPost: 'Sun May 15 21:46:38 +0000 2016'
+        twitterID: 927726720
     -
         name: 'Trans Partners NI'
         url: 'https://sailni.com/about/support/partners/'
@@ -900,6 +1047,7 @@ organisations:
         tags: ['Northern Ireland']
         twitterDescription: 'Trans* Partners NI is a group for partners of those who identify as Transgender, Non- Binary, and everything that falls in between.'
         lastTwitterPost: 'Fri May 13 23:32:30 +0000 2016'
+        twitterID: 4842206981
     -
         name: 'FTM London'
         url: 'http://ftmlondon.org.uk'
@@ -911,13 +1059,15 @@ organisations:
         tags: [London]
         twitterDescription: 'Wellbeing services, counselling and support groups for trans, non-binary or questioning people incl. SOFFAs (Part of the Spectrum brand @Spectra_london)'
         lastTwitterPost: 'Thu May 04 12:12:44 +0000 2017'
+        twitterID: 4227389793
     -
         name: 'London Gender Support'
         url: 'http://www.londongendersupport.org'
         facebook: LondonGenderSupport
         tags: [London]
-        lastFacebookPost: '2017-04-21T12:47:45+0000'
+        lastFacebookPost: '2017-05-12T09:34:50+0000'
         facebookDescription: 'London Gender Support (LGS) is a non-professional, not-for-profit organisation whose sole purpose is to support people in their journeys of self-discovery.'
+        facebookId: '948793631899890'
     -
         name: Snowdrops
         url: 'https://snowdropspembs.wordpress.com/'
@@ -932,6 +1082,8 @@ organisations:
         facebookDescription: "UNIQUE  is a voluntary organisation providing mutual support and information to Transgender (Trans*) people in North Wales and West Cheshire and beyond.\n"
         twitterDescription: 'Transgender Support & Social Group covering North Wales & West Cheshire dealing with all Trans issues'
         lastTwitterPost: 'Fri Oct 31 10:54:28 +0000 2014'
+        facebookId: '1122809047826281'
+        twitterID: 956510515
     -
         name: Gloscats
         url: 'http://www.gloscats.org.uk/'
@@ -941,6 +1093,8 @@ organisations:
         lastFacebookPost: '2016-04-19T07:57:59+0000'
         twitterDescription: 'Transgender support group based in Gloucester. We welcome all people who are on the trans spectrum, including partners, family members, friends and allies.'
         lastTwitterPost: 'Mon May 02 10:15:12 +0000 2016'
+        facebookId: '1703302606595085'
+        twitterID: 722335648238186500
     -
         name: 'Western Boys'
         url: 'http://westernboys.org/'
@@ -949,10 +1103,12 @@ organisations:
         twitter: TransLeeds
         facebook: TransLeeds
         tags: [Yorkshire]
-        lastFacebookPost: '2017-05-09T16:42:24+0000'
+        lastFacebookPost: '2017-05-13T10:42:13+0000'
         facebookDescription: "Monthly Support groups and online community for the trans people of Leeds. \nWe can be contacted at Transleedscontact@gmail.com"
         twitterDescription: 'TransLeeds is a support group, for Transgender, Non-Binary and Gender Non-Conforming people! Updates Events will be tweeted here! :) (bi-monthly meetings)'
         lastTwitterPost: 'Tue May 02 21:46:40 +0000 2017'
+        facebookId: '948528421884068'
+        twitterID: 738734573673164800
     -
         name: TransWakefield
         url: 'http://www.transwakefield.org.uk'
@@ -963,6 +1119,8 @@ organisations:
         facebookDescription: 'TransWakefield is a place for the transgender community of Wakefield, West Yorkshire and surrounding areas to come together to chat, make friends, share experiences, share advice and share events. '
         twitterDescription: 'TransWakefield is a place for the transgender community of Wakefield, West Yorkshire and surrounding areas to come together to chat and make friends.'
         lastTwitterPost: 'Wed Nov 19 18:10:44 +0000 2014'
+        facebookId: '393598127385645'
+        twitterID: 1395670242
     -
         name: 'Trans Youth Hull'
         url: 'http://www.transyouthhull.com/'
@@ -970,6 +1128,7 @@ organisations:
         tags: [Yorkshire]
         lastFacebookPost: '2017-05-07T11:26:40+0000'
         facebookDescription: "Trans Youth Hull Support Group and Drop In. We aim to provide peer support for Trans Youth their families & Allies (Close Friend). \n\n"
+        facebookId: '1599868240231448'
     -
         name: 'Yorkshire Trans Support Network'
         url: 'http://www.ytsn.org.uk'
@@ -980,6 +1139,8 @@ organisations:
         facebookDescription: "A network of information, groups and supporters working towards greater equality, support and resources for Trans People in the Yorkshire area. \n"
         twitterDescription: 'A network of individuals and groups pressing for equality, support, services and resources for Trans, Intersex and Gender Variant People in the Yorkshire area.'
         lastTwitterPost: 'Thu Mar 31 08:51:22 +0000 2016'
+        facebookId: '178493939018728'
+        twitterID: 2492914368
     -
         name: T-Boys
         url: 'http://www.tboys.co.uk/'
@@ -987,12 +1148,14 @@ organisations:
         tags: [Yorkshire, Transmasculine]
         twitterDescription: 'We are a Yorkshire wide support group for anyone assigned female at birth who considers themselves to be on the trans spectrum or is questioning their gender.'
         lastTwitterPost: 'Tue Sep 11 08:40:43 +0000 2012'
+        twitterID: 558996227
     -
         name: 'TPSG Hull'
         facebook: TPSGhull
         tags: [Yorkshire]
         lastFacebookPost: '2017-05-02T23:55:38+0000'
         facebookDescription: 'TPSG is a Trans Peer Support Group in HULL UK we provide a safe space for adult trans people to share there experiences a get mutual support.'
+        facebookId: '850272788348985'
     -
         name: 'Trans Active'
         url: 'http://trans-active.co.uk'
@@ -1000,32 +1163,37 @@ organisations:
         tags: [Yorkshire]
         lastFacebookPost: '2017-05-09T06:27:59+0000'
         facebookDescription: 'Trans Active has been set up to help the Trans community socialise, improve their fitness and mental wellbeing through sport in a safe, relaxed environment'
+        facebookId: '270567223114836'
     -
         name: SafeT
         url: 'http://www.safetuk.org/'
         facebook: safetuk
         youtube: UCKQatwNgtam4Pzd2RJ5K6HQ
-        lastFacebookPost: '2017-04-13T21:28:56+0000'
+        lastFacebookPost: '2017-05-11T22:20:54+0000'
         facebookDescription: "to join our secret facebook page email us at safet@mesmac.co.uk\nweb : www.safetuk.org"
+        facebookId: '160052497503472'
     -
         name: 'Butterflies Trans Support Community Drop-In'
         facebook: ButterfliesDropInCentre
         tags: ['North West']
         lastFacebookPost: '2017-04-22T01:01:19+0000'
         facebookDescription: '''Butterflies'' ... New to the Trans scene? Trying to come-out for the first time? Looking for Trans friends? We offer a bi-weekly community drop-in group.'
+        facebookId: '1420551711523597'
     -
         name: Connect
         url: 'http://cygnet2swans.org.uk/'
         facebook: ConnectMCR
         tags: ['North West', Manchester]
-        lastFacebookPost: '2017-05-11T12:40:51+0000'
+        lastFacebookPost: '2017-05-12T13:48:00+0000'
         facebookDescription: 'Connect is a relaxed and friendly social space for trans* people aged 18-35, including people who are questioning and those with a trans* history.'
+        facebookId: '609793605835677'
     -
         name: 'East Lancs Swans'
         facebook: eastlancsswans
         tags: ['North West']
         lastFacebookPost: '2016-06-08T00:13:45+0000'
         facebookDescription: 'East Lancs Swans is a transgender support group based in Rossendale, Lancashire, which is Funded by Lancashire LGBT.'
+        facebookId: '260381274307214'
     -
         name: 'In-Trust Merseyside'
         url: 'https://merseysideintrust.org/'
@@ -1036,40 +1204,48 @@ organisations:
         tags: ['North West', Liverpool, Transmasculine]
         lastFacebookPost: '2016-10-24T10:27:00+0000'
         facebookDescription: 'LIV.FAST Network is an FTM support group based in Merseyside. This group is for anyone who identifies somewhere within the FTM spectrum.'
+        facebookId: '412240042137369'
     -
         name: 'Trans*Warrington'
         url: 'http://www.transwarrington.com/'
         twitter: transwarrington
         tags: ['North West']
         twitterDescription: 'transgender support group. we meet once per month all welcome'
-        lastTwitterPost: 'Mon May 08 22:37:36 +0000 2017'
+        lastTwitterPost: 'Fri May 12 14:28:45 +0000 2017'
+        twitterID: 3212358821
     -
         name: 'Trans Lakes'
+        url: 'https://sites.google.com/site/translakesnights/'
         twitter: translakes
-        facebook: translakescumbria
+        facebook: translakespage
         tags: ['North West']
-        lastFacebookPost: '2017-04-06T20:57:53+0000'
+        lastFacebookPost: '2017-05-13T18:22:38+0000'
         facebookDescription: 'Page version of the Cumbria transgender social network. Search Facebook for our secret group ''Trans Lakes''. Trans and allies only. All vetted xx'
         twitterDescription: 'Trans social network with two groups - one in Carlisle and one in Barrow/Ulverston. New members always welcome! https://t.co/wwpCko6Ian'
-        lastTwitterPost: 'Thu May 11 14:55:04 +0000 2017'
+        lastTwitterPost: 'Sat May 13 18:22:43 +0000 2017'
+        facebookId: '744103719026716'
+        twitterID: 4101437187
     -
         name: 'Trans Health Merseyside'
         twitter: TransPeerHealth
         tags: ['North West', Liverpool]
         twitterDescription: 'Engaging transgender, intersex & gender non-conforming people in the Liverpool area to promote healthy living through peer mentoring & wellbeing.'
-        lastTwitterPost: 'Thu Apr 20 14:32:32 +0000 2017'
+        lastTwitterPost: 'Fri May 12 17:05:39 +0000 2017'
+        twitterID: 3341206445
     -
         name: 'THE Action Youth'
         facebook: THEActionYouth
         tags: ['North West', Liverpool]
         lastFacebookPost: '2017-04-28T15:06:10+0000'
         facebookDescription: 'THE Action Youth (Trans* Health Education) is a Liverpool based youth group that is open to all young people who are trans* or questioning their gender.'
+        facebookId: '305546692957590'
     -
         name: 'Transgender Liverpool'
         facebook: tgliverpool
         tags: ['North West', Liverpool]
         lastFacebookPost: '2017-01-22T09:25:04+0000'
         facebookDescription: 'Transgender Liverpool is run by the Spirit level Transgender support group based at The Beat, Hanover Street, Liverpool'
+        facebookId: '423339814371574'
     -
         name: 'Notts Trans Hub'
         url: 'https://nottstranshub.wordpress.com/'
@@ -1078,28 +1254,33 @@ organisations:
         tags: ['East Midlands']
         lastFacebookPost: '2016-03-24T14:09:06+0000'
         facebookDescription: 'Notts Trans Hub is a compassionate, trans-affirmative, considerate and safe space where a very diverse community can interact and organise'
+        facebookId: '1449134172059881'
     -
         name: 'Northants PACT'
         tags: ['East Midlands']
         twitter: PACTNorthants
         twitterDescription: 'Parents & Carers of Transgender Children of All Ages - raising awareness & offering support, friendship, signposting, advocacy and mentoring. UK.  07379375721'
         lastTwitterPost: 'Mon May 08 11:04:48 +0000 2017'
+        twitterID: 737803818029682700
     -
         name: 'TAGS Leicester'
         facebook: 1568929690042588
         tags: ['East Midlands']
         lastFacebookPost: '2016-03-21T18:34:05+0000'
         facebookDescription: 'TAGS Leicester is connected to TAGS London. It is a Trans* and Gender Non-conforming Swimming Group that has now arrived in Leicester!  '
+        facebookId: '1568929690042588'
     -
         name: Transcend
         url: 'http://www.transcend.org.uk/'
         twitter: Transcend_Derby
         facebook: 381360138583539
         tags: ['East Midlands']
-        lastFacebookPost: '2017-05-09T12:14:09+0000'
+        lastFacebookPost: '2017-05-12T09:38:02+0000'
         facebookDescription: 'We are a Non-profit organisation in Derby giving support to the Trans community in Derbyshire and beyond www.transcend.org.uk'
         twitterDescription: 'Transcend is committed to developing and providing services and activities which enhance the ability of people with gender issues to make informed choices.'
         lastTwitterPost: 'Wed Dec 07 21:51:24 +0000 2016'
+        facebookId: '381360138583539'
+        twitterID: 323285491
     -
         name: 'Transcend SOFFA'
         twitter: soffa_derby
@@ -1109,6 +1290,8 @@ organisations:
         facebookDescription: 'Support for partners, friends, families and allies of  people who are Transgender. '
         twitterDescription: 'Transcend''s SOFFA group. Join Steph, Neil & Luci every 1st Weds of the month at Derbyshire Friend.'
         lastTwitterPost: 'Wed Jun 24 20:37:16 +0000 2015'
+        facebookId: '1432561760364697'
+        twitterID: 3344528369
     -
         name: 'Young Transgender Centre of Excellence'
         url: 'https://leicesterlgbtcentre.org/project/young-transgender-centre-of-excellence/'
@@ -1118,7 +1301,9 @@ organisations:
         lastFacebookPost: '2017-05-11T11:18:45+0000'
         facebookDescription: "Supporting transgender people aged 0-18 across Leicester, Leicestershire and Rutland. \nBased at Leicester LGBT Centre & funded by BBC Children in Need."
         twitterDescription: 'Supporting young trans people in Leicester, Leicestershire & Rutland. BBC Children in Need/Leicester LGBT Centre.  0116 254 6412  lisa@leicesterlgbtcentre.org'
-        lastTwitterPost: 'Thu May 11 11:18:50 +0000 2017'
+        lastTwitterPost: 'Fri May 12 07:38:10 +0000 2017'
+        facebookId: '784113981689152'
+        twitterID: 732901538469924900
     -
         name: 'SOFFA Marmalade'
         url: 'http://www.spanglefish.com/soffamarmalade/'
@@ -1126,6 +1311,7 @@ organisations:
         tags: ['West Midlands']
         lastFacebookPost: '2017-04-11T07:41:09+0000'
         facebookDescription: 'SOFFA Marmalade is run by volunteers for people who have a ‘Trans’ person in their family or as a friend. In the West Mids, Staffs and surrounding areas'
+        facebookId: '304146126455225'
     -
         name: 'Trans Masculine Birmingham'
         url: 'http://transbirminghamuk.tumblr.com'
@@ -1133,6 +1319,7 @@ organisations:
         tags: ['West Midlands']
         twitterDescription: 'Peer-to-Peer social and support group for trans masculine, NB and gender questioning adults in the West Midlands.'
         lastTwitterPost: 'Fri Dec 09 17:32:33 +0000 2016'
+        twitterID: 701790223215231000
     -
         name: R-Trans
         url: 'http://www.supportu.org.uk/trans-meeting-group.php'
@@ -1140,6 +1327,7 @@ organisations:
         tags: ['South East', Reading]
         lastFacebookPost: '2017-05-02T11:19:32+0000'
         facebookDescription: 'R-Trans is a support group for everyone under the Trans* spectrum who wish to meet others who identify as Trans.'
+        facebookId: '155595227919706'
     -
         name: 'Phoenix Trans Support'
         twitter: PhoenixSupportG
@@ -1149,15 +1337,19 @@ organisations:
         facebookDescription: 'Online transgender support group.'
         twitterDescription: 'Kent UK Trans support group meets first Sunday of each month between 4pm and 7pm at Walk Tall Village Lower Road, Northfleet Kent.'
         lastTwitterPost: 'Thu Apr 20 09:28:14 +0000 2017'
+        facebookId: '298893410258629'
+        twitterID: 2186544571
     -
         name: 'My Umbrella'
         twitter: MyUmbrellaUK
         facebook: MyUmbrella.org
         tags: ['South East', Reading]
-        lastFacebookPost: '2017-05-11T14:07:34+0000'
+        lastFacebookPost: '2017-05-13T06:16:39+0000'
         facebookDescription: 'MyUmbrella is a volunteer led support group based in Reading, Berkshire for the lesser known LGBT+ identities.'
         twitterDescription: 'My Umbrella is a support and social networking group for People who identify as Trans*, Gender Fluid, Asexual and other lesser known LGBT identities.'
-        lastTwitterPost: 'Thu May 11 14:21:38 +0000 2017'
+        lastTwitterPost: 'Sat May 13 23:41:26 +0000 2017'
+        facebookId: '418327451691745'
+        twitterID: 4244492254
     -
         name: 'The Clare Project'
         url: 'http://www.clareproject.org.uk/'
@@ -1165,6 +1357,7 @@ organisations:
         tags: ['South East', Brighton]
         twitterDescription: 'We are based in Brighton, UK and provide a weekly drop-in for people (& significant others) with gender identity issues.'
         lastTwitterPost: 'Tue Nov 11 22:48:11 +0000 2014'
+        twitterID: 745198537
     -
         name: 'Hastings & Rother Rainbow Alliance Trans'
         url: 'http://www.hrra.org.uk/'
@@ -1175,19 +1368,23 @@ organisations:
         facebookDescription: "Working to support the\nLGBT local community in Hastings and Rother, East Sussex, UK"
         twitterDescription: 'Hastings & Rother Rainbow Alliance Trans (HRRAT) is a fully supported part of HRRA and was started to support the T of LGBT'
         lastTwitterPost: 'Fri Dec 13 13:20:24 +0000 2013'
+        facebookId: '106591219375987'
+        twitterID: 526278468
     -
         name: 'Cambridge Diamonds'
         url: 'http://www.tgcambridge.org.uk/'
         facebook: cambridgediamonds
         tags: ['East Anglia']
-        lastFacebookPost: '2017-05-11T09:43:03+0000'
+        lastFacebookPost: '2017-05-12T14:06:26+0000'
         facebookDescription: "Diamonds is a transgender social and self-help group organised by cambridge tg that meets weekly in Cambridge, UK.\n"
+        facebookId: '571270553037061'
     -
         name: 'The Harper Leigh Foundation'
         tags: [National]
         facebook: TheHarperLeighFoundation
         lastFacebookPost: '2016-04-13T14:35:31+0000'
         facebookDescription: "Harper Leigh Foundation is a charity that supports, raise awareness and raises funds for transgender young people - info@theharperleighfoundation.co.uk\n"
+        facebookId: '201353123382927'
     -
         name: 'Transpire Southend'
         url: 'http://transpiresouthend.org/'
@@ -1198,6 +1395,8 @@ organisations:
         facebookDescription: 'Transpire is Southend''s newly established trans network, working with the local community to help support transgender persons, their friends and family.'
         twitterDescription: 'Supporting transgender persons, their friends and family and the wider LGBT community in and around Southend-on-Sea, Essex.'
         lastTwitterPost: 'Mon May 08 11:38:45 +0000 2017'
+        facebookId: '1122692911084054'
+        twitterID: 752496940445737000
     -
         name: TransOxford
         url: 'http://www.transoxford.org.uk/'
@@ -1205,6 +1404,7 @@ organisations:
         facebook: TransOxfordSupportGroup
         lastFacebookPost: '2017-03-18T05:49:13+0000'
         facebookDescription: 'Contact page for Oxfordshire transgender support group. Send us a message to join ''hidden'' FB group; follow us on IG @TransOxford'
+        facebookId: '1637927643124262'
     -
         name: Transfigurations
         url: 'http://transfigurations.org.uk/'
@@ -1212,6 +1412,7 @@ organisations:
         tags: ['South West']
         twitterDescription: 'Transgender support group in Devon - Support forums for trans or gender variant people and their parents - Trans Activist - Feminist'
         lastTwitterPost: 'Fri May 05 12:59:29 +0000 2017'
+        twitterID: 2438222112
     -
         name: TransBristol
         url: 'https://transbristol.wordpress.com/'
@@ -1219,6 +1420,7 @@ organisations:
         twitter: TransBristol1
         twitterDescription: 'A group for everyone in the Bristol area who identifies as transgendered, in whatever way'
         lastTwitterPost: 'Thu May 02 04:40:39 +0000 2013'
+        twitterID: 420767957
     -
         name: 'Tranforming Cinema'
         url: 'https://transformingcinema.co.uk/'
@@ -1229,6 +1431,8 @@ organisations:
         facebookDescription: 'Transforming Cinema is a film festival that champions trans people, films and stories. Taking place in Sheffield on November 19-20 2016. '
         twitterDescription: 'Transforming Cinema is a FREE film festival that champions trans people, films and stories. Based in Sheffield. Organised by @EDEN_F_P 🎬'
         lastTwitterPost: 'Tue May 09 09:22:33 +0000 2017'
+        facebookId: '200964490254231'
+        twitterID: 737600416037277700
     -
         name: 'Butterflies MCR'
         url: 'http://butterflies.dropin.co.uk/'
@@ -1236,30 +1440,32 @@ organisations:
         twitter: ButterfliesMCR
         twitterDescription: 'Bi-weekly drop-in cafe in #Manchester for those new to the #trans* community. Tweets managed by Leanne'
         lastTwitterPost: 'Fri Nov 13 08:53:20 +0000 2015'
+        twitterID: 2210471954
     -
         name: 'Swansea Sparkle'
         tags: [Wales]
         twitter: SWANSEASPARKLE
-        facebook: swanseasparkle
-        lastFacebookPost: '2016-12-02T03:11:14+0000'
-        facebookDescription: 'Swansea Sparkle is an LGBT event that happens in Swansea at The National Waterfront Museum Swansea. '
         twitterDescription: 'Swansea sparkle is Wales''s largest Transgender information and public integration event.'
         lastTwitterPost: 'Mon Dec 12 14:32:53 +0000 2016'
+        twitterID: 3032797840
     -
         name: 'Gender Alliance UK'
         tags: [National]
         twitter: GenderID_UK
         twitterDescription: 'We offer web based, non-judgemental support, advice and guidance to young people in the UK, aged 11-25, who are exploring or questioning their gender identity'
         lastTwitterPost: 'Thu May 11 11:26:42 +0000 2017'
+        twitterID: 750307844516376600
     -
         name: 'Belfast Trans Centre'
         tags: ['Northern Ireland']
         twitter: belfasttransrc
         facebook: belfasttransrc
-        lastFacebookPost: '2017-05-10T12:49:05+0000'
+        lastFacebookPost: '2017-05-11T21:26:05+0000'
         facebookDescription: 'The Belfast Trans Resource Centre is a hub and community space for transgender, non-binary and questioning people and their families across the city.'
         twitterDescription: 'The Belfast Trans Resource Centre is the home of @SAIL_NI and @GenderJamNI in Belfast. Community space for all trans & non-binary people & their families.'
-        lastTwitterPost: 'Wed May 10 16:51:32 +0000 2017'
+        lastTwitterPost: 'Sun May 14 14:04:32 +0000 2017'
+        facebookId: '1909319562638684'
+        twitterID: 844263387160809500
     -
         name: 'UoM Trans Campaign'
         tags: ['North West', Manchester]
@@ -1269,6 +1475,8 @@ organisations:
         facebookDescription: 'No pride for some of us without liberation for all of us.'
         twitterDescription: 'No pride for some of us without liberation for all of us. ✉️: uomtranscampaign@gmail.com'
         lastTwitterPost: 'Tue May 09 19:05:54 +0000 2017'
+        facebookId: '672931182864440'
+        twitterID: 796040507315146800
     -
         name: Communi-T
         tags: ['South West']
@@ -1277,5 +1485,21 @@ organisations:
         facebook: CommuniTPublicpage
         twitterDescription: 'We''re a social group for all trans people, based in Bournemouth. Holding group & social support sessions & events for the over 18''s.'
         lastTwitterPost: 'Thu May 11 19:56:42 +0000 2017'
-        lastFacebookPost: '2017-05-10T12:20:41+0000'
+        lastFacebookPost: '2017-05-13T13:04:59+0000'
         facebookDescription: 'We are a social group for trans people and are welcoming to anyone who is on the trans spectrum -based in Bournemouth.'
+        twitterID: 790932967535349800
+        facebookId: '459512114436232'
+    -
+        name: 'KissNmakeup Bournemouth'
+        tags: ['South West']
+        url: 'https://sites.google.com/site/kissnmakeupgroup/'
+        facebookId: '101213788878'
+        lastFacebookPost: '2017-04-30T14:54:50+0000'
+    -
+        name: 'National Trans Youth Network'
+        tags: ['Under 18s']
+        url: 'http://ntyn.genderjam.org.uk/network/'
+        twitter: transyouthnet
+        twitterID: 3382749831
+        twitterDescription: 'The National Trans Youth Network is a network of trans youth groups from around the UK, and includes the youth workers who support them'
+        lastTwitterPost: 'Thu May 11 13:31:33 +0000 2017'
