@@ -17,6 +17,7 @@ tags:
   - "Sport"
   - "Legal"
   - "Sex"
+  - "Health"
 
 
 publications:
@@ -652,6 +653,24 @@ General Healthcare'
     year: 2017
     url: 'https://www.rcn.org.uk/-/media/royal-college-of-nursing/documents/publications/2017/march/pub-005844.pdf'
     tags: [Medical policies, Hormones, Surgery]
+  -
+    title: 'Breast Cervical Bowel screening information for transgender service users'
+    organisation: 'Albion in the Community'
+    year: 2016
+    url: 'http://www.brightonandhoveccg.nhs.uk/file/8726/download?token=HChnPJYx'
+    tags: [Health]
+  -
+    title: 'Breast Cervical AAA Bowel Screening Information for Transgender Service Users'
+    organisation: 'Public Health Wales'
+    year: 2016
+    url: 'http://www.screeningforlife.wales.nhs.uk/sitesplus/documents/1129/Trans%20screening%20v2%20English%20250516.pdf'
+    tags: [Health]   
+  -
+    title: 'So, someone you know is Transgender? Q&A for Family, Friends and Colleagues of Gender Variant Individuals'
+    organisation: 'The Clare Project'
+    year: 2013
+    url: 'http://www.clareproject.org.uk/home/support/support-resources/TG%20Information%20Booklet%20-%20v2.45.pdf?attredirects=0&d=1'
+    tags: [Family] 
   # -
   #   title: ""
   #   organisation: ""
