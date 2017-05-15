@@ -794,6 +794,7 @@ organisations:
         lastTwitterPost: 'Sat Dec 08 12:41:27 +0000 2012'
         facebookId: '324685666914'
         twitterID: 124024206
+        archived: true
     -
         name: RosesRepartee
         url: 'http://www.repartee.tv/'
@@ -1145,10 +1146,14 @@ organisations:
         name: T-Boys
         url: 'http://www.tboys.co.uk/'
         twitter: TBoysUK
+        facebook: tboysyorkshire
         tags: [Yorkshire, Transmasculine]
         twitterDescription: 'We are a Yorkshire wide support group for anyone assigned female at birth who considers themselves to be on the trans spectrum or is questioning their gender.'
         lastTwitterPost: 'Tue Sep 11 08:40:43 +0000 2012'
         twitterID: 558996227
+        facebookId: '342016152502534'
+        lastFacebookPost: '2017-05-11T17:10:00+0000'
+        facebookDescription: 'We are a Yorkshire wide support group for anyone assigned female at birth who considers themselves to be on the trans spectrum or is questioning their gender.'
     -
         name: 'TPSG Hull'
         facebook: TPSGhull
@@ -1421,6 +1426,7 @@ organisations:
         twitterDescription: 'A group for everyone in the Bristol area who identifies as transgendered, in whatever way'
         lastTwitterPost: 'Thu May 02 04:40:39 +0000 2013'
         twitterID: 420767957
+        archived: null
     -
         name: 'Tranforming Cinema'
         url: 'https://transformingcinema.co.uk/'
@@ -1515,3 +1521,10 @@ organisations:
         facebookId: '173689459759748'
         lastFacebookPost: '2017-01-05T23:17:47+0000'
         facebookDescription: 'For people in the UK who want to change gendered aspects of themselves.'
+    -
+        name: 'BUFF Manchester'
+        tags: ['North West', Manchester]
+        twitter: BUFFManchester
+        twitterID: 1273185834
+        twitterDescription: 'Getting the trans masculine community together to celebrate over Sparkle'
+        lastTwitterPost: 'Fri Jun 10 11:14:57 +0000 2016'
