@@ -1,0 +1,37 @@
+---
+title: Obtaining a GRC
+weighting: 3
+---
+
+{% capture warn %}
+If you are currently married, obtaining a GRC may annul your marriage. See below for more details.
+{% endcapture %}
+{% include warning warning=warn %}
+
+The process of obtaining a *Gender Recognition Certificate* (GRC) allows you to change the gender listed on your birth certificate to either "female" or "male", provided you meet the requirements of the Gender Recognition Panel (GRP).
+
+This has three main effects:
+
+- it changes which marriage laws apply to you (e.g. whether you would be able to apply for a civil partnership), and may cause you to need to obtain a new marriage or civil partnership certificate
+- it changes whether you would be housed in a women's prison or a men's prison
+- it may affect your rights around pensions, particularly if you were born before 6th December 1953. 
+
+Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
+
+You cannot obtain a GRC if you are under the age of 18. You cannot obtain a GRC unless you:
+
+- have, or have had, gender dysphoria
+- have lived fully for the last two years in your acquired gender (male or female) and continue to do so
+- intend to live permanently in your acquired gender until death.
+
+More stringent requirements may be placed on you depending on the method by which you apply for a GRC.
+
+In the event you are currently married, there are a complex set of rules around how you and your marriage are effected. UK Trans Info have produced [a useful guide](http://uktrans.info/graguide.pdf) that provides lots of information about this.
+
+It costs £160 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
+
+Detailed guidance on the process, requirements for and efffects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng-2016.04.01.pdf). Further advice has also been produced by [GIRES](https://www.gires.org.uk/law-archive/obtaining-your-gender-recognition-certificate) and [UK Trans Info](http://uktrans.info/graguide.pdf).
+
+Once you have obtained your GRC, it is very important you notify the following organisations:
+
+{% include checklist %}
