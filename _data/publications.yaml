@@ -671,6 +671,18 @@ General Healthcare'
     year: 2013
     url: 'http://www.clareproject.org.uk/home/support/support-resources/TG%20Information%20Booklet%20-%20v2.45.pdf?attredirects=0&d=1'
     tags: [Family] 
+  -
+    title: "The General Guide for all Users - Gender Recognition Act 2004"
+    organisation: "HM Courts and Tribunals Service"
+    year: 2016
+    url: 'https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng-2016.04.01.pdf'
+    tags: [Legal]
+  -
+    title: "Transforming the Workplace - A TUC guide for trade union activists on supporting trans members"
+    organisation: 'Trades Union Congress'
+    year: 2016
+    url: 'https://www.tuc.org.uk/sites/default/files/Transformingtheworkplace.pdf'
+    tags: [Employment]
   # -
   #   title: ""
   #   organisation: ""
