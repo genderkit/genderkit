@@ -4,3 +4,5 @@ duration: "The effects of electrolysis are permanent and cannot be reversed."
 effects:
   - category: "Body hair"
     detail: "Permanently reduces"
+  - category: "Facial hair"
+    detail: "Permanently reduces"
