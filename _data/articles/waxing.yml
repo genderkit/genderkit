@@ -3,3 +3,5 @@ duration: "The effects last until the hair regrows (days to weeks)."
 effects:
   - category: "Body hair"
     detail: "Temporarily removes"
+  - category: "Eyes"
+    detail: "Reshapes eyebrows"
