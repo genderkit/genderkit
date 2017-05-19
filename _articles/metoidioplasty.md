@@ -12,7 +12,7 @@ An alternative to metoidioplasty is [phalloplasty]({{ site.baseurl }}{% link _ar
 
 In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This causes the clitoris to move lower down.
 
-At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. 
+At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want.
 
 In combination with metiodioplasty, many patients also choose to have [scrotoplasty]({{ site.baseurl }}{% link _articles/scrotoplasty.md %}) (surgical creation of a scrotum) performed in the same operation, which combined with using labial skin to wrap the clitoris can create small penis and scrotum.
 

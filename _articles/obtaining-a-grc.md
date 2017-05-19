@@ -4,7 +4,7 @@ weighting: 3
 ---
 
 {% capture warn %}
-If you are currently married, obtaining a GRC may annul your marriage. See below for more details.
+If you are currently married or in a civil partnership, obtaining a GRC may annul your marriage or civil partnership. See below for more details.
 {% endcapture %}
 {% include warning warning=warn %}
 
