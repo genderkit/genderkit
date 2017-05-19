@@ -47,7 +47,7 @@
           <ul class="gridcontainer">
             {% for item in site.data.explore[page.data] %}
             <li class="griditem">
-              <h3 style="color:{{ site.data.wordcloud.colours | cycle }};">{{ item.title }}</h3>
+              <h3>{{ item.title }}</h3>
               <ul>
               {% for subitem in item.items %}
                 <li>{{ subitem }}</li>
