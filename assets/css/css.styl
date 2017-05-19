@@ -92,7 +92,7 @@ h2
   border-image $dawn 10
   border-bottom 2px solid #f90
 h3
-  font-weight bold
+  font-weight 600
   font-size 100%
 
 figure
@@ -109,9 +109,9 @@ figure
     @media screen and (min-width: $page-twowide)
       width $two-column-width
       max-width $two-column-width
-    @media screen and (min-width: $page-fourwide)
-      width $three-column-width
-      max-width $three-column-width
+    @media screen and (min-width: $page-threewide)
+      width $column-width
+      max-width $column-width
 figcaption
   text-align center
   margin-top $standard-padding
@@ -326,11 +326,13 @@ footer
 
 .categories h3
   background rgba(255,255,255,0.85)
-  padding 0.25rem 0.5rem
+  padding 0.5rem 0.5rem
+  line-height 1.25
   color black
   
 .categories p
-  padding 0.5rem
+  padding 0.5rem 0.5rem
+  line-height 1.25
 
 .categorypicture
   @media screen and (max-width: $page-onebigwide)
@@ -515,6 +517,8 @@ footer
     @media screen and (min-width: $page-fourwide)
       font-size 1.5rem
 
+/* Article pages */
+
 #effectslist
   display flex
   flex-direction row
@@ -522,9 +526,9 @@ footer
   justify-content center
 
 #effectslist li
-  width 6em
-  height 4em
-  margin 0.5em 1em
+  width 6rem
+  height 4rem
+  margin 0.5rem 1rem
   text-align center
   line-height 1.25
 
@@ -543,10 +547,11 @@ footer
   display flex
   flex-direction row
   align-items center
-  margin 0.5rem 1rem 0.5rem 0
+  margin 0 1rem 0 0
   line-height 1.25
   width $column-width
   max-width $column-width
+  min-height 4rem
   @media screen and (min-width: $page-onebigwide)
     width $bigger-column-width
     max-width $bigger-column-width
@@ -559,13 +564,25 @@ footer
   opacity 0.6
 
 .effects i::before
-  font-size 4rem
+  font-size 3rem
+
+.greybox
+  background #eee 
+  padding 0 1rem
+  margin-top 1rem
+  
+.greybox > h3
+    margin-top 1rem
+    padding-top 1rem
+    margin-bottom 0
+.greybox > p
+    margin-top 1rem
 
 .warning
   margin 2em 0 0 0
   padding 0
   border-top 4px solid #f22
-  font-weight bold
+  font-weight 600
   .header
     color #f22
     font-size 150%
@@ -598,4 +615,4 @@ footer
   background-repeat repeat-x
   
 .dark .sidebar a
-  color #98f
+  color #a599ff
