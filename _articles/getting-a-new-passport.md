@@ -16,7 +16,7 @@ If you already have a passport:
 
 You can update your name and/or gender marker on your passport either [online](https://www.gov.uk/apply-renew-passport) or by post. Forms for postal updates are available from your local post office. You will need to return your old passport along with the application or declare it lost if you've lost it. 
 
-To update your name on your passport you will need to send them your [deed poll]({{ site.baseurl }}{% link _articles/name-change-by-deed-poll.md %}) or [statutory deceleration]({{ site.baseurl }}{% link _articles/name-change-by-statutory-decleration.md %}). You must send the passport office an original or a [certified copy](https://www.gov.uk/certifying-a-document) of the document they do not accept photocopies. 
+To update your name on your passport you will need to send them your [deed poll]({{ site.baseurl }}{% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({{ site.baseurl }}{% link _articles/name-change-by-statutory-declaration.md %}). You must send the passport office an original or a [certified copy](https://www.gov.uk/certifying-a-document) of the document they do not accept photocopies. 
 
 To update your gender marker on your passport you need a letter from a doctor (normally either your gender specialist or your general practitioner) saying that they consider this change to be permanent. Or a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) if you have one. But you are not required to have a GRC to update the gender marker on your UK passport, it just means that you do not require the letter from your doctor. If you are getting your letter from a GP there is usually a charge for this letter.
 
