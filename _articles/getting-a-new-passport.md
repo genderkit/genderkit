@@ -1,6 +1,9 @@
 ---
 title: Getting a New Passport
 weighting: 3
+feature:
+  image: /assets/images/articles/getting-a-new-passport.jpg
+  caption: "A red UK passport sat onto top the Identities and Passport Services information leaflet."
 ---
 
 {% capture warn %}
