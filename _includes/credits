@@ -12,7 +12,8 @@
         <p>
         Article contributions: 
         {% for article in item.articles %}
-        <a href="#">{{ article | xml_escape }}</a>{% if forloop.last == true %}.{% else %}, {% endif %}
+        {% assign slug = article | slugify %}
+        <a href="{{ site.baseurl }}/article/{{slug}}">{{ article | xml_escape }}</a>{% if forloop.last == true %}.{% else %}, {% endif %}
         {% endfor %}
         </p>
         {% endif %}
