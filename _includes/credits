@@ -1,0 +1,31 @@
+{% assign data = site.data.credits %}
+{% if data %}
+  <ul class="details">
+  {% for item in data %}
+    <li>
+      <div>
+        <h3>{{ item.name | xml_escape }}</h3>
+        {% if item.contribution %}
+        <p>{{ item.contribution | xml_escape }}</p>
+        {% endif %}
+        {% if item.articles %}
+        <p>
+        Article contributions: 
+        {% for article in item.articles %}
+        <a href="#">{{ article | xml_escape }}</a>{% if forloop.last == true %}.{% else %}, {% endif %}
+        {% endfor %}
+        </p>
+        {% endif %}
+        <ul class="links">
+          {% if item.url %}
+            <li><a href="{{ item.url }}">Website</a></li>
+          {% endif %}
+          {% if item.twitter %}
+            <li><a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
+{% endif %}
