@@ -1,0 +1,6 @@
+summary: "Returning your current passport for one with an updated name, photograph, and/or gender marker."
+duration: "Passports are valid for ten years, but can be updated at anytime during their validity."
+effects:
+  -
+    category: "ID documents"
+    detail: "Changes name and/or gender marker"
