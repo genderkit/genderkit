@@ -1,11 +1,16 @@
 -
-  name: "Aithne Morgana"
-  contribution: "Graphic design"
+  name: "Mx Aithne"
+  contribution: "Graphic Design, Photography"
   articles: 
-    - "Rhinoplasty"
-    - "Orchidectomy"
-    - "Tanning"
+    - "Getting a New Passport"
   url: "http://unconventionalintimacy.uk"
--
-  name: "Sparge Sparge"
-  twitter: "sparge"
+  twitter: "UnconIntimacy"
+# Example credit
+# -
+#   name: "Joe Bloggs"
+#   contribution: "Spline Reticulation"
+#   articles:
+#     - "Hair Straightening"
+#     - "Conceptive Pill"
+#   url: "http://test.com"
+#   twitter: "sparge"
