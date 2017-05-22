@@ -30,3 +30,5 @@ You will need to fill in the application for a new passport and include your bir
 If you do not have a passport but do have a GRC and updated birth certificate:
 
 You can apply for a passport as normal with your updated birth or adoption certificate, name change documents and letters from doctors are not required.
+
+You can read more about obtaining or renewing passports on the [HM Passport Office website](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251703/Applying_for_a_passport_additional_information.PDF).
