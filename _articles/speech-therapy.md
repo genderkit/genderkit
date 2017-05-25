@@ -12,7 +12,7 @@ Speech and language therapy is often provided free of charge by UK gender identi
 Private speech and language therapists who advertise specific experience around gender include:
 
 - [Matthew Mills](http://www.matthewmills.uk.com/) (London)
-- [Christella Antoni](http://www.christellaantoni.co.uk/) (London)
+- [Christella Antoni, Nikki Milojevic, and Rhiannon Grébert](http://www.christellaantoni.co.uk/) (London)
 - [Nicola Gorb](https://voicecommunicationclinic.com/) (London and Hertfordshire)
 - [Maggi Stratford](https://www.maggistratford.com/) (Leeds)
 - [Heidi de Quincey](http://www.heididequincey.co.uk/) (Hampshire)
