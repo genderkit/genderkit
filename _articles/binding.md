@@ -17,7 +17,7 @@ You can get different styles of binders depending on where you get them from and
 
 Use of a binder is almost always accompanied by some undesirable symptoms, most commonly back, chest or shoulder pain, overheating, shortness of breath, itching, and bad posture. Rarer but more serious effects of binder use include scarring, swelling, rib fractures and respiratory infections. The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks.
 
-Binders cannot be bought in high street shops and have to be ordered online. There are very few UK stockists but you may be able to find some on Amazon and eBay. Buying from abroad may incur customs charges.
+Binders cannot be bought in high street shops and have to be ordered online. There are very few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about recieving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
 
 Binders typically cost £25-50. Well known retailers of binders serving the UK include:
 
@@ -25,6 +25,8 @@ Binders typically cost £25-50. Well known retailers of binders serving the UK i
 - [gc2b](https://www.gc2b.co/)
 - [Les Love Boat](http://www.lesloveboat.com/shop/) - best for slim/small chested people
 - [T Kingdom](http://www.t-kingdom.com/) - best for slim/small chested people
+
+Buying from abroad may incur customs charges.
 
 If you are unable to afford purchasing a binder from these sources, you may also be able to obtain free binders from:
 

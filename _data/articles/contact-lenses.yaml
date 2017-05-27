@@ -5,3 +5,6 @@ effects:
   -
     category: "Face"
     detail: "Changes appearance"
+  -
+    category: "Eyes"
+    detail: "Changes colour or makes iris bigger"

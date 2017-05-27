@@ -21,8 +21,9 @@ This has three main effects:
 
 Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
 
-You cannot obtain a GRC if you are under the age of 18. You cannot obtain a GRC unless you:
+You cannot obtain a GRC unless you:
 
+- are 18 years old or older
 - have, or have had, gender dysphoria
 - have lived fully for the last two years in your acquired gender (male or female) and continue to do so
 - intend to live permanently in your acquired gender until death.

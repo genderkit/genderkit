@@ -14,6 +14,8 @@ In a metoidioplasty, the clitoris is detached from the labia and the ligaments w
 
 At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want.
 
+The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
+
 In combination with metiodioplasty, many patients also choose to have [scrotoplasty]({{ site.baseurl }}{% link _articles/scrotoplasty.md %}) (surgical creation of a scrotum) performed in the same operation, which combined with using labial skin to wrap the clitoris can create small penis and scrotum.
 
 Metoidioplasty first requires taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occured (usually after 1-2 years into taking testosterone), metiodioplasty can be carried out {% cite frey2017update --location 732 %}. 
