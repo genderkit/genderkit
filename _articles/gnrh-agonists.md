@@ -17,7 +17,7 @@ In people with testes, this produces an anti-androgenic effect (reduction in tes
 
 In people with ovaries, treatment with GnRH agonists reduces oestrogen and progesterone levels. This causes periods to stop, along with halting breast growth.
 
-People who do not have gonads (ovaries and/or testes) do not need to take GnRH agonists (for example, after [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}) or [oophorectomy]({{ site.baseurl }}{% link _articles/oophorectomy.md %}) there is no longer any need to use GnRH agonists).
+People who do not have gonads (ovaries and/or testes) do not need to take GnRH agonists (for example, after [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}) or [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}) there is no longer any need to use GnRH agonists).
 
 GnRH agonists are usually supplied in forms that are administered once every four weeks {% cite prostap %}, twelve weeks {% cite zoladex %}, or six months {% cite decapeptyl %}.
 

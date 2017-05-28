@@ -8,7 +8,7 @@ Packing provides an easy way to make it look like you have a penis.
 Multiple different kinds of packers are available, including:
 
 - *DIY packers:* using home made packers such as rolled up socks, or condoms filled with hair gel or "gak".
-- *packers with built in STP:* these packers are designed with a built in funnel and tube that allows you to urinate out of them while standing.
+- *packers with built in STP:* these packers are designed with a built in funnel and tube that allows you to urinate out of them while standing ("standing to pee").
 - *prosthetic packers:* these attach to your body using surgical glue so that they stay in place even when underwear is removed. More expensive models may be highly realistic and airbrushed to give a natural variation in colour.
 - *packers designed for use in penetrative sex:* packers which contain a bendable rod or which can be inflated.
 
