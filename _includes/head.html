@@ -1,8 +1,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <meta name="google-site-verification" content="qetg5bHJT_x0mnOmiCB6dKCY5LcPG-7PLGjarWaYfmc" />
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+{% assign description = site.description %}
+{% if page.collection == 'articles' %}
+	{% assign slug = page.title | slugify %}
+	{% assign info = site.data.articles[slug] %}
+	{% assign description = info.summary %}
+{% elsif page.description %}
+	{% assign description = page.description %}
+{% endif %}
+
+<meta name="description" content="{{description}}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
