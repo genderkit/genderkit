@@ -1,6 +1,9 @@
 ---
 title: Speech therapy
 weighting: 2
+feature:
+  image: /assets/images/articles/speech-therapy.jpg
+  caption: "A person's mouth while they are speaking"
 ---
 
 Speech and language therapy can be used by people wanting to change the quality of their voice, raise the pitch of their voice, or lower their average pitch. 

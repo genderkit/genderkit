@@ -1,6 +1,9 @@
 ---
 title: Packing
 weighting: 1
+feature:
+  image: /assets/images/articles/packing.jpg
+  caption: "A rolled up sock, one method of making a DIY packer"
 ---
 
 Packing provides an easy way to make it look like you have a penis.
