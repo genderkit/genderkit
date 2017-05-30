@@ -8,7 +8,7 @@ The health risks of binding are almost entirely unstudied and unknown, and are a
 {% endcapture %}
 {% include warning warning=warn %}
 
-Binders are a tight, elastic type of underwear that compresses the chest into a different shape. This flattens breast tissue, making it less visible.
+Binders are a tight, elastic type of underwear that compresses the chest into a different shape. This flattens breast tissue, making it less visible. Safer but less effective alternatives to binding are wearing a sports bra or multiple layers of clothing to hide your chest shape.
 
 You can get different styles of binders depending on where you get them from and your needs:
 
