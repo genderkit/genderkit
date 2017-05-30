@@ -14,3 +14,5 @@ Minoxidil is not suitable for people who are sunburned or who have psoriasis or 
 The cost of Minoxidil is around £10-25 per month, with cost varying depending on the quantity bought.
 
 You can read more about hair loss treatments at the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+
+{% bibliography --cited %}
