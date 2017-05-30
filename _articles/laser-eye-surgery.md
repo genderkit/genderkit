@@ -17,7 +17,7 @@ The main risks of laser eye surgery are not having the expected improvement in v
 
 Laser eye surgery is not normally funded by the NHS unless it is to treat a condition that cannot be fixed with contact lenses or glasses.
 
-To ensure you are recieving the safest possible treatment, you should follow [advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.
+To ensure you are recieving the safest possible treatment, you should follow this [advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.
 
 You can read more about laser eye surgery on the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Lasers.aspx).
 
