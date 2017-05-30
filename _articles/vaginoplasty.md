@@ -18,6 +18,12 @@ Vaginoplasty is a major surgery, with serious risks including deep vein thrombos
 
 A very common but much less serious side effect is *granulation tissue* forming inside the neovagina, which is treated by treatment with silver nitrate. This can often be carried out by a GP or practice nurse.
 
-The NHS will normally fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 --location 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
+UK surgeons will normally expect that your BMI is below 30 before carrying out vaginoplasty.
+
+A operation in the UK to perform vaginoplasty along with [labioplasty]({{ site.baseurl }}{% link _articles/labioplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
+
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for vaginoplasty.
+
+The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 --location 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
 
 {% bibliography --cited %}  
