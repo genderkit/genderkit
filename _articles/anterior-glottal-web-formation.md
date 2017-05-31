@@ -3,10 +3,14 @@ title: "Anterior glottal web formation"
 weighting: 5
 ---
 
-[Speech therapy]({{ site.baseurl }}{% link _articles/speech-therapy.md %}) is able to allow the majority of people to raise the pitch and change the qualities of their voice.
+[Speech therapy]({{ site.baseurl }}{% link _articles/speech-therapy.md %}) is able to allow the majority of people to raise the pitch and change the qualities of their voice safely and easily.
 
-However, in a minority of the cases, this is not the case, and surgery can be carried out, though it requires subsequent additional speech therapy afterwards {% cite seal:2007 --location 194 %}.
+However, for a minority of people this is not the case, and they may consider voice surgery as an alternative. Unlike speech therapy, voice surgery carries significant risks of complications, and the effects may be irreversable.
 
-While a variety of different approaches to increasing vocal pitch have been tried, there is currently little research into what the long term effects of these surgeries are, and how long the effects will last is unknown {% cite van2017effectiveness --location 244e4 %}.
+Possible side effects of voice surgeries include reduced loudness, decreased vocal range, decreased clarity of voice, and lack of decrease in pitch {% cite song2017transgender --location 806 %}.
+
+While a variety of different surgical approaches to increasing vocal pitch have been tried, there is currently little research into what the long term effects of these surgeries are, and how long the effects will last is unknown {% cite van2017effectiveness --location 244e4 %}.
+
+Depending on the surgical technique, you may have permanent scarring after the operation. Voice surgery also requires additional speech therapy after the surgery {% cite seal:2007 --location 194 %}.
 
 {% bibliography --cited %}
