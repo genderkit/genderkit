@@ -28,4 +28,4 @@ Private speech and language therapists who advertise specific experience around 
 
 Speech therapists can charge a variety of different rates, from as low as £50/hour up to over £150/hour.
 
-A minority of people are unable to reach their goals through speech and language therapy or testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) treatment and undergo surgical interventions to change their voice.
+A minority of people are unable to reach their goals through speech and language therapy or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) treatment and undergo surgical interventions to change their voice.
