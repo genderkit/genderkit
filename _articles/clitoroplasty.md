@@ -16,3 +16,5 @@ Historically, alternative techniques such as a free graft of the tip of the peni
 Creation of a neoclitoris is a delicate surgery and is not without risk. It is common for there to be no sensation in the clitoris for many months after surgery. Around 2-5% of people who have a clitoroplasty do not gain sensation in the clitoris at all {% cite bellringer:2007 selvaggi2011gender  -l 214 %}, and around 15-25% are unable to reach orgasm after clitoroplasty, though findings have varied significantly between medical studies on this topic {% cite wylie:2016 %}.
 
 A more dramatic complication is for the blood supply to the clitoris not to survive the surgery. This causes necrosis of the clitoris (the tissue dies from lack of blood supply). In this situation, some sensation may remain from the nerves leading to the area {% cite bellringer:2007 -l 215 %}. This affects around 1% of patients who have a clitoroplasty. 
+
+{% bibliography --cited %}
