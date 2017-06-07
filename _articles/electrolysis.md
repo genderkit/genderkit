@@ -3,7 +3,11 @@ title: Electrolysis
 weighting: 4
 ---
 
-Electrolysis is often used to remove facial hair, especially when [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) (which is much quicker) does not work. It is also commonly used to remove hair from the genitals before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}), and to remove hair from donor skin sites before [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}).
+Electrolysis often used as an alternative to [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}). Laser hair reduction can be up to 60 times faster than electrolysis and less painful {% cite gorgu2000comparison %}. A common reason for using electrolysis is for treating blonde, ginger or grey hairs, which are unaffected by laser hair reduction. 
+
+Electrolysis is often used to remove facial hair.
+
+Electrolysis is also commonly used to remove hair from the genitals before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}), and to remove hair from donor skin sites before [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}).
 
 Anyone carrying out electrolysis in the UK must have [a special license](https://www.gov.uk/skin-piercing-and-tattooing). They are legally required to display this license in the premises. Ensure you have seen this license before allowing anyone to carry out electrolysis on you, so that you know you are safe.
 
