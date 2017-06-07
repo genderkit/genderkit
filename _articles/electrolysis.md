@@ -18,3 +18,5 @@ Electrolysis may be painful or uncomfortable. You can reduce the discomfort by a
 The price of electrolysis varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £TODO per session. If you have a formal diagnosis of gender dysphoria and have unwanted facial hair, the NHS may provide funding for some electrolysis or [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}).
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
+
+{% bibliography --cited %}

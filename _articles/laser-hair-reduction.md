@@ -19,3 +19,5 @@ The price of laser hair reduction varies depending on the size of the area to be
 The NHS will normally fund genital hair removal before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 
 You can read more about laser hair removal on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
+
+{% bibliography --cited %}
