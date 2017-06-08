@@ -1,5 +1,6 @@
 ---
-layout: page
+title: Gamete storage
+weighting: 4
 ---
 
 A number of treatments and surgical procedures to change things related to gender may have infertility as a possible risk or a certain consequence.
