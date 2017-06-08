@@ -15,7 +15,7 @@ Not all types of hysterectomy remove the risk of cervical cancer. The cervix is 
 
 Hysterectomies are usually carried out because of cancer or other tumours of the uterus, cervix, fallopian tubes or ovaries. They are also sometimes carried out on people with very heavy periods. 
 
-In the UK, it is recommended that if you have a uterus (womb) and are taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) long-term that you have a hysterectomy. This is because testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer {% cite seal:2007 --location 184 %}. Funding for this surgery is normally available on the NHS.
+In the UK, it is recommended that if you have a uterus (womb) and are taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) long-term that you have a hysterectomy. This is because testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer {% cite seal:2007 -l 184 %}. Funding for this surgery is normally available on the NHS.
 
 There several types of hysterectomy, which may or may not include removing the cervix or removing the ovaries and fallopian tubes (also known as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %})). Hysterectomy does not usually involve removal of the vagina, which is called a [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}).
 

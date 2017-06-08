@@ -21,7 +21,7 @@ Testosterone usually causes periods to stop, but does not remove the risk of pre
 {% endcapture %}
 {% include warning warning=warn %}
 
-In a small proportion of people mensturation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine --location 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
+In a small proportion of people mensturation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
 Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced.
 
@@ -29,6 +29,6 @@ Testosterone use can cause serious medical conditions including polycythaemia (t
 
 Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS Choices website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 
-Testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer. In the UK, it is recommended that people taking testosterone long-term undergo [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) to remove this risk {% cite seal:2007 --location 184 %}. 
+Testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer. In the UK, it is recommended that people taking testosterone long-term undergo [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) to remove this risk {% cite seal:2007 -l 184 %}. 
 
 {% bibliography --cited %}

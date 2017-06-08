@@ -13,7 +13,7 @@ Spironolactone can cause permanent liver damage and should be taken under medica
 
 Several different types of drug are used as anti-androgens. Spironolactone is a commonly used antiandrogen in the US. 
 
-While spironolactone is much cheaper to obtain than GnRH agonists, it can often have side effects and after prolonged use may cause liver damage. In the UK endocrinologists usually prescribe GnRH (gonadotropin releasing hormone) agonists instead {% cite seal:2007 --location 170 %}. These medications are described in more detail on the [GnRH agonists page]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}).
+While spironolactone is much cheaper to obtain than GnRH agonists, it can often have side effects and after prolonged use may cause liver damage. In the UK endocrinologists usually prescribe GnRH (gonadotropin releasing hormone) agonists instead {% cite seal:2007 -l 170 %}. These medications are described in more detail on the [GnRH agonists page]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}).
 
 A study has suggested that taking spironolactone with [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) may reduce the breast development caused by oestrogen {% cite seal2012predictive %}, though this has not been confirmed by other researchers.
 

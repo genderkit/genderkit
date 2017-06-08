@@ -12,7 +12,7 @@ Typically, mastectomy is performed using the [double incision mastectomy]({{ sit
 
 Peri-areolar mastectomy is usually used only to remove small breasts (B-cup or less) where the patient also has good skin elasticity. 
 
-Unlike double incision mastectomy, peri-areolar mastectomy results in significantly less visible scarring, but may also cause over-reduction of the breast leaving a depression or dip in the chest. Repositioning of nipples cannot be carried out during peri-areolar mastecomy without leaving very conspicious scarring, unlike double incision mastectomy {% cite seal:2007 --location 227 %}.
+Unlike double incision mastectomy, peri-areolar mastectomy results in significantly less visible scarring, but may also cause over-reduction of the breast leaving a depression or dip in the chest. Repositioning of nipples cannot be carried out during peri-areolar mastecomy without leaving very conspicious scarring, unlike double incision mastectomy {% cite seal:2007 -l 227 %}.
 
 Mastectomy, like other gender surgeries, will normally require two opinions from gender specialists (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery.
 

@@ -7,7 +7,7 @@ feature:
 ---
 
 {% capture warn %}
-Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting). This includes a higher risk of deep vein thrombosis (DVT) {% cite seal:2007 --location 175 %}. Where possible, oestrogen should be taken under medical supervision with regular blood testing.
+Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting). This includes a higher risk of deep vein thrombosis (DVT) {% cite seal:2007 -l 175 %}. Where possible, oestrogen should be taken under medical supervision with regular blood testing.
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -20,7 +20,7 @@ Oestrogen is commonly available in oral (pill) form, transdermal patches (patche
 
 There are several different variants of oestrogen available: normally valerate or hemihydrate in the UK, and sometimes cypionate or bezoate are used (which have a longer lasting effect). In the past ethinylestradiol and conjugated equine oestrogens were used, but these are now avoided because they have a much higher risk of blood clots {% cite toorians2003venous %} and are also not detectable in normal blood tests.
 
-Oestrogen in high doses has in the past been used to supress testosterone but use of antiandrogens (in the UK, normally [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %})) is now the standard approach for testosterone supression {% cite seal:2007 --location 170 %}.
+Oestrogen in high doses has in the past been used to supress testosterone but use of antiandrogens (in the UK, normally [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %})) is now the standard approach for testosterone supression {% cite seal:2007 -l 170 %}.
 
 Oestrogen therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced.
 

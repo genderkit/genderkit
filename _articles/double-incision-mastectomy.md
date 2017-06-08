@@ -10,7 +10,7 @@ Not all breast tissue is removed in mastectomy, and it does not remove the risk 
 
 In double incision mastectomy, the breast tissue is removed, and usually the nipples are made smaller and repositioned.
 
-Typically, mastectomy is performed using the double incision mastectomy technique. However, some people may be able to undergo [peri-areolar mastectomy]({{ site.baseurl }}{% link _articles/peri-areolar-mastectomy.md %}) instead, which can result in less visible scarring {% cite seal:2007 --location 227 %}.
+Typically, mastectomy is performed using the double incision mastectomy technique. However, some people may be able to undergo [peri-areolar mastectomy]({{ site.baseurl }}{% link _articles/peri-areolar-mastectomy.md %}) instead, which can result in less visible scarring {% cite seal:2007 -l 227 %}.
 
 Double incision mastectomy carries a risk of loss of sensation in the nipples or loss of the nipples entirely. If a nipple is completely lost, some people use cosmetic tatooing to give the appearance that the nipple is still there.
 
