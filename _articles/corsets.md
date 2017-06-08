@@ -7,8 +7,8 @@ feature:
 ---
 
 {% capture warn %}
-TODO - instructions on safe corset use
+There is little or no medical research into the health effects of wearing corsets. A literature search by Gender Construction Kit found only one medical study {% cite gau1998corsets %}. The long term health risks are entirely unknown.
 {% endcapture %}
 {% include warning warning=warn %}
 
-Some corsets available in high street shops are designed only to mimic the appearance of a corset, and do not actually change the shape of the body. These corsets are not suitable for tightlacing/corset training.
+{% bibliography --cited %}
