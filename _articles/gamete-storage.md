@@ -2,6 +2,10 @@
 layout: page
 ---
 
+A number of treatments and surgical procedures to change things related to gender may have infertility as a possible risk or a certain consequence.
+
+Some people who wish to have children who share their genetic material will store gametes (sperm or eggs) that can later be used when they are ready to have children.
+
 Gamete storage may involve:
 
 - freezing sperm
