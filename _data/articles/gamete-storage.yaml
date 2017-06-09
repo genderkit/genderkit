@@ -1,0 +1,7 @@
+aka: ["Sperm banking", "Egg storage", "Embryo storage"]
+summary: "Freezing sperm, eggs or embryos for future use"
+duration: "Gamete storage requires a regular payment each year you continue to store gametes."
+effects:
+  -
+    category: "Fertility"
+    detail: "Reduces risk of infertility"
