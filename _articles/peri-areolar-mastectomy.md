@@ -12,7 +12,9 @@ Typically, mastectomy is performed using the [double incision mastectomy]({{ sit
 
 Peri-areolar mastectomy is usually used only to remove small breasts (B-cup or less) where the patient also has good skin elasticity. 
 
-Unlike double incision mastectomy, peri-areolar mastectomy results in significantly less visible scarring, but may also cause over-reduction of the breast leaving a depression or dip in the chest. Repositioning of nipples cannot be carried out during peri-areolar mastecomy without leaving very conspicious scarring, unlike double incision mastectomy {% cite seal:2007 -l 227 %}.
+Unlike double incision mastectomy, peri-areolar mastectomy results in significantly less visible scarring, but may also cause over-reduction of the breast leaving a depression or dip in the chest. Repositioning of nipples cannot be carried out during peri-areolar mastecomy without leaving very conspicious scarring, unlike double incision mastectomy {% cite davies2:2007 -l 227 %}.
+
+Mastectomy usually requires an overnight stay in hospital {% cite cr181 -l 31 %}. Mastectomy is a major surgery and has a significant recovery time. You should expect to spend around 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
 
 You can read more about mastectomy on the [NHS Choices website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 

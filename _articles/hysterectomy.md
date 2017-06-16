@@ -19,6 +19,8 @@ In the UK, it is recommended that if you have a uterus (womb) and are taking [te
 
 There several types of hysterectomy, which may or may not include removing the cervix or removing the ovaries and fallopian tubes (also known as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %})). Hysterectomy does not usually involve removal of the vagina, which is called a [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}).
 
+Hysterectomy is a major surgery and has a significant recovery time. You should expect to spend at least 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
+
 You can read more about hysterectomy on the [NHS Choices website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
 
 ### Costs and funding
