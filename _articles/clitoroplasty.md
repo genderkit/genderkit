@@ -31,7 +31,7 @@ If you have a formal diagnosis of gender dysphoria, the NHS will usually provide
 patient’s goals (unless the patient has medical contraindications
 or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
-congruent with the gender identity {% cite cr161 %}.
+congruent with the gender identity {% cite cr181 %}.
 
 ### References
 

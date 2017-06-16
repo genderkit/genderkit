@@ -20,7 +20,7 @@ You can read more about mastectomy on the [NHS Choices website](http://www.nhs.u
 
 The cost of privately obtaining a mastectomy in the UK is around £TODO.
 
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr161 %}.
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr181 %}.
 
 ### References
 

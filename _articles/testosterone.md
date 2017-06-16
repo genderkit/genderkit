@@ -26,7 +26,7 @@ Testosterone usually causes periods to stop, but does not remove the risk of pre
 {% endcapture %}
 {% include warning warning=warn %}
 
-Testosterone is commonly available as depot injections, gels applied to the skin, or sometimes as transdermal patches (patches that are stuck to the skin). Oral (pill) forms of testosterone are rarely used as blood testing is more complex, though they are available {% cite cr161 -l 37 %}.
+Testosterone is commonly available as depot injections, gels applied to the skin, or sometimes as transdermal patches (patches that are stuck to the skin). Oral (pill) forms of testosterone are rarely used as blood testing is more complex, though they are available {% cite cr181 -l 37 %}.
 
 In a small proportion of people mensturation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
@@ -36,7 +36,7 @@ Testosterone use can cause serious medical conditions including polycythaemia (t
 
 Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS Choices website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 
-Testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer. In the UK, it is recommended that people taking testosterone long-term undergo [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) to remove this risk {% cite seal:2007 -l 184 %}, usually within a maximum of 4-5 years {% cite cr161 -l 31 %}. 
+Testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer. In the UK, it is recommended that people taking testosterone long-term undergo [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) to remove this risk {% cite seal:2007 -l 184 %}, usually within a maximum of 4-5 years {% cite cr181 -l 31 %}. 
 
 ### References
 

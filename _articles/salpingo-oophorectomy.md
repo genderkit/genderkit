@@ -27,7 +27,7 @@ You will normally need to meet the following conditions:
 - two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
 - 12 months’ continuous endocrine treatment as appropriate to the
 patient’s goals (unless the patient has medical contraindications
-or is otherwise unable to take hormones) {% cite cr161 %}. 
+or is otherwise unable to take hormones) {% cite cr181 %}. 
 
 Hysterectomy for other medical reasons is not subject to these requirements.
 
