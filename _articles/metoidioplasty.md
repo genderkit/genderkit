@@ -12,7 +12,7 @@ An alternative to metoidioplasty is [phalloplasty]({{ site.baseurl }}{% link _ar
 
 In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This causes the clitoris to move lower down.
 
-At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want.
+At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want, though this would require continuing to sit to urinate or using a stand to pee device. Avoiding a urethroplasty reduces the risk of complications {% cite cr161 -l 30 %}.
 
 The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
 
@@ -22,12 +22,24 @@ Metoidioplasty first requires taking [testosterone]({{ site.baseurl }}{% link _a
 
 Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}), or [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
 
-Metoidioplasty, like other gender surgeries, will normally require two opinions from gender specialists (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery.
-
-The cost of privately obtaining metoidioplasty in the UK is around £xxxx.
-
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for metoidioplasty.
-
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
-{% bibliography --cited %}
+### Cost and funding
+
+A operation in the UK to perform metoidioplasty with urethral lengthening costs around £TODO.
+
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}). You will normally need to meet the following conditions:
+
+- persistent and well-documented gender dysphoria
+- capacity to make fully informed decisions and to consent to treatment
+- if significant medical or mental health concerns are present, they must be reasonably well controlled
+- two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
+- 12 months’ continuous endocrine treatment as appropriate to the
+patient’s goals (unless the patient has medical contraindications
+or is otherwise unable to take hormones)
+- at least 12 months’ living continuously in a gender role that is
+congruent with the gender identity {% cite cr161 %}.
+
+### References
+
+{% bibliography --cited %}  

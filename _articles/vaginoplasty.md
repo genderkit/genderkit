@@ -20,10 +20,26 @@ A very common but much less serious side effect is *granulation tissue* forming 
 
 UK surgeons will normally expect that your BMI is below 30 before carrying out vaginoplasty.
 
+Vaginoplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
+
+### Cost and funding
+
 A operation in the UK to perform vaginoplasty along with [labioplasty]({{ site.baseurl }}{% link _articles/labioplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for vaginoplasty.
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for vaginoplasty and [penectomy]({{ site.baseurl }}{% link _articles/penectomy.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and/or [labioplasty]({{ site.baseurl }}{% link _articles/labioplasty.md %}). You will normally need to meet the following conditions:
+
+- persistent and well-documented gender dysphoria
+- capacity to make fully informed decisions and to consent to treatment
+- if significant medical or mental health concerns are present, they must be reasonably well controlled
+- two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
+- 12 months’ continuous endocrine treatment as appropriate to the
+patient’s goals (unless the patient has medical contraindications
+or is otherwise unable to take hormones)
+- at least 12 months’ living continuously in a gender role that is
+congruent with the gender identity {% cite cr161 %}.
 
 The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
+
+### References
 
 {% bibliography --cited %}  

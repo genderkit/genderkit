@@ -14,14 +14,24 @@ An alterative option to phalloplasty is [metoidioplasty]({{ site.baseurl }}{% li
 
 Phalloplasty reqires reuse of skin from some other part of the body, most commonly the forearm. This skin is removed and used to create a tube that is reconnected to veins and nerves in the desired location. The arm then normally receives skin grafts to replace the removed skin, but there will be significant scarring on the arm {% cite frey2017update %}. 
 
-The NHS will normally fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
-
-Phalloplasty, like other gender surgeries, will normally require two opinions from gender specialists (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery.
-
-The cost of privately obtaining phalloplasty in the UK is around £xxxxx.
-
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for phalloplasty.
-
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
-{% bibliography --cited %}
+### Cost and funding
+
+A operation in the UK to perform phalloplasty costs around £TODO.
+
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for phalloplasty or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). You will normally need to meet the following conditions:
+
+- persistent and well-documented gender dysphoria
+- capacity to make fully informed decisions and to consent to treatment
+- if significant medical or mental health concerns are present, they must be reasonably well controlled
+- two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
+- 12 months’ continuous endocrine treatment as appropriate to the
+patient’s goals (unless the patient has medical contraindications
+or is otherwise unable to take hormones)
+- at least 12 months’ living continuously in a gender role that is
+congruent with the gender identity {% cite cr161 %}.
+
+### References
+
+{% bibliography --cited %}  

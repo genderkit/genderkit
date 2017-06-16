@@ -21,4 +21,22 @@ There several types of hysterectomy, which may or may not include removing the c
 
 You can read more about hysterectomy on the [NHS Choices website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
 
+### Costs and funding
+
+The NHS will normally fund total hysterectomy and [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}) for patients who are undergoing [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy.
+
+You will normally need to meet the following conditions:
+
+- persistent and well-documented gender dysphoria
+- capacity to make fully informed decisions and to consent to treatment
+- if significant medical or mental health concerns are present, they must be reasonably well controlled
+- two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
+- 12 months’ continuous endocrine treatment as appropriate to the
+patient’s goals (unless the patient has medical contraindications
+or is otherwise unable to take hormones) {% cite cr161 %}. 
+
+Hysterectomy for other medical reasons is not subject to these requirements.
+
+### References
+
 {% bibliography --cited %}

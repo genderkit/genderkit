@@ -15,10 +15,26 @@ After orchidectomy, you will need to take at least one sex hormone ([oestrogen](
 
 In this surgery, the scrotum is cut open in the middle. The testes and the spermatic chords leading to the testes are removed through this incision. Afterward, the incision is sutured closed. This removes the main source of testosterone in the body.
 
-Orchidectomy, like other gender surgeries, will normally require two opinions from gender specialists (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery. Orchidectomy may not be suitable for people who are interested in later obtaining a vaginoplasty as it can make this more difficult - check with your surgeon if you are unsure. 
-
-The cost of privately obtaining an orchidectomy in the UK is around £xxxx.
-
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for an orchidectomy.
+Orchidectomy may not be suitable for people who are interested in later obtaining a vaginoplasty as it can make the vaginoplasty more difficult - check with your surgeon if you are unsure. 
 
 Orchidectomy may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+
+### Cost and funding
+
+A operation in the UK to perform penectomy along with [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}) costs around £TODO.
+
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}). You will normally need to meet the following conditions:
+
+- persistent and well-documented gender dysphoria
+- capacity to make fully informed decisions and to consent to treatment
+- if significant medical or mental health concerns are present, they must be reasonably well controlled
+- two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
+- 12 months’ continuous endocrine treatment as appropriate to the
+patient’s goals (unless the patient has medical contraindications
+or is otherwise unable to take hormones)
+- at least 12 months’ living continuously in a gender role that is
+congruent with the gender identity {% cite cr161 %}.
+
+### References
+
+{% bibliography --cited %}  
