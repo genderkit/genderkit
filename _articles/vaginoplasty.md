@@ -10,7 +10,7 @@ After vaginoplasty, regular dilation must be carried out in order to maintain th
 
 Vaginoplasty involves surgically constructing a neovagina (artificially created vagina), normally out of tissue taken from the penis and/or scrotum. The penis is completely destroyed in the process.
 
-Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (external part of the genitalia) is created by [labioplasty]({{ site.baseurl }}{% link _articles/labioplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are usually carried out together with vaginoplasty.
+Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are usually carried out together with vaginoplasty.
 
 Vaginoplasty does not give the ability to menstruate (have periods) or to become pregnant or give birth.
 
@@ -24,9 +24,9 @@ Vaginoplasty is a major surgery and has a significant recovery time. You should 
 
 ### Cost and funding
 
-A operation in the UK to perform vaginoplasty along with [labioplasty]({{ site.baseurl }}{% link _articles/labioplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
+A operation in the UK to perform vaginoplasty along with [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for vaginoplasty and [penectomy]({{ site.baseurl }}{% link _articles/penectomy.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and/or [labioplasty]({{ site.baseurl }}{% link _articles/labioplasty.md %}). You will normally need to meet the following conditions:
+If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for vaginoplasty and [penectomy]({{ site.baseurl }}{% link _articles/penectomy.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment
