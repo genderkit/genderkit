@@ -1,5 +1,5 @@
 ---
-title: Getting a New Passport
+title: Getting a new passport
 weighting: 3
 feature:
   image: /assets/images/articles/getting-a-new-passport.jpg
