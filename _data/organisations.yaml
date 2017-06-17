@@ -1504,14 +1504,6 @@ organisations:
         facebookId: '101213788878'
         lastFacebookPost: '2017-06-12T17:40:08+0000'
     -
-        name: 'National Trans Youth Network'
-        tags: ['Under 18s']
-        url: 'http://ntyn.genderjam.org.uk/network/'
-        twitter: transyouthnet
-        twitterID: 3382749831
-        twitterDescription: 'The National Trans Youth Network is a network of trans youth groups from around the UK, and includes the youth workers who support them'
-        lastTwitterPost: 'Sat May 27 08:43:43 +0000 2017'
-    -
         name: 'Gender Construction Kit'
         tags: [National]
         url: 'http://www.genderkit.org.uk'
