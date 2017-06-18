@@ -32,15 +32,20 @@
         </ul>
       </div>
       {% include home_navgrid.html %}
-      <div class="griditem widegriditem">
-        <h3>Featured gender constructors</h3>
-        <ul style="flex-direction: row;">
-          {% for person in site.data.people limit:3 %}
-          <li><a href="{{person.url}}"><img src="{{person.image}}" alt="{{person.alt}}" width="80" height="80" style="display:inline-block"/></a></li>
-          {% endfor %}
-        </ul>
+      <div class="griditem">
+        <h3>About GCK</h3>
+        <li><a href="{{ site.baseurl }}/credits.html">Credits and acknowledgments</a></li>
+        <li><a href="http://github.com/genderkit/genderkit">Contribute on GitHub</a></li>
       </div>
-      
+      <div class="griditem">
+        <h3>More elsewhere</h3>
+        <ul>
+          <li><a href="http://www.twitter.com/genderkit">Twitter</a></li>
+          <li><a href="http://www.facebook.com/genderkit">Facebook</a></li> 
+          <li><a href="https://www.instagram.com/genderkit/">Instagram</a></li>
+          <li><a href="https://genderkit.tumblr.com/">Tumblr</a></li>
+        </ul>
+      </div>      
     </div>
   </div>
 </body>
