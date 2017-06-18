@@ -1,0 +1,78 @@
+tags: 
+  - "Mental health"
+  - "Domestic abuse"
+  - "Hate crime"
+  - "Homelessness and housing"
+  - "Benefits and financial support"
+  - "Nationwide"
+  - "England"
+  - "Scotland"
+  - "Wales"
+  - "Northern Ireland"
+  
+help:
+  -
+    name: 'The Samaritans'
+    url: 'http://www.samaritans.org/'
+    category: 'Mental health'
+    manualDescription: 'The Samaritans offer 24-hour telephone support.'
+    tags: [Nationwide, Mental health]
+  -
+    name: 'Childline'
+    url: 'https://www.childline.org.uk'
+    category: 'Mental health'
+    manualDescription: 'If you’re under 18, Childline can help with any issues you have. You can also chat to them online.'
+    tags: [Nationwide, Mental health]
+  -
+    name: 'Lifeline (Northern Ireland)'
+    url: 'http://www.lifeline.org.uk/'
+    category: 'Mental health'
+    manualDescription: 'Lifeline are available 24/7 to talk about trauma, suicide, self-harm, abuse, depression and anxiety.'
+    tags: [Northern Ireland, Mental health]
+  -
+    name: 'Shelter England'
+    url: 'http://england.shelter.org.uk/get_advice'
+    category: 'Homelessness and housing'
+    manualDescription: 'Shelter are the UK housing and homelessness charity and can provide online, in person, and telephone helpline advice.'
+    tags: [England, Homelessness and housing]
+  -
+    name: 'Shelter Scotland'
+    url: 'http://scotland.shelter.org.uk/get_advice'
+    category: 'Homelessness and housing'
+    manualDescription: 'Shelter Scotland provide similar services in Scotland.'
+    tags: [Scotland, Homelessness and housing]
+  -
+    name: 'Shelter Cymru'
+    url: 'http://www.sheltercymru.org.uk/get-advice/'
+    category: 'Homelessness and housing'
+    manualDescription: 'Shelter Cymru provide similar services in Wales.'
+    tags: [Wales, Homelessness and housing]
+  -
+    name: 'Simon Community NI'
+    url: 'http://simoncommunity.org/'
+    category: 'Homelessness and housing'
+    manualDescription: 'Simon Community NI provide homelessness support throughout Northern Ireland and have a 24/7 helpline.'
+    tags: [Northern Ireland, Homelessness and housing]
+  -
+    name: 'National LGBT Domestic Abuse Helpline'
+    url: 'http://www.galop.org.uk/domesticabuse/'
+    category: 'Domestic abuse'
+    manualDescription: 'Galop run a helpline supporting LGBT people, their friends & families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.' 
+    tags: [Nationwide, Domestic abuse]
+  -
+    name: 'Stop Hate UK'
+    url: 'https://www.stophateuk.org/'
+    category: 'Hate crime'
+    manualDescription: 'Stop Hate UK provide a LGBT hate crime support line and tools to report hate crime online.'
+  -
+    name: 'Mermaids'
+    url: 'http://www.mermaidsuk.org.uk/helpline-support.html'
+    category: 'Bullying'
+    manualDescription: 'Memaids provide a helpline and email support for transgender youth.'
+    tags: [Nationwide, Bullying]
+  # -
+  #   name: ''
+  #   url: ''
+  #   category: 'Mental health'
+  #   manualDescription: 
+  #   tags: []

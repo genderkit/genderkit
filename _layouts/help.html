@@ -1,0 +1,73 @@
+---
+layout: page
+---
+<script>
+function selectCategory(category, event)
+{
+  if (category)
+  {
+    $('.details > li').hide();
+    $('.details > li').parent().parent().hide();
+    $('.category-' + category).show();
+    $('.category-' + category).parent().parent().show();
+    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
+    $(event.currentTarget).parent().css('font-weight', 'bold');
+  }
+  else
+  {
+    $('.details > li').show();
+    $('.grouping').show();
+    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
+  }
+}
+</script>
+<div class="sidebarcontainer">
+  <nav class="sidebar greybox">
+    <h3>In immediate danger?</h3>
+    <p>Phone 999.</p>
+    <h3>Can't use a phone?</h3>
+    <p>Use <a href="http://www.emergencysms.org.uk/">emergencySMS</a> or Textphone 18000.</p>
+    <h3>Not an emergency?</h3>
+    <p>Police: phone 101.</p>
+    <p>Medical: phone 111.</p>
+    <h3>Categories</h3>
+    <ul>
+      <li><a onclick="javascript:selectCategory(null, event); return true;">Show all</a></li>
+      {% for item in site.data.help.tags %}
+      <li><a onclick="javascript:selectCategory('{{ item | slugify }}', event); return true;">{{ item }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <div class="content">
+    {% assign categories = site.data.help.help | sort:"category" | group_by:"category" %}
+
+    {% for category in categories %}
+    <div class="grouping">
+      <h3>{{ category.name | xml_escape }}</h3>
+      <ul class="details">
+      {% assign sortedOrganisations = category.items %}
+      {% for item in sortedOrganisations %}
+        {% assign cssclasses = "" %}
+        {% for category in item.tags %}
+              {% assign cssclass = "category " | append: category | slugify %}
+              {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+            {% endfor %}
+          <li class="{{ cssclasses }}">
+            <div>
+            {% assign url = item.url %}
+              <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
+              <p>
+                {% if item.manualDescription %}
+                  {{ item.manualDescription | xml_escape }}
+                {% endif %}
+              </p>
+            </div>
+          </li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+    <h3>Errors and omissions</h3>
+    <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
+  </div>
+</div>
