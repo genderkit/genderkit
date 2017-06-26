@@ -1,0 +1,24 @@
+explore:
+  -
+    url: '/explore/names-ambiguous/'
+    name: Names
+  -
+    url: '/explore/pronouns/'
+    name: Pronouns
+  -
+    url: '/explore/titles'
+    name: Titles
+  -
+    url: '/explore/titles'
+    name: Identities
+
+indexes:
+  -
+    url: '/help.html'
+    name: Helplines
+  -
+    url: 'organisations.html'
+    name: Organisations
+  -
+    url: 'publications.html'
+    name: Publications

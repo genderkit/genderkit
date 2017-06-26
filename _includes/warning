@@ -1,4 +1,4 @@
-<div class="warning">
-  <div class="header">⚠ Warning</div>
-  <div>{{ include.warning | markdownify }}</div>
-</div>
+<section class="warning">
+  <h3 class="header">Warning</h3>
+  {{ include.warning | markdownify }}
+</section>

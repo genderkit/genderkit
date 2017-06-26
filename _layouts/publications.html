@@ -2,60 +2,91 @@
 layout: page
 ---
 <script>
-function selectCategory(category, event)
+function toggle(event)
 {
-  if (category)
+  var isOpen = $(event.currentTarget).attr('aria-expanded') == 'true' ? true : false;
+
+  $('#categorylist').toggleClass("hidden");
+  if (isOpen)
+  {
+    $(event.currentTarget).find('span').html("&#9654;&nbsp;");
+    $('#categorylist').attr('aria-hidden',"true");
+    $(event.currentTarget).attr('aria-expanded', 'false');
+  }
+  else
+  {
+    $(event.currentTarget).find('span').html("&#9660;&nbsp;");
+    $('#categorylist').attr('aria-hidden',"false");
+    $(event.currentTarget).attr('aria-expanded', 'true');
+  }
+  return true;
+}
+
+function filterlist()
+{
+  if ($('#categorylist input:checked').length > 0)
   {
     $('.details > li').hide();
-    $('.details > li').parent().parent().hide();
-    $('.category-' + category).show();
-    $('.category-' + category).parent().parent().show();
-    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
-    $(event.currentTarget).parent().css('font-weight', 'bold');
+    $('.grouping').hide();
+    $('#categorylist input:checked').each(function ()
+      {
+        var category = $(this).attr('id');
+        $('.category-' + category).show();
+        $('.category-' + category).parent().parent().show();
+      }
+    );
   }
   else
   {
     $('.details > li').show();
-    $('.grouping').show();
-    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
   }
+
+  return true;
 }
 </script>
-<div class="sidebarcontainer">
-  <nav class="sidebar">
-    <h3>Categories</h3>
-    <ul>
-      <li><a onclick="javascript:selectCategory(null, event); return true;">Show all</a></li>
+<main>
+  <nav>
+    <h3>
+      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event);"><span aria-hidden="true">&#9654;&nbsp;</span>Filters</a>
+    </h3>
+    <ul id="categorylist" role="region" aria-labelledby="accordionButton" aria-hidden="true" class="hidden">
       {% for item in site.data.publications.tags %}
-      <li><a onclick="javascript:selectCategory('{{ item | slugify }}', event); return true;">{{ item }}</a></li>
+      <li>
+        <input onclick="return filterlist();" type="checkbox" id="{{ item | slugify }}">
+        <label for="{{ item | slugify }}">{{ item }}</label>
+      </li>
       {% endfor %}
     </ul>
   </nav>
-  <div class="content">
+  <article>
+    <section class="groupings">
     {% assign publishers = site.data.publications.publications | sort:"organisation" | group_by:"organisation" %}
-
-    {% for publisher in publishers %}
-    <div class="grouping">
-      <h3>{{ publisher.name | xml_escape }}</h3>
-      <ul class="details">
-      {% assign sortedPublications = publisher.items | sort: 'year' | reverse %}
-      {% for item in sortedPublications %}
-        {% assign cssclasses = "" %}
-        {% for category in item.tags %}
-              {% assign cssclass = "category " | append: category | slugify %}
-              {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-            {% endfor %}
-          <li class="{{ cssclasses }}" style="padding-bottom: 0;">
-            <div>
-            {% assign url = item.url %}
-            <span>{{ item.year }}</span> <a href="{{ url }}">{{ item.title | xml_escape }}</a> 
-            </div>
-          </li>
+    
+      {% for publisher in publishers %}
+      <div class="grouping">
+        <h3>{{ publisher.name | xml_escape }}</h3>
+        <ul class="details">
+        {% assign sortedPublications = publisher.items | sort: 'year' | reverse %}
+        {% for item in sortedPublications %}
+          {% assign cssclasses = "" %}
+          {% for category in item.tags %}
+                {% assign cssclass = "category " | append: category | slugify %}
+                {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+              {% endfor %}
+            <li class="{{ cssclasses }}" style="padding-bottom: 0;">
+              <div>
+              {% assign url = item.url %}
+              <span>{{ item.year }}</span> <a href="{{ url }}">{{ item.title | xml_escape }}</a> 
+              </div>
+            </li>
+        {% endfor %}
+        </ul>
+      </div>
       {% endfor %}
-      </ul>
-    </div>
-    {% endfor %}
-    <h3>Errors and omissions</h3>
-    <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
-  </div>
-</div>
+    </section>
+    <section class="bodytext">
+      <h3>Errors and omissions</h3>
+      <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
+    </section>
+  </article>
+</main>

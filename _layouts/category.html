@@ -2,37 +2,37 @@
 layout: page
 ---
 
+  <main>
+    <section>
+      {% assign articles = site.articles | sort: "weighting" %}
+      <ul class="articles">
+        {% for p in articles %}
+          {% assign slug = p.title | slugify %}
 
-    {% assign articles = site.articles | sort: "weighting" %}
-    <ul class="details categories">
-      {% for p in articles %}
-        {% assign slug = p.title | slugify %}
-
-        {% assign effects = site.data.articles[slug].effects
-           | where_exp:"item", "item.category == page.index-for" %}
-        {% if effects.size > 0 %}
-          <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
-            <div class="categorydescription">
-            {% if p.feature %}
+          {% assign effects = site.data.articles[slug].effects
+             | where_exp:"item", "item.category == page.index-for" %}
+          {% if effects.size > 0 %}
+            
+            <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
               <a href="{{ p.url | relative_url }}">
-                <div class="categorypicture" style="background-image: url({{ p.feature.image | relative_url }})">
-                  <h3>{{ p.title }}</h3>
-                </div>
+              {% if p.feature %}
+                <img alt="" aria-hidden="true" src="{{ p.feature.image | relative_url }}" >
+              {% else %}
+                <img alt="" aria-hidden="true" src="{{ 'assets/images/nophoto.png' | relative_url }}">
+              {% endif %}
               </a>
-            {% else %}
-              <a href="{{ p.url | relative_url }}">
-                <div style="background-image: url({{ 'assets/images/nophoto.png' | relative_url }})" class="categorypicture">
-                  <h3>{{ p.title }}</h3>
-                </div>
-              </a>
-            {% endif %}
-              <!--<h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>-->
-              {% for item in effects %}
-                {% assign effect = item %}
-                <p>{{ item.detail }}</p>
-              {% endfor %}
-            </div>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+              <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+                {% for item in effects %}
+                  {% assign effect = item %}
+                  <p>{{ item.detail }}</p>
+                {% endfor %}
+              
+            </li>
+          {% endif %}
+        {% endfor %}
+        <li class="placeholder" aria-hidden="true"></li>
+        <li class="placeholder" aria-hidden="true"></li>
+        <li class="placeholder" aria-hidden="true"></li>
+      </ul>
+    </section>
+  </main>

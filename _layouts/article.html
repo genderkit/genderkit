@@ -5,38 +5,34 @@ layout: page
 {% assign slug = page.title | slugify %}
 {% assign info = site.data.articles[slug] %}
 
-<div class="sidebarcontainer">
-    <div class="sidebar">
-    {% include feature.html %}
-
-    </div>
-    <div class="content">
-      <div class="greybox">
-        <h3>What effects does it have?</h3>
-        <ul class="effects">
-        {% for item in info.effects %}
-          {% assign categoryslug = item.category | slugify %}
-          <li><i class="icon-{{ categoryslug }}"></i><div><h3><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ item.category}}</a></h3>{{ item.detail }}</div></li>
-        {% endfor %}
-        </ul>
-      </div>
-
-        <h3>What is it?</h3>
-        {% if info.summary %}
-            <p>{{ info.summary }}.</p>
-        {% endif %}
-        {% if info.aka %}
-          <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
-        {% endif %}
-        {% if info.duration %}
-          <h3>How long does it last?</h3>
-          <p>{{ info.duration }}</p>
-        {% endif %}
-        <h3>More information</h3>
-        {{ content }}
-        <h3>Errors and omissions</h3>
-        <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
-    </div>
-
-
-</div>
+<main role="main">
+  {% include feature.html %}
+  <article class="content">
+    <section class="greybox">
+      <h3>What effects does it have?</h3>
+      <ul class="effects">
+      {% for item in info.effects %}
+        {% assign categoryslug = item.category | slugify %}
+        <li><i class="icon-{{ categoryslug }}" aria-hidden="true"></i><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+      {% endfor %}
+      </ul>
+    </section>
+    <section class="bodytext">
+      <h3>What is it?</h3>
+      {% if info.summary %}
+          <p>{{ info.summary }}.</p>
+      {% endif %}
+      {% if info.aka %}
+        <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
+      {% endif %}
+      {% if info.duration %}
+        <h3>How long does it last?</h3>
+        <p>{{ info.duration }}</p>
+      {% endif %}
+      <h3>More information</h3>
+      {{ content }}
+      <h3>Errors and omissions</h3>
+      <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
+    </section>
+  </article>
+</main>

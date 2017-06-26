@@ -1,0 +1,13 @@
+<section>
+  {% assign cards = site.data.cards[include.cards] %}
+  <ul class="cards">
+    {% for item in cards %}
+    <li>
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        <span>{{ item.name }}</span>
+        <span class="raquo" aria-hidden="true">&raquo;</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

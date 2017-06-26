@@ -1,10 +1,14 @@
-<div class="griditem widegriditem">
+<section class="greybox">
   <h3>How to change it</h3>
   <ul id="effectslist">
   {% for category in site.data.categories %}
 	  {% assign categoryslug = category.name | slugify %}
-	  <li><a href="{{ '/category/' | append: categoryslug | relative_url }}"><div class="icon">
-        <i class="icon-{{ categoryslug }}"></i></div>{{ category.name }}</a></li>
+	  	<li>
+        <a href="{{ '/category/' | append: categoryslug | relative_url }}">
+        	<i class="icon-{{ categoryslug }}" aria-hidden="true"></i>
+          {{ category.name }}
+        </a>
+      </li>
   {% endfor %}
   </ul>
-</div>
+</section>

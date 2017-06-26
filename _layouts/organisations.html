@@ -2,84 +2,116 @@
 layout: page
 ---
 <script>
-function selectCategory(category, event)
+function toggle(event)
 {
-  if (category)
+  var isOpen = $(event.currentTarget).attr('aria-expanded') == 'true' ? true : false;
+
+  $('#categorylist').toggleClass("hidden");
+  if (isOpen)
+  {
+    $(event.currentTarget).find('span').html("&#9654;&nbsp;");
+    $('#categorylist').attr('aria-hidden',"true");
+    $(event.currentTarget).attr('aria-expanded', 'false');
+  }
+  else
+  {
+    $(event.currentTarget).find('span').html("&#9660;&nbsp;");
+    $('#categorylist').attr('aria-hidden',"false");
+    $(event.currentTarget).attr('aria-expanded', 'true');
+  }
+  return true;
+}
+
+function filterlist()
+{
+  if ($('#categorylist input:checked').length > 0)
   {
     $('.details > li').hide();
-    $('.category-' + category).show();
-    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
-    $(event.currentTarget).parent().css('font-weight', 'bold');
+    $('#categorylist input:checked').each(function ()
+      {
+        var category = $(this).attr('id');
+        $('.category-' + category).show();
+      }
+    );
   }
   else
   {
     $('.details > li').show();
-    $(event.currentTarget).parent().siblings().css('font-weight', 'normal');
   }
+
+  return true;
 }
 </script>
-<div class="sidebarcontainer">
-  <nav class="sidebar">
-    <h3>Youth Groups</h3>
-    <p>Looking for youth support groups? Find them at the <a href="http://ntyn.genderjam.org.uk/network/">National Trans Youth Network</a>. 
-    </p>
-    <h3>Categories</h3>
-    <ul>
-      <li><a onclick="javascript:selectCategory(null, event); return true;">Show all</a></li>
+<main role="main">
+  <nav>
+    <h3>
+      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event);"><span aria-hidden="true">&#9654;&nbsp;</span>Filters</a>
+    </h3>
+    <ul id="categorylist" role="region" aria-labelledby="accordionButton" aria-hidden="true" class="hidden">
       {% for item in site.data.organisations.tags %}
-      <li><a onclick="javascript:selectCategory('{{ item | slugify }}', event); return true;">{{ item }}</a></li>
+      <li>
+        <input onclick="return filterlist();" type="checkbox" id="{{ item | slugify }}">
+        <label for="{{ item | slugify }}">{{ item }}</label>
+      </li>
       {% endfor %}
     </ul>
   </nav>
-  <div class="content">
-    <ul class="details">
-    {% assign sortedOrganisations = site.data.organisations.organisations | sort: 'name' %}
-    {% for item in sortedOrganisations %}
-    {% assign cssclasses = "" %}
-    {% for category in item.tags %}
-          {% assign cssclass = "category " | append: category | slugify %}
-          {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-        {% endfor %}
-      <li class="{{ cssclasses }}">
-        <div>
-        {% assign url = "" %}
-        {% if item.url %}
-        {% assign url = item.url %}
-        {% elsif item.twitter %}
-        {% assign url = "http://www.twitter.com/" | append: item.twitter %}
-        {% elsif item.facebook %}
-        {% assign url = "http://www.facebook.com/" | append: item.facebook %}
-        {% elsif item.facebookId %}
-        {% assign url = "http://www.facebook.com/" | append: item.facebookId %}
-        {% endif %}
-        <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
-        <p>
-          {% if item.twitterDescription %}
-            {{ item.twitterDescription | xml_escape }}
-          {% elsif item.facebookDescription %}
-            {{ item.facebookDescription | xml_escape }}
-          {% else %}
-            {{ item.manualDescription | xml_escape }}
+  <article>
+    <section class="attention">
+      <h3>Youth Groups</h3>
+      <p>Looking for youth support groups? Find them at the <a href="http://ntyn.genderjam.org.uk/network/">National Trans Youth Network</a>. 
+      </p>
+    </section>
+    <section>
+      <ul class="details">
+      {% assign sortedOrganisations = site.data.organisations.organisations | sort: 'name' %}
+      {% for item in sortedOrganisations %}
+      {% assign cssclasses = "" %}
+      {% for category in item.tags %}
+            {% assign cssclass = "category " | append: category | slugify %}
+            {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+          {% endfor %}
+        <li class="{{ cssclasses }}">
+          {% assign url = "" %}
+          {% if item.url %}
+          {% assign url = item.url %}
+          {% elsif item.twitter %}
+          {% assign url = "http://www.twitter.com/" | append: item.twitter %}
+          {% elsif item.facebook %}
+          {% assign url = "http://www.facebook.com/" | append: item.facebook %}
+          {% elsif item.facebookId %}
+          {% assign url = "http://www.facebook.com/" | append: item.facebookId %}
           {% endif %}
-        </p>
-        <ul class="links">
-        {% if item.url %}
-          <li><a href="{{ item.url }}">Website</a></li>
-        {% endif %}
-        {% if item.twitter %}
-          <li><a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a></li>
-        {% endif %}
-        {% if item.facebook %}
-          <li><a href="http://www.facebook.com/{{ item.facebook }}">Facebook</a></li>
-        {% elsif item.facebookId %}
-          <li><a href="http://www.facebook.com/{{ item.facebookId }}">Facebook</a></li>
-        {% endif %}
-        </ul>
-        </div>
-      </li>
-    {% endfor %}
-    </ul>
-    <h3>Errors and omissions</h3>
-    <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
-  </div>
-</div>
+          <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
+          <p>
+            {% if item.twitterDescription %}
+              {{ item.twitterDescription | xml_escape }}
+            {% elsif item.facebookDescription %}
+              {{ item.facebookDescription | xml_escape }}
+            {% else %}
+              {{ item.manualDescription | xml_escape }}
+            {% endif %}
+          </p>
+          <p>
+          {% if item.url %}
+            <a href="{{ item.url }}">Website</a>&nbsp;
+          {% endif %}
+          {% if item.twitter %}
+            <a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
+          {% endif %}
+          {% if item.facebook %}
+            <a href="http://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;
+          {% elsif item.facebookId %}
+            <a href="http://www.facebook.com/{{ item.facebookId }}">Facebook</a>&nbsp;
+          {% endif %}
+          </p>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+    <section class="bodytext">
+      <h3>Errors and omissions</h3>
+      <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
+    </section>
+  </article>
+</main>
