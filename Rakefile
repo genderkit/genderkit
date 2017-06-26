@@ -9,8 +9,7 @@ task :test do
     :disable_external => true,
     :check_html => true,
     :validation => {
-      :report_missing_names => true,
-      :report_script_embeds => true
+      :report_missing_names => true
     },
     :url_swap => {
       /(genderkit\.github\.io)?\/genderkit\// => "/"
