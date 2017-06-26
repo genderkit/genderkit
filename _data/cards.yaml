@@ -17,8 +17,8 @@ indexes:
     url: '/help.html'
     name: Helplines
   -
-    url: 'organisations.html'
+    url: '/organisations.html'
     name: Organisations
   -
-    url: 'publications.html'
+    url: '/publications.html'
     name: Publications
