@@ -236,6 +236,12 @@ nav, aside, .attention
 .warning
   border-left 2px red solid 
   padding 0 0 0 1rem
+.gridcontainer li
+  width $column
+  h3
+    margin 0
+.griditem
+  margin-bottom 1rem
   
 // Horrible special cases to make things look nicer
 #effectslist
@@ -335,3 +341,8 @@ nav, aside, .attention
   .wordcloud
     margin-left -.5rem
     margin-right -.5rem
+  .gridcontainer
+    display flex
+    flex-direction row
+    flex-wrap wrap
+    justify-content space-between
