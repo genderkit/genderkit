@@ -9,4 +9,6 @@ It is a cream, applied to an area of the body twice a day, at least eight hours 
 
 Eflornithine is not suitable for under 18s or people who are pregnant. It is only available in the UK by prescription. {% cite vaniqua %}.
 
+### References
+
 {% bibliography --cited %}

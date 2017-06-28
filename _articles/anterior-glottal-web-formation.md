@@ -13,4 +13,6 @@ While a variety of different surgical approaches to increasing vocal pitch have 
 
 Depending on the surgical technique, you may have permanent scarring after the operation. Voice surgery also requires additional speech therapy after the surgery {% cite seal:2007 -l 194 %}.
 
+### References
+
 {% bibliography --cited %}

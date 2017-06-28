@@ -7,4 +7,6 @@ Vocal fold relaxation is a new and uncommon surgical technique that has the abil
 
 There are currently only a few small-scale short-term medical studies into using this technique in humans {% cite remacle2010relaxation kocak2008window %}, and how safe and effective it is long-term remains unknown. 
 
+### References
+
 {% bibliography --cited %}

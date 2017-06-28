@@ -19,4 +19,6 @@ The price of electrolysis varies depending on the size of the area to be treated
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 
+### References
+
 {% bibliography --cited %}

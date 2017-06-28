@@ -21,4 +21,6 @@ This does not mean that people should avoid all sunlight - which is important fo
 
 An easy and cheap alternative to tanning is a fake spray tan product (usually containing dihydroxyacetone), which usually costs £10-20 and can be bought from high street shops or online retailers. Fake spray tans do not provide protection from the ultraviolet radiation in sunlight, so you should continue to follow the guidelines for sunlight exposure. Fake tan pills (actually pills of very concentrated food colouring) are banned in the UK as they are unsafe to use.
 
+### References
+
 {% bibliography --cited %}

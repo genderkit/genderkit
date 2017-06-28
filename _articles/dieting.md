@@ -15,4 +15,6 @@ So that you are confident that your hard work will be successful, you may wish t
 
 It is worth talking to your GP about weight loss, as they may be able to refer you to local NHS services for managing weight loss and your lifestyle.
 
+### References
+
 {% bibliography --cited %}

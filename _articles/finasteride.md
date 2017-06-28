@@ -13,4 +13,6 @@ Finasteride is only available in the UK with a prescription.
 
 You can read more about hair loss treatments on the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
+### References
+
 {% bibliography --cited %}

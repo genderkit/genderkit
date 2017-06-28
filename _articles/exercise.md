@@ -39,4 +39,6 @@ If you are based in London, there are some personal trainers specifically cateri
 
 There is more information on finding a properly qualified and insured personal trainer on [the National Register of Personal Trainers website](http://www.nrpt.co.uk/find/index.htm).
 
+### References
+
 {% bibliography --cited %}

@@ -20,4 +20,6 @@ The NHS will normally fund genital hair removal before [vaginoplasty]({{ site.ba
 
 You can read more about laser hair removal on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
 
+### References
+
 {% bibliography --cited %}

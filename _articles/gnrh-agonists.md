@@ -25,4 +25,6 @@ GnRH treatment is available to people with testes who have a [formal diagnosis](
 
 GnRH agonists may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
+### References
+
 {% bibliography --cited %}

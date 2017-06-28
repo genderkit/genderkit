@@ -21,4 +21,6 @@ To ensure you are recieving the safest possible treatment, you should follow [th
 
 You can read more about laser eye surgery on the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Lasers.aspx).
 
+### References
+
 {% bibliography --cited %}

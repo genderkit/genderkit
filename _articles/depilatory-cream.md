@@ -17,4 +17,6 @@ Depilatory creams are not suitable for facial hair removal, as for almost all pe
 
 Depilatory creams can be bought in supermarkets and chemists and normally cost between £2 and £6.
 
+### References
+
 {% bibliography --cited %}

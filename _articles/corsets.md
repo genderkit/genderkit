@@ -11,4 +11,6 @@ There is little or no medical research into the health effects of wearing corset
 {% endcapture %}
 {% include warning warning=warn %}
 
+### References
+
 {% bibliography --cited %}

@@ -24,4 +24,6 @@ Repeated chemical straightening of hair carries a number of risks, including itc
 
 While called permanent hair straightening, treatment needs to be reapplied around every 12 weeks {% cite dias2015hair %}.
 
+### References
+
 {% bibliography --cited %}

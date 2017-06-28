@@ -19,4 +19,6 @@ A study has suggested that taking spironolactone with [oestrogen]({{ site.baseur
 
 Spironolactone may cause erectile disfunction. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
+### References
+
 {% bibliography --cited %}

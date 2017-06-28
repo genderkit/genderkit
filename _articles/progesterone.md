@@ -15,4 +15,6 @@ Progestins (in particular, medroxyprogesterone or norethisterone) can be used to
 
 Sometimes when [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) is used to encourage breast growth, progesterone is also used, as some people have claimed that it affects breast size or shape. There is currently no clear evidence whether this is helpful {% cite wierckx2014clinical %}. Some endocrinologists have also suggested that use of progesterone may lead to an increased risk of breast cancer {% cite seal:2007 -l 174 %}.
 
+### References
+
 {% bibliography --cited %}

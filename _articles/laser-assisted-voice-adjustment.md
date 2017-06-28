@@ -16,4 +16,6 @@ While a variety of different approaches to increasing vocal pitch have been trie
 
 Voice surgery requires additional speech therapy after the surgery {% cite seal:2007 -l 194 %}.
 
+### References
+
 {% bibliography --cited %}

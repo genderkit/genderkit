@@ -16,4 +16,6 @@ In some cases, cyproterone is used in patients with testes receiving GnRH agonis
 
 Cyproterone may cause erectile disfunction. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
+### References
+
 {% bibliography --cited %}

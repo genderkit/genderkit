@@ -44,4 +44,6 @@ You can purchase safety razors from supermarkets, high street chemists, and onli
 
 Electric razors and clippers can be purchased from department stores, larger supermarkets with an electronics section, many branches of Boots, or online retailers. Prices vary significantly, from as low as £10 to over £100.
 
+### References
+
 {% bibliography --cited %}
