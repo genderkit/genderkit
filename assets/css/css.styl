@@ -257,16 +257,9 @@ nav, aside, .attention
   flex-wrap wrap
   justify-content space-between
   li
-    padding $standard-padding * 0.5 0
-    @media screen and (max-width: $page-onebigwide)
-      width $column-width
-      max-width $column-width
-    @media screen and (min-width: $page-onebigwide)
-      width $bigger-column-width
-      max-width $bigger-column-width
-    @media screen and (min-width: $page-twowide)
-      width $column-width
-      max-width $column-width
+    padding 0.5rem 0    
+    width $column
+    max-width $column
   input[type=checkbox]
     position absolute
     overflow hidden
@@ -302,7 +295,7 @@ nav, aside, .attention
     cursor pointer
     opacity 1
     text-align left
-  
+
 // Horrible special cases to make things look nicer
 #effectslist
   margin-top 0
