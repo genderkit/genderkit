@@ -9,13 +9,13 @@ function toggle(event)
   $('#categorylist').toggleClass("hidden");
   if (isOpen)
   {
-    $(event.currentTarget).find('span').html("&#9654;&nbsp;");
+    $(event.currentTarget).find('span').html("&#9654;&#65038;&nbsp;");
     $('#categorylist').attr('aria-hidden',"true");
     $(event.currentTarget).attr('aria-expanded', 'false');
   }
   else
   {
-    $(event.currentTarget).find('span').html("&#9660;&nbsp;");
+    $(event.currentTarget).find('span').html("&#9660;&#65038;&nbsp;");
     $('#categorylist').attr('aria-hidden',"false");
     $(event.currentTarget).attr('aria-expanded', 'true');
   }
@@ -47,7 +47,7 @@ function filterlist()
 <main>
   <nav>
     <h3>
-      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event);"><span aria-hidden="true">&#9654;&nbsp;</span>Filters</a>
+      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event);"><span aria-hidden="true">&#9654;&#65038;&nbsp;</span>Filters</a>
     </h3>
     <ul id="categorylist" role="region" aria-labelledby="accordionButton" aria-hidden="true" class="hidden">
       {% for item in site.data.publications.tags %}
