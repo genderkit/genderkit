@@ -56,17 +56,19 @@ body
 h1, h2
   color white
   margin 0
-  padding 1rem
+  padding 0
   line-height 1.25
 h1
   display flex
   flex-direction column
   background-color black
   img
-    width 10rem
+    width 12rem
+    height 6rem
 h2
   background-color $background-colour
   letter-spacing -0.05rem
+  padding 1rem
 a
   color $main-colour
   text-decoration none
@@ -179,6 +181,7 @@ nav ul, .wordcloud, .gridcontainer, .griditem ul, .cards, .links, .details, .art
     h1
       flex-direction row
       justify-content center
+      padding 1rem
       height auto
       width auto
     h1, h2
@@ -320,8 +323,8 @@ nav, aside, .attention
 // Change page look based on width
 @media screen and (min-width: 620px)
   h1
-    width 10rem
-    height 7rem
+    width 12rem
+    height 9rem
     margin-bottom 2rem
     justify-content flex-end
   h2
