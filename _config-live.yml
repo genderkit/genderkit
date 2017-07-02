@@ -55,7 +55,7 @@ stylus:
   compress: true
 
 scholar:
-  style: springer-basic-brackets
+  style: the-open-university-numeric-superscript
   bibliography_template: "{{reference}}"
   bibtex_filters: 
     - latex
