@@ -12,7 +12,7 @@ GEM
       latex-decode (~> 0.0)
     citeproc (1.0.5)
       namae (~> 0.8)
-    citeproc-ruby (1.1.6)
+    citeproc-ruby (1.1.7)
       citeproc (>= 1.0.4, < 2.0)
       csl (~> 1.4)
     colorator (1.1.0)
@@ -99,6 +99,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  citeproc-ruby (= 1.1.7)
   html-proofer
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
@@ -111,4 +112,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.14.6
+   1.15.0
