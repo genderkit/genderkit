@@ -10,6 +10,7 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.4.3"
+gem "citeproc-ruby", "1.1.7" # Need the most up to date version
 gem "rake"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
