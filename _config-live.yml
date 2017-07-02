@@ -53,3 +53,9 @@ defaults:
 
 stylus:
   compress: true
+
+scholar:
+  style: springer-basic-brackets
+  bibliography_template: "{{reference}}"
+  bibtex_filters: 
+    - latex
