@@ -29,6 +29,8 @@ collections:
     output: true
   explore:
     output: true
+  identities:
+    output: true
 
 defaults:
   - scope:
@@ -50,6 +52,12 @@ defaults:
     values:
       layout: explore
       permalink: /explore/:name/
+  - scope:
+      path: ""
+      type: identities
+    values:
+      layout: identity
+      permalink: /identity/:name/
       
 stylus:
   compress: true

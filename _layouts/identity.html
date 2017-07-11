@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+{% assign slug = page.title | slugify %}
+{% assign info = site.data.identities[slug] %}
+
+<main role="main">
+  <article class="content">
+    <section class="bodytext">
+      <h3>What does it mean?</h3>
+      {{ content }}
+      {% if page.similar %}
+        <p>Terms with similar meanings are {{ page.similar | array_to_sentence_string }}.</p>
+      {% endif %}
+      {% for group in page.groups %}
+        <h3>{{ group }}</h3>
+        {% assign g =  site.data.identity-groups[group] %}
+        <p>"{{ page.title }}" is a term that {{ g.description }}.</p>
+        <p>Terms like this can:</p>
+        <ul>
+          {% for pro in g.pros %}
+          <li>{{ pro }}</li>
+          {% endfor %}
+        </ul>
+        <p>However, terms like this can also:</p>
+        <ul>
+          {% for con in g.cons %}
+          <li>{{ con }}</li>
+          {% endfor %}
+        </ul>        
+      {% endfor %}
+      <h3>Errors and omissions</h3>
+      <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
+    </section>
+  </article>
+</main>

@@ -90,7 +90,7 @@ section, footer, .greybox
   margin 0
 
 // Remove default UL styling on most lists  
-nav ul, .wordcloud, .gridcontainer, .griditem ul, .cards, .links, .details, .articles, .effects, #effectslist, #categorylist
+nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .details, .articles, .effects, #effectslist, #categorylist
   padding 0
   margin 0
   li
@@ -139,8 +139,19 @@ nav ul, .wordcloud, .gridcontainer, .griditem ul, .cards, .links, .details, .art
   margin 1rem 0.5rem
   padding 0
   li
-    padding 0 0.5rem 0 0.5rem
-
+    padding 0 0.5rem
+.wordlist
+  display flex
+  flex-direction row
+  flex-wrap wrap
+  align-items center
+  justify-content space-between
+  margin 1rem 0.5rem
+  padding 0
+  li
+    width 8rem
+    padding 0.25rem 0.5rem
+    
 // Article pages
 .effects, #effectslist
   margin-top 1rem
