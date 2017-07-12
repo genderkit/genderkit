@@ -5,12 +5,13 @@ layout: page
   <article>
     <section class="attention">
       <h3>In immediate danger?</h3>
-      <p>Phone 999.</p>
-      <h3>Can't use a phone?</h3>
-      <p>Use <a href="http://www.emergencysms.org.uk/">emergencySMS</a> or Textphone 18000.</p>
-      <h3>Not an emergency?</h3>
-      <p>Police: phone 101.</p>
-      <p>Medical: phone 111.</p>
+      <p>Phone 999. If you can't use a phone, use <a href="http://www.emergencysms.org.uk/">emergencySMS</a> or Textphone 18000.</p>
+    </section>
+    <section class="bodytext">
+      <h3>Police</h3>
+      <p>Phone 101 to contact the police if it isn't an emergency.</p>
+      <h3>Medical help</h3>
+      <p>Phone 111 for medical help if it isn't an emergency.</p>
     </section>
     {% assign categories = site.data.help.help | sort:"category" | group_by:"category" %}
     <section class="groupings">
@@ -42,6 +43,8 @@ layout: page
     {% endfor %}
     </section>
     <section class="bodytext">
+     <h3>Support groups</h3>
+      <p>For in person support, you  can find national and local support groups on our <a href="{{ site.baseurl }}{% link organisations.md %}">UK Organisations</a> page.
       <h3>Errors and omissions</h3>
       <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know.</p>
     </section>
