@@ -17,8 +17,8 @@
   cons:
     - "hide the fact that some people experience gender dysphoria, not just discrimination"
     - "imply that only certain people are allowed to break norms"
-    - "leave people wondering whether they are different enough to be covered by the label"
-    - "result in people using the opposite of the term to mean “normal”"
+    - "leave people wondering whether they are different enough to be described by some terms"
+    - "result in terms meaning “not breaking norms” being used to mean “normal person”"
     - "ignore the fact that almost everyone breaks at least some norms"
   alternatives: [person with gender dysphoria, person experiencing gender incongruence, crossdresser]
 "History focused":
@@ -37,3 +37,23 @@
   cons:
     - "can give the incorrect impression that all people are expected to go through the same changes"
     - "help create an expectation that people’s history is public and not private"
+"Medical term":
+  description: "describes people using a medical condition or diagnosis"
+  pros:
+    - "help make it obvious that people should be allowed medical and psychological assistance"
+    - "help when people are trying to find funding or receive a referral to a specialist"
+  cons:
+    - "give the impression that there is something wrong with people (it is “pathologising”)"
+    - "make it seem like people with a medical diagnosis have identities that are more valid"
+"Simplified view of gender":
+  description: "describes people using view of gender that is deliberately oversimplified"
+  pros:
+    - "make it easier to explain your situation to people quickly"
+  cons:
+    - "reinforce problematic ideas about gender"
+    - "give the impression that you do not properly understand gender"
+    - "encourage the incorrect perception that everyone feels either like a woman or a man"
+    - "encourage the perception that a body has a gender based on what it looks like, rather than the gender the person identifies with"
+    - "make it seem like everyone who wants to change things linked to gender has a clear or stable sense of gender identity"
+    - "make it seem like everyone who wants to change things linked to gender has a gender identity that doesn’t match the gender they were assigned"
+
