@@ -3,31 +3,16 @@ layout: page
 ---
 <main role="main">
   <nav>
-    {% assign exploreList = site.explore | where: "category", page.category | sort: "title" %}
-    {% if exploreList.size == 1 %}
-    {% else %}
-    <h3>{{ page.category }}</h3>
+    <h3>Explore</h3>
+    {% assign exploreList = site.explore %}
     <ul>
       {% for p in exploreList %}
         {% if p.title == page.title %}
-          <li>{{ p.title }}</li>
+          <li><em>{{ p.title }}</em></li>
         {% else %}
           <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endfor %}
-    </ul>
-    {% endif %}
-    <h3>More to explore</h3>
-    {% assign categoryList = site.explore | group_by: "category" | sort: "name" %}
-    <ul>
-    {% for category in categoryList %}
-      {% if category.name == page.category %}
-      {% else %}
-        {% for p in category.items %}
-          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
     </ul>
   </nav>
   <article>
