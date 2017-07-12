@@ -1,0 +1,5 @@
+summary: "Receiving a formal medical diagnosis from a specialist. This can often be necessary to access treatments related to gender and funding for them"
+effects:
+  -
+    category: "Medical documents"
+    detail: "Necessary for surgeries and funding for other treatments"

@@ -28,7 +28,7 @@ You can find more information about phalloplasty and metoidioplasty on the [St. 
 
 A operation in the UK to perform metoidioplasty with urethral lengthening costs around £TODO.
 
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment

@@ -15,7 +15,7 @@ The British Institute and Association of Electrolysis maintain a [directory of m
 
 Electrolysis may be painful or uncomfortable. You can reduce the discomfort by asking your GP to prescribe you lidocaine and prilocaine cream, also known as EMLA cream. This is a local anaesthetic, applied directly onto the skin, which numbs the skin so you feel less pain from the treatment. You will normally need to apply the cream around an hour before your treatment.
 
-The price of electrolysis varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £TODO per session. If you have a formal diagnosis of gender dysphoria and have unwanted facial hair, the NHS may provide funding for some electrolysis or [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}).
+The price of electrolysis varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £TODO per session. If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}) and have unwanted facial hair, the NHS may provide funding for some electrolysis or [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}).
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 

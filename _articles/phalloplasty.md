@@ -20,7 +20,7 @@ You can find more information about phalloplasty and metoidioplasty on the [St. 
 
 A operation in the UK to perform phalloplasty costs around £TODO.
 
-If you have a formal diagnosis of gender dysphoria, the NHS will usually provide funding for phalloplasty or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for phalloplasty or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment
