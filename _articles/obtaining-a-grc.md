@@ -1,6 +1,6 @@
 ---
 title: Obtaining a GRC
-weighting: 3
+weighting: 4
 feature:
   image: /assets/images/articles/obtaining-a-grc.jpg
   caption: "A picture of the application form for a GRC"
