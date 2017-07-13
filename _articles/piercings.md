@@ -46,3 +46,7 @@ If your piercing becomes infected, you should immediately seek medical attention
 If you are experiencing these symptoms, immediately seek medical attention {% cite cieh2013 -l 29 %}. If left untreated an infection could lead to abscesses or in more serious cases sepsis (blood poisoning) or toxic shock syndrome. 
 
 You can find out more about piercing on [the NHS Choices website](http://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
+
+### References
+
+{% bibliography --cited %}
