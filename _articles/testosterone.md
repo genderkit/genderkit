@@ -43,6 +43,12 @@ Testosterone may also cause acne. You can read more about acne and how to reduce
 
 Testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer. In the UK, it is recommended that people taking testosterone long-term undergo [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) to remove this risk {% cite seal:2007 -l 184 %}, usually within a maximum of 4-5 years {% cite cr181 -l 31 %}. 
 
+If you have recieved a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy.
+
+For testosterone therapy to begin, it is required that any other signficant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
+
+Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced.
+
 ### References
 
 {% bibliography --cited %}
