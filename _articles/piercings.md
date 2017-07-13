@@ -1,30 +1,48 @@
-Piercings
+---
+title: Piercings
+weighting: 4
+---
 
-Warning: Never try and do piercings yourself. Always seek the advice of a reputable piercer. There isn't a directory, but seek reviews either within your friends or online. Make sure the piercer has a piercing license that is clearly displayed in their establishment and uses proper sterile procedures.
+{% capture warn %}
+Always have piercings performed by a professional. **Never** try and pierce yourself. There is a much higher risk of scarring or infection.
+{% endcapture %}
+{% include warning warning=warn %}
 
-Not everyone will suit or have the right body configuration for all types of piercings. Always seek the advice of your piercer. 
+{% capture warn %}
+Make sure the piercer has a piercing license that is clearly displayed in their establishment. This makes sure that the equipment and facilities being used are safe and hygienic. It is **illegal** to perform piercing without a licence.  
+{% endcapture %}
+{% include warning warning=warn %}
 
-You can pierce most parts of the body, and different places will take longer to heal than others. Some parts of the body are more susceptible to complications than others. The ones that are particularly prone are naval piercings as they're in a warm, sometimes damp location and tongue, because of the bacteria in your mouth. 
+Most parts of the body can be pierced, but not all types of piercings are suitable for everyone. Ask for professional advice if you are considering having your body pierced.
 
-Piercings will sometimes migrate or reject. These are two different phenomena despite often being used interchangeably. They can either do so painfully, or sometimes without being noticed at all.
+You may want to look for reviews or ask people you know for recommendations of places that will perform piercing.
 
-Migration is where a piercing will move from the place it was originally pierced to somewhere else. This happens a lot with things like sub dermal piercings or surface piercings such as eyebrow or naval.
+The time required for a piercing to heal will vary depending on the location of the piercing. A simple ear lobe piercing will normally take 6-8 weeks to heal properly.
 
-Rejection: this is a cause. This is where the piercing is rejected from the body completely due to it being recognised as a foreign body and then is expelled.
+Common risks of piercings are infection and scarring. Some types of piercing carry higher risks than others. Other possible complications include migration (where a piercing moves from the place it was originally pierced) and rejection (where the piercing is expelled from the body completely).
 
+While your piercing is healing, 
+keep the area clean and dry, a make sure your hands are clean before you touch the area. It is not normally necessary to rotate or remove a piece of jewellery - try and handle it as little as possible, and touch the jewellery instead of the skin if you can {% cite cieh2013 -l 28 %}.
 
-After the piercing, there are two different schools of thought on aftercare. There is the LITHA approach, which is the "Leave It The Hell Alone" approach where you basically just let it heal on it's own and there is the approach where you clean it twice a day with a salt/saline solution. Don't use anything with chemicals in it. Submerge it in a small amount of solution .You can use 1/4 teaspoon of salt per egg cup of water, or you can buy ready made saline solution from the supermarket or from your local opticians although this might be a slightly more expensive of doing it. 
+Public Health England and the Chartered Institute of Environmental Health have published advice on how to care for your piercing:
 
-Always wash and dry your hands thoroughly before touching your piercing and don't fiddle with it or turn it.
+- [ear and face piercing](http://www.cieh.org/WorkArea/showcontent.aspx?id=47226)
+- [mouth and tongue piercing](http://www.cieh.org/WorkArea/showcontent.aspx?id=47228)
+- [body and surface piercing](http://www.cieh.org/WorkArea/showcontent.aspx?id=47230)
+- [vulva piercings](http://www.cieh.org/WorkArea/showcontent.aspx?id=47232)
+- [penis and scrotum piercings](http://www.cieh.org/WorkArea/showcontent.aspx?id=47234)
+- [microdermal implants](http://www.cieh.org/WorkArea/showcontent.aspx?id=47236)
 
-Check it regularly for signs of infection. Some of these are: 
-- pus
+If your piercing becomes infected, you should immediately seek medical attention. Signs of infection are are:
+
+- significant redness around the piercing 
+- pus or green or yellow fluid
+- bleeding that isn't stopped by light pressure
 - an odd smell
-- redness (some is to be expected, you did just have a piece of metal inserted through part of your body!)
-- swelling (again, some is to be expected, a lot in some cases)
-- itching and burning
-- ongoing pain and tenderness
-- heat on/around the piercing
-- A fever (temperature)
+- lots of swelling
+- a high temperature (fever)
+- not wanting to or being able to move arms, legs, fingers, or another part of the body
 
-Get medical advice straight away if you think your piercing is infected. You will need antibiotics. If left untreated it could lead to abscesses or in more serious cases sepsis (blood poisoning) or toxic shock syndrome. 
+If you are experiencing these symptoms, immediately seek medical attention {% cite cieh2013 -l 29 %}. If left untreated an infection could lead to abscesses or in more serious cases sepsis (blood poisoning) or toxic shock syndrome. 
+
+You can find out more about piercing on [the NHS Choices website](http://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
