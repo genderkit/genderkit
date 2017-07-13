@@ -12,7 +12,7 @@ Testosterone use can cause serious health problems and where possible should be 
 {% include warning warning=warn %}
 
 {% capture warn %}
-Testosterone may cause infertility. You should consider whether you need to use [gamete storage]({{ site.baseurl }}{% link _articles/gamete-storage.md %}) (egg storage).
+Testosterone may cause infertility which may be permanent. You should consider whether you need to use [gamete storage]({{ site.baseurl }}{% link _articles/gamete-storage.md %}) (egg storage).
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -22,7 +22,12 @@ Some brands of testosterone contain peanut oil. Take care to read the ingredient
 {% include warning warning=warn %}
 
 {% capture warn %}
-Testosterone usually causes periods to stop, but does not remove the risk of pregnancy.
+Testosterone usually causes periods to stop, but does not totally remove the risk of pregnancy.
+{% endcapture %}
+{% include warning warning=warn %}
+
+{% capture warn %}
+Testosterone does not remove the need for [cervical screening tests](http://www.nhs.uk/conditions/cervical-screening-test/pages/introduction.aspx).
 {% endcapture %}
 {% include warning warning=warn %}
 
