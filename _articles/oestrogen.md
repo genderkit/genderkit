@@ -24,7 +24,7 @@ If you have recieved a [formal diagnosis]({{ site.baseurl }}{% link _articles/fo
 
 For oestrogen therapy to begin, it is required that any other signficant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
-In combination with oestrogen therapy most people will also wish for testosterone to be reduced. Oestrogen in high doses has in the past been used to supress testosterone but use of antiandrogens (in the UK, normally [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %})) is now the standard approach for testosterone supression {% cite seal:2007 -l 170 %} and is provided as standard.
+In combination with oestrogen therapy most people will also wish for testosterone to be reduced. Antiandrogens (in the UK, normally [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %})) are the most common approach for testosterone supression {% cite seal:2007 -l 170 %}, though some endocrinologists may use high doses of oestrogen for testosterone suppression instead where possible {% cite pg12 -l 12 %}.
 
 Oestrogen therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced.
 
