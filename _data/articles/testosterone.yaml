@@ -22,3 +22,5 @@ effects:
     detail: "Causes infertility"
   - category: "Mood"
     detail: "Mood changes"
+  - category: "Fragrance"
+    detail: "Body odour changes"
