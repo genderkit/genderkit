@@ -6,9 +6,9 @@ weighting: 4
 A diagnosis is usually required to receive:
 
 - hormone treatments
-- hair removal
 - gender related surgeries
-- speech therapy
+- NHS funding for hair removal
+- NHS funding for speech therapy
 
 The exact diagnosis given in the UK is currently under review, but common terms used when diagnosing patients include:
 
