@@ -20,3 +20,5 @@ effects:
     detail: "Lower pitch"
   - category: "Fertility"
     detail: "Causes infertility"
+  - category: "Mood"
+    detail: "Mood changes"
