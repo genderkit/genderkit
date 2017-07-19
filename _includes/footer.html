@@ -5,7 +5,7 @@
 	<a href="{{ site.baseurl }}{% link help.md %}">helplines</a>,
 	<a href="{{ site.baseurl }}{% link organisations.md %}">organisations</a>, or
 	<a href="{{ site.baseurl }}{% link publications.md %}">publications</a>.</p>
-	<p>We also offer information about how to change 
+	<p>We also offer information about ways to change 
 	{% for category in site.data.categories %}
 	  {% assign categoryslug = category.name | slugify %}
         <a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
