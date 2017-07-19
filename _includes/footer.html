@@ -8,7 +8,7 @@
 	<p>We also offer information about how to change 
 	{% for category in site.data.categories %}
 	  {% assign categoryslug = category.name | slugify %}
-        <a href="{{ site.baseurl }}{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
+        <a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
   	{% endfor %}
   	and guides to choosing <a href="{{ site.baseurl }}{% link _explore/names-ambiguous.md %}">names</a>,
 	<a href="{{ site.baseurl }}{% link _explore/pronouns.md %}">pronouns</a>, 
