@@ -31,7 +31,7 @@ Testosterone does not remove the need for [cervical screening tests](http://www.
 {% endcapture %}
 {% include warning warning=warn %}
 
-Testosterone is commonly available as depot injections, gels applied to the skin, or sometimes as transdermal patches (patches that are stuck to the skin). Oral (pill) forms of testosterone are rarely used as blood testing is more complex, though they are available {% cite cr181 -l 37 %}.
+Testosterone is commonly available as depot injections or as gels applied to the skin. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches (transdermal testosterone) are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.
 
 In a small proportion of people mensturation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
