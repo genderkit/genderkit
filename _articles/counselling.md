@@ -5,7 +5,7 @@ weighting: 2
 
 It is a normal thing to need help from counselling at some points in your life. It is one of the most effective ways of dealing with mental health problems.
 
-One in six people in the UK are experiencing a common mental health problem right now, and nearly half (43.4%) of all adults think they have experienced one {% cite apms2014 %}.
+One in six people in the UK are experiencing a common mental health problem right now, and nearly half (43.4%) of all adults say they have experienced one {% cite apms2014 %}.
 
 It is common for people who experience gender dysphoria to also have other conditions that involve mental health, particularly depression, anxiety, social anxiety, addiction, eating disorders and stress {% cite sta2012  de2011psychiatric %}. A large number of people with gender dysphoria (perhaps up to 20%) also have an autism spectrum condition {% cite van2016gender %}, and for these people dealing with these problems can be more complex.
 
