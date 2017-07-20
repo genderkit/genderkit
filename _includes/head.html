@@ -33,8 +33,8 @@
 <meta name="twitter:image:alt" content="{{ info.feature.caption }}" />
 {% endif %}
 {% else %}
-<meta property="og:image" content="{{ site.baseurl | absolute_url }}/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" />
-<meta name="twitter:image" content="{{ site.baseurl | absolute_url }}/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" />
+<meta property="og:image" content="{{ "/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" | absolute_url }}" />
+<meta name="twitter:image" content="{{ "/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" | absolute_url }}" />
 {% endif %}
 
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
