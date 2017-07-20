@@ -32,8 +32,8 @@
 <meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
 {% endif %}
 {% else %}
-<meta property="og:image" content="{{ "/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" | absolute_url }}" />
-<meta name="twitter:image" content="{{ "/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" | absolute_url }}" />
+<meta property="og:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
+<meta name="twitter:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
 {% endif %}
 
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
