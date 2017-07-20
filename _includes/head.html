@@ -25,8 +25,7 @@
 {% if page.collection == 'articles' %}
 <meta property="og:site_name" content="Gender Construction Kit" />
 <meta property="og:type" content="article" />
-{% if info.feature %}
-{% assign slug = page.title | slugify %}
+{% if page.feature %}
 <meta property="og:image" content="{{ page.feature.image | absolute_url }}" />
 <meta name="twitter:image" content="{{ page.feature.image | absolute_url }}" />
 <meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
