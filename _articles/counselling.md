@@ -3,13 +3,15 @@ title: Counselling
 weighting: 2
 ---
 
-It is a normal thing to need help from counselling at some points in your life. It is one of the most effective ways of dealing with mental health problems.
+It is a normal thing to need help from counselling at some points in your life. 
 
-One in six people in the UK are experiencing a common mental health problem right now, and nearly half (43.4%) of all adults say they have experienced one {% cite apms2014 %}.
+You may be experiencing distress or problems with your mental health due to not being sure who you are, what you want to change about yourself, or how other people will react to changes. Counselling can help you talk through these problems.
 
-It is common for people who experience gender dysphoria to also have other conditions that involve mental health, particularly depression, anxiety, social anxiety, addiction, eating disorders and stress {% cite sta2012  de2011psychiatric %}. A large number of people with gender dysphoria (perhaps up to 20%) also have an autism spectrum condition {% cite van2016gender %}, and for these people dealing with these problems can be more complex.
+One in six people in the UK are experiencing a common mental health problem right now, and nearly half (43.4%) of all adults say they have experienced one {% cite apms2014 %}. It is particularly common for people who experience gender dysphoria to also have mental health conditions, particularly depression, anxiety, social anxiety, addiction, eating disorders and stress {% cite sta201 2de2011psychiatric %}. 
 
-If you think you have a mental health condition, you can speak to your GP who will be able to help you. They will often suggest that you try some kind of counselling, sometimes in combination with other techniques like medication or specialist assessments and treatments.
+Counselling is one of the most effective ways of dealing with problems like these. A large number of people with gender dysphoria (perhaps up to 20%) also have an autism spectrum condition {% cite van2016gender %}, and for these people dealing with emotional problems on your own without help can be even more complex and difficult.
+
+If you think you might need help, you can speak to your GP. They will often suggest that you try some kind of counselling, sometimes in combination with other techniques like medication or specialist assessments and treatments.
 
 Counselling techniques are talking therapies: by discussing your problems in a safe environment with a counsellor you can gain a deeper insight into them. Counsellors do not "treat" or "heal" people like a doctor, nor do they give you general life advice. The counsellor instead helps you understand yourself and your problems so that you can move forward.
 
