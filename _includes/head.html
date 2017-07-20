@@ -27,10 +27,9 @@
 <meta property="og:type" content="article" />
 {% if info.feature %}
 {% assign slug = page.title | slugify %}
-{% assign info = site.data.articles[slug] %}
-<meta property="og:image" content="{{ info.feature.image | absolute_url }}" />
-<meta name="twitter:image" content="{{ info.feature.image | absolute_url }}" />
-<meta name="twitter:image:alt" content="{{ info.feature.caption }}" />
+<meta property="og:image" content="{{ page.feature.image | absolute_url }}" />
+<meta name="twitter:image" content="{{ page.feature.image | absolute_url }}" />
+<meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
 {% endif %}
 {% else %}
 <meta property="og:image" content="{{ "/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" | absolute_url }}" />
