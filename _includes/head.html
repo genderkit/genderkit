@@ -22,8 +22,8 @@
 <meta property="og:locale" content="en_GB" />
 <meta property="og:description" content="{{ description }}" />
 <meta name="twitter:description" content="{{ description }}" />
-{% if page.collection == 'articles' %}
 <meta property="og:site_name" content="Gender Construction Kit" />
+{% if page.collection == 'articles' %}
 <meta property="og:type" content="article" />
 {% if page.feature %}
 <meta property="og:image" content="{{ page.feature.image | absolute_url }}" />
@@ -33,6 +33,7 @@
 <meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
 {% endif %}
 {% else %}
+<meta property="og:type" content="website" />
 <meta property="og:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
 <meta property="og:image:width" content="512" />
 <meta property="og:image:height" content="512" />
