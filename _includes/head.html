@@ -32,6 +32,9 @@
 <meta name="twitter:image" content="{{ info.feature.image }}" />
 <meta name="twitter:image:alt" content="{{ info.feature.caption }}" />
 {% endif %}
+{% else %}
+<meta property="og:image" content="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" />
+<meta name="twitter:image" content="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG" />
 {% endif %}
 
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
