@@ -5,11 +5,9 @@ title: Credits
 
 ### Contacting us
 
-Spotted something that isn't correct? Got a suggestion? Just want to let us know we're awesome?
+Please take a look at our [Frequently Asked Questions]({{ site.baseurl }}{% link faq.md %}) page first.
 
-Please [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit) to let us know.
-
-Unfortunately we don't have the resources to provide individual advice or support to people. If you need help, see our [UK helplines and advice page]({{ site.baseurl }}{% link help.md %}), or look for support groups on our [UK Organisations page]({{ site.baseurl }}{% link organisations.md %}).
+If you need to contact the team, [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit).
 
 ### Website team
 
