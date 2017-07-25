@@ -1,0 +1,6 @@
+summary: "Changing your name, title, or gender on your NHS records"
+duration: "This is a permanent change but can be done more than once."
+effects:
+  -
+    category: "Medical documents"
+    detail: "Changes name, title, or gender marker"
