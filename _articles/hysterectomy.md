@@ -9,15 +9,19 @@ Hysterectomy results in permanent destruction of the uterus (womb) and is irreve
 {% include warning warning=warn %}
 
 {% capture warn %}
-Not all types of hysterectomy remove the risk of cervical cancer. The cervix is only removed as part of an operation called a "total hysterectomy". Ask your surgeon whether you will still need to be [tested for cervical cancer](http://www.nhs.uk/Conditions/Cervical-screening-test/Pages/Introduction.aspx) if you are unsure.
+Not all types of hysterectomy remove the risk of cervical cancer. The cervix is only removed as part of an operation called a "total hysterectomy". Ask your surgeon whether you will still need to be regularly [tested for cervical cancer](http://www.nhs.uk/Conditions/Cervical-screening-test/Pages/Introduction.aspx) if you are unsure.
 {% endcapture %}
 {% include warning warning=warn %}
 
 Hysterectomies are usually carried out because of cancer or other tumours of the uterus, cervix, fallopian tubes or ovaries. They are also sometimes carried out on people with very heavy periods. 
 
-In the UK, it is recommended that if you have a uterus (womb) and are taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) long-term that you have a hysterectomy. This is because testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer {% cite seal:2007 -l 184 %}. Funding for this surgery is normally available on the NHS.
+In the UK, it is recommended that if you have a uterus (womb) and have taken [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) for several years that you have a hysterectomy {% cite cr181 -l 31 %}. 
 
-There several types of hysterectomy, which may or may not include removing the cervix or removing the ovaries and fallopian tubes (also known as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %})). Hysterectomy does not usually involve removal of the vagina, which is called a [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}).
+This is because some studies have suggested testosterone use is linked to endometrial hyperplasia, which can increase risk of endometrial cancer {% cite seal:2007 -l 184 %}. Funding for hysterectomy is normally available on the NHS for people taking testosterone.
+
+There several types of hysterectomy, which may or may not include removing the cervix or removing the ovaries and fallopian tubes (also known as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %})). If your hysterectomy does not involve salpingo-oophorectomy, you are still at risk of ovarian cancer.
+
+Hysterectomy does not usually involve removal of the vagina, which is called a [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}).
 
 Hysterectomy is a major surgery and has a significant recovery time. You should expect to spend at least 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
 
