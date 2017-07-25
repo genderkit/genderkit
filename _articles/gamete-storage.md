@@ -12,12 +12,12 @@ A number of treatments and surgical procedures to change things related to gende
 
 Some people who intend to have children after their treatment will store gametes (sperm or eggs) before they start treatment. These can later be used when they are ready to have children. The gametes are frozen and can be later defrosted and used at a time when they are needed.
 
-Alternatives to using stored gametes are adopting or fostering children, using donated sperm or eggs from another person, or using a surrogate.
+Alternatives to using stored gametes are adopting or fostering children, using donated sperm or eggs from another person, or using a surrogate. It is also possible to store embryos and reproductive tissue.
 
-Gamete storage may involve:
+There is detailed information about gamete storage and fertility treatments for trans and non-binary people on [the Human Fertilisations and Embryology Authority website](https://www.hfea.gov.uk/treatments/fertility-preservation/information-for-trans-and-non-binary-people-seeking-fertility-treatment/).
 
-- *freezing sperm:* you can find more information about this on [the Human Fertilisations and Embryology Authority website ](http://www.hfea.gov.uk/46.html) and [the Cancer Research UK website](http://www.cancerresearchuk.org/about-cancer/coping/physically/sex/men/sperm-banking).
-- *freezing unfertilised eggs:* you can find more information about this on [the Human Fertilisations and Embryology Authority website](http://www.hfea.gov.uk/74.html) and [the Cancer Research UK website](http://www.cancerresearchuk.org/about-cancer/cancer-in-general/treatment/chemotherapy/fertility/women/ways-to-keep-fertility).
-- *freezing embryos:* you can find more information about this on [the Human Fertilisations and Embryology Authority website ](http://www.hfea.gov.uk/45.html)
+### Costs and funding
 
-To find a gamete storage clinic, you can use the tool on the [Human Fertilisations and Embryology Authority website](http://guide.hfea.gov.uk/guide/AdvancedSearch.aspx).
+Gamete storage for transgender people is not routinely available on the NHS.
+
+The Human Fertilisations and Embryology Authority have details of [costs and funding of gamete collection and storage](https://www.hfea.gov.uk/treatments/explore-all-treatments/costs-and-funding/), including options that may help you reduce costs such as egg sharing and treatment abroad. You also can use [their search tool](http://guide.hfea.gov.uk/guide/AdvancedSearch.aspx) to find a clinic that will help you.
