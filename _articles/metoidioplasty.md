@@ -8,7 +8,7 @@ Metoidioplasty is a complex surgical procedure with signficant risks that you mu
 {% endcapture %}
 {% include warning warning=warn %}
 
-An alternative to metoidioplasty is [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metiodioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires only one surgery (compared to a series of surgeries for phalloplasty), less time in hopsital, and less scarring.
+An alternative to metoidioplasty is [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metiodioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hopsital, and less scarring.
 
 In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This causes the clitoris to move lower down.
 
