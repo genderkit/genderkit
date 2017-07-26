@@ -19,6 +19,6 @@ The chemicals involved in hair colouring may cause an allergic reaction. It is v
 
 As with other hair colouring, hair patterning techniques use a lightening step called "developer" (usually hydrogen peroxide based), followed by one of a variety of dyes. Depending on the type of dye (in particular, the molecular weight), the dye penetrates the hair differing amounts. Dye that penetrates further will result in a longer lasting effect - from lasting a few washes to until the hair grows out.
 
-However, hair patterning is performed on only sections of the hair. This is most often done by using strips of foil to seperate the hair into sections. Other methods include using a cap which only certain strands of hair have been pulled through, or carefully painting colour onto certain sections with a brush ("balayage"). 
+However, hair patterning is performed on only sections of the hair. This is most often done by using strips of foil to separate the hair into sections. Other methods include using a cap which only certain strands of hair have been pulled through, or carefully painting colour onto certain sections with a brush ("balayage"). 
 
 Hair patterning will typically cost £xx-xxx.

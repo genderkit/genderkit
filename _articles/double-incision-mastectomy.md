@@ -14,7 +14,7 @@ Typically, mastectomy is performed using the double incision mastectomy techniqu
 
 If [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) is being performed, it can be useful to do this at the same time as double incision mastectomy as skin from that operation can be used as donor skin in the phalloplasty {% cite cr181 -l 31 %}.
 
-Double incision mastectomy carries a risk of loss of sensation in the nipples or loss of the nipples entirely. If a nipple is completely lost, some people use cosmetic tatooing to give the appearance that the nipple is still there.
+Double incision mastectomy carries a risk of loss of sensation in the nipples or loss of the nipples entirely. If a nipple is completely lost, some people use cosmetic tattooing to give the appearance that the nipple is still there.
 
 Mastectomy usually requires an overnight stay in hospital {% cite cr181 -l 31 %}. Mastectomy is a major surgery and has a significant recovery time. You should expect to spend around 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer. You will also need to return for a follow up appointment to determine if any further surgery is required to improve the cosmetic appearance.
 

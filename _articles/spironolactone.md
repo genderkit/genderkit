@@ -17,7 +17,7 @@ While spironolactone is much cheaper to obtain than GnRH agonists, it can often 
 
 A study has suggested that taking spironolactone with [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) may reduce the breast development caused by oestrogen {% cite seal2012predictive %}, though this has not been confirmed by other researchers.
 
-Spironolactone may cause erectile disfunction. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+Spironolactone may cause erectile dysfunction. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
 ### References
 

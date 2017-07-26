@@ -15,7 +15,7 @@ For further advice on how to update your details:
 - *DVLA:* There is information about how to change name or gender with the DVLA on the [GOV.UK website](https://www.gov.uk/change-name-driving-licence).
 - *Visas and Immigration:* There are more details what to do if you have a Visa or BRP on [the GOV.UK website](https://www.gov.uk/change-circumstances-visa-brp/youre-in-the-uk-and-have-a-brp).
 - *Electoral roll:* There is information about how to change name on the electoral roll on the [GOV.UK website](https://www.gov.uk/register-to-vote).
-- *Land registry:* If you own proprerty you will need to update your details with the Land Registry. There is information about how to do this on the [GOV.UK website](https://www.gov.uk/registering-land-or-property-with-land-registry/update-or-correct-the-register).
+- *Land registry:* If you own property you will need to update your details with the Land Registry. There is information about how to do this on the [GOV.UK website](https://www.gov.uk/registering-land-or-property-with-land-registry/update-or-correct-the-register).
 - *TV Licensing:* There is a form to update your details on the [TV Licensing website](https://www.tvlicensing.co.uk/cs/update/multiple-changes/index.app).
 - *EHIC:* You can apply for a new European Health Insurance Card in your new name. You can do this on [the EHIC website](https://www.ehic.org.uk).
 

@@ -5,7 +5,7 @@ weighting: 5
 
 Penectomy is surgical removal of the penis. This does not include removal of the testes (testicles), which are removed by an [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}).
 
-A penectomy completely destroys the penis. After a penectomy has been carried out, [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) requires using nonstandard techniques as there is no penile skin available, increasing risks and reducing the quality of the result. 
+A penectomy completely destroys the penis. After a penectomy has been carried out, [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) requires using non-standard techniques as there is no penile skin available, increasing risks and reducing the quality of the result. 
 
 If you wish to have new genitals created, the vulva (external part of the female genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are often carried out together with [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) (creation of the internal canal).
 

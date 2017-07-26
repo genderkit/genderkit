@@ -14,7 +14,7 @@ In the UK GnRH (gonadotropin releasing hormone) agonists are generally prescribe
 
 In some cases, cyproterone is used in patients with testes receiving GnRH agonist treatment to reduce the effects of the initial spike in testosterone levels caused by these medications {% cite seal:2007 -l 170 %}.
 
-Cyproterone may cause erectile disfunction. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+Cyproterone may cause erectile dysfunction. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
 ### References
 

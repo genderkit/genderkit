@@ -10,4 +10,4 @@ Bra inserts are anatomically shaped soft (usually silicone) objects that are pla
 
 An alternative to bra inserts is [prosthetic breasts]({{ site.baseurl }}{% link _articles/prosthetic-breasts.md %}), which are similar but are stuck to the skin using an adhesive.
 
-Breast inserts can be bought from high street shops which have a large lingerie section, including Marks and Spencer, John Lewis, and Debenhams. They can also be bought from online retailers including Amazon. If you're worried about recieving bra inserts at your home address, you could try having them delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
+Breast inserts can be bought from high street shops which have a large lingerie section, including Marks and Spencer, John Lewis, and Debenhams. They can also be bought from online retailers including Amazon. If you're worried about receiving bra inserts at your home address, you could try having them delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).

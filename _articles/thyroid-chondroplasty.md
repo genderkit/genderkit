@@ -11,7 +11,7 @@ A number of variations on the basic surgical technique exist, including incision
 
 Possible complications of thyroid chondroplasty include not enough cartilage being removed, damage to the vocal cords, and destabilization of the epiglottis {% cite morrison2016facial %}.
 
-To ensure you are recieving the safest possible treatment, you should follow [this advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.
+To ensure you are receiving the safest possible treatment, you should follow [this advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.
 
 ### References
 

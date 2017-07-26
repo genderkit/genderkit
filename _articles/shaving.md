@@ -7,7 +7,7 @@ feature:
 ---
 
 {% capture warn %}
-Do not share razors with other people. Sharing razors is a method of transmission of hepatitis C. People can be infected with hepatitis C without realising it or having any noticable symptoms, but it can cause serious liver problems later on if left untreated. You can read more hepatitis on [the NHS website](http://www.nhs.uk/conditions/hepatitis-c/Pages/Introduction.aspx).
+Do not share razors with other people. Sharing razors is a method of transmission of hepatitis C. People can be infected with hepatitis C without realising it or having any noticeable symptoms, but it can cause serious liver problems later on if left untreated. You can read more hepatitis on [the NHS website](http://www.nhs.uk/conditions/hepatitis-c/Pages/Introduction.aspx).
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -17,7 +17,7 @@ There are four main types of tool used for shaving:
 
 - *"Safety" razors:* are normally disposable (thrown away after the blades become blunted), though razors where the blades can be sharpened and/or replaced are still available. These razors are known as "safety" razors to distinguish them from old-fashioned "straight"/"cut-throat" razors which have an unguarded blade. Shaving with a safety razor requires using shaving foam and water.
 - *Electric razors:* (often just called a "shaver") come with either rotary or oscillating blades. Electric razors have the advantage of being able to be used on dry skin without shaving foam or water.
-- *Clippers:* shaves hair short but not completely down to the root. Clippers come with attachments that allow you to set the length of hair you want, from grade 12 (nearly 4cm) down to grade 1 (3mm). Each grade means 3 millimeters.
+- *Clippers:* shaves hair short but not completely down to the root. Clippers come with attachments that allow you to set the length of hair you want, from grade 12 (nearly 4cm) down to grade 1 (3mm). Each grade means 3 millimetres.
 - *Straight razors:* require significant expertise to sharpen and use and are uncommon in the 2010s.
 
 Shaving can cause considerable irritation to the skin. 

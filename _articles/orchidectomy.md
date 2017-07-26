@@ -13,11 +13,11 @@ After orchidectomy, you will need to take at least one sex hormone ([oestrogen](
 {% endcapture %}
 {% include warning warning=warn %}
 
-In this surgery, the scrotum is cut open in the middle. The testes and the spermatic chords leading to the testes are removed through this incision. Afterward, the incision is sutured closed. This removes the main source of testosterone in the body.
+In this surgery, the scrotum is cut open and the testes and the spermatic chords leading to the testes are removed through the incision, which is then sutured closed. This removes the main source of testosterone in the body.
 
 Orchidectomy may not be suitable for people who are interested in later obtaining a vaginoplasty as it can make the vaginoplasty more difficult - check with your surgeon if you are unsure. 
 
-Orchidectomy may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+Orchidectomy may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
 ### Cost and funding
 

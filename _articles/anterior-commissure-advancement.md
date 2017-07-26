@@ -5,7 +5,7 @@ weighting: 5
 
 [Speech therapy]({{ site.baseurl }}{% link _articles/speech-therapy.md %}) is able to allow the majority of people to raise the pitch and change the qualities of their voice safely and easily.
 
-However, for a minority of people this is not the case, and they may consider voice surgery as an alternative. Unlike speech therapy, voice surgery carries significant risks of complications, and the effects may be irreversable.
+However, for a minority of people this is not the case, and they may consider voice surgery as an alternative. Unlike speech therapy, voice surgery carries significant risks of complications, and the effects may be irreversible.
 
 Possible side effects of voice surgeries include reduced loudness, decreased vocal range, decreased clarity of voice, and lack of decrease in pitch {% cite song2017transgender -l 806 %}.
 

@@ -4,7 +4,7 @@ weighting: 5
 ---
 
 {% capture warn %}
-Silicone filler injections are extrememly dangerous and can result in permanent disfigurement {% cite hage2001devastating %} or death {% cite clark2008subcutaneous %}. Do not attempt this.
+Silicone filler injections are extremely dangerous and can result in permanent disfigurement {% cite hage2001devastating %} or death {% cite clark2008subcutaneous %}. Do not attempt this.
 {% endcapture %}
 {% include warning warning=warn %}
 
