@@ -21,6 +21,8 @@ People who do not have gonads (ovaries and/or testes) do not need to take GnRH a
 
 GnRH agonists are usually supplied in forms that are administered once every four weeks {% cite prostap %}, twelve weeks {% cite zoladex %}, or six months {% cite decapeptyl %}.
 
+### Costs and funding
+
 GnRH treatment is available to people with testes who have a [[formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %})]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to suppress menses {% cite ngicns-endocrine -l 5 %}.
 
 GnRH agonists may cause erectile disfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).

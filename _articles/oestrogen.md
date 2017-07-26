@@ -20,6 +20,8 @@ Oestrogen is commonly available in oral (pill) form, transdermal patches (patche
 
 There are several different variants of oestrogen available: normally valerate or hemihydrate in the UK, and sometimes cypionate or bezoate are used (which have a longer lasting effect). In the past ethinylestradiol and conjugated equine oestrogens were used, but these are now avoided because they have a much higher risk of blood clots {% cite toorians2003venous %} and are also not detectable in normal blood tests.
 
+### Costs and funding
+
 If you have recieved a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will normally provide oestrogen therapy.
 
 For oestrogen therapy to begin, it is required that any other signficant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
