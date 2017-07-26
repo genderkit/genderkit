@@ -17,7 +17,7 @@ Salpingo-oophorectomy is often carried out as part of [hysterectomy]({{ site.bas
 
 ### Costs and funding
 
-The NHS will normally fund total salpingo-oophorectomy and total [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %})for patients who are undergoing [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy.
+The NHS will normally fund total salpingo-oophorectomy and total [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) for patients who are undergoing [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy.
 
 You will normally need to meet the following conditions:
 
