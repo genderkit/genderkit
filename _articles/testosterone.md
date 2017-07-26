@@ -47,6 +47,8 @@ Testosterone suppresses menstruation (periods), which can lead to endometrial hy
 
 If you have recieved a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy.
 
+If you are using private gender services, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. If your GP agrees, the cost of your medication is funded by the NHS. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
+
 For testosterone therapy to begin, it is required that any other signficant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
 Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced.
