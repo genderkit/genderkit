@@ -1,6 +1,9 @@
 ---
 title: Formal diagnosis
 weighting: 4
+feature:
+  image: /assets/images/articles/formal-diagnosis.jpg
+  caption: "A closeup photo of the word dysphoria"
 ---
 
 A diagnosis is usually required to receive:

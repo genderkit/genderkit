@@ -2,7 +2,7 @@
 title: Spironolactone
 weighting: 4
 feature:
-  image: /assets/images/articles/anti-androgens.jpg
+  image: /assets/images/articles/spironolactone.jpg
   caption: "A pill bottle of spironolactone"
 ---
 

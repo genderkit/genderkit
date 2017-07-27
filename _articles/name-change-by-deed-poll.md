@@ -1,6 +1,9 @@
 ---
 title: Name change by deed poll
 weighting: 3
+feature:
+  image: /assets/images/articles/name-change-by-deed-poll.jpg
+  caption: "An example deed poll document"
 ---
 
 To change your name by deed poll, you will need to obtain the signatures of two independent witnesses to your deed poll. If you are unable to do this, you may wish to try a [name change by statutory declaration]({{ site.baseurl }}{% link _articles/name-change-by-statutory-declaration.md %}), which is witnessed a solicitor instead.

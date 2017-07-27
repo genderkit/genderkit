@@ -1,6 +1,9 @@
 ---
 title: "Changing glasses frames"
 weighting: 2
+feature:
+  image: /assets/images/articles/glasses-frames.jpg
+  caption: "A pair of glasses"
 ---
 
 Glasses frames vary significantly in price. Typical prices are between £xx and £xxx but may significantly exceed this depending on brand and the type of prescription required.

@@ -2,7 +2,7 @@
 title: Tanning
 weighting: 2
 feature:
-  image: /assets/images/articles/tanning.jpg
+  image: /assets/images/articles/sunscreen.jpg
   caption: "A bottle of sunscreen"
 ---
 

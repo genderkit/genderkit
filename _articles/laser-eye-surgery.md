@@ -1,6 +1,9 @@
 ---
 title: "Laser eye surgery"
 weighting: 5
+feature:
+  image: /assets/images/articles/laser-eye-surgery.jpg
+  caption: "Closeup of an eye"
 ---
 
 Laser eye surgery can be used to treat:
