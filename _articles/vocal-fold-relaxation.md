@@ -1,6 +1,9 @@
 ---
 title: "Vocal fold relaxation"
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 Vocal fold relaxation is a new and uncommon surgical technique that has the ability to significantly lower the fundamental frequency (pitch) of the voice {% cite davies2015voice -l 147 %}.

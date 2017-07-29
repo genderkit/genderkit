@@ -1,6 +1,9 @@
 ---
 title: Vaginectomy
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 Vaginectomy is surgery to remove the vaginal canal. This does not remove the uterus (womb) or ovaries, which are removed by [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}) and [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}).

@@ -1,6 +1,9 @@
 ---
 title: Clitoroplasty
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 Clitoroplasty involves surgically constructing a neoclitoris (artificially created clitoris), normally out of tissue taken from the dorsal (top) side of the glans penis (head of the penis). This organ is able to provide sexual sensation and in many cases the ability to orgasm. The penis is completely destroyed in the process of creating the clitoris.

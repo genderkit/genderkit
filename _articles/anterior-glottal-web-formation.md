@@ -1,6 +1,9 @@
 ---
 title: "Anterior glottal web formation"
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 [Speech therapy]({{ site.baseurl }}{% link _articles/speech-therapy.md %}) is able to allow the majority of people to raise the pitch and change the qualities of their voice safely and easily.

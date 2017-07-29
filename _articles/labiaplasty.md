@@ -1,6 +1,9 @@
 ---
 title: Labiaplasty
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 Labiaplasty involves surgically constructing labia, normally out of tissue taken from the penis and/or scrotum. The penis and scrotum are completely destroyed in the process.

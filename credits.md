@@ -33,6 +33,8 @@ Gender Construction Kit uses the following open source projects:
 - [Stylus](https://github.com/stylus/stylus)
 - [stylus-flex-mixin](https://github.com/differui/stylus-flex-mixin)
 
+Some articles are illustrated using a cropped version of a [photo of surgeons taken by Phalinn Ooi](https://www.flickr.com/photos/phalinn/8116089574/) which was kindly made available under the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0/).
+
 Gender Construction Kit also uses a number of icon sets which have been published with with-attribution licenses:
 
 - [Speech bubbles 3](http://www.flaticon.com/packs/speech-bubbles-3) designed by "Pixel perfect"

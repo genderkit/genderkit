@@ -1,6 +1,9 @@
 ---
 title: Breast augmentation
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 The most common method of breast augmentation is using implants, though some alternatives exist including fat transplantation from another part of the body {% cite largo2014efficacy %}.
