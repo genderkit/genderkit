@@ -51,7 +51,7 @@ If you are using private gender services, the service will normally ask your GP 
 
 For testosterone therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
-Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced.
+Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year olds {% cite gids2016 %}.
 
 ### References
 
