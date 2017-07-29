@@ -1,6 +1,9 @@
 ---
 title: Telling organisations
 weighting: 3
+feature:
+  image: /assets/images/articles/telling-organisations.jpg
+  caption: "An online form for changing name and title"
 ---
 
 We've created a checklist of places you might want to notify of a change of names, pronouns or title. (See later on this page for details of how to change your name with some of these places).
