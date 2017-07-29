@@ -16,7 +16,7 @@ The process of obtaining a *Gender Recognition Certificate* (GRC) allows you to 
 This has three main effects:
 
 - it changes which marriage laws apply to you (e.g. whether you would be able to apply for a civil partnership), and may cause you to need to obtain a new marriage or civil partnership certificate
-- it changes whether you would be housed in a women's prison or a men's prison
+- it may change whether you would be housed in a women's prison or a men's prison
 - it may affect your rights around pensions, particularly if you were born before 6th December 1953. 
 
 Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
@@ -39,3 +39,5 @@ Detailed guidance on the process, requirements for and effects of applying for a
 Once you have obtained your GRC, it is very important you notify the following organisations:
 
 {% include checklist %}
+
+There is a box on the application form for a GRC that allows HMRC and the DWP to be notified automatically without you having to do anything.
