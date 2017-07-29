@@ -30,7 +30,7 @@ For oestrogen therapy to begin, it is required that any other significant medica
 
 In combination with oestrogen therapy most people will also wish for testosterone to be reduced. Antiandrogens (in the UK, normally [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %})) are the most common approach for testosterone suppression {% cite seal:2007 -l 170 %}, though some endocrinologists may use high doses of oestrogen for testosterone suppression instead where possible {% cite pg12 -l 12 %}.
 
-Oestrogen therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced.
+Oestrogen therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced. Some services may additionally provide oestrogen to selected 16 and 17 year olds {% cite gids2016 %}.
 
 ### References
 
