@@ -359,31 +359,25 @@ a > span // Make citations appear correctly
 // Change page look based on width
 @media screen and (min-width: 620px)
   h1
-    background-color black
+    background-color rgba(0,0,0,0.5)
     width 12rem
     height 9rem
-    margin-bottom 2rem
     justify-content flex-end
   header
     display flex
-    margin-bottom 0
-    background inherit
-  .homescreen header
-    background-image url('{{ site.baseurl }}/assets/images/arrowback.jpg')
-    background-repeat no-repeat
-    background-color black
-    background-size cover
+    margin-bottom 2rem
   h2
-    background-image url(/assets/images/arrowback.jpg)
+    background none
     display flex
     align-items flex-end
     padding-bottom .25rem
-    margin-left 2rem
-    margin-bottom 2rem
-    justify-content space-between
+    margin-right 2rem
+    border-right 2px solid white
+    justify-content flex-end
     flex-grow 1
     padding-left 1rem
     font-size 2rem
+    font-weight 300
   .homescreen header h1 img
     width 24rem
     height 12rem
