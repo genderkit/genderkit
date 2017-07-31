@@ -53,6 +53,11 @@ html
 body
   margin 0
   word-break break-word // force wrapping on words > screen width
+header
+  background-image url('{{ site.baseurl }}/assets/images/arrowback.jpg')
+  background-repeat no-repeat
+  background-color black
+  background-size cover
 h1, h2
   color white
   margin 0
@@ -61,7 +66,7 @@ h1, h2
 h1
   display flex
   flex-direction column
-  background-color black
+  background-color rgba(0,0,0,0.4)
   img
     width 12rem
     height 6rem
@@ -192,10 +197,6 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 .homescreen
   font-size 1.25rem
   header
-    background-image url('{{ site.baseurl }}/assets/images/arrowback.jpg')
-    background-repeat no-repeat
-    background-color black
-    background-size cover
     text-align center
     display flex
     flex-direction column
@@ -359,6 +360,7 @@ a > span // Make citations appear correctly
 // Change page look based on width
 @media screen and (min-width: 620px)
   h1
+    background-color black
     width 12rem
     height 9rem
     margin-bottom 2rem
@@ -366,6 +368,12 @@ a > span // Make citations appear correctly
   header
     display flex
     margin-bottom 0
+    background inherit
+  .homescreen header
+    background-image url('{{ site.baseurl }}/assets/images/arrowback.jpg')
+    background-repeat no-repeat
+    background-color black
+    background-size cover
   h2
     background-image url(/assets/images/arrowback.jpg)
     display flex
