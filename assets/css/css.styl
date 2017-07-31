@@ -67,6 +67,8 @@ h1
     height 6rem
 h2
   background-color $background-colour
+  font-size 1.5rem
+  text-shadow 0 0 10px black
   letter-spacing -0.05rem
   padding 1rem
 a
@@ -169,6 +171,8 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
     height 3rem
     margin-bottom -3rem
     margin-left -4rem
+#effectslist li
+  padding-left 5rem
 .bibliography
   list-style-type disc
 
@@ -188,23 +192,27 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 .homescreen
   font-size 1.25rem
   header
-    background-image url('{{ site.baseurl }}/assets/images/test.jpg')
+    background-image url('{{ site.baseurl }}/assets/images/arrowback.jpg')
     background-repeat no-repeat
     background-color black
-    background-position 50% -5rem
-    background-size 20rem 20rem
+    background-size cover
     text-align center
-    padding-bottom 1px !important // horrible hack
+    display flex
+    flex-direction column
+    align-items center
     h1
       flex-direction row
       justify-content center
       padding 2rem 1rem 1rem 1rem
       height auto
       width auto
+    h2
+      font-weight 300
     h1, h2
       background none
       img
-        width 14rem  
+        width 14rem
+        height 7rem 
   header, section
     margin-bottom 2rem
     padding 0
@@ -214,7 +222,11 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
     padding 1rem
     margin 0
 #effectslist
-  padding 1rem
+  padding 0
+  li
+    padding-top 1rem
+    padding-bottom 1rem
+    background-color #f0f0fa
 .cards
   display flex
   flex-direction column
@@ -223,7 +235,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
   li
     height 3rem
     margin 0 0 .5rem 0
-    background-color $background-colour
+    background-color #445
     background-image url('{{ site.baseurl }}/assets/images/whiteraquo.png')
     background-position 100% 50%
     background-size 4rem
@@ -262,6 +274,7 @@ nav, aside, .attention
   margin 1rem auto
   font-weight $bold-weight
   color black
+  box-shadow 0 0 10px 0 black
 .grouping 
   padding 0 0 1rem 0
 .warning
@@ -350,12 +363,23 @@ a > span // Make citations appear correctly
     height 9rem
     margin-bottom 2rem
     justify-content flex-end
+  header
+    display flex
+    margin-bottom 0
   h2
-    background none
-    color black
+    background-image url(/assets/images/arrowback.jpg)
+    display flex
+    align-items flex-end
+    padding-bottom .25rem
+    margin-left 2rem
+    margin-bottom 2rem
+    justify-content space-between
+    flex-grow 1
+    padding-left 1rem
     font-size 2rem
-    padding 0 0 0.5rem 0
-    border-bottom 4px solid #f80
+  .homescreen header h1 img
+    width 24rem
+    height 12rem
   .homescreen h2
     color white
     padding 0
@@ -379,8 +403,6 @@ a > span // Make citations appear correctly
   section, footer
     padding 0
     margin 1rem 0 0 0
-  header
-    margin-bottom 2rem
   footer
     padding 1rem
   section:first-child
@@ -389,6 +411,7 @@ a > span // Make citations appear correctly
     flex-direction row
     flex-wrap wrap
     justify-content space-between
+    margin-top 2rem
     img
       display block
     li
@@ -407,27 +430,29 @@ a > span // Make citations appear correctly
     li:last-child
       margin 0
   #effectslist
+    border-top 2px solid #eeeef4
+    border-bottom 2px solid #eeeef4
+    padding-top 2rem
     flex-direction row
     flex-wrap wrap
-    justify-content space-around
+    justify-content space-between
     text-align center
     li
+      padding-left 1rem
+      padding-right 1rem
       flex-direction column
-      width 8rem
-      margin 1rem
-      padding 1rem
-      background white
-      border-radius 1rem
+      width 10rem
+      margin-bottom 2rem
     li:last-child
-      margin 1rem
+      margin-bottom 2rem
     i
       font-size 3rem
       margin 0 auto 1rem auto
   #effectslist:after // Hack to push the last few items over to the left
     content ""
     flex auto
-    max-width 25rem
-    min-width 25rem
+    max-width 26rem
+    min-width 26rem
   .wordcloud
     margin-left -.5rem
     margin-right -.5rem
