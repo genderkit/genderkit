@@ -21,4 +21,4 @@ As with other hair colouring, hair patterning techniques use a lightening step c
 
 However, hair patterning is performed on only sections of the hair. This is most often done by using strips of foil to separate the hair into sections. Other methods include using a cap which only certain strands of hair have been pulled through, or carefully painting colour onto certain sections with a brush ("balayage"). 
 
-Hair patterning will typically cost £xx-xxx.
+Hair patterning will typically cost £50-100 depending on the complexity of the work to be done.
