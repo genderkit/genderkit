@@ -13,7 +13,9 @@ There are two types of chemicals used in progesterone therapy:
 
 Progestins (in particular, medroxyprogesterone or norethisterone) can be used to suppress menstruation {% cite seal:2007 -l 182 %}, though this can result in low bone density (osteoporosis) {% cite scholes2002injectable %}. More recently, [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) have also been used for this purpose {% cite seal2016review -l 15 %}.
 
-Sometimes when [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) is used to encourage breast growth, progesterone is also used, as some people have claimed that it affects breast size or shape. There is currently no clear evidence whether this is helpful {% cite wierckx2014clinical %}. Some endocrinologists have also suggested that use of progesterone may lead to an increased risk of breast cancer {% cite seal:2007 -l 174 %}, while others maintain that this risk is minimal or may not exist, though they may be negative effects on mood for some people {% cite deutsch2016guidelines -l 29 %}.
+Sometimes when [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) is used to encourage breast growth, progesterone is also used, as some people have claimed that it affects breast size or shape. There is currently no clear evidence whether this is helpful {% cite wierckx2014clinical %}, and NHS and private gender clinics in the UK do not normally prescribe progesterone for these purposes.
+
+Some endocrinologists have also suggested that use of progesterone may lead to an increased risk of breast cancer {% cite seal:2007 -l 174 %}, while others maintain that this risk is minimal or may not exist {% cite deutsch2016guidelines -l 29 %}.
 
 ### References
 
