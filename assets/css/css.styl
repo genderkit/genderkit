@@ -278,7 +278,7 @@ nav, aside, .attention
 .grouping 
   padding 0 0 1rem 0
 .warning
-  border-left 2px red solid 
+  border-left 4px red solid 
   padding 0 0 0 1rem
   margin 0 0 1rem 0 // make sure that warnings are visually seperate
 .gridcontainer li
@@ -457,6 +457,11 @@ a > span // Make citations appear correctly
     flex auto
     max-width 26rem
     min-width 26rem
+  .effects
+    border-style none none none solid
+    border-image linear-gradient(to bottom, #6600ff 0%, rgba(80,0,255,0.2) 100%) 10
+    border-left 4px solid #fff
+    border-width 0 0 0 4px
   .wordcloud
     margin-left -.5rem
     margin-right -.5rem
