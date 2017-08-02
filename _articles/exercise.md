@@ -14,7 +14,13 @@ The Chief Medical Officers of England, Scotland, Wales and NI have [recommended]
 
 One way to do this is brisk walking or cycling for 30 minutes on at least 5 days a week. For example, a 15 minute walk to work or education in the morning and a 15 minute walk back each weekday.
 
-Exercise can be intimidating at first, as sport and fitness activities can be very segregated based on gender. However, the situation is improving!
+You can read more about the benefits of regular exercise and get advice on what you can do next on [the NHS Choices website](http://www.nhs.uk/livewell/fitness/Pages/Fitnesshome.aspx).
+
+There is also specific information for people with disabilities on [the NHS Choices website](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx).
+
+### Accessing gendered activities
+
+Many sport and fitness activities can be very segregated based on gender, which can be intimidating to many people. However, the situation is improving!
 
 Many swimming pools and gyms now have cubicle based changing rooms and showers which may be more comfortable for you. You may want to research your local fitness facilities to find out if there are any with these kinds of facilities.
 
@@ -22,13 +28,25 @@ Swimming can be particularly difficult for many people as it can involve very ti
 
 In some areas of the country there are organisations specifically for expanding access to sport and fitness for people regardless of their gender history. Some run regular sessions at swimming pools where transgender, nonbinary or gender variant people can attend as a group. Try looking at the "Sport and fitness" tag on our [UK Organisations]({{ site.baseurl }}{% link organisations.md %}) index for organisations near you.
 
-You can read more about the benefits of regular exercise and get advice on what you can do next on the [NHS Choices website](http://www.nhs.uk/livewell/fitness/Pages/Fitnesshome.aspx).
+You may also want to consider other ways of getting physical exercise that may be less gendered, for example:
+
+- skateboarding
+- rock climbing
+- martial arts
+- circus skills
+- freerunning
+- rollerblading
+- watersports
+
+### Muscle building
 
 You may also want to use exercise as part of a strategy to change your body shape by increasing muscle mass in certain areas of your body (shoulders, arms, chest, thighs, or buttocks). Doing this requires exercising specific muscle groups.
 
 You will find that which sex hormones you have in your body will significantly affect your upper body strength and how easy it is for you to increase muscle mass. [Testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy increases the ability to increase muscle mass, while reduction of testosterone can cause significant loss of strength.
 
 Remember that you can have a considerable amount of muscle without it being clearly visible if you have high body fat. One way of making muscles more clearly defined is [dieting]({{ site.baseurl }}{% link _articles/dieting.md %}).
+
+### Personal training
 
 A personal trainer can help you to safely and effectively reach your goals for your body by providing support and recommending activities.
 
