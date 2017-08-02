@@ -8,7 +8,7 @@ A common cause of serious injuries to children is burns from home use of hair cu
 {% endcapture %}
 {% include warning warning=warn %}
 
-Curling tongs (also known as curling irons) use barrel which are heated up to approximately 200°C. The heat and tension from winding the hair around the barrel breaks chemical bonds in the hair proteins, causing them to reform into the new shape. A variety of different sizes and shapes of barrel are available, creating different shaped curls.
+Curling tongs (also known as curling irons) use a barrel which are heated up to approximately 200°C. The heat and tension from winding the hair around the barrel breaks chemical bonds in the hair proteins, causing them to reform into the new shape. A variety of different sizes and shapes of barrel are available, creating different shaped curls.
 
 To reduce the amount of damage to the hair caused by styling, it is important to use curling tongs on dry hair, and to use a heat-protection spray {% cite christian2011effects %}.
 
