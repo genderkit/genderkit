@@ -24,3 +24,7 @@ The typical cost is around £1-10 for home colour and £25-75 for salon colour.
 If you decide to maintain the colour, you will need to regularly revisit the salon every few months to add colour to the new hair that has grown from your scalp. This will normally be cheaper than the original appointment for colouring.
 
 You can buy henna for £5-10 from [Holland and Barrett](http://www.hollandandbarrett.com/), [Lush](https://uk.lush.com/), and some branches of large supermarkets.
+
+### References
+
+{% bibliography --cited %}
