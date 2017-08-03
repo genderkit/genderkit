@@ -11,4 +11,10 @@ To speed up this process, some hairdressers will use a "drying hood" which produ
 
 An alternative to chemical curling is to break the chemical bonds by [hair curling]({{ site.baseurl }}{% link _articles/hair-curling.md %}) using heat. This is much more of a temporary solution as it will generally only last a few days or until the hair becomes wet.
 
+While called permanent hair curling, the effects will only last for a few months, and you will have to return to the salon to have the treatment reapplied at this point.
+
 Prices for permanent hair curling range from £40-100. Different shapes of wave or curl require different amounts of work, affecting the price.
+
+### References
+
+{% bibliography --cited %}
