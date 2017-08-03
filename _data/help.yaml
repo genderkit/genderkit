@@ -30,6 +30,12 @@ help:
     manualDescription: 'Lifeline are available 24/7 to talk about trauma, suicide, self-harm, abuse, depression and anxiety.'
     tags: [Northern Ireland, Mental health]
   -
+    name: 'Mindline Trans+ (England and Wales)'
+    url: 'https://www.facebook.com/MindlineTransPlus/'
+    category: 'Mental Health'
+    manualDescription: 'Helpline for people who identify as trans or non-binary run by mental health charity Mind.'
+    tags: [England, Wales, Mental Health]
+  -
     name: 'Shelter England'
     url: 'http://england.shelter.org.uk/get_advice'
     category: 'Homelessness and housing'
