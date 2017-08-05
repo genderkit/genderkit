@@ -12,6 +12,8 @@ Curling tongs (also known as curling irons) use a barrel which are heated up to 
 
 To reduce the amount of damage to the hair caused by styling, it is important to use curling tongs on dry hair, and to use a heat-protection spray {% cite christian2011effects %}.
 
+As your hair curling will be undone if your hair becomes wet, it may be useful to invest in a shower cap, which will keep your hair dry while you wash the rest of your body in the shower.
+
 A more permanent alternative to using curling tongs is [permanent hair curling]({{ site.baseurl }}{% link _articles/permanent-hair-curling.md %}) using chemicals.
 
 Curling tongs come in a large range of prices, from £10 to over £100.

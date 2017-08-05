@@ -15,6 +15,8 @@ Hair straighteners (also known as straightening irons) use a pair of plates whic
 
 To reduce the amount of damage to the hair caused by straightening, it is important to use straighteners on dry hair, and to use a heat-protection spray {% cite christian2011effects %}.
 
+As your hair straightening will be undone if your hair becomes wet, it may be useful to invest in a shower cap, which will keep your hair dry while you wash the rest of your body in the shower.
+
 Hair straighteners come in a large range of prices, from £10 to over £100.
 
 An alternative to hair straightening using heat is [permanent hair straightening]({{ site.baseurl }}{% link _articles/permanent-hair-straightening.md %}) using chemicals. This approach lasts around 12 weeks between applications, instead of needing to be reapplied after each wash.
