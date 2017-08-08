@@ -5,7 +5,7 @@ weighting: 2
 
 Hair grows at an average rate of just over 1cm per month, though it can vary slightly from person to person depending on genetics {% cite loussouarn2005diversity %}.
 
-There isn't any way to speed the growth rate of individual hairs up, but you can decrease the time it takes for your hair to grow by reducing the amount of hairs that shortened by damage. When hair is grown longer it stays attached to your head for much longer, perhaps up to several years, so you need to work harder to protect it from damage. This will also keep it looking healthy. The most important things you can do are:
+There isn't any way to speed the growth rate of individual hairs up, but you can decrease the time it takes for your hair to grow by reducing the amount of hairs that are shortened by damage. When hair is grown longer it stays attached to your head for much longer accumulating damage, perhaps up to several years, so you need to work harder to protect it than you would with shorter hair. The most important things you can do are:
 
 - wash your hair regularly but not too often (twice a week works well for many people)
 - when you wash hair with shampoo, always use a conditioner afterwards
@@ -13,7 +13,7 @@ There isn't any way to speed the growth rate of individual hairs up, but you can
 - dry your hair carefully, ideally patting it dry rather than rubbing it with a towel
 - always rinse your hair after swimming in a pool or the sea
 
-Many hair stylists and hair websites recommend that even when growing your hair, it should be trimmed every few months to remove damage. We have been unable so far to find expert advice from trichologists (specialists in hair and hair disorders) about whether this is necessary - but you may want to do it anyway, as this will help your hair look more healthy and well maintained.
+Many hair stylists and hair websites recommend that even when growing your hair, the ends should be trimmed every few months to remove damage. We have been unable so far to find expert advice from trichologists (specialists in hair and hair disorders) about whether this is necessary - but you may want to do it anyway, as this will help your hair look more healthy and well maintained.
 
 You can find more detailed information on protecting your hair lower down on this page.
 
