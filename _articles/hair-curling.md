@@ -12,6 +12,8 @@ Curling tongs (also known as curling irons) use a barrel which are heated up to 
 
 To reduce the amount of damage to the hair caused by styling, it is important to use curling tongs on dry hair, and to use a heat-protection spray {% cite christian2011effects %}.
 
+It also possible to use some hair straighteners to put waves in hair. You can find tutorial videos on YouTube that will tell you how to do this.
+
 As your hair curling will be undone if your hair becomes wet, it may be useful to invest in a shower cap, which will keep your hair dry while you wash the rest of your body in the shower.
 
 A more permanent alternative to using curling tongs is [permanent hair curling]({{ site.baseurl }}{% link _articles/permanent-hair-curling.md %}) using chemicals.
