@@ -5,7 +5,7 @@ weighting: 2
 
 Hair grows at an average rate of just over 1cm per month, though it can vary slightly from person to person depending on genetics {% cite loussouarn2005diversity %}.
 
-There isn't any way to speed the growth rate of individual hairs up, but you can decrease the time it takes for your hair to grow by reducing the amount of hairs that are shortened by damage. When hair is grown longer it stays attached to your head for much longer accumulating damage, perhaps up to several years, so you need to work harder to protect it than you would with shorter hair. The most important things you can do are:
+There isn't any way to speed the growth rate of individual hairs up, but you can decrease the time it takes for your hair to grow by reducing the amount of hairs that are shortened by damage. When hair is grown longer it stays attached to your head accumulating damage, perhaps for up to several years, so you need to work harder to protect it than you would with shorter hair. The most important things you can do are:
 
 - wash your hair regularly but not too often (twice a week works well for many people)
 - when you wash hair with shampoo, always use a conditioner afterwards
