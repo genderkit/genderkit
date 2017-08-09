@@ -1,6 +1,9 @@
 ---
 title: Minoxidil
 weighting: 3
+feature:
+  image: /assets/images/articles/minoxidil.jpg
+  caption: "A diagram of the chemical structure of minoxidil"
 ---
 
 Minoxidil comes as a liquid or foam that is applied to the scalp to slow hair loss. It is used to treat hair loss caused by testosterone.
