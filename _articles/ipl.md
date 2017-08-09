@@ -3,7 +3,7 @@ title: IPL
 weighting: 4
 ---
 
-Intense pulsed light (IPL) therapy is an alternative to [laser hair removal]({{ site.baseurl }}{% link _articles/laser-hair-removal.md %}).
+Intense pulsed light (IPL) therapy is an alternative to [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}).
 
 It uses a bright flash of light from a xenon flashbulb that produces many different wavelengths - rather than the single wavelength used by a laser.
 
