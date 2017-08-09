@@ -1,6 +1,9 @@
 ---
 title: Exercise
 weighting: 2
+feature:
+  image: /assets/images/articles/exercise.jpg
+  caption: "A person using a skateboard"
 ---
 
 You may consider exercise to improve physical fitness but also to improve mental health and fitness. You may also be interested in changing body shape by developing muscle.

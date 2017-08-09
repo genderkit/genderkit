@@ -1,6 +1,9 @@
 ---
 title: Growing hair
 weighting: 2
+feature:
+  image: /assets/images/articles/hairbrush.jpg
+  caption: "A hair brush"
 ---
 
 Hair grows at an average rate of just over 1cm per month, though it can vary slightly from person to person depending on genetics {% cite loussouarn2005diversity %}.

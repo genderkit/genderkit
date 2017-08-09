@@ -1,6 +1,9 @@
 ---
 title: Concealer
 weighting: 1
+feature:
+  image: /assets/images/articles/concealer.jpg
+  caption: "Some makeup on a black surface"
 ---
 
 Concealer is a type of foundation that gives high coverage (this means it hides the colour of the underlying skin well).
