@@ -1,0 +1,7 @@
+aka: [Arimidex]
+summary: "Medication that stops the conversion of testosterone into oestrogen"
+duration: "Anastrozole is a pill that needs to be taken daily. The effects will stop in days if you stop taking the medication."
+effects:
+  -
+    category: "Menstruation"
+    detail: "Stops"
