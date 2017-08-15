@@ -1,6 +1,9 @@
 ---
 title: Anastrozole
 weighting: 4
+feature:
+  image: /assets/images/articles/anastrozole.jpg
+  caption: "A diagram of the chemical structure of anastrozole"
 ---
 
 The human body naturally converts excess testosterone into oestrogen. Anastrozole works by stopping "aromatase", a chemical that the body uses as part of this process. Taking anastrozole can reduce the amount of oestrogen in your body.
