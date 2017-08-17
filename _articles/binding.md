@@ -1,6 +1,9 @@
 ---
 title: Binding
 weighting: 3
+feature:
+  image: /assets/images/articles/binding.jpg
+  caption: "A white chest binder"
 ---
 
 {% capture warn %}
