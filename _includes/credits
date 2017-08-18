@@ -20,6 +20,9 @@
         {% if item.url %}
           <a href="{{ item.url }}">Website</a>&nbsp;
         {% endif %}
+        {% if item.mastodon %}
+          <a href="{{ item.mastodon }}">Mastodon</a>&nbsp;
+        {% endif %}
         {% if item.twitter %}
           <a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
         {% endif %}

@@ -1,6 +1,10 @@
 -  
   name: "Anna"
   contribution: "Concept, Website development"
+-  
+  name: "Cassian"
+  contribution: "Photography"
+  mastodon: "https://cybre.space/@cassolotl"
 -
   name: "Mx Aithne"
   contribution: "Graphic Design, Photography"
@@ -13,6 +17,7 @@
   contribution: "Photography"
   articles: 
     - "Binding"
+    - "Piercings"
   
 # Example credit
 # -
