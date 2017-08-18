@@ -1,6 +1,9 @@
 ---
 title: Counselling
 weighting: 2
+feature:
+  image: /assets/images/articles/counselling.jpg
+  caption: "A box of tissues"
 ---
 
 It is a normal thing to want or need help from counselling at some points in your life. 
