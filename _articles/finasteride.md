@@ -1,6 +1,9 @@
 ---
 title: Finasteride
 weighting: 4
+feature:
+  image: /assets/images/articles/finasteride.jpg
+  caption: "Finasteride pills in blister pack"
 ---
 
 Finasteride comes as pills that are taken daily to slow hair loss. It is used to treat hair loss caused by testosterone. A commonly used alternative to finasteride is [minoxidil]({{ site.baseurl }}{% link _articles/minoxidil.md %}), which is a topical cream or foam instead of a pill, and can be obtained without a prescription.
