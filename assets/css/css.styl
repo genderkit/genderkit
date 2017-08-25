@@ -271,7 +271,8 @@ nav, aside, .attention
   width 10rem
   background-color #f80
   background linear-gradient(to bottom, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%)
-  padding 1rem
+  border-radius .5rem
+  padding 1rem .5rem
   margin 1rem
   font-weight $bold-weight
   color black
@@ -353,9 +354,13 @@ a > span // Make citations appear correctly
   body
     max-width 40rem
     margin 0 auto
+  .homescreen header h2
+    width 18rem
 @media screen and (min-width: 920px)
   body
     max-width 54rem
+  .homescreen header h2
+    width 32rem
 
 // Change page look based on width
 @media screen and (min-width: 620px)
@@ -383,13 +388,19 @@ a > span // Make citations appear correctly
     font-size 2rem
     font-weight 300
   .homescreen header h1 img
-    width 24rem
-    height 12rem
+    width 20rem
+    height 10rem
+    margin-top 2rem
+    margin-bottom -0.5rem
   .homescreen h2
     color white
     border none
     font-size 1.5rem
     margin-left 0
+    padding 0 0 1rem 1rem
+  .homescreen .button
+    margin-left auto
+    margin-top -5rem
   main
     flex-direction row
   figure
