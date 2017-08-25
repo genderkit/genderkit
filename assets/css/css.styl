@@ -54,7 +54,7 @@ body
   margin 0
   word-break break-word // force wrapping on words > screen width
 header
-  background-image url('{{ site.baseurl }}/assets/images/arrowback.jpg')
+  background-image url('{{ site.baseurl }}/assets/images/arrowback5.jpg')
   background-repeat no-repeat
   background-color black
   background-size cover
@@ -72,7 +72,6 @@ h1
 h2
   background-color rgba(0,0,0,0.6)
   font-size 1.5rem
-  text-shadow 0 0 10px black
   letter-spacing -0.05rem
   padding 1rem
 a
@@ -196,14 +195,13 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 .homescreen
   font-size 1.25rem
   header
-    text-align center
     display flex
     flex-direction column
-    align-items center
+    align-items flex-start
     h1
       flex-direction row
       justify-content center
-      padding 2rem 1rem 1rem 1rem
+      padding 0
       height auto
       width auto
     h2
@@ -211,8 +209,8 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
     h1, h2
       background none
       img
-        width 14rem
-        height 7rem 
+        width 16rem
+        height 8rem 
   header, section
     margin-bottom 2rem
     padding 0
@@ -273,10 +271,10 @@ nav, aside, .attention
   background-color #f80
   background linear-gradient(to bottom, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%)
   padding 1rem
-  margin 1rem auto
+  margin 1rem
   font-weight $bold-weight
   color black
-  box-shadow 0 0 10px 0 black
+  text-align center
 .grouping 
   padding 0 0 1rem 0
 .warning
@@ -388,7 +386,6 @@ a > span // Make citations appear correctly
     height 12rem
   .homescreen h2
     color white
-    padding 0
     border none
     font-size 1.5rem
     margin-left 0
