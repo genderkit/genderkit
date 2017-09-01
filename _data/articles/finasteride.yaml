@@ -5,3 +5,9 @@ effects:
   -
     category: "Head hair"
     detail: "Reduces hair loss"
+  - 
+    category: "Facial hair"
+    detail: "Slows growth"
+  -
+    category: "Body hair"
+    detail: "Reduces body hair"

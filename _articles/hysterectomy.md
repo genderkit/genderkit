@@ -18,11 +18,13 @@ Not all types of hysterectomy remove the risk of cervical cancer. The cervix is 
 
 Hysterectomies are usually carried out because of cancer or other tumours of the uterus, cervix, fallopian tubes or ovaries. They are also sometimes carried out on people with very heavy periods. 
 
-In the UK, it is recommended that if you have a uterus (womb) and have taken [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) for several years that you have a hysterectomy {% cite cr181 -l 31 %}. 
+In the UK, current guidelines recommend that people taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) long-term should have a hysterectomy, usually within a maximum of 4-5 years after starting testosterone {% cite cr181 -l 31 %}. 
 
-This is because some studies have suggested testosterone use is linked to endometrial hyperplasia, which can increase risk of endometrial cancer {% cite seal:2007 -l 184 %}. Funding for hysterectomy is normally available on the NHS for people taking testosterone.
+This is because testosterone suppresses menstruation (periods), and some medical professionals have theorised that this could lead to endometrial hyperplasia (thickening of the lining of the womb), which might increase the risk of cancer. However, most studies have indicated that endometrial hyperplasia either does not occur, or happens only in a small minority of people, and that the risk of endometrial cancer is low with only one known case {% cite seal2017 -l 240 %}. 
 
-There several types of hysterectomy, which may or may not include removing the cervix or removing the ovaries and fallopian tubes (also known as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %})). If your hysterectomy does not involve salpingo-oophorectomy, you are still at risk of ovarian cancer.
+Hysterectomy for people taking testosterone is optional and you may feel the risks involved in a major operation are unnecessary considering the extremely small probability of cancer. If you decide not to undergo hysterectomy it is recommended to have scans to check for thickening of the endometrium every two years to reduce this risk {% cite seal2017 -l 240 %}.
+
+There several types of hysterectomy, which may or may not include removing the cervix or removing the ovaries and fallopian tubes (also known as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %})). If your hysterectomy does not involve salpingo-oophorectomy, you are still at risk of ovarian cancer {% cite seal2017 -l 240 %}.
 
 Hysterectomy does not usually involve removal of the vagina, which is called a [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}).
 

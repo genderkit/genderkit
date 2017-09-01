@@ -17,6 +17,8 @@ An alternative option to phalloplasty is [metoidioplasty]({{ site.baseurl }}{% l
 
 Phalloplasty requires reuse of skin from some other part of the body, most commonly the forearm. This skin is removed and used to create a tube that is reconnected to veins and nerves in the desired location. The arm then normally receives skin grafts to replace the removed skin, but there will be significant scarring on the arm {% cite frey2017update %}. 
 
+For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
+
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
 ### Cost and funding

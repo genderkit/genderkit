@@ -7,13 +7,23 @@ feature:
 ---
 
 {% capture warn %}
-Spironolactone can cause permanent liver damage and should be taken under medical supervision where possible. Prolonged anti-androgen treatment can cause infertility, erectile dysfunction and genital shrinkage. Taking anti-androgens without also taking another sex hormone (e.g. [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) and/or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) can cause osteoporosis.
+Spironolactone can cause renal failure (kidney damage), permanent liver damage, and hyperkalemia {% cite seal2017 -l 236 %}. It should be taken under medical supervision with regular blood testing.
 {% endcapture %}
 {% include warning warning=warn %}
 
-Several different types of drug are used as anti-androgens. Spironolactone is a commonly used antiandrogen in the US. 
+{% capture warn %}
+Prolonged anti-androgen treatment can cause infertility, erectile dysfunction and genital shrinkage.
+{% endcapture %}
+{% include warning warning=warn %}
 
-While spironolactone is much cheaper to obtain than GnRH agonists, it can often have side effects and after prolonged use may cause liver damage. In the UK endocrinologists usually prescribe GnRH (gonadotropin releasing hormone) agonists instead {% cite seal:2007 -l 170 %}. These medications are described in more detail on the [GnRH agonists page]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}).
+{% capture warn %}
+Taking anti-androgens without also taking another sex hormone (e.g. [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) and/or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) can cause osteoporosis.
+{% endcapture %}
+{% include warning warning=warn %}
+
+Spironolactone is a type of drug called an anti-androgen. These drugs reduce testosterone levels.
+
+Spironolactone is a commonly used antiandrogen in the US. In the UK, endocrinologists usually prescribe [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) instead, as while spironolactone is much cheaper to obtain, it can often have serious side effects {% cite seal:2007 -l 170 %}. GnRH agonists are considered to have a very good side-effect profile {% cite seal2017 %}.
 
 A study has suggested that taking spironolactone with [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) may reduce the breast development caused by oestrogen {% cite seal2012predictive %}, though this has not been confirmed by other researchers.
 

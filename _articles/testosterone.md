@@ -31,17 +31,32 @@ Testosterone does not remove the need for [cervical screening tests](http://www.
 {% endcapture %}
 {% include warning warning=warn %}
 
-Testosterone is commonly available as depot injections or as gels applied to the skin. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches (transdermal testosterone) are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.
+{% capture warn %}
+Testosterone increases the risk of [obstructive sleep apnoea](http://www.nhs.uk/Conditions/Sleep-apnoea/Pages/Introduction.aspx) (stopping breathing during sleep) which can lead to heart problems or sudden death. 
+
+Symptoms of sleep apnoea include:
+
+- very loud snoring
+- noisy and laboured breathing while you are asleep
+- stopping breathing followed by gasping or snorting
+
+If you experience any of these symptoms, or you feel constantly tired or fall asleep during the day, speak to your GP. If you normally sleep in a room with someone else, you may wish to tell them the symptoms of sleep apnoea as you will not be awake to observe them.
+{% endcapture %}
+{% include warning warning=warn %}
+
+Testosterone is commonly available as depot injections or as gels applied to the skin {% cite seal2017 -l 241 %}. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches (transdermal testosterone) are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.
 
 In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
-Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year olds {% cite gids2016 %}.
+Testosterone has noticable effects on mood and thinking, and can increase energy and aggression, but can also help some people feel "more settled" in their body {% cite seal2017 -l 239 %}.
 
-Testosterone use can cause serious medical conditions including polycythaemia (too many red blood cells) and liver problems. For these reasons, regular blood tests are extremely important to prevent health problems. Testosterone also increases the risk of obstructive sleep apnoea (stopping breathing during sleep) which can lead to heart problems or sudden death.
+Testosterone use can cause serious medical conditions including polycythaemia (too many red blood cells which can increase stroke risk) and liver problems {% cite seal2017 -l 239 %}. For these reasons, regular blood tests are extremely important to prevent health problems. 
 
 Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS Choices website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 
-Testosterone suppresses menstruation (periods), which can lead to endometrial hyperplasia, which increases risk of cancer. In the UK, it is recommended that people taking testosterone long-term undergo [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) to remove this risk {% cite seal:2007 -l 184 %}, usually within a maximum of 4-5 years {% cite cr181 -l 31 %}. 
+Testosterone suppresses menstruation (periods). Some medical professionals have theorised that this could lead to endometrial hyperplasia (thickening of the lining of the womb), which might increase the risk of cancer. However, most studies have indicated that endometrial hyperplasia either does not occur, or happens only in a small minority of people, and that the risk of endometrial cancer is low with only one known case {% cite seal2017 -l 240 %}. 
+
+To avoid any risk from endometrial hyperplasia, current UK guidelines recommend that people taking testosterone long-term should have a [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}), usually within a maximum of 4-5 years after starting testosterone {% cite cr181 -l 31 %}. However, this surgery is optional and you may feel the risks involved in a major operation are unnecessary considering the extremely small probability of cancer. If you decide not to undergo hysterectomy it is recommended to have scans to check for thickening of the endometrium every two years to reduce this risk {% cite seal2017 -l 240 %}.
 
 ### Costs and funding
 

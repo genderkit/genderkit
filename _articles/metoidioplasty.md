@@ -25,6 +25,8 @@ Metoidioplasty first requires taking [testosterone]({{ site.baseurl }}{% link _a
 
 Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}), or [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
 
+For some people, metoidioplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
+
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
 ### Cost and funding

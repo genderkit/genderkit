@@ -1,6 +1,6 @@
 aka: [T, Testogel, Sustanon, Nebido]
 summary: "Hormone with many effects including muscle strengthening, hair growth, and lowering voice pitch"
-duration: "Many of the effects of testosterone are permanent and start within weeks."
+duration: "Many of the effects of testosterone are permanent and start within weeks.  Changes may take several years to reach their full effect."
 effects:
   - category: "Menstruation"
     detail: "Stops"
@@ -21,6 +21,6 @@ effects:
   - category: "Fertility"
     detail: "Temporary or permanent infertility"
   - category: "Mood"
-    detail: "Mood changes"
+    detail: "Increased energy"
   - category: "Fragrance"
     detail: "Body odour changes"
