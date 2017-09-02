@@ -8,7 +8,7 @@ feature:
 
 Clitoroplasty involves surgically constructing a neoclitoris (artificially created clitoris), normally out of tissue taken from the dorsal (top) side of the glans penis (head of the penis). This organ is able to provide sexual sensation and in many cases the ability to orgasm. The penis is completely destroyed in the process of creating the clitoris.
 
-Clitoroplasty only creates the clitoris (the small organ that acts as a focus of sexual sensation). The rest of the vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}), and the interal vaginal canal by [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}). These operations are usually carried out together, though some people choose not to have a vaginoplasty.
+Clitoroplasty only creates the clitoris (the small organ that acts as a focus of sexual sensation). The rest of the vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}), and the internal vaginal canal by [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}). These operations are usually carried out together, though some people choose not to have a vaginoplasty.
 
 The most common technique for clitoroplasty is to use a small triangular piece of the dorsum (top side) of the glans penis, near to the corona (raised ring at the base of the glans). This is moved to the new position along with the neurovascular bundle (connecting tube of nerves and blood vessels) to supply it that would originally have run down the top edge of the penis.
 

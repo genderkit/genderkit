@@ -12,7 +12,7 @@ Always have piercings performed by a professional. **Never** try and pierce your
 {% include warning warning=warn %}
 
 {% capture warn %}
-Make sure the piercer has a piercing license that is clearly displayed in their establishment. This makes sure that the equipment and facilities being used are safe and hygienic. It is **illegal** to perform piercing without a licence.  
+Make sure the person who is performing the piercing has a piercing license that is clearly displayed in their establishment. This makes sure that the equipment and facilities being used are safe and hygienic. It is **illegal** to perform piercing without a licence.  
 {% endcapture %}
 {% include warning warning=warn %}
 

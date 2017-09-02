@@ -3,7 +3,7 @@ title: "STP devices"
 weighting: 1
 feature:
   image: /assets/images/articles/urinating-standing.jpg
-  caption: "A black plastic STP device called a Shewee"
+  caption: "A black plastic STP device called a SheWee"
 ---
 
 STP devices are placed over the urethral opening (the hole you urinate from) and direct the urine forwards so that you can urinate standing, including into a urinal.

@@ -15,9 +15,9 @@ The British Photodermatology Group and British Association of Dermatologists hav
 
 Some people incorrectly think that having a tan is useful protection against sun damage to skin and skin cancer. In fact, the risks of exposure outweigh any protective effect {% cite nice-sunlight %}.
 
-Common risks of overexposure to sunlight are skin cancer, cataracts, and premature wrinkling and aging.
+Common risks of overexposure to sunlight are skin cancer, cataracts, and premature wrinkling and ageing.
 
-This does not mean that people should avoid all sunlight - which is important for vitamin D levels and emotional wellbeing. However, people should pay careful attention to the advice given on how to reduce the risks. More guidance and information is available [on the NHS Choices website](http://www.nhs.uk/Livewell/skin/Pages/Sunsafe.aspx).
+This does not mean that people should avoid all sunlight - which is important for vitamin D levels and emotional well-being. However, people should pay careful attention to the advice given on how to reduce the risks. More guidance and information is available [on the NHS Choices website](http://www.nhs.uk/Livewell/skin/Pages/Sunsafe.aspx).
 
 An easy and cheap alternative to tanning is a fake spray tan product (usually containing dihydroxyacetone), which usually costs £10-20 and can be bought from high street shops or online retailers. Fake spray tans do not provide protection from the ultraviolet radiation in sunlight, so you should continue to follow the guidelines for sunlight exposure. Fake tan pills (actually pills of very concentrated food colouring) are banned in the UK as they are unsafe to use.
 

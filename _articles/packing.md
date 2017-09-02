@@ -18,7 +18,7 @@ Multiple different kinds of packers are available, including:
 You may also need something to hold the packer in place:
 
 - *tight/sports underwear:* wearing tight underwear or multiple layers of underwear can often be enough to hold the packer in place. 
-- *packer pouches:* also known as "cock socks", these are fabric pouches with velcro on one side that attach to the inside of your underwear.
+- *packer pouches:* also known as "cock socks", these are fabric pouches with Velcro on one side that attach to the inside of your underwear.
 - *packer harnesses/straps:* a strap that goes around your hips which attaches to the packer to hold it in place.
 - *boxer harnesses:* boxer shorts with a built in ring that the packer fits through to hold it in place.
 - *DIY options:* such as modifying an existing pair of underwear by stitching in a pocket.

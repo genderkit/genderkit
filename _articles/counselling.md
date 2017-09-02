@@ -16,11 +16,11 @@ The most commonly found problems are [depression](http://www.nhs.uk/conditions/d
 
 A large number of people with gender dysphoria (perhaps up to 20%) also have an [autism spectrum condition](http://www.nhs.uk/conditions/autistic-spectrum-disorder/Pages/Introduction.aspx) {% cite van2016gender %}. If you are one of these people dealing with emotional problems on your own without help can be even more complex and difficult.
 
-If you think you might need help, you can speak to your GP. They will often suggest that you try some kind of counselling, sometimes in combination with other appraches like medication or specialist assessments and treatments.
+If you think you might need help, you can speak to your GP. They will often suggest that you try some kind of counselling, sometimes in combination with other approaches like medication or specialist assessments and treatments.
 
 Counselling approaches are talking therapies: by discussing your problems in a safe environment with a counsellor you can gain a deeper insight into them. Counsellors do not "treat" or "heal" people like a doctor, nor do they give you general life advice. The counsellor instead helps you understand yourself and your problems so that you can move forward.
 
-Practioners may be known by a number of different names, including "counsellors", "therapists", "psychotherapists", "clinical psychologists" and "psychiatric nurses", depending on exactly what training they have and what their job involves {% cite sanders2002counselling %}. We're using the word "counsellor" here for simplicity. There are a variety of ways of working. Different approaches work for different people and in different situations. 
+Practitioners may be known by a number of different names, including "counsellors", "therapists", "psychotherapists", "clinical psychologists" and "psychiatric nurses", depending on exactly what training they have and what their job involves {% cite sanders2002counselling %}. We're using the word "counsellor" here for simplicity. There are a variety of ways of working. Different approaches work for different people and in different situations. 
 
 Your counsellor will be bound by rules of confidentiality which mean that they need to keep information you tell them private unless there is a good reason not to do so (for example, if they are required to by law, or if they believe you are at risk of killing yourself). Counsellors also normally have their own counsellors called "supervisors" who support them with the emotional challenges of their work.
 

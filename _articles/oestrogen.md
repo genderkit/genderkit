@@ -7,7 +7,7 @@ feature:
 ---
 
 {% capture warn %}
-Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting like [deep vein thrombosis](http://www.nhs.uk/Conditions/deep-vein-thrombosis/Pages/Introduction.aspx)), prolactinomas, [gallstones](http://www.nhs.uk/conditions/Gallstones/Pages/Introduction.aspx), and liver problems. These risks can be reduced by regular blood testing, stopping smoking, and maintaining a healthy lifestyle {% cite seal2017 %}.
+Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting like [deep vein thrombosis](http://www.nhs.uk/Conditions/deep-vein-thrombosis/Pages/Introduction.aspx)), prolactinoma, [gallstones](http://www.nhs.uk/conditions/Gallstones/Pages/Introduction.aspx), and liver problems. These risks can be reduced by regular blood testing, stopping smoking, and maintaining a healthy lifestyle {% cite seal2017 %}.
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -34,7 +34,7 @@ If you are using private gender services, the service will normally ask your GP 
 
 For oestrogen therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
-Oestrogen therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced. Some services may additionally provide oestrogen to selected 16 and 17 year olds {% cite gids2016 %}.
+Oestrogen therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced. Some services may additionally provide oestrogen to selected 16 and 17 year old people {% cite gids2016 %}.
 
 ### References
 

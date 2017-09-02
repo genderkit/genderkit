@@ -10,7 +10,7 @@ Waxing can be used to remove hair from many parts of the body, most commonly to 
 
 A traditional alternative to waxing is a very similar technique called sugaring, which replaces the wax with a sticky paste.
 
-Eyebrows are often waxed to remove stray hairs that are seperate from the main eyebrow, to reshape the eyebrows or make them thinner, or to remove hair from the bottom to make the eyebrows look higher up on the face.
+Eyebrows are often waxed to remove stray hairs that are separate from the main eyebrow, to reshape the eyebrows or make them thinner, or to remove hair from the bottom to make the eyebrows look higher up on the face.
 
 Waxing can be carried out using an at home kit bought from a supermarket or chemists, or by a professional beautician in a beauty salon.
 

@@ -12,7 +12,7 @@ Hair is made from keratin proteins. In curly hair, these keratin proteins are he
 
 These bonds can be broken, straightening the hair. This is done by different types of chemicals known as chemical relaxers:
 
-- *hydroxides*, which are strong alkalis such as sodium hydroxide or guanidine hydroxide. This process of breaking chemical bonds is called *lanthionization* {% cite de2007relaxing %}. To prevent the strong alkali attacking the scalp, it is useful to apply vaseline along the hair line and on the ears. You should also carefully rinse off the chemicals after use. These chemicals are not suitable for straightening bleached hair and dying hair after chemical straightening can be difficult without damaging the hair {% cite dias2015hair %}.
+- *hydroxides*, which are strong alkalis such as sodium hydroxide or guanidine hydroxide. This process of breaking chemical bonds is called *lanthionization* {% cite de2007relaxing %}. To prevent the strong alkali attacking the scalp, it is useful to apply Vaseline along the hair line and on the ears. You should also carefully rinse off the chemicals after use. These chemicals are not suitable for straightening bleached hair and dying hair after chemical straightening can be difficult without damaging the hair {% cite dias2015hair %}.
 
 - *thioglycolates*, such as ammonium thioglycolate. These chemicals must be followed by treatment with a hot straightening iron and hydrogen peroxide solution. These chemicals are not suitable for straightening bleached hair and dying hair after chemical straightening can be difficult without damaging the hair {% cite dias2015hair %}.
 

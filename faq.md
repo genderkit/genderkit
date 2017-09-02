@@ -57,7 +57,7 @@ The site is designed so that elements can be easily reused by other groups runni
 Existing sites tend to fall into one of two types:
 
 - one or a small group of activists run a site. Keeping things up to date is difficult because a small number of already overworked people have to maintain the site on their own. Eventually the maintainers hit **activist burnout** and stop being able to keep the site up to date. There's no easy way to transition ownership of the site, and finding people to want to take over the site is difficult because of the amount of work and technical expertise involved in maintenance.
-- one or a small group of activists set up a wiki. Initially everything goes well because anyone can join in to help - but as soon as the wiki becomes visible enough to be useful to people, spambots and malicious people invade. The work of maintaining a wiki quickly becomes overwhelming, and in order to ensure the survival of the site, the wiki is closed to new editors. Now the site has the same problems as in the first situation.
+- one or a small group of activists set up a wiki. Initially everything goes well because anyone can join in to help - but as soon as the wiki becomes visible enough to be useful to people, spam bots and malicious people invade. The work of maintaining a wiki quickly becomes overwhelming, and in order to ensure the survival of the site, the wiki is closed to new editors. Now the site has the same problems as in the first situation.
 
 Gender Construction Kit is intended to be **different** to avoid these problems:
 

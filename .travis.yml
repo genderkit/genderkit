@@ -20,3 +20,9 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
 sudo: false
+
+addons:
+  apt:
+    packages:
+      - aspell
+      - aspell-en
