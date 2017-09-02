@@ -51,7 +51,7 @@ task :spellcheck => :jekyll do
     end
   end
   if errors > 0
-    puts "Spelling errors found!"
+    puts "Spelling errors found! If you believe these words are spelled correctly, add them to the file called 'whitelist'."
     exit 1
   else
     puts "No spelling errors found."
