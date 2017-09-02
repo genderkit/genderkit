@@ -29,7 +29,7 @@ The first kind of irritation comes from friction against the skin, and can be re
 - washing and/or exfoliating the skin to remove any built up dead skin or grease on it to ensure hairs are released from the skin and standing up properly
 - using a moisturiser after shaving to reduce skin irritation {% cite draelos2012male %}
 
-Longer term irritation to the skin can also be caused by ingrown hairs (sometimes called razor bumps) caused by shaving. Often, these are hairs that have been cut below the surface of the skin, leaving a sharp point which has pierced the side of the follicle as the hair has grown. In people with curly hair, hairs which have grown out of the skin surface can also curl back and pierce the skin. This problem can be reduced by:
+Longer term irritation to the skin can also be caused by ingrown hairs (sometimes called razor bumps) caused by shaving. Often, these are hairs that have been cut below the surface of the skin, leaving a sharp end which has pierced the side of the follicle as the hair has grown. In people with curly hair, hairs which have grown out of the skin surface can also curl back and pierce the skin. This problem can be reduced by:
 
 - shaving in the same direction as the hair grows
 - shaving in as few strokes as possible
@@ -38,7 +38,7 @@ Longer term irritation to the skin can also be caused by ingrown hairs (sometime
 
 You can read more about ingrown hairs and how to prevent them on the [NHS Choices website](http://www.nhs.uk/conditions/ingrown-hairs/Pages/Introduction.aspx).
 
-If you are finding it very difficult to avoid ingrown hairs, an alternative to shaving that may help is using [depilatory cream]({{ site.baseurl }}{% link _articles/depilatory-cream.md %}) instead of shaving.
+If you are finding it difficult to avoid ingrown hairs, an alternative to shaving that may help is using [depilatory cream]({{ site.baseurl }}{% link _articles/depilatory-cream.md %}) instead of shaving.
 
 You can purchase safety razors from supermarkets, high street chemists, and online. Razors are available for as low a price as 10p per razor, with more expensive brands costing up to £2 per razor.
 

@@ -23,7 +23,7 @@ Possible side effects of tucking are:
 - defects or hernias at the external inguinal ring {% cite feldman2006transgender -l 7 %}
 - infections such as epididymoorchitis,
 prostatitis, or cystitis {% cite deutsch2016guidelines -l 93 %}
-- chronic pain in the testes {% cite deutsch2016guidelines -l 93 %}
+- chronic testicular pain {% cite deutsch2016guidelines -l 93 %}
 
 We are not aware of any research into how common these side effects are.
 

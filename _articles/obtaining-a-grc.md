@@ -36,7 +36,7 @@ It costs £140 to apply for a GRC. You may also need to pay in order to obtain m
 
 Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng-2016.04.01.pdf). Further advice has also been produced by [GIRES](https://www.gires.org.uk/law-archive/obtaining-your-gender-recognition-certificate) and [UK Trans Info](http://uktrans.info/graguide.pdf).
 
-Once you have obtained your GRC, it is very important you notify the following organisations:
+Once you have obtained your GRC, it is  important that you notify the following organisations:
 
 {% include checklist %}
 

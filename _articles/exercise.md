@@ -23,7 +23,7 @@ There is also specific information for people with disabilities on [the NHS Choi
 
 ### Accessing gendered activities
 
-Many sport and fitness activities can be very segregated based on gender, which can be intimidating to many people. However, the situation is improving!
+Many sport and fitness activities can be  segregated based on gender, which can be intimidating to many people. However, the situation is improving!
 
 Many swimming pools and gyms now have cubicle based changing rooms and showers which may be more comfortable for you. You may want to research your local fitness facilities to find out if there are any with these kinds of facilities.
 

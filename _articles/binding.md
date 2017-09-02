@@ -22,7 +22,7 @@ Use of a binder is almost always accompanied by some undesirable symptoms, most 
 
 Long-term binding for several years can effect skin elasticity, which increases the risk of complications if you wish to surgically remove your breasts with an operation like [double-incision]({{ site.baseurl }}{% link _articles/double-incision-mastectomy.md %}) or [periareolar mastectomy]({{ site.baseurl }}{% link _articles/periareolar-mastectomy.md %}) {% cite yelland2017 -l 260 %}.
 
-Binders cannot be bought in high street shops and have to be ordered online. There are very few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
+Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
 
 Binders typically cost £25-50. Well known retailers of binders serving the UK include:
 

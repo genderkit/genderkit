@@ -5,7 +5,7 @@ weighting: 3
 
 Hair extensions vary considerably in several ways:
 
-- *attachment method*: some are easily clipped to your hair at home, whereas others are attached using a number of different methods in a salon. Some methods may damage your existing hair more than others, and some may irritate your scalp.
+- *attachment method*: some are easily clipped to your hair at home, whereas others are attached using one of several different methods in a salon. Some methods may damage your existing hair more than others, and some may irritate your scalp.
 - *amount of hair*: some provide just a ponytail or a fringe, while others provide multiple different pieces that attach to different parts of your head in different lengths.
 - *material*: some extensions are made of synthetic material, while others are made from real human hair or a blend of synthetic and human hair. Human hair comes in different quality grades, and you are encouraged to research this in detail as the terminology can be complex and confusing.
 

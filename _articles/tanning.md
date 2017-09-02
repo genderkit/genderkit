@@ -19,7 +19,7 @@ Common risks of overexposure to sunlight are skin cancer, cataracts, and prematu
 
 This does not mean that people should avoid all sunlight - which is important for vitamin D levels and emotional well-being. However, people should pay careful attention to the advice given on how to reduce the risks. More guidance and information is available [on the NHS Choices website](http://www.nhs.uk/Livewell/skin/Pages/Sunsafe.aspx).
 
-An easy and cheap alternative to tanning is a fake spray tan product (usually containing dihydroxyacetone), which usually costs £10-20 and can be bought from high street shops or online retailers. Fake spray tans do not provide protection from the ultraviolet radiation in sunlight, so you should continue to follow the guidelines for sunlight exposure. Fake tan pills (actually pills of very concentrated food colouring) are banned in the UK as they are unsafe to use.
+An easy and cheap alternative to tanning is a fake spray tan product (usually containing dihydroxyacetone), which usually costs £10-20 and can be bought from high street shops or online retailers. Fake spray tans do not provide protection from the ultraviolet radiation in sunlight, so you should continue to follow the guidelines for sunlight exposure. Fake tan pills (actually pills of highly concentrated food colouring) are banned in the UK as they are unsafe to use.
 
 ### References
 

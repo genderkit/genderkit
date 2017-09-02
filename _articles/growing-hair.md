@@ -32,7 +32,7 @@ Hair salons can be intimidating and confusing if you've only ever visited a barb
 
 - Some hair salons require you to make an appointment in advance; some will allow you to turn up without advance notice. If you need to make an appointment but aren't comfortable using the telephone, many salons will now allow you to make appointments via email or messages to their Facebook page.
 
-- Salons usually have a number of different stylists working in them who have different levels of expertise. You may be charged more for using a hair stylist who has more expertise, and you may be expected to say which level of experience you are expecting when you book your appointment.
+- Salons usually have several stylists working in them who have different levels of expertise. You may be charged more for using a hair stylist who has more expertise, and you may be expected to say which level of experience you are expecting when you book your appointment.
 
 - If your body or presentation is different to what people in the hair salon are expecting, you may be anxious about how accepting hair stylists will be. One way to reduce this anxiety is to contact the hair salon to tell them what to expect and ask if they are comfortable cutting your hair. Hair salons are often very LGBT friendly places, and hair stylists cut a very wide range of people's hair from all walks of life, so there is a good chance they will be accepting of you. If you'd like to be sure, you can also try contacting a local trans group in your area, who may be able to suggest hairdressers to you. You can use our [UK Organisations page]({{ site.baseurl }}{% link organisations.md %}) to find groups near to you.
 
