@@ -1,5 +1,5 @@
 apt-get update
-apt-get install -y git ruby ruby-dev make gcc dos2unix nodejs libcurl4-openssl-dev
+apt-get install -y git ruby ruby-dev make gcc dos2unix nodejs npm libcurl4-openssl-dev
 gem install jekyll bundler
 
 if [ ! -d "/vagrant/git" ]; then
