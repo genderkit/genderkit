@@ -7,13 +7,17 @@ feature:
 ---
 
 {% capture warn %}
-After vaginoplasty, regular dilation must be carried out in order to maintain the shape of the vagina. Failure to regularly dilate can result in prolapse, serious health complications and/or permanent loss of the vagina.
+After vaginoplasty, you must regularly use  dilators for the rest of your life to maintain the shape of the vagina. Failure to regularly dilate can result in prolapse, serious health complications and/or permanent loss of the vagina.
 {% endcapture %}
 {% include warning warning=warn %}
 
 Vaginoplasty involves surgically constructing a neovagina (artificially created vagina), normally out of tissue taken from the penis and/or scrotum. The penis is completely destroyed in the process.
 
-Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are usually carried out together with vaginoplasty.
+Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are usually carried out together with vaginoplasty, but some people opt to avoid vaginoplasty because they do not want a vagina or to reduce the risk of complications, reduce recovery time, or avoid the need to dilate {% cite selvaggi2017 -l 268 %}.
+
+If tissue from the scrotum is to be used in the construction of the vagina, or if there is hair on the penile skin, hair removal using [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}) will be required before you can have surgery. This may take up to a year to complete {% cite selvaggi2017 -l 269 %}.
+
+After vaginoplasty, you will be required to **dilate** by inserting tubes called dilators into the vagina for the rest of your life. The recommendations for how often to dilate vary between surgeons. An example schedule would be to start at 2-3 times a day and gradually reduce in frequency to twice a week. Dilation can be time consuming and painful, but is essential to maintain the length and breadth of the vagina {% cite selvaggi2017 -l 272 %}.
 
 Vaginoplasty does not give the ability to menstruate (have periods) or to become pregnant or give birth.
 
