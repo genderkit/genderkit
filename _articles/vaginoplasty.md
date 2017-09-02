@@ -17,7 +17,7 @@ Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (exte
 
 If tissue from the scrotum is to be used in the construction of the vagina, or if there is hair on the penile skin, hair removal using [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}) will be required before you can have surgery. This may take up to a year to complete {% cite selvaggi2017 -l 269 %}.
 
-After vaginoplasty, you will be required to **dilate** by inserting tubes called dilators into the vagina for the rest of your life. The recommendations for how often to dilate vary between surgeons. An example schedule would be to start at 2-3 times a day and gradually reduce in frequency to twice a week. Dilation can be time consuming and painful, but is essential to maintain the length and breadth of the vagina {% cite selvaggi2017 -l 272 %}.
+After vaginoplasty, you will be required to **dilate** by inserting cylinders called dilators into the vagina for the rest of your life. The recommendations for how often to dilate vary between surgeons. An example schedule would be to start at 2-3 times a day and gradually reduce in frequency to twice a week. Dilation can be time consuming and painful, but is essential to maintain the length and breadth of the vagina {% cite selvaggi2017 -l 272 %}.
 
 Vaginoplasty does not give the ability to menstruate (have periods) or to become pregnant or give birth.
 
