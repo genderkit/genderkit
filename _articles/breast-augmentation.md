@@ -22,11 +22,11 @@ There is detailed information on the [NHS Choices website](http://www.nhs.uk/Con
 
 Common side effects of breast augmentation are capsular contraction (the body forming a tough shell around the implant which shrinks, often causing pain or change in shape of the breast), infections, and loss of sensitivity in the nipple area {% cite palma2016quality %}.
 
-You should also be aware that while the current evidence suggests that breast augmentation does not increase the risk of breast cancer, it can make breast screening more difficult {% cite murjan2017 -l 196 %}.
+You should also be aware that while the current evidence suggests that breast augmentation does not increase the risk of breast cancer, it can make breast screening more difficult {% cite murjan2017 -l 196 %}, and you may have to attend a hospital imaging department instead of a mobile breast screening clinic {% cite yelland2017 -l 258 %}.
 
 To ensure you are receiving the safest possible treatment, you should follow [this advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.
 
-There is a significant risk of complications that require additional surgeries. One study has reported that 30% of patients need a revision within six years and 7% require another revision within a year after that {% cite forster2013reoperation %}. Some surgeons may recommend that implants are replaced every 10-15 years for safety even if complications have not occurred {% cite davies:2007 %}.
+There is a significant risk of complications that require additional surgeries. The risk of additional operations being needed has been estimated by a UK surgeon as 1% a year, with about 10% of patients needing a new operation within ten years {% cite yelland2017 -l 259 %}, though studies in other countries have reported 30% of patients requring more surgery within six years {% cite forster2013reoperation %}. Some UK surgeons recommend that implants are replaced every 10-15 years for safety even if complications have not occurred {% cite davies:2007 %}. As implants can leak or rupture as time passes, you will need to be prepared for the financial cost of future operations, not just the initial breast augmenation {% cite yelland2017 -l 260 %}.
 
 You can read more about breast augmentation on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
 

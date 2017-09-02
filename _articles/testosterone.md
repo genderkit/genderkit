@@ -48,7 +48,7 @@ Testosterone is commonly available as depot injections or as gels applied to the
 
 In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
-Testosterone has noticable effects on mood and thinking, and can increase energy and aggression, but can also help some people feel "more settled" in their body {% cite seal2017 -l 239 %}.
+Testosterone has noticeable effects on mood and thinking, and can increase energy and aggression, but can also help some people feel "more settled" in their body {% cite seal2017 -l 239 %}.
 
 Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS Choices website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 

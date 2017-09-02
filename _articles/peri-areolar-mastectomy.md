@@ -11,13 +11,15 @@ Not all breast tissue is removed in mastectomy, and it does not remove the risk 
 {% endcapture %}
 {% include warning warning=warn %}
 
-Typically, mastectomy is performed using the [double incision mastectomy]({{ site.baseurl }}{% link _articles/double-incision-mastectomy.md %}) technique in the UK. However, some people may be able to undergo peri-areolar mastectomy instead. Other techniques are possible, such as buttonhole or inverted T (also known as T-anchor), but are much less common in the UK.
+In a mastectomy, the breast tissue is removed, and usually the nipples are made smaller and repositioned.
 
-Peri-areolar mastectomy is usually used only to remove small breasts (B-cup or less) where the patient also has good skin elasticity. 
+Typically, mastectomy is performed using the [double incision mastectomy]({{ site.baseurl }}{% link _articles/double-incision-mastectomy.md %}) technique in the UK. Around 7% of people have little enough breast tissue and good skin elasticity for peri-areolar mastectomy to be recommended instead {% cite yelland2017 -l 261 %}, which can result in less visible scarring {% cite davies2:2007 -l 227 %}. Other techniques are possible, such as buttonhole or inverted T (also known as T-anchor), but are much less common in the UK.
 
 Unlike double incision mastectomy, peri-areolar mastectomy results in significantly less visible scarring, but may also cause over-reduction of the breast leaving a depression or dip in the chest. Repositioning of nipples cannot be carried out during peri-areolar mastectomy without leaving very conspicuous scarring, unlike double incision mastectomy {% cite davies2:2007 -l 227 %}.
 
 Mastectomy usually requires an overnight stay in hospital {% cite cr181 -l 31 %}. Mastectomy is a major surgery and has a significant recovery time. You should expect to spend around 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
+
+Complications of mastectomy can include too much or too little tissue removed, "dog ears" (pouches of skin), and hypertrophic or [keloid scars](http://www.nhs.uk/Livewell/skin/Pages/Keloidscarring.aspx) {% cite yelland2017 -l 262 %}.
 
 You can read more about mastectomy on the [NHS Choices website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 
