@@ -7,7 +7,7 @@ feature:
 ---
 
 {% capture warn %}
-Testosterone use can cause serious health problems and where possible should be carried out under the supervision of trained medical staff carrying out regular blood tests.
+Testosterone use can cause serious medical conditions including polycythaemia (too many red blood cells which can increase stroke risk) and liver problems {% cite seal2017 -l 239 %}. For these reasons, it is important to only use testosterone under medical supervision with regular blood testing.
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -49,8 +49,6 @@ Testosterone is commonly available as depot injections or as gels applied to the
 In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
 Testosterone has noticable effects on mood and thinking, and can increase energy and aggression, but can also help some people feel "more settled" in their body {% cite seal2017 -l 239 %}.
-
-Testosterone use can cause serious medical conditions including polycythaemia (too many red blood cells which can increase stroke risk) and liver problems {% cite seal2017 -l 239 %}. For these reasons, regular blood tests are extremely important to prevent health problems. 
 
 Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS Choices website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 
