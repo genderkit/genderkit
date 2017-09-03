@@ -7,7 +7,7 @@ Complications of a brow lift include:
 
 - nerve damage causing numbness of the forehead
 - numbness in the scalp lasting up to 18 months
-- leaking cerebro-spinal fluid
+- leaking cerebrospinal fluid
 - hair loss {% cite altman2017 -l 307 %} 
 
 We have so far been unable to find information on the long-term effects of brow lift surgery.
