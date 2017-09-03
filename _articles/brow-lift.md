@@ -3,7 +3,7 @@ title: Brow lift
 weighting: 5
 ---
 
-Complications of a brow lift include:
+Possible complications of a brow lift include:
 
 - nerve damage causing numbness of the forehead
 - numbness in the scalp lasting up to 18 months

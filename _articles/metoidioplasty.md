@@ -17,8 +17,6 @@ In a metoidioplasty, the clitoris is detached from the labia and the ligaments w
 
 At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want, though this would require continuing to sit to urinate or using a stand to pee device. Avoiding a urethroplasty reduces the risk of complications {% cite cr181 -l 30 %}.
 
-The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
-
 In combination with metoidioplasty, you can optionally also have testicular implants added {% cite christopher2017 -l 297 %}.
 
 Metoidioplasty first requires taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occurred (usually after 1-2 years into taking testosterone), metoidioplasty can be carried out {% cite frey2017update -l 732 %}. 
@@ -33,7 +31,11 @@ You can find more information about phalloplasty and metoidioplasty on the [St. 
 
 A operation in the UK to perform metoidioplasty with urethral lengthening costs around £TODO.
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}).
+
+The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
+
+In order to be accepted for a metoidioplasty, you will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment
