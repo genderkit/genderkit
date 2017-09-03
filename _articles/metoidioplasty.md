@@ -13,13 +13,13 @@ Metoidioplasty is a complex surgical procedure with significant risks that you m
 
 An alternative to metoidioplasty is [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring.
 
-In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This causes the clitoris to move lower down.
+In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This "releases" the clitoris, adding 2-4cm in length and allows the clitoris to point upwards {% cite christopher2017 -l 296 %}.
 
 At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want, though this would require continuing to sit to urinate or using a stand to pee device. Avoiding a urethroplasty reduces the risk of complications {% cite cr181 -l 30 %}.
 
 The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
 
-In combination with metoidioplasty, many patients also choose to have [scrotoplasty]({{ site.baseurl }}{% link _articles/scrotoplasty.md %}) (surgical creation of a scrotum) performed in the same operation, which combined with using labial skin to wrap the clitoris can create small penis and scrotum.
+In combination with metoidioplasty, you can optionally also have testicular implants added {% cite christopher2017 -l 297 %}.
 
 Metoidioplasty first requires taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occurred (usually after 1-2 years into taking testosterone), metoidioplasty can be carried out {% cite frey2017update -l 732 %}. 
 

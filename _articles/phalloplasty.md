@@ -13,11 +13,25 @@ Phalloplasty is a complex surgical procedure with significant risks that you mus
 
 Phalloplasty is surgery to create a penis, usually with the ability to urinate out of the end of it, and to make it erect. Often [scrotoplasty]({{ site.baseurl }}{% link _articles/scrotoplasty.md %}) is performed at the same time.
 
-An alternative option to phalloplasty is [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. Phalloplasty patients will usually receive erectile prosthetics that allow the penis to become erect instead. This is usually inflated by a pump, often hidden inside one of the testicular prostheses which is squeezed to inflate the penis implants.
+An alternative option to phalloplasty is [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. Phalloplasty patients will usually receive erectile prosthetics that allow the penis to become erect instead. This is usually inflated by a pump, often hidden inside one of the testicular prostheses which is squeezed to inflate the penis implants. It is important to note that the implant will likely need replacement later in life, so you will need to be prepared for further surgeries in the future {% cite christopher2017 -l 299 %}.
 
-Phalloplasty requires reuse of skin from some other part of the body, most commonly the forearm. This skin is removed and used to create a tube that is reconnected to veins and nerves in the desired location. The arm then normally receives skin grafts to replace the removed skin, but there will be significant scarring on the arm {% cite frey2017update %}. 
+Three types of phalloplasty are performed in the UK {% cite christopher2017 -l 281 %}:
+
+- **radial artery** phalloplasty using a free flap from the forearm; this is the most commonly used technique in the UK
+- **pubic** phalloplasty using a local flap from the lower belly and crotch area; this may not be possible if you have had surgeries on your abdomen such as Caesarian section or hysterectomy
+- **antero-lateral thigh** phalloplasty using either a free or pedicled flap from the outer thigh
+
+The amount of sensation in the penis will depend on the technique used, with radial artery phalloplasty giving the best results. There is no guarantee of sensation: UK surgeons report 10% of patients have no sensation after two years with radial artery phalloplasty {% cite christopher2017 -l 282 %}.
+
+You will need to choose to decide whether you wish to be able to use the penis to pass urine standing, and whether you wish to be able to make the penis hard for penetrative sex. Both of these will increase the length and complexity of surgery.
+
+Other types of phalloplasty are possible but not normally performed in the UK, including MLD (muscular latissimus dorsi meaning the side of the chest or back), Gracilis, Fibular (lower leg), Deltoid (upper arm/shoulder), and Gillies (from the abdomen but using a pedicled tube) {% cite christopher2017 -l 281 %}.
+
+Phalloplasty requires reuse of skin from some other part of the body, most commonly the forearm. The donor area then receives skin grafts to replace the removed skin (normally from the buttocks {% cite christopher2017 -l 285 %}), but there will be significant scarring on donor area {% cite frey2017update %}, and it should not be exposed to strong sunlight as it will get sunburned easily {% cite christopher2017 -l 286 %}. 
 
 For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
+
+Phalloplasty involves a degree of risk. UK surgeons have reported a 3% rate of phallus loss, thought this risk can be reduced by avoiding smoking and not being overweight. In the event of phallus loss, further attempts can be made 6-12 months later {% cite christopher2017 -l 284 %}.
 
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
