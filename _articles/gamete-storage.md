@@ -12,7 +12,9 @@ A number of treatments and surgical procedures to change things related to gende
 
 Some people who intend to have children after their treatment will store gametes (sperm or eggs) before they start treatment. These can later be used when they are ready to have children. The gametes are frozen and can be later defrosted and used at a time when they are needed.
 
-Alternatives to using stored gametes are adopting or fostering children, using donated sperm or eggs from another person, or using a surrogate. It is also possible to store embryos and reproductive tissue.
+Instead of storing gametes, it is also possible to store embryos or reproductive tissue. The techniques for using reproductive tissue are currently experimental {% cite deroo2017 -l 137 %}.
+
+Alternatives to using stored material are adopting or fostering children, using donated sperm or eggs from another person, or using a surrogate. 
 
 There is detailed information about gamete storage and fertility treatments for trans and non-binary people on [the Human Fertilisations and Embryology Authority website](https://www.hfea.gov.uk/treatments/fertility-preservation/information-for-trans-and-non-binary-people-seeking-fertility-treatment/).
 

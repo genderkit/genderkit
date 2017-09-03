@@ -12,7 +12,7 @@ There are currently only a few small-scale short-term medical studies into using
 
 It is also possible to increase the mass of the vocal chords by injecting them with fat from other parts of the body. This approach normally requires periodic "top up" injections {% cite antoni2017 -l 329 %}.
 
-Both techniques are current rarely used.
+Both techniques are currently rarely used.
 
 ### References
 

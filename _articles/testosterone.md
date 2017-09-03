@@ -22,7 +22,7 @@ Some brands of testosterone contain peanut oil. Take care to read the ingredient
 {% include warning warning=warn %}
 
 {% capture warn %}
-Testosterone usually causes periods to stop, but does not totally remove the risk of pregnancy.
+Testosterone usually causes periods to stop, but does not remove the risk of pregnancy. Do not use testosterone as a method of contraception {% cite deroo2017 -l 136 %}.
 {% endcapture %}
 {% include warning warning=warn %}
 
