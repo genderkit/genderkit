@@ -129,6 +129,16 @@ organisations:
         manualDescription: 'NHS Scotland network for Scottish gender clinics and online information hub'
         tags: ['NHS Gender Services', Scotland]
     -
+        name: 'NHS Wales Gender Identity Partnership Group'
+        url: 'http://www.whssc.wales.nhs.uk/gender-identity-partnership-group'
+        manualDescription: 'Advisory board for Gender Identity services in Wales'
+        tags: ['NHS Gender Services', Wales]
+    -
+        name: 'Dysfforia Rhywedd Cymru / Gender Dysphoria Wales'
+        url: 'http://www.genderdysphoria.wales.nhs.uk/'
+        manualDescription: 'NHS Wales gender dysphoria online information hub'
+        tags: ['NHS Gender Services', Wales]
+    -
         name: Born
         url: 'http://born.uk.com'
         twitter: Borntoturnheads
