@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+<main role="main">
+  <article class="content">
+    <section class="bodytext">
+      {{ content }}
+      <h3>Indexes</h3>
+      <ul class="wordlist">     
+        {% for p in site.data.cards.indexes %}
+          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.name }}</a></li>
+        {% endfor %}
+      </ul>
+      <h3>Explore</h3>
+      <ul class="wordlist">
+        {% for p in site.explore %}
+          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <h3>Identities</h3>
+      <ul class="wordlist">
+        {% for identity in site.identities %}
+          <li><a href="{{ identity.url | relative_url }}">{{ identity.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <h3>How to do it</h3>
+      <ul class="wordlist">
+        {% for p in site.articles %}
+          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+  </article>
+</main>
