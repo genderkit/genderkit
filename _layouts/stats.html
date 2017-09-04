@@ -6,6 +6,6 @@ layout: misc
 <p>
 Gender Construction Kit currently contains articles on 
 {{ site.data.articles | size }} subjects, and indexes
-<a href="{{ site.baseurl }}/organisations.html">{{ site.data.organisations.organisations | size }} UK organisations</a> and <a href="{{ site.baseurl }}/publications.html">{{ site.data.publications.publications | size }} UK publications</a>.
+<a href="{{ site.baseurl }}/organisations.html">{{ site.data.organisations.organisations | where_exp:"item", "item.archived != true" | size }} UK organisations</a> and <a href="{{ site.baseurl }}/publications.html">{{ site.data.publications.publications | size }} UK publications</a>.
 </p>
 </div>
