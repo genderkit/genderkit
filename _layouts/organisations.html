@@ -2,22 +2,22 @@
 layout: page
 ---
 <script>
-function toggle(event)
+function toggle(target)
 {
-  var isOpen = $(event.currentTarget).attr('aria-expanded') == 'true' ? true : false;
+  var isOpen = $(target).attr('aria-expanded') == 'true' ? true : false;
 
   $('#categorylist').toggleClass("hidden");
   if (isOpen)
   {
-    $(event.currentTarget).find('span').html("&#9654;&#65038;&nbsp;");
+    $(target).find('span').html("&#9654;&#65038;&nbsp;");
     $('#categorylist').attr('aria-hidden',"true");
-    $(event.currentTarget).attr('aria-expanded', 'false');
+    $(target).attr('aria-expanded', 'false');
   }
   else
   {
-    $(event.currentTarget).find('span').html("&#9660;&#65038;&nbsp;");
+    $(target).find('span').html("&#9660;&#65038;&nbsp;");
     $('#categorylist').attr('aria-hidden',"false");
-    $(event.currentTarget).attr('aria-expanded', 'true');
+    $(target).attr('aria-expanded', 'true');
   }
   return true;
 }
@@ -41,11 +41,19 @@ function filterlist()
 
   return true;
 }
+
+function sense() {
+  if ($(window).width > 620)
+  {
+    toggle($("#accordionButton").get(0));
+  }
+}
+
 </script>
-<main role="main">
+<main role="main" onload="sense()">
   <nav>
     <h3>
-      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event);"><span aria-hidden="true">&#9654;&#65038;&nbsp;</span>Filters</a>
+      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event.currentTarget);"><span aria-hidden="true">&#9654;&#65038;&nbsp;</span>Filters</a>
     </h3>
     <ul id="categorylist" role="region" aria-labelledby="accordionButton" aria-hidden="true" class="hidden">
       {% for item in site.data.organisations.tags %}
@@ -64,13 +72,13 @@ function filterlist()
     </section>
     <section>
       <ul class="details">
-      {% assign sortedOrganisations = site.data.organisations.organisations | sort: 'name' %}
+      {% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.archived != true" | sort: 'name' %}
       {% for item in sortedOrganisations %}
-      {% assign cssclasses = "" %}
-      {% for category in item.tags %}
-            {% assign cssclass = "category " | append: category | slugify %}
-            {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-          {% endfor %}
+        {% assign cssclasses = "" %}
+        {% for category in item.tags %}
+          {% assign cssclass = "category " | append: category | slugify %}
+          {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
+        {% endfor %}
         <li class="{{ cssclasses }}">
           {% assign url = "" %}
           {% if item.url %}
