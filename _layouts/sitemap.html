@@ -1,4 +1,4 @@
-{% link identities.md | absolute_url %}
+{% link 'identities.md' | absolute_url %}
 {% for p in site.data.cards.indexes %}{{ p.url | absolute_url }}
 {% endfor %}{% for category in site.data.categories %}{% assign categoryslug = category.name | slugify %}{{ '/category/' | append: categoryslug | absolute_url }}
 {% endfor %}{% for p in site.explore %}{{ p.url | absolute_url}}
