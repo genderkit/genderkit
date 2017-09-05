@@ -1,0 +1,12 @@
+{% for p in site.data.cards.indexes %}
+{{ p.url }}
+{% endfor %}
+{% for p in site.explore %}
+{{ p.url }}
+{% endfor %}
+{% for identity in site.identities %}
+{{ identity.url | relative_url }}
+{% endfor %}
+{% for p in site.articles %}
+{{ site.baseurl }}{{ p.url }}
+{% endfor %}
