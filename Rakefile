@@ -40,6 +40,7 @@ task :spellcheck => :jekyll do
   files = FileList['_site/**/*.html']
   files.exclude("_site/organisations.html")
   files.exclude("_site/publications.html")
+  files.exclude("_site/sitemap.html")
   files.exclude("_site/tools/*")
   files.exclude("_site/explore/names-*/*.html")
   files.each do |file|
