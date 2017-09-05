@@ -13,4 +13,6 @@ Trans is used as an adjective, as in:
 
 Some people have adopted the term "[trans*]({{ site.baseurl }}{% link _identities/trans-asterisk.md %})" instead. It is normally simpler and less confusing to use the word without an asterisk.
 
+There is no requirement to have hormone treatment or gender related surgeries to call yourself trans.
+
 Terms with similar meanings are [trans*]({{ site.baseurl }}{% link _identities/trans-asterisk.md %}) and [transgender]({{ site.baseurl }}{% link _identities/transgender.md %}).
