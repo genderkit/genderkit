@@ -1,5 +1,5 @@
 ---
-layout: sitemap
+layout: error
 title: Page not found
 ---
 
