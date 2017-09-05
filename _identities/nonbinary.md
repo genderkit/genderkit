@@ -12,3 +12,11 @@ Nonbinary is an umbrella term covering any gender identity that doesn't fit with
 Nonbinary is sometimes abbreviated to "NB" or [enby]({{ site.baseurl }}{% link _identities/enby.md %}).
 
 A term with a similar meaning is [genderqueer]({{ site.baseurl }}{% link _identities/genderqueer.md %}).
+
+### Nonbinary people and transgender people
+
+Many nonbinary people consider themselves to be [transgender]({{ site.baseurl }}{% link _identities/transgender.md %}), but some do not.
+
+You should only describe nonbinary people as transgender if they have called themselves transgender.
+
+To include nonbinary people who are not transgender, many organisations use the language "transgender and nonbinary people".
