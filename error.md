@@ -1,6 +1,7 @@
 ---
 layout: error
 title: Page not found
+sitemap: false
 ---
 
 ### Oops!

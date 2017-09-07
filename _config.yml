@@ -11,9 +11,9 @@ github_username:  genderkit
 # Build settings
 markdown: kramdown
 gems:
-  - jekyll-feed
   - 'jekyll/scholar'
   - jekyll-last-modified-at
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,6 +23,10 @@ exclude:
   - .travis.yml
   - Rakefile
   - logs
+  - LICENSE
+  - CONTRIBUTING.md
+  - README.md
+  - whitelist
 
 collections:
   articles:
@@ -69,3 +73,6 @@ scholar:
   bibliography_template: "{{reference}}"
   bibtex_filters: 
     - latex
+
+plugins:
+  - jekyll-sitemap
