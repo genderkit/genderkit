@@ -1,6 +1,9 @@
 ---
 title: GnRH agonists
 weighting: 4
+feature:
+  image: /assets/images/articles/triptorelin.jpg
+  caption: "A diagram of the chemical structure of triptorelin"
 ---
 
 {% capture warn %}
