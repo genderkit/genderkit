@@ -41,6 +41,10 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      noindex: true
+  - scope:
+      path: ""
       type: articles
     values:
       layout: article
@@ -73,6 +77,3 @@ scholar:
   bibliography_template: "{{reference}}"
   bibtex_filters: 
     - latex
-
-plugins:
-  - jekyll-sitemap

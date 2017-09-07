@@ -3,6 +3,10 @@
 <meta name="google-site-verification" content="qetg5bHJT_x0mnOmiCB6dKCY5LcPG-7PLGjarWaYfmc" />
 <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+{% if page.noindex %}
+<meta name="robots" content="noindex">
+{% endif %}
+
 {% assign description = site.description %}
 {% if page.collection == 'articles' %}
 	{% assign slug = page.title | slugify %}

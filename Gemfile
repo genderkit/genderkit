@@ -19,7 +19,6 @@ gem "rake"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
    gem "jekyll-scholar", "~> 5.9.1"
    gem "jekyll-last-modified-at", "~> 1.0.0"
    gem "jekyll-sitemap"

@@ -48,8 +48,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.9.2)
-      jekyll (~> 3.3)
     jekyll-last-modified-at (1.0.1)
       jekyll (~> 3.3)
       posix-spawn (~> 0.3.9)
@@ -108,7 +106,6 @@ DEPENDENCIES
   citeproc-ruby (= 1.1.7)
   html-proofer
   jekyll (= 3.4.3)
-  jekyll-feed (~> 0.6)
   jekyll-last-modified-at (~> 1.0.0)
   jekyll-scholar (~> 5.9.1)
   jekyll-sitemap

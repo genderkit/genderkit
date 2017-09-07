@@ -73,6 +73,3 @@ scholar:
   bibliography_template: "{{reference}}"
   bibtex_filters: 
     - latex
-
-plugins:
-  - jekyll-sitemap
