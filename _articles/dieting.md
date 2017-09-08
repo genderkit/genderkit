@@ -1,6 +1,9 @@
 ---
 title: Dieting
 weighting: 2
+feature:
+  image: /assets/images/articles/dieting.jpg
+  caption: "A falafel salad"
 ---
 
 You may be interested in losing body fat to reduce chest, hip or buttock size, to make muscles more defined, or to prepare for medical procedures. A number of UK surgeons who perform gender related surgeries require people to have a body mass index (BMI) below a certain threshold before they will operate. 
