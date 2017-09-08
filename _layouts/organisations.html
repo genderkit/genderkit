@@ -42,15 +42,15 @@ function filterlist()
   return true;
 }
 
-function sense() {
-  if ($(window).width > 620)
+document.body.onload = function() {
+  if ($(window).width() > 620)
   {
     toggle($("#accordionButton").get(0));
   }
-}
+};
 
 </script>
-<main role="main" onload="sense()">
+<main role="main">
   <nav>
     <h3>
       <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event.currentTarget);"><span aria-hidden="true">&#9654;&#65038;&nbsp;</span>Filters</a>

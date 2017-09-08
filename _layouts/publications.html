@@ -44,6 +44,14 @@ function filterlist()
 
   return true;
 }
+
+document.body.onload = function() {
+  if ($(window).width() > 620)
+  {
+    toggle($("#accordionButton").get(0));
+  }
+};
+
 </script>
 <main>
   <nav>
