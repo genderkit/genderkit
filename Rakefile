@@ -11,6 +11,18 @@ task :jekyll do
   #puts "Skipping build"
 end
 
+desc "Test using proselint"
+task :proselint => :jekyll do
+  files = FileList['_articles/*.md']
+  files.each do |file|
+    results = `proselint #{file}`
+    if (results.length > 0)
+      puts "In #{file}:"
+      puts "#{results}"
+    end
+  end
+end
+
 desc "Test the built html"
 task :htmlproofer => :jekyll do
   options = {
