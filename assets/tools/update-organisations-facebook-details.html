@@ -1,0 +1,166 @@
+---
+sitemap: false
+---
+<html>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/yamljs/0.2.8/yaml.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>
+
+// This page updates the organisations.yaml file with information from Facebook.
+// TODO: deal with organisations who have deleted their Facebook presence.
+
+var database = {};
+var responses = 0;
+
+function dumpData()
+{
+  $('#output').html(YAML.stringify(database, 3));
+}
+
+function updateDataFromFB(response)
+{
+  responses++;
+  console.log("Processing response " + responses);
+
+  var target = null;
+  if (response.id)
+  {
+    for (var j = 0; j < database.organisations.length; j++)
+    {
+      if (database.organisations[j].facebookId && response.id == database.organisations[j].facebookId)
+      {
+        // We found the facebook page/community by ID
+        target = database.organisations[j];
+      }
+    }
+
+    if (!target)
+    {
+      if (response.username)
+      {
+        for (var j = 0; j < database.organisations.length; j++)
+        {
+          if (database.organisations[j].facebook)
+          {
+            if (response.username.toUpperCase() == ("" + database.organisations[j].facebook).toUpperCase())
+            {
+              // We found the facebook group by username
+              target = database.organisations[j];
+            }
+          }
+        }     
+      }
+    }
+
+    if (target)
+    {
+      target.facebookId = response.id;
+
+      if (response.username)
+      {
+        // Update the username - useful if orgs rename themselves
+        target.facebook = response.username;
+      }
+
+      if (response.posts && response.posts.data && response.posts.data.length > 0)
+      {
+        target.lastFacebookPost = response.posts.data[0].created_time;
+        if (response.picture && response.picture.data && response.picture.data.url)
+        {
+          target.facebookIcon = response.picture.data.url;
+        }
+        if (response.about)
+        {
+          target.facebookDescription = response.about;
+        }
+      }
+
+      if (response.updated_time)
+      {
+        target.lastFacebookPost = response.updated_time;
+      }
+    } 
+  }
+
+  if (responses == database.organisations.length)
+  {
+    dumpData();
+  }
+}
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '745155608993451',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+
+    FB.login(function()
+    {
+      
+      $.get("./organisations.yaml", function (data) {
+        console.log(data);
+        database = YAML.parse(data);
+
+        console.log("Got " + database.organisations.length + " orgs.");
+        for (var i = 0; i < database.organisations.length; i++)
+        {
+          if (database.organisations[i].facebookId)
+          {
+            if (database.organisations[i].facebook)
+            {
+              // Facebook page or community - has a human readable username
+              console.log("Getting by ID: " + database.organisations[i].facebookId);
+              FB.api('/' + database.organisations[i].facebookId, {fields: 'id,username,posts{created_time},about'}, function (response) 
+                {
+                    updateDataFromFB(response);
+                }
+              );
+            }
+            else
+            {
+              // Facebook group - has no human readable username
+              console.log("Getting by ID: " + database.organisations[i].facebookId);
+              FB.api('/' + database.organisations[i].facebookId, {fields: 'id,name,owner,link,updated_time'}, function (response) 
+                {
+                  updateDataFromFB(response);
+                }
+              );
+            }
+          }
+          else if (database.organisations[i].facebook)
+          {
+            // We have a user-readable facebook username but no unique ID yet
+            console.log("Getting by name: " + database.organisations[i].facebook);
+            FB.api('/' + database.organisations[i].facebook, {fields: 'id,username,posts{created_time},about'}, function (response) 
+                {
+                    updateDataFromFB(response);
+                }
+              );
+          }
+          else
+          {
+            // No facebook information associated with this account
+            responses++;
+          }
+        }
+      });
+    }, {scope: ''});
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+</head>
+<body>
+<pre id="output">
+</pre>
+</body>
+</html>
