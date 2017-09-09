@@ -28,6 +28,7 @@ exclude:
   - README.md
   - whitelist
   - "data/*"
+  - "vagrant/*"
 
 collections:
   articles:
