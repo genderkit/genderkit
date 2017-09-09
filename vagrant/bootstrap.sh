@@ -5,6 +5,7 @@ ln -s /usr/bin/nodejs /usr/bin/node
 sudo apt-add-repository -y ppa:rael-gc/rvm
 sudo apt-get update
 sudo apt-get install rvm
+rvm install 2.4.1
 
 gem install jekyll bundler
 
