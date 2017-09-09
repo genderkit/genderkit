@@ -873,6 +873,7 @@ organisations:
         twitterDescription: 'Trans support community and information forum. We have a bright, friendly community. Come and join us, take part, meet new friends and support other people! ♥'
         lastTwitterPost: 'Sun Aug 16 17:32:48 +0000 2015'
         twitterID: '136337638'
+        archived: true # website down, no twitter activity
     -
         name: 'Transworkers UK'
         url: 'http://transiness.co.uk'
@@ -1632,7 +1633,6 @@ organisations:
     -
         name: 'OII UK'
         url: 'http://oiiuk.org'
-        facebook: 192055110954562
         tags: [National, Intersex]
         manualDescription: 'Organisation Intersex International in the United Kingdom'
     -
