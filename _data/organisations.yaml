@@ -70,7 +70,7 @@ organisations:
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
     -
         name: 'Northern Region Gender Dysphoria Service'
-        url: 'https://www.ntw.nhs.uk/sd.php?l=2&d=9&sm=15&id=240'
+        url: 'https://www.ntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/'
         tags: ['NHS Gender Services', 'North East']
         manualDescription: 'NHS gender service located in Newcastle-upon-Tyne'
     -
@@ -154,7 +154,7 @@ organisations:
     -
         name: Barberette
         url: 'http://www.barberette.co.uk/'
-        twitter: BarberetteKlara
+        twitter: barberette_orig
         facebook: thebarberette
         tags: [London, Companies]
         twitterDescription: 'Gender neutral barbershop est. 2012 Appointments ONLY via the website. Our prices are based on the cut you have, not your gender. (cuts,shaves,beards,colouring)'
@@ -215,6 +215,7 @@ organisations:
         twitterDescription: 'British charity supporting people affected by gender identity issues.'
         lastTwitterPost: 'Tue Dec 27 16:49:32 +0000 2011'
         twitterID: '78589915'
+        archived: true # Website down, no recent blog posts, no recent Twitter
     -
         name: 'Action For Trans Health'
         url: 'http://actionfortranshealth.org.uk/'
@@ -289,7 +290,7 @@ organisations:
         twitterID: '2785707557'
     -
         name: 'Press For Change'
-        url: 'http://pfc.org.uk'
+        url: 'http://www.pfc.org.uk'
         twitter: PFCUKNews
         facebook: PFC.org.uk
         tags: [National]
@@ -582,6 +583,7 @@ organisations:
         lastTwitterPost: 'Tue Apr 11 17:40:53 +0000 2017'
         facebookId: '497818340370284'
         twitterID: '3200857408'
+        archived: true # Appears dead but needs checking
     -
         name: 'Trans*form Cymru'
         url: 'http://youthcymru.org.uk/transform-cymru'
@@ -853,7 +855,7 @@ organisations:
         twitterID: '802627363'
     -
         name: 'trans*formation'
-        url: 'http://www.transformationuk.com/'
+        url: 'https://www.transformationuk.com/'
         tags: [National]
         twitter: TFormUK
         facebook: transformationadvocacygroup
@@ -899,6 +901,7 @@ organisations:
         lastFacebookPost: '2015-06-29T13:25:27+0000'
         facebookDescription: 'A Brighton trans* youth project for 16-25''s.'
         facebookId: '552944758089583'
+        archived: true # No facebook posts since 2015 and website 404s
     -
         name: 'Navigate Brighton'
         url: 'https://navigatebrighton.wordpress.com/'
@@ -980,7 +983,6 @@ organisations:
         twitterID: '759038022016831489'
     -
         name: TransparenTsees
-        url: 'http://www.transgenderscotland.org/html/transparentsees.html'
         twitter: Transparentsee2
         tags: [Scotland]
         twitterDescription: 'Support group for families of trans children/people'
@@ -1128,7 +1130,7 @@ organisations:
         twitterID: '1395670242'
     -
         name: 'Trans Youth Hull'
-        url: 'http://www.transyouthhull.com/'
+        url: 'https://www.theproudtrust.org/youth-groups/trans-youth-hull/'
         facebook: transyouthhull
         tags: [Yorkshire]
         lastFacebookPost: '2017-09-02T21:28:01+0000'
@@ -1190,7 +1192,6 @@ organisations:
         facebookId: '1420551711523597'
     -
         name: Connect
-        url: 'http://cygnet2swans.org.uk/'
         facebook: ConnectMCR
         tags: ['North West', Manchester]
         lastFacebookPost: '2017-09-07T14:47:57+0000'
@@ -1278,6 +1279,7 @@ organisations:
         lastTwitterPost: 'Wed Dec 07 21:51:24 +0000 2016'
         facebookId: '381360138583539'
         twitterID: '323285491'
+        archived: true # Closed down in late 2016
     -
         name: 'Transcend SOFFA'
         twitter: soffa_derby
@@ -1439,6 +1441,7 @@ organisations:
         twitterDescription: 'Bi-weekly drop-in cafe in #Manchester for those new to the #trans* community. Tweets managed by Leanne'
         lastTwitterPost: 'Fri Nov 13 08:53:20 +0000 2015'
         twitterID: '2210471954'
+        archived: true # website down, no recent twitter activity
     -
         name: 'Swansea Sparkle'
         tags: [Wales]
@@ -1522,7 +1525,6 @@ organisations:
         tags: [Companies]
         twitter: NGenderNProblem
         facebook: nogendernoproblem
-        url: 'http://www.nogendernoproblem.com'
         twitterID: '3136167872'
         twitterDescription: 'We are conversation starters with a passion for gender and its complexity. Celebrating the non binary and multiplicity of identity.'
         lastTwitterPost: 'Fri Sep 01 05:46:39 +0000 2017'
