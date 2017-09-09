@@ -27,6 +27,7 @@ exclude:
   - CONTRIBUTING.md
   - README.md
   - whitelist
+  - "data/*"
 
 collections:
   articles:
