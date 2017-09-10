@@ -4,10 +4,10 @@ title: "Genetic"
 
 Several terms refer to genetics:
 
-- **genetic** (e.g. genetic woman, genetic girl or genetic man) is used describe people who have the karyotype that is most common for that identity. Karoytype is a genetics term, meaning which chromosomes a person has.
+- **genetic** (e.g. genetic woman, genetic girl or genetic man) is used describe people who have the karyotype that is most common for that identity. [Karyotype](https://en.wikipedia.org/wiki/Karyotype) is a genetics term, meaning which chromosomes a person has.
 - **GG** is sometimes used as an abbreviation of "genetic girl", particularly by older people
 - **genetically** female or genetically male are terms that are sometimes used
-- **XX** and **XY** refer to the specific karoytypes that are most commonly found in women and men respectively
+- **XX** and **XY** refer to the specific karyotypes that are most commonly found in women and men respectively
 
 In almost all cases where these terms could be used, it is better to use "[cisgender]({{ site.baseurl }}{% link _identities/cisgender.md %})" instead, which has far fewer problems associated with it.
 
