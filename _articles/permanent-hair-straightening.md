@@ -1,6 +1,9 @@
 ---
 title: Permanent hair straightening
 weighting: 2
+feature:
+  image: /assets/images/articles/relaxer.jpg
+  caption: "A box of permanent hair straightening prodcut"
 ---
 
 {% capture warn %}
