@@ -5,12 +5,14 @@
   <script>
     function showVideo()
     {
-      $('header').html("<div class='videoEmbedWrapper'><iframe width='560' height='315' src='https://www.youtube.com/embed/KGLEsDvb578?autoplay=1&rel=0&showinfo=0' frameborder='0' allowfullscreen></iframe></div>").css("display", "block");
+      var header = document.getElementById('header');
+      header.innerHTML = "<div class='videoEmbedWrapper'><iframe width='560' height='315' src='https://www.youtube.com/embed/KGLEsDvb578?autoplay=1&rel=0&showinfo=0' frameborder='0' allowfullscreen></iframe></div>";
+      header.style.display = "block";
     }
   </script>
 </head>
 <body class="homescreen">
-  <header role="banner">    
+  <header role="banner" id="header">    
     <h1>
       <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo.png" />
     </h1>
@@ -31,6 +33,5 @@
     <p><em>Follow us</em> on <a href="http://www.facebook.com/{{ site.facebook_username }}">Facebook</a>, <a href="http://www.twitter.com/{{ site.twitter_username }}">Twitter</a>, <a href="https://www.instagram.com/genderkit/">Instagram</a>, and <a href="https://genderkit.tumblr.com/">Tumblr</a>.
     </p>
   </footer>
-  <script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js"></script>
 </body>
 </html>
