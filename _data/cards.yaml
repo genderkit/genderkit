@@ -9,7 +9,7 @@ explore:
     url: '/explore/titles'
     name: Titles
   -
-    url: '/identities'
+    url: '/identities.html'
     name: Identities
 
 indexes:
