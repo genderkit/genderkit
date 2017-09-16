@@ -1,0 +1,146 @@
+---
+---
+
+// Responsive page size changing
+@media screen and (min-width: 620px)
+  body
+    max-width 40rem
+    margin 0 auto
+  .homescreen header h2
+    width 18rem
+@media screen and (min-width: 920px)
+  body
+    max-width 54rem
+  .homescreen header h2
+    width 32rem
+  .cards li
+    width 25%
+
+// Change page look based on width
+@media screen and (min-width: 620px)
+  h1
+    background-color rgba(0,0,0,0.5)
+    width 12rem
+    height 9rem
+    justify-content flex-end
+  header
+    display flex
+    margin-bottom 2rem
+  h2
+    background none
+    display flex
+    align-items flex-end
+    padding-bottom .25rem
+    margin-left 2rem
+    border-style none none none solid
+    border-image linear-gradient(to bottom,rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%) 10
+    border-left 4px solid white
+    border-width 0 0 0 4px
+    justify-content flex-start
+    flex-grow 1
+    padding-left 1rem
+    font-size 2rem
+    font-weight 300
+  .homescreen header h1 img
+    width 20rem
+    height 10rem
+    margin-top 4rem
+    margin-bottom -0.5rem
+  .homescreen h2
+    color white
+    border none
+    font-size 1.5rem
+    margin-left 0
+    padding 0 0 1rem 1rem
+  .homescreen .button
+    margin-left auto
+    margin-top -5rem
+  main
+    flex-direction row
+  figure
+    margin 0
+    img
+      width 12rem
+      height 9rem
+  aside, nav
+    background none
+    margin-right 2rem
+    min-width $column
+    max-width $column
+    padding 0
+  article
+    padding 0
+  section, footer
+    padding 0
+    margin 1rem 0 0 0
+  footer
+    padding 1rem
+  section:first-child
+    margin-top 0
+  .articles
+    flex-direction row
+    flex-wrap wrap
+    justify-content space-between
+    margin-top 2rem
+    img
+      display block
+    li
+      width $column
+      min-height 15rem
+      img
+        width $column
+        height 9rem
+        margin-bottom 1rem
+  .cards
+    flex-direction row
+    li
+      flex-grow 1
+      height 4rem
+      margin 0 .25rem 0 0 
+    li:last-child
+      margin 0
+  #effectslist
+    border-top 2px solid #eeeef4
+    border-bottom 2px solid #eeeef4
+    padding-top 2rem
+    flex-direction row
+    flex-wrap wrap
+    justify-content space-between
+    text-align center
+    li
+      padding-left 1rem
+      padding-right 1rem
+      flex-direction column
+      width 10rem
+      margin-bottom 2rem
+    li:last-child
+      margin-bottom 2rem
+    i
+      font-size 3rem
+      margin 0 auto 1rem auto
+  #effectslist:after // Hack to push the last few items over to the left
+    content ""
+    flex auto
+    max-width 26rem
+    min-width 26rem
+  .greybox
+    border-style none none none solid
+    border-image linear-gradient(to bottom, #6600ff 0%, rgba(80,0,255,0.2) 100%) 10
+    border-left 4px solid #fff
+    border-width 0 0 0 4px
+    min-height 7rem
+  .wordcloud
+    margin-left -.5rem
+    margin-right -.5rem
+  .gridcontainer
+    display flex
+    flex-direction row
+    flex-wrap wrap
+    justify-content space-between
+  .wordlist
+    margin 0
+  .wordlist li
+    width 11rem
+    min-height 2rem
+    border-left 4px solid #ccaaff
+    margin-right .5rem
