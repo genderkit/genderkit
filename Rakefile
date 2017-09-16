@@ -13,7 +13,7 @@ end
 
 desc "Test using proselint"
 task :proselint => :jekyll do
-  files = FileList['_articles/*.md']
+  files = FileList['_articles/*.md', '_identities/*.md']
   files.each do |file|
     results = `proselint #{file}`
     if (results.length > 0)
@@ -50,9 +50,8 @@ desc "Spellcheck using Aspell"
 task :spellcheck => :jekyll do
   errors = 0
   files = FileList['_site/**/*.html']
-  files.exclude("_site/organisations.html")
-  files.exclude("_site/publications.html")
-  files.exclude("_site/sitemap.html")
+  files.exclude("_site/organisations/*.html")
+  files.exclude("_site/publications/*.html")
   files.exclude("_site/tools/*")
   files.exclude("_site/explore/names-*/*.html")
   files.each do |file|
