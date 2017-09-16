@@ -8,6 +8,8 @@ twitter_username: genderkit
 facebook_username: genderkit
 github_username:  genderkit
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 gems:

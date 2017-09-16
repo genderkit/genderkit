@@ -9,16 +9,16 @@ explore:
     url: '/explore/titles'
     name: Titles
   -
-    url: '/identities.html'
+    url: '/identities'
     name: Identities
 
 indexes:
   -
-    url: '/help.html'
+    url: '/help'
     name: Helplines
   -
-    url: '/organisations.html'
+    url: '/organisations'
     name: Organisations
   -
-    url: '/publications.html'
+    url: '/publications'
     name: Publications
