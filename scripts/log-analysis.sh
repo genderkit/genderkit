@@ -13,7 +13,7 @@ echo "Downloading request log files..."
 aws s3 sync s3://genderkit/logs ./logs/logfiles/
 
 echo "Concatenating logs..."
-cat ./logs/logfiles/* > ./logs/concatenated.txt
+cat ./logs/logfiles/* | grep -v -e Pingdom -e Googlebot -e "S3Console/0.4" -e "REST.HEAD.OBJECT" -e "REST.GET.OBJECT" -e "REST.PUT.OBJECT" -e "BATCH.DELETE.OBJECT" > ./logs/concatenated.txt
 
 echo "Generating report..."
 request-log-analyzer --no-progress --format amazon_s3 ./logs/concatenated.txt --output html --file ./logs/log-analysis.html
