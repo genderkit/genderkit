@@ -18,6 +18,39 @@ $bold-weight = 600
 // Icon font
 @import "assets/css/glyphter-font/css/genderkit-icons"
 
+// Main body font
+@font-face {
+  font-family: 'overpass';
+  src: url('{{ site.baseurl }}/assets/fonts/overpass-light.eot');
+  src: url('{{ site.baseurl }}/assets/fonts/overpass-light.eot?#iefix') format('embedded-opentype'),
+       url('{{ site.baseurl }}/assets/fonts/overpass-light.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/overpass-light.woff') format('woff'),
+       url('{{ site.baseurl }}/assets/fonts/overpass-light.ttf')  format('truetype');
+       font-weight: 400;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url('{{ site.baseurl }}/assets/fonts/overpass-semibold.eot');
+  src: url('{{ site.baseurl }}/assets/fonts/overpass-semibold.eot?#iefix') format('embedded-opentype'),
+       url('{{ site.baseurl }}/assets/fonts/overpass-semibold.woff2') format('woff2'),
+       url('{{ site.baseurl }}/assets/fonts/overpass-semibold.woff') format('woff'),
+       url('{{ site.baseurl }}/assets/fonts/overpass-semibold.ttf')  format('truetype');
+       font-weight: 600;
+       font-style: normal;
+}
+
+// Symbol font
+@font-face
+    font-family 'genderkit icons'
+    src url('{{ site.baseurl }}/assets/css/glyphter-font/fonts/genderkit-icons.eot')
+    src url('{{ site.baseurl }}/assets/css/glyphter-font/fonts/genderkit-icons.eot?#iefix') format('embedded-opentype'),
+         url('{{ site.baseurl }}/assets/css/glyphter-font/fonts/genderkit-icons.woff') format('woff'),
+         url('{{ site.baseurl }}/assets/css/glyphter-font/fonts/genderkit-icons.ttf') format('truetype'),
+         url('{{ site.baseurl }}/assets/css/glyphter-font/fonts/genderkit-icons.svg#genderkit-icons') format('svg')
+    font-weight normal
+    font-style normal
+
 // Use bold rather than italics
 em
   font-style normal
@@ -328,3 +361,5 @@ a > span > span // Make citations appear correctly
   font-size 0.75rem
 a > span // Make citations appear correctly
   line-height 0
+  
+@import "assets/css/desktop"

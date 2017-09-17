@@ -8,6 +8,10 @@ end
 desc "Build the site using Jekyll"
 task :jekyll do
   sh "bundle exec jekyll build"
+  files = FileList['_site/**/*.html']
+  files.each do |file|
+    sh "./scripts/inline-css.sh #{file}"
+  end
   #puts "Skipping build"
 end
 
@@ -41,7 +45,7 @@ task :htmlproofer => :jekyll do
 end
 
 def run_spellcheck(file)
-  cmd = "cat #{file} | aspell -p './whitelist' -H -d en_GB --encoding utf-8 --lset-html-skip ol:script list | cat"
+  cmd = "cat #{file} | aspell -p './whitelist' -H -d en_GB --encoding utf-8 --lset-html-skip ol:script:style list | cat"
   result = `#{cmd}`
   result
 end
