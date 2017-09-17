@@ -13,6 +13,6 @@ Thankfully, with better acceptance of [transgender]({{ site.baseurl }}{% link _i
 
 A "stealth" identity may affect your mental health. Medical studies have suggested that being able to disclose your transgender identity to others can be a protective factor associated with fewer mental health problems {% cite arcelus2017 -l 181 %}.
 
-For other people, being "stealth" may be a practical necessity. You may wish to discuss your concerns and options in [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) sessions with a counsellor or a transgender health specialist to help might the right decision.
+For other people, being "stealth" may be a practical necessity. You may wish to discuss your concerns and options in [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) sessions with a counsellor or a transgender health specialist to help make the right decision for you.
 
 {% bibliography --cited %}
