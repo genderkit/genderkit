@@ -10,15 +10,6 @@ task :jekyll do
   sh "bundle exec jekyll build"
 end
 
-desc "Inline css"
-task :inlinecss do
-  files = FileList['_site/**/*.html']
-  files.each do |file|
-    sh "./scripts/inline-css.sh #{file}"
-  end
-  #puts "Skipping build"
-end
-
 desc "Test using proselint"
 task :proselint => :jekyll do
   files = FileList['_articles/*.md', '_identities/*.md']
@@ -49,7 +40,7 @@ task :htmlproofer => :jekyll do
 end
 
 def run_spellcheck(file)
-  cmd = "cat #{file} | aspell -p './whitelist' -H -d en_GB --encoding utf-8 --lset-html-skip ol:script:style list | cat"
+  cmd = "cat #{file} | aspell -p './whitelist' -H -d en_GB --encoding utf-8 --lset-html-skip ol:script list | cat"
   result = `#{cmd}`
   result
 end
