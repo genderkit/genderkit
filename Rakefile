@@ -8,6 +8,10 @@ end
 desc "Build the site using Jekyll"
 task :jekyll do
   sh "bundle exec jekyll build"
+end
+
+desc "Inline css"
+task :inlinecss do
   files = FileList['_site/**/*.html']
   files.each do |file|
     sh "./scripts/inline-css.sh #{file}"
