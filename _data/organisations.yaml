@@ -188,6 +188,11 @@ organisations:
         facebookId: '1589028318004994'
         twitterID: '3166884509'
     -
+        name: 'Gender Transitions (Sara Thomas)'
+        url: 'http://http://www.gendertransitions.co.uk/'
+        tags: [Companies, London]
+        manualDescription: 'Specialist in electrolysis hair removal including pre-surgery electrolysis'
+    -
         name: 'This Is Me'
         url: 'http://www.thisismelgbt.com'
         facebook: thisisme.ofcl
