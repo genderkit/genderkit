@@ -7,6 +7,7 @@ tags:
     - Intersex
     - Drag
     - Companies
+    - Surgery
     - Families
     - 'Sport and Fitness'
     - National
@@ -1781,3 +1782,28 @@ organisations:
         twitterDescription: "Manchester branch of @act4transhealth \nhttps://t.co/z7w2uPxBBa"
         lastTwitterPost: 'Thu Sep 07 09:20:39 +0000 2017'
         tags: [Manchester, North West]
+    -
+        name: 'Transurgery (Mr Yelland)'
+        url: 'http://transurgery.com/'
+        tags: ['Surgery', 'National']
+        manualDescription: 'Surgical clinic specialising in chest surgery'
+    -
+        name: 'St Peters Andrology Centre London (Mr Ralph, Mr Christopher)'
+        url: 'https://www.andrology.co.uk/'
+        tags: ['Surgery', 'National']
+        manualDescription: 'Surgical clinic performing phalloplasty and metoidioplasty'
+    -
+        name: 'GenderXchange (Mr Bellringer)'
+        url: 'http://genderxchange.com/'
+        tags: ['Surgery', 'London']
+        manualDescription: 'Surgical clinic specialising in vaginoplasty and labiaplasty'
+    -
+        name: 'Gender Reassignment UK (Mr Thomas)'
+        url: 'http://www.genderreassignmentuk.com/'
+        tags: ['Surgery', 'Brighton', 'South East']
+        manualDescription: 'Surgical clinic specialising in vaginoplasty and labiaplasty'
+    -
+        name: 'Simply Better Transgender (Mr Davies)'
+        url: 'hhttp://www.simplybettertransgender.co.uk/'
+        tags: ['Surgery', 'London']
+        manualDescription: 'Surgical clinic specialising in gender surgeries'
