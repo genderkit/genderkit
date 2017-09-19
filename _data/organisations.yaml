@@ -703,6 +703,7 @@ organisations:
         twitterDescription: 'Supporting trans people; advancing trans equality'
         lastTwitterPost: 'Sat Aug 22 12:13:20 +0000 2015'
         twitterID: '142271659'
+        archived: true # Website down, closure announced on Twitter 
     -
         name: 'Beaumont Trust'
         url: 'http://www.beaumont-trust.org.uk'
@@ -794,6 +795,7 @@ organisations:
         twitterDescription: 'Working for transgender people in end-of-life care'
         lastTwitterPost: 'Sun Aug 16 20:32:47 +0000 2015'
         twitterID: '1539650618'
+        archived: true # website down, no twitter activity since 2015
     -
         name: 'FTM UK'
         url: 'http://www.ftmuk.net'
@@ -1577,6 +1579,7 @@ organisations:
         twitterID: '708995089'
         twitterDescription: 'Products|Workshops. Promoting confidence, removing the stigma of gender non-conformity, motivating others to be your own you, regardless of gender or sexuality.'
         lastTwitterPost: 'Sun Aug 09 21:11:51 +0000 2015'
+        archived: true # website down, no recent twitter updates
     -
         name: 'Spectrum Outfitters'
         url: 'http://www.spectrumoutfitters.co.uk/'
