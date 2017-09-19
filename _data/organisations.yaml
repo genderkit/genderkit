@@ -98,7 +98,7 @@ organisations:
         name: 'Transhealth (Dr. Curtis)'
         url: 'http://transhealth.co.uk/'
         tags: ['Private Gender Services', National]
-        manualDescription: 'Private gender service located in Marylebone, London'
+        manualDescription: 'Private gender service located in Marylebone, London. Closing at end of 2017.'
     -
         name: 'GenderGP (Dr. Webberley)'
         url: 'https://gendergp.co.uk/'
@@ -1783,18 +1783,28 @@ organisations:
         lastTwitterPost: 'Thu Sep 07 09:20:39 +0000 2017'
         tags: [Manchester, North West]
     -
+        name: 'Imperial College Healthcare NHS Trust Gender Surgery Service'
+        url: 'https://www.imperial.nhs.uk/our-services/surgery/gender-surgery'
+        tags: ['NHS Gender Services','Surgery', 'National']
+        manualDescription: 'NHS surgical clinic specialising in vaginoplasty and labiaplasty'
+    -
+        name: 'Manchester Chest Wall Contouring Clinic'
+        url: 'http://www.pat.nhs.uk/our-services/general-surgery-gender.htm'
+        tags: ['NHS Gender Services','Surgery', 'Manchester']
+        manualDescription: 'NHS surgical clinic specialising in chest surgery'
+    -
         name: 'Transurgery (Mr Yelland)'
         url: 'http://transurgery.com/'
         tags: ['Surgery', 'National']
         manualDescription: 'Surgical clinic specialising in chest surgery'
     -
-        name: 'St Peters Andrology Centre London (Mr Ralph, Mr Christopher)'
+        name: 'St Peters Andrology Centre London (Mr Christopher, Mr Ralph)'
         url: 'https://www.andrology.co.uk/'
         tags: ['Surgery', 'National']
         manualDescription: 'Surgical clinic performing phalloplasty and metoidioplasty'
     -
-        name: 'GenderXchange (Mr Bellringer)'
-        url: 'http://genderxchange.com/'
+        name: 'Parkside Hospital Gender Clinic (Mr Bellringer, Miss Rashid)'
+        url: 'https://www.parkside-hospital.co.uk/gender-clinic/'
         tags: ['Surgery', 'London']
         manualDescription: 'Surgical clinic specialising in vaginoplasty and labiaplasty'
     -
