@@ -25,7 +25,7 @@ publications:
     title: "Equality and Diversity Transgender Policy Guide for Employers 2015"
     organisation: "GIRES"
     year: 2015
-    url: "http://www.gires.org.uk/assets/Workplace/Transition-in-workplace-policy-Nov-2015.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/10/Transgender-Policy-Guide-for-Employers-2015.pdf"
     tags: [Employment]
   -
     title: "Trans People and Stonewall"
@@ -37,19 +37,19 @@ publications:
     title: "Monitoring Gender Nonconformity - A Quick Guide"
     organisation: "GIRES"
     year: 2015
-    url: "http://gires.org.uk/assets/Workplace/Monitoring.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/09/Monitoring-Gender-Nonconformity.pdf"
     tags: [Employment]
   -
     title: "Transition of a Pupil in School"
     organisation: "GIRES"
     year: 2015
-    url: "http://www.gires.org.uk/assets/Schools/Memorandum%20of%20understanding%20transition%20of%20pupil.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/08/Transition-of-a-Pupil-in-School.pdf"
     tags: [Education]
   -
     title: "Transition of a Teacher in School - Summary of the Law and Good Practice"
     organisation: "GIRES"
     year: 2015
-    url: "http://www.gires.org.uk/assets/Schools/Memorandum%20of%20understanding%20transition%20of%20pupil.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/08/Transition-of-a-Teacher-in-School.pdf"
     tags: [Education, Employment]
   -
     title: "Schools Transgender Guidance"
@@ -67,7 +67,7 @@ publications:
     title: "Guidance for schools on preventing and responding to sexist, sexual and transphobic bullying"
     organisation: "Department for Children, Schools and Families"
     year: 2009
-    url: "http://gires.org.uk/assets/Schools/DCSF-01136-2009.pdf"
+    url: "http://www.eani.org.uk/_resources/assets/attachment/full/0/41677.pdf"
     tags: [Education]
   -
     title: "Understanding non-binary people - A guide for the media"
@@ -109,7 +109,7 @@ publications:
     title: "Policy for the Recruitment and Management of Transsexual Personnel in the Armed Forces"
     organisation: "Ministry of Defence"
     year: 2009
-    url: "https://www.gires.org.uk/assets/Consultations/MOD-policy.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/09/MOD-policy.pdf"
     tags: [Employment, Military]
   -
     title: "Guidelines for the Care of Trans* Patients in Primary Care"
@@ -181,7 +181,7 @@ publications:
     title: "Guidelines for health organisations commissioning treatment services for trans people"
     organisation: "Parliamentary Forum on Gender Identity"
     year: 2009
-    url: "http://gires.org.uk/assets/Medpro-Assets/parliamentary-guidelines.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/10/parliamentary-guidelines.pdf"
     tags: [Medical policies, Organisations]
   -
     title: "Information about Hormonal Treatment for Trans Men"
@@ -231,12 +231,6 @@ publications:
     year: 2012
     url: "http://www.scottishtrans.org/wp-content/uploads/2013/03/trans_mh_study.pdf"
     tags: [Studies, Scotland]
-  -
-    title: "Survey of Patient Satisfaction with Transgender Services"
-    organisation: "NHS Audit Information and Analysis Unit"
-    year: 2008
-    url: "https://www.gires.org.uk/assets/Medpro-Assets/AIAUSatisfactionAuditJune2008.pdf"
-    tags: [Studies]
   -
     title: "Transsexual people and sport - Guidance for sporting bodies"
     organisation: "Department for Culture, Media and Sport"
@@ -319,7 +313,7 @@ publications:
     title: "Medical care for gender variant children and young people: answering families’ questions"
     organisation: "Department of Health"
     year: 2008
-    url: "http://www.gires.org.uk/assets/DOH-Assets/pdf/doh-children-and-adolescents.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2017/03/doh-children-and-adolescents.pdf"
     tags: [Under 18s, Family]
   -
     title: "Transgender issues and later life"
@@ -340,40 +334,34 @@ publications:
     url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503663/Workplace_Guide_CSEP_revised_Final_V1_.pdf"
     tags: [Employment]
   -
-    title: "Guidance for GPs and other clinicians on the treatment of gender variant people"
-    organisation: "Department of Health"
-    year: 2008
-    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-guidelines-for-clinicians.pdf"
-    tags: [Medical policies]
-  -
     title: "A guide to hormone therapy for trans people"
     organisation: "Department of Health"
     year: 2007
-    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-hormone-therapy.pdf"
+    url: "http://www.teni.ie/attachments/9ea50d6e-1148-4c26-be0d-9def980047db.PDF"
     tags: [Hormones]
   -
     title: "Trans - A practical guide for the NHS"
     organisation: "Department of Health"
     year: 2008
-    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-trans-practical-guide.pdf"
+    url: "http://webarchive.nationalarchives.gov.uk/20130124044414/http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_089939.pdf"
     tags: []
   -
     title: "Bereavement: A guide for Transsexual, Transgender people and their loved ones"
     organisation: "Department of Health"
     year: 2007
-    url: "https://www.gires.org.uk/assets/DOH-Assets/pdf/doh-bereavement.pdf"
+    url: "http://webarchive.nationalarchives.gov.uk/20130124035503/http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_074251.pdf"
     tags: [Family, Legal]
   -
     title: "Lower surgery for those assigned male, who identify as trans women, trans feminine, non-binary or non-gender"
     organisation: "GIRES"
     year: 2016
-    url: "https://www.gires.org.uk/assets/Support-Assets/lowersurgery-transwomen.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/08/lowersurgery-transwomen.pdf"
     tags: [Surgery]
   -
     title: "A guide to lower surgery for those assigned female, identifying as men, trans masculine, non-binary or non-gender "
     organisation: "GIRES"
     year: 2015
-    url: "https://www.gires.org.uk/assets/Support-Assets/lower-surgery.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/08/lower-surgery.pdf"
     tags: [Surgery]
   -
     title: "Barriers to health faced by transgender and non-binary black and minority ethnic people"
@@ -385,7 +373,7 @@ publications:
     title: "Inclusivity - Supporting BAME Trans People"
     organisation: "GIRES"
     year: 2016
-    url: "http://www.gires.org.uk/assets/Support-Assets/BAME_Inclusivity.pdf"
+    url: "http://www.gires.org.uk/wp-content/uploads/2016/02/BAME_Inclusivity.pdf"
     tags: [Studies, Race]
   -
     title: "Providing services for transgender customers - a guide"
@@ -468,8 +456,8 @@ publications:
   -
     title: "Changing for the Better - How to Include Transgender People in your Workplace"
     organisation: "Stonewall Scotland"
-    year: 2009
-    url: "http://www.gires.org.uk/assets/Workplace/changing_for_the_better.pdf"
+    year: 2012
+    url: "http://www.scottishtrans.org/wp-content/uploads/2013/03/changing_for_the_better.pdf"
     tags: [Employment]
   -
     title: "Advancing transgender equality - A Plan for Action"
@@ -667,7 +655,7 @@ publications:
     title: "The General Guide for all Users - Gender Recognition Act 2004"
     organisation: "HM Courts and Tribunals Service"
     year: 2016
-    url: 'https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng-2016.04.01.pdf'
+    url: 'https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf'
     tags: [Legal]
   -
     title: "Transforming the Workplace - A TUC guide for trade union activists on supporting trans members"
