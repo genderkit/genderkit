@@ -1,6 +1,9 @@
 ---
 title: "Thyroid chondroplasty"
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 Thyroid chondroplasty involves removing some of the cartilage at the front of the Adam's apple to flatten it, making it less visible.
