@@ -34,7 +34,7 @@ You can read more about breast augmentation on the [NHS Choices website](http://
 
 It is possible to apply for funding for augmentation through exceptional funding processes within the NHS, but breast augmentation is not normally funded by the NHS, regardless of whether a diagnosis of gender dysphoria has been given.
 
-In the event that you believe you have a special reason why an exception to the funding rules work should be made in your case, the following documents give information about to apply for this:
+In the event that you believe an exception to the funding rules should be made in your case, the following documents give information about to apply for this:
 
 - *England:* [Interim Commissioning Policy: Individual funding requests](https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2016/08/cp-03.pdf)
 - *Scotland:* [Adult Exceptional Aesthetic Referral Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2011_27.pdf)
