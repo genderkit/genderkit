@@ -16,6 +16,10 @@ You may also find it helpful to read about what different types of frames suit d
 
 ### Costs
 
-Glasses frames vary significantly in price. Prices range between £25 and £250 but may significantly exceed this depending on brand and the type of prescription required.
+Glasses frames vary significantly in price. 
+
+Prescription glasses from high street opticians range between £25 and £250, but can significantly exceed this, depending on brand and the type of prescription required. 
+
+Clear glasses which do not correct vision in any way can be as inexpensive as £5-10.
 
 Some retailers provide offers on buying two pairs of frames at once, which can be useful for changing your look depending on context.
