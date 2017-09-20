@@ -1,6 +1,9 @@
 ---
 title: Penectomy
 weighting: 5
+feature:
+  image: /assets/images/articles/surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 Penectomy is surgical removal of the penis. This does not include removal of the testes (testicles), which are removed by an [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}).
@@ -13,7 +16,7 @@ If you wish to have new genitals created, the vulva (external part of the female
 
 A operation in the UK to perform penectomy along with [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for vaginoplasty and [penectomy]({{ site.baseurl }}{% link _articles/penectomy.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for penectomy and [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and optionally [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment
