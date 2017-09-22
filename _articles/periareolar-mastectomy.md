@@ -27,8 +27,6 @@ You can also read more about chest surgeries on the [Manchester Chest Wall Conto
 
 ### Cost and funding
 
-The cost of privately obtaining a mastectomy in the UK is around £TODO.
-
 If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr181 %}.
 
 ### References

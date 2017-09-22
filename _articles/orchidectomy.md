@@ -24,8 +24,6 @@ Orchidectomy may cause erectile dysfunction in people with penises. If this is n
 
 ### Cost and funding
 
-A operation in the UK to perform penectomy along with [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}) costs around £TODO.
-
 If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
