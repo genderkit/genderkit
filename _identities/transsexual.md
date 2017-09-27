@@ -13,7 +13,7 @@ A transsexual person is defined in UK law by the [Equality Act 2010](https://www
 
 Many (but not all) transsexual people also describe themselves as [transgender]({{ site.baseurl }}{% link _identities/transgender.md %}) and/or [nonbinary]({{ site.baseurl }}{% link _identities/nonbinary.md %}).
 
-"Transgender" and [trans]({{ site.baseurl }}{% link _identities/trans.md %}) describe a much wider group of people than transsexual, and not all transgender and nonbinary people are transexual or wish to use the term transsexual.
+"Transgender" and [trans]({{ site.baseurl }}{% link _identities/trans.md %}) describe a much wider group of people than transsexual, and not all transgender and nonbinary people are transsexual or wish to use the term transsexual.
 
 "The terms 'transsexual' and 'transsexualism' are often considered old-fashioned and stigmatising, and this terminology is increasingly being replaced by terms, such as 'transgender' and 'trans', which many people deem more acceptable." -- [The Transgender Handbook](https://books.google.co.uk/books?id=ty3fAQAACAAJ)
 
