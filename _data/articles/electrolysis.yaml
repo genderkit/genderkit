@@ -1,8 +1,8 @@
 aka: ["Electroepilation", "Electro"]
-summary: Permanently reducing the amount of hair by burning the hair and follicle by passing an electric current through it
+summary: Permanently removes hair by burning the hair and follicle by passing an electric current through it
 duration: "The effects of electrolysis are permanent and cannot be reversed."    
 effects:
   - category: "Body hair"
-    detail: "Permanently reduces"
+    detail: "Permanently removes"
   - category: "Facial hair"
-    detail: "Permanently reduces"
+    detail: "Permanently removes"
