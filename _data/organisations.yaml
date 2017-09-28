@@ -590,7 +590,7 @@ organisations:
         lastTwitterPost: 'Tue Apr 11 17:40:53 +0000 2017'
         facebookId: '497818340370284'
         twitterID: '3200857408'
-        archived: true
+        archived: true # Website down, no real twitter activity in years and no response to enquiries 
     -
         name: 'Trans*form Cymru'
         url: 'http://youthcymru.org.uk/transform-cymru'
@@ -1040,6 +1040,7 @@ organisations:
         twitterDescription: 'Youth group for 18-25 year old people who identify as trans* masculine, gender variant, non binary or questioning who were assigned female at birth.'
         lastTwitterPost: 'Wed Aug 12 18:46:31 +0000 2015'
         twitterID: '3364091025'
+        archived: true # No tweets for years and no response to Twitter inquiries
     -
         name: 'The Focus Trust'
         url: 'http://thefocustrust.com'
