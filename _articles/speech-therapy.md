@@ -21,6 +21,7 @@ Private speech and language therapists who advertise specific experience around 
 - [Nicola Gorb](https://voicecommunicationclinic.com/) (London and Hertfordshire)
 - [Maggi Stratford](https://www.maggistratford.com/) (Leeds)
 - [Heidi de Quincey](http://www.heididequincey.co.uk/) (Hampshire)
+- [Celia Bacon](http://vox-humana.net/) (Hampshire and via Skype)
 - [Sue Addlestone](http://www.sueaddlestone.co.uk) (North West)
 - [Susannah Thomson](http://southbristolvoicetherapy.co.uk) (Bristol)
 - [Barbara Molteno](http://www.vocalisptp.co.uk) (Derbyshire)
