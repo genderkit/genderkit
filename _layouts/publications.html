@@ -86,6 +86,9 @@ document.body.onload = function() {
               <div>
               {% assign url = item.url %}
               <span>{{ item.year }}</span> <a href="{{ url }}">{{ item.title | xml_escape }}</a> 
+              {% if item.year < 2012 %}
+                <div class="datewarning"><em>Note:</em> This publication is very old and may contain out-of-date information.</div>
+              {% endif %}
               </div>
             </li>
         {% endfor %}
