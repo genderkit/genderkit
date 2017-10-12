@@ -777,7 +777,66 @@ publications:
     year: 2016
     url: "http://www.stonewall.org.uk/sites/default/files/getting_it_right_with_your_trans_service_users_and_customers.pdf"
     tags: [Employment]
-
+  -
+    title: "NHS Standard Contract for Gender Identity Development Service for Children and Adolescents"
+    organisation: "NHS England"
+    year: 2017
+    url: "https://www.england.nhs.uk/wp-content/uploads/2017/04/gender-development-service-children-adolescents.pdf"
+    tags: [Medical policies, Under 18s]
+  -
+    title: "Trans Equality in Schools and Colleges - Advice and Guidance for Teachers and Leaders"
+    organisation: "NASUWT - The Teacher's Union"
+    year: 2016
+    url: "https://www.nasuwt.org.uk/uploads/assets/uploaded/085066bb-c224-40de-b79e2a1358801ee9.pdf"
+    tags: [Education]
+  -
+    title: "Equality for Trans Teachers"
+    organisation: "NASUWT - The Teacher's Union"
+    year: 2016
+    url: "https://www.nasuwt.org.uk/uploads/assets/uploaded/8d348471-7a3e-4844-8c871d5af192f434.pdf"
+    tags: [Education]
+  -
+    title: "Equality for Trans Teachers (Bilingual)"
+    organisation: "NASUWT Cymru"
+    year: 2016
+    url: "https://www.nasuwt.org.uk/uploads/assets/uploaded/2c7fd306-8216-4d0a-8c4c2e882892f0ff.pdf"
+    tags: [Education, Wales]
+  -
+    title: "Information and support for families of adult transgender, non-binary and nongender people"
+    organisation: "GIRES"
+    year: 2016
+    url: "http://www.gires.org.uk/wp-content/uploads/2016/07/Information-and-support-for-families-of-adult-transgender-non-binary-and-non-gender-people.pdf"
+    tags: [Family]
+  -
+    title: "Court Information For Trans Parents"
+    organisation: "GIRES"
+    year: 2016
+    url: "http://www.gires.org.uk/wp-content/uploads/2017/03/Court-Information-for-Trans-Parents.pdf"
+    tags: [Legal, Family]
+  -
+    title: "Welsh Government Action Plan to advance equality for transgender people"
+    organisation: "Welsh Government"
+    year: 2016
+    url: "http://gov.wales/docs/dsjlg/publications/equality/160314-transgender-action-plan-en.pdf"
+    tags: [Wales]
+  -
+    title: "A guide for trans people who have been affected by sexual violence"
+    organisation: "LGBT Foundation"
+    year: 2015
+    url: "http://gov.wales/docs/dsjlg/publications/equality/160314-transgender-action-plan-en.pdf"
+    tags: []
+  -
+    title: "Operational research report following visits and analysis of Gender Identity Clinics in England"
+    organisation: "NHS England"
+    year: 2015
+    url: "https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/11/gender-ident-clncs-rep-nov15.pdf"
+    tags: [Studies]
+  -
+    title: "Treatment and support of transgender and nonbinary people across the health and care sector: Symposium report"
+    organisation: "NHS England"
+    year: 2015
+    url: "https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/09/symposium-report.pdf"
+    tags: [Studies]
   # -
   #   title: ""
   #   organisation: ""
