@@ -16,6 +16,14 @@
 	{% assign slug = page.title | slugify %}
 	{% assign info = site.data.articles[slug] %}
 	{% assign description = info.summary %}
+{% elsif page.collection == 'identities' %}
+	{% assign title = page.title | downcase %}
+	{% assign what = "What '" %}
+	{% assign description = what | append: title | append: "' means and when to use it" %}
+{% elsif page.collection == 'categories' %}
+	{% assign title = page.title | downcase %}
+	{% assign what = "Information on how people in the UK can change their " %}
+	{% assign description = what | append: title | append: ", from the UK guide to changing things linked to gender" %}
 {% elsif page.description %}
 	{% assign description = page.description %}
 {% endif %}

@@ -1,6 +1,7 @@
 ---
 layout: misc
 title: Slurs
+description: Offensive terms used to describe gender non-conforming people in the UK
 ---
 
 {% capture warn %}

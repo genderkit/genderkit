@@ -2,6 +2,7 @@
 # Top half of this page is hard coded into the "identities" layout
 layout: identities
 title: Identities
+description: Information about common terms used to describe gender non-conforming people in the UK
 ---
 
 ### Terms to avoid

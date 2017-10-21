@@ -1,6 +1,7 @@
 ---
 layout: misc
 title: Frequently Asked Questions
+description: Answers to frequently asked questions about Gender Construction Kit, the UK guide to changing things linked to gender
 ---
 
 ### Can you help me with a problem?

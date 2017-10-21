@@ -1,6 +1,7 @@
 ---
 layout: misc
 title: Credits
+description: Information about the team behind Gender Construction Kit and what open-source and Creative Commons projects are used
 ---
 
 ### Contacting us
