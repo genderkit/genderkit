@@ -837,6 +837,36 @@ publications:
     year: 2015
     url: "https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/09/symposium-report.pdf"
     tags: [Studies]
+  -
+    title: "How Transgender People Experience the Media"
+    organisation: "Trans Media Watch"
+    year: 2010
+    url: "http://www.transmediawatch.org/Documents/How%20Transgender%20People%20Experience%20the%20Media.pdf"
+    tags: [Studies]
+  -
+    title: "Supporting trans and gender questioning autistic pupils"
+    organisation: "Network Autism"
+    year: 2017
+    url: "http://network.autism.org.uk/sites/default/files/ckfinder/files/Network%20Autism%20Article%20(PDF%20ready)(1).pdf"
+    tags: [Education, Health, Under 18s]
+  -
+    title: "Sexual health, HIV and wellbeing - a guide for trans women"
+    organisation: "Terrence Higgins Trust"
+    year: 2012
+    url: "http://www.tht.org.uk/~/media/4653aa766e3f4c1286fc515f17146f32.ashx"
+    tags: [Sex, Health]
+  -
+    title: "Sexual health, HIV and wellbeing - a guide for transmen"
+    organisation: "Terrence Higgins Trust"
+    year: 2012
+    url: "http://www.tht.org.uk/~/media/8F7D70D8C3B643109351E3D9A633529A.ashx"
+    tags: [Sex, Health]
+  -
+    title: "Supporting trans youth - Guidance for supporting trans & non-binary young people in formal & non-formal education"
+    organisation: "Sail NI"
+    year: 2016
+    url: "http://sailni.com/download/428/EdGuidelinesSTY-1.pdf"
+    tags: [Education, Under 18s]
   # -
   #   title: ""
   #   organisation: ""
