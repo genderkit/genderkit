@@ -1410,7 +1410,7 @@ organisations:
         url: 'http://transpiresouthend.org/'
         twitter: transsouthend
         facebook: transpiresouthend
-        tags: ['East of England, South East']
+        tags: ['East of England', 'South East']
         lastFacebookPost: '2017-10-27T16:00:05+0000'
         facebookDescription: 'Transpire is Southend''s newly established trans network, working with the local community to help support transgender persons, their friends and family.'
         twitterDescription: 'Supporting transgender persons, their friends and family and the wider LGBT community in and around Southend-on-Sea, Essex.'
@@ -1420,7 +1420,7 @@ organisations:
     -
         name: TransOxford
         url: 'http://www.transoxford.org.uk/'
-        tags: ['East of England, South East']
+        tags: ['East of England', 'South East']
         facebook: TransOxfordSupportGroup
         lastFacebookPost: '2017-10-14T15:19:23+0000'
         facebookDescription: 'Contact page for Oxfordshire transgender support group. Send us a message to join ''hidden'' FB group; follow us on IG @TransOxford'
