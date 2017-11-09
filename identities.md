@@ -23,4 +23,4 @@ You can also create your own terms to describe yourself that better fit who you 
 
 ### Errors and omissions
 
-Is there something missing from this page? Have you spotted something that isn't correct? Please [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit) to let us know.</p>
+Is there something missing from this page? Have you spotted something that isn't correct? Please [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit) to let us know.
