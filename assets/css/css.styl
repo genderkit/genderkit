@@ -147,7 +147,6 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 .effects, #effectslist
   margin-top 1rem
   li
-    padding-left 4rem
     min-height 3rem
   i // Icons to represent body parts etc.
     display block
@@ -158,8 +157,6 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
     height 3rem
     margin-bottom -3rem
     margin-left -4rem
-#effectslist li
-  padding-left 5rem
 .bibliography
   list-style-type disc
 
@@ -206,10 +203,12 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 #effectslist
   padding 0
   li
-    padding-top 1rem
-    padding-bottom 1rem
     background-color #f0f0fa
     a
+      padding-top 2rem
+      padding-bottom 1rem
+      padding-left 1rem
+      padding-right 1rem
       display block 
 .cards
   display flex
@@ -324,8 +323,6 @@ nav, aside, .attention
 // Horrible special cases to make things look nicer
 #effectslist
   margin-top 0
-#effectslist i
-  margin-bottom -2rem
 a > span > span // Make citations appear correctly
   vertical-align baseline !important
   font-size 0.75rem
