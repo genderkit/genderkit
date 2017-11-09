@@ -1,0 +1,6 @@
+[Bb]otocore
+80.229.172.125
+broken-link-checker
+S3Console/0.4
+FBRV/[0-9][0-9]
+Googlebot
