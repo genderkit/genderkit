@@ -49,6 +49,7 @@ desc "Spellcheck using Aspell"
 task :spellcheck => :jekyll do
   errors = 0
   files = FileList['_site/**/*.html']
+  files.exclude("_site/books/*.html")
   files.exclude("_site/organisations/*.html")
   files.exclude("_site/publications/*.html")
   files.exclude("_site/tools/*")
