@@ -74,7 +74,7 @@ document.body.onload = function() {
       {% for publisher in publishers %}
       <div class="grouping">
         <h3>{{ publisher.name | xml_escape }}</h3>
-        <ul class="details">
+        <ul class="details" id="publications">
         {% assign sortedPublications = publisher.items | sort: 'year' | reverse %}
         {% for item in sortedPublications %}
           {% assign cssclasses = "" %}
@@ -84,6 +84,7 @@ document.body.onload = function() {
               {% endfor %}
             <li class="{{ cssclasses }}" style="padding-bottom: 0;">
               <div>
+              <img src="{{ 'assets/images/publications/' | append: publisher.name | append: ' - ' | append: item.title | append: '.jpg' | absolute_url }}" height="200" />
               {% assign url = item.url %}
               <span>{{ item.year }}</span> <a href="{{ url }}">{{ item.title | xml_escape }}</a> 
               {% if item.year < 2012 %}
