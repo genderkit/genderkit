@@ -1,6 +1,6 @@
 books:
   -
-    title: "How to Understand Your Gender"
+    title: "How To Understand Your Gender"
     subtitle: "A Practical Guide for Exploring Who You Are"
     author: "Alex Iantaffi and Meg-John Barker"
     year: 2017
@@ -18,11 +18,11 @@ books:
     year: 2017
     url: "https://www.novapublishers.com/catalog/product_info.php?products_id=61666" 
   -
-    title: "Trans Like Me"
-    subtitle: "A Journey for All of Us"
-    author: "CN Lester"
-    year: 2017
-    url: "https://www.virago.co.uk/translikeme/"
+    title: "Trans Britain"
+    subtitle: "Our Long Journey from the Shadows"
+    author: "Edited by Christine Burns"
+    year: 2018
+    url: "https://unbound.com/books/trans-britain/" 
   -
     title: "The Trans Partner Handbook"
     subtitle: "A Guide for When Your Partner Transitions"
@@ -36,17 +36,13 @@ books:
     year: 2017
     url: "https://www.jkp.com/uk/transgender-employees-in-the-workplace-2.html"
   -
-    title: "Pressing Matters Volume 1"
-    author: "Christine Burns"
+    title: "Trans Like Me"
+    subtitle: "A Journey for All of Us"
+    author: "CN Lester"
     year: 2017
-    url: "https://www.amazon.co.uk/dp/B00HL1I6SE"
+    url: "https://www.virago.co.uk/translikeme/"
   -
-    title: "Pressing Matters Volume 2"
-    author: "Christine Burns"
-    year: 2017
-    url: "https://www.amazon.co.uk/dp/B00PB84AUM"
-  -
-    title: "Counseling Transgender and Non-Binary Youth"
+    title: "Counseling Transgender and Non-binary Youth"
     subtitle: "The Essential Guide"
     author: "Irwin Krieger"
     year: 2017
@@ -69,16 +65,20 @@ books:
     year: 2017
     url: "https://www.jkp.com/uk/the-gender-matrix-2.html" 
   -
-    title: "Trans Britain"
-    subtitle: "Our Long Journey from the Shadows"
-    author: "Edited by Christine Burns"
-    year: 2018
-    url: "https://unbound.com/books/trans-britain/" 
-  -
     title: "Transgender Behind Prison Walls"
     author: "Sarah Jane Baker"
     year: 2017
     url: "https://www.watersidepress.co.uk/acatalog/Transgender-Behind-Prison-Walls-9781909976450.html"
+  -
+    title: "Pressing Matters Volume 1"
+    author: "Christine Burns"
+    year: 2017
+    url: "https://www.amazon.co.uk/dp/B00HL1I6SE"
+  -
+    title: "Pressing Matters Volume 2"
+    author: "Christine Burns"
+    year: 2017
+    url: "https://www.amazon.co.uk/dp/B00PB84AUM"
   -
     title: "Helping Your Transgender Teen"
     subtitle: "2nd Edition"
