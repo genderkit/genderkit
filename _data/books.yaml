@@ -24,12 +24,6 @@ books:
     year: 2018
     url: "https://unbound.com/books/trans-britain/" 
   -
-    title: "The Trans Partner Handbook"
-    subtitle: "A Guide for When Your Partner Transitions"
-    author: "Jo Green"
-    year: 2017
-    url: "https://www.jkp.com/uk/a-guide-for-partners-of-trans-people-2.html"
-  -
     title: "Transgender Employees in the Workplace"
     subtitle: "A Guide for Employers"
     author: "Jennie Kermode"
@@ -48,16 +42,21 @@ books:
     year: 2017
     url: "https://www.jkp.com/uk/counseling-transgender-and-non-binary-youth-2.html" 
   -
+    title: "To My Trans Sisters"
+    author: "Edited by Charlie Craggs"
+    year: 2017
+    url: "https://www.jkp.com/uk/to-my-trans-sisters-2.html"
+  -
     title: "This Is My Body"
     subtitle: "Hearing the theology of transgender Christians"
     author: "Edited by Christina Beardsley and Michelle O'Brien"
     year: 2016
     url: "http://dltbooks.com/titles/2168-9780232532067-this-is-my-body" 
   -
-    title: "To My Trans Sisters"
-    author: "Edited by Charlie Craggs"
+    title: "Transgender Behind Prison Walls"
+    author: "Sarah Jane Baker"
     year: 2017
-    url: "https://www.jkp.com/uk/to-my-trans-sisters-2.html"
+    url: "https://www.watersidepress.co.uk/acatalog/Transgender-Behind-Prison-Walls-9781909976450.html"
   -
     title: "Becoming an Ally to the Gender-Expansive Child"
     subtitle: "A Guide for Parents and Carers"
@@ -65,10 +64,11 @@ books:
     year: 2017
     url: "https://www.jkp.com/uk/the-gender-matrix-2.html" 
   -
-    title: "Transgender Behind Prison Walls"
-    author: "Sarah Jane Baker"
+    title: "The Trans Partner Handbook"
+    subtitle: "A Guide for When Your Partner Transitions"
+    author: "Jo Green"
     year: 2017
-    url: "https://www.watersidepress.co.uk/acatalog/Transgender-Behind-Prison-Walls-9781909976450.html"
+    url: "https://www.jkp.com/uk/a-guide-for-partners-of-trans-people-2.html"
   -
     title: "Pressing Matters Volume 1"
     subtitle: "A Trans Activism Memoir"
@@ -83,7 +83,7 @@ books:
     url: "https://www.amazon.co.uk/dp/B00PB84AUM"
   -
     title: "Helping Your Transgender Teen"
-    subtitle: "2nd Edition"
+    subtitle: "Second Edition"
     author: "Irwin Krieger"
     year: 2018
     url: "https://www.jkp.com/uk/helping-your-transgender-teen-2nd-edition-35582.html" 
