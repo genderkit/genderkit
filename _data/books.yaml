@@ -1,0 +1,95 @@
+books:
+  -
+    title: "How to Understand Your Gender"
+    subtitle: "A Practical Guide for Exploring Who You Are"
+    author: "Alex Iantaffi and Meg-John Barker"
+    year: 2017
+    url: "https://www.jkp.com/uk/how-to-understand-your-gender-2.html" 
+  -
+    title: "The Voice Book for Trans and Non-Binary People"
+    subtitle: "A Practical Guide to Creating and Sustaining Authentic Voice and Communication"
+    author: "Matthew Mills and Gillie Stoneham"
+    year: 2017
+    url: "https://www.jkp.com/uk/the-transgender-experience-2.html" 
+  -
+    title: "The Transgender Handbook"
+    subtitle: "A Guide for Transgender People, Their Families and Professionals"
+    author: "Edited by Walter Pierre Bouman and Jon Arcelus"
+    year: 2017
+    url: "https://www.novapublishers.com/catalog/product_info.php?products_id=61666" 
+  -
+    title: "Trans Like Me"
+    subtitle: "A Journey for All of Us"
+    author: "CN Lester"
+    year: 2017
+    url: "https://www.virago.co.uk/translikeme/"
+  -
+    title: "The Trans Partner Handbook"
+    subtitle: "A Guide for When Your Partner Transitions"
+    author: "Jo Green"
+    year: 2017
+    url: "https://www.jkp.com/uk/a-guide-for-partners-of-trans-people-2.html"
+  -
+    title: "Transgender Employees in the Workplace"
+    subtitle: "A Guide for Employers"
+    author: "Jennie Kermode"
+    year: 2017
+    url: "https://www.jkp.com/uk/transgender-employees-in-the-workplace-2.html"
+  -
+    title: "Pressing Matters Volume 1"
+    author: "Christine Burns"
+    year: 2017
+    url: "https://www.amazon.co.uk/dp/B00HL1I6SE"
+  -
+    title: "Pressing Matters Volume 2"
+    author: "Christine Burns"
+    year: 2017
+    url: "https://www.amazon.co.uk/dp/B00PB84AUM"
+ -
+    title: "Counseling Transgender and Non-Binary Youth"
+    subtitle: "The Essential Guide"
+    author: "Irwin Krieger"
+    year: 2017
+    url: "https://www.jkp.com/uk/counseling-transgender-and-non-binary-youth-2.html" 
+  -
+    title: "This Is My Body"
+    subtitle: "Hearing the theology of transgender Christians"
+    author: "Edited by Christina Beardsley and Michelle O'Brien"
+    year: 2016
+    url: "http://dltbooks.com/titles/2168-9780232532067-this-is-my-body" 
+  -
+    title: "To My Trans Sisters"
+    author: "Edited by Charlie Craggs"
+    year: 2017
+    url: "https://www.jkp.com/uk/to-my-trans-sisters-2.html"
+  -
+    title: "Becoming an Ally to the Gender-Expansive Child"
+    subtitle: "A Guide for Parents and Carers"
+    author: "Anna Bianchi"
+    year: 2017
+    url: "https://www.jkp.com/uk/the-gender-matrix-2.html" 
+  -
+    title: "Trans Britain"
+    subtitle: "Our Long Journey from the Shadows"
+    author: "Edited by Christine Burns"
+    year: 2018
+    url: "https://unbound.com/books/trans-britain/" 
+  -
+    title: "Transgender Behind Prison Walls"
+    author: "Sarah Jane Baker"
+    year: 2017
+    url: "https://www.watersidepress.co.uk/acatalog/Transgender-Behind-Prison-Walls-9781909976450.html"
+  -
+    title: "Helping Your Transgender Teen"
+    subtitle: "2nd Edition"
+    author: "Irwin Krieger"
+    year: 2018
+    url: "https://www.jkp.com/uk/helping-your-transgender-teen-2nd-edition-35582.html" 
+    hidden: true
+  -
+    title: "Supporting Young Transgender Men"
+    subtitle: "A Guide for Professionals"
+    author: "Matthew Waites"
+    year: 2018
+    url: "https://www.jkp.com/uk/supporting-young-transgender-men-2.html" 
+    hidden: true
