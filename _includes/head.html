@@ -39,6 +39,7 @@
 <meta property="og:description" content="{{ description }}" />
 <meta name="twitter:description" content="{{ description }}" />
 <meta property="og:site_name" content="Gender Construction Kit" />
+<meta property="og:url" content="{{ canonical | absolute_url }}" />
 {% if page.collection == 'articles' %}
 <meta property="og:type" content="article" />
 {% if page.feature %}
@@ -50,9 +51,9 @@
 {% endif %}
 {% else %}
 <meta property="og:type" content="website" />
-<meta property="og:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
-<meta property="og:image:width" content="512" />
-<meta property="og:image:height" content="512" />
+<meta property="og:image" content="{{ "/assets/images/opengraph.jpg" | absolute_url }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 <meta name="twitter:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
 {% endif %}
 
