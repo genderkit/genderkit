@@ -12,7 +12,7 @@ Cyproterone can cause liver malfunction and depression {% cite seal:2007 -l 170,
 {% include warning warning=warn %}
 
 {% capture warn %}
-Prolonged treatment can cause infertility, erectile dysfunction and genital shrinkage. 
+Prolonged treatment can cause infertility, erectile dysfunction and genital shrinkage. Cyproterone does not effectively remove the risk of pregnancy {% cite fsrh2017contraceptive %} and should not be used as a contraceptive method.
 {% endcapture %}
 {% include warning warning=warn %}
 

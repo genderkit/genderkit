@@ -12,6 +12,11 @@ Taking GnRH agonists without also taking a sex hormone (e.g.
 {% endcapture %}
 {% include warning warning=warn %}
 
+{% capture warn %}
+GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptive %}. They do not remove the risk of making someone pregnant, and they do not remove the risk of becoming pregnant.
+{% endcapture %}
+{% include warning warning=warn %}
+
 Gonadotropin releasing hormone (GnRH) agonists are medicines that cause the gonads (testes and/or ovaries) to stop producing sex hormones. GnRH agonists are considered to have an excellent side-effect profile with minimal side-effects compared to other alternatives {% cite seal2017 -l 236 %}.
 
 Commonly used GnRH agonists in the UK are Goserelin (Zoladex), Triptorelin (Decapeptyl) and Leuprorelin (Prostap).
