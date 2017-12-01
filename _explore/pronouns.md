@@ -8,4 +8,4 @@ descriptions: "The most commonly used pronouns in the UK."
 
 Some of the most commonly used pronouns in the UK.
 
-Source: [Nonbinary Stats Project](http://nonbinarystats.tumblr.com/)
+Source: [Gender Census](http://gendercensus.tumblr.com)
