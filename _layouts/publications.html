@@ -84,7 +84,7 @@ document.body.onload = function() {
               {% endfor %}
             <li class="{{ cssclasses }}" style="padding-bottom: 0;">
               <div>
-              {% assign imagetitle = item.title | remove: " -" | remove: "*" | remove: "," | remove: "&" | remove: "(" | remove: ")" | remove: ":" | remove: "’" %}
+              {% assign imagetitle = item.title | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "’" | remove: "'" | replace: "-", " " %}
               {% assign imagename = publisher.name | remove: "*" | remove: "," | remove: "&" | append: ' - ' | append: imagetitle %}
               <img src="{{ 'assets/images/publications/' | append: imagename | append: '.jpg' | absolute_url }}" height="200" />
               {% assign url = item.url %}
