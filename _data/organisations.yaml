@@ -34,11 +34,13 @@ organisations:
         url: 'https://genderjam.org.uk/resources/healthcare/KOIleaflet.pdf'
         tags: ['NHS Gender Services', 'Northern Ireland', 'Under 18s']
         manualDescription: 'NHS gender service for under 18s in Northern Ireland'
+        image: "hsc"
     -
         name: 'Brackenburn Regional Gender Identity Clinic'
         url: 'http://www.belfasttrust.hscni.net/services/BrackenburnClinic.htm'
         tags: ['NHS Gender Services', 'Northern Ireland']
         manualDescription: 'NHS gender service located in Belfast'
+        image: "hsc"
     -
         name: 'YourGP Gender Clinic (Dr. Myskow)'
         url: 'http://your-gp.com/services/sexual-health-gender-clinic/gender-dysphoria/'
@@ -49,51 +51,61 @@ organisations:
         url: 'http://lothiansexualhealth.scot.nhs.uk/services/gic/Pages/default.aspx'
         tags: ['NHS Gender Services', Scotland]
         manualDescription: 'NHS gender service located in Edinburgh'
+        image: "nhs-scotland"
     -
         name: 'Sandyford Gender Identity Services'
         url: 'http://www.sandyford.org/sandyford-sexual-health-services/what-are-our-services/gender-identity-service/'
         tags: ['NHS Gender Services', Scotland]
         manualDescription: 'NHS gender service located in Glasgow accepting adults and under 18s'
+        image: "nhs-scotland"
     -
         name: 'West of England Specialist Gender Identity Clinic'
         url: 'https://www.devonpartnership.nhs.uk/Specialist-Gender-Identity-Clinic.wesgic.0.html'
         tags: ['NHS Gender Services', 'South West']
         manualDescription: 'NHS gender service located in Exeter, also known as "The Laurels"'
+        image: "nhs"
     -
         name: 'Nottingham Centre for Transgender Health'
         url: 'http://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
         tags: ['NHS Gender Services', 'East Midlands']
         manualDescription: 'NHS gender service located in Nottingham'
+        image: "nhs"
     -
         name: 'Northamptonshire Healthcare NHS Foundation Trust Gender Clinic'
         url: 'http://www.genderclinic.northants.nhs.uk/'
         tags: ['NHS Gender Services', 'East Midlands']
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
+        image: "nhs"
     -
         name: 'Northern Region Gender Dysphoria Service'
         url: 'https://www.ntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/'
         tags: ['NHS Gender Services', 'North East']
         manualDescription: 'NHS gender service located in Newcastle-upon-Tyne'
+        image: "nhs"
     -
         name: 'Leeds Gender Identity Service'
         url: 'https://www.leedsandyorkpft.nhs.uk/our-services/services-list/gender-identity-service/'
         tags: ['NHS Gender Services', Yorkshire]
         manualDescription: 'NHS gender service located in Leeds'
+        image: "nhs"
     -
         name: 'Porterbrook Clinic Gender Identity Service'
         url: 'http://shsc.nhs.uk/service/gender-identity-service/'
         tags: ['NHS Gender Services', Yorkshire]
         manualDescription: 'NHS gender service located in Sheffield'
+        image: "nhs"
     -
         name: 'Tavistock and Portman Gender Identity Development Service'
         url: 'http://gids.nhs.uk/'
         tags: ['NHS Gender Services', 'Under 18s', National]
         manualDescription: 'NHS gender service for under 18s across the UK'
+        image: "gids"
     -
         name: 'Tavistock and Portman Gender Identity Clinic'
         url: 'https://gic.nhs.uk/'
         tags: ['NHS Gender Services', National]
         manualDescription: 'NHS gender service for over 18s located in Hammersmith, London. Often referred to as "Charing Cross". Previously operated as the "West London Mental Health NHS Trust Gender Identity Clinic".'
+        image: "gic"
     -
         name: 'Transhealth (Dr. Curtis)'
         url: 'http://transhealth.co.uk/'
@@ -134,16 +146,19 @@ organisations:
         url: 'http://www.ngicns.scot.nhs.uk'
         manualDescription: 'NHS Scotland network for Scottish gender clinics and online information hub'
         tags: ['NHS Gender Services', Scotland]
+        image: "nhs-scotland"
     -
         name: 'NHS Wales Gender Identity Partnership Group'
         url: 'http://www.whssc.wales.nhs.uk/gender-identity-partnership-group'
         manualDescription: 'Advisory board for Gender Identity services in Wales'
         tags: ['NHS Gender Services', Wales]
+        image: "nhs-wales"
     -
         name: 'Dysfforia Rhywedd Cymru / Gender Dysphoria Wales'
         url: 'http://www.genderdysphoria.wales.nhs.uk/'
         manualDescription: 'NHS Wales gender dysphoria online information hub'
         tags: ['NHS Gender Services', Wales]
+        image: "nhs-wales"
     -
         name: Born
         url: 'http://born.uk.com'
@@ -206,6 +221,7 @@ organisations:
         url: 'http://www.gendertransitions.co.uk/'
         tags: [Companies, London]
         manualDescription: 'Specialist in electrolysis hair removal including pre-surgery electrolysis'
+        image: 'gender-transitions'
     -
         name: 'This Is Me'
         url: 'http://www.thisismelgbt.com'
@@ -612,6 +628,7 @@ organisations:
         tags: [National]
         twitterDescription: 'The official twitter feed from the Beaumont Society, the UKs largest and longest running transgender support group'
         lastTwitterPost: 'Sun Oct 01 08:15:10 +0000 2017'
+        image: 'beaumont-society' 
     -
         name: 'sail NI'
         url: 'https://sailni.com/'
@@ -1885,6 +1902,7 @@ organisations:
         url: 'http://oiiuk.org'
         tags: [National, Intersex]
         manualDescription: 'Organisation Intersex International in the United Kingdom'
+        image: 'oii-uk'
     -
         name: 'Intersex UK'
         twitter: intersexuk
@@ -1912,6 +1930,7 @@ organisations:
         url: 'http://www.sdsd.scot.nhs.uk/'
         manualDescription: 'NHS Scotland online information hub for people with Differences in Sex Development'
         tags: [Intersex]
+        image: 'nhs-scotland'
     -
         name: 'Turner Syndrome Support Society UK'
         url: 'http://tss.org.uk/'
@@ -2054,11 +2073,13 @@ organisations:
         url: 'https://www.imperial.nhs.uk/our-services/surgery/gender-surgery'
         tags: ['NHS Gender Services', Surgery, National]
         manualDescription: 'NHS surgical clinic specialising in vaginoplasty and labiaplasty'
+        image: 'nhs'
     -
         name: 'Manchester Chest Wall Contouring Clinic'
         url: 'http://www.pat.nhs.uk/our-services/general-surgery-gender.htm'
         tags: ['NHS Gender Services', Surgery, Manchester]
         manualDescription: 'NHS surgical clinic specialising in chest surgery'
+        image: 'nhs'
     -
         name: 'Transurgery (Mr Yelland)'
         url: 'http://transurgery.com/'
@@ -2103,6 +2124,7 @@ organisations:
         url: 'https://www.tranzwiki.net/'
         tags: [National]
         manualDescription: 'Directory of the groups campaigning for, supporting or assisting trans and gender non-conforming individuals, including those who are non-binary and non-gender, as well as their families across the UK.'
+        image: 'gires'
     -
         name: 'Durham Trans Campaign'
         url: 'http://trans.durhamlgbta.org.uk/'
@@ -2174,6 +2196,7 @@ organisations:
         url: 'https://www.bagis.co.uk/'
         tags: [National]
         manualDescription: 'Association of healthcare professionals, from a wide range of disciplines, committed to promoting excellence in clinical practice, clinical research, training and education in the field of healthcare for transgender and gender non-conforming people.'
+        image: 'bagis'
     -
         name: 'Kernow Katz'
         tags: ['South West']
