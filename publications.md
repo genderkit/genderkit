@@ -3,4 +3,6 @@
 layout: publications
 title: UK Publications
 description: List of publications from UK organisations about trans, non-binary, gender variant, and intersex issues
+feature:
+  image: /assets/images/publications.jpg
 ---
