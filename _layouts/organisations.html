@@ -71,7 +71,7 @@ document.body.onload = function() {
       </p>
     </section>
     <section>
-      <ul class="details">
+      <ul class="details" id="organisations">
       {% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.archived != true" | sort: 'name' %}
       {% for item in sortedOrganisations %}
         {% assign cssclasses = "" %}
@@ -89,6 +89,11 @@ document.body.onload = function() {
           {% assign url = "http://www.facebook.com/" | append: item.facebook %}
           {% elsif item.facebookId %}
           {% assign url = "http://www.facebook.com/" | append: item.facebookId %}
+          {% endif %}
+          {% if item.facebookId %}
+            <img src="{{ 'assets/images/organisations/' | append: item.facebookId | append: '.jpg' | absolute_url }}" />
+          {% elsif item.twitterId %}
+            <img src="{{ 'assets/images/organisations/' | append: item.twitterId | append: '.jpg' | absolute_url }}" />
           {% endif %}
           <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
           <p>
