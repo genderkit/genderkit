@@ -88,7 +88,8 @@ document.body.onload = function() {
               {% assign imagename = publisher.name | remove: "*" | remove: "," | remove: "&" | append: ' - ' | append: imagetitle %}
               <img src="{{ 'assets/images/publications/' | append: imagename | append: '.jpg' | absolute_url }}" height="200" />
               {% assign url = item.url %}
-              <span>{{ item.year }}</span> <a href="{{ url }}">{{ item.title | xml_escape }}</a> 
+              <a href="{{ url }}">{{ item.title | xml_escape }}</a>
+              <div class="publicationyear">{{ item.year }}</div> 
               {% if item.year < 2012 %}
                 <div class="datewarning"><em>Note:</em> This publication is very old and may contain out-of-date information.</div>
               {% endif %}
