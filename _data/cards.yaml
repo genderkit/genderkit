@@ -1,6 +1,6 @@
 explore:
   -
-    url: '/explore/names-ambiguous/'
+    url: '/names'
     name: Names
   -
     url: '/explore/pronouns/'

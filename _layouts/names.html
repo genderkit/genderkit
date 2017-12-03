@@ -1,0 +1,25 @@
+---
+layout: page
+---
+<main role="main">
+  <article>
+    <section>
+      {{ content }}
+      <img src="{{ 'assets/images/name-axes.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" style="max-width: 481px; margin-left: auto; margin-right: auto;" />
+    </section>
+    <section>
+      <h3>Lists of names</h3>
+      <p>These useful lists might inspire you.</p>
+      <ul class="wordlist">
+        {% assign explore = site.explore | sort: 'title' %}
+        {% for item in explore %}
+          {% if item.title contains 'name' %}
+            <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <h3>Changing your name</h3>
+      <p>You can read about how to change your name on our <a href="{{ site.baseurl }}{% link _categories/id-documents.md %}">ID documents page</a>.
+    </section>
+  </article>
+</main>

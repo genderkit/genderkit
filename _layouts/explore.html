@@ -3,17 +3,20 @@ layout: page
 ---
 <main role="main">
   <nav>
-    <h3>Explore</h3>
-    {% assign exploreList = site.explore %}
+    {% if page.title contains 'name' %}
+    <h3>See also</h3>
+    {% assign exploreList = site.explore | sort: 'title' %}
     <ul>
       {% for p in exploreList %}
-        {% if p.title == page.title %}
-          <li><em>{{ p.title }}</em></li>
-        {% else %}
-          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+        {% if p.title contains 'name' %}
+          {% if p.title == page.title %}
+          {% else %}
+            <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </ul>
+    {% endif %}
   </nav>
   <article>
     <section>
