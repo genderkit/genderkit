@@ -14,7 +14,7 @@ The most common technique for clitoroplasty is to use a small triangular piece o
 
 A variety of different variations on this basic technique exist, such as neourethroclitoroplasty (utilising urethral tissue as part of building the clitoris) {% cite trombetta2015technical %}, moving the remainder of the glans to between the urethra and neoclitoris for additional sensation {% cite selvaggi2011gender %}, and corona glans Clitoroplasty {% cite giraldo2004corona %}. There is no clear medical evidence about which techniques are most effective. You may wish to discuss the advantages and disadvantages of these techniques with your surgeon. 
 
-Historically, alternative techniques such as a free graft of the tip of the penis {% cite age1994sculpturing %}, retention of the entire glans, or use of the ventral (bottom) side of the glans {% cite bellringer:2007 -l 213 %} have also been used, but these are now much less common.
+Historically, alternative techniques such as a free graft of the tip of the penis {% cite hage1994sculpturing %}, retention of the entire glans, or use of the ventral (bottom) side of the glans {% cite bellringer:2007 -l 213 %} have also been used, but these are now much less common.
 
 Creation of a neoclitoris is a delicate surgery and is not without risk. It is common for there to be no sensation in the clitoris for many months after surgery. Around 2-5% of people who have a clitoroplasty do not gain sensation in the clitoris at all {% cite bellringer:2007 selvaggi2011gender  -l 214 %}, and around 15-25% are unable to reach orgasm after clitoroplasty, though findings have varied significantly between medical studies on this topic {% cite wylie:2016 %}.
 
