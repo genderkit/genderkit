@@ -37,14 +37,3 @@ Gender Construction Kit uses the following open source projects:
 Some articles are illustrated using a cropped version of a [photo of surgeons taken by Phalinn Ooi](https://www.flickr.com/photos/phalinn/8116089574/) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by/2.0/).
 
 The gamete storage article is illustrated using a [photo of ovarian tissue cryopreservation taken by Dr. Vereczkey Attila](https://commons.wikimedia.org/wiki/File:Petef%C3%A9szeksz%C3%B6vet-cs%C3%ADkok_fagyasztva_t%C3%A1rol%C3%A1sa.jpg) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
-
-Gender Construction Kit also uses a number of icon sets which have been published with with-attribution licenses:
-
-- [Speech bubbles 3](http://www.flaticon.com/packs/speech-bubbles-3) designed by "Pixel perfect"
-- [Cumulus](http://www.flaticon.com/packs/cumulus) designed by Yannick
-- [Body parts](http://www.flaticon.com/packs/body-parts) designed by Freepik
-- [Human body outline](http://www.flaticon.com/packs/human-body-outline) designed by Freepik
-- [Medicine and health](http://www.flaticon.com/packs/medicine-and-health) designed by Freepik
-- [Flowers and leaves](http://www.flaticon.com/packs/flowers-and-leaves) designed by Freepik
-- [Presentation cards](http://www.flaticon.com/packs/presentation-cards) designed by Freepik
-- [Social](http://www.flaticon.com/categories/social) designed by Freepik
