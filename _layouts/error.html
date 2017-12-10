@@ -18,10 +18,10 @@ layout: page
           <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}
       </ul>
-      <h3>Identities</h3>
+      <h3>Words</h3>
       <ul class="wordlist">
-        {% for identity in site.identities %}
-          <li><a href="{{ identity.url | relative_url }}">{{ identity.title }}</a></li>
+        {% for word in site.words %}
+          <li><a href="{{ word.url | relative_url }}">{{ word.title }}</a></li>
         {% endfor %}
       </ul>
       <h3>How to do it</h3>

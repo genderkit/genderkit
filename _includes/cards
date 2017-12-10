@@ -1,12 +1,12 @@
-<section>
-  {% assign cards = site.data.cards[include.cards] %}
-  <ul class="cards">
-    {% for item in cards %}
-    <li>
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        <span>{{ item.name }}</span>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+{% assign cards = site.data.cards[include.cards] %}
+<ul id="{{ include.cards }}">
+  {% for item in cards %}
+  {% assign slug = item.name | slugify %}
+  <li>
+    <a href="{{ site.baseurl }}{{ item.url }}">
+      <i {% if include.icons %}style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})"{% endif %} aria-hidden="true"></i>
+      <span>{{ item.name }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>

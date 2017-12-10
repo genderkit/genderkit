@@ -39,7 +39,7 @@ collections:
     output: true
   explore:
     output: true
-  identities:
+  words:
     output: true
 
 defaults:
@@ -64,10 +64,10 @@ defaults:
       permalink: /explore/:name/
   - scope:
       path: ""
-      type: identities
+      type: words
     values:
-      layout: identity
-      permalink: /identity/:name/
+      layout: word
+      permalink: /word/:name/
 
 stylus:
   compress: true

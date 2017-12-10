@@ -9,9 +9,59 @@ explore:
     url: '/explore/titles'
     name: Titles
   -
-    url: '/identities'
-    name: Identities
-
+    url: '/words'
+    name: Words
+  -
+    url: '/category/id-documents'
+    name: ID documents
+  -
+    url: '/category/head-hair'
+    name: Head hair
+  -
+    url: '/category/body-hair'
+    name: Body hair
+  -
+    url: '/category/voice'
+    name: Voice
+  -
+    url: '/category/facial-hair'
+    name: Facial hair
+  -
+    url: '/category/muscles'
+    name: Muscles
+  -
+    url: '/category/eyes'
+    name: Eyes
+  -
+    url: '/category/face'
+    name: Face
+  -
+    url: '/category/fragrance'
+    name: Fragrance
+  -
+    url: '/category/upper-body'
+    name: Upper body
+  -
+    url: '/category/lower-body'
+    name: Lower body
+  -
+    url: '/category/menstruation'
+    name: Menstruation
+  -
+    url: '/category/fertility'
+    name: Fertility
+  -
+    url: '/category/libido'
+    name: Libido
+  -
+    url: '/category/mood'
+    name: Mood
+  -
+    url: '/category/legal-and-financial'
+    name: Legal
+  -
+    url: '/category/medical-documents'
+    name: Medical
 indexes:
   -
     url: '/help'

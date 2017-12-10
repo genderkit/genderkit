@@ -12,8 +12,8 @@ layout: page
       <h3>What effects does it have?</h3>
       <ul class="effects">
       {% for item in info.effects %}
-        {% assign categoryslug = item.category | slugify %}
-        <li><i class="icon-{{ categoryslug }}" aria-hidden="true"></i><a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+        {% assign slug = item.category | slugify %}
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
     </section>

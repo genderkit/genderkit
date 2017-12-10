@@ -16,7 +16,7 @@
 	{% assign slug = page.title | slugify %}
 	{% assign info = site.data.articles[slug] %}
 	{% assign description = info.summary %}
-{% elsif page.collection == 'identities' %}
+{% elsif page.collection == 'words' %}
 	{% assign title = page.title | downcase %}
 	{% assign what = "What '" %}
 	{% assign description = what | append: title | append: "' means and when to use it" %}

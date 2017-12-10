@@ -2,14 +2,6 @@
 <html lang="en">
 <head>
   {% include head.html %}
-  <script>
-    function showVideo()
-    {
-      var header = document.getElementById('header');
-      header.innerHTML = "<div class='videoEmbedWrapper'><iframe width='560' height='315' src='https://www.youtube.com/embed/KGLEsDvb578?autoplay=1&rel=0&showinfo=0' frameborder='0' allowfullscreen></iframe></div>";
-      header.style.display = "block";
-    }
-  </script>
 </head>
 <body class="homescreen">
   <header role="banner" id="header">    
@@ -19,14 +11,28 @@
     <h2>
       {{ page.description }}
     </h2>
-    <a class="button" role="button" tabindex="0" onclick="showVideo(); return true;">Watch our video</a>
   </header>
 
-  {% include cards cards="explore" %}
+  <section id="ticker">
+    <div id="change">change</div>
+    <div>
+      <span class="orange">&raquo;</span> anything <span class="orange">you</span> need
+    </div>
+    <div>
+      <span class="orange">&raquo;</span> to any <span class="orange">mix</span> you want
+    </div>
+    <div>
+      <span class="orange">&raquo;</span> for as <span class="orange">long</span> as you like
+    </div>
+  </section>
 
-  {% include home_navgrid.html %}
+  <section>
+  {% include cards cards="explore" icons="true" %}
+  </section>
 
+  <section>
   {% include cards cards="indexes" %}
+  </section>
 
   <footer>
     <p>Gender Construction Kit is an <a href="http://github.com/genderkit/genderkit">open source project</a> created by <a href="{{ site.baseurl }}{% link credits.md %}">team of volunteers</a>.</p>

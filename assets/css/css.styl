@@ -78,7 +78,7 @@ section, footer, .greybox
   margin 0
 
 // Remove default UL styling on most lists  
-nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .details, .articles, .effects, #effectslist, #categorylist
+nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, .links, .details, .articles, .effects, #effectslist, #categorylist
   padding 0
   margin 0
   li
@@ -88,7 +88,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 
 // Lists where we want to squish the text together
 // to make list items more visually obvious 
-.articles, .effects, #effectslist, .details
+.articles, .effects, #effectslist, #explore, .details
   display flex
   flex-direction column
   img
@@ -101,7 +101,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
   li:last-child
     margin-bottom 0
     
-.articles, .effects, #effectslist
+.articles, .effects, #effectslist, #explore
   line-height 1.25
 
 // Index pages
@@ -144,22 +144,28 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
     margin-bottom 1rem
     
 // Article pages
-.effects, #effectslist
+.effects, #effectslist, #explore
   margin-top 1rem
+  padding 0
   li
-    padding-left 4rem
-    min-height 3rem
+    margin-left 6rem
+    padding-left 1rem
+    min-height 4rem
+    border-left 2px solid #a8f
   i // Icons to represent body parts etc.
     display block
     color black
     line-height 1
     font-size 3rem
-    width 3rem
-    height 3rem
-    margin-bottom -3rem
-    margin-left -4rem
-#effectslist li
-  padding-left 5rem
+    width 4rem
+    height 4rem
+    margin-bottom -4rem
+    margin-left -6.25rem
+    background-size 4rem
+#effectslist, #explore
+  span
+    display block
+    margin-top 2rem
 .bibliography
   list-style-type disc
 
@@ -242,19 +248,20 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
     color white
     padding 1rem
     margin 0
-#effectslist
-  padding 0
+#effectslist, #explore
   li
     background-color #f0f0fa
+    border none
     a
-      display block 
-      padding-top 1rem
-      padding-bottom 1.5rem
-.cards
+      display block
+#indexes
   display flex
   flex-direction column
   font-size 1.25rem
   font-weight $bold-weight
+  i
+    display none
+    background none
   li
     height 3rem
     margin 0 0 .5rem 0
@@ -273,6 +280,20 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, .cards, .links, .de
 .raquo
   font-size 3rem
   overflow hidden
+#ticker
+  background-color #445
+  color white
+  font-size 125%
+  padding 1rem
+  font-weight 300
+  line-height 1.35
+#change
+  font-size 2rem
+  font-weight 600
+  margin-left 0
+.orange
+  color #fa0
+  font-weight 600
     
 // Visual styling
 nav, aside, .warning, .attention
@@ -361,10 +382,8 @@ nav, aside, .attention
     text-align left
 
 // Horrible special cases to make things look nicer
-#effectslist
-  margin-top 0
-#effectslist i
-  margin-bottom -2rem
+#effectslist, #explore
+  margin-top 1rem
 a > span > span // Make citations appear correctly
   vertical-align baseline !important
   font-size 0.75rem

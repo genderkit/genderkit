@@ -24,7 +24,7 @@ $bold-weight = 600
     max-width 54rem
   .homescreen header h2
     width 32rem
-  .cards li
+  #indexes li
     width 25%
 
 // Change page look based on width
@@ -66,6 +66,15 @@ $bold-weight = 600
   .homescreen .button
     margin-left auto
     margin-top -5rem
+  #ticker
+    padding-left 0
+    padding-right 0
+  #change
+    margin-left 0
+  #ticker div
+    margin-left 1rem    
+  #subject
+    margin-left 2rem
   main
     flex-direction row
   figure
@@ -102,7 +111,7 @@ $bold-weight = 600
         width $column
         height 9rem
         margin-bottom 1rem
-  .cards
+  #indexes
     flex-direction row
     li
       flex-grow 1
@@ -110,10 +119,8 @@ $bold-weight = 600
       margin 0 .25rem 0 0 
     li:last-child
       margin 0
-  #effectslist
-    border-top 2px solid #eeeef4
-    border-bottom 2px solid #eeeef4
-    padding-top 2rem
+  #effectslist, #explore
+    margin-top 0
     flex-direction row
     flex-wrap wrap
     justify-content space-between
@@ -121,8 +128,10 @@ $bold-weight = 600
     li
       flex-direction column
       width 12rem
+      min-height 8rem
       margin-bottom 2rem
       padding-left 0
+      margin-left 0
       a
         padding-left 1rem
         padding-right 1rem
@@ -130,7 +139,9 @@ $bold-weight = 600
       margin-bottom 2rem
     i
       font-size 3rem
-      margin 0 auto 1rem auto
+      margin 1rem auto -.5rem auto
+  #effectslist
+    border-bottom 2px solid #eeeef4
   #effectslist:after // Hack to push the last few items over to the left
     content ""
     flex auto
