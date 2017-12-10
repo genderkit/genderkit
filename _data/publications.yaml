@@ -16,9 +16,9 @@ tags:
   - "Media"
   - "Sport"
   - "Legal"
+  - "Prisons"
   - "Sex"
   - "Health"
-
 
 publications:
   -
@@ -184,23 +184,11 @@ publications:
     url: "http://www.gires.org.uk/wp-content/uploads/2014/10/parliamentary-guidelines.pdf"
     tags: [Medical policies, Organisations]
   -
-    title: "Information about Hormonal Treatment for Trans Men"
-    organisation: "Leighton J Seal"
-    year: 2016
-    url: "https://uktrans.info/attachments/article/449/Seal%20-%20Information%20about%20hormonal%20therapy%20for%20trans%20men.pdf"
-    tags: [London, Hormones]
-  -
     title: "Administration Review"
     organisation: "West London Mental Health NHS Trust"
     year: 2012
     url: "https://uktrans.info/attachments/article/435/GIC-administration-review.pdf"
     tags: [London]
-  -
-    title: "Information about Hormonal Treatment for Trans Women"
-    organisation: "Leighton J Seal"
-    year: 2016
-    url: "https://uktrans.info/attachments/article/447/HRT-info-for-Trans-Women.pdf"
-    tags: [London, Hormones]
   -
     title: "Frequently asked questions about Trans*"
     organisation: "The Nottingham Centre for Transgender Health"
@@ -915,7 +903,86 @@ publications:
     organisation: "Faculty of Sexual and Reproductive Healthcare"
     year: 2017
     url: "https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf"
-    tags: [Sex, Health]    
+    tags: [Sex, Health] 
+  -
+    title: "Second Class Citizens, Second Class Women: The impact of gender inequality and commercial sexual exploitation on transsexual women"
+    organisation: "LGBT Youth Scotland"
+    year: 2012
+    url: "https://www.lgbtyouth.org.uk/files/documents/DomesticAbuseResources/Second_class_citizens_pdf.pdf"
+    tags: [Studies] 
+  -
+    title: "Learning lessons bulletin: transgender prisoners"
+    organisation: "Prisons and Probation Ombudsman"
+    year: 2017
+    url: "http://www.ppo.gov.uk/app/uploads/2017/01/PPO-Learning-Lessons-Bulletin_Transgender-prisoners_Final_WEB_Jan-17.pdf"
+    tags: [Prisons]
+  -
+    title: "Briefing paper: transgender prisoners"
+    organisation: "House of Commons"
+    year: 2016
+    url: "http://researchbriefings.files.parliament.uk/documents/CBP-7420/CBP-7420.pdf"
+    tags: [Prisons]
+  -
+    title: "Briefing on the Ministry of Justice’s review of the care and management of transgender offenders"
+    organisation: "Clinks"
+    year: 2017
+    url: "https://www.clinks.org/sites/default/files/basic/files-downloads/clinks_briefing_moj-trans-offenders_v2.pdf"
+    tags: [Prisons] 
+  -
+    title: "Guide to engaging trans people in swimming"
+    organisation: "Swim England"
+    year: 2017
+    url: "http://www.swimming.org/library/documents/2857/download"
+    tags: [Sport]  
+  -
+    title: "ASA Organisational Policies: Trans Competitors"
+    organisation: "Amateur Swimming Association"
+    year: 2015
+    url: "http://www.swimming.org/library/documents/222/download"
+    tags: [Sport]
+  -
+    title: "Guidelines for Supporting Trans Staff and Patients"
+    organisation: "Brighton and Sussex University Hospitals NHS Trust"
+    year: 2016
+    url: "https://www.bsuh.nhs.uk/wp-content/uploads/sites/5/2016/09/BSUH-Support-Trans-Staff-and-Patients-Version-2.pdf"
+    tags: [Medical policies]
+  -
+    title: "Guidance on supporting adult transgender service users"
+    organisation: "South London and Maudsley NHS Foundation Trust"
+    year: 2015
+    url: "http://www.slam.nhs.uk/media/409809/trans%20guidance.pdf"
+    tags: [Medical policies]
+  -
+    title: "Community Connections: Engaging Transgender People"
+    organisation: "Equality Network"
+    year: 2013
+    url: "http://www.slam.nhs.uk/media/409809/trans%20guidance.pdf"
+    tags: [Health]
+  -
+    title: "Shared Care Prescribing Guidance for Treatment of Gender Dysphoria in Transmen (Female to Male Transsexuals)"
+    organisation: "West London Mental Health NHS Trust"
+    year: 2017
+    url: "http://www.gpref.bedfordshire.nhs.uk/media/160185/Treatment_of_Gender_Dysphoria_in_Transmen_(Female_to_Male_Transsexuals).pdf"
+    tags: [Medical policies]
+  -
+    title: "Shared Care Prescribing Guidance for Treatment of Gender Dysphoria in Transwomen (Male to Female Transsexuals)"
+    organisation: "West London Mental Health NHS Trust"
+    year: 2017
+    url: "http://www.gpref.bedfordshire.nhs.uk/media/160288/Treatment%20of%20Gender_Dysphoria_in_Transwomen_(Male_to_Female_Transsexuals).pdf"
+    tags: [Medical policies]
+  -
+    title: "Information About Hormonal Treatment for Trans men"
+    organisation: "Leighton J Seal"
+    year: 2016
+    url: "http://www.gpref.bedfordshire.nhs.uk/media/160188/Patient_Information_FtM_2016_new_v1.pdf"
+    tags: [Hormones]
+  -
+    title: "Information About Hormonal Treatment for Trans women"
+    organisation: "Leighton J Seal"
+    year: 2016
+    url: "http://www.gpref.bedfordshire.nhs.uk/media/160285/Patient_information_MtF_2016_v2.pdf"
+    tags: [Hormones]
+
   # -
   #   title: ""
   #   organisation: ""
