@@ -39,6 +39,7 @@
 <meta property="og:description" content="{{ description }}" />
 <meta name="twitter:description" content="{{ description }}" />
 <meta property="og:site_name" content="Gender Construction Kit" />
+{% assign canonical = page.url | replace:'index.html','' %}
 <meta property="og:url" content="{{ canonical | absolute_url }}" />
 {% if page.collection == 'articles' %}
 <meta property="og:type" content="article" />
@@ -48,6 +49,10 @@
 <meta property="og:image:height" content="300" />
 <meta name="twitter:image" content="{{ page.feature.image | absolute_url }}" />
 <meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
+{% else %}
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
 {% endif %}
 {% else %}
 <meta property="og:type" content="website" />
@@ -57,10 +62,10 @@
 <meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
 {% else %}
 <meta property="og:image" content="{{ "/assets/images/opengraph.jpg" | absolute_url }}" />
-{% endif %}
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta name="twitter:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
+{% endif %}
 {% endif %}
 
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
