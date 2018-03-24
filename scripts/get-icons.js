@@ -14,15 +14,28 @@ fs.readFile('/vagrant/git/genderkit/_data/organisations.yaml', 'utf8', function 
 	
 	for (var i = 0; i < database.organisations.length; i++)
 	{
-		if (database.organisations[i].twitterIcon && database.organisations[i].twitterId)
+		if (database.organisations[i].twitterIcon && database.organisations[i].twitterID)
 		{
+			console.log("Downloading " + database.organisations[i].name + "(TwitterID:" + database.organisations[i].twitterID + ")");
 			download(database.organisations[i].twitterIcon)
-				.pipe(fs.createWriteStream("/vagrant/git/genderkit/assets/images/organisations/" + database.organisations[i].twitterId + ".jpg"));
+				.then(data => {
+					fs.writeFileSync("/vagrant/git/genderkit/assets/images/organisations/" + database.organisations[i].twitterID + ".jpg", data);
+				})
+				.catch((reason) => {
+					throw(reason);
+				});
 		}
+
 		if (database.organisations[i].facebookIcon && database.organisations[i].facebookId)
 		{
+			console.log("Downloading " + database.organisations[i].name);
 			download(database.organisations[i].facebookIcon)
-				.pipe(fs.createWriteStream("/vagrant/git/genderkit/assets/images/organisations/" + database.organisations[i].facebookId + ".jpg"));
+				.then(data => {
+					fs.writeFileSync("/vagrant/git/genderkit/assets/images/organisations/" + database.organisations[i].facebookId + ".jpg", data);
+				})
+				.catch((reason) => {
+					throw(reason);
+				});
 		}
 	}
 });
