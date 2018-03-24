@@ -56,15 +56,16 @@ Testosterone suppresses menstruation (periods). Some medical professionals have 
 
 To avoid any risk from endometrial hyperplasia, current UK guidelines recommend that people taking testosterone long-term should have a [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}), usually within a maximum of 4-5 years after starting testosterone {% cite cr181 -l 31 %}. However, this surgery is optional and you may feel the risks involved in a major operation are unnecessary considering the extremely small probability of cancer. If you decide not to undergo hysterectomy it is recommended to have scans to check for thickening of the endometrium every two years to reduce this risk {% cite seal2017 -l 240 %}.
 
-### Costs and funding
-
-If you have received a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy.
-
-If you are using private gender services, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. If your GP agrees, the cost of your medication is funded by the NHS. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
-
 For testosterone therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
-Testosterone therapy is not usually provided to under-18s, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
+
+### Costs and funding
+
+If you have received a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy. Testosterone therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
+
+You do not have to pay the full cost of medication you are prescribed on the NHS. You are not asked to pay anything at all in [Northern Ireland]( https://www.nidirect.gov.uk/articles/prescriptions), [Scotland](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs) and [Wales](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs). In England, people are asked to pay a small charge for each item on their prescriptions. There are ways you can reduce or avoid this cost, which you can read about on [the NHS website](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs).
+
+If you are using private gender services, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. If your GP agrees, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
 
 ### References
 

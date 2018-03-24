@@ -14,6 +14,8 @@ Taking GnRH agonists without also taking a sex hormone (e.g.
 
 {% capture warn %}
 GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptive %}. They do not remove the risk of making someone pregnant, and they do not remove the risk of becoming pregnant.
+
+
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -29,11 +31,15 @@ People who do not have gonads (ovaries and/or testes) do not need to take GnRH a
 
 GnRH agonists are usually supplied in forms that are administered once every four weeks {% cite prostap %}, twelve weeks {% cite zoladex %}, or six months {% cite decapeptyl %}.
 
+GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+
 ### Costs and funding
 
 GnRH treatment is available to people with testes who have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}.
 
-GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+You do not have to pay the full cost of medication you are prescribed on the NHS. You are not asked to pay anything at all in [Northern Ireland]( https://www.nidirect.gov.uk/articles/prescriptions), [Scotland](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs) and [Wales](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs). In England, people are asked to pay a small charge for each item on their prescriptions. There are ways you can reduce or avoid this cost, which you can read about on [the NHS website](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs).
+
+If you are using private gender services, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. If your GP agrees, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
 
 ### References
 
