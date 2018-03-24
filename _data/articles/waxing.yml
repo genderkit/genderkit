@@ -5,3 +5,5 @@ effects:
     detail: "Temporarily removes"
   - category: "Face"
     detail: "Reshapes eyebrows"
+  - category: "Facial hair"
+    detail: "Temporarily removes small amounts"
