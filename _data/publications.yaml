@@ -172,12 +172,6 @@ publications:
     url: "http://www.ngicns.scot.nhs.uk/wp-content/uploads/2016/04/NGICNS-Explanatory-Notes-for-GRP-v1-0-2.pdf"
     tags: [Medical policies, Scotland]
   -
-    title: "Statement on the management of Gender Identity Disorder (GID) in Children & Adolescents"
-    organisation: "British Society for Paediatric Endocrinology and Diabetes"
-    year: 2009
-    url: "https://www.bsped.org.uk/clinical/docs/BSPEDStatementOnTheManagementOfGID.pdf"
-    tags: [Medical policies, Children]
-  -
     title: "Guidelines for health organisations commissioning treatment services for trans people"
     organisation: "Parliamentary Forum on Gender Identity"
     year: 2009
@@ -356,7 +350,7 @@ publications:
     title: "Barriers to health faced by transgender and non-binary black and minority ethnic people"
     organisation: "Race Equality Foundation"
     year: 2016
-    url: "http://www.better-health.org.uk/sites/default/files/briefings/downloads/Better%20Health%2041%20-%20Trans%20NB%20[final].pdf"
+    url: "http://raceequalityfoundation.org.uk/wp-content/uploads/2018/02/Better-Health-41-Trans-NB-final.pdf"
     tags: [Studies, Race]
   -
     title: "Inclusivity - Supporting BAME Trans People"
@@ -929,12 +923,6 @@ publications:
     url: "https://www.clinks.org/sites/default/files/basic/files-downloads/clinks_briefing_moj-trans-offenders_v2.pdf"
     tags: [Prisons] 
   -
-    title: "Guide to engaging trans people in swimming"
-    organisation: "Swim England"
-    year: 2017
-    url: "http://www.swimming.org/library/documents/2857/download"
-    tags: [Sport]  
-  -
     title: "ASA Organisational Policies: Trans Competitors"
     organisation: "Amateur Swimming Association"
     year: 2015
@@ -982,7 +970,92 @@ publications:
     year: 2016
     url: "http://www.gpref.bedfordshire.nhs.uk/media/160285/Patient_information_MtF_2016_v2.pdf"
     tags: [Hormones]
-
+  -
+    title: "Cruising: A Trans Guy’s Guide To The Gay Sex Scene"
+    organisation: "CliniQ"
+    year: 2017
+    url: "https://cliniq.org.uk/wp-content/uploads/2017/12/CliniQ-TransGuys-landscape-ONLINE.pdf"
+    tags: [Sex]
+    warning: "This publication contains pictures of people wearing little clothing and of a sexual nature."
+  -
+    title: "The Hook-up: A Trans Woman’s Guide To The Sex Club Scene"
+    organisation: "CliniQ"
+    year: 2017
+    url: "https://cliniq.org.uk/wp-content/uploads/2017/12/CliniQ-TransWomen-landscape-ONLINE.pdf"
+    tags: [Sex]
+    warning: "This publication contains photographs of people wearing only underwear."
+  -
+    title: "Good Practice When Working With Young Trans People"
+    organisation: "Gendered Intelligence"
+    year: 2017
+    url: "http://cdn0.genderedintelligence.co.uk/2017/11/13/15-58-57-Working%20with%20young%20trans%20people.pdf"
+    tags: [Under 18s, Education]
+  -
+    title: "Trans Guides Issue 1: Name Change and Gender Recognition Certificates"
+    organisation: "LGBT Foundation"
+    year: 2017
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/d539a98f-a586-4c32-9736-ae9c5f5ac2dd/TransGuide1-Spreads-V2.pdf"
+    tags: [Legal]
+  -
+    title: "Trans Guides Issue 2: Support for GPs and Trans Patients"
+    organisation: "LGBT Foundation"
+    year: 2017
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/d1db79de-1646-47b7-8b4d-6321c36f00ab/TransGuideIssue2-DIGITAL.pdf"
+    tags: [Health]
+  -
+    title: "A guide for trans people who have been affected by sexual violence"
+    organisation: "LGBT Foundation"
+    year: 2017
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf"
+    tags: [Legal]
+  -
+    title: "Getting Equalities Monitoring Right"
+    organisation: "Scottish Trans"
+    year: 2017
+    url: "https://www.scottishtrans.org/wp-content/uploads/2017/06/getting_equalities_monitoring_right.pdf"
+    tags: [Employment]
+  -
+    title: "LGBT in Britain - Trans Report"
+    organisation: "Stonewall"
+    year: 2018
+    url: "http://www.stonewall.org.uk/sites/default/files/lgbt-in-britain-trans.pdf"
+    tags: [Studies]
+  -
+    title: "Supporting trans and gender-questioning students"
+    organisation: "National Education Union"
+    year: 2017
+    url: "https://neu.org.uk/file/295/download?token=J_SwaZqw"
+    tags: [Education]
+  -
+    title: "Supporting trans and gender-questioning students"
+    organisation: "National Education Union"
+    year: 2017
+    url: "https://neu.org.uk/file/295/download?token=J_SwaZqw"
+    tags: [Education]
+  -
+    title: "Trans* Inclusion Schools Toolkit - Supporting transgender and gender questioning children and young people in Brighton and Hove schools and colleges"
+    organisation: "Brighton and Hove City Council"
+    year: 2013
+    url: "http://www.mermaidsuk.org.uk/assets/media/Trans-Inclusion-Schools-Toolkit.pdf"
+    tags: [Education]
+  -
+    title: "Transforming Outcomes - A review of the needs and assets of the trans community"
+    organisation: "LGBT Foundation"
+    year: 2017
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/acd2bcc5-a2d4-4203-8e22-aed9f4843921/TransformingOutcomesLGBTFdn.pdf"
+    tags: [Studies]
+  -
+    title: "Trans Toolkit for Schools"
+    organisation: "Birmingham City Council"
+    year: 2017
+    url: "https://www.birmingham.gov.uk/download/downloads/id/8603/trans_inclusion_toolkit_for_schools.pdf"
+    tags: [Education]
+  -
+    title: "Gender, Sexual, and Relationship Diversity (GSRD) - Good Practice across the Counselling Professions"
+    organisation: "British Association for Counselling and Psychotherapy"
+    year: 2017
+    url: "https://www.bacp.co.uk/media/2334/bacp-gender-sexual-relationship-diversity-gpacp001.pdf"
+    tags: [Medical policies, Health]
   # -
   #   title: ""
   #   organisation: ""
