@@ -19,9 +19,15 @@ You will have to take finasteride for three to six months before you will notice
 
 Finasteride use has been linked to liver problems and depression {% cite seal:2007 -l 174 %}. It is not normally prescribed to anyone at risk of pregnancy due to potential effects on unborn children {% cite finasteride %}.
 
-Finasteride is only available in the UK with a prescription.
-
 You can read more about hair loss treatments on the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+
+### Costs and funding
+
+Finasteride is a "prescription-only medication", meaning you are only able to get it from a pharmacy by giving them a valid prescription. 
+
+NHS guidelines indicate that finasteride is not funded by the NHS. You can, however, ask your GP to write you a "private prescription" that allows you to obtain the medication if you pay the costs for it yourself.
+
+Finasteride costs around £5-£10 per week depending on your dosage level.
 
 ### References
 
