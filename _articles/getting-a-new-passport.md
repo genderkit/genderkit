@@ -7,28 +7,33 @@ feature:
 ---
 
 {% capture warn %}
-Any current visa you hold will not be transferred to your new passport. Some countries will allow you to travel with both your new valid passport and your old invalidated passport, but this will out you every time that you need to show your visa. Other countries will require you to have the visa transferred or possibly even apply for a new visa. You are advised to check with any country you hold a visa with before you up update your details.
+Any current visa you hold will not be transferred to your new passport. Some countries will allow you to travel with both your new valid passport and your old invalidated passport, but this will out you every time that you need to show your visa. Other countries will require you to have the visa transferred or possibly even apply for a new visa. You are advised to check with any country you hold a visa with before you update your details.
 {% endcapture %}
 {% include warning warning=warn %}
 
-Updating a passport is different depending on your situation with paperwork and if you already have a passport.
+Updating a passport is different depending on whether you already have a UK passport or not.
 
-You will always need to send the passport office two [passport photographs](https://www.gov.uk/photos-for-passports). If you have changed significantly or this is your first passport you will also need to get them [countersigned](https://www.gov.uk/countersigning-passport-applications) as well. If you are in doubt it can be better to get them countersigned as if they need you to send in new photographs it will slow your application down. 
+### I already have an existing UK passport
 
-If you already have a passport:
+You can update your name and/or gender marker on an existing UK passport either [online](https://www.gov.uk/apply-renew-passport) or by post. Forms for postal updates are available from your local post office. You will need to return your old passport along with the application. If you have lost your passport, you will need to declare it lost. 
 
-You can update your name and/or gender marker on your passport either [online](https://www.gov.uk/apply-renew-passport) or by post. Forms for postal updates are available from your local post office. You will need to return your old passport along with the application or declare it lost if you've lost it. 
+To update your name on your passport you will need to send your [deed poll]({{ site.baseurl }}{% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({{ site.baseurl }}{% link _articles/name-change-by-statutory-declaration.md %}). Photocopies are not accepted, so you must either send the original document or a [certified copy](https://www.gov.uk/certifying-a-document).  
 
-To update your name on your passport you will need to send them your [deed poll]({{ site.baseurl }}{% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({{ site.baseurl }}{% link _articles/name-change-by-statutory-declaration.md %}). You must send the passport office an original or a [certified copy](https://www.gov.uk/certifying-a-document) of the document they do not accept photocopies. 
+To update your gender marker on an existing passport you will also need either:
 
-To update your gender marker on your passport you need a letter from a doctor (normally either your gender specialist or your general practitioner) saying that they consider this change to be permanent. Or a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) if you have one. But you are not required to have a GRC to update the gender marker on your UK passport, it just means that you do not require the letter from your doctor. If you are getting your letter from a GP there is usually a charge for this letter.
+- a letter from a doctor (normally either your gender specialist or your GP) saying that they consider this change to be permanent. Your GP will usually  charge you money for writing this letter.
+- or a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}). 
 
-If you do not have a passport or a GRC and updated birth certificate:
+A GRC is *not* required to update your passport if you have a letter from a specialist or GP.
 
-You will need to fill in the application for a new passport and include your birth or adoption certificate along with the documents listed above.
+### I don't have an existing UK passport
 
-If you do not have a passport but do have a GRC and updated birth certificate:
+If you already have a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) or an updated birth certificate, you can apply for a passport as normal with your updated birth or adoption certificate. Name change documents and letters from doctors are not required.
 
-You can apply for a passport as normal with your updated birth or adoption certificate, name change documents and letters from doctors are not required.
+If you *do not* have a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) and updated birth certificate, you will need to fill in the application for a new passport, and include your existing birth or adoption certificate along with the documents listed above.
+
+### More information
+
+Regardless of whether you have an existing UK passport, you will need to send the passport office two [passport photographs](https://www.gov.uk/photos-for-passports). If your appearance has changed significantly, or this is your first passport, you will also need to get the photographs [countersigned](https://www.gov.uk/countersigning-passport-applications). If you are in doubt, it can be better to get them countersigned, as having to respond to a request to send in new photographs can slow the process down. 
 
 You can read more about obtaining or renewing passports on the [HM Passport Office website](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251703/Applying_for_a_passport_additional_information.PDF).
