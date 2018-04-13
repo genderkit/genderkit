@@ -2052,11 +2052,6 @@ organisations:
         manualDescription: 'NHS surgical clinic specialising in chest surgery'
         image: nhs
     -
-        name: 'Transurgery (Mr Yelland)'
-        url: 'http://transurgery.com/'
-        tags: [Surgery, National]
-        manualDescription: 'Surgical clinic specialising in chest surgery'
-    -
         name: 'St Peters Andrology Centre London (Mr Christopher, Mr Ralph)'
         url: 'https://www.andrology.co.uk/'
         tags: [Surgery, National]
