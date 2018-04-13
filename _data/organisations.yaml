@@ -2311,3 +2311,17 @@ organisations:
         lastTwitterPost: 'Thu Mar 29 11:12:33 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/977941935460704256/EY936cCi_normal.jpg'
         twitterDescription: 'Peer based support in the North East for all individuals who identify as Transgender, inclusive of all gender-conforming and nonconforming identities.'
+    -
+        name: 'Trans Pride NI'
+        tags: ['Northern Ireland']
+        url: 'https://transprideni.wordpress.com/'
+        twitter: transprideni
+        twitterID: '916762721433063425'
+        twitterDescription: '🎉The First Ever Trans Pride in Ireland, 2nd June 2018🎉 #TransPrideNI 🏳️‍🌈transprideni@yahoo.com Re tweets are not endorsements.'
+    -
+        name: 'Action for Trans Health Durham'
+        tags: ['North East']
+        url: 'https://a4thdurham.wordpress.com/'
+        twitter: A4THDurham
+        twitterID: '928363153485910019'
+        twitterDescription: 'Action for Trans Health - a local branch of the campaign for democratic trans health care'
