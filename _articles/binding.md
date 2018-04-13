@@ -29,7 +29,6 @@ Binders typically cost £25-50. Well known retailers of binders serving the UK i
 - [Spectrum Outfitters](https://www.spectrumoutfitters.co.uk)
 - [F2mbinders](http://www.f2mbinders.com/) - formerly known as Underworks
 - [gc2b](https://www.gc2b.co/)
-- [Les Love Boat](http://www.lesloveboat.com/shop/) - best for slim/small chested people
 - [T Kingdom](http://www.t-kingdom.com/) - best for slim/small chested people
 
 Buying from abroad may incur customs charges.

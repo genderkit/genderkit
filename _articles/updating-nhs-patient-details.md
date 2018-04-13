@@ -11,7 +11,7 @@ Changing gender marker may affect whether you are invited to important medical s
 {% endcapture %}
 {% include warning warning=warn %}
 
-You can change your name, title, or gender with the NHS at any time you like by telling your GP surgery. If your GP surgery is not happy to do this, you may wish to show your GP [the General Medical Council guidance on this issue](http://www.gmc-uk.org/guidance/ethical_guidance/28861.asp).
+You can change your name, title, or gender with the NHS at any time you like by telling your GP surgery. If your GP surgery is not happy to do this, you may wish to show your GP [the General Medical Council guidance on this issue](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#confidentiality-and-equality).
 
 The NHS has multiple different systems that store details about patients. Most of these will be automatically updated when you tell your GP surgery. 
 
