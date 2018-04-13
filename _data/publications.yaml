@@ -265,7 +265,7 @@ publications:
     title: "Coming Out - A Coming Out Guide for Trans Young People"
     organisation: "LGBT Youth Scotland"
     year: 2015
-    url: "https://www.lgbtyouth.org.uk/files/documents/guides/Coming_out_guide_-_T.pdf"
+    url: "https://www.lgbtyouth.org.uk/media/1054/coming-out-guide-for-t-people.pdf"
     tags: [Under 18s, Scotland]
   -
     title: "Trans Youth Sexual Health Booklet"
@@ -902,7 +902,7 @@ publications:
     title: "Second Class Citizens, Second Class Women: The impact of gender inequality and commercial sexual exploitation on transsexual women"
     organisation: "LGBT Youth Scotland"
     year: 2012
-    url: "https://www.lgbtyouth.org.uk/files/documents/DomesticAbuseResources/Second_class_citizens_pdf.pdf"
+    url: "https://www.rapecrisisscotland.org.uk/resources/Second-class-citizens-pdf.pdf"
     tags: [Studies] 
   -
     title: "Learning lessons bulletin: transgender prisoners"
@@ -1056,6 +1056,42 @@ publications:
     year: 2017
     url: "https://www.bacp.co.uk/media/2334/bacp-gender-sexual-relationship-diversity-gpacp001.pdf"
     tags: [Medical policies, Health]
+  -
+    title: "Supporting Transgender Young People - Guideance for Schools in Scotland"
+    organisation: "LGBT Youth Scotland"
+    year: 2017
+    url: "https://www.lgbtyouth.org.uk/media/1344/supporting-transgender-young-people.pdf"
+    tags: [Education]
+  -
+    title: "Gender Identity Issues in the Asylum Claim"
+    organisation: "UK Visas and Immigration"
+    year: 2011
+    url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/257387/genderissueintheasylum.pdf"
+    tags: [Legal]
+  -
+    title: "Supporting transgender and gender-diverse people"
+    organisation: "Royal College of Psychiatrists"
+    year: 2018
+    url: "https://www.rcpsych.ac.uk/pdf/PS02_18.pdf"
+    tags: [Medical policies]
+  -
+    title: "Primary Care Responsibilities In Regard To Requests by Private On-Line Medical Service Providers to Prescribe Hormone Treatments for Transgender People"
+    organisation: "NHS England"
+    year: 2018
+    url: "https://gendergp.co.uk/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf"
+    tags: [Medical policies]
+  -
+    title: "Primary Care Responsibilities in Prescribing and Monitoring Hormone Therapy for Transgender and Non-Binary Adults (updated)"
+    organisation: "NHS England"
+    year: 2016
+    url: "https://shsc.nhs.uk/wp-content/uploads/2016/04/SSC1620_GD-Prescribing.pdf"
+    tags: [Medical policies]
+  -
+    title: "Guidance for doctors treating transgender and non-binary patients"
+    organisation: "East Lancashire Health Economy Medicines Management Board"
+    year: 2016
+    url: "http://www.elmmb.nhs.uk/_resources/assets/attachment/full/0/17370.pdf"
+    tags: [Medical policies]
   # -
   #   title: ""
   #   organisation: ""
