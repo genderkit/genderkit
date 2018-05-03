@@ -12,6 +12,6 @@ cd live
 git clone git@github.com:genderkit/genderkit.git
 cd genderkit
 bundle install
-bundle exec jekyll build --config _config-live.yml
+bundle exec jekyll build --config /vagrant/live/genderkit/_config-live.yml
 aws s3 sync ./_site/ s3://genderkit.org.uk/
 rm -rv /vagrant/live
