@@ -1,6 +1,58 @@
+REST.COPY.OBJECT_GET
 [Bb]otocore
 80.229.172.125
 broken-link-checker
 S3Console/0.4
 FBRV/[0-9][0-9]
+G-i-g-a-b-o-t
 Googlebot
+Google Favicon
+BaiduSpider
+GNU social/
+aws-internal
+beam/
+Crowdfire
+Crowsnest
+Friendica
+HTTP_Request2
+Java/
+tweetedtimes
+Genieo
+postActiv
+python-requests
+aiohttp
+Ruby
+something
+WordPress
+IDG Twitter Links Resolver
+Hatena::Bookmark
+Gajim
+Python-httplib2
+Dataprovider.com
+oBot
+Slack
+slack
+CFNetwork
+InfoPath
+SMUrlExpander
+Tumblr
+ShortLinkTranslate
+Google-Site-Verification
+W3C_Validator
+Validator.nu
+Agent
+package http
+SpiderLing
+RSSMicro
+www.nominet.org.uk
+MSIE 5.01
+MSIE5.01
+wp-login
+unfurlist
+"Mozilla"
+"Mozilla/5.0"
+"-" "-" -
+MBCrawler
+Amazon CloudFront
+OrgProbe/
+Kerrigan/
