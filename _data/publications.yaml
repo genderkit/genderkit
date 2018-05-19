@@ -79,7 +79,7 @@ publications:
     title: "A Transgender Primer"
     organisation: "Channel Four"
     year: 2011
-    url: "https://uktrans.info/attachments/article/31/transgender-primer-final.pdf"
+    url: "http://www.allabouttrans.org.uk/wp-content/uploads/2014/05/Transgender-Primer_BW-Spreads_iPad_Phone.pdf"
     tags: [Media]
   -
     title: "Media Style Guide"
@@ -357,7 +357,7 @@ publications:
     organisation: "GIRES"
     year: 2016
     url: "http://www.gires.org.uk/wp-content/uploads/2016/02/BAME_Inclusivity.pdf"
-    tags: [Studies, Race]
+    tags: [Race]
   -
     title: "Providing services for transgender customers - a guide"
     organisation: "Government Equalities Office"
@@ -478,6 +478,12 @@ publications:
     year: 2010
     url: 'http://www.scottishtrans.org/wp-content/uploads/2013/03/psd_trans_report.pdf'
     tags: [Studies]
+  -
+    title: 'Provision of goods, facilities and services to trans people'
+    organisation: 'Equality and Human Rights Commission'
+    year: 2010
+    url: 'http://www.scottishtrans.org/wp-content/uploads/2013/03/psd_trans_report.pdf'
+    tags: [Studies]    
   -
     title: 'Engendered Penalties: Transgender and Transsexual People’s Experiences of Inequality and Discrimination'
     organisation: 'The Equalities Review'
@@ -632,7 +638,25 @@ publications:
     title: "The General Guide for all Users - Gender Recognition Act 2004"
     organisation: "HM Courts and Tribunals Service"
     year: 2016
-    url: 'https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf'
+    url: 'http://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf'
+    tags: [Legal]
+  -
+    title: "Guidance on Completing the Standard Application Form for a Gender Recognition Certificate"
+    organisation: "HM Courts and Tribunals Service"
+    year: 2016
+    url: 'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/689099/t451-eng.pdf'
+    tags: [Legal]
+  -
+    title: "Guidance on completing the Overseas application form for a Gender Recognition Certificate"
+    organisation: "HM Courts and Tribunals Service"
+    year: 2016
+    url: 'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/689104/t454-eng.pdf'
+    tags: [Legal]
+  -
+    title: "Guidance on Completing the Alternative Application Form for a Gender Recognition Certificate"
+    organisation: "HM Courts and Tribunals Service"
+    year: 2016
+    url: 'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/689108/t465-eng.pdf'
     tags: [Legal]
   -
     title: "Transforming the Workplace - A TUC guide for trade union activists on supporting trans members"
@@ -791,12 +815,6 @@ publications:
     url: "http://gov.wales/docs/dsjlg/publications/equality/160314-transgender-action-plan-en.pdf"
     tags: [Wales]
   -
-    title: "A guide for trans people who have been affected by sexual violence"
-    organisation: "LGBT Foundation"
-    year: 2015
-    url: "http://gov.wales/docs/dsjlg/publications/equality/160314-transgender-action-plan-en.pdf"
-    tags: []
-  -
     title: "Operational research report following visits and analysis of Gender Identity Clinics in England"
     organisation: "NHS England"
     year: 2015
@@ -872,12 +890,6 @@ publications:
     title: "Transgender Inclusion in Drug and Alcohol Services"
     organisation: "Scottish Trans"
     year: 2016
-    url: "https://www.scottishtrans.org/wp-content/uploads/2016/12/trans-inclusin-in-drug-and-alcohol-services.pdf"
-    tags: [Studies, Health]
-  -
-    title: "Supporting Transgender Young People - Guidance For Schools In Scotland"
-    organisation: "LGBT Youth Scotland"
-    year: 2017
     url: "https://www.scottishtrans.org/wp-content/uploads/2016/12/trans-inclusin-in-drug-and-alcohol-services.pdf"
     tags: [Studies, Health]
   -
@@ -993,7 +1005,7 @@ publications:
   -
     title: "A guide for trans people who have been affected by sexual violence"
     organisation: "LGBT Foundation"
-    year: 2017
+    year: 2015
     url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf"
     tags: [Legal]
   -
@@ -1039,7 +1051,7 @@ publications:
     url: "https://www.bacp.co.uk/media/2334/bacp-gender-sexual-relationship-diversity-gpacp001.pdf"
     tags: [Medical policies, Health]
   -
-    title: "Supporting Transgender Young People - Guideance for Schools in Scotland"
+    title: "Supporting Transgender Young People - Guidance for Schools in Scotland"
     organisation: "LGBT Youth Scotland"
     year: 2017
     url: "https://www.lgbtyouth.org.uk/media/1344/supporting-transgender-young-people.pdf"
@@ -1074,6 +1086,221 @@ publications:
     year: 2016
     url: "http://www.elmmb.nhs.uk/_resources/assets/attachment/full/0/17370.pdf"
     tags: [Medical policies]
+  -
+    title: "Trans Equality Policy"
+    organisation: "The University of Edinburgh"
+    year: 2017
+    url: "https://www.ed.ac.uk/files/atoms/files/trans_equality_policy.pdf"
+    tags: [Education]
+  -
+    title: "Transgender Guidance for Schools"
+    organisation: "Bolton Safeguarding Children"
+    year: 2018
+    url: "http://www.sacred-heart.bolton.sch.uk/wp-content/uploads/2018/01/TRANSGENDER-GUIDANCE-AND-POLICY.pdf"
+    tags: [Education]
+  -
+    title: "Transgender Policy - Guidance for Athletics Clubs and Competition Providers"
+    organisation: "United Kingdom Athletics"
+    year: 2016
+    url: "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=146122&type=full&servicetype=Attachment"
+    tags: [Sport]
+  -
+    title: "Transgender Guidance for Ceredigion Schools"
+    organisation: "Ceredigion County Council"
+    year: 2018
+    url: "https://www.ceredigion.gov.uk/media/1399/transgender-guidance-for-schools.pdf"
+    tags: [Education]
+  -
+    title: "Transgender Guidance for Schools"
+    organisation: "Torbay Safeguarding Children Board"
+    year: 2017
+    url: "http://torbaysafeguarding.org.uk/media/1233/tscb-transgender-guidance-version-1-october-2017.pdf"
+    tags: [Education]
+  -
+    title: "Trans Inclusion Guidance - Supporting Inclusivity in our Curriculum and Practices"
+    organisation: "University of Essex"
+    year: 2017
+    url: "https://www1.essex.ac.uk/outreach/documents/transgender-guidance.pdf"
+    tags: [Education]
+  -
+    title: "Policy and Procedures for trans or transgender hockey players"
+    organisation: "England Hockey"
+    year: 2017
+    url: "http://www.englandhockey.co.uk/core/core_picker/download.asp?id=16231"
+    tags: [Sport]
+  -
+    title: "Health Care Needs Assessment of Gender Identity Services"
+    organisation: "Scottish Public Health Network"
+    year: 2017
+    url: "https://www.scotphn.net/wp-content/uploads/2017/04/2018_05_16-HCNA-of-Gender-Identity-Services.pdf"
+    tags: [Studies]
+  -
+    title: "Stronger Together - Guidance for women's services on the inclusion of transgender women"
+    organisation: "Scottish Transgender Alliance"
+    year: 2015
+    url: "https://www.scottishtrans.org/wp-content/uploads/2016/05/Stronger_Together_-_September_2015.pdf"
+    tags: [Studies]
+  -
+    title: "Monitoring and promoting Trans Health across the North West"
+    organisation: "NHS North West"
+    year: 2013
+    url: "https://www.lancashirecare.nhs.uk/media/E&D/Useful_Links_Docs/Trans%20Health%20GP%20Practices%20Report%20March%202013.pdf"
+    tags: [Studies]
+  -
+    title: "Supporting Transgender And Gender Variant Children And Young People - Guidance for Schools"
+    organisation: "Clackmannanshire and Stirling Council"
+    year: 2016
+    url: "https://www.centralsexualhealth.org/media/8009/guidance-for-schools-trans-gender-variance.pdf"
+    tags: [Education]
+  -
+    title: "Transgender Employees Policy & Guide"
+    organisation: "NHS Shetland"
+    year: 2017
+    url: "http://www.shb.scot.nhs.uk/board/policies/TransgenderEmployeesPolicyv2.pdf"
+    tags: [Employment]
+  -
+    title: "Towards a Trans Positive Culture"
+    organisation: "Bradford College"
+    year: 2015
+    url: "https://www.bradfordcollege.ac.uk/sites/default/files/towards-a-trans-positive-culture.pdf"
+    tags: [Education, Studies]
+  -
+    title: "Domestic Violence - A resource for trans people in Brighton and Hove"
+    organisation: "Brighton and Hove LGBT DVA Working Group"
+    year: 2011
+    url: "https://avaproject.org.uk/wp/wp-content/uploads/2016/03/Domestic-Violence-a-resource-for-trans-people-in-Brighton-and-Hove.pdf"
+    tags: [Legal]
+  -
+    title: "Trans Needs Assessment 2015"
+    organisation: "Brighton and Hove City Council"
+    year: 2015
+    url: "https://www.bhconnected.org.uk/sites/bhconnected/files/Brighton%20%26%20Hove%20Trans%20Needs%20Assessment%202015.pdf"
+    tags: [Studies]
+  -
+    title: "Guidance on Supporting Transgender Staff and Students"
+    organisation: "University of Birmingham"
+    year: 2018
+    url: "https://www.bhconnected.org.uk/sites/bhconnected/files/Brighton%20%26%20Hove%20Trans%20Needs%20Assessment%202015.pdf"
+    tags: [Education]
+  -
+    title: "Transgender, Intersex and Gender Non-Conforming People: Policy"
+    organisation: "City, University of London"
+    year: 2017
+    url: "https://www.city.ac.uk/__data/assets/pdf_file/0020/350633/Item-15-Transgender-Policy-Guidance-and-Appendices.pdf"
+    tags: [Education]
+  -
+    title: "Guidance For Prosecutors In Relation To Transgender Accused"
+    organisation: "Crown Office and Procurator Fiscal Service"
+    url: "https://www.city.ac.uk/__data/assets/pdf_file/0020/350633/Item-15-Transgender-Policy-Guidance-and-Appendices.pdf"
+    tags: [Legal]
+  -
+    title: "Transgender Guidance"
+    organisation: "University of Oxford"
+    year: 2018
+    url: "http://www.admin.ox.ac.uk/media/global/wwwadminoxacuk/localsites/equalityanddiversity/documents/transgender/180123_Transgender_guidance_FINAL.pdf"
+    tags: [Education]    
+  -
+    title: "Transgender Policy and Guidance"
+    organisation: "University of West London"
+    year: 2017
+    url: "https://www.uwl.ac.uk/sites/default/files/transgender_policy_and_guidance_2017_may_2017.pdf"
+    tags: [Education]    
+  -
+    title: "Transphobic Hate Crime"
+    organisation: "Greater Manchester Police and Crime Commissioner"
+    year: 2016
+    url: "http://www.gmp.police.uk/live/nhoodv3.nsf/WebAttachments/61FA40D8117BFE9080257F550054D2DC/$File/TRANS-REPORT-INTERACTIVE.pdf"
+    tags: [Studies]
+  -
+    title: "Transgender Staff Support Policy"
+    organisation: "St Helens and Knowsley Teaching Hospitals NHS Trust"
+    year: 2016
+    url: "http://www.sthk.nhs.uk/workwithus/Documents/Transgender%20Staff%20Support%20Policy%20Jan%202016.pdf"
+    tags: [Employment]    
+  -
+    title: "Transgender Staff Guidance"
+    organisation: "The Open University"
+    year: 2013
+    url: "http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/g/gender-reassignment/Transgender-Staff-Guidance-HRG336.pdf"
+    tags: [Employment]  
+  -
+    title: "Research Study into the Trans Population of Manchester"
+    organisation: "Manchester City Council"
+    year: 2016
+    url: "http://www.manchester.gov.uk/download/downloads/id/24619/research_study_into_the_trans_population_of_manchester.pdf"
+    tags: [Studies]
+  -
+    title: "Yorkshire and Humber Protocol - Providing Hospital Services To Trans Patients"
+    organisation: "NHS Yorkshire and the Humber"
+    year: 2012
+    url: "http://www.barnsleyhospital.nhs.uk/equalitydiversity/files/2012/01/Providing-Hospital-Services-to-Trans-Patients-Protocol-2012.pdf"
+    tags: [Medical policies]
+  -
+    title: "Transgender and work - Your rights in employment and vocational training"
+    organisation: "Equality and Human Rights Commission"
+    year: 2008
+    url: "http://www.gcgrp.net/Assets/Docs/EqualityDiversity/EHRCTransGenderWorkYourRightsInEmployment.pdf"
+    tags: [Employment]
+  -
+    title: "Transgender Policy & Procedural Guidance"
+    organisation: "Cymorth i Ferched Cymru - Welsh Women's Aid"
+    year: 2016
+    url: "http://www.welshwomensaid.org.uk/wp-content/uploads/2018/04/WWA-Transgender-Policy-and-Procedural-Guidance-INTERNAL.pdf"
+    tags: []
+  -
+    title: "Gender Identity Policy and Guidance"
+    organisation: "The Open University"
+    year: 2018
+    url: "http://www.open.ac.uk/students/charter/sites/www.open.ac.uk.students.charter/files/files/gender-identity-policy-and-guidance.pdf"
+    tags: [Education]
+  -
+    title: "Gender recognition: how pensions and benefits may be affected"
+    organisation: "Department for Work and Pensions"
+    year: 2018
+    url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/677567/gender-recognition-pensions-and-benefits.pdf"
+    tags: [Legal]
+  -
+    title: "Transgender awareness in child and family social work education"
+    organisation: "Department for Education"
+    year: 2018
+    url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/706344/Transgender_awareness_in_child_and_family_social_work_education.pdf"
+    tags: [Studies]
+  -
+    title: "Analysis of public consultation on proposed service specifications for specialised Gender Identity Services for Adults"
+    organisation: "NHS England and NHS Scotland"
+    year: 2018
+    url: "https://www.engage.england.nhs.uk/survey/gender-identity-services-for-adults/user_uploads/report-independent-analysis-consultation-responses-gender-identity-service-specifications.pdf"
+    tags: [Studies, Medical policies]
+  -
+    title: "Supporting trans employees in the workplace"
+    organisation: "ACAS"
+    year: 2017
+    url: "http://m.acas.org.uk/media/pdf/6/f/Supporting-trans-employees-in-the-workplace.pdf"
+    tags: [Employment]
+  -
+    title: "Gender reassignment discrimination: key points for the workplace"
+    organisation: "ACAS"
+    year: 2017
+    url: "http://m.acas.org.uk/media/pdf/6/7/Gender_reassignment_discrimination_Nov.pdf"
+    tags: [Employment]
+  -
+    title: "Trans Pregnancy Law and Policy Review - United Kingdom"
+    organisation: "Trans Pregnancy Project"
+    year: 2017
+    url: "https://transpregnancy.leeds.ac.uk/wp-content/uploads/sites/70/2018/05/Trans-Pregnancy-policy-review-UK.pdf"
+    tags: [Employment, Legal]      
+  -
+    title: "Advising Transgender Clients"
+    organisation: "Scottish Transgender Alliance"
+    year: 2014
+    url: "https://www.scottishtrans.org/wp-content/uploads/2014/02/Advising-Transgender-Clients-Seminar.pdf"
+    tags: [Legal]
+  -
+    title: "Leading Trans Equality: A Toolkit for Colleges"
+    organisation: "Lancester University Centre for Excellence in Leadership"
+    year: 2008
+    url: "https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/lsis/r14.pdf"
+    tags: [Education]    
   # -
   #   title: ""
   #   organisation: ""
