@@ -285,7 +285,7 @@ publications:
     organisation: "Gendered Intelligence"
     year: 2012
     url: "http://cdn0.genderedintelligence.co.uk/2012/11/17/17-18-53-Report_into_Parents_and_family_members_of_trans_people1108.pdf"
-    tags: [Family]
+    tags: [Family, Studies]
   -
     title: "A guide for young trans people in the UK"
     organisation: "Department of Health"
@@ -1139,7 +1139,7 @@ publications:
     organisation: "Scottish Transgender Alliance"
     year: 2015
     url: "https://www.scottishtrans.org/wp-content/uploads/2016/05/Stronger_Together_-_September_2015.pdf"
-    tags: [Studies]
+    tags: []
   -
     title: "Monitoring and promoting Trans Health across the North West"
     organisation: "NHS North West"
