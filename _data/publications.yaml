@@ -527,6 +527,12 @@ publications:
     url: 'http://uktrans.info/namechange.pdf'
     tags: [Legal]
   -
+    title: 'Transgender Equality'
+    organisation: 'House of Commons Women and Equalities Committee'
+    year: 2015
+    url: 'https://publications.parliament.uk/pa/cm201516/cmselect/cmwomeq/390/390.pdf'
+    tags: [Legal, Studies]
+  -
     title: 'Government Response to the Women and Equalities Committee Report on Transgender Equality'
     organisation: 'Government Equalities Office'
     year: 2016
@@ -1301,6 +1307,48 @@ publications:
     year: 2008
     url: "https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/lsis/r14.pdf"
     tags: [Education]    
+  -
+    title: "Gender Variance in the UK: Prevalence, Incidence, Growth and Geographic Distribution"
+    organisation: "GIRES"
+    year: 2009
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/10/GenderVarianceUK-report.pdf"
+    tags: [Studies]
+  -
+    title: "The Number of Gender Variant People in the UK - Update 2011"
+    organisation: "GIRES"
+    year: 2011
+    url: "http://www.gires.org.uk/wp-content/uploads/2014/10/Prevalence2011.pdf"
+    tags: [Studies]
+  -
+    title: "Joint Strategic Needs Assessment - Transgender Community"
+    organisation: "Health and Wellbeing Suffolk"
+    year: 2015
+    url: "https://www.healthysuffolk.org.uk/uploads/Transgender.pdf"
+    tags: []
+  -
+    title: "Transgender Care Policy"
+    organisation: "University Hospitals of Morecambe Bay NHS Foundation Trust"
+    year: 2017
+    url: "https://www.uhmb.nhs.uk/files/3115/1067/2200/UHMB_Transgender_Care_Policy_V1.1.pdf"
+    tags: [Medical policies]
+  -
+    title: "Trans* people and HIV"
+    organisation: "NAT"
+    year: 2017
+    url: "https://www.nat.org.uk/sites/default/files/publications/NAT%20Trans%20Evidence%20Review%20V3%20Digital.pdf"
+    tags: []
+  -
+    title: "Prescribing for Transgender and Non-Binary Children, Adolescents and Adult patients"
+    organisation: "NHS Fylde and Wyre Clinical Commissioning Group"
+    year: 2016
+    url: "http://www.fyldeandwyreccg.nhs.uk/download/medicines_optimisation/fact_sheets/Advice-Sheet-2-Prescribing-for-transgender-patientsv3.pdf"
+    tags: [Medical policies]
+  -
+    title: "Response to Escalation of Advice from Healthwatch England Gender Identity Services"
+    organisation: "NHS England"
+    year: 2014
+    url: "https://m.healthwatch.co.uk/sites/healthwatch.co.uk/files/gender_identity_correspondence_healthwatch_england_nhs_england_0.pdf"
+    tags: []
   # -
   #   title: ""
   #   organisation: ""
