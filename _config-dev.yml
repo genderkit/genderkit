@@ -31,6 +31,9 @@ exclude:
   - whitelist
   - "data/*"
   - "vagrant/*"
+  - ".git/*"
+  - "_site/*"
+  - "node_modules/*"
 
 collections:
   articles:
@@ -40,6 +43,8 @@ collections:
   explore:
     output: true
   words:
+    output: true
+  resources:
     output: true
 
 defaults:
@@ -72,6 +77,12 @@ defaults:
     values:
       layout: word
       permalink: /words/:name/
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: misc
+      permalink: /resources/:name/
       
 stylus:
   compress: true
