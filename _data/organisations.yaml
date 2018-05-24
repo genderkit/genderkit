@@ -72,7 +72,7 @@ organisations:
         image: nhs
     -
         name: 'Northamptonshire Healthcare NHS Foundation Trust Gender Clinic'
-        url: 'http://www.genderclinic.northants.nhs.uk/'
+        url: 'https://www.nhft.nhs.uk/gender-identity-clinic'
         tags: ['NHS Gender Services', 'East Midlands']
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
         image: nhs
@@ -121,7 +121,7 @@ organisations:
     -
         name: 'GenderGP (Dr. Webberley)'
         url: 'https://gendergp.co.uk/'
-        twitter: MyWebDoctorUK
+        twitter: gendergp
         facebook: gendergp
         youtube: UCU1mUfFhtdIRZiWADXqPtnw
         tags: ['Private Gender Services', National]
@@ -130,7 +130,7 @@ organisations:
         twitterDescription: 'Transgender advocate and Gender Specialist. Free medical advice for gender queries. https://t.co/w7AlxI5aP3'
         lastTwitterPost: 'Sat Apr 28 10:30:01 +0000 2018'
         facebookId: '822307394522466'
-        twitterID: '2815718824'
+        twitterID: '968819169448939525'
         twitterIcon: 'http://pbs.twimg.com/profile_images/751836423834198016/UH8QCK-a_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12974410_989428701143667_2040946718835892457_n.png?oh=98f81b9321d83d3b4dd4a282c6c0bca9&oe=5A8BF181'
     -
@@ -617,7 +617,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c40.24.297.297/s50x50/396126_10150928010591943_1561092079_n.jpg?oh=bbfc33e25c536d552773dbbfb81f4801&oe=5ACB82CC'
     -
         name: 'Liverpool Trans'
-        url: 'http://www.liverpooltrans.co.uk'
+        url: 'https://liverpooltransdotcodotuk.wordpress.com/'
         tags: ['North West', Liverpool]
         twitter: LiverpoolTrans
         facebook: LivTrans
@@ -2326,3 +2326,16 @@ organisations:
         twitterDescription: 'Action for Trans Health - a local branch of the campaign for democratic trans health care'
         lastTwitterPost: 'Tue Apr 24 09:11:16 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/928368981626454017/V6DhAkcq_normal.jpg'
+    -
+        name: London Transgender Clinic
+        tags: ['Private Gender Services','Surgery']
+        url: 'https://transgender-surgery.london/'
+        facebook: londontransclinic
+        twitter: TransClinicUK
+        twitterID: '739820630531530753'
+    -
+        name: Harley Street Gender Clinic
+        tags: ['Private Gender Services']
+        url: 'http://www.harleystgenderclinic.com/'
+        twitter: DrPasterski
+        twitterID: '739820630531530753'
