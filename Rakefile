@@ -55,6 +55,7 @@ task :spellcheck => :jekyll do
   files.exclude("_site/studies/*.html")
   files.exclude("_site/tools/*")
   files.exclude("_site/explore/names-*/*.html")
+  files.exclude("_site/resources/*.html")
   files.each do |file|
     results = run_spellcheck(file)
     if (results.length > 0)

@@ -43,6 +43,8 @@ collections:
     output: true
   words:
     output: true
+  resources:
+    output: true
 
 defaults:
   - scope:
@@ -70,6 +72,12 @@ defaults:
     values:
       layout: word
       permalink: /word/:name/
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: misc
+      permalink: /resources/:name/
 
 stylus:
   compress: true

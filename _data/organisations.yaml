@@ -715,7 +715,7 @@ organisations:
         name: 'National Trans Youth Network'
         url: 'http://ntyn.org.uk/'
         twitter: TransYouthNet
-        tags: [National]
+        tags: [National, Under 18s]
         twitterDescription: 'The National Trans Youth Network is a network of trans youth groups from around the UK, and includes the youth workers who support them'
         lastTwitterPost: 'Fri Apr 27 20:28:33 +0000 2018'
         twitterID: '3382749831'
@@ -888,7 +888,7 @@ organisations:
         name: 'a:Gender'
         url: 'http://agender.org.uk'
         twitter: agendergovuk
-        tags: [National]
+        tags: [National, Civil Service]
         twitterDescription: "We are the network supporting all trans and intersex staff across Government Departments and Agencies.\n\nFriends and Allies welcome."
         lastTwitterPost: 'Sat Apr 28 10:06:58 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/938057065985118208/QuqLcbQb_normal.jpg'
@@ -1669,7 +1669,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/17362376_1909319729305334_7624643780907025948_n.jpg?oh=cff060f3c3c4211125b66e4d12700f7f&oe=5AC9EC92'
     -
         name: 'UoM Trans Campaign'
-        tags: ['North West', Manchester]
+        tags: ['North West', Manchester, Students]
         twitter: UoMtrans
         facebook: uomtrans
         lastFacebookPost: '2017-12-09T21:12:55+0000'
@@ -2096,7 +2096,7 @@ organisations:
     -
         name: 'Durham Trans Campaign'
         url: 'http://trans.durhamlgbta.org.uk/'
-        tags: ['North East']
+        tags: ['North East', Students]
         twitter: durham_trans
         twitterID: '912393367144845312'
         facebook: durhamtrans
@@ -2269,7 +2269,7 @@ organisations:
         twitterIcon: 'http://pbs.twimg.com/profile_images/955438611650043904/Lp6f0Z5z_normal.jpg'
     -
         name: 'NUS Trans Campaign'
-        tags: [National]
+        tags: [National, Students]
         url: 'http://trans-staffordshire.org.uk/'
         facebook: NUS-Trans-Campaign-1521297291242557
         twitter: nus_trans
@@ -2284,8 +2284,9 @@ organisations:
         facebook: 57286277400
     -
         name: TransEDU
-        tags: [National]
+        tags: [National, Education]
         url: 'https://www.trans.ac.uk/'
+        manualDescription: 'Resources and information for supporting trans, non-binary and gender diverse applicants, students and staff in Further and Higher Education'
         image: transedu
     -
         name: 'Clinic T Trans Clinic'

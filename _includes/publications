@@ -1,5 +1,5 @@
 
-{% assign sortedPublications = site.data.publications.publications | where_exp:"item", "item.tags contains include.tag" | sort:"year" | reverse %}
+{% assign sortedPublications = site.data.publications.publications | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"year" | reverse %}
 
 <ul class="details" id="publications">
 {% for item in sortedPublications %}
