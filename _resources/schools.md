@@ -26,4 +26,4 @@ We have a separate page of [information for employers]({{ site.baseurl }}{% link
 
 A number of local authorities and organisations have produced resources or policies specifically for schools in their area.
 
-{% include publications tag="Local school policies" %}
+{% include publications-summary tag="Local school policies" %}

@@ -6,7 +6,7 @@ description: This is a test page
 
 ### General information
 
-{% include publications tag="National employment guidance" %}
+{% include publications-grouped tag="National employment guidance" %}
 
 ### Civil Service
 

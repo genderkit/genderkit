@@ -1,0 +1,30 @@
+
+
+{% assign publishers = site.data.publications.publications | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"organisation" | group_by:"organisation" %}
+
+<ul class="summarised-publications">
+
+{% for publisher in publishers %}
+
+{% assign sortedPublications = publisher.items | sort:"title" %}
+
+<li>
+{% if publisher.size > 1 %}
+  {{ publisher.name | xml_escape }}:
+  {% assign counter = "" %}
+  {% for item in sortedPublications %}
+  {% assign url = item.url %}
+  {% assign counter = counter | append: 'x' %}
+  <a href="{{ url }}">{{ counter.size }}</a>
+  {% endfor %}
+{% else %}
+  {% for item in sortedPublications %}
+  {% assign url = item.url %}
+  <a href="{{ url }}">{{ publisher.name | xml_escape }}</a>
+  {% endfor %}
+{% endif %}
+</li>
+
+{% endfor %}
+
+</ul>

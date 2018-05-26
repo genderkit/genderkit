@@ -17,6 +17,7 @@ tags:
   - "Sport"
   - "Legal"
   - "Prisons"
+  - "Faith"
   - "Sex"
   - "Health"
 
@@ -936,13 +937,13 @@ publications:
     tags: [Sport]
   -
     title: "Guidelines for Supporting Trans Staff and Patients"
-    organisation: "Brighton and Sussex University Hospitals NHS Trust"
+    organisation: "NHS Brighton and Sussex University Hospitals NHS Trust"
     year: 2016
     url: "https://www.bsuh.nhs.uk/wp-content/uploads/sites/5/2016/09/BSUH-Support-Trans-Staff-and-Patients-Version-2.pdf"
     tags: [Medical policies, Local medical policies]
   -
     title: "Guidance on supporting adult transgender service users"
-    organisation: "South London and Maudsley NHS Foundation Trust"
+    organisation: "NHS South London and Maudsley NHS Foundation Trust"
     year: 2015
     url: "http://www.slam.nhs.uk/media/409809/trans%20guidance.pdf"
     tags: [Medical policies, Local medical policies]
@@ -1090,7 +1091,7 @@ publications:
     tags: [Medical policies, 'National medical policies']
   -
     title: "Guidance for doctors treating transgender and non-binary patients"
-    organisation: "East Lancashire Health Economy Medicines Management Board"
+    organisation: "NHS East Lancashire Health Economy Medicines Management Board"
     year: 2016
     url: "http://www.elmmb.nhs.uk/_resources/assets/attachment/full/0/17370.pdf"
     tags: [Medical policies, Local medical policies]
@@ -1159,7 +1160,7 @@ publications:
     organisation: "Clackmannanshire and Stirling Council"
     year: 2016
     url: "https://www.centralsexualhealth.org/media/8009/guidance-for-schools-trans-gender-variance.pdf"
-    tags: [Education, Local medical policies]
+    tags: [Education, Local school policies]
   -
     title: "Transgender Employees Policy & Guide"
     organisation: "NHS Shetland"
@@ -1329,7 +1330,7 @@ publications:
     tags: []
   -
     title: "Transgender Care Policy"
-    organisation: "University Hospitals of Morecambe Bay NHS Foundation Trust"
+    organisation: "NHS University Hospitals of Morecambe Bay NHS Foundation Trust"
     year: 2017
     url: "https://www.uhmb.nhs.uk/files/3115/1067/2200/UHMB_Transgender_Care_Policy_V1.1.pdf"
     tags: [Medical policies, Local medical policies]
@@ -1423,12 +1424,162 @@ publications:
     year: 2014
     url: "https://merseycare.nhs.uk/media/3718/hr32-1gender-realignment-support-policy-uploaded-11-april-2017-review-dec-2017.pdf"
     tags: ['Medical policies', 'Local medical policies']
-
-
-
-
-
-
+  -
+    title: "Trans* Drug and Alcohol Support Survey - Report"
+    organisation: "Brighton and Hove LGBT Switchboard"
+    year: 2015
+    url: "https://www.switchboard.org.uk/wp-content/uploads/2015/12/Trans-Drug-And-Alcohol-report.pdf"
+    tags: ['Studies']  
+  -
+    title: "Trans* Inclusion - Guidance for Fire and Rescue Services"
+    organisation: "quiltbag"
+    year: 2015
+    url: "https://www.mermaidsuk.org.uk/assets/media/quiltbag.pdf"
+    tags: ['Employment']  
+  -
+    title: "Welcoming Transgender People"
+    organisation: "Church of England General Synod"
+    year: 2017
+    url: "https://www.churchofengland.org/sites/default/files/2017-11/gs-2071b-welcoming-transgender-people-a-note-from-the-secretary-general.pdf"
+    tags: ['Faith']
+  -
+    title: "An update on ‘Welcoming Transgender People’"
+    organisation: "Church of England General Synod"
+    year: 2018
+    url: "https://www.churchofengland.org/sites/default/files/2018-01/GS%20Misc%201178%20-%20An%20update%20on%20Welcoming%20Transgender%20People%20%28003%29.pdf"
+    tags: ['Faith']
+  -
+    title: "Trans Matters: Guidance for Staff and Students"
+    organisation: "King's College London"
+    year: 2017
+    url: "https://www.kcl.ac.uk/governancezone/Assets/GovernanceLegal/Trans-Equality-Guidance.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Policy on Trans Staff and Students"
+    organisation: "LSE - The London School of Economics and Political Science"
+    year: 2017
+    url: "https://info.lse.ac.uk/staff/services/Policies-and-procedures/Assets/Documents/polTraStaStu.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Policy and Guidance for Trans Staff and Students"
+    organisation: "University of Surrey"
+    year: 2014
+    url: "https://www.surrey.ac.uk/sites/default/files/trans-policy-and-guidance.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Gender Reassignment and Trans Equality Policy"
+    organisation: "University of London"
+    year: 2017
+    url: "https://london.ac.uk/sites/default/files/uploads/Gender-Reassignment-and-Trans-Equality-Policy.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Support for trans* students"
+    organisation: "ual: university of the arts london"
+    year: 2018
+    url: "http://www.arts.ac.uk/media/arts/about-ual/diversity/documents/UAL-Guide-for-Trans-Students.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Staff Support Policy"
+    organisation: "Imperial College London"
+    year: 2014
+    url: "https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/equality/public/trans/Trans-Staff-Policy.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Transgender Guidance for Managers and Staff"
+    organisation: "Newcastle University"
+    year: 2011
+    url: "https://www.ncl.ac.uk/diversity/assets/documents/trans-guidance-staff"
+    tags: ['Education', 'University policies']
+  -
+    title: "Guidance on Supporting Trans Staff"
+    organisation: "The University of Nottingham"
+    year: 2013
+    url: "https://www.nottingham.ac.uk/hr/guidesandsupport/equalityanddiversitypolicies/documents/guidance-on-supporting-trans-staff.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "UWE Bristol Trans policy"
+    organisation: "UWE Bristol: University of the West of England"
+    year: 2017
+    url: "http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/UWE_TRANS_POLICY.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Guidance Referring To Trans Staff"
+    organisation: "University of the West of England"
+    year: 2017
+    url: "http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans_staff_guide.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Guidance Referring To Trans Students"
+    organisation: "University of the West of England"
+    year: 2017
+    url: "http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans-student-guidance.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans and Gender Identity - Supporting Information and Procedures for Staff and Students"
+    organisation: "University of Reading"
+    year: 2017
+    url: "https://www.reading.ac.uk/web/files/humanresources/UoR_-_Trans_and_Gender_Identity_-_Supporting_Information_and_Procedures_August_2017.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Transgender and gender identity equality policy: developing an inclusive approach"
+    organisation: "Oxford Brookes University"
+    year: 2017
+    url: "https://www.brookes.ac.uk/Documents/Staff/HR/EDI/Transgender-and-gender-identity-equality-policy/"
+    tags: ['Education', 'University policies']
+  -
+    title: "Transgender Equality Policy Statement for students and staff"
+    organisation: "Aberystwyth University"
+    year: 2017
+    url: "https://www.aber.ac.uk/en/media/departmental/humanresources/Trans-statement-04-2017-final.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Equality And Gender Identity Guidance For Staff"
+    organisation: "Leeds Beckett University"
+    year: 2017
+    url: "https://www.aber.ac.uk/en/media/departmental/humanresources/Trans-statement-04-2017-final.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Gender Reassignment: Guidance for Managers"
+    organisation: "Nottingham Trent University"
+    year: 2015
+    url: "http://www4.ntu.ac.uk/equality-diversity-inclusion/document-uploads/181835.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Procedure for Supporting Transgender Students"
+    organisation: "University of Derby"
+    year: 2017
+    url: "https://www.derby.ac.uk/media/derbyacuk/contentassets/documents/academicregulations/University-Procedure-for-supporting-transgender-students-March-2018.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Including Transgender Students at the University of Cambridge"
+    organisation: "CUSU LGBT+"
+    year: 2013
+    url: "https://www.lgbt.cusu.cam.ac.uk/wp-content/uploads/2014/01/Including-transgender-Students-at-Cambridge-University.pdf"
+    tags: ['Education']
+  -
+    title: "BUCS Transgender Policy"
+    organisation: "British Universities and Colleges Sport"
+    year: 2016
+    url: "https://www.bucs.org.uk/core/core_picker/download.asp?id=31233"
+    tags: ['Sport']
+  -
+    title: "Gender Dysphoria - Supporting information for GPs"
+    organisation: "NHS Greater Manchester Medicines Management Group"
+    year: 2016
+    url: "http://gmmmg.nhs.uk/docs/guidance/Gender-Dysphoria-Supporting-information-for-GPs.pdf"
+    tags: ['Medical policies', 'Local medical policies']
+  -
+    title: "Trans* Equality & Gender Reassignment Policy"
+    organisation: "NHS Nottingham North and East CCG, NHS Nottingham West CCG, NHS Rushcliffe CCG"
+    year: 2016
+    url: "http://www.nottinghamwestccg.nhs.uk/media/1565/trans-equality-and-gender-reassignment-policy-v3-0-jan-16.pdf"
+    tags: ['Medical policies', 'Local medical employment policies']
+  -
+    title: "Primary Care Assessment and Referral of Transgender People"
+    organisation: "NHS East and North Hertfordshire CCG"
+    year: 2017
+    url: "http://www.enhertsccg.nhs.uk/sites/default/files/pathways/Primary%20Care%20Assessment%20and%20Referral%20of%20Transgender%20People.pdf"
+    tags: ['Medical policies', 'Local medical policies']   
   # -
   #   title: ""
   #   organisation: ""

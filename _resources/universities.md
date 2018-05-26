@@ -18,9 +18,9 @@ We have a separate page of [information for employers]({{ site.baseurl }}{% link
 
 ### Example resources and policies
 
-A number of local authorities and organisations have produced resources or policies specifically for schools in their area.
+A number of universities have produced their own policies.
 
-{% include publications tag="University policies" %}
+{% include publications-summary tag="University policies" %}
 
 ### Student organisations
 
