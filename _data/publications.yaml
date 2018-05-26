@@ -1033,7 +1033,25 @@ publications:
     title: "Supporting trans and gender-questioning students"
     organisation: "National Education Union"
     year: 2017
-    url: "https://neu.org.uk/file/295/download?token=J_SwaZqw"
+    url: "https://neu.org.uk/sites/neu.org.uk/files/Trans%20advice_0.pdf"
+    tags: [Education, National school guidance]
+  -
+    title: "Transitioning at work - know your rights"
+    organisation: "National Education Union"
+    year: 2017
+    url: "https://neu.org.uk/sites/neu.org.uk/files/KnowYourRights.pdf"
+    tags: [Education, National school guidance]
+  -
+    title: "Transition care plan"
+    organisation: "National Education Union"
+    year: 2017
+    url: "https://neu.org.uk/sites/neu.org.uk/files/TransitionCarePlan.pdf"
+    tags: [Education, National school guidance]
+  -
+    title: "Transitioning at work - creating a policy"
+    organisation: "National Education Union"
+    year: 2017
+    url: "https://neu.org.uk/sites/neu.org.uk/files/TransitioningatWork.pdf"
     tags: [Education, National school guidance]
   -
     title: "Trans* Inclusion Schools Toolkit - Supporting `gender questioning children and young people in Brighton and Hove schools and colleges"
