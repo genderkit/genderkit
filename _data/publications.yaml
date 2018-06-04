@@ -1597,7 +1597,25 @@ publications:
     organisation: "NHS East and North Hertfordshire CCG"
     year: 2017
     url: "http://www.enhertsccg.nhs.uk/sites/default/files/pathways/Primary%20Care%20Assessment%20and%20Referral%20of%20Transgender%20People.pdf"
-    tags: ['Medical policies', 'Local medical policies']   
+    tags: ['Medical policies', 'Local medical policies']
+  -
+    title: "Student Transgender Policy"
+    organisation: "University of Central Lancashire"
+    year: 2017
+    url: "https://www.uclan.ac.uk/students/assets/files/Student_Transgender_Policy.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Gender Identity and Reassignment Policy"
+    organisation: "University of Winchester"
+    year: 2015
+    url: "https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=255"
+    tags: ['Education', 'University policies']
+  -
+    title: "Gender Identity and Reassignment Guidance"
+    organisation: "University of Winchester"
+    year: 2014
+    url: "https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=305"
+    tags: ['Education', 'University policies']
   # -
   #   title: ""
   #   organisation: ""
