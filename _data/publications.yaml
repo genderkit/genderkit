@@ -1616,6 +1616,58 @@ publications:
     year: 2014
     url: "https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=305"
     tags: ['Education', 'University policies']
+  -
+    title: "Briefing on Gender Identity in Wales"
+    organisation: "LGBT Excellence Centre"
+    year: 2012
+    url: "https://gendergp.co.uk/wp-content/uploads/2016/03/lgbt-excellence-centre-briefing-on-gender-identity-in-wales.pdf"
+    tags: ['Wales']
+  -
+    title: "Gender Identity and Gender Reassignment Policy for those in our Custody"
+    organisation: "Scottish Prison Service"
+    year: 2014
+    url: "https://www.insidetime.org/download/rules_&_policies/scotland/SPS-policy-on-treatment-of-transgender-prisoners-2014.pdf"
+    tags: ['Prisons', 'Legal']
+  -
+    title: "UKRDA Transgender Policy"
+    organisation: "United Kingdom Roller Derby Association"
+    year: 2014
+    url: "https://docs.google.com/document/export?format=pdf&id=1C_QzK0s3pmmEa49OAJ_1pvhSRxTzbGs1j1BKtpC1vdw&token=AC4w5Vh_C9xDLIcrG_XFOGEnytL8jmlHaQ%3A1528310077366&includes_info_params=true"
+    tags: ['Sport']
+  -
+    title: "Transsexual People and Competitive Sport: Guidance for National Governing Bodies of Sport"
+    organisation: "Sports Council Equality Group"
+    year: 2013
+    url: "http://www.sportni.net/sportni/wp-content/uploads/2013/03/TranssexualPeopleandCompetitiveSportGuidanceforNationalGoverningBodies.pdf"
+    tags: ['Sport']
+  -
+    title: "Briefing: Guidance on Accessing Sports Facilities and Services by Transgender People 2016"
+    organisation: "Glasgow Life"
+    year: 2016
+    url: "http://www.vocalscotland.org.uk/wp-content/uploads/sports-transgender-policy.pdf"
+    tags: ['Sport', 'Scotland']
+  -
+    title: "Transsexual people and osteoporosis"
+    organisation: "National Osteoporosis Society"
+    year: 2014
+    url: "https://nos.org.uk/media/1585/transsexual-people-and-osteoporosis_-october-2014.pdf"
+    tags: ['Health']
+  -
+    title: "Trans Equality at Work: A Unite Guide"
+    organisation: "UNITE The Union"
+    year: 2014
+    url: "http://www.unitetheunion.org/uploaded/documents/Job%206190%20Unite%20Trans%20guide%20201411-16305.pdf"
+    tags: [Employment, 'National union guidance']
+  -
+    title: "GMB Transgender Equality Toolkit"
+    organisation: "GMB"
+    year: 2014
+    url: "http://www.gmbfifepublicservices.org.uk/wp-content/uploads/GMB-Transgender-Equality-Toolkit-Version-81.pdf"
+    tags: [Employment, 'National union guidance']
+
+
+
+
   # -
   #   title: ""
   #   organisation: ""
