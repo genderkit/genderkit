@@ -963,7 +963,7 @@ organisations:
         name: 'The Sibyls'
         url: 'http://www.sibyls.co.uk'
         facebook: sibylsgroup
-        tags: [National]
+        tags: [National, Faith]
         lastFacebookPost: '2017-12-04T19:30:54+0000'
         facebookDescription: "The Sibyls is a UK-based confidential Christian \nspirituality group for transgender people, their \npartners and their supporters. "
         facebookId: '338323263207884'
@@ -1043,7 +1043,7 @@ organisations:
         url: 'http://www.twilightpeople.com'
         twitter: TwilightPeople2
         facebook: twilightpeopleproject
-        tags: [National]
+        tags: [National, Faith]
         lastFacebookPost: '2017-12-11T09:28:56+0000'
         facebookDescription: 'Twilight People: Stories of Gender and Faith Beyond the Binary'
         twitterDescription: 'UK''s landmark multi-faith heritage project exploring gender&faith beyond the binary. Lottery supported. Hosted by Liberal Judaism. Founder: Surat-Shaan Knan'
