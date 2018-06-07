@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Information for faith leaders
+title: Information about faith and religion
 description: This is a test page
 ---
 

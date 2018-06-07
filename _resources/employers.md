@@ -8,6 +8,8 @@ description: This is a test page
 
 {% include publications-grouped tag="National employment guidance" %}
 
+We also have a separate page with information published by [unions]({{ site.baseurl }}{% link _resources/unions.md %}) which may provide helpful guidance.
+
 ### Civil Service
 
 {% include organisations tag="Civil Service" %}
@@ -21,3 +23,9 @@ description: This is a test page
 ### NHS and medical services
 
 {% include publications tag="Local medical employment policies" %}
+
+### Education
+
+{% include publications tag="National school employment guidance" %}
+
+We also have separate pages of [information for schools]({{ site.baseurl }}{% link _resources/schools.md %}) and [information for universities]({{ site.baseurl }}{% link _resources/universities.md %}).
