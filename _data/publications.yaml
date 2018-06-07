@@ -98,7 +98,7 @@ publications:
     title: "Changing names and Changing Legal Gender"
     organisation: "Press for Change"
     year: 2013
-    url: "https://uktrans.info/attachments/article/157/amcechaasd.pdf"
+    url: "http://tiac.lgbt/attachments/article/157/amcechaasd.pdf"
     tags: [Legal]
   -
     title: "Shining the Light - 10 Keys to Becoming a Trans Positive Organisation"
@@ -182,7 +182,7 @@ publications:
     title: "Administration Review"
     organisation: "West London Mental Health NHS Trust"
     year: 2012
-    url: "https://uktrans.info/attachments/article/435/GIC-administration-review.pdf"
+    url: "http://tiac.lgbt/attachments/article/435/GIC-administration-review.pdf"
     tags: [London]
   -
     title: "Frequently asked questions about Trans*"
@@ -381,7 +381,7 @@ publications:
     title: "Guide to UK Legal Gender Recognition"
     organisation: "UK Trans Info"
     year: 2015
-    url: "http://uktrans.info/graguide.pdf"
+    url: "http://tiac.lgbt/graguide.pdf"
     tags: [Legal]
   -
     title: "Change of name"
@@ -525,7 +525,7 @@ publications:
     title: 'Changing your name and title'
     organisation: 'UK Trans Info'
     year: 2016
-    url: 'http://uktrans.info/namechange.pdf'
+    url: 'http://tiac.lgbt/namechange.pdf'
     tags: [Legal]
   -
     title: 'Transgender Equality'
@@ -1034,27 +1034,27 @@ publications:
     organisation: "National Education Union"
     year: 2017
     url: "https://neu.org.uk/sites/neu.org.uk/files/Trans%20advice_0.pdf"
-    tags: [Education, National school guidance]
+    tags: [Education, National school guidance, National union guidance]
   -
     title: "Transitioning at work - know your rights"
     organisation: "National Education Union"
     year: 2017
     url: "https://neu.org.uk/sites/neu.org.uk/files/KnowYourRights.pdf"
-    tags: [Education, National school guidance]
+    tags: [Education, National school guidance, National union guidance]
   -
     title: "Transition care plan"
     organisation: "National Education Union"
     year: 2017
     url: "https://neu.org.uk/sites/neu.org.uk/files/TransitionCarePlan.pdf"
-    tags: [Education, National school guidance]
+    tags: [Education, National school guidance, National union guidance]
   -
     title: "Transitioning at work - creating a policy"
     organisation: "National Education Union"
     year: 2017
     url: "https://neu.org.uk/sites/neu.org.uk/files/TransitioningatWork.pdf"
-    tags: [Education, National school guidance]
+    tags: [Education, National school guidance, National union guidance]
   -
-    title: "Trans* Inclusion Schools Toolkit - Supporting `gender questioning children and young people in Brighton and Hove schools and colleges"
+    title: "Trans* Inclusion Schools Toolkit - Supporting gender questioning children and young people in Brighton and Hove schools and colleges"
     organisation: "Brighton and Hove City Council"
     year: 2013
     url: "http://www.mermaidsuk.org.uk/assets/media/Trans-Inclusion-Schools-Toolkit.pdf"
@@ -1236,7 +1236,7 @@ publications:
     title: "Transphobic Hate Crime"
     organisation: "Greater Manchester Police and Crime Commissioner"
     year: 2016
-    url: "http://www.gmp.police.uk/live/nhoodv3.nsf/WebAttachments/61FA40D8117BFE9080257F550054D2DC/$File/TRANS-REPORT-INTERACTIVE.pdf"
+    url: "http://report-it.org.uk/files/trans-report-interactive.pdf"
     tags: [Studies]
   -
     title: "Transgender Staff Support Policy"
@@ -1461,7 +1461,7 @@ publications:
     url: "https://www.churchofengland.org/sites/default/files/2017-11/gs-2071b-welcoming-transgender-people-a-note-from-the-secretary-general.pdf"
     tags: ['Faith']
   -
-    title: "An update on ‘Welcoming Transgender People’"
+    title: "An update on Welcoming Transgender People"
     organisation: "Church of England General Synod"
     year: 2018
     url: "https://www.churchofengland.org/sites/default/files/2018-01/GS%20Misc%201178%20-%20An%20update%20on%20Welcoming%20Transgender%20People%20%28003%29.pdf"
@@ -1532,12 +1532,12 @@ publications:
     year: 2017
     url: "http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans-student-guidance.pdf"
     tags: ['Education', 'University policies']
-  -
-    title: "Trans and Gender Identity - Supporting Information and Procedures for Staff and Students"
-    organisation: "University of Reading"
-    year: 2017
-    url: "https://www.reading.ac.uk/web/files/humanresources/UoR_-_Trans_and_Gender_Identity_-_Supporting_Information_and_Procedures_August_2017.pdf"
-    tags: ['Education', 'University policies']
+#  -
+#    title: "Trans and Gender Identity - Supporting Information and Procedures for Staff and Students"
+#    organisation: "University of Reading"
+#    year: 2017
+#    url: "https://www.reading.ac.uk/web/files/humanresources/UoR_-_Trans_and_Gender_Identity_-_Supporting_Information_and_Procedures_August_2017.pdf"
+#    tags: ['Education', 'University policies']
   -
     title: "Transgender and gender identity equality policy: developing an inclusive approach"
     organisation: "Oxford Brookes University"
@@ -1570,7 +1570,7 @@ publications:
     tags: ['Education', 'University policies']
   -
     title: "Including Transgender Students at the University of Cambridge"
-    organisation: "CUSU LGBT+"
+    organisation: "CUSU LGBT"
     year: 2013
     url: "https://www.lgbt.cusu.cam.ac.uk/wp-content/uploads/2014/01/Including-transgender-Students-at-Cambridge-University.pdf"
     tags: ['Education']
@@ -1664,6 +1664,36 @@ publications:
     year: 2014
     url: "http://www.gmbfifepublicservices.org.uk/wp-content/uploads/GMB-Transgender-Equality-Toolkit-Version-81.pdf"
     tags: [Employment, 'National union guidance']
+  -
+    title: "Diverse Gender Identities and Pastoral Care"
+    organisation: "Church of Scotland"
+    year: 2018
+    url: "http://www.churchofscotland.org.uk/__data/assets/pdf_file/0005/48866/Web_PDF_Diverse_Gender_Identities_and_Pastoral_Care.pdf"
+    tags: ['Faith']
+  -
+    title: "Not Just Another Statistic: Life in Wales for Transgender People"
+    organisation: "Equality and Human Rights Commission"
+    year: 2010
+    url: "http://www.eiapractice.wales.nhs.uk/sitesplus/documents/1126/%28NW%29%20TransgenderPeople.pdf"
+    tags: ['Studies']
+  -
+    title: "Policy On Trans Competitors"
+    organisation: "British Swimming"
+    year: 2015
+    url: "http://www.swimwales.org/key-documents/84/download"
+    tags: ['Sport']
+  -
+    title: "Trans staff and students in HE and colleges: improving experiences"
+    organisation: "Equality Challenge Unit"
+    year: 2016
+    url: "http://www.port.ac.uk/departments/services/equalityanddiversity/downloads/filetodownload,197469,en.pdf"
+    tags: ['Education', 'National school guidance']
+  -
+    title: "Stronger Together: Guidance for women’s services on the inclusion of transgender women"
+    organisation: "Scottish Transgender Alliance"
+    year: 2011
+    url: "https://www.rapecrisisscotland.org.uk/resources/single-sex-service-trans-guidance.pdf"
+    tags: []
 
 
 
