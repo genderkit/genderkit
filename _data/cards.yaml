@@ -83,7 +83,7 @@ resources:
     name: 'Sport & Fitness'
   -
     url: '/resources/research'
-    name: Researchers
+    name: Research
 indexes:
   -
     url: '/help'
