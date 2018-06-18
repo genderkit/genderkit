@@ -62,6 +62,28 @@ explore:
   -
     url: '/category/medical-documents'
     name: Medical
+resources:
+  -
+    url: '/resources/clinicians'
+    name: Clinicians
+  -
+    url: '/resources/schools'
+    name: Schools
+  -
+    url: '/resources/universities'
+    name: Universities
+  -
+    url: '/resources/employers'
+    name: Employers
+  -
+    url: '/resources/faith'
+    name: Faith
+  -
+    url: '/resources/sports-and-fitness'
+    name: 'Sport & Fitness'
+  -
+    url: '/resources/research'
+    name: Researchers
 indexes:
   -
     url: '/help'

@@ -82,7 +82,7 @@ section, footer, .greybox
   margin 0
 
 // Remove default UL styling on most lists  
-nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, .links, .details, .articles, .effects, #effectslist, #categorylist
+nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, .links, .details, .articles, .effects, #effectslist, #categorylist
   padding 0
   margin 0
   li
@@ -92,7 +92,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 
 // Lists where we want to squish the text together
 // to make list items more visually obvious 
-.articles, .effects, #effectslist, #explore, .details
+.articles, .effects, #effectslist, #explore, #resources, .details
   display flex
   flex-direction column
   img
@@ -105,7 +105,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
   li:last-child
     margin-bottom 0
     
-.articles, .effects, #effectslist, #explore
+.articles, .effects, #effectslist, #explore, #resources
   line-height 1.25
 
 .details
@@ -162,7 +162,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin-bottom 1rem
     
 // Article pages
-.effects, #effectslist, #explore
+.effects, #effectslist, #explore, #resources
   margin-top 1rem
   padding 0
   li
@@ -180,7 +180,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin-bottom -4rem
     margin-left -6.25rem
     background-size 4rem
-#effectslist, #explore
+#effectslist, #explore, #resources
   span
     display block
     margin-top 2rem
@@ -266,7 +266,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     color white
     padding 1rem
     margin 0
-#effectslist, #explore
+#effectslist, #explore, #resources
   li
     background-color #f0f0fa
     border none
@@ -400,7 +400,7 @@ nav, aside, .attention
     text-align left
 
 // Horrible special cases to make things look nicer
-#effectslist, #explore
+#effectslist, #explore, #resources
   margin-top 1rem
 a > span > span // Make citations appear correctly
   vertical-align baseline !important
