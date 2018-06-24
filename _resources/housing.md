@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Housing and homelessness
-description: This is a test page
+description: Information about housing and homelessness in the UK for trans, nonbinary, and gender non-conforming people
 ---
 
 ### Useful links

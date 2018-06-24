@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Hormones
-description: This is a test page
+description: Information about hormone replacement therapies used by people changing things linked to gender
 ---
 
 We have pages with information about the most commonly used medications in hormone replacement therapy for people who are changing things about their body linked to gender:

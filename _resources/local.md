@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Local groups in the UK
-description: This is a test page
+description: Local organisations, support groups, and social groups in the UK for trans, nonbinary, and gender non-conforming people
 ---
 <main role="main">
 {% include filters %}

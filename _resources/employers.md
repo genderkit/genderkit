@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for employers
-description: This is a test page
+description: UK-specific information about supporting trans, nonbinary, and gender non-conforming employees
 ---
 
 ### General information

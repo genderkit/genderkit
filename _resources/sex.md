@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Sex and contraception
-description: This is a test page
+description: Sex and contraception information for trans, non-binary, and gender non-conforming people
 ---
 
 ### Useful PDFs about sex and contraception

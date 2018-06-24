@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Specialist UK gender clinics
-description: This is a test page
+description: List of UK gender services including NHS and private clinics
 ---
 
 In the UK, the NHS supports people who are changing things linked to gender through a set of specialist centres, usually known as "gender clinics". You can access these for free if you are referred to one by your GP.

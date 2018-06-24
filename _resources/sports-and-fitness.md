@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for UK sports+fitness clubs/venues
-description: This is a test page
+description: Helpful organisations and publications for UK clubs and venues about supporting trans, nonbinary, and gender non-conforming people
 ---
 
 ### Useful PDFs for clubs and venues

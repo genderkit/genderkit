@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for unions and union members
-description: This is a test page
+description: UK-specific information about supporting trans, nonbinary, and gender non-conforming union members
 ---
 
 ### General information

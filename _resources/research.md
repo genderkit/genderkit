@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: UK Research
-description: This is a test page
+description: UK research studies about trans, nonbinary, and gender non-conforming prisoners
 ---
 
 ### Research studies in academia

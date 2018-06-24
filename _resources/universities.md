@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for universities
-description: This is a test page
+description: UK-specific information about supporting trans, nonbinary, and gender non-conforming students and staff
 ---
 
 Intro text would go here.

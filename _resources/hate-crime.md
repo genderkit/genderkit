@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Hate crime
-description: This is a test page
+description: Information about hate crime for trans, nonbinary, and gender non-conforming people in the UK
 ---
 
 ### Useful links

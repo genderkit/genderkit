@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: UK resources about prisons
-description: This is a test page
+description: UK-specific publications about trans, nonbinary, and gender non-conforming prisoners
 ---
 
 ### Useful PDFs

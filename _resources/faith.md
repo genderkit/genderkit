@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information about faith and religion
-description: This is a test page
+description: UK-specific information for community leaders about supporting trans, nonbinary, and gender non-conforming people
 ---
 
 ### General information

@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Surgery
-description: This is a test page
+description: Information about surgeries for trans, non-binary, and gender non-conforming people
 ---
 
 A large number of different surgeries are available, many of which are described on their own pages.

@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: UK legal resources
-description: This is a test page
+description: Useful publications and specialist legal organisations for trans, nonbinary, and gender non-conforming people
 ---
 
 ### Specialist UK legal organisations

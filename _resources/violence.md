@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information about violence and abuse
-description: This is a test page
+description: Information about domestic and sexual violence and abuse for trans, nonbinary, and gender non-conforming people in the UK
 ---
 
 ### UK organisations supporting survivors

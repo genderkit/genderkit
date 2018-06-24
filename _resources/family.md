@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for families
-description: This is a test page
+description: Helpful organisations and publications in the UK for people with trans, nonbinary, and gender non-conforming family members and partners
 ---
 
 ### UK organisations

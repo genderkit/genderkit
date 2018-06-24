@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for schools and colleges
-description: This is a test page
+description: UK-specific information for schools about supporting trans, nonbinary, and gender non-conforming students and staff
 ---
 
 TODO: Intro text would go here.

@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for GPs, nurses, and other clinicians
-description: This is a test page
+description: UK-specific information for clinicians supporting trans, nonbinary, and gender non-conforming people
 ---
 
 ### National policies
@@ -41,7 +41,3 @@ BMJ subscribers can also access [BMJ Best Practice - Gender dysphoria in adults]
 ### Information for psychotherapists and counsellors
 
 {% include publications tag="Therapy" %}
-
-
-
-
