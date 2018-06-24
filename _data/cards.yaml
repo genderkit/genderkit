@@ -101,6 +101,26 @@ help:
     name: Local groups
     footer: local groups
   -
+    url: '/resources/family'
+    name: Family
+    footer: family
+  -
+    url: '/resources/gender-services'
+    name: Gender clinics
+    footer: UK gender services
+  -
+    url: '/resources/hormones'
+    name: Hormones
+    footer: hormones
+  -
+    url: '/resources/surgery'
+    name: Surgery
+    footer: surgeries
+  -
+    url: '/resources/immigration'
+    name: Immigration
+    footer: immigration and asylum
+  -
     url: '/resources/hate-crime'
     name: Hate crime
     footer: hate crime
@@ -117,37 +137,17 @@ help:
     name: Prisons
     footer: prisons
   -
-    url: '/resources/immigration'
-    name: Immigration
-    footer: immigration and asylum
-  -
     url: '/resources/sex'
     name: Sex
     footer: sex and contraception
-  -
-    url: '/resources/family'
-    name: Family
-    footer: family
-  -
-    url: '/resources/hormones'
-    name: Hormones
-    footer: hormones
-  -
-    url: '/resources/surgery'
-    name: Surgery
-    footer: surgeries
   -
     url: '/resources/violence'
     name: Violence and abuse
     footer: domestic and sexual violence and abuse
   -
-    url: '/resources/gender-services'
-    name: Gender clinics
-    footer: UK gender services
-  -
-    url: '/resources/clinicians'
-    name: Health screening tests
-    footer: health screening tests
+    url: '/resources/health'
+    name: Health
+    footer: health and screening tests
   -
     url: '/publications'
     name: PDF library

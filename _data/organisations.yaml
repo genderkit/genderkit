@@ -1049,15 +1049,6 @@ organisations:
         archived: true
         twitterIcon: 'http://pbs.twimg.com/profile_images/1450451516/TForm_twitter_logo_2011_normal.png'
     -
-        name: 'Transworkers UK'
-        url: 'http://transiness.co.uk'
-        twitter: TransWorkersUK
-        tags: [National]
-        twitterDescription: 'Promoting positive stories of trans employment across all sectors; private, public, union & non union. Trans workers, employers & allies. Join us on Facebook.'
-        lastTwitterPost: 'Tue Feb 28 13:41:40 +0000 2017'
-        twitterID: '3057998989'
-        twitterIcon: 'http://pbs.twimg.com/profile_images/692337112834785281/hlFkoSlq_normal.jpg'
-    -
         name: 'Twilight People'
         url: 'http://www.twilightpeople.com'
         twitter: TwilightPeople2

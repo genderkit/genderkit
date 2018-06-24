@@ -724,7 +724,7 @@ publications:
     organisation: "NHS Wales"
     year: 2015
     url: "http://www.equalityhumanrights.wales.nhs.uk/sitesplus/documents/1120/GiresGuide_English_ebook3.pdf"
-    tags: [Wales, Health, 'National medical guidance']
+    tags: [Wales, 'National medical guidance']
   -
     title: "Trans* Inclusion Schools Toolkit: Supporting transgender and gender questioning children and young people in East Sussex schools and colleges"
     organisation: "East Sussex County Council"
@@ -844,7 +844,7 @@ publications:
     organisation: "Network Autism"
     year: 2017
     url: "http://network.autism.org.uk/sites/default/files/ckfinder/files/Network%20Autism%20Article%20(PDF%20ready)(1).pdf"
-    tags: [Education, Health, Under 18s, National school guidance]
+    tags: [Education, Under 18s, National school guidance]
   -
     title: "Sexual health, HIV and wellbeing - a guide for trans women"
     organisation: "Terrence Higgins Trust"
@@ -898,7 +898,7 @@ publications:
     organisation: "Scottish Trans"
     year: 2016
     url: "https://www.scottishtrans.org/wp-content/uploads/2016/12/trans-inclusin-in-drug-and-alcohol-services.pdf"
-    tags: [Studies, Health]
+    tags: [Studies]
   -
     title: "Contraceptive Choices and Sexual Health for Transgender and Non-binary People"
     organisation: "Faculty of Sexual and Reproductive Healthcare"
@@ -952,7 +952,7 @@ publications:
     organisation: "Equality Network"
     year: 2013
     url: "https://www.equality-network.org/wp-content/uploads/2013/02/Community-Connections-4.-Engaging-Transgender-People.pdf"
-    tags: [Health]
+    tags: []
   -
     title: "Shared Care Prescribing Guidance for Treatment of Gender Dysphoria in Transmen (Female to Male Transsexuals)"
     organisation: "West London Mental Health NHS Trust"
@@ -1010,7 +1010,7 @@ publications:
     organisation: "LGBT Foundation"
     year: 2017
     url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/d1db79de-1646-47b7-8b4d-6321c36f00ab/TransGuideIssue2-DIGITAL.pdf"
-    tags: [Health]
+    tags: [National medical guidance]
   -
     title: "A guide for trans people who have been affected by sexual violence"
     organisation: "LGBT Foundation"
@@ -1076,7 +1076,7 @@ publications:
     organisation: "British Association for Counselling and Psychotherapy"
     year: 2017
     url: "https://www.bacp.co.uk/media/2334/bacp-gender-sexual-relationship-diversity-gpacp001.pdf"
-    tags: [Medical policies, Health, Therapy]
+    tags: [Medical policies, Therapy]
   -
     title: "Supporting Transgender Young People - Guidance for Schools in Scotland"
     organisation: "LGBT Youth Scotland"
