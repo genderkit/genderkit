@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Immigration and asylum
-description: Helpful information, publications, and organisations for trans, non-binary, and gender non-conforming people immigrating to, studying in, or visiting the UK
+description: Helpful information, publications,pu and organisations for trans, non-binary, and gender non-conforming people moving to, studying in, or visiting the UK
 ---
 
 ### Accessing gender services in the UK

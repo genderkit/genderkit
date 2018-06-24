@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Information for universities
-description: UK-specific information about supporting trans, nonbinary, and gender non-conforming students and staff
+description: UK-specific information for universities about supporting trans, nonbinary, and gender non-conforming students and staff
 ---
 
 Intro text would go here.
