@@ -1027,7 +1027,7 @@ organisations:
     -
         name: 'trans*formation'
         url: 'https://www.transformationuk.com/'
-        tags: [National]
+        tags: [National, 'Employment support']
         twitter: TFormUK
         facebook: transformationadvocacygroup
         lastFacebookPost: '2017-11-10T17:08:28+0000'

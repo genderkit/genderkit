@@ -41,3 +41,7 @@ We also have a separate page with [information for clinicians]({{ site.baseurl }
 {% include publications tag="National school employment guidance" %}
 
 We also have separate pages of [information for schools]({{ site.baseurl }}{% link _resources/schools.md %}) and [information for universities]({{ site.baseurl }}{% link _resources/universities.md %}).
+
+### Employee support networks
+
+{% include organisations tag="Employment support" %}
