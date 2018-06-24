@@ -4,8 +4,6 @@ title: Information for schools and colleges
 description: UK-specific information for schools about supporting trans, nonbinary, and gender non-conforming students and staff
 ---
 
-TODO: Intro text would go here.
-
 ### General information for schools and colleges
 
 {% include organisations tag="Education" %}

@@ -4,8 +4,6 @@ title: Information for universities
 description: UK-specific information for universities about supporting trans, nonbinary, and gender non-conforming students and staff
 ---
 
-Intro text would go here.
-
 ### General information for universities
 
 {% include organisations tag="Education" %}
