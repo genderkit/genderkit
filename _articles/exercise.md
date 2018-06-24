@@ -29,7 +29,7 @@ Many swimming pools and gyms now have cubicle based changing rooms and showers w
 
 Swimming can be particularly difficult for many people as it can involve very tight clothing that can make the shape of your chest or crotch visible. If you find your chest shape distresses you, most pools will be happy for you to wear a rash vest, which can help to hide your chest shape. If your crotch causes you distress, you may be able to find "swim skirt" swimwear that hides your crotch shape, or wear loose "board shorts" style swimming trunks.
 
-In some areas of the country there are organisations specifically for expanding access to sport and fitness for people regardless of their gender history. Some run regular sessions at swimming pools where transgender, nonbinary or gender variant people can attend as a group. Try looking at the "Sport and fitness" tag on our [UK Organisations]({{ site.baseurl }}{% link organisations.md %}) index for organisations near you.
+In some areas of the country there are organisations specifically for expanding access to sport and fitness for people regardless of their gender history. Some run regular sessions at swimming pools where transgender, nonbinary or gender variant people can attend as a group. These organisations are listed further down this page.
 
 You may also want to consider other ways of getting physical exercise that may be less gendered, for example:
 
@@ -59,6 +59,12 @@ If you are based in London, there are some personal trainers specifically cateri
 - [Becca Knapp](http://www.trainwithbecca.com/) is a personal trainer advertising queer and transgender friendly services
 
 There is more information on finding a properly qualified and insured personal trainer on [the National Register of Personal Trainers website](http://www.nrpt.co.uk/find/index.htm).
+
+### UK organisations
+
+{% include organisations tag="Sport and Fitness" %}
+
+There is also advice for sports and fitness clubs and venues about how to support diverse genders available on [this website]({{ site.baseurl }}{% link _resources/sports-and-fitness.md %}).
 
 ### References
 

@@ -26,7 +26,7 @@ If you'd like you hair to be longer right now without having to wait for it to g
 
 Hair salons can be intimidating and confusing if you've only ever visited a barber's before. Here are a few tips that might help:
 
-- Some hair salons advertise that they are specifically for men or for women; others will advertise themselves as "unisex". If you ask, salons will often accept you as a customer even if your gender does not match what they advertise. There are some hairdressers that specialise in gender variant clients - try looking under "Companies" on our [UK Organisations page]({{ site.baseurl }}{% link organisations.md %}).
+- Some hair salons advertise that they are specifically for men or for women; others will advertise themselves as "unisex". If you ask, salons will often accept you as a customer even if your gender does not match what they advertise. There are some hairdressers that specialise in gender variant clients, such as [Open Barbers](http://openbarbers.co.uk/) and [Barberette](http://www.barberette.co.uk/).
 
 - "Unisex" salons may have different prices listed for "men's" and "women's" hair, but normally this actually means they will charge a more expensive rate for people with longer hair.
 
@@ -34,7 +34,7 @@ Hair salons can be intimidating and confusing if you've only ever visited a barb
 
 - Salons usually have several stylists working in them who have different levels of expertise. You may be charged more for using a hair stylist who has more expertise, and you may be expected to say which level of experience you are expecting when you book your appointment.
 
-- If your body or presentation is different to what people in the hair salon are expecting, you may be anxious about how accepting hair stylists will be. One way to reduce this anxiety is to contact the hair salon to tell them what to expect and ask if they are comfortable cutting your hair. Hair salons are often very LGBT friendly places, and hair stylists cut a very wide range of people's hair from all walks of life, so there is a good chance they will be accepting of you. If you'd like to be sure, you can also try contacting a local trans group in your area, who may be able to suggest hairdressers to you. You can use our [UK Organisations page]({{ site.baseurl }}{% link organisations.md %}) to find groups near to you.
+- If your body or presentation is different to what people in the hair salon are expecting, you may be anxious about how accepting hair stylists will be. One way to reduce this anxiety is to contact the hair salon to tell them what to expect and ask if they are comfortable cutting your hair. Hair salons are often very LGBT friendly places, and hair stylists cut a very wide range of people's hair from all walks of life, so there is a good chance they will be accepting of you. If you'd like to be sure, you can also try contacting a local trans group in your area, who may be able to suggest hairdressers to you. You can use our [Local groups in the UK page]({{ site.baseurl }}{% link _resources/local.md %}) to find groups near to you.
 
 ### Protecting your hair
 
