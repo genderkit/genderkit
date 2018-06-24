@@ -66,70 +66,92 @@ resources:
   -
     url: '/resources/clinicians'
     name: Clinicians
+    footer: clinicians
   -
     url: '/resources/schools'
     name: Schools
+    footer: schools and colleges
   -
     url: '/resources/universities'
     name: Universities
+    footer: universities
   -
     url: '/resources/employers'
     name: Employers
+    footer: employers
   -
     url: '/resources/faith'
     name: Faith
+    footer: faith and religion groups
   -
     url: '/resources/sports-and-fitness'
     name: 'Sport & Fitness'
+    footer: sport and fitness clubs and venues
   -
     url: '/resources/unions'
     name: Unions
+    footer: unions
   -
     url: '/resources/research'
     name: UK Research
+    footer: UK-based researchers
 help:
   -
     url: '/resources/local'
     name: Local groups
+    footer: local groups
   -
     url: '/resources/hate-crime'
     name: Hate crime
+    footer: hate crime
   -
     url: '/resources/housing'
     name: Homelessness
+    footer: homelessness and housing
   -
     url: '/resources/legal'
     name: Legal
+    footer: legal
   -
     url: '/resources/prisons'
     name: Prisons
+    footer: prisons
   -
     url: '/resources/immigration'
     name: Immigration
+    footer: immigration and asylum
   -
     url: '/resources/sex'
     name: Sex
+    footer: sex and contraception
   -
     url: '/resources/family'
     name: Family
+    footer: family
   -
     url: '/resources/hormones'
     name: Hormones
+    footer: hormones
   -
     url: '/resources/surgery'
     name: Surgery
+    footer: surgeries
   -
     url: '/resources/violence'
     name: Violence and abuse
+    footer: domestic and sexual violence and abuse
   -
     url: '/resources/gender-services'
     name: Gender clinics
+    footer: UK gender services
   -
     url: '/resources/clinicians'
     name: Health screening tests
+    footer: health screening tests
   -
     url: '/publications'
     name: PDF library
+    footer: our PDF library
 indexes:
   -
     url: '/help'
