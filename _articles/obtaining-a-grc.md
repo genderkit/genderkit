@@ -34,10 +34,16 @@ In the event you are currently married, there are a complex set of rules around 
 
 It costs £140 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
 
-Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf). Further advice has also been produced by [GIRES](https://www.gires.org.uk/law-archive/obtaining-your-gender-recognition-certificate) and [UK Trans Info](http://uktrans.info/graguide.pdf).
+Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf).
 
-Once you have obtained your GRC, it is  important that you notify the following organisations:
+Once you have obtained your GRC, it is important that you notify the following organisations:
 
 {% include checklist %}
 
 There is a box on the application form for a GRC that allows HMRC and the DWP to be notified automatically without you having to do anything.
+
+### More information
+
+A number of organisations have produced guidance on the process of obtaining a GRC:
+
+{% include publications-grouped tag="Gender recognition" %}
