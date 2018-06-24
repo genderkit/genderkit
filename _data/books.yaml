@@ -17,6 +17,7 @@ books:
     author: "Edited by Walter Pierre Bouman and Jon Arcelus"
     year: 2017
     url: "https://www.novapublishers.com/catalog/product_info.php?products_id=61666" 
+    tags: [Clinicians]
   -
     title: "Trans Britain"
     subtitle: "Our Long Journey from the Shadows"
@@ -27,6 +28,7 @@ books:
     title: "Transgender Employees in the Workplace"
     subtitle: "A Guide for Employers"
     author: "Jennie Kermode"
+    tags: [Employment]
     year: 2017
     url: "https://www.jkp.com/uk/transgender-employees-in-the-workplace-2.html"
   -
@@ -40,7 +42,8 @@ books:
     subtitle: "The Essential Guide"
     author: "Irwin Krieger"
     year: 2017
-    url: "https://www.jkp.com/uk/counseling-transgender-and-non-binary-youth-2.html" 
+    url: "https://www.jkp.com/uk/counseling-transgender-and-non-binary-youth-2.html"
+    tags: [Clinicians]
   -
     title: "To My Trans Sisters"
     author: "Edited by Charlie Craggs"
@@ -51,7 +54,8 @@ books:
     subtitle: "Hearing the theology of transgender Christians"
     author: "Edited by Christina Beardsley and Michelle O'Brien"
     year: 2016
-    url: "http://dltbooks.com/titles/2168-9780232532067-this-is-my-body" 
+    url: "http://dltbooks.com/titles/2168-9780232532067-this-is-my-body"
+    tags: [Faith] 
   -
     title: "Transgender Behind Prison Walls"
     author: "Sarah Jane Baker"
@@ -62,13 +66,15 @@ books:
     subtitle: "A Guide for Parents and Carers"
     author: "Anna Bianchi"
     year: 2017
-    url: "https://www.jkp.com/uk/the-gender-matrix-2.html" 
+    url: "https://www.jkp.com/uk/the-gender-matrix-2.html"
+    tags: [Family]
   -
     title: "The Trans Partner Handbook"
     subtitle: "A Guide for When Your Partner Transitions"
     author: "Jo Green"
     year: 2017
     url: "https://www.jkp.com/uk/a-guide-for-partners-of-trans-people-2.html"
+    tags: [Family]
   -
     title: "Pressing Matters Volume 1"
     subtitle: "A Trans Activism Memoir"
@@ -86,12 +92,19 @@ books:
     subtitle: "Second Edition"
     author: "Irwin Krieger"
     year: 2018
-    url: "https://www.jkp.com/uk/helping-your-transgender-teen-2nd-edition-35582.html" 
-    hidden: true
+    url: "https://www.jkp.com/uk/helping-your-transgender-teen-2nd-edition-35582.html"
+    tags: [Family]
   -
     title: "Supporting Young Transgender Men"
     subtitle: "A Guide for Professionals"
     author: "Matthew Waites"
     year: 2018
-    url: "https://www.jkp.com/uk/supporting-young-transgender-men-2.html" 
-    hidden: true
+    url: "https://www.jkp.com/uk/supporting-young-transgender-men-2.html"
+    tags: [Clinicians]
+  -
+    title: "Transgender Health"
+    subtitle: "A Practitioner's Guide to Binary and Non-Binary Trans Patient Care"
+    author: "Ben Vincent"
+    year: 2018
+    url: "https://www.jkp.com/uk/transgender-health-1.html"
+    tags: [Clinicians]

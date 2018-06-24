@@ -38,6 +38,10 @@ Some specialist gender services have produced additional guidance for GPs.
 
 BMJ subscribers can also access [BMJ Best Practice - Gender dysphoria in adults](https://bestpractice.bmj.com/topics/en-gb/992).
 
+### Books
+
+{% include books tag="Clinicians" thumbnails="true" %}
+
 ### Information for psychotherapists and counsellors
 
 {% include publications tag="Therapy" %}

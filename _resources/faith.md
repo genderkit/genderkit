@@ -10,3 +10,6 @@ description: UK-specific information for community leaders about supporting tran
 
 {% include publications tag="Faith" %}
 
+### Books
+
+{% include books tag="Faith" thumbnails="true" %}

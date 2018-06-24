@@ -101,6 +101,10 @@ help:
     name: Local groups
     footer: local groups
   -
+    url: '/books'
+    name: Books
+    footer: books
+  -
     url: '/resources/family'
     name: Family
     footer: family

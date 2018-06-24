@@ -10,6 +10,10 @@ description: UK-specific information about supporting trans, nonbinary, and gend
 
 We also have a separate page with information published by [unions]({{ site.baseurl }}{% link _resources/unions.md %}) which may provide helpful guidance.
 
+### Books
+
+{% include books tag="Employment" thumbnails="true" %}
+
 ### Civil Service
 
 {% include organisations tag="Civil Service" %}

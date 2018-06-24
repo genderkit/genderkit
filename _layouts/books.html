@@ -4,22 +4,7 @@ layout: page
 <main>
   <article>
     <section class="groupings">
-    <ul class="details" id="books">
-      {% assign books = site.data.books.books | where_exp:"item", "item.hidden != true" %}
-      {% for item in books %}
-        <li>
-          <div>
-            {% assign url = item.url %}
-            <img src="{{ 'assets/images/books/' | append: item.title | append: '.jpg' | absolute_url }}" height="200" />
-            <a href="{{ url }}">{{ item.title | xml_escape }}</a>
-            {% if item.subtitle %}
-              <div>{{ item.subtitle | xml_escape }}</div>
-            {% endif %}
-            <div class="bookauthor">{{ item.author }}</div>
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
+    {% include books thumbnails="true" %}
     </section>
     <section class="bodytext">
       <h3>Free publications</h3>

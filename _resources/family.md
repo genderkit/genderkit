@@ -11,3 +11,7 @@ description: Helpful organisations and publications in the UK for people with tr
 ### Useful PDFs
 
 {% include publications tag="Family" thumbnails="true" %}
+
+### Books
+
+{% include books tag="Family" thumbnails="true" %}
