@@ -153,6 +153,10 @@ help:
     name: Health
     footer: health and screening tests
   -
+    url: '/resources/national'
+    name: National organisations
+    footer: our national organisations directory
+  -
     url: '/publications'
     name: PDF library
     footer: our PDF library
