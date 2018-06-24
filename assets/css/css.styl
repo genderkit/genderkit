@@ -82,7 +82,7 @@ section, footer, .greybox
   margin 0
 
 // Remove default UL styling on most lists  
-nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, .links, .details, .articles, .effects, #effectslist, #categorylist
+nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, #effectslist, #categorylist
   padding 0
   margin 0
   li
@@ -92,7 +92,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 
 // Lists where we want to squish the text together
 // to make list items more visually obvious 
-.articles, .effects, #effectslist, #explore, #resources, .details
+.articles, .effects, #effectslist, #explore, #resources, #help, .details
   display flex
   flex-direction column
   img
@@ -105,7 +105,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
   li:last-child
     margin-bottom 0
     
-.articles, .effects, #effectslist, #explore, #resources
+.articles, .effects, #effectslist, #explore, #resources, #help
   line-height 1.25
 
 .details
@@ -162,7 +162,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin-bottom 1rem
     
 // Article pages
-.effects, #effectslist, #explore, #resources
+.effects, #effectslist, #explore, #resources 
   margin-top 1rem
   padding 0
   li
@@ -180,7 +180,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin-bottom -4rem
     margin-left -6.25rem
     background-size 4rem
-#effectslist, #explore, #resources
+#effectslist, #explore, #resources 
   span
     display block
     margin-top 2rem
@@ -266,7 +266,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     color white
     padding 1rem
     margin 0
-#effectslist, #explore, #resources
+#effectslist, #explore, #resources, #help
   li
     background-color #f0f0fa
     border none
@@ -312,7 +312,16 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 .orange
   color #fa0
   font-weight 600
-    
+#help
+  flex-wrap wrap
+  flex-direction row
+  margin 0 1rem 
+  li
+    margin 1rem 1rem 0 0
+    padding .5rem
+    border-radius 1rem 
+    font-size 120%
+
 // Visual styling
 nav, aside, .warning, .attention
   h3, p
@@ -329,7 +338,7 @@ nav, aside, .attention
   border-left 4px solid #f90
 .button
   display block
-  width 10rem
+  width 16rem
   background-color #f80
   background linear-gradient(to bottom, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%)
   border-radius .5rem
@@ -400,7 +409,7 @@ nav, aside, .attention
     text-align left
 
 // Horrible special cases to make things look nicer
-#effectslist, #explore, #resources
+#effectslist, #explore, #help, #resources
   margin-top 1rem
 a > span > span // Make citations appear correctly
   vertical-align baseline !important

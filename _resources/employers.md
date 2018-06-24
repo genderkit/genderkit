@@ -16,6 +16,12 @@ We also have a separate page with information published by [unions]({{ site.base
 
 {% include publications tag="Civil Service" %}
 
+### Emergency Services
+
+{% include organisations tag="Emergency Services" %}
+
+{% include publications tag="Emergency services" %}
+
 ### UK Armed Forces
 
 {% include publications tag="Military" %}
@@ -23,6 +29,8 @@ We also have a separate page with information published by [unions]({{ site.base
 ### NHS and medical services
 
 {% include publications tag="Local medical employment policies" %}
+
+We also have a separate page with [information for clinicians]({{ site.baseurl }}{% link _resources/clinicians.md %}).
 
 ### Education
 

@@ -10,9 +10,13 @@
       {% endfor %}
     <li class="{{ cssclasses }}" style="padding-bottom: 0;">
       <div>
-      {% assign imagetitle = item.title | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " %}
-      {% assign imagepublisher = publisher.name | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " %}
       {% assign url = item.url %}
+      {% if include.thumbnails %}
+        {% assign imagetitle = item.title | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " %}
+        {% assign imagepublisher = item.organisation | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " %}
+        {% assign imagename = imagepublisher | append: ' - ' | append: imagetitle %}
+        <img src="{{ 'assets/images/publications/' | append: imagename | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" height="200" />
+      {% endif %}
       <a href="{{ url }}">{{ item.title | xml_escape }}</a>
       <div class="publicationpublisher">{{ item.organisation }}</div> 
       {% if item.warning %}

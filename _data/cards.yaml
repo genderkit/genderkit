@@ -82,8 +82,54 @@ resources:
     url: '/resources/sports-and-fitness'
     name: 'Sport & Fitness'
   -
+    url: '/resources/unions'
+    name: Unions
+  -
     url: '/resources/research'
-    name: Research
+    name: UK Research
+help:
+  -
+    url: '/resources/local'
+    name: Local groups
+  -
+    url: '/resources/hate-crime'
+    name: Hate crime
+  -
+    url: '/resources/housing'
+    name: Homelessness
+  -
+    url: '/resources/legal'
+    name: Legal
+  -
+    url: '/resources/prisons'
+    name: Prisons
+  -
+    url: '/resources/immigration'
+    name: Immigration
+  -
+    url: '/resources/sex'
+    name: Sex
+  -
+    url: '/resources/family'
+    name: Family
+  -
+    url: '/resources/hormones'
+    name: Hormones
+  -
+    url: '/resources/surgery'
+    name: Surgery
+  -
+    url: '/resources/violence'
+    name: Violence and abuse
+  -
+    url: '/resources/gender-services'
+    name: Gender clinics
+  -
+    url: '/resources/clinicians'
+    name: Health screening tests
+  -
+    url: '/publications'
+    name: PDF library
 indexes:
   -
     url: '/help'
