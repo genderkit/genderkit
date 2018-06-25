@@ -1765,7 +1765,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c1.0.50.50/p50x50/12321251_974000542686079_8884011031511649526_n.png?oh=62e5b44148e48ece951ba6a7343d94f2&oe=5AC6B143'
     -
         name: 'Brighton Trans'
-        url: 'https://www.meetup.com/BrightonTrans/'
         tags: ['South East', Brighton, 'Local groups']
         twitter: BrightonTrans
         twitterID: '820421433008463873'
@@ -2054,7 +2053,7 @@ organisations:
         lastFacebookPost: '2017-11-02T14:39:15+0000'
     -
         name: 'Imperial College Healthcare NHS Trust Gender Surgery Service'
-        url: 'https://www.imperial.nhs.uk/our-services/surgery/gender-surgery'
+        url: 'https://www.imperial.nhs.uk/our-services/surgery/feminising-genital-surgery'
         tags: ['NHS Gender Services', Surgery, National]
         manualDescription: 'NHS surgical clinic specialising in vaginoplasty and labiaplasty'
         image: nhs
