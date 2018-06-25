@@ -851,12 +851,14 @@ publications:
     year: 2012
     url: "http://www.tht.org.uk/~/media/4653aa766e3f4c1286fc515f17146f32.ashx"
     tags: [Sex, Health]
+    archived: true
   -
     title: "Sexual health, HIV and wellbeing - a guide for transmen"
     organisation: "Terrence Higgins Trust"
     year: 2012
     url: "http://www.tht.org.uk/~/media/8F7D70D8C3B643109351E3D9A633529A.ashx"
     tags: [Sex, Health]
+    archived: true
   -
     title: "Supporting trans youth - Guidance for supporting trans & non-binary young people in formal & non-formal education"
     organisation: "Sail NI"
@@ -1460,6 +1462,12 @@ publications:
     organisation: "quiltbag"
     year: 2015
     url: "https://www.mermaidsuk.org.uk/assets/media/quiltbag.pdf"
+    tags: ['Employment', 'Emergency services'] 
+  -
+    title: "Transgender - A Practical Guide"
+    organisation: "South Wales Fire and Rescue Service"
+    year: 2018
+    url: "https://www.southwales-fire.gov.uk/app/uploads/2018/04/2535-Transgender-Guide-2018_en.pdf"
     tags: ['Employment', 'Emergency services']  
   -
     title: "Welcoming Transgender People"
@@ -1633,7 +1641,7 @@ publications:
     title: "Gender Identity and Gender Reassignment Policy for those in our Custody"
     organisation: "Scottish Prison Service"
     year: 2014
-    url: "https://www.insidetime.org/download/rules_&_policies/scotland/SPS-policy-on-treatment-of-transgender-prisoners-2014.pdf"
+    url: "http://www.sps.gov.uk/nmsruntime/saveasdialog.aspx?fileName=SPSGenderIdentityandGenderReassignmentPolicy20142562_1392.pdf"
     tags: ['Prisons', 'Legal']
   -
     title: "UKRDA Transgender Policy"
@@ -1725,6 +1733,60 @@ publications:
     year: 2016
     url: "https://intranet.royalholloway.ac.uk/ecampus/documents/pdf/welfare/guidance-on-transgender-issues-support-23.05.16.pdf"
     tags: [Education, University policies]
+  -
+    title: "Gender Reassignment Policy"
+    organisation: "NHS Leicestershire Partnership NHS Trust"
+    year: 2018
+    url: "http://www.leicspart.nhs.uk/Library/GenderReassignmentPolicyexpAug21.pdf"
+    tags: ['Medical policies', 'Local medical employment policies']
+  -
+    title: "Gender Reassignment Support in the Workplace"
+    organisation: "NHS Rotherham Clinical Commissioning Group"
+    year: 2015
+    url: "http://www.rotherhamccg.nhs.uk/Downloads/Policies%20and%20Procedures/HR%20Policy/027-HR%20Gender%20%20Reassignment%20Support%20in%20the%20Workplace%20%20Policy.pdf"
+    tags: ['Medical policies', 'Local medical employment policies']
+  -
+    title: "Gender Dysphoria – Policy and referral guidelines"
+    organisation: "NHS Coventry and NHS Warwickshire"
+    year: 2011
+    url: "https://www.southwarwickshireccg.nhs.uk/mf.ashx?ID=e4f134c3-0b89-46ce-90a9-fe6c6e542d7c"
+    tags: ['Medical policies', 'Local medical policies']
+  -
+    title: "Policy and guidance for Trans Students"
+    organisation: "UCL - University College London"
+    year: 2016
+    url: "https://www.ucl.ac.uk/human-resources/sites/human-resources/files/trans_guidance_students.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Supporting trans staff in the workplace"
+    organisation: "UCL - University College London"
+    year: 2016
+    url: "https://www.ucl.ac.uk/human-resources/sites/human-resources/files/trans_guidance_1.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Supporting trans staff in the workplace"
+    organisation: "UCL - University College London"
+    year: 2016
+    url: "https://www.ucl.ac.uk/human-resources/sites/human-resources/files/trans_guidance_1.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Employee Experiences Survey"
+    organisation: "Totaljobs"
+    year: 2016
+    url: "https://www.totaljobs.com/insidejob/wp-content/uploads/2016/04/160407_TJ_Trans_Report.pdf"
+    tags: ['Studies', 'Employment', 'National employment guidance']
+  -
+    title: "Research Council Guidance on Supporting Transgender Employees in the Work Place"
+    organisation: "UK Research and Innovation"
+    year: 2018
+    url: "https://www.ukri.org/files/termsconditions/rcukukriterms/transgender-employees-in-the-work-place-pdf/"
+    tags: ['Studies', 'Employment', 'National university guidance', 'National university employment guidance']
+  -
+    title: "Assessment of the GLA's impact on trans equality"
+    organisation: "Greater London Authority"
+    year: 2011
+    url: "https://www.london.gov.uk/sites/default/files/assessment_of_the_gla_impact_on_trans_equality.pdf"
+    tags: []
   # -
   #   title: ""
   #   organisation: ""
