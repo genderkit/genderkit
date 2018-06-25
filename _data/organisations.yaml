@@ -2364,3 +2364,9 @@ organisations:
         twitterDescription: 'The twitter account for the @HuddersfieldSU Trans Campaigns. Currently run by Tristan Smith, NUS Trans Conference Delegate 17/18'
         lastTwitterPost: 'Wed May 02 14:41:06 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/973984576786911232/iVigwb_L_normal.jpg'
+    -
+        name: 'Non-binary London'
+        tags: [London, Nonbinary, 'Local groups']
+        url: 'https://nonbinary.london/'
+        twitter: nonbinaryldn
+        twitterID: '1007394260449222661'
