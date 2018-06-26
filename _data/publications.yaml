@@ -1808,9 +1808,16 @@ publications:
   -
     title: "Rugbysafe Essential Guide: Transgender, Transsexual and Gender Dysphoria"
     organisation: "Rugby Football Union"
-    year: 2014
+    year: 2017
     url: "http://www.englandrugby.com/mm/Document/MyRugby/Education/01/32/50/43/TransgenderTranssexual(RugbySafeEssentialGuide)May2017FINAL_Neutral.pdf"
     tags: [Sport]
+  -
+    title: "Transgender and Transsexual Policy"
+    organisation: "British Rowing"
+    year: 2016
+    url: "https://www.britishrowing.org/wp-content/uploads/2018/04/Transgender-Transexual-Policy-BR-2016.pdf"
+    tags: [Sport]
+
 
   # -
   #   title: ""
