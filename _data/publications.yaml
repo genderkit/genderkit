@@ -1803,7 +1803,7 @@ publications:
     title: "Guidance for Badminton Clubs on welcoming transsexual players."
     organisation: "Badminton England"
     year: 2014
-    url: "https://www.badmintonengland.co.uk/core/core_picker/download.asp?id=20098"
+    url: "https://www.badmintonengland.co.uk/media/5826/guidance_on_welcoming_transsexual_people_to_your_badminton_club_july_14.pdf"
     tags: [Sport]
   -
     title: "Rugbysafe Essential Guide: Transgender, Transsexual and Gender Dysphoria"
@@ -1823,7 +1823,72 @@ publications:
     year: 2016
     url: "http://cdn0.genderedintelligence.co.uk/2016/09/13/09-50-06-transpeople-in-football-guide.pdf?"
     tags: [Sport]
-
+  -
+    title: "Transgender Awareness Guide"
+    organisation: "The University of Warwick"
+    year: 2017
+    url: "https://warwick.ac.uk/services/equalops/transandgenderreassignment/58933_trans_awareness_guide_2017_-_printed_version.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Gender Identity and Expression Policy"
+    organisation: "University of Portsmouth"
+    year: 2018
+    url: "http://policies.docstore.port.ac.uk/policy-037.pdf?_ga=2.171535976.938247422.1522046115-437979605.1521475011"
+    tags: ['Education', 'University policies']
+  -
+    title: "Supporting transgender students and staff"
+    organisation: "University of Strathclyde"
+    year: 2014
+    url: "https://www.strath.ac.uk/media/ps/sees/equality/Supporting_trans_students_and_Staff_FAQs_web_May_2014.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Equality, Diversity and Inclusivity - Supporting Gender Reassignment in the Workplace"
+    organisation: "University of Kent"
+    year: 2016 
+    url: "https://www.kent.ac.uk/hr-equalityanddiversity/protected-characteristics/resources/transgender/gritw-guidetl%2008012016.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Equality Policy"
+    organisation: "Queen’s University Belfast"
+    year: 2016
+    url: "https://www.qub.ac.uk/directorates/HumanResources/EqualityandDiversityUnit/FileStore/Filetoupload,696694,en.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Transgender Staff Policy"
+    organisation: "University of Sunderland"
+    year: 2016
+    url: "https://services.sunderland.ac.uk/images/services/hr2015/documents/Staff%20Transgender%20%202016.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Transgender Policy (Students and Staff)"
+    organisation: "University of Bedfordshire"
+    year: 2017
+    url: "https://www.beds.ac.uk/__data/assets/pdf_file/0004/551137/Transgender-Policy-29-06-17-v5.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Students and Staff Guide"
+    organisation: "York St John University"
+    year: 2017
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans_Inclusive_Guide---Final.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Equality Policy Statement"
+    organisation: "York St John University"
+    year: 2017
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Trans Equality Policy"
+    organisation: "University of Leeds"
+    year: 2017
+    url: "https://equality.leeds.ac.uk/wp-content/uploads/sites/64/2011/04/Trans-equality-policy-statement_Final.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Policy on Equality for Trans Staff and Students"
+    organisation: "Ulster University"
+    year: 2017
+    url: "https://www.ulster.ac.uk/__data/assets/pdf_file/0013/123151/Trans-policy.pdf"
+    tags: ['Education', 'University policies']  
   # -
   #   title: ""
   #   organisation: ""
