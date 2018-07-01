@@ -121,6 +121,10 @@ help:
     name: Surgery
     footer: surgeries
   -
+    url: '/resources/mental-health'
+    name: Mental health
+    footer: mental health
+  -
     url: '/resources/immigration'
     name: Immigration
     footer: immigration and asylum

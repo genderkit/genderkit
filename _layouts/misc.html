@@ -4,6 +4,14 @@ layout: page
 
 <main role="main">
   <article class="content">
+
+  	{% if page.attention-title %}
+  	<section class="attention">
+      <h3>{{ page.attention-title | xml_escape }}</h3>
+      <p>{{ page.attention-text | markdownify }}</p>
+    </section>
+  	{% endif %}
+
     <section class="bodytext">
       {{ content }}
       <h3>Errors and omissions</h3>
