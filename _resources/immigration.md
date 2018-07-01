@@ -1,8 +1,14 @@
 ---
 layout: misc
 title: Immigration and asylum
-description: Helpful information, publications,pu and organisations for trans, non-binary, and gender non-conforming people moving to, studying in, or visiting the UK
+description: Helpful information, publications, and organisations for trans, non-binary, and gender non-conforming people moving to, studying in, or visiting the UK
 ---
+
+### General information
+
+You can find general information about moving to the UK on [the UK Government Visas and Immigration page](https://www.gov.uk/browse/visas-immigration). 
+
+If you are intending to claim *asylum* in the UK, you can find information about asylum from [Transgender Europe](https://tgeu.org/issues/asylum/), [Stonewall UK](https://www.stonewall.org.uk/help-advice/asylum), [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) (who also support trans and intersex people), and [the UK government](https://www.gov.uk/claim-asylum). Transgender Europe also have a [guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum.
 
 ### Accessing gender services in the UK
 
@@ -22,24 +28,12 @@ You can read more about moving to England from outside the EEA on [the NHS Choic
 
 *Female genital mutilation* (FGM) survivor services on the NHS are available to everyone in the UK free of charge. You can read more about FGM support on [the NHS website](https://www.nhs.uk/conditions/female-genital-mutilation-fgm/).
 
-### Changing names
+### Changing your name
 
 To change your name on UK government documents, such as residence permits, travel documents, and visas, you will need to show you have updated your name on your  non-UK passport or national identity card. There is more information about changing names available on [the UK Home Office website](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/550968/Home_Office_Use_and_Change_of_Names_revision_060916.pdf).
 
 If you have a visa or BRP, you must report a change of name to the UK Government. You can find more information on how to do this on [the UK Government website](https://www.gov.uk/change-circumstances-visa-brp).
 
-### Asylum in the UK
-
-Some UK LGBT organisations provide information on asylum:
-
-- Transgender Europe have a section of [asylum-related resources](https://tgeu.org/issues/asylum/) and a [quick guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) including information about rights in the asylum system.
-
-- Stonewall UK have [an advice section on asylum](https://www.stonewall.org.uk/help-advice/asylum).
-
-- The [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) supports LGBTQI+ people through the asylum and immigration process.
-
-Refugees and asylum seekers can access NHS services - including gender services - for free. There is more information about this on [the UK Government website](https://www.gov.uk/guidance/nhs-entitlements-migrant-health-guide).
-
-### Important publications
+### Important PDFs
 
 {% include publications tag="Immigration and asylum" %}
