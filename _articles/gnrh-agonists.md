@@ -8,7 +8,7 @@ feature:
 
 {% capture warn %}
 Taking GnRH agonists without also taking a sex hormone (e.g.
-[oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) and/or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. If GnRH agonists are being used without an additional sex hormone, DEXA (bone density) scans which measure bone mineral density may be needed {% cite murjan2017 -l 197 %}.
+[oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) and/or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. If GnRH agonists are being used without an additional sex hormone, [DEXA (bone density) scans](https://www.nhs.uk/conditions/dexa-scan/) which measure bone mineral density may be needed {% cite murjan2017 -l 197 %}.
 {% endcapture %}
 {% include warning warning=warn %}
 
