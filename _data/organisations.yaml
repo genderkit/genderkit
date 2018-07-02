@@ -622,7 +622,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c63.8.95.95/s50x50/971391_594872457212807_277035630_n.png?oh=deec77dc59926884ba8173fac678bb60&oe=5A909506'
     -
         name: 'Trans Forum Manchester'
-        url: 'http://transforum.org.uk'
+        url: 'http://www.transforum-manchester.co.uk/'
         tags: ['North West', Manchester, 'Local groups']
         twitter: TransForumMcr
         facebook: TransForumManchester
@@ -980,7 +980,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13427738_1179935078717681_6957309247805178425_n.jpg?oh=f549ee3fd3e92ebc6772706f49a568eb&oe=5AD3117C'
     -
         name: 'The Sibyls'
-        url: 'http://www.sibyls.co.uk'
+        url: 'http://sibyls.gndr.org.uk/'
         facebook: sibylsgroup
         tags: [National, Faith]
         lastFacebookPost: '2017-12-04T19:30:54+0000'
@@ -1224,7 +1224,7 @@ organisations:
         twitterIcon: 'http://pbs.twimg.com/profile_images/691272927652745216/uLQqCLyw_normal.jpg'
     -
         name: 'FTM London'
-        url: 'http://ftmlondon.net'
+        url: 'https://ftmlondon.net'
         tags: [London, Transmasculine, 'Local groups']
         twitter: FTM_London
         twitterID: '3401994219'
@@ -1280,7 +1280,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13055388_1703303309928348_2616114000108367921_n.png?oh=221138c5194a1884dbea5d9d7b193ab3&oe=5AC0345F'
     -
         name: 'Western Boys'
-        url: 'http://westernboys.org/'
         tags: ['South West', 'Local groups']
         twitter: BoysWestern
         twitterID: '735106970135461888'
