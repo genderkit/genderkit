@@ -4,6 +4,10 @@ title: Information for GPs, nurses, and other clinicians
 description: UK-specific information for clinicians supporting trans, nonbinary, and gender non-conforming people
 ---
 
+### General Medical Council guidance
+
+The GMC have created a [trans healthcare hub](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare) that gives information on how to treat trans and non-binary people. This is the most important information to read about how to support your patients.
+
 ### National policies
 
 Each nation's public health body has published a policy for how patients should be treated.
