@@ -1222,7 +1222,7 @@ publications:
     title: "Guidance on Supporting Transgender Staff and Students"
     organisation: "University of Birmingham"
     year: 2018
-    url: "https://www.bhconnected.org.uk/sites/bhconnected/files/Brighton%20%26%20Hove%20Trans%20Needs%20Assessment%202015.pdf"
+    url: "https://intranet.birmingham.ac.uk/collaboration/equality/documents/Staff-policies-and-guidance/UoB-Trans-guidance-for-staff-and-students.pdf"
     tags: [Education, University policies]
   -
     title: "Transgender, Intersex and Gender Non-Conforming People: Policy"
@@ -1515,7 +1515,7 @@ publications:
     title: "Support for trans* students"
     organisation: "ual: university of the arts london"
     year: 2018
-    url: "http://www.arts.ac.uk/media/arts/about-ual/diversity/documents/UAL-Guide-for-Trans-Students.pdf"
+    url: "https://www.arts.ac.uk/__data/assets/pdf_file/0014/41153/UAL-Guide-for-Trans-Students.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Staff Support Policy"
@@ -1574,8 +1574,8 @@ publications:
   -
     title: "Trans Equality And Gender Identity Guidance For Staff"
     organisation: "Leeds Beckett University"
-    year: 2017
-    url: "https://www.aber.ac.uk/en/media/departmental/humanresources/Trans-statement-04-2017-final.pdf"
+    year: 2016
+    url: "https://www.leedsbeckett.ac.uk/-/media/files/public-information/a-to-z-guides-and-support/nn_trans_equality_and_gender_identity_guidance_for_staff.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Gender Reassignment: Guidance for Managers"
@@ -1587,7 +1587,7 @@ publications:
     title: "Procedure for Supporting Transgender Students"
     organisation: "University of Derby"
     year: 2017
-    url: "https://www.derby.ac.uk/media/derbyacuk/contentassets/documents/academicregulations/University-Procedure-for-supporting-transgender-students-March-2018.pdf"
+    url: "https://www.derby.ac.uk/media/derbyacuk/assets/departments/the-registry/academic-regulations/F---University-Procedure-for-supporting-transgender-students-March-2018.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Including Transgender Students at the University of Cambridge"
@@ -1895,6 +1895,14 @@ publications:
     year: 2017
     url: "https://www.ulster.ac.uk/__data/assets/pdf_file/0013/123151/Trans-policy.pdf"
     tags: ['Education', 'University policies']  
+  -
+    title: "Bankruptcy and Transgender - Guidance for Transgender Bankrupts"
+    organisation: "The Insolvency Service"
+    year: 2015
+    url: "http://www.ipd-uk.com/wp-content/uploads/2014/09/2015-Bankruptcy-and-transgender.pdf"
+    tags: ['Legal']  
+
+
   # -
   #   title: ""
   #   organisation: ""
