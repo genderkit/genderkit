@@ -2284,6 +2284,7 @@ organisations:
         twitterDescription: 'the NUS'' campaign for trans liberation. Ran by the Trans Officer, @JBPersonalBrand.'
         lastTwitterPost: 'Thu Jun 21 14:40:10 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/887225863560990721/FRyfUPle_normal.jpg'
+        archived: true
     -
         name: 'Manchester Concord'
         tags: ['North West', Manchester, 'Local groups']
