@@ -15,6 +15,8 @@ More general advice for survivors is available on the NHS Choices website:
 - [Help after rape and sexual assault](https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/)
 - [Getting help for domestic violence](https://www.nhs.uk/live-well/healthy-body/getting-help-for-domestic-violence/)
 
+The [Rape Crisis Scotland helpline](https://www.rapecrisisscotland.org.uk/help-helpline/) is for anyone, whatever their gender, who has been affected by sexual iolence, no matter when or how it happened. They offer both phone and email support.
+
 The Galop [National LGBT Domestic Abuse Helpline](http://www.galop.org.uk/domesticabuse/) supports LGBT people, their friends & families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.
 
 ### If you're worried about someone else
