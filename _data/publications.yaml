@@ -128,7 +128,7 @@ publications:
     title: "Primary Care responsibilities in relation to the prescribing and monitoring of hormone therapy for patients undergoing or having undergone Gender dysphoria treatments"
     organisation: "NHS England"
     year: 2014
-    url: "http://www.dorsetccg.nhs.uk/Downloads/aboutus/medicines-management/Other%20Guidelines/Specialised%20services%20circular.pdf"
+    url: "https://shsc.nhs.uk/wp-content/uploads/2014/08/NHS-England-Specialised-Services-Circular.pdf"
     tags: [Medical policies, England, 'National medical policies']
   -
     title: "Interim Gender Dysphoria Protocol and service Guideline 2013/14"
@@ -1390,7 +1390,7 @@ publications:
     organisation: "Bristol City Council"
     year: 2012
     url: "https://www.bristol.gov.uk/documents/20182/33159/Transgender%20guide%20v13.pdf/8fe3b529-6b92-42b3-8f1c-196e1dac9015"
-    tags: [Employment, 'National employment guidance']
+    tags: [Employment, 'Local authorities']
   -
     title: "Supporting transgender users of our services"
     organisation: "Kent County Council Adult and Children Social Care"
@@ -1890,6 +1890,18 @@ publications:
     url: "https://equality.leeds.ac.uk/wp-content/uploads/sites/64/2011/04/Trans-equality-policy-statement_Final.pdf"
     tags: ['Education', 'University policies']
   -
+    title: "Supporting Trans* Staff and Students at the University"
+    organisation: "University of Manchester"
+    year: 2017
+    url: "http://documents.manchester.ac.uk/display.aspx?DocID=12047"
+    tags: ['Education', 'University policies']  
+  -
+    title: "Sex Appearance and Gender Identity Changes Guidance Document"
+    organisation: "Liverpool John Moores University"
+    year: 2018
+    url: "https://www.ljmu.ac.uk/~/media/sample-sharepoint-libraries/policy-documents/56.pdf?la=en"
+    tags: ['Education', 'University policies']  
+  -
     title: "Policy on Equality for Trans Staff and Students"
     organisation: "Ulster University"
     year: 2017
@@ -1901,8 +1913,54 @@ publications:
     year: 2015
     url: "http://www.ipd-uk.com/wp-content/uploads/2014/09/2015-Bankruptcy-and-transgender.pdf"
     tags: ['Legal']  
-
-
+  -
+    title: "Trans Policy"
+    organisation: "Nottinghamshire Police"
+    year: 2017
+    url: "https://www.nottinghamshire.police.uk/sites/default/files/documents/files/PS_138_Transgender_Policy_v2_0_Sept_2017.pdf"
+    tags: ['Employment', 'Emergency services'] 
+  -
+    title: "Transgender People in Employment"
+    organisation: "Scottish Police Authority"
+    year: 2018
+    url: "http://www.scotland.police.uk/assets/pdf/151934/184779/transgender-people-in-employment-sop"
+    tags: ['Employment', 'Emergency services'] 
+  -
+    title: "Transgender Policy and Strategy"
+    organisation: "napo: Probation and Family Court Trade Union and Professional Association"
+    year: 2015
+    url: "https://www.napo.org.uk/sites/default/files/Trans%20Policy%20DH%20amends.pdf"
+    tags: ['Employment', 'National union guidance'] 
+  -
+    title: "Hate Crime Report - Lived Experiences of Trans People"
+    organisation: "Equity Partnership"
+    year: 2016
+    url: "http://www.equitypartnership.org.uk/wp-content/uploads/2016/12/Lived-Experiences-of-Trans-People-final.pdf"
+    tags: [Studies]
+  -
+    title: "Trans research review"
+    organisation: "Equality and Human Rights Commission"
+    year: 2009
+    url: "https://www.equalityhumanrights.com/sites/default/files/research_report_27_trans_research_review.pdf"
+    tags: [Studies]
+  -
+    title: "Issues being faced by Transgender People"
+    organisation: "Chrysalis"
+    year: 2015
+    url: "http://www.healthwatchhampshire.co.uk/sites/default/files/chrysalis_report.pdf"
+    tags: [Studies]
+  -
+    title: "TransEdu Scotland - Researching the experience of trans and gender diverse applicants, students and staff in Scotland's colleges and universities"
+    organisation: "transEDU"
+    year: 2017
+    url: "https://www.trans.ac.uk/Portals/88/TransEdu-Scotland-Report-2017.pdf?ver=2017-10-31-142716-560"
+    tags: [Studies]
+  -
+    title: "An investigation into the experiences and needs of trans staff and students at King's College London"
+    organisation: "King's College London"
+    year: 2017
+    url: "https://www.kcl.ac.uk/hr/diversity/Trans-Full-Report.pdf"
+    tags: [Studies]
   # -
   #   title: ""
   #   organisation: ""
