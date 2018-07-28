@@ -12,6 +12,8 @@ description: Useful publications and specialist legal organisations for trans, n
 
 {% include publications tag="Legal information" thumbnails="true" %}
 
+Chapter 12 of the [Equal Treatment Bench Book](https://www.judiciary.uk/wp-content/uploads/2018/02/equal-treatment-bench-book-february-v6-2018.pdf) gives an overview of relevant legal issues for legal professionals.
+
 ### Prisons
 
 We have a seperate page on [prisons]({{ site.baseurl }}{% link _resources/immigration.md %}) with more information.
