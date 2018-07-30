@@ -37,3 +37,11 @@ Gender Construction Kit uses the following open source projects:
 Some articles are illustrated using a cropped version of a [photo of surgeons taken by Phalinn Ooi](https://www.flickr.com/photos/phalinn/8116089574/) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by/2.0/).
 
 The gamete storage article is illustrated using a [photo of ovarian tissue cryopreservation taken by Dr. Vereczkey Attila](https://commons.wikimedia.org/wiki/File:Petef%C3%A9szeksz%C3%B6vet-cs%C3%ADkok_fagyasztva_t%C3%A1rol%C3%A1sa.jpg) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
+
+The Contraceptive Pill articles is illustrated using a [photograph by Thought Catalog on Unsplash](https://unsplash.com/photos/psgqUnk8zvM).
+
+The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated using a [photograph by freestocks.org on Unsplash](https://unsplash.com/photos/nss2eRzQwgw).
+
+The Eyebrow Threading article is illustrated using a [photograph by Rune Enstad on Unsplash](https://unsplash.com/photos/cowLgyb63c4).
+
+The Eyebrow Makeup articles is illustrated using a portion of a [photograph by Bernard Osei on Unsplash](https://unsplash.com/photos/mSYMdt0SHvY).
