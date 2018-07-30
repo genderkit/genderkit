@@ -53,6 +53,7 @@ task :spellcheck => :jekyll do
   files.exclude("_site/organisations/*.html")
   files.exclude("_site/publications/*.html")
   files.exclude("_site/studies/*.html")
+  files.exclude("_site/credits/*.html")
   files.exclude("_site/tools/*")
   files.exclude("_site/explore/names-*/*.html")
   files.exclude("_site/resources/*/*.html")
