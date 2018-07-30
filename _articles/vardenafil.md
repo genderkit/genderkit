@@ -1,6 +1,9 @@
 ---
 title: Vardenafil
 weighting: 3
+feature:
+  image: /assets/images/articles/pills.jpg
+  caption: "A photograph of a pile of pills"
 ---
 
 Alternatives to vardenafil include [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) and [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}).

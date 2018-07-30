@@ -1,6 +1,9 @@
 ---
 title: Eyebrow makeup
 weighting: 1
+feature:
+  image: /assets/images/articles/eye-makeup.jpg
+  caption: "A photograph of a person's eye area with makeup applied"
 ---
 
 A number of makeup techniques can be used to make eyebrows appear darker, denser or thicker:

@@ -1,6 +1,9 @@
 ---
 title: Eyebrow threading
 weighting: 2
+feature:
+  image: /assets/images/articles/eyebrow-threading.jpg
+  caption: "A person's eyebrows being threaded"
 ---
 
 Eyebrow threading is a method of reshaping eyebrows. It is a traditional alternative to reshaping eyebrows by [waxing]({{ site.baseurl }}{% link _articles/waxing.md %}).

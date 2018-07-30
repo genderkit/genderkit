@@ -1,6 +1,9 @@
 ---
 title: Alfatradiol
 weighting: 3
+feature:
+  image: /assets/images/articles/pills.jpg
+  caption: "A photograph of a pile of pills"
 ---
 
 There are only a small number of studies of the effects of alfatradiol on hair loss, and there is no clear conclusion on whether it is effective {% cite varothai2014androgenetic -l 221 %}.

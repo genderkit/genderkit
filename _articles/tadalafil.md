@@ -1,6 +1,9 @@
 ---
 title: Tadalafil
 weighting: 3
+feature:
+  image: /assets/images/articles/pills.jpg
+  caption: "A photograph of a pile of pills"
 ---
 
 Alternatives to tadalafil include [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}) and [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}). 
