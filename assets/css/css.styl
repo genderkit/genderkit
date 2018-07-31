@@ -402,6 +402,7 @@ nav, aside, .attention
   input[type=checkbox]+label
     line-height 1.25
     height 2em
+    flex-grow 999
     display flex
     align-items center
     cursor pointer
@@ -417,3 +418,15 @@ a > span > span // Make citations appear correctly
 a > span // Make citations appear correctly
   line-height 0
   
+.articles
+  flex-direction row
+  flex-wrap wrap
+  justify-content space-evenly
+  margin-left: -1rem
+  margin-right: -1rem
+  img
+      display block
+  li
+    width 10rem 
+  h3
+    margin-top .5rem
