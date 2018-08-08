@@ -1786,7 +1786,7 @@ publications:
     organisation: "UK Research and Innovation"
     year: 2018
     url: "https://www.ukri.org/files/termsconditions/rcukukriterms/transgender-employees-in-the-work-place-pdf/"
-    tags: ['Studies', 'Employment', 'National university guidance', 'National university employment guidance']
+    tags: ['Employment', 'National university guidance', 'National university employment guidance']
   -
     title: "Assessment of the GLA's impact on trans equality"
     organisation: "Greater London Authority"
@@ -1961,6 +1961,19 @@ publications:
     year: 2017
     url: "https://www.kcl.ac.uk/hr/diversity/Trans-Full-Report.pdf"
     tags: [Studies]
+  -
+    title: "Supporting trans women in domestic and sexual violence services"
+    organisation: "Stonewall"
+    year: 2018
+    url: "https://www.stonewall.org.uk/sites/default/files/stonewall_and_nfpsynergy_report.pdf"
+    tags: [Studies]
+  -
+    title: "Lambeth: A trans agenda?"
+    organisation: "London Borough of Lambeth"
+    year: 2012
+    url: "https://www.lambeth.gov.uk/sites/default/files/lambeth-transgender-report.pdf"
+    tags: [Studies]
+    
   # -
   #   title: ""
   #   organisation: ""
