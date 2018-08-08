@@ -2,12 +2,14 @@
 layout: misc
 title: UK Research
 description: UK research studies about trans, nonbinary, and gender non-conforming prisoners
+attention-title: Good practice
+attention-text: "Before starting a research project, read [Vincent (2018)](https://www.tandfonline.com/doi/abs/10.1080/19419899.2018.1434558) which provides guidelines for research with gender diverse populations."
 ---
 
-### Research studies in academia
+### UK academic research organisations
 
-Academic researchers are advised to read [Vincent (2018). Studying trans: recommendations for ethical recruitment and collaboration with transgender participants in academic research](https://www.tandfonline.com/doi/abs/10.1080/19419899.2018.1434558) which provides guidelines for research into gender diverse populations.
+{% include organisations tag="Research" %}
 
-### Research studies by organisations outside of academia
+### UK research studies
 
 {% include publications-grouped tag="Studies" %}
