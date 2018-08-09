@@ -2413,6 +2413,7 @@ organisations:
     -
         name: 'Trans Studies Network UK'
         tags: [Research, National]
+        url: 'https://transstudiesuk.wordpress.com/'
         twitter: TransStudiesUK
         twitterID: '1021755827110248449'
         twitterDescription: 'A network for academic interest in transgender studies based at @RoehamptonUni. Run by @robin__craig and @emilycorbett11. We follow the hashtag #TransStudies'
