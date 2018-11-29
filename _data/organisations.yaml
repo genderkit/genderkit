@@ -2189,17 +2189,12 @@ organisations:
     -
         name: 'Queer Trans Inclusion Partnership'
         tags: ['East Midlands', 'Local groups']
-        url: 'https://northantsqtip.co.uk/'
-        facebook: QTiPNorthants
-        twitter: QTiPnorthants
+        url: 'https://qtipcic.co.uk'
+        twitter: QTIPCIC
         twitterID: '913457826848264194'
         twitterDescription: 'QTiP is tackling #discrimination & #hate through its stakeholders'', & #trans people''s forums. We promote #inclusivity & #equality for #trans people in the #UK.'
         lastTwitterPost: 'Sun Sep 09 19:13:26 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/937975266420445184/gvhQ7kh5_normal.jpg'
-        facebookId: '1862255734089220'
-        facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/22549781_1862255800755880_3248684674649420787_n.jpg?oh=0f04f3aa046622158eecfb600b411ce3&oe=5AC28BF5'
-        lastFacebookPost: '2017-10-24T09:38:53+0000'
-        facebookDescription: 'Supporting families with queer & trans members. Campaigning for trans inclusion, rights & equality. Enjoying safe, trans friendly spaces across the county.'
     -
         name: 'TransForm Renfrewshire'
         tags: [Scotland, 'Local groups']
