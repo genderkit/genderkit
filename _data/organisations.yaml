@@ -965,20 +965,6 @@ organisations:
         twitterIcon: 'http://pbs.twimg.com/profile_images/2905359300/945725b20cf7242ff3f884d0f7d0530e_normal.jpeg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c33.0.50.50/p50x50/23630_324688566914_6257327_n.jpg?oh=ce762e3a783d96633b96709f9f96baf2&oe=5AD11B72'
     -
-        name: RosesRepartee
-        url: 'http://www.repartee.tv/'
-        twitter: RosesRepartee
-        facebook: RosesRepartee
-        tags: [National]
-        lastFacebookPost: '2017-11-08T19:48:02+0000'
-        facebookDescription: 'Repartee 82 (1.6.2016) is the current issue and our final printed magazine.'
-        twitterDescription: 'Trans-lifestyle magazine-style website, published for over 25 years in print, and now available on-line.'
-        lastTwitterPost: 'Sat Jul 30 12:23:36 +0000 2016'
-        facebookId: '448961208481742'
-        twitterID: '2989649591'
-        twitterIcon: 'http://pbs.twimg.com/profile_images/739788952543109121/Ysonzqkq_normal.jpg'
-        facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13427738_1179935078717681_6957309247805178425_n.jpg?oh=f549ee3fd3e92ebc6772706f49a568eb&oe=5AD3117C'
-    -
         name: 'The Sibyls'
         url: 'http://sibyls.gndr.org.uk/'
         facebook: sibylsgroup
@@ -1353,7 +1339,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13932747_557897167715172_3771447516244892781_n.jpg?oh=278b07c1da699a8087eff11a6c2c45de&oe=5AD55B16'
     -
         name: SafeT
-        url: 'http://www.safetuk.org/'
         tags: ['North West', 'Local groups']
         facebook: safetuk
         youtube: UCKQatwNgtam4Pzd2RJ5K6HQ
@@ -2226,11 +2211,8 @@ organisations:
     -
         name: 'Chrysalis GII'
         tags: ['South West', 'South East', 'Local groups']
-        url: 'http://www.chrysalis-gii.co.uk/'
-        facebook: ChrysalisGII
-        facebookId: '270698516630279'
-        facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c6.0.50.50/p50x50/13680614_270761493290648_5553350334048338371_n.jpg?oh=3e103dde07f0066050abc14546ec865a&oe=5AD2F283'
-        lastFacebookPost: '2017-03-29T13:04:04+0000'
+        facebook: ChrysalisGIM
+        url: 'http://www.chrysalis-gii.org/'
         manualDescription: 'Chrysalis is a Charity with Meeting Centres for transitioning transgender (transsexual) adults. We provide counselling, support and lifeskills workshops for Male-to-female (MtF), Female-to-male (FtM) and Intersex beneficiaries. Each Meeting Centre has a trained Counsellor, Support Workers &, where possible, an assigned LAGLO Officer. The meetings are held in South Hampshire and East Dorset.'
     -
         name: 'Not Alone Plymouth'
@@ -2311,12 +2293,12 @@ organisations:
     -
         name: 'Transgender Benevolence Foundation'
         tags: ['North East', 'Local groups']
-        facebook: tbfsupport
         twitter: TbfTransSupport
         twitterID: '974658496896602112'
         lastTwitterPost: 'Wed May 16 23:32:11 +0000 2018'
         twitterIcon: 'http://pbs.twimg.com/profile_images/977941935460704256/EY936cCi_normal.jpg'
         twitterDescription: 'Peer based support in the North East for all individuals who identify as Transgender, inclusive of all gender-conforming and nonconforming identities.'
+        archived: true
     -
         name: 'Trans Pride NI'
         tags: ['Northern Ireland', 'Local groups']

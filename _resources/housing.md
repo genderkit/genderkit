@@ -8,7 +8,7 @@ description: Information about housing and homelessness in the UK for trans, non
 
 Advice for trans people with housing related problems can be found on [the Action For Trans Health website](https://actionfortranshealth.org.uk/resources/for-trans-people/housing/).
 
-Stonewall Housing have produced a useful guide for survivors: [Housing options for LGBT people experiencing domestic abuse](http://www.stonewallhousing.org/files/LGBT_Domestic_Abuse.pdf)
+Stonewall Housing have produced a useful guide for survivors: [Housing options for LGBT people experiencing domestic abuse](http://www.equation.org.uk/wp-content/uploads/2012/12/Housing-Options-for-LGBT-People-Experiencing-Domestic-Abuse.pdf)
 
 **Shelter** are the UK housing and homelessness charity and can provide online, in person, and telephone helpline advice.
 

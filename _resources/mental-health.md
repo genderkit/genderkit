@@ -41,4 +41,4 @@ There's more information about common mental health conditions on the NHS Choice
 - [Eating disorders](https://www.nhs.uk/conditions/eating-disorders/)
 - [Panic attacks](https://www.nhs.uk/conditions/panic-disorder/)
 - [PTSD](https://www.nhs.uk/conditions/post-traumatic-stress-disorder-ptsd/)
-- [A-Z of mental health conditions](https://www.nhs.uk/Conditions/Pages/bodymap.aspx?Subject=Mental%20health%20disorders)
+

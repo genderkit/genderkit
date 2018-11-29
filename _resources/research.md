@@ -10,6 +10,12 @@ attention-text: "Before starting a research project, read [Vincent (2018)](https
 
 {% include organisations tag="Research" %}
 
-### UK research studies
+### Open access journal articles
+
+These articles describe studies on UK populations. They have been made available for anyone to read for free.
+
+{% include publications tag="Journal articles" %}
+
+### Other UK research studies
 
 {% include publications-grouped tag="Studies" %}
