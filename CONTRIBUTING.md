@@ -93,7 +93,7 @@ Where possible, use UK specific sources - e.g. prefer NHS guidelines over WPATH 
 The following are sources that are most reliable - use these wherever possible in preference to other sources:
 
 - medicines.org.uk - PILs of medications - provide a link to medicines.org.uk and a date accessed if possible
-- [RCPsych CR181 Good Practice Guidelines](http://www.rcpsych.ac.uk/files/pdfversion/CR181_Nov15.pdf)
+- [RCPsych CR181 Good Practice Guidelines](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/college-report-cr181.pdf)
 - [Interim Gender Dysphoria Protocol and Service Guideline 2013-2014](https://www.england.nhs.uk/wp-content/uploads/2013/10/int-gend-proto.pdf)
 - [Scottish Gender Reassignment Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf) and the [Interim update](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2015/07/Gender-Reassignment-Interim-Guidance-2.pdf)
 - [The Transgender Handbook](https://books.google.co.uk/books?id=ty3fAQAACAAJ)
