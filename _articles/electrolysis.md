@@ -9,11 +9,16 @@ Electrolysis is often used to remove facial hair.
 
 Electrolysis is also commonly used to remove hair from the genitals before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}), and to remove hair from donor skin sites before [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}).
 
+Electrolysis may be painful or uncomfortable. You can reduce the discomfort by asking your GP to prescribe you lidocaine and prilocaine cream, also known as EMLA cream. This is a local anaesthetic, applied directly onto the skin, which numbs the skin so you feel less pain from the treatment. You will normally need to apply the cream around an hour before your treatment.
+
+{% capture warn %}
 Anyone carrying out electrolysis in the UK must have [a special license](https://www.gov.uk/skin-piercing-and-tattooing). They are legally required to display this license in the premises. Ensure you have seen this license before allowing anyone to carry out electrolysis on you, so that you know you are safe.
+{% endcapture %}
+{% include warning warning=warn %}
 
 The British Institute and Association of Electrolysis maintain a [directory of members](http://www.electrolysis.co.uk/member-directory/) which may be helpful for finding somewhere to treat you.
 
-Electrolysis may be painful or uncomfortable. You can reduce the discomfort by asking your GP to prescribe you lidocaine and prilocaine cream, also known as EMLA cream. This is a local anaesthetic, applied directly onto the skin, which numbs the skin so you feel less pain from the treatment. You will normally need to apply the cream around an hour before your treatment.
+### Costs and funding
 
 The price of electrolysis varies depending on the size of the area to be treated. A common area is the face and neck, which costs around £80-90 per hour with an experienced electrologist, with more specialist work required before surgery costing £95-115 per hour. Prices will vary depending on the location of the clinic within the UK and the amount of experience your electrologist has. 
 
