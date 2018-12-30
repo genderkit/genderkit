@@ -30,12 +30,12 @@ While your piercing is healing, keep the area clean and dry, and make sure your 
 
 Public Health England and the Chartered Institute of Environmental Health have published advice on how to care for your piercing:
 
-- [ear and face piercing](http://www.cieh.org/WorkArea/showcontent.aspx?id=47226)
-- [mouth and tongue piercing](http://www.cieh.org/WorkArea/showcontent.aspx?id=47228)
-- [body and surface piercing](http://www.cieh.org/WorkArea/showcontent.aspx?id=47230)
-- [vulva piercings](http://www.cieh.org/WorkArea/showcontent.aspx?id=47232)
-- [penis and scrotum piercings](http://www.cieh.org/WorkArea/showcontent.aspx?id=47234)
-- [microdermal implants](http://www.cieh.org/WorkArea/showcontent.aspx?id=47236)
+- [ear and face piercing](https://www.cieh.org/media/1974/tattoo-toolkit_part-c_02-ear-and-face-piercing-aftercare.pdf)
+- [mouth and tongue piercing](https://www.cieh.org/media/1975/tattoo-toolkit_part-c_03-oral-piercing-aftercare.pdf)
+- [body and surface piercing](https://www.cieh.org/media/1976/tattoo-toolkit_part-c_04-body-and-surface-piercing-aftercare.pdf)
+- [vulva piercings](https://www.cieh.org/media/1977/tattoo-toolkit_part-c_05-genital-piercing-female-aftercare.pdf)
+- [penis and scrotum piercings](https://www.cieh.org/media/1978/tattoo-toolkit_part-c_06-genital-piercing-male-aftercare.pdf)
+- [microdermal implants](https://www.cieh.org/media/1979/tattoo-toolkit_part-c_07-microdermal-implants-aftercare.pdf)
 
 If your piercing becomes infected, you should immediately seek medical attention. Signs of infection are are:
 
