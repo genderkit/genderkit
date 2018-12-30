@@ -90,7 +90,7 @@ organisations:
         image: nhs
     -
         name: 'Northamptonshire Healthcare NHS Foundation Trust Gender Clinic'
-        url: 'https://www.nhft.nhs.uk/gender-identity-clinic'
+        url: 'https://www.nhft.nhs.uk/gic/'
         tags: ['NHS Gender Services', 'East Midlands']
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
         image: nhs
@@ -1122,6 +1122,7 @@ organisations:
         twitterID: '718744549'
         twitterIcon: 'http://pbs.twimg.com/profile_images/3409133573/0426e91816dff7abcb5c738c640b1ea5_normal.png'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/487505_430628420346436_1862591557_n.png?oh=2bfb297591a0a9ba8a2f544bf5c94196&oe=5AD7D9F8'
+        archived: true
     -
         name: TransparenTsees
         twitter: Transparentsee2
