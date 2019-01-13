@@ -12,7 +12,7 @@ description: UK-specific information for community leaders about supporting tran
 
 ### UK-based LGBTQ faith organisations
 
-The following UK organisations support LGBT people - including gender people of different gender identities and histories.
+The following UK organisations support LGBT people - including people of different gender identities and histories.
 
 {% include organisations tag="LGBT Faith" %}
 
