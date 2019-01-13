@@ -1141,6 +1141,7 @@ publications:
     year: 2018
     url: "https://www.ceredigion.gov.uk/media/1399/transgender-guidance-for-schools.pdf"
     tags: [Education, Local school policies]
+    archived: true
   -
     title: "Transgender Guidance for Schools"
     organisation: "Torbay Safeguarding Children Board"
@@ -1309,6 +1310,12 @@ publications:
     url: "https://www.engage.england.nhs.uk/survey/gender-identity-services-for-adults/user_uploads/specialised-gender-dysphoria-service-specifications.pdf"
     tags: [Medical policies]
   -
+    title: "Gender Identity Services for Adults - Surgical Interventions"
+    organisation: "NHS England"
+    year: 2018
+    url: "https://www.england.nhs.uk/wp-content/uploads/2018/10/Gender-identity-services-for-adults-surgical-interventions.pdf"
+    tags: [Medical policies]
+  -
     title: "Supporting trans employees in the workplace"
     organisation: "ACAS"
     year: 2017
@@ -1372,7 +1379,7 @@ publications:
     title: "Prescribing for Transgender and Non-Binary Children, Adolescents and Adult patients"
     organisation: "NHS Fylde and Wyre Clinical Commissioning Group"
     year: 2016
-    url: "http://www.fyldeandwyreccg.nhs.uk/download/medicines_optimisation/fact_sheets/Advice-Sheet-2-Prescribing-for-transgender-patientsv3.pdf"
+    url: "https://www.fyldecoastccgs.nhs.uk/download/Document_library/medicines_optimisation/fylde_and_wyre_ccg/fact_sheets/Advice-Sheet-2-Prescribing-for-transgender-patientsv3.pdf?no_preview=1"
     tags: [Medical policies, Local medical policies]
   -
     title: "Response to Escalation of Advice from Healthwatch England Gender Identity Services"
@@ -1443,8 +1450,8 @@ publications:
   -
     title: "Policy for supporting individuals who are transgender"
     organisation: "NHS Royal Cornwall Hospitals NHS Trust"
-    year: 2014
-    url: "http://mhforum.org.uk/upload/file/documents/PolicyForSupportingIndividualsWhoAreTransgender.pdf"
+    year: 2017
+    url: "https://doclibrary-rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/HumanResources/PolicyForSupportingIndividualsWhoAreTransgender.pdf"
     tags: ['Medical policies', 'Local medical policies']
   -
     title: "Gender Realignment Support Policy"
@@ -1668,6 +1675,7 @@ publications:
     year: 2016
     url: "http://www.vocalscotland.org.uk/wp-content/uploads/sports-transgender-policy.pdf"
     tags: ['Sport', 'Scotland']
+    archived: true
   -
     title: "Transsexual people and osteoporosis"
     organisation: "National Osteoporosis Society"
@@ -1883,13 +1891,13 @@ publications:
     title: "Trans Students and Staff Guide"
     organisation: "York St John University"
     year: 2017
-    url: "https://www.yorksj.ac.uk/media/content-assets/campus-and-facilities/equality-and-diversity/documents/Trans_Inclusive_Guide---Final.pdf"
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans_Inclusive_Guide---Final.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Equality Policy Statement"
     organisation: "York St John University"
     year: 2017
-    url: "https://www.yorksj.ac.uk/media/content-assets/campus-and-facilities/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf"
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Equality Policy"
@@ -2000,6 +2008,43 @@ publications:
     year: 2018
     url: "https://www.parkside-hospital.co.uk/uploads/library/hosp9/files/Vaginoplasty%20.pdf"
     tags: [Surgery] 
+  -
+    title: "Trans Officer Guide"
+    organisation: "NUS"
+    year: 2018
+    url: "https://www.nusconnect.org.uk/resources/trans-officer-guide/download_attachment"
+    tags: [Education] 
+  -
+    title: "Prescribing Guidelines - Trans woman medication"
+    organisation: "NHS Barnsley Rotherham and Sheffield CCGs"
+    year: 2018
+    url: "http://medicinesmanagement.doncasterccg.nhs.uk/wp-content/uploads/2018/06/Doncaster-and-Bassetlaw-Transgender-women-prescribing-guidance.pdf"
+    tags: [Local medical policies] 
+  -
+    title: "Prescribing Guidelines - Trans man medication"
+    organisation: "NHS Barnsley Rotherham and Sheffield CCGs"
+    year: 2018
+    url: "http://medicinesmanagement.doncasterccg.nhs.uk/wp-content/uploads/2018/06/Doncaster-and-Bassetlaw-Transgender-men-prescribing-guidance.pdf"
+    tags: [Local medical policies] 
+  -
+    title: "Bein yerself - A Young Persons Guide to Transitioning in Education"
+    organisation: "Cara Friend"
+    year: 2018
+    url: "https://www.patreon.com/file?h=20443376&i=2459685"
+    tags: [Under 18s]
+  -
+    title: "Guidance for schools and colleges on transgender and supporting transgender pupils"
+    organisation: "Shropshire Council"
+    year: 2018
+    url: "http://www.healthyshropshire.co.uk/assets/downloads/finaltrangenderguidancemarch2018.pdf"
+    tags: [Education, Local school policies] 
+  -
+    title: "Policy for the participation of trans people in gymnastics competition"
+    organisation: "British Gymnastics"
+    year: 2018
+    url: "https://www.british-gymnastics.org/documents/clubs-schools-and-leisure-centres/9680-transgender-policy-and-guidance-2018-v2-0/file"
+    tags: [Sport] 
+
   # -
   #   title: ""
   #   organisation: ""
