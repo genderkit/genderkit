@@ -14,7 +14,7 @@ Speech therapy cannot normally lower the bottom of the pitch range. Many people 
 
 A minority of people are unable to reach their goals through speech and language therapy or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) treatment and undergo surgical interventions to change their voice.
 
-## Costs and funding
+### Costs and funding
 
 Speech and language therapy is often provided free of charge by UK gender identity clinics, with several clinics having their own in-house speech and language therapists. 
 
