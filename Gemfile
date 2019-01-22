@@ -9,7 +9,7 @@ ruby '2.4.1'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.3"
+gem "jekyll", "3.8.5"
 gem "citeproc-ruby", "1.1.7" # Need the most up to date version
 gem "rake"
 
