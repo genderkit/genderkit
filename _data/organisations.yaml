@@ -567,7 +567,7 @@ organisations:
     -
         name: 'Trans Pride Southwest'
         url: 'http://transpridesw.webs.com/'
-        tags: ['South West', 'Local groups']
+        tags: ['South West', 'Local groups', 'Pride events']
         twitter: TransPrideSW
         facebook: transpridesouthwest
         lastFacebookPost: '2017-12-10T20:21:15+0000'
@@ -595,7 +595,7 @@ organisations:
     -
         name: 'Trans Pride Brighton'
         url: 'http://transpridebrighton.tumblr.com'
-        tags: ['South East', Brighton, 'Local groups']
+        tags: ['South East', Brighton, 'Local groups', 'Pride events']
         twitter: TPrideBrighton
         facebook: TransPrideBrighton
         lastFacebookPost: '2017-12-11T22:29:29+0000'
@@ -713,7 +713,7 @@ organisations:
         twitter: TransFormCymru
         tags: [Wales, 'Local groups']
         twitterDescription: '@YouthCymru project working with trans and/or non-binary young people. Support, information, events, training & more. #Humanequin'
-        lastTwitterPost: 'Wed Jan 30 08:38:54 +0000 2019'
+        lastTwitterPost: 'Sat Feb 02 11:39:37 +0000 2019'
         twitterID: '2854662352'
         twitterIcon: 'http://pbs.twimg.com/profile_images/718762287864090625/2oGMZlV2_normal.jpg'
     -
@@ -725,7 +725,7 @@ organisations:
         lastFacebookPost: '2017-11-11T00:05:55+0000'
         facebookDescription: "The Trans Equality Legal Initiative (TELI) is a coalition of trans third sector organisations, human rights lawyers and diversity professionals.\n\nTo contact TELI please use our email address info@teli.org.uk"
         twitterDescription: 'The UK''s first Trans Equality Legal Initiative, bringing together Human Rights Lawyers, Trans Activists and Diversity Professionals.'
-        lastTwitterPost: 'Sat Feb 02 10:56:01 +0000 2019'
+        lastTwitterPost: 'Sat Feb 02 12:08:51 +0000 2019'
         facebookId: '1741603586091834'
         twitterID: '741588096047779840'
         twitterIcon: 'http://pbs.twimg.com/profile_images/768197989844168705/Ocfh9cdH_normal.jpg'
@@ -1128,7 +1128,7 @@ organisations:
         twitter: Transparentsee2
         tags: [Scotland, 'Local groups']
         twitterDescription: 'Support group for families of trans children/people'
-        lastTwitterPost: 'Thu Jan 31 12:42:22 +0000 2019'
+        lastTwitterPost: 'Sat Feb 02 12:03:25 +0000 2019'
         twitterID: '761537721093488640'
         twitterIcon: 'http://pbs.twimg.com/profile_images/764783866229952512/dcamVXF1_normal.jpg'
     -
@@ -1280,7 +1280,7 @@ organisations:
         lastFacebookPost: '2017-12-05T13:13:51+0000'
         facebookDescription: "Monthly Support groups and online community for the trans people of Leeds. \nWe can be contacted at Transleedscontact@gmail.com"
         twitterDescription: 'TransLeeds is a support group for Transgender, Non-Binary and Gender Non-Conforming people! We have 2 groups a month and regular social events 😊'
-        lastTwitterPost: 'Wed Jan 30 16:10:15 +0000 2019'
+        lastTwitterPost: 'Sat Feb 02 12:21:13 +0000 2019'
         facebookId: '948528421884068'
         twitterID: '738734573673164800'
         twitterIcon: 'http://pbs.twimg.com/profile_images/917415049760854017/8DJOtvu6_normal.jpg'
@@ -1497,7 +1497,7 @@ organisations:
         twitter: TransBirmingham
         tags: ['West Midlands', 'Local groups']
         twitterDescription: 'Peer-to-Peer social and support group for trans masculine, NB and gender questioning adults in the West Midlands.'
-        lastTwitterPost: 'Fri Feb 01 21:57:15 +0000 2019'
+        lastTwitterPost: 'Sat Feb 02 11:50:25 +0000 2019'
         twitterID: '701790223215230976'
         twitterIcon: 'http://pbs.twimg.com/profile_images/701807386789593089/lmyvgVt4_normal.jpg'
     -
@@ -1837,7 +1837,7 @@ organisations:
         twitter: TransPrideScot
         twitterID: '824038249534464000'
         facebook: TransPrideScotland
-        tags: [Scotland, 'Local groups']
+        tags: [Scotland, 'Local groups', 'Pride events']
         twitterDescription: 'Trans Pride Scotland is a movement aimed to bring together all the trans population in one place as a show of strength, solidarity and mutual support.'
         lastTwitterPost: 'Fri Feb 01 10:56:02 +0000 2019'
         facebookId: '100339780479550'
@@ -2295,7 +2295,7 @@ organisations:
         archived: true
     -
         name: 'Trans Pride NI'
-        tags: ['Northern Ireland', 'Local groups']
+        tags: ['Northern Ireland', 'Local groups', 'Pride events']
         url: 'https://transprideni.wordpress.com/'
         twitter: transprideni
         twitterID: '916762721433063425'
@@ -2432,7 +2432,7 @@ organisations:
         twitterIcon: 'http://pbs.twimg.com/profile_images/1083279276156375040/6ORsy7Ie_normal.jpg'
     -
         name: 'Trans Pride Cardiff'
-        tags: [Wales, 'Local groups']
+        tags: [Wales, 'Local groups', 'Pride events']
         twitter: transpridediff
         twitterID: '1035514216596336641'
         twitterDescription: "Celebration | Protest | Education | \n\n29th-31st March 2019 🎉✊❤️\n\nContact us at: transpridecardiff@gmail.com"
@@ -2446,3 +2446,30 @@ organisations:
         twitterDescription: "Trans* Gloucester are a GENDER IDENTITY social group based in Gloucestershire. We are open to all.\nSee Facebook or email transgloucestershire@gmail.com for more"
         lastTwitterPost: 'Sat Feb 02 01:43:16 +0000 2019'
         twitterIcon: 'http://pbs.twimg.com/profile_images/1081266741299298307/uES_RP9H_normal.jpg'
+    -
+        name: 'Trans Pride Leeds'
+        tags: [Yorkshire, 'Local groups', 'Pride events']
+        twitter: transprideleeds
+        twitterID: '1071752555976368129'
+        facebook: TransPrideLeeds
+        twitterDescription: 'Trans Pride celebration in Leeds'
+        lastTwitterPost: 'Sat Jan 26 16:40:53 +0000 2019'
+        twitterIcon: 'http://pbs.twimg.com/profile_images/1071753930139418624/oSMKuv1M_normal.jpg'
+    -
+        name: 'Transgender Wellbeing Partnership Northumberland'
+        tags: ['North East', 'Local groups']
+        twitter: TransgenderWel1
+        twitterID: '1027633218412052480'
+        facebook: 1004294983081243
+        twitterDescription: 'We are a collective partnership of organisations who are here to support trans people, their families and friends in the County of Northumberland.'
+        lastTwitterPost: 'Fri Feb 01 14:43:09 +0000 2019'
+        twitterIcon: 'http://pbs.twimg.com/profile_images/1027641082723614720/tzjj97b-_normal.jpg'
+    -
+        name: 'TNB Brighton'
+        tags: [Brighton, 'South East', 'Local groups']
+        twitter: TnbBrighton
+        twitterID: '1090569605159022592'
+        facebook: TNBBrighton
+        twitterDescription: 'Trans, non-binary & gender-variant support service based in Brighton'
+        lastTwitterPost: 'Sat Feb 02 08:12:30 +0000 2019'
+        twitterIcon: 'http://pbs.twimg.com/profile_images/1090569723937542145/CaPH9ZQ2_normal.jpg'
