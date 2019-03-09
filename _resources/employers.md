@@ -42,6 +42,8 @@ We also have a separate page with [information for clinicians]({{ site.baseurl }
 
 {% include publications tag="National university employment guidance" %}
 
+The National Education Union have created a [Trans educators toolkit webpage](https://neu.org.uk/advice/trans-educators-toolkit) with information for education staff on transitioning in school or college.
+
 We also have separate pages of [information for schools]({{ site.baseurl }}{% link _resources/schools.md %}) and [information for universities]({{ site.baseurl }}{% link _resources/universities.md %}).
 
 ### Employee support networks

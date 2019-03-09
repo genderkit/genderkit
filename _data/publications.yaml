@@ -98,7 +98,7 @@ publications:
     title: "Changing names and Changing Legal Gender"
     organisation: "Press for Change"
     year: 2013
-    url: "http://tiac.lgbt/attachments/article/157/amcechaasd.pdf"
+    url: "http://uktransinfo.eu/attachments/article/157/amcechaasd.pdf"
     tags: [Legal, 'Gender recognition', 'Name and title changes']
   -
     title: "Shining the Light - 10 Keys to Becoming a Trans Positive Organisation"
@@ -182,7 +182,7 @@ publications:
     title: "Administration Review"
     organisation: "West London Mental Health NHS Trust"
     year: 2012
-    url: "http://tiac.lgbt/attachments/article/435/GIC-administration-review.pdf"
+    url: "http://uktransinfo.eu/attachments/article/435/GIC-administration-review.pdf"
     tags: [London]
   -
     title: "Frequently asked questions about Trans*"
@@ -381,7 +381,7 @@ publications:
     title: "Guide to UK Legal Gender Recognition"
     organisation: "UK Trans Info"
     year: 2015
-    url: "http://tiac.lgbt/graguide.pdf"
+    url: "http://uktransinfo.eu/graguide.pdf"
     tags: [Legal, 'Gender recognition']
   -
     title: "Change of name"
@@ -525,7 +525,7 @@ publications:
     title: 'Changing your name and title'
     organisation: 'UK Trans Info'
     year: 2016
-    url: 'http://tiac.lgbt/namechange.pdf'
+    url: 'http://uktransinfo.eu/namechange.pdf'
     tags: [Legal, 'Name and title changes']
   -
     title: 'Transgender Equality'
@@ -859,6 +859,7 @@ publications:
     year: 2016
     url: "http://sailni.com/download/428/EdGuidelinesSTY-1.pdf"
     tags: [Education, Under 18s, "National school guidance"]
+    archived: true
   -
     title: "Ensure your gender is respected and your wishes carried out after your death"
     organisation: "The Corpse Project"
@@ -936,12 +937,6 @@ publications:
     organisation: "NHS Brighton and Sussex University Hospitals NHS Trust"
     year: 2016
     url: "https://www.bsuh.nhs.uk/wp-content/uploads/sites/5/2016/09/BSUH-Support-Trans-Staff-and-Patients-Version-2.pdf"
-    tags: [Medical policies, Local medical policies]
-  -
-    title: "Guidance on supporting adult transgender service users"
-    organisation: "NHS South London and Maudsley NHS Foundation Trust"
-    year: 2015
-    url: "http://www.slam.nhs.uk/media/409809/trans%20guidance.pdf"
     tags: [Medical policies, Local medical policies]
   -
     title: "Community Connections: Engaging Transgender People"
@@ -1029,25 +1024,7 @@ publications:
     title: "Supporting trans and gender-questioning students"
     organisation: "National Education Union"
     year: 2017
-    url: "https://neu.org.uk/sites/neu.org.uk/files/Trans%20advice_0.pdf"
-    tags: [Education, National school guidance, National union guidance]
-  -
-    title: "Transitioning at work - know your rights"
-    organisation: "National Education Union"
-    year: 2017
-    url: "https://neu.org.uk/sites/neu.org.uk/files/KnowYourRights.pdf"
-    tags: [Education, National school guidance, National union guidance]
-  -
-    title: "Transition care plan"
-    organisation: "National Education Union"
-    year: 2017
-    url: "https://neu.org.uk/sites/neu.org.uk/files/TransitionCarePlan.pdf"
-    tags: [Education, National school guidance, National union guidance]
-  -
-    title: "Transitioning at work - creating a policy"
-    organisation: "National Education Union"
-    year: 2017
-    url: "https://neu.org.uk/sites/neu.org.uk/files/TransitioningatWork.pdf"
+    url: "https://neu.org.uk/media/1836/download"
     tags: [Education, National school guidance, National union guidance]
   -
     title: "Transforming Outcomes - A review of the needs and assets of the trans community"
@@ -1171,7 +1148,7 @@ publications:
     organisation: "Scottish Transgender Alliance"
     year: 2015
     url: "https://www.scottishtrans.org/wp-content/uploads/2016/05/Stronger_Together_-_September_2015.pdf"
-    tags: []
+    tags: [Violence]
   -
     title: "Monitoring and promoting Trans Health across the North West"
     organisation: "NHS North West"
@@ -1726,12 +1703,6 @@ publications:
     url: "http://www.port.ac.uk/departments/services/equalityanddiversity/downloads/filetodownload,197469,en.pdf"
     tags: ['Education', 'National school guidance']
   -
-    title: "Stronger Together: Guidance for women’s services on the inclusion of transgender women"
-    organisation: "Scottish Transgender Alliance"
-    year: 2011
-    url: "https://www.rapecrisisscotland.org.uk/resources/single-sex-service-trans-guidance.pdf"
-    tags: [Violence]
-  -
     title: "Trans Patients Policy and Procedure"
     organisation: "NHS Nottinghamshire Healthcare NHS Foundation Trust"
     year: 2016
@@ -1765,7 +1736,7 @@ publications:
     title: "Gender Reassignment Support in the Workplace"
     organisation: "NHS Rotherham Clinical Commissioning Group"
     year: 2015
-    url: "http://www.rotherhamccg.nhs.uk/Downloads/Policies%20and%20Procedures/HR%20Policy/027-HR%20Gender%20%20Reassignment%20Support%20in%20the%20Workplace%20%20Policy.pdf"
+    url: "http://www.rotherhamccg.nhs.uk/Downloads/Policies%20and%20Procedures/HR%20Policy/027-HR%20Gender%20%20Reassignment%20Support%20in%20the%20Workplace%20%20Policy%20V2%202017.pdf"
     tags: ['Medical policies', 'Local medical employment policies']
   -
     title: "Gender Dysphoria Policy and referral guidelines"
@@ -1891,13 +1862,13 @@ publications:
     title: "Trans Students and Staff Guide"
     organisation: "York St John University"
     year: 2017
-    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans_Inclusive_Guide---Final.pdf"
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Gen_c_Trans_Inclusive_Guide---Final---v2---Dec-2018.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Equality Policy Statement"
     organisation: "York St John University"
     year: 2017
-    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf"
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Gen_a_Trans-Inclusive-Policy-Statement---Final---v2---Jan-2019.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Equality Policy"
@@ -1922,7 +1893,7 @@ publications:
     title: "Policy on Equality for Trans Staff and Students"
     organisation: "Ulster University"
     year: 2017
-    url: "https://www.ulster.ac.uk/__data/assets/pdf_file/0006/233565/Transgender-policy-2017.pdf"
+    url: "https://www.ulster.ac.uk/__data/assets/pdf_file/0005/378122/Transgender-policy-2017.pdf"
     tags: ['Education', 'University policies']  
   -
     title: "Bankruptcy and Transgender - Guidance for Transgender Bankrupts"
@@ -2000,13 +1971,13 @@ publications:
     title: "Gender Reassignment Surgery - Labioplasty - The Whole Journey"
     organisation: "Parkside Hospital"
     year: 2018
-    url: "https://www.parkside-hospital.co.uk/uploads/library/hosp9/files/Labioplasty.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/aspen-hub/wp-content/uploads/sites/12/2018/11/28115613/Labioplasty.pdf"
     tags: [Surgery]
   -
     title: "Gender Reassignment Surgery - Vaginoplasty - The Whole Journey"
     organisation: "Parkside Hospital"
     year: 2018
-    url: "https://www.parkside-hospital.co.uk/uploads/library/hosp9/files/Vaginoplasty%20.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/aspen-hub/wp-content/uploads/sites/12/2018/11/28115511/Vaginoplasty-.pdf"
     tags: [Surgery] 
   -
     title: "Trans Officer Guide"
