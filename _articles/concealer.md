@@ -8,7 +8,7 @@ feature:
 
 Concealer is a type of foundation that gives high coverage (this means it hides the colour of the underlying skin well).
 
-Concealer comes in different shades, and it is important to match the shade you use to your natural skin colour. Shops selling makeup will usually have "testers" that you can apply to part of your skin to compare the makeup to your skin tone. Some shops also offer a service to help you find the correct makeup colour for your skin tone, and Boots have even released an [app for determining your skin colour for makeup](http://www.boots.com/no7/match-made-app-) to allow you to do this.
+Concealer comes in different shades, and it is important to match the shade you use to your natural skin colour. Shops selling makeup will usually have "testers" that you can apply to part of your skin to compare the makeup to your skin tone. Some shops also offer a service to help you find the correct makeup colour for your skin tone.
 
 Concealer can be used on its own or under other makeup. Concealer is applied using either a concealer brush, a makeup sponge, or cotton wool. You may find that concealer leaves your skin shiny - if so, you can try applying powder to reduce this.
 
