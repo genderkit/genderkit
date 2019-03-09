@@ -23,7 +23,7 @@ Speech therapists can charge a variety of different rates, from as low as £50/h
 Private speech and language therapists in the UK who advertise specific experience around gender include:
 
 - [Matthew Mills](http://www.matthewmills.uk.com/) (London)
-- [Christella Antoni, Nikki Milojevic, and Rhiannon Grébert](http://www.christellaantoni.co.uk/) (London)
+- [Christella Antoni and Rhiannon Grébert](http://www.christellaantoni.co.uk/) (London)
 - [Nicola Gorb](https://voicecommunicationclinic.com/) (London and Hertfordshire)
 - [Maggi Stratford](https://www.maggistratford.com/) (Leeds)
 - [Heidi de Quincey](http://www.heididequincey.co.uk/) (Hampshire)
