@@ -1,11 +1,20 @@
 <div class="checklistcontainer">
   {% assign slug = page.title | slugify %}
-  {% assign data = site.data.checklists[slug] %}
-  <h3>{{ data.title }}</h3>
+  {% if include.checklist %}
+    {% assign data = site.data.checklists[include.checklist] %}
+  {% else %}
+    {% assign data = site.data.checklists[slug] %}
+  {% endif %}
+  
+  {% if data.title %}<h3>{{ data.title }}</h3>{% endif %}
   {% if data.items %}
     <ul class="checklist">
     {% for item in data.items %}
-      <li><input type="checkbox" id="{{ item | slugify }}" /><label for="{{ item | slugify }}">{{ item }}</label></li>
+      {% if item.title %}
+        <li><input type="checkbox" id="{{ item.title | slugify }}" /><label for="{{ item.title | slugify }}">{{ item.title }}</label><div>{{ item.detail | markdownify}}</div></li>
+      {% else %}
+        <li><input type="checkbox" id="{{ item | slugify }}" /><label for="{{ item | slugify }}">{{ item }}</label></li>
+      {% endif %}
     {% endfor %}
     </ul>
   {% endif %}

@@ -30,7 +30,7 @@ You cannot obtain a GRC unless you:
 
 More stringent requirements may be placed on you depending on the method by which you apply for a GRC.
 
-In the event you are currently married, there are a complex set of rules around how you and your marriage are effected. UK Trans Info have produced [a useful guide](http://tiac.lgbt/graguide.pdf) that provides lots of information about this.
+In the event you are currently married, there are a complex set of rules around how you and your marriage are effected. UK Trans Info have produced [a useful guide](http://uktransinfo.eu/graguide.pdf) that provides lots of information about this.
 
 It costs £140 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
 
@@ -38,7 +38,7 @@ Detailed guidance on the process, requirements for and effects of applying for a
 
 Once you have obtained your GRC, it is important that you notify the following organisations:
 
-{% include checklist %}
+{% include checklist checklist=obtaining-a-grc %}
 
 There is a box on the application form for a GRC that allows HMRC and the DWP to be notified automatically without you having to do anything.
 

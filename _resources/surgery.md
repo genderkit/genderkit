@@ -17,4 +17,6 @@ The different types of surgery can be found near the bottom of the following pag
 
 {% include organisations tag="Surgery" %}
 
-{% include checklist %}
+### Preparing for surgery
+
+You can find a useful list of things to do in order to prepare for surgery on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
