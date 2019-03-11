@@ -365,13 +365,12 @@ nav, aside, .attention
   padding 0
   list-style-type none
   display flex
-  flex-direction row
-  flex-wrap wrap
-  justify-content space-between
+  flex-direction column
   li
-    padding 0.5rem 0    
-    width $column
-    max-width $column
+    padding 0.5rem 0
+  p
+    margin 0 0 0 3em
+    border-left 4px white solid
   input[type=checkbox]
     position absolute
     overflow hidden
@@ -408,6 +407,7 @@ nav, aside, .attention
     cursor pointer
     opacity 1
     text-align left
+    font-weight bold
 
 // Horrible special cases to make things look nicer
 #effectslist, #explore, #help, #resources
