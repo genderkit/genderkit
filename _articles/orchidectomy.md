@@ -22,7 +22,11 @@ Orchidectomy may not be suitable for people who are interested in later obtainin
 
 Orchidectomy may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({{ site.baseurl }}{% link _articles/sildenafil.md %}), [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) or [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
 
-### Cost and funding
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
+### Costs and funding
 
 If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}). You will normally need to meet the following conditions:
 

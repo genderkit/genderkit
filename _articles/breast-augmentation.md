@@ -30,6 +30,10 @@ There is a significant risk of complications that require additional surgeries. 
 
 You can read more about breast augmentation on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Costs and funding
 
 It is possible to apply for funding for augmentation through exceptional funding processes within the NHS, but breast augmentation is not normally funded by the NHS, regardless of whether a diagnosis of gender dysphoria has been given.

@@ -20,6 +20,10 @@ Creation of a neoclitoris is a delicate surgery and is not without risk. It is c
 
 A more dramatic complication is for the blood supply to the clitoris not to survive the surgery. This causes necrosis of the clitoris (the tissue dies from lack of blood supply). In this situation, some sensation may remain from the nerves leading to the area {% cite bellringer:2007 -l 215 %}. This affects around 1% of patients who have a clitoroplasty. 
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Cost and funding
 
 A operation in the UK to perform [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.

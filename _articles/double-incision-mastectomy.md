@@ -23,7 +23,11 @@ You can read more about mastectomy on the [NHS Choices website](http://www.nhs.u
 
 You can also read more about chest surgeries on the [Manchester Chest Wall Contouring Clinic website](http://www.pat.nhs.uk/our-services/general-surgery-gender.htm).
 
-### Cost and funding
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
+### Costs and funding
 
 If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr181 %}.
 

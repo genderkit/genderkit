@@ -27,7 +27,11 @@ For some people, metoidioplasty can provide a significant improvement in mental 
 
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
-### Cost and funding
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
+### Costs and funding
 
 If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}).
 

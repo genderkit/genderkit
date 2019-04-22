@@ -18,6 +18,10 @@ After salpingo-oophorectomy, you will need to take at least one sex hormone ([oe
 
 Salpingo-oophorectomy is often carried out as part of [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) surgery, which removes the uterus (womb).
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Costs and funding
 
 The NHS will normally fund total salpingo-oophorectomy and total [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}) for patients who are undergoing [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy.

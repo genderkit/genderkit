@@ -12,7 +12,11 @@ A penectomy completely destroys the penis. After a penectomy has been carried ou
 
 If you wish to have new genitals created, the vulva (external part of the female genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are often carried out together with [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) (creation of the internal canal).
 
-### Cost and funding
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
+### Costs and funding
 
 A operation in the UK to perform penectomy along with [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
 

@@ -32,6 +32,10 @@ Hysterectomy is a major surgery and has a significant recovery time. You should 
 
 You can read more about hysterectomy on the [NHS Choices website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Costs and funding
 
 The NHS will normally fund total hysterectomy and [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}) for patients who are undergoing [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy.

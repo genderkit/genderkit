@@ -13,10 +13,11 @@ The different types of surgery can be found near the bottom of the following pag
 - [voice]({{ site.baseurl }}{% link _categories/voice.md %})
 - [face]({{ site.baseurl }}{% link _categories/face.md %})
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Organisations providing surgeries
 
 {% include organisations tag="Surgery" %}
 
-### Preparing for surgery
-
-You can find a useful list of things to do in order to prepare for surgery on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).

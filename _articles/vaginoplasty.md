@@ -31,6 +31,10 @@ Vaginoplasty is a major surgery and has a significant recovery time. You should 
 
 For some people, vaginoplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Cost and funding
 
 A operation in the UK to perform vaginoplasty along with [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.

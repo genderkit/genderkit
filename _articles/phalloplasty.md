@@ -45,6 +45,10 @@ Several options are available for people who wish to have erections:
 - **malleable** rods: these are implanted into the penis. These are not usually used in the UK as the implant exerts constant pressure on the skin, causing damage over time {% cite andrology2016patients %}. 
 - **external** aids: these are devices worn around the penis. They can either provide support to hold it straight and stiff, constrict around the base of the penis to hold blood in to stiffen the penis, or provide additional length and girth by providing a sleeve around the penis.
 
+### Preparing for a surgical procedure
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stays and recovery. To help you avoid missing anything out, there is a checklist of useful things you can buy and do on the [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+
 ### Cost and funding
 
 If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for phalloplasty or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). You will normally need to meet the following conditions:
