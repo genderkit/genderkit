@@ -2,14 +2,14 @@ title: Organisations to notify
 items:
   - 
     title: "Passport office"
-    detail: "See [getting a new passport]({{ site.baseurl }}{% link _articles/getting-a-new-passport.md %}) for information about how to update your details with HM Passport Office."
+    detail: "See [getting a new passport](/articles/getting-a-new-passport.md) for information about how to update your details with HM Passport Office."
   - "Bank/building society"
   - 
     title: "HMRC and DWP"
     detail: "HMRC have published guidance on how to notify them of [a change of name](https://www.gov.uk/tell-hmrc-change-of-details) or [a change of gender](https://www.gov.uk/tell-hmrc-change-of-details/gender-change). HMRC will normally notify the DWP and Pension Service for you."
   - 
     title: "GP surgery"
-    detail: "See [updating NHS patient details]({{ site.baseurl }}{% link _articles/updating-nhs-patient-details.md %}) which includes important information about screening tests."
+    detail: "See [updating NHS patient details](/articles/updating-nhs-patient-details.md) which includes important information about screening tests."
   - 
     title: "Hospitals and clinics"
     detail: Hospitals and clinics often keep their own records, so clinics and hospitals may not automatically update their records when you tell your GP.
