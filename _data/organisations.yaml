@@ -2188,6 +2188,7 @@ organisations:
         lastFacebookPost: '2017-11-26T15:46:33+0000'
         facebookDescription: 'High Peak Trans Group is a social and support group for transgender, non-binary, gender variant and questioning adults in the High Peak area. '
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/20525253_335932633523511_941860907991413183_n.jpg?oh=48fd646eb6e42b3325e4b99b54133224&oe=5A898C16'
+        archived: true
     -
         name: 'Queer Trans Inclusion Partnership'
         tags: ['East Midlands', 'Local groups']
@@ -2352,7 +2353,7 @@ organisations:
         name: Hidayah
         tags: ['LGBT Faith']
         url: 'https://www.hidayahlgbt.co.uk/'
-        twitter: hidayahlgbt
+        twitter: HidayahLGBTQI
         twitterID: '806289605507092480'
         facebook: hidayahlgbt
         twitterDescription: 'Hidayah is a UK organisation for LGBTI+ Muslims. We offer social groups, education and campaigns for social justice for LGBTI+ Muslims: info@HidayahLGBT.co.uk'
