@@ -6,7 +6,7 @@ description: UK-specific information for clinicians supporting trans, nonbinary,
 
 ### General Medical Council guidance
 
-The GMC have created a [trans healthcare hub](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare---advice-based-on-gmc-guidance) that gives information on how to treat trans and non-binary people. This is the most important information to read about how to support your patients.
+The GMC have created a [trans healthcare hub](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare) that gives information on how to treat trans and non-binary people. This is the most important information to read about how to support your patients.
 
 ### National policies
 
