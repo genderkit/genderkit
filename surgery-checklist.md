@@ -4,9 +4,7 @@ title: Getting ready for gender surgeries
 description: A list of things you can do to prepare before a gender related surgical procedure
 ---
 
-Doing some preparation before a surgical procedure can help make sure everything goes smoothly during your hospital stay and recovery. 
-
-To help you avoid missing anything out, we have created this checklist of useful things you can buy and do in the months before an operation.
+Doing some preparation before a surgical procedure can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created this checklist.
 
 ### In the months and weeks beforehand
 
