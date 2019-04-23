@@ -74,7 +74,7 @@ document.body.onload = function() {
       </p>
     </section>
     <section class="groupings">
-    {% assign publishers = site.data.publications.publications | sort:"organisation" | group_by:"organisation" %}
+    {% assign publishers = site.data.publications.publications | where_exp:"item", "item.archived != true" | sort:"organisation" | group_by:"organisation"  %}
     
       {% for publisher in publishers %}
       <div class="grouping">
