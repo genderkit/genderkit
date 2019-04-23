@@ -1013,7 +1013,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c0.3.50.50/p50x50/484075_250302718421559_814806515_n.jpg?oh=abf5c75cc1a93e05fdf735969457260b&oe=5AD0A1DA'
     -
         name: 'trans*formation'
-        url: 'https://www.transformationuk.com/'
         tags: [National, 'Employment support']
         twitter: TFormUK
         facebook: transformationadvocacygroup
@@ -1025,7 +1024,7 @@ organisations:
         twitterID: '2565754288'
         twitterIcon: 'http://pbs.twimg.com/profile_images/629663476726767617/1QCgU4RV_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12278903_555905241232016_1368651316358631123_n.jpg?oh=840087199ab9eff9d547be93f86f83d5&oe=5A8DE67D'
-    -
+        -
         name: TForm
         url: 'http://www.tform.uk/'
         twitter: tformcommunity
