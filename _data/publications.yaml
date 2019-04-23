@@ -32,7 +32,7 @@ publications:
     title: "Trans People and Stonewall"
     organisation: "Stonewall"
     year: 2015
-    url: "https://www.stonewall.org.uk/sites/default/files/trans_people_and_stonewall.pdf"
+    url: "https://www.stonewall.org.uk/system/files/trans_people_and_stonewall.pdf"
     tags: []
   -
     title: "Monitoring Gender Nonconformity - A Quick Guide"
@@ -254,7 +254,7 @@ publications:
     title: "Sexual Health Guide for trans and non-binary young people"
     organisation: "Gender Jam"
     year: 2015
-    url: https://genderjam.org.uk/wp-content/uploads/2015/09/TYSHGuide.pdf
+    url: http://s763217500.websitehome.co.uk/wp-content/uploads/2015/09/TYSHGuide.pdf
     tags: [Sex, Northern Ireland]
   -
     title: "Domestic Violence - a Resource for Trans People"
@@ -317,6 +317,7 @@ publications:
     year: 2016
     url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503663/Workplace_Guide_CSEP_revised_Final_V1_.pdf"
     tags: [Employment, 'Civil Service']
+    archived: true
   -
     title: "A guide to hormone therapy for trans people"
     organisation: "Department of Health"
@@ -743,6 +744,7 @@ publications:
     year: 2016
     url: "http://www.stonewall.org.uk/sites/default/files/first_steps_to_trans_inclusion_2016.pdf"
     tags: [Employment, 'National employment guidance']
+    archived: true
   -
     title: "Communicating commitment to trans inclusion - The trans inclusion journey and communicating commitment to all staff"
     organisation: "Stonewall"
@@ -755,24 +757,28 @@ publications:
     year: 2016
     url: "http://www.stonewall.org.uk/sites/default/files/creating_a_transitioning_at_work_policy_2016_0.pdf"
     tags: [Employment, 'National employment guidance']
+    archived: true
   -
     title: "Trans Inclusive Policies and Benefits - How to ensure your policies and benefits are trans inclusive"
     organisation: "Stonewall"
     year: 2016
-    url: "https://www.stonewall.org.uk/sites/default/files/trans_inclusive_policies_and_benefits_2016.pdf"
+    url: "https://www.stonewall.org.uk/system/files/trans_inclusive_policies_and_benefits_2016.pdf"
     tags: [Employment, 'National employment guidance']
+    archived: true
   -
     title: "Engaging all staff in trans inclusion - How to engage all levels of staff in the trans inclusion journey"
     organisation: "Stonewall"
     year: 2016
     url: "http://www.stonewall.org.uk/sites/default/files/engaging_all_staff_in_trans_inclusion.pdf"
     tags: [Employment, 'National employment guidance']
+    archived: true
   -
     title: "Getting it right with your trans service users and customers - How to ensure your service delivery or customer service is trans inclusive"
     organisation: "Stonewall"
     year: 2016
     url: "http://www.stonewall.org.uk/sites/default/files/getting_it_right_with_your_trans_service_users_and_customers.pdf"
     tags: [Employment]
+    archived: true
   -
     title: "NHS Standard Contract for Gender Identity Development Service for Children and Adolescents"
     organisation: "NHS England"
@@ -1024,7 +1030,7 @@ publications:
     title: "LGBT in Britain - Trans Report"
     organisation: "Stonewall"
     year: 2018
-    url: "http://www.stonewall.org.uk/sites/default/files/lgbt-in-britain-trans.pdf"
+    url: "https://www.stonewall.org.uk/system/files/lgbt_in_britain_-_trans_report_final.pdf"
     tags: [Studies]
   -
     title: "Supporting trans and gender-questioning students"
@@ -1236,7 +1242,7 @@ publications:
     title: "Transgender Staff Guidance"
     organisation: "The Open University"
     year: 2013
-    url: "http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/g/gender-reassignment/Transgender-Staff-Guidance-HRG336.pdf"
+    url: "http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/t/Transgender/Transgender-Staff-Guidance-HRG336.pdf"
     tags: [Employment, University policies]  
   -
     title: "Research Study into the Trans Population of Manchester"
@@ -1490,6 +1496,7 @@ publications:
     year: 2014
     url: "https://www.surrey.ac.uk/sites/default/files/trans-policy-and-guidance.pdf"
     tags: ['Education', 'University policies']
+    archived: true
   -
     title: "Gender Reassignment and Trans Equality Policy"
     organisation: "University of London"
@@ -1684,6 +1691,7 @@ publications:
     year: 2014
     url: "https://www.gmbfifepublicservices.org.uk/wp-content/uploads/2014/08/GMB-Transgender-Equality-Toolkit-Version-81-2.pdf"
     tags: [Employment, 'National union guidance']
+    archived: true
   -
     title: "Diverse Gender Identities and Pastoral Care"
     organisation: "Church of Scotland"
@@ -1959,7 +1967,7 @@ publications:
     title: "Supporting trans women in domestic and sexual violence services"
     organisation: "Stonewall"
     year: 2018
-    url: "https://www.stonewall.org.uk/sites/default/files/stonewall_and_nfpsynergy_report.pdf"
+    url: "https://www.stonewall.org.uk/system/files/stonewall_and_nfpsynergy_report.pdf"
     tags: [Studies]
   -
     title: "Lambeth: A trans agenda?"
