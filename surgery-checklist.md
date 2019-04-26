@@ -26,7 +26,7 @@ You might also want to think about whether there are any other things you might 
 
 ### Shopping list
 
-Here are some things you might need in the weeks after your surgery while you recover.
+Here are some things you might need in the weeks after your surgery while you recover. You should be able to buy all these things from either a supermarket or a pharmacy.
 
 {% include checklist checklist="shopping" %}
 
