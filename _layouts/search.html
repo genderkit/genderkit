@@ -47,7 +47,7 @@ const autoCompletejs = new autoComplete({
     position: "afterend"
   },
   resultItem: (data, source) => {
-    return `${data.match}`;
+    return "<div><a href='" + data.value.url + ">" + data.value.term + "</a><br>" + data.value.summary + "</div>";
   },
   onSelection: feedback => {
     // nothing at the moment
