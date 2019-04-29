@@ -20,7 +20,7 @@ const autoCompletejs = new autoComplete({
       // Loading placeholder text
       document.querySelector("#autoComplete").setAttribute("placeholder", "Loading...");
       // Fetch External Data Source
-      const source = await fetch("http://127.0.0.1:4000/autocompletedata.json");
+      const source = await fetch("/autocompletedata.json");
       const data = await source.json();
       // Returns Fetched data
       return data;
