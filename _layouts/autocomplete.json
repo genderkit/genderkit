@@ -1,0 +1,30 @@
+---
+---
+
+[
+        {% for page in site.articles %}
+        {% assign slug = page.title | slugify %}
+        {% assign info = site.data.articles[slug] %}
+
+          {
+            "url": "{{ site.baseurl }}{{ page.url }}",
+            "term": "{{ page.title }}",
+            "title": "{{ page.title }}",
+            "summary": "{{ info.summary}}"
+          },
+          
+            {% if info.aka %}
+                {% for aka in info.aka %}
+                    {
+                    "url": "{{ site.baseurl }}{{ page.url }}",
+                    "term": "{{ aka }}",
+                    "title": "{{ page.title }}",
+                    "summary": "{{ info.summary}}",
+                    "aka": "{{ info.aka | array_to_sentence_string: 'or' }}"
+                  },
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+
+        {}
+]
