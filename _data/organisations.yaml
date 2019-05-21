@@ -55,7 +55,7 @@ organisations:
         image: hsc
     -
         name: 'Brackenburn Regional Gender Identity Clinic'
-        url: 'http://www.belfasttrust.hscni.net/services/BrackenburnClinic.htm'
+        url: 'http://www.belfasttrust.hscni.net/services/GenderIdentity.htm'
         tags: ['NHS Gender Services', 'Northern Ireland']
         manualDescription: 'NHS gender service located in Belfast'
         image: hsc
@@ -2416,9 +2416,9 @@ organisations:
     -
         name: 'Gabriel Jordan'
         tags: [Companies]
-        twitter: BarberGabriel85
+        twitter: BarberTherapies
         twitterID: '823897530903724034'
-        facebook: barber.gabriel
+        facebook: barbergabrieltherapies
         twitterDescription: 'Mobile Barber & Complementary Therapist. Email:barbergabriel@hotmail.com Instagram: https://t.co/HCIlfoTGvZ'
         lastTwitterPost: 'Sun Apr 21 17:41:56 +0000 2019'
         twitterIcon: 'http://pbs.twimg.com/profile_images/1093889150259003395/dgvTe4L-_normal.jpg'
