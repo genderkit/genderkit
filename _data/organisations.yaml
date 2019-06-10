@@ -755,7 +755,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c34.0.50.50/p50x50/13509090_1083761618359956_4457891784872805509_n.jpg?oh=29a2d94a4eaef0d655b19c2a4aca6ca7&oe=5A8D8EC0'
     -
         name: 'Trans Masculine Scotland'
-        url: 'http://transmenscotland.wordpress.com'
+        url: 'https://transmascot.wordpress.com/'
         twitter: transmascot
         tags: [Scotland, Transmasculine, 'Local groups']
         twitterDescription: 'Trans Masculine Scotland is run by and for the trans masculine community. Monthly meetings and active online space   transmasculinescotland@gmail.com'
@@ -1652,6 +1652,7 @@ organisations:
     -
         name: 'Belfast Trans Centre'
         tags: ['Northern Ireland', 'Local groups']
+        url: 'https://belfasttrans.org.uk/'
         twitter: belfasttransrc
         facebook: belfasttransrc
         lastFacebookPost: '2017-12-08T19:35:04+0000'
