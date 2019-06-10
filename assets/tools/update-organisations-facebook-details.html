@@ -99,7 +99,7 @@ function updateDataFromFB(response)
     FB.login(function()
     {
       
-      $.get("http://genderkit.org.uk/organisations.yaml", function (data) {
+      $.get("https://genderkit.org.uk/organisations.yaml", function (data) {
         console.log(data);
         database = YAML.parse(data);
 
