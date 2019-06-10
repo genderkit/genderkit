@@ -20,6 +20,10 @@ description: UK-specific information for schools about supporting trans, nonbina
 
 We have a separate page of [information for employers]({{ site.baseurl }}{% link _resources/employers.md %}) that gives general advice on supporting staff.
 
+### Books
+
+{% include books tag="Education" thumbnails="true" %}
+
 ### Local resources and policies
 
 A number of local authorities and organisations have produced resources or policies specifically for schools in their area.

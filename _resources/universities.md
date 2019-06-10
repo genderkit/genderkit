@@ -14,6 +14,10 @@ description: UK-specific information for universities about supporting trans, no
 
 We have a separate page of [information for employers]({{ site.baseurl }}{% link _resources/employers.md %}) that gives advice on supporting your staff.
 
+### Books
+
+{% include books tag="Education" thumbnails="true" %}
+
 ### Example resources and policies
 
 A number of universities have produced their own policies.
