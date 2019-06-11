@@ -302,10 +302,13 @@ organisations:
         facebookDescription: 'Campaigning for better quality and signposting of trans healthcare in Nottinghamshire and nationwide'
         facebookId: '1050494528381622'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/14479608_1050496715048070_7160581152175051339_n.jpg?oh=310f341ed256d1a4160587c7dd5db91b&oe=5ACC39EA'
+        archived: true
     -
         name: 'Edinburgh Action for Trans Health'
         facebook: edinburghath
         tags: [Scotland, 'Local groups']
+        twitter: EdinburghATH
+        twitterID: '807265812058951680'
         lastFacebookPost: '2017-12-07T22:12:56+0000'
         facebookDescription: 'Edinburgh Chapter of Action for Trans Health. ATH is a grassroots organisation fighting for democratic trans healthcare and trans liberation.'
         facebookId: '1804658476481700'
@@ -314,6 +317,8 @@ organisations:
         name: 'Sheffield Action for Trans Health'
         url: 'http://sheffieldact4transhealth.wordpress.com'
         tags: [Yorkshire, 'Local groups']
+        twitter: sheffA4TH
+        twitterID: '706386389697429504'
         facebook: sheffieldath
         lastFacebookPost: '2017-12-07T15:46:50+0000'
         facebookDescription: "Sheffield Action for Trans Health are a local branch of the national\norganisation, aiming to improve access to health care for transgender\npeople"
@@ -323,6 +328,8 @@ organisations:
         name: 'Leeds Action for Trans Health'
         facebook: leedsactionfortranshealth
         tags: [Yorkshire, 'Local groups']
+        twitter: leeds_ATH
+        twitterID: '721414317816614912'
         lastFacebookPost: '2017-10-18T08:57:24+0000'
         facebookDescription: 'Our aim is to improve access to healthcare for trans people through funding and engagement with communities and medical professionals. '
         facebookId: '105715889833710'
@@ -335,6 +342,7 @@ organisations:
         facebookDescription: 'Seeking to increase trans people''s access to healthcare.'
         facebookId: '621302534713097'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/20031815_887159198127428_4638958468524481253_n.png?oh=faa520da863d50f3bdb244974851195c&oe=5ACD1D13'
+        archived: true
     -
         name: Mermaids
         url: 'http://www.mermaidsuk.org.uk/'
@@ -1058,6 +1066,7 @@ organisations:
         facebookId: '552944758089583'
         archived: true
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c38.38.479.479/s50x50/936355_554745104576215_130272052_n.jpg?oh=6b6d3cdcc67eb6d56c3237d1f12c9c7b&oe=5ACF25BD'
+        archived: true
     -
         name: 'Navigate Brighton'
         url: 'https://navigatebrighton.wordpress.com/'
@@ -1347,6 +1356,7 @@ organisations:
         facebookDescription: "\nweb : www.safetuk.org"
         facebookId: '160052497503472'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/970522_160574900784565_1717627053_n.jpg?oh=ff9ef113ed2eba674a2e21d9401c417d&oe=5AD27796'
+        archived: true
     -
         name: 'Butterflies Trans Support Community Drop-In'
         facebook: ButterfliesDropInCentre
@@ -1355,12 +1365,15 @@ organisations:
         facebookDescription: '''Butterflies'' ... New to the Trans scene? Trying to come-out for the first time? Looking for Trans friends? We offer a bi-weekly community drop-in group.'
         facebookId: '1420551711523597'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c17.0.50.50/p50x50/1891277_1420552901523478_1925584703_n.jpg?oh=8aa17960bd648bc5683684c9fa722118&oe=5AD484E7'
+        archived: true
     -
         name: Connect
+        twitter: MCR_Connect
+        twitterID: '771423572074127360'
         facebook: ConnectMCR
         tags: ['North West', Manchester, 'Local groups']
         lastFacebookPost: '2017-12-08T22:20:52+0000'
-        facebookDescription: 'Connect is a relaxed and friendly social space for trans* people aged 18-35, including people who are questioning and those with a trans* history.'
+        facebookDescription: 'Connect is a relaxed and friendly social space for trans and non-binary people aged 18-35, including questioning and those with a trans history.'
         facebookId: '609793605835677'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12718222_621343248014046_822658379364759896_n.jpg?oh=876241792901c50f47ba9b6530b56723&oe=5AD07F1F'
     -
@@ -1409,12 +1422,13 @@ organisations:
         facebookDescription: 'THE Action Youth (Trans* Health Education) is a Liverpool based youth group that is open to all young people who are trans* or questioning their gender.'
         facebookId: '305546692957590'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/10300962_308576839321242_6017064402419238981_n.jpg?oh=631d5bcc7723fc8e10231bad4fb76498&oe=5AD4278F'
+        archived: true
     -
         name: 'Spirit-Level Transgender Support Group'
         facebook: spirit.leveltranssupportgroup
         tags: ['North West', Liverpool, 'Local groups']
         lastFacebookPost: '2017-11-28T06:59:27+0000'
-        facebookDescription: 'Transgender Liverpool is run by the Spirit level Transgender support group based at The Beat, Hanover Street, Liverpool'
+        facebookDescription: 'Spirit Level is a long standing peer support for people who identify as Male to Female Trans or non-binary gender.'
         facebookId: '423339814371574'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/20264900_1536896523015892_4097338635498799267_n.png?oh=cc2501c5a38ec844471262cafce09968&oe=5AC42F8E'
     -
@@ -1593,6 +1607,8 @@ organisations:
         name: TransOxford
         url: 'http://www.transoxford.org.uk/'
         tags: ['East of England', 'South East', 'Local groups']
+        twitter: trans_oxford
+        twitterID: 998540802954539008
         facebook: TransOxfordSupportGroup
         lastFacebookPost: '2017-12-07T20:21:43+0000'
         facebookDescription: 'Contact page for Oxfordshire transgender support group. Send us a message to join ''hidden'' FB group; follow us on IG @TransOxford'
@@ -1699,6 +1715,7 @@ organisations:
         facebookId: '101213788878'
         lastFacebookPost: '2017-11-28T08:22:25+0000'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-0/c18.0.50.50/p50x50/17499032_1230224270428155_7116691634543322767_n.jpg?oh=83577bd0ef0260f6d894bd773b5f10e0&oe=5ABADA71'
+        archived: true
     -
         name: 'Gender Construction Kit'
         tags: [National]
@@ -2138,6 +2155,7 @@ organisations:
         lastFacebookPost: '2017-12-07T00:01:18+0000'
         facebookDescription: "It's run by and for and about trans masculine folk.\nChat, Play games and generally Hang Out!"
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13902636_1348587888492244_3118650017625401413_n.jpg?oh=49c7a5f791a4653427854c0bbd07dfda&oe=5ABD3BFA'
+        archived: true
     -
         name: 'Leeds Gender Outreach Workers'
         tags: [Yorkshire, 'NHS Gender Services']
@@ -2149,6 +2167,8 @@ organisations:
     -
         name: 'Nonbinary Leeds'
         tags: [Yorkshire, Nonbinary, 'Local groups']
+        twitter: NonBinaryLeeds
+        twitterID: '1118216009020792834'
         facebook: nonbinaryleeds
         facebookId: '1579184052378817'
         lastFacebookPost: '2017-11-18T15:43:50+0000'
@@ -2206,6 +2226,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/20431600_250844925405614_7157292830344702486_n.png?oh=809ac81578cdd1de34f5329ca2d35b53&oe=5AC609E2'
         lastFacebookPost: '2017-11-20T09:00:53+0000'
         facebookDescription: 'TransForm Renfrewshire is a new organisation, operating in Renfrewshire and the West of Scotland. It''s devoted to pushing forward Trans and Non-Binary rights, being a resource center for any issues that people face, and providing a support & social group.'
+        archived: true
     -
         name: 'Chrysalis GII'
         tags: ['South West', 'South East', 'Local groups']
@@ -2226,6 +2247,7 @@ organisations:
         tags: ['South West', 'South East', 'Local groups']
         url: 'http://www.depend.org.uk/'
         facebook: DependSupport
+        archived: true
     -
         name: 'London Trans Choir'
         tags: [London, 'Local groups']
