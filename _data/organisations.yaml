@@ -431,7 +431,7 @@ organisations:
         lastFacebookPost: '2017-12-07T11:44:11+0000'
         facebookDescription: 'For gender identity and gender reassignment equality and rights. => Click ''like'' to show support.'
         twitterDescription: 'Scottish Trans Alliance. Working for gender identity and gender reassignment equality and rights in Scotland. Part of @LGBTIscotland.'
-        lastTwitterPost: 'Tue Jun 11 13:56:53 +0000 2019'
+        lastTwitterPost: 'Tue Jun 11 14:52:33 +0000 2019'
         facebookId: '190710539707'
         twitterID: '247685418'
         twitterIcon: 'http://pbs.twimg.com/profile_images/836706147746910208/G1NrPIrA_normal.jpg'
@@ -2536,3 +2536,21 @@ organisations:
         twitterDescription: 'Playing top tunes and covering all things #trans. Listen in online or Find us on Tune in or your smart speaker Trans Radio Uk'
         lastTwitterPost: 'Tue Jun 11 10:15:22 +0000 2019'
         twitterIcon: 'http://pbs.twimg.com/profile_images/1011683045701799938/xTIw0g5__normal.jpg'
+    -
+        name: 'Trans Machynlleth'
+        tags: [Wales, 'Local groups']
+        twitter: TransNBMach
+        twitterID: '1031250687517175810'
+        twitterDescription: 'A social/support group for trans and nonbinary people in Machynlleth, Powys.'
+        lastTwitterPost: 'Tue Apr 30 09:04:07 +0000 2019'
+        twitterIcon: 'http://pbs.twimg.com/profile_images/1058094957226016769/QxAHZ7iQ_normal.jpg'
+    -
+        name: 'Non-Binary in Higher Education Project'
+        tags: [Research]
+        url: 'https://nbinhe.com'
+        twitter: NBinHE
+        twitterID: '1098542623248269313'
+        manualDescription: 'Non-Binary Genders in Higher Education research project, based at University of Westminster and City, University of London.'
+        twitterDescription: 'This is the Twitter account of the Non-Binary Genders in Higher Education research project, based at University of Westminster and City, University of London.'
+        lastTwitterPost: 'Tue Jun 11 06:48:30 +0000 2019'
+        twitterIcon: 'http://pbs.twimg.com/profile_images/1100785488183656448/yoZLgMuD_normal.png'
