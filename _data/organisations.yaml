@@ -1238,8 +1238,12 @@ organisations:
         name: Spectra
         url: 'https://spectra-london.org.uk/trans-gender-services/'
         tags: [London, 'Local groups']
+        twitter: STransservices
+        twitterID: '1112682719996272640'
         manualDescription: 'Spectra offers social groups, 121 support, counselling and workshops. Spectra’s services are delivered by people of trans experience themselves in a friendly, safe, confidential, non-judgemental and accessible space.'
-        twitterIcon: 'http://pbs.twimg.com/profile_images/778588556700835844/F1ZifF57_normal.jpg'
+        twitterIcon: 'http://pbs.twimg.com/profile_images/1112685274126053376/o5vI9CvG_normal.png'
+        twitterDescription: 'Spectra provides and is further developing a Trans Empowerment & Support Programme that drives meaningful interventions and is peer led.'
+        lastTwitterPost: 'Wed May 01 14:27:51 +0000 2019'
     -
         name: 'London Gender Support'
         url: 'http://www.londongendersupport.org'
@@ -1446,6 +1450,7 @@ organisations:
         name: 'Notts Trans Hub'
         url: 'https://nottstranshub.wordpress.com/'
         twitter: NottsTransHub
+        twitterID: '956957122285228032'
         facebook: nottstranshub
         tags: ['East Midlands', 'Local groups']
         lastFacebookPost: '2016-03-24T14:09:06+0000'
@@ -1566,7 +1571,7 @@ organisations:
         twitter: TheClareProject
         tags: ['South East', Brighton, 'Local groups']
         twitterDescription: 'We are based in Brighton, UK and provide a weekly drop-in for people from the TNBI community.'
-        lastTwitterPost: 'Tue Jun 11 14:16:51 +0000 2019'
+        lastTwitterPost: 'Tue Jun 11 14:21:03 +0000 2019'
         twitterID: '745198537'
         twitterIcon: 'http://pbs.twimg.com/profile_images/1090571573591977984/YspW4MBn_normal.jpg'
     -
@@ -2249,7 +2254,8 @@ organisations:
         tags: ['South West', 'South East', 'Local groups']
         facebook: ChrysalisGIM
         url: 'http://www.chrysalis-gii.org/'
-        manualDescription: 'Chrysalis is a Charity with Meeting Centres for transitioning transgender (transsexual) adults. We provide counselling, support and lifeskills workshops for Male-to-female (MtF), Female-to-male (FtM) and Intersex beneficiaries. Each Meeting Centre has a trained Counsellor, Support Workers &, where possible, an assigned LAGLO Officer. The meetings are held in South Hampshire and East Dorset.'
+        image: chrysalis
+        manualDescription: 'We are Chrysalis, the leading south coast charity supporting trans+ people and their families. Chrysalis supports trans+ people and their significant others at safe, confidential, meetings across Hampshire and Dorset.'
     -
         name: 'Not Alone Plymouth'
         tags: ['South West', 'Local groups']
@@ -2416,7 +2422,7 @@ organisations:
         twitterID: '701759028569964545'
         facebook: imaanlgbtq
         twitterDescription: 'Est.1999, we are an award-winning volunteer-led charity for and by LGBTQI Muslims. Journalists: DM us with any enquiries.'
-        lastTwitterPost: 'Tue Jun 11 14:08:27 +0000 2019'
+        lastTwitterPost: 'Tue Jun 11 14:29:15 +0000 2019'
         twitterIcon: 'http://pbs.twimg.com/profile_images/1012007994249408516/XLKEsLg1_normal.jpg'
     -
         name: 'Diverse Church'
