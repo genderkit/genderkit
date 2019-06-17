@@ -26,7 +26,7 @@ If you'd like you hair to be longer right now without having to wait for it to g
 
 Hair salons can be intimidating and confusing if you've only ever visited a barber's before. Here are a few tips that might help:
 
-- Some hair salons advertise that they are specifically for men or for women; others will advertise themselves as "unisex". If you ask, salons will often accept you as a customer even if your gender does not match what they advertise. There are some hairdressers that specialise in gender variant clients, such as [Open Barbers](http://openbarbers.co.uk/), [Barberette](http://www.barberette.co.uk/), and [Gabriel Jordan](http://www.facebook.com/barber.gabriel).
+- Some hair salons advertise that they are specifically for men or for women; others will advertise themselves as "unisex". If you ask, salons will often accept you as a customer even if your gender does not match what they advertise. There are some hairdressers that specialise in gender variant clients, such as [Open Barbers](http://openbarbers.co.uk/), [Barberette](http://www.barberette.co.uk/), and [Gabriel Jordan](http://www.facebook.com/BarberTherapies).
 
 - "Unisex" salons may have different prices listed for "men's" and "women's" hair, but normally this actually means they will charge a more expensive rate for people with longer hair.
 
