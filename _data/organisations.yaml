@@ -410,7 +410,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12715420_1685284751751895_4892086156287671165_n.png?oh=bc3195bddcd7d17bbb6c4547a058ac9f&oe=5A930BCF'
     -
         name: 'UK Trans Info'
-        url: 'https://uktrans.info'
+        url: 'http://uktransinfo.eu/'
         twitter: UKTransInfo
         facebook: uktransinfo
         tags: [National]
@@ -696,11 +696,11 @@ organisations:
         twitterID: '2432428922'
         twitterIcon: 'http://pbs.twimg.com/profile_images/646711799077670913/Sv40kBHU_normal.jpg'
     -
-        name: 'Be: Trans & NB North'
-        url: 'http://be-north.org.uk/'
+        name: 'Be: Trans Support and Community'
+        url: 'https://be-north.org.uk/'
         tags: ['North East', 'Local groups']
-        twitter: Be_TNB
-        facebook: Be.trans.north
+        twitter: BeTransNB
+        facebook: BeTransNB
         lastFacebookPost: '2017-12-07T12:26:27+0000'
         facebookDescription: 'Be: Trans Support & Development North is Trans Community Support, Development and Campaigning Organisation operating across the North of England.'
         twitterDescription: 'Be is a North East based, not for profit, community organisation for Trans & Non-Binary people offering support and community events'
@@ -1226,6 +1226,7 @@ organisations:
         lastTwitterPost: 'Fri May 13 23:32:30 +0000 2016'
         twitterID: '4842206981'
         twitterIcon: 'http://pbs.twimg.com/profile_images/691272927652745216/uLQqCLyw_normal.jpg'
+        archive: true
     -
         name: 'FTM London'
         tags: [London, Transmasculine, 'Local groups']
@@ -1512,7 +1513,8 @@ organisations:
         twitterID: '732901538469924864'
         twitterIcon: 'http://pbs.twimg.com/profile_images/732901985901481988/n-6tXKCr_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13256049_784122668354950_5430110936007044278_n.png?oh=080d4233477ba953a03dfaa9ed4217bc&oe=5AD25505'
-    -
+        archive: true
+        -
         name: 'SOFFA Marmalade'
         url: 'http://www.spanglefish.com/soffamarmalade/'
         facebook: SOFFAmarmaladeUK
