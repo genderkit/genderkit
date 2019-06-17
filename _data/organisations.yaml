@@ -1226,7 +1226,7 @@ organisations:
         lastTwitterPost: 'Fri May 13 23:32:30 +0000 2016'
         twitterID: '4842206981'
         twitterIcon: 'http://pbs.twimg.com/profile_images/691272927652745216/uLQqCLyw_normal.jpg'
-        archive: true
+        archived: true
     -
         name: 'FTM London'
         tags: [London, Transmasculine, 'Local groups']
@@ -1513,7 +1513,7 @@ organisations:
         twitterID: '732901538469924864'
         twitterIcon: 'http://pbs.twimg.com/profile_images/732901985901481988/n-6tXKCr_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13256049_784122668354950_5430110936007044278_n.png?oh=080d4233477ba953a03dfaa9ed4217bc&oe=5AD25505'
-        archive: true
+        archived: true
     -
         name: 'SOFFA Marmalade'
         url: 'http://www.spanglefish.com/soffamarmalade/'
