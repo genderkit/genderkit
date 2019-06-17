@@ -627,8 +627,8 @@ publications:
   -
     title: 'Breast Cervical AAA Bowel Screening Information for Transgender Service Users'
     organisation: 'Public Health Wales'
-    year: 2016
-    url: 'http://www.screeningforlife.wales.nhs.uk/sitesplus/documents/1129/Trans%20screening%20v2%20English%20250516.pdf'
+    year: 2019
+    url: 'http://www.screeningforlife.wales.nhs.uk/sitesplus/documents/1129/Trans%20screening%20v3%20-%20no%20lines.pdf'
     tags: [Health]   
   -
     title: 'So, someone you know is Transgender? Q&A for Family, Friends and Colleagues of Gender Variant Individuals'
@@ -1050,6 +1050,7 @@ publications:
     year: 2017
     url: "https://www.birmingham.gov.uk/download/downloads/id/8603/trans_inclusion_toolkit_for_schools.pdf"
     tags: [Education, Local school policies]
+    archived: true
   -
     title: "Gender, Sexual, and Relationship Diversity (GSRD) - Good Practice across the Counselling Professions"
     organisation: "British Association for Counselling and Psychotherapy"
@@ -1848,6 +1849,7 @@ publications:
     year: 2014
     url: "https://www.strath.ac.uk/media/ps/sees/equality/Supporting_trans_students_and_Staff_FAQs_web_May_2014.pdf"
     tags: ['Education', 'University policies']
+    archived: true
   -
     title: "Equality, Diversity and Inclusivity - Supporting Gender Reassignment in the Workplace"
     organisation: "University of Kent"
@@ -1864,7 +1866,13 @@ publications:
     title: "Transgender Staff Policy"
     organisation: "University of Sunderland"
     year: 2016
-    url: "https://services.sunderland.ac.uk/images/services/hr2015/documents/Staff%20Transgender%20%202016.pdf"
+    url: "https://services.sunderland.ac.uk/images/internalwebsites/services/hr/documents/Transgender%20Staff%20Policy.pdf"
+    tags: ['Education', 'University policies']
+  -
+    title: "Transgender Student Policy"
+    organisation: "University of Sunderland"
+    year: 2018
+    url: "https://services.sunderland.ac.uk/images/internalwebsites/services/hr/documents/Transgender%20Student%20Policy.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Transgender Policy (Students and Staff)"
@@ -1958,6 +1966,12 @@ publications:
     url: "https://www.trans.ac.uk/Portals/88/TransEdu-Scotland-Report-2017.pdf?ver=2017-10-31-142716-560"
     tags: [Studies]
   -
+    title: "Empowering leadership to support transgender students and staff within higher education"
+    organisation: "Advance HE"
+    year: 2018
+    url: "https://www.strath.ac.uk/media/ps/sees/wideningaccess/research/SDP-empowering-leadership-to-support-staff-students-in-he.pdf"
+    tags: [Studies, Education]
+  -
     title: "An investigation into the experiences and needs of trans staff and students at King's College London"
     organisation: "King's College London"
     year: 2017
@@ -2029,7 +2043,24 @@ publications:
     year: 2018
     url: "https://www.british-gymnastics.org/documents/clubs-schools-and-leisure-centres/9680-transgender-policy-and-guidance-2018-v2-0/file"
     tags: [Sport] 
-
+  -
+    title: "Staff and Student Trans Policy"
+    organisation: "University of Plymouth"
+    year: 2019
+    url: "https://www.plymouth.ac.uk/uploads/production/document/path/14/14526/Staff_and_Student_Trans_Policy__minor_update_6_June_2019.pdf"
+    tags: ['Education', 'University policies'] 
+  -
+    title: "Trans Inclusion Toolkit for Schools and Colleges"
+    organisation: "Merton and Wandsworth Councils"
+    year: 2019
+    url: "https://search3.openobjects.com/mediamanager/wandsworth/fsd/docs/2019-02-08_trans_inclusion_toolkit_for_schools_merton_wandsworth.pdf"
+    tags: [Education, Local school policies]
+  -
+    title: "Trans Inclusion Toolkit for Schools"
+    organisation: "Leicestershire County and City Councils"
+    year: 2019
+    url: "https://schools.leicester.gov.uk/media/4142/trans-inclusion-toolkit-for-schools.pdf"
+    tags: [Education, Local school policies]
   # -
   #   title: ""
   #   organisation: ""
