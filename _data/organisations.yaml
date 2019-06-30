@@ -2525,7 +2525,7 @@ organisations:
         twitterIcon: 'http://pbs.twimg.com/profile_images/1090569723937542145/CaPH9ZQ2_normal.jpg'
     -
         name: 'Liverpool TransPride'
-        tags: ['North West', Liverpool, 'Local groups']
+        tags: ['North West', Liverpool, 'Local groups', 'Pride events']
         facebook: MerseysideandCheshireTransPride
         manualDescription: 'Promoting the rights and public profile of the Transgender community in Liverpool, specifically in relation to an annual TransPride demo.'
     -
@@ -2556,3 +2556,10 @@ organisations:
         twitterDescription: 'This is the Twitter account of the Non-Binary Genders in Higher Education research project, based at University of Westminster and City, University of London.'
         lastTwitterPost: 'Mon Jun 17 12:24:57 +0000 2019'
         twitterIcon: 'http://pbs.twimg.com/profile_images/1100785488183656448/yoZLgMuD_normal.png'
+    -
+        name: 'LGBT Foundation Trans Programme'
+        tags: ['North West', Manchester, 'Local groups']
+        facebook: TransMCR
+        image: transmcr
+        url: https://lgbt.foundation/who-we-help/trans-people
+        manualDescription: 'TransMCR, the free monthly Trans Community Event and LGBT Foundation's Trans Programme funded by The Big Lottery.'
