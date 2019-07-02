@@ -1522,6 +1522,7 @@ publications:
     year: 2011
     url: "https://www.ncl.ac.uk/diversity/assets/documents/trans-guidance-staff"
     tags: ['Education', 'University policies']
+    archived: true
   -
     title: "Guidance on Supporting Trans Staff"
     organisation: "The University of Nottingham"
@@ -1811,7 +1812,13 @@ publications:
     title: "Rugbysafe Essential Guide: Transgender, Transsexual and Gender Dysphoria"
     organisation: "Rugby Football Union"
     year: 2017
-    url: "http://www.englandrugby.com/mm/Document/MyRugby/Education/01/32/50/43/TransgenderTranssexual(RugbySafeEssentialGuide)May2017FINAL_Neutral.pdf"
+    url: "https://www.englandrugby.com//b60e6e31-e1cd-4d88-a268-4b6e76fb6593/dxdam/46/46a7a3e6-4e3b-474d-9d67-6729dc1f33cd/TransgenderTranssexual.pdf"
+    tags: [Sport]
+  -
+    title: "Policy for the Participation of Transgender & Non-Binary Gender Players"
+    organisation: "Rugby Football Union"
+    year: 2019
+    url: "https://www.englandrugby.com//b60e6e31-e1cd-4d88-a268-4b6e76fb6593/dxdam/26/26de38f3-d82f-4816-8be3-b582f6a9f757/TransgenderPolicy.pdf"
     tags: [Sport]
   -
     title: "Transgender and Transsexual Policy"
@@ -2061,6 +2068,21 @@ publications:
     year: 2019
     url: "https://schools.leicester.gov.uk/media/4142/trans-inclusion-toolkit-for-schools.pdf"
     tags: [Education, Local school policies]
+  -
+    title: "Safer Sex and Our Health"
+    organisation: "LGBT Foundation"
+    year: 2019
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/28532f75-927b-45eb-87df-824581091481/TSH-Guide-Side-1-FINAL.pdf"
+    tags: [Sex]
+    warning: "This publication contains drawings of fully naked people."
+  -
+    title: "Safer Sex, Ourselves and Our Relationships"
+    organisation: "LGBT Foundation"
+    year: 2019
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/aa7a98ed-58a8-42ce-bced-5cbde08f5989/TSH-Guide-Side-2-FINAL.pdf"
+    tags: [Sex]
+    warning: "This publication contains drawings of fully naked people."
+
   # -
   #   title: ""
   #   organisation: ""
