@@ -911,7 +911,7 @@ organisations:
         url: 'https://cliniq.org.uk'
         twitter: Clini_Q
         facebook: cliniQlondon
-        tags: [London, 'Local groups']
+        tags: [London, 'Local groups', 'Sexual health']
         lastFacebookPost: '2017-12-09T14:01:04+0000'
         facebookDescription: 'cliniQ CIC - Community Interest Company.  Trans and nonbinary people''s  holistic wellbeing and sexual health service in partnership with 56 Dean Street'
         twitterDescription: 'Trans/NB, queer Holistic well-being and Sexual Health services. Also for friends and families. Free & confidential [Cannot offer client advice via twitter]'
@@ -2323,7 +2323,7 @@ organisations:
         image: transedu
     -
         name: 'Clinic T Trans Clinic'
-        tags: ['South East', Brighton, 'Local groups']
+        tags: ['South East', Brighton, 'Local groups', 'Sexual health']
         url: 'http://brightonsexualhealth.com/service/clinic-t/'
         manualDescription: 'Clinic T is a sexual health service based in Brighton for anyone who identifies as trans, non-binary or gender variant (partners are welcome too).'
         image: brightonsexualhealth
