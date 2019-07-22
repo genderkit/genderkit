@@ -49,7 +49,7 @@ regions:
 organisations:
     -
         name: 'Knowing Our Identity Gender Identity Development Service'
-        url: 'https://genderjam.org.uk/resources/healthcare/KOIleaflet.pdf'
+        url: 'http://www.belfasttrust.hscni.net/pdf/website_KOIleaflet.pdf'
         tags: ['NHS Gender Services', 'Northern Ireland', 'Under 18s']
         manualDescription: 'NHS gender service for under 18s in Northern Ireland'
         image: hsc
