@@ -254,7 +254,7 @@ publications:
     title: "Sexual Health Guide for trans and non-binary young people"
     organisation: "Gender Jam"
     year: 2015
-    url: http://s763217500.websitehome.co.uk/wp-content/uploads/2015/09/TYSHGuide.pdf
+    url: "http://genderjam.lgbt/wp-content/uploads/2015/09/TYSHGuide.pdf"
     tags: [Sex, Northern Ireland]
   -
     title: "Domestic Violence - a Resource for Trans People"
@@ -322,7 +322,7 @@ publications:
     title: "A guide to hormone therapy for trans people"
     organisation: "Department of Health"
     year: 2007
-    url: "http://www.teni.ie/attachments/9ea50d6e-1148-4c26-be0d-9def980047db.PDF"
+    url: "https://www.gires.org.uk/wp-content/uploads/2014/08/doh-hormone-therapy.pdf"
     tags: [Hormones]
   -
     title: "Trans - A practical guide for the NHS"
@@ -707,7 +707,7 @@ publications:
     organisation: "NHS England"
     year: 2016
     url: "https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2016/08/clinical-com-pol-16046p.pdf"
-    tags: [Medical policies, Under 18s, 'National medical policy']
+    tags: [Medical policies, Under 18s, 'National medical policy', 'Hormones']
   -
     title: "Experiences of people from, and working with, transgender communities within the NHS - summary of findings, 2013/2014"
     organisation: "NHS England"
@@ -1087,13 +1087,13 @@ publications:
     organisation: "NHS England"
     year: 2018
     url: "https://gendergp.co.uk/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf"
-    tags: [Medical policies, 'National medical policies']
+    tags: [Medical policies, 'National medical policies', 'Hormones']
   -
     title: "Primary Care Responsibilities in Prescribing and Monitoring Hormone Therapy for Transgender and Non-Binary Adults (updated)"
     organisation: "NHS England"
     year: 2016
     url: "https://shsc.nhs.uk/wp-content/uploads/2016/04/SSC1620_GD-Prescribing.pdf"
-    tags: [Medical policies, 'National medical policies']
+    tags: [Medical policies, 'National medical policies', 'Hormones']
   -
     title: "Guidance for doctors treating transgender and non-binary patients"
     organisation: "NHS East Lancashire Health Economy Medicines Management Board"
@@ -1400,25 +1400,25 @@ publications:
     organisation: "NHS North of Tyne and Gateshead Area Prescribing Committee"
     year: 2014
     url: "http://www.northoftyneapc.nhs.uk/wp-content/uploads/sites/6/2017/04/Gender-Dysphoria-Masculinising-Hormones-Mar-2017.pdf"
-    tags: ['Medical policies', 'Local medical policies']
+    tags: ['Medical policies', 'Local medical policies', 'Hormones']
   -
     title: "Guidelines for the Use of Feminising Hormone Therapy in Gender Dysphoria"
     organisation: "NHS North of Tyne and Gateshead Area Prescribing Committee"
     year: 2014
     url: "http://www.northoftyneapc.nhs.uk/wp-content/uploads/sites/6/2017/04/Gender-Dysphoria-Feminising-Hormones-Mar-2017.pdf"
-    tags: ['Medical policies', 'Local medical policies']
+    tags: ['Medical policies', 'Local medical policies', 'Hormones']
   -
     title: "Guidelines for the Use of Feminising Hormone Therapy in Gender Dysphoria"
     organisation: "NHS Sunderland CCG"
     year: 2015
     url: "http://www.sunderlandccg.nhs.uk/wp-content/uploads/2016/08/SCCG-Gender-Dysphoria-Feminising-Hormones-Dec-2015-DecX2016.pdf"
-    tags: ['Medical policies', 'Local medical policies']
+    tags: ['Medical policies', 'Local medical policies', 'Hormones']
   -
     title: "Guidelines for the Use of Masculinising Hormone Therapy in Gender Dysphoria"
     organisation: "NHS Sunderland CCG"
     year: 2015
     url: "http://sunderlandccg.nhs.uk/wp-content/uploads/2016/03/SCCG-Gender-Dysphoria-Masculinising-Hormones-Dec-2015.pdf"
-    tags: ['Medical policies', 'Local medical policies']
+    tags: ['Medical policies', 'Local medical policies', 'Hormones']
   -
     title: "Supporting Patients Accessing Gender Identity Services"
     organisation: "NHS Brighton and Hove CCG"
