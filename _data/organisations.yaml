@@ -1847,6 +1847,7 @@ organisations:
         twitterDescription: "The British Binder Company 01217534092 \ninfo@spectrumoutfitters.co.uk"
     -
         name: 'Action For Trans Health London'
+        archive: true
         twitter: LDN4TransHealth
         twitterID: '884574220679876608'
         facebook: ActionForTransHealthLondon
@@ -2563,3 +2564,14 @@ organisations:
         image: transmcr
         url: 'https://lgbt.foundation/who-we-help/trans-people'
         manualDescription: 'TransMCR, the free monthly Trans Community Event and LGBT Foundation''s Trans Programme funded by The Big Lottery.'
+    -
+        name: '56T at 56 Dean Street'
+        url: 'http://dean.st/cliniq/'
+        tags: [London, 'Sexual health']
+        image: 56T
+        manualDescription: '56T is a holistic sexual health and wellbeing service for all trans/non-binary people, their partners and friends.'
+    -
+        name: 'London Intersex + Trans Community Healthcare Hub'
+        tags: [London, 'Local groups']
+        twitter: litch_group
+        twitterID: '1149019919201329152'
