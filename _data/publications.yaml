@@ -100,6 +100,7 @@ publications:
     year: 2013
     url: "http://uktransinfo.eu/attachments/article/157/amcechaasd.pdf"
     tags: [Legal, 'Gender recognition', 'Name and title changes']
+    archived: true
   -
     title: "Shining the Light - 10 Keys to Becoming a Trans Positive Organisation"
     organisation: "Galop"
@@ -142,6 +143,7 @@ publications:
     year: 2013
     url: "https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/college-report-cr181.pdf"
     tags: [Medical policies, 'National medical policies']
+    archived: true
   -
     title: "Gender dysphoria services: a guide for General Practitioners and other healthcare staff"
     organisation: "Department of Health"
@@ -184,6 +186,7 @@ publications:
     year: 2012
     url: "http://uktransinfo.eu/attachments/article/435/GIC-administration-review.pdf"
     tags: [London]
+    archived: true
   -
     title: "Frequently asked questions about Trans*"
     organisation: "The Nottingham Centre for Transgender Health"
@@ -384,6 +387,7 @@ publications:
     year: 2015
     url: "http://uktransinfo.eu/graguide.pdf"
     tags: [Legal, 'Gender recognition']
+    archived: true
   -
     title: "Change of name"
     organisation: "The Nottingham Centre for Transgender Health"
@@ -528,6 +532,7 @@ publications:
     year: 2016
     url: 'http://uktransinfo.eu/namechange.pdf'
     tags: [Legal, 'Name and title changes']
+    archived: true
   -
     title: 'Transgender Equality'
     organisation: 'House of Commons Women and Equalities Committee'
@@ -1296,14 +1301,14 @@ publications:
   -
     title: "Gender Identity Services for Adults - Non-Surgical Interventions"
     organisation: "NHS England"
-    year: 2018
-    url: "https://www.engage.england.nhs.uk/survey/gender-identity-services-for-adults/user_uploads/specialised-gender-dysphoria-service-specifications.pdf"
+    year: 2019
+    url: "https://www.england.nhs.uk/wp-content/uploads/2019/07/service-specification-gender-dysphoria-services-non-surgical-june-2019.pdf"
     tags: [Medical policies]
   -
     title: "Gender Identity Services for Adults - Surgical Interventions"
     organisation: "NHS England"
-    year: 2018
-    url: "https://www.england.nhs.uk/wp-content/uploads/2018/10/Gender-identity-services-for-adults-surgical-interventions.pdf"
+    year: 2019
+    url: "https://www.england.nhs.uk/wp-content/uploads/2019/07/service-specification-gender-dysphoria-surgical-interventions-may-2019.pdf"
     tags: [Medical policies]
   -
     title: "Supporting trans employees in the workplace"
@@ -2044,12 +2049,7 @@ publications:
     year: 2018
     url: "http://www.healthyshropshire.co.uk/assets/downloads/finaltrangenderguidancemarch2018.pdf"
     tags: [Education, Local school policies] 
-  -
-    title: "Policy for the participation of trans people in gymnastics competition"
-    organisation: "British Gymnastics"
-    year: 2018
-    url: "https://www.british-gymnastics.org/documents/clubs-schools-and-leisure-centres/9680-transgender-policy-and-guidance-2018-v2-0/file"
-    tags: [Sport] 
+
   -
     title: "Staff and Student Trans Policy"
     organisation: "University of Plymouth"
@@ -2082,6 +2082,30 @@ publications:
     url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/aa7a98ed-58a8-42ce-bced-5cbde08f5989/TSH-Guide-Side-2-FINAL.pdf"
     tags: [Sex]
     warning: "This publication contains drawings of fully naked people."
+  -
+    title: "Transgender Policy"
+    organisation: "Basketball England"
+    year: 2017
+    url: "https://www.basketballengland.co.uk/media/7136/transgender-policy.pdf"
+    tags: [Sport] 
+  -
+    title: "British Canoeing Transgender & Transsexual Policy - Guidance and Policy for Competition"
+    organisation: "British Canoeing"
+    year: 2019
+    url: "https://www.britishcanoeing.org.uk/uploads/documents/Transgender-and-Transsexual-Policy-April-2019.pdf"
+    tags: [Sport] 
+  -
+    title: "Transgender Policy"
+    organisation: "Scottish Rugby"
+    year: 2018
+    url: "https://s3-eu-west-1.amazonaws.com/sru-files/files/sr18_transgender_policy.pdf"
+    tags: [Sport] 
+  -
+    title: "Transgender and Transsexual Policy"
+    organisation: "British Weight Lifting"
+    year: 2018
+    url: "https://britishweightlifting.org/resources/bwl---transgender-and-transsexual-policy.pdf"
+    tags: [Sport] 
 
   # -
   #   title: ""

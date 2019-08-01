@@ -8,6 +8,11 @@ description: Helpful organisations and publications for UK clubs and venues abou
 
 {% include publications tag="Sport" %}
 
+### International policies
+
+A list of policies produced by international organisations and organisations across the world is available on [transathlete.com](https://www.transathlete.com/policies-by-organization).
+
 ### UK organisations
 
 {% include organisations tag="Sport and Fitness" %}
+
