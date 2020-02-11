@@ -10,7 +10,7 @@ script: bundle exec rake test
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  token: $GITHUB_TOKEN
   on:
     branch: master
   local_dir: _site
@@ -19,8 +19,6 @@ env:
   global:
     # Speed up installation of html-proofer
     - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-
-sudo: false
 
 addons:
   apt:
