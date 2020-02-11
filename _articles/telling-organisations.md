@@ -12,4 +12,4 @@ We've created a checklist of places you might want to notify of a change of name
 
 ### Birth certificates
 
-You may wish to update you name or gender on your birth, marriage, or civil partnership certificates. The only way to do this is through [obtaining a gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}).
+You may wish to update your name or gender on your birth, marriage, or civil partnership certificates. The only way to do this is through [obtaining a gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}).
