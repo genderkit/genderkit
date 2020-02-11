@@ -7,13 +7,6 @@ cache:
 
 script: bundle exec rake test
 
-deploy:
-  provider: pages
-  token: $GITHUB_TOKEN
-  on:
-    branch: master
-  local_dir: _site
-
 env:
   global:
     # Speed up installation of html-proofer
@@ -24,4 +17,3 @@ addons:
     packages:
       - aspell
       - aspell-en
-      
