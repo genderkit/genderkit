@@ -1,6 +1,8 @@
 abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
 
+task :default => ["test"]
+
 task :test => [:spellcheck, :htmlproofer] do
   puts "Tests complete."
 end
