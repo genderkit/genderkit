@@ -7,6 +7,39 @@ task :test => [:spellcheck, :htmlproofer] do
   puts "Tests complete."
 end
 
+desc "Test for broken internal links"
+task :checklinksinternal => :jekyll do
+  options = {
+    :assume_extension => true,
+    :disable_external => true,
+    :empty_alt_ignore => true,
+    :alt_ignore => [ /.*/ ],
+    :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
+    :url_swap => {
+      /https?\:\/\/genderkit\.github\.io\/genderkit\// => "/",
+      /\/?genderkit\// => "/"
+    }
+  }
+  HTMLProofer.check_directory("./_site", options).run
+end
+
+desc "Test for broken external links"
+task :checklinks => :jekyll do
+  options = {
+    :assume_extension => true,
+    :disable_external => false,
+    :empty_alt_ignore => true,
+    :alt_ignore => [ /.*/ ],
+    :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
+    :url_swap => {
+      /https?\:\/\/genderkit\.github\.io\/genderkit\// => "/",
+      /\/?genderkit\// => "/"
+    },
+    :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
+  }
+  HTMLProofer.check_directory("./_site", options).run
+end
+
 desc "Build the site using Jekyll"
 task :jekyll do
   sh "bundle exec jekyll build"
@@ -34,9 +67,9 @@ task :htmlproofer => :jekyll do
       :report_missing_names => true
     },
     :url_swap => {
-      /(genderkit\.github\.io)?\/genderkit\// => "/"
+      /(genderkit\.github\.io)?\/genderkit\// => "genderkit.github.io"
     },
-    :internal_domains => [ "genderkit.github.io" ],
+    :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
   }
   HTMLProofer.check_directory("./_site", options).run
 end
