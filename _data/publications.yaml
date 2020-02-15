@@ -128,8 +128,8 @@ publications:
   -
     title: "Primary Care responsibilities in relation to the prescribing and monitoring of hormone therapy for patients undergoing or having undergone Gender dysphoria treatments"
     organisation: "NHS England"
-    year: 2016
-    url: "https://www.shsc.nhs.uk/sites/default/files/2019-12/SSC1620_GD-Prescribing.pdf"
+    year: 2014
+    url: "https://www.wlmht.nhs.uk/wp-content/uploads/2016/04/Primary-Care-Responsibilities-Circular.pdf"
     tags: [Medical policies, England, 'National medical policies']
   -
     title: "Interim Gender Dysphoria Protocol and service Guideline 2013/14"
@@ -223,6 +223,7 @@ publications:
     year: 2005
     url: "http://www.lgbthistorymonth.org.uk/documents/DCMS%20Guidance%20-%20Transsexual%20People%20and%20Sport%20(1).pdf"
     tags: [Sport]
+    archived: true
   -
     title: "Patients’ Guide to Phalloplasty Techniques"
     organisation: "St Peter’s Andrology Centre"
@@ -453,7 +454,7 @@ publications:
     title: "Advancing transgender equality - A Plan for Action"
     organisation: "Home Office"
     year: 2011
-    url: "http://www.pfc.org.uk/pdf/transgender-action-plan.pdf"
+    url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/85498/transgender-action-plan.pdf"
     tags: [Legal]
   -
     title: "Supporting a student or member of staff who is transitioning"
@@ -830,6 +831,7 @@ publications:
     year: 2016
     url: "http://gov.wales/docs/dsjlg/publications/equality/160314-transgender-action-plan-en.pdf"
     tags: [Wales]
+    archived: true
   -
     title: "Operational research report following visits and analysis of Gender Identity Clinics in England"
     organisation: "NHS England"
@@ -970,26 +972,26 @@ publications:
     title: "Shared Care Prescribing Guidance for Treatment of Gender Dysphoria in Transmen (Female to Male Transsexuals)"
     organisation: "West London Mental Health NHS Trust"
     year: 2017
-    url: "http://www.gpref.bedfordshire.nhs.uk/media/160185/Treatment_of_Gender_Dysphoria_in_Transmen_(Female_to_Male_Transsexuals).pdf"
+    url: "https://www.gpref.bedfordshire.nhs.uk/media/160185/Treatment_of_Gender_Dysphoria_in_Transmen_(Female_to_Male_Transsexuals).pdf"
     tags: [Medical policies, 'Gender clinic publications']
   -
     title: "Shared Care Prescribing Guidance for Treatment of Gender Dysphoria in Transwomen (Male to Female Transsexuals)"
     organisation: "West London Mental Health NHS Trust"
     year: 2017
-    url: "http://www.gpref.bedfordshire.nhs.uk/media/160288/Treatment%20of%20Gender_Dysphoria_in_Transwomen_(Male_to_Female_Transsexuals).pdf"
+    url: "https://www.gpref.bedfordshire.nhs.uk/media/160288/Treatment%20of%20Gender_Dysphoria_in_Transwomen_(Male_to_Female_Transsexuals).pdf"
     tags: [Medical policies, 'Gender clinic publications']
   -
     title: "Information About Hormonal Treatment for Trans Men"
     organisation: "Leighton J Seal"
     year: 2016
-    url: "http://www.gpref.bedfordshire.nhs.uk/media/160188/Patient_Information_FtM_2016_new_v1.pdf"
+    url: "https://www.gpref.bedfordshire.nhs.uk/media/160188/Patient_Information_FtM_2016_new_v1.pdf"
     tags: [Hormones, 'Gender clinic publications']
     archived: true
   -
     title: "Information About Hormonal Treatment for Trans Women"
     organisation: "Leighton J Seal"
     year: 2016
-    url: "http://www.gpref.bedfordshire.nhs.uk/media/160285/Patient_information_MtF_2016_v2.pdf"
+    url: "https://www.gpref.bedfordshire.nhs.uk/media/160285/Patient_information_MtF_2016_v2.pdf"
     tags: [Hormones, 'Gender clinic publications']
     archived: true
   -
@@ -1102,7 +1104,7 @@ publications:
     title: "Primary Care Responsibilities in Prescribing and Monitoring Hormone Therapy for Transgender and Non-Binary Adults (updated)"
     organisation: "NHS England"
     year: 2016
-    url: "https://shsc.nhs.uk/wp-content/uploads/2016/04/SSC1620_GD-Prescribing.pdf"
+    url: "https://www.dpt.nhs.uk/download/Ote2T8sczT"
     tags: [Medical policies, 'National medical policies', 'Hormones']
   -
     title: "Guidance for doctors treating transgender and non-binary patients"
@@ -1229,8 +1231,14 @@ publications:
     title: "Transgender Guidance"
     organisation: "University of Oxford"
     year: 2018
-    url: "http://www.admin.ox.ac.uk/media/global/wwwadminoxacuk/localsites/equalityanddiversity/documents/transgender/180123_Transgender_guidance_FINAL.pdf"
-    tags: [Education, University policies]    
+    url: "https://edu.admin.ox.ac.uk/files/transgenderguidance"
+    tags: [Education, University policies]   
+  -
+    title: "Transgender Policy"
+    organisation: "University of Oxford"
+    year: 2018
+    url: "https://edu.admin.ox.ac.uk/files/transgenderpolicypdf"
+    tags: [Education, University policies]   
   -
     title: "Transgender Policy and Guidance"
     organisation: "University of West London"
@@ -1252,9 +1260,15 @@ publications:
   -
     title: "Transgender Staff Guidance"
     organisation: "The Open University"
-    year: 2013
-    url: "http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/t/Transgender/Transgender-Staff-Guidance-HRG336.pdf"
-    tags: [Employment, University policies]  
+    year: 2019
+    url: "http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/t/Transgender/Transgender-Staff-Guidance-PSG336.pdf"
+    tags: [Employment, University policies] 
+  -
+    title: "Transgender Staff Policy"
+    organisation: "The Open University"
+    year: 2019
+    url: "http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/t/Transgender/Transgender-Staff-Policy-PSP090.pdf"
+    tags: [Employment, University policies] 
   -
     title: "Research Study into the Trans Population of Manchester"
     organisation: "Manchester City Council"
@@ -1283,7 +1297,7 @@ publications:
     title: "Gender Identity Policy and Guidance"
     organisation: "The Open University"
     year: 2018
-    url: "http://www.open.ac.uk/students/charter/sites/www.open.ac.uk.students.charter/files/files/gender-identity-policy-and-guidance.pdf"
+    url: "https://help.open.ac.uk/documents/policies/gender-identity/files/28/gender-identity-policy-and-guidance.pdf"
     tags: [Education, University policies]
   -
     title: "Gender recognition: how pensions and benefits may be affected"
@@ -1313,7 +1327,7 @@ publications:
     title: "Gender Identity Services for Adults - Surgical Interventions"
     organisation: "NHS England"
     year: 2019
-    url: "https://www.england.nhs.uk/wp-content/uploads/2019/07/service-specification-gender-dysphoria-surgical-interventions-may-2019.pdf"
+    url: "https://www.england.nhs.uk/wp-content/uploads/2019/12/nhs-england-service-specification-gender-identity-surgical-services.pdf"
     tags: [Medical policies]
   -
     title: "Supporting trans employees in the workplace"
@@ -1763,7 +1777,7 @@ publications:
     title: "Gender Reassignment Policy"
     organisation: "NHS Leicestershire Partnership NHS Trust"
     year: 2018
-    url: "http://www.leicspart.nhs.uk/Library/GenderReassignmentPolicyexpAug21.pdf"
+    url: "https://www.leicspart.nhs.uk/wp-content/uploads/2020/01/Gender-Reassignment-Policy-exp-Aug-21.pdf"
     tags: ['Medical policies', 'Local medical employment policies']
   -
     title: "Gender Reassignment Support in the Workplace"
@@ -1853,7 +1867,7 @@ publications:
     title: "Transgender Awareness Guide"
     organisation: "The University of Warwick"
     year: 2017
-    url: "https://warwick.ac.uk/services/equalops/transandgenderreassignment/58933_trans_awareness_guide_2017_-_printed_version.pdf"
+    url: "https://warwick.ac.uk/services/equalops/learnmore/training_guidance_resources/transawarenessguide2017.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Policy and procedure - Trans and Gender Reassignment"
@@ -1861,6 +1875,7 @@ publications:
     year: 2016
     url: "https://warwick.ac.uk/services/equalops/transandgenderreassignment/trans_and_gender_reassignment_policy.pdf"
     tags: ['Education', 'University policies']
+    archived: true
   -
     title: "Gender Identity and Expression Policy"
     organisation: "University of Portsmouth"
@@ -1907,14 +1922,14 @@ publications:
   -
     title: "Trans Students and Staff Guide"
     organisation: "York St John University"
-    year: 2017
-    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Gen_c_Trans_Inclusive_Guide---Final---v2---Dec-2018.pdf"
+    year: 2019
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans_Inclusive_Guide---FINAL.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Equality Policy Statement"
     organisation: "York St John University"
     year: 2017
-    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Gen_a_Trans-Inclusive-Policy-Statement---Final---v2---Jan-2019.pdf"
+    url: "https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Trans Equality Policy"
@@ -2024,13 +2039,13 @@ publications:
     title: "Gender Reassignment Surgery - Labioplasty - The Whole Journey"
     organisation: "Parkside Hospital"
     year: 2018
-    url: "https://s3-eu-west-1.amazonaws.com/aspen-hub/wp-content/uploads/sites/12/2018/11/28115613/Labioplasty.pdf"
+    url: "https://www.parkside-hospital.co.uk/files/2018/11/Labioplasty.pdf"
     tags: [Surgery]
   -
     title: "Gender Reassignment Surgery - Vaginoplasty - The Whole Journey"
     organisation: "Parkside Hospital"
     year: 2018
-    url: "https://s3-eu-west-1.amazonaws.com/aspen-hub/wp-content/uploads/sites/12/2018/11/28115511/Vaginoplasty-.pdf"
+    url: "https://www.parkside-hospital.co.uk/files/2018/11/Vaginoplasty-.pdf"
     tags: [Surgery] 
   -
     title: "Trans Officer Guide"
@@ -2126,7 +2141,18 @@ publications:
     year: 2019
     url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/834656/Screening_for_trans_and_non-binary_people_Sept_2019.pdf"
     tags: [Health] 
-
+  -
+    title: "Response to Welsh Government action plan to further equality for transgender people"
+    organisation: "NSPCC Wales"
+    year: 2015
+    url: "https://www.nspcc.org.uk/globalassets/documents/consultation-responses/nspcc-wales-cymru-response-government-action-plan-transgender-people.pdf"
+    tags: [] 
+  -
+    title: "PG12 Pharmacological Treatment of Gender Dysphoria"
+    organisation: "Devon Partnership NHS Trust"
+    year: 2019
+    url: "https://www.dpt.nhs.uk/download/R2Rmc14Pfa"
+    tags: [England, Medical policies, Hormones, 'Gender clinic publications']
   # -
   #   title: ""
   #   organisation: ""

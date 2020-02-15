@@ -31,4 +31,3 @@ Private speech and language therapists in the UK who advertise specific experien
 - [Sue Addlestone](http://www.sueaddlestone.co.uk) (North West)
 - [Susannah Thomson](http://southbristolvoicetherapy.co.uk) (Bristol)
 - [Barbara Molteno](http://www.vocalisptp.co.uk) (Derbyshire)
-- [Ioanna Georgiadou](https://www.transvoicetherapy.com) (via Skype)

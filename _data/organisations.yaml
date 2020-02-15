@@ -800,6 +800,7 @@ organisations:
         twitterID: '3995486668'
         twitterIcon: 'http://pbs.twimg.com/profile_images/662269870801817601/2ECMKFWW_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12190903_942463819122803_8975315122364978240_n.jpg?oh=9da616156e95d00db6bfdfc6ab1f072b&oe=5ACF9114'
+        archived: true
     -
         name: Transvision
         twitter: _Transvision
@@ -1966,7 +1967,6 @@ organisations:
         tags: [Intersex]
     -
         name: 'Life''s A Drag'
-        url: 'http://www.lifesadragmcr.co.uk'
         twitter: Manchesterdrag
         twitterID: '4128181750'
         tags: ['North West', Manchester, Drag]
@@ -2568,7 +2568,7 @@ organisations:
         manualDescription: 'TransMCR, the free monthly Trans Community Event and LGBT Foundation''s Trans Programme funded by The Big Lottery.'
     -
         name: '56T at 56 Dean Street'
-        url: 'http://dean.st/cliniq/'
+        url: 'http://dean.st/56t/'
         tags: [London, 'Sexual health']
         image: 56T
         manualDescription: '56T is a holistic sexual health and wellbeing service for all trans/non-binary people, their partners and friends.'

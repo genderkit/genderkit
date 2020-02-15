@@ -12,11 +12,11 @@ The GMC have created a [trans healthcare hub](https://www.gmc-uk.org/ethical-gui
 
 Each nation's public health body has published a policy for how patients should be treated.
 
-- **NHS England**: [Gender Dysphoria Protocol](https://www.bathandnortheastsomersetccg.nhs.uk/assets/uploads/2019/08/NHS-England-Interim-Gender-Dysphoria-Protocol.pdf). NHS England have also published information for GPs on [prescribing and monitoring hormones](https://shsc.nhs.uk/wp-content/uploads/2014/08/NHS-England-Specialised-Services-Circular.pdf) and information for GPs on handling [requests from private medical service providers](https://gendergp.co.uk/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf).
+- **NHS England**: [Gender Dysphoria Protocol](https://www.bathandnortheastsomersetccg.nhs.uk/assets/uploads/2019/08/NHS-England-Interim-Gender-Dysphoria-Protocol.pdf). NHS England have also published information for GPs on [prescribing and monitoring hormones](https://www.shsc.nhs.uk/sites/default/files/2019-12/SSC1620_GD-Prescribing.pdf) and information for GPs on handling [requests from private medical service providers](https://gendergp.co.uk/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf).
 - **NHS Scotland**: [Gender Reassignment Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf). You should also read [Interim Guidance](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2015/07/Gender-Reassignment-Interim-Guidance-2.pdf) which contains updates to the protocol. Some [explanatory notes](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2016/04/NGICNS-Explanatory-Notes-for-GRP-v1-0-2.pdf) have been published which may help you.
 - **NHS Wales**: [Specialised Services Policy CP21](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP21%20Gender%20Services%20Specialies%20Services%20Policy%20%20Approved%201209251.pdf)
 
-Additionally, the specialist gender services follow the [Royal College of Psychiatrists Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/college-report-cr181.pdf).
+Additionally, the specialist gender services follow the [Royal College of Psychiatrists Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf).
 
 ### Local policies
 

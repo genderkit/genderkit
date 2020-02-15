@@ -36,7 +36,6 @@ Buying from abroad may incur customs charges.
 If you are unable to afford purchasing a binder from these sources, you may also be able to obtain free binders from:
 
 - the [MORF Binder Scheme](http://morfmanchester.blogspot.co.uk/p/binder-scheme.html)
-- the [Northern Ireland Binder Scheme](https://genderjam.org.uk/transresources/binders/) in Northern Ireland
 - the [Trans*Form Cymru Binder Bank](http://youthcymru.org.uk/transform-cymru/binder-bank/) in Wales
 
 You may also be able to find other people in your area who are willing to donate a binder they no longer use.
