@@ -72,7 +72,7 @@ help:
     manualDescription: 'Stop Hate UK provide a LGBT hate crime support line and tools to report hate crime online.'
   -
     name: 'Mermaids'
-    url: 'http://www.mermaidsuk.org.uk/helpline-support.html'
+    url: 'https://mermaidsuk.org.uk/contact-us/'
     category: 'Bullying'
     manualDescription: 'Mermaids provide a helpline and email support for transgender youth.'
     tags: [Nationwide, Bullying]

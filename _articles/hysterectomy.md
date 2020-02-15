@@ -12,7 +12,7 @@ Hysterectomy results in permanent destruction of the uterus (womb) and is irreve
 {% include warning warning=warn %}
 
 {% capture warn %}
-Not all types of hysterectomy remove the risk of cervical cancer. The cervix is only removed as part of an operation called a "total hysterectomy". Ask your surgeon whether you will still need to be regularly [tested for cervical cancer](http://www.nhs.uk/Conditions/Cervical-screening-test/Pages/Introduction.aspx) if you are unsure.
+Not all types of hysterectomy remove the risk of cervical cancer. The cervix is only removed as part of an operation called a "total hysterectomy". Ask your surgeon whether you will still need to be regularly [tested for cervical cancer](http://www.nhs.uk/Conditions/Cervical-screening-test/Pages/Introduction.aspx) if you are unsure. You can read more about this on [the NHS website](https://www.nhs.uk/common-health-questions/sexual-health/should-trans-men-have-cervical-screening-tests/).
 {% endcapture %}
 {% include warning warning=warn %}
 

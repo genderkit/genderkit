@@ -27,7 +27,7 @@ Binders cannot be bought in high street shops and have to be ordered online. The
 Binders typically cost £25-50. Well known retailers of binders serving the UK include:
 
 - [Spectrum Outfitters](https://www.spectrumoutfitters.co.uk)
-- [F2mbinders](http://www.f2mbinders.com/) - formerly known as Underworks
+- [F2mbinders](https://www.f2mbinders.com/) - formerly known as Underworks
 - [gc2b](https://www.gc2b.co/)
 - [T Kingdom](http://www.t-kingdom.com/) - best for slim/small chested people
 

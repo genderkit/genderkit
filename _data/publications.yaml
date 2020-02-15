@@ -128,20 +128,20 @@ publications:
   -
     title: "Primary Care responsibilities in relation to the prescribing and monitoring of hormone therapy for patients undergoing or having undergone Gender dysphoria treatments"
     organisation: "NHS England"
-    year: 2014
-    url: "https://shsc.nhs.uk/wp-content/uploads/2014/08/NHS-England-Specialised-Services-Circular.pdf"
+    year: 2016
+    url: "https://www.shsc.nhs.uk/sites/default/files/2019-12/SSC1620_GD-Prescribing.pdf"
     tags: [Medical policies, England, 'National medical policies']
   -
     title: "Interim Gender Dysphoria Protocol and service Guideline 2013/14"
     organisation: "NHS England"
     year: 2013
-    url: "https://www.england.nhs.uk/wp-content/uploads/2013/10/int-gend-proto.pdf"
+    url: "https://www.bathandnortheastsomersetccg.nhs.uk/assets/uploads/2019/08/NHS-England-Interim-Gender-Dysphoria-Protocol.pdf"
     tags: [Medical policies, England, 'National medical policies']
   -
     title: "Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria"
     organisation: "Royal College of Psychiatrists"
     year: 2013
-    url: "https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/college-report-cr181.pdf"
+    url: "https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf"
     tags: [Medical policies, 'National medical policies']
     archived: true
   -
@@ -235,17 +235,18 @@ publications:
     year: 2016
     url: "https://shsc.nhs.uk/wp-content/uploads/2014/04/GIS-FAQs.pdf"
     tags: [England]
+    archived: true
   -
-    title: "Guidelines for the safe prescribing of treatments used in gender dysphoria for Trans Women"
+    title: "Prescribing Guidelines - Trans Women"
     organisation: "Sheffield Gender Identity Clinic"
-    year: 2015
-    url: "https://shsc.nhs.uk/wp-content/uploads/2015/02/Trans-women-collaborative-care-protocol-v6.2.pdf"
+    year: 2019
+    url: "https://www.shsc.nhs.uk/sites/default/files/2019-12/V10-22-01-18-TG-SCP-Trans-woman-Sheffield-Logo.pdf"
     tags: [England, Medical policies, Hormones, 'Gender clinic publications']
   -
-    title: "Guidelines for the safe prescribing of treatments used in gender dysphoria for Trans Men"
+    title: "Prescribing Guidelines - Trans Men"
     organisation: "Sheffield Gender Identity Clinic"
-    year: 2015
-    url: "https://shsc.nhs.uk/wp-content/uploads/2015/02/Trans-men-collaborative-care-protocol-v6.2.pdf"
+    year: 2019
+    url: "https://www.shsc.nhs.uk/sites/default/files/2019-12/V12-22-01-18-TG-Trans-man-Sheffield-Logo.pdf"
     tags: [England, Medical policies, Hormones, 'Gender clinic publications']
   -
     title: "Falling through the cracks - Non-binary people’s experiences of transition related healthcare"
@@ -259,6 +260,7 @@ publications:
     year: 2015
     url: "http://genderjam.lgbt/wp-content/uploads/2015/09/TYSHGuide.pdf"
     tags: [Sex, Northern Ireland]
+    archived: true
   -
     title: "Domestic Violence - a Resource for Trans People"
     organisation: "NHS Barking and Dagenham"
@@ -385,9 +387,8 @@ publications:
     title: "Guide to UK Legal Gender Recognition"
     organisation: "UK Trans Info"
     year: 2015
-    url: "http://uktransinfo.eu/graguide.pdf"
+    url: "https://mermaidsuk.org.uk/wp-content/uploads/2019/12/gender-recognition-guide.pdf"
     tags: [Legal, 'Gender recognition']
-    archived: true
   -
     title: "Change of name"
     organisation: "The Nottingham Centre for Transgender Health"
@@ -635,12 +636,14 @@ publications:
     year: 2019
     url: 'http://www.screeningforlife.wales.nhs.uk/sitesplus/documents/1129/Trans%20screening%20v3%20-%20no%20lines.pdf'
     tags: [Health]   
+    archived: true
   -
     title: 'So, someone you know is Transgender? Q&A for Family, Friends and Colleagues of Gender Variant Individuals'
     organisation: 'The Clare Project'
     year: 2013
     url: 'http://www.clareproject.org.uk/home/support/support-resources/TG%20Information%20Booklet%20-%20v2.45.pdf?attredirects=0&d=1'
     tags: [Family] 
+    archived: true
   -
     title: "The General Guide for all Users - Gender Recognition Act 2004"
     organisation: "HM Courts and Tribunals Service"
@@ -695,6 +698,7 @@ publications:
     year: 2017
     url: "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/623309/Transgender_cross_programme_screening_leaflet.pdf"
     tags: [Medical policies, Health]
+    archived: true
   -
     title: "Protest key information: Being trans & protesting"
     organisation: "Green and Black Cross"
@@ -728,8 +732,8 @@ publications:
   -
     title: "Trans* Inclusion Schools Toolkit - Supporting trans, non-binary and gender questioning children and young people in Brighton and Hove educational settings"
     organisation: "Brighton and Hove City Council"
-    year: 2018
-    url: "https://www.mermaidsuk.org.uk/assets/media/AllsortsYouthProject%20-%20Trans%20Inclusion%20Schools%20Toolkit%20Sept%2018.pdf"
+    year: 2019
+    url: "https://uploads-ssl.webflow.com/5888a640d61795123f8192db/5c0ff2e6f554ac6a3f017600_Trans_Inclusion_Schools_Toolkit_Version_3.3_Jan2019.pdf"
     tags: [England, Education, Local school policies]
   -
     title: "Transgender Guidance for Wrexham Schools"
@@ -949,6 +953,7 @@ publications:
     year: 2015
     url: "http://www.swimming.org/library/documents/222/download"
     tags: [Sport]
+    archived: true
   -
     title: "Guidelines for Supporting Trans Staff and Patients"
     organisation: "NHS Brighton and Sussex University Hospitals NHS Trust"
@@ -1059,8 +1064,8 @@ publications:
   -
     title: "Gender, Sexual, and Relationship Diversity (GSRD) - Good Practice across the Counselling Professions"
     organisation: "British Association for Counselling and Psychotherapy"
-    year: 2017
-    url: "https://www.bacp.co.uk/media/2334/bacp-gender-sexual-relationship-diversity-gpacp001.pdf"
+    year: 2019
+    url: "https://www.bacp.co.uk/media/5877/bacp-gender-sexual-relationship-diversity-gpacp001-april19.pdf"
     tags: [Medical policies, Therapy]
   -
     title: "Supporting Transgender Young People - Guidance for Schools in Scotland"
@@ -1128,7 +1133,7 @@ publications:
     title: "Policy and Procedures on Transgender People in Athletics Competitions"
     organisation: "United Kingdom Athletics"
     year: 2019
-    url: "http://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=170742&type=Full&servicetype=Attachment"
+    url: "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=169662&type=full&servicetype=Attachment"
     tags: [Sport]
   -
     title: "Transgender Guidance for Ceredigion Schools"
@@ -1338,7 +1343,7 @@ publications:
     title: "Leading Trans Equality: A Toolkit for Colleges"
     organisation: "Lancaster University Centre for Excellence in Leadership"
     year: 2008
-    url: "https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/lsis/r14.pdf"
+    url: "https://lancslgbt.org.uk/web/wp-content/uploads/2013/03/Trans-FE-colleges.pdf"
     tags: [Education, National school guidance]
   -
     title: "Gender Variance in the UK: Prevalence, Incidence, Growth and Geographic Distribution"
@@ -1466,6 +1471,7 @@ publications:
     year: 2015
     url: "https://www.mermaidsuk.org.uk/assets/media/quiltbag.pdf"
     tags: ['Employment', 'Emergency services'] 
+    archived: true
   -
     title: "Transgender - A Practical Guide"
     organisation: "South Wales Fire and Rescue Service"
@@ -1488,7 +1494,7 @@ publications:
     title: "Trans Matters: Guidance for Staff and Students"
     organisation: "King's College London"
     year: 2017
-    url: "https://www.kcl.ac.uk/governancezone/Assets/GovernanceLegal/Trans-Equality-Guidance.pdf"
+    url: "https://www.kcl.ac.uk/hr/diversity/guidance-and-resources/Trans-Equality-Guidance.pdf"
     tags: ['Education', 'University policies']
   -
     title: "Policy on Trans Staff and Students"
@@ -1690,7 +1696,7 @@ publications:
     title: "Supporting trans workers - a guide for trade unionists"
     organisation: "STUC"
     year: 2015
-    url: "http://www.stuc.org.uk/files/LGBT/webpage/A%20Guide%20for%20Trade%20Unions%20on%20Trans%20Equality%2007052015.pdf"
+    url: "http://www.stuc.org.uk/files/Reps%20resources/Equalityresources/Trade_Unions_Guide_on_Trans_Equality_2015.pdf"
     tags: [Employment, 'National union guidance']
   -
     title: "GMB Transgender Equality Toolkit"
@@ -1715,7 +1721,7 @@ publications:
     title: "Policy On Trans Competitors"
     organisation: "British Swimming"
     year: 2015
-    url: "http://www.swimwales.org/key-documents/84/download"
+    url: "https://www.britishswimming.org/documents/1303/BS_Policy_TC_Apr15-.pdf"
     tags: ['Sport']
   -
     title: "Trans staff and students in HE and colleges: improving experiences"
@@ -1738,8 +1744,14 @@ publications:
   -
     title: "Supporting Transgender Staff Policy"
     organisation: "NHS Wales Hywel Dda University Health Board"
-    year: 2018
-    url: "http://www.wales.nhs.uk/sitesplus/documents/862/350-Supportingtransgenderstaffpolicy-V3.pdf"
+    year: 2019
+    url: "http://www.wales.nhs.uk/sitesplus/documents/862/350-Supportingtransgenderstaffpolicy-v4.pdf"
+    tags: ['Medical policies', 'Local medical employment policies']
+  -
+    title: "Supporting Transgender Staff Procedure"
+    organisation: "NHS Wales Cardiff and Vale University Health Board"
+    year: 2019
+    url: "http://www.cardiffandvaleuhb.wales.nhs.uk/sitesplus/documents/1143/Supporting%20Trans%20Staff%20Procedure%20%20June%202019.pdf"
     tags: ['Medical policies', 'Local medical employment policies']
   -
     title: "Guidance on Supporting and Advising Transgender Students"
@@ -1989,6 +2001,7 @@ publications:
     year: 2017
     url: "https://www.kcl.ac.uk/hr/diversity/Trans-Full-Report.pdf"
     tags: [Studies]
+    archived: true
   -
     title: "Supporting trans women in domestic and sexual violence services"
     organisation: "Stonewall"
@@ -2068,6 +2081,7 @@ publications:
     year: 2019
     url: "https://schools.leicester.gov.uk/media/4142/trans-inclusion-toolkit-for-schools.pdf"
     tags: [Education, Local school policies]
+    archived: true
   -
     title: "Safer Sex and Our Health"
     organisation: "LGBT Foundation"
@@ -2106,6 +2120,12 @@ publications:
     year: 2018
     url: "https://britishweightlifting.org/resources/bwl---transgender-and-transsexual-policy.pdf"
     tags: [Sport] 
+  -
+    title: "Information for trans and non-binary people - NHS Screening Programmes"
+    organisation: "Public Health England"
+    year: 2019
+    url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/834656/Screening_for_trans_and_non-binary_people_Sept_2019.pdf"
+    tags: [Health] 
 
   # -
   #   title: ""

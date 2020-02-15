@@ -10,7 +10,7 @@ attention-text: "You can find information about what to do to get help on [the N
 
 [Mindline Trans+](https://bristolmind.org.uk/help-and-counselling/mindline-transplus/) provide a helpline for people across the UK for anyone regardless of their gender, run by the mental health charity Mind.
 
-[Mermaids](http://www.mermaidsuk.org.uk/helpline-support.html) provide a helpline and email support for transgender youth.
+[Mermaids](https://mermaidsuk.org.uk/contact-us/) provide a helpline and email support for transgender youth.
 
 If you are finding you are struggling with mental health issues, make an appointment to see your GP as they will be able to arrange for treatments like talking therapies or medication. If you're worried about killing yourself, please [click here right now to find out what to do to get help](https://www.nhs.uk/conditions/suicide/).
 

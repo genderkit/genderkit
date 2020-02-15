@@ -93,8 +93,8 @@ Where possible, use UK specific sources - e.g. prefer NHS guidelines over WPATH 
 The following are sources that are most reliable - use these wherever possible in preference to other sources:
 
 - medicines.org.uk - PILs of medications - provide a link to medicines.org.uk and a date accessed if possible
-- [RCPsych CR181 Good Practice Guidelines](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/college-report-cr181.pdf)
-- [Interim Gender Dysphoria Protocol and Service Guideline 2013-2014](https://www.england.nhs.uk/wp-content/uploads/2013/10/int-gend-proto.pdf)
+- [RCPsych CR181 Good Practice Guidelines](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf)
+- [Interim Gender Dysphoria Protocol and Service Guideline 2013-2014](https://www.bathandnortheastsomersetccg.nhs.uk/assets/uploads/2019/08/NHS-England-Interim-Gender-Dysphoria-Protocol.pdf)
 - [Scottish Gender Reassignment Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf) and the [Interim update](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2015/07/Gender-Reassignment-Interim-Guidance-2.pdf)
 - [The Transgender Handbook](https://books.google.co.uk/books?id=ty3fAQAACAAJ)
 - [Barrett et al. Transsexual and Other Disorders of Gender Identity](https://books.google.co.uk/books/about/Transsexual_and_Other_Disorders_of_Gende.html?id=I-8qZlGIpnQC) - fallax has a print copy of this
