@@ -635,7 +635,7 @@ publications:
     title: 'Breast Cervical AAA Bowel Screening Information for Transgender Service Users'
     organisation: 'Public Health Wales'
     year: 2019
-    url: 'http://www.screeningforlife.wales.nhs.uk/sitesplus/documents/1129/Trans%20screening%20v3%20-%20no%20lines.pdf'
+    url: 'https://phw.nhs.wales/services-and-teams/cervical-screening-wales/information-resources/information-leaflets-poster-downloads-and-accessible-information/screening-information-for-transgender-service-users/'
     tags: [Health]   
     archived: true
   -
@@ -1129,13 +1129,13 @@ publications:
     title: "Transgender Policy - Guidance for Athletics Clubs and Competition Providers"
     organisation: "United Kingdom Athletics"
     year: 2016
-    url: "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=146122&type=full&servicetype=Attachment"
+    url: "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=146122"
     tags: [Sport]
   -
     title: "Policy and Procedures on Transgender People in Athletics Competitions"
     organisation: "United Kingdom Athletics"
     year: 2019
-    url: "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=169662&type=full&servicetype=Attachment"
+    url: "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=169662"
     tags: [Sport]
   -
     title: "Transgender Guidance for Ceredigion Schools"
@@ -1333,13 +1333,13 @@ publications:
     title: "Supporting trans employees in the workplace"
     organisation: "ACAS"
     year: 2017
-    url: "https://www.acas.org.uk/media/4908/Supporting-trans-employees-in-the-workplace/pdf/Supporting-trans-employees-in-the-workplace.pdf"
+    url: "https://archive.acas.org.uk/media/4908/Supporting-trans-employees-in-the-workplace/pdf/Supporting-trans-employees-in-the-workplace.pdf"
     tags: [Employment, 'National employment guidance']
   -
     title: "Gender reassignment discrimination: key points for the workplace"
     organisation: "ACAS"
     year: 2017
-    url: "https://www.acas.org.uk/media/4912/Gender-reassignment-discrimination-key-points-for-the-workplace/pdf/Gender_reassignment_discrimination_Nov.pdf"
+    url: "https://archive.acas.org.uk/media/4912/Gender-reassignment-discrimination-key-points-for-the-workplace/pdf/Gender_reassignment_discrimination_Nov.pdf"
     tags: [Employment, 'National employment guidance']
   -
     title: "Trans Pregnancy Law and Policy Review - United Kingdom"
@@ -1620,6 +1620,7 @@ publications:
     year: 2016
     url: "https://www.bucs.org.uk/core/core_picker/download.asp?id=31233"
     tags: ['Sport']
+    archived: true
   -
     title: "Gender Dysphoria - Supporting information for GPs"
     organisation: "NHS Greater Manchester Medicines Management Group"
