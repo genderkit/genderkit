@@ -26,3 +26,7 @@ There is detailed information about gamete storage and fertility treatments for 
 Gamete storage for transgender people is not routinely available on the NHS.
 
 The Human Fertilisations and Embryology Authority have details of [costs and funding of gamete collection and storage](https://www.hfea.gov.uk/treatments/explore-all-treatments/costs-and-funding/), including options that may help you reduce costs such as egg sharing and treatment abroad. You also can use [their search tool](https://www.hfea.gov.uk/choose-a-clinic/clinic-search/) to find a clinic that will help you.
+
+### References
+
+{% bibliography --cited %}  

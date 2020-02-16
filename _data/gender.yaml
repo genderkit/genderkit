@@ -375,7 +375,7 @@ activities:
   - name: Binding
     summary: Using a binder to reduce the apparent size of breasts
     warning: "Binding can be dangerous unless done properly. Always use a proper binder, rather than bandages or tape, or you risk permanent injury. Always make sure you can breathe properly. TODO: How long can you bind for?"
-    cost: "Binders typically cost £25-50. If you are unable to afford this, you may also be able to use the MORF Binder Scheme (http://morfmanchester.blogspot.co.uk/p/binder-scheme.html), in Northern Ireland the Northern Ireland Binder Scheme (https://genderjam.org.uk/transresources/binders/), or in Wales the Trans*Form Cymru Binder Bank (http://youthcymru.org.uk/transform-cymru/binder-bank/) to obtain one. You may also be able to find other people in your area who are willing to donate a binder they no longer use."
+    cost: "Binders typically cost £25-50. If you are unable to afford this, you may also be able to use the MORF Binder Scheme (http://morfmanchester.blogspot.co.uk/p/binder-scheme.html) or in Wales the Trans*Form Cymru Binder Bank (http://youthcymru.org.uk/transform-cymru/binder-bank/) to obtain one. You may also be able to find other people in your area who are willing to donate a binder they no longer use."
     categories: [chest] 
   - name: Padded bra
     summary: Using a padded bra to increase the apparent size of breasts

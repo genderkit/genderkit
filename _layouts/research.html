@@ -11,8 +11,8 @@ layout: page
       <div class="grouping">
         <h3>{{ year.name | xml_escape }}</h3>
         <ul class="details" id="publications">
-        {% assign sortedPublications = year.items | sort: 'title' %}
-        {% for item in sortedPublications %}
+        {% assign sortedPublications = year.items | where_exp:"item", "item.archived != true" | sort: 'title' %}
+        {% for item in sortedPublications  %}
           {% assign cssclasses = "" %}
           {% for category in item.tags %}
                 {% assign cssclass = "category " | append: category | slugify %}
