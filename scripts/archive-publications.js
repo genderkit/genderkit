@@ -6,13 +6,15 @@ var exec = require('child_process').execSync;
 
 var database = {};
 
+var myArgs = process.argv.slice(2);
+
 fs.readFile('/vagrant/git/genderkit/_data/publications.yaml', 'utf8', function (err,filedata) {
 	database = yaml.parse(filedata);
 
 	console.log("Loaded data.");
 	
     var now = (new Date());
-    var folder = "./" + format.asString("yyyy-MM-dd", now) + "/";
+    var folder = myArgs.length > 0 && myArgs[0] ? myArgs[0] : "./" + format.asString("yyyy-MM-dd", now) + "/";
 
     exec('rm -rf ' + folder + "", (err, stdout, stderr) => {
             
@@ -56,7 +58,7 @@ fs.readFile('/vagrant/git/genderkit/_data/publications.yaml', 'utf8', function (
         var useragent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0\"";
 
         var filename = slug(pub.organisation, " ") + " - " + slug(pub.title, " ") + ".pdf";
-    	exec('wget --header=\"Accept: */*\" --user-agent=\"' + useragent + ' -O \"' + folder + filename + '\" \"' + pub.url + '\"', (err, stdout, stderr) => {
+    	exec('wget --no-check-certificate --header=\"Accept: */*\" --user-agent=\"' + useragent + ' -O \"' + folder + filename + '\" \"' + pub.url + '\"', (err, stdout, stderr) => {
         //exec('lynx -source \"' + pub.url + '\" > \"' + folder + filename + "\"", (err, stdout, stderr) => {
     	  
           if (err) {
