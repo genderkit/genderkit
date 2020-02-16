@@ -14,10 +14,16 @@ task :checklinksinternal => :jekyll do
     :disable_external => true,
     :empty_alt_ignore => true,
     :alt_ignore => [ /.*/ ],
+    :url_ignore => [ "https://github.com//issues", "https://www.uka.org.uk/EasysiteWeb/getresource.axd?AssetID=169662" ],
     :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
     :url_swap => {
       /https?\:\/\/genderkit\.github\.io\/genderkit\// => "/",
       /\/?genderkit\// => "/"
+    },
+    :typhoeus => {
+      :ssl_verifypeer => false,
+      :ssl_verifyhost => 0,
+      :timeout => 60
     }
   }
   HTMLProofer.check_directory("./_site", options).run
@@ -31,11 +37,16 @@ task :checklinks => :jekyll do
     :empty_alt_ignore => true,
     :alt_ignore => [ /.*/ ],
     :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
+    :url_ignore => [ "https://github.com//issues" ],
     :url_swap => {
       /https?\:\/\/genderkit\.github\.io\/genderkit\// => "/",
       /\/?genderkit\// => "/"
     },
-    :internal_domains => [ "genderkit.github.io", "127.0.0.1", "genderkit.org.uk" ],
+    :typhoeus => {
+      :ssl_verifypeer => false,
+      :ssl_verifyhost => 0,
+      :timeout => 60
+    }
   }
   HTMLProofer.check_directory("./_site", options).run
 end
