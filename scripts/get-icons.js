@@ -14,19 +14,19 @@ fs.readFile('/vagrant/git/genderkit/_data/organisations.yaml', 'utf8', function 
 	
 	for (var i = 0; i < database.organisations.length; i++)
 	{
-		if (database.organisations[i].twitterIcon && database.organisations[i].twitterID)
+		if (database.organisations[i].twitterIcon && database.organisations[i].twitterID && !database.organisations[i].archived)
 		{
 			console.log("Downloading " + database.organisations[i].name + "(TwitterID:" + database.organisations[i].twitterID + ")");
-			download(database.organisations[i].twitterIcon)
+			download(database.organisations[i].twitterIcon, "organisation-icons/", {"filename": database.organisations[i].twitterID + ".jpg"})
 				.then(data => {
-					fs.writeFileSync("/vagrant/git/genderkit/assets/images/organisations/" + database.organisations[i].twitterID + ".jpg", data);
+					// nuffin yet
 				})
 				.catch((reason) => {
-					throw(reason);
+					throw(JSON.stringify(reason));
 				});
 		}
 
-		if (database.organisations[i].facebookIcon && database.organisations[i].facebookId)
+/* 		if (database.organisations[i].facebookIcon && database.organisations[i].facebookId)
 		{
 			console.log("Downloading " + database.organisations[i].name);
 			download(database.organisations[i].facebookIcon)
@@ -36,6 +36,6 @@ fs.readFile('/vagrant/git/genderkit/_data/organisations.yaml', 'utf8', function 
 				.catch((reason) => {
 					throw(reason);
 				});
-		}
+		} */
 	}
 });
