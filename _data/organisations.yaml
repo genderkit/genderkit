@@ -2601,6 +2601,6 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/1133564796547358720/XiXXtcpy_normal.jpg'
     -
         name: 'FTM Norfolk'
-        tags: ['East of England']
+        tags: ['East of England', 'Local groups']
         url: 'http://www.norfolklgbtproject.co.uk/services/ftm-norfolk/'
         facebook: FTMNorfolk
