@@ -1554,6 +1554,13 @@ publications:
     year: 2013
     url: "https://www.nottingham.ac.uk/hr/guidesandsupport/equalityanddiversitypolicies/documents/guidance-on-supporting-trans-staff.pdf"
     tags: ['Education', 'University policies']
+    archived: true
+  -
+    title: "Supporting Trans Staff"
+    organisation: "The University of Nottingham"
+    year: 2019
+    url: "https://www.nottingham.ac.uk/hr/guidesandsupport/equalityanddiversitypolicies/documents/supporting-transgender-staff.pdf"
+    tags: ['Education', 'University policies']
   -
     title: "UWE Bristol Trans policy"
     organisation: "UWE Bristol: University of the West of England"
@@ -2154,6 +2161,90 @@ publications:
     year: 2019
     url: "https://www.dpt.nhs.uk/download/R2Rmc14Pfa"
     tags: [England, Medical policies, Hormones, 'Gender clinic publications']
+  -
+    title: "PG12 Pharmacological Treatment of Gender Dysphoria"
+    organisation: "Devon Partnership NHS Trust"
+    year: 2019
+    url: "https://www.dpt.nhs.uk/download/R2Rmc14Pfa"
+    tags: [England, Medical policies, Hormones, 'Gender clinic publications']
+  -
+    title: "The role of the GP in caring for gender-questioning and transgender patients"
+    organisation: "Royal College of General Practitioners"
+    year: 2015
+    url: "https://www.rcgp.org.uk/-/media/Files/Policy/A-Z-policy/2019/RCGP-position-statement-providing-care-for-gender-transgender-patients-june-2019.ashx"
+    tags: [Medical policies, 'National medical guidance']
+  -
+    title: "Out for Sport - Tackling Transphobia in Sport"
+    organisation: "Equality Network"
+    year: 2012
+    url: "http://www.equality-network.org/wp-content/uploads/2013/03/Transgender-specific-companion-report.pdf"
+    tags: [Sport]
+  -
+    title: "Guidelines for psychologists working with gender, sexuality and relationship diversity"
+    organisation: "The British Psychological Society"
+    year: 2019
+    url: "https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/Guidelines%20for%20psychologists%20working%20with%20gender%2C%20sexuality%20and%20relationship%20diversity.pdf"
+    tags: [Medical policies, 'National medical policies']
+  -
+    title: "NHS Standard Contract for Gender Identity Development Service for Children and Adolescents - Service Specification"
+    organisation: "NHS England"
+    year: 2019
+    url: "https://www.england.nhs.uk/wp-content/uploads/2017/04/gender-development-service-children-adolescents.pdf"
+    tags: [England, Medical policies, Service specifications, Under 18s]
+  -
+    title: "Gender Identity Services for Adults - Surgical Interventions - Service Specifications"
+    organisation: "NHS England"
+    year: 2019
+    url: "https://www.england.nhs.uk/wp-content/uploads/2019/12/nhs-england-service-specification-gender-identity-surgical-services.pdf"
+    tags: [England, Medical policies, Service specifications, Surgery]
+  -
+    title: "Gender Identity Services for Adults - Non-surgical Interventions - Service Specifications"
+    organisation: "NHS England"
+    year: 2019
+    url: "https://www.england.nhs.uk/wp-content/uploads/2019/07/service-specification-gender-dysphoria-services-non-surgical-june-2019.pdf"
+    tags: [England, Medical policies, Service specifications, Hormones]
+  -
+    title: "Gender Identity Service for Adults - Service Specification CP182b"
+    organisation: "NHS Wales"
+    year: 2019
+    url: "http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182b%20Gender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Spec%20V1.0%20SEPT.pdf"
+    tags: [Wales, Medical policies, Service specifications]
+  -
+    title: "Transgender and Non-binary Patients - Supporting UHL Policy"
+    organisation: "University Hospitals of Leicester NHS Trust"
+    year: 2019
+    url: "http://www.library.leicestershospitals.nhs.uk/PAGL/Shared%20Documents/Transgender%20and%20Non%20Binary%20Patients%20%E2%80%93%20Supporting%20UHL%20Policy.pdf"
+    tags: ['Medical policies', 'Local medical policies']
+  -
+    title: "A Guide to Being A Trans Ally"
+    organisation: "LGBT Foundation"
+    year: 2019
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/139d38ec-f6ce-4722-8945-8058be7da427/trans%2520allies%2520brochure%2520v4_smallfile.pdf"
+    tags: []
+  -
+    title: "A Guide to Being A Trans Ally"
+    organisation: "LGBT Foundation"
+    year: 2019
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/139d38ec-f6ce-4722-8945-8058be7da427/trans%2520allies%2520brochure%2520v4_smallfile.pdf"
+    tags: []
+  -
+    title: "Experiences of health and care in Sheffield's trans community"
+    organisation: "Healthwatch Sheffield"
+    year: 2019
+    url: "https://www.healthwatchsheffield.co.uk/wp-content/uploads/2019/03/Trans-experiences-in-healthcare-FINAL-DIGITAL.pdf"
+    tags: [Studies, England]
+  -
+    title: "Guidance on supporting trans staff and students"
+    organisation: "University of Bristol"
+    year: 2018
+    url: "http://www.bristol.ac.uk/media-library/sites/equality/documents/TRANSGENDER%20GUIDANCE%20FOR%20STAFF%20AND%20STUDENT%20JAN%2019.pdf"
+    tags: [Education, University policies]
+  -
+    title: "Treatment for Gender Dysphoria in Transgender and Non-Binary Adolescents and Adult Patients"
+    organisation: "NHS East and North Hertfordshire CCG"
+    year: 2019
+    url: "https://www.enhertsccg.nhs.uk/sites/default/files/documents/Apr2019/Gender-Dysphoria-Paper-for-Upload-V2.pdf"
+    tags: ['Medical policies', 'Local medical policies']
   # -
   #   title: ""
   #   organisation: ""
