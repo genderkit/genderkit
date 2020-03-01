@@ -790,12 +790,6 @@ publications:
     tags: [Employment]
     archived: true
   -
-    title: "NHS Standard Contract for Gender Identity Development Service for Children and Adolescents"
-    organisation: "NHS England"
-    year: 2017
-    url: "https://www.england.nhs.uk/wp-content/uploads/2017/04/gender-development-service-children-adolescents.pdf"
-    tags: [Medical policies, Under 18s]
-  -
     title: "Trans Equality in Schools and Colleges - Advice and Guidance for Teachers and Leaders"
     organisation: "NASUWT - The Teacher's Union"
     year: 2016
@@ -1317,18 +1311,6 @@ publications:
     year: 2018
     url: "https://www.engage.england.nhs.uk/survey/gender-identity-services-for-adults/user_uploads/report-independent-analysis-consultation-responses-gender-identity-service-specifications.pdf"
     tags: [Studies, Medical policies]
-  -
-    title: "Gender Identity Services for Adults - Non-Surgical Interventions"
-    organisation: "NHS England"
-    year: 2019
-    url: "https://www.england.nhs.uk/wp-content/uploads/2019/07/service-specification-gender-dysphoria-services-non-surgical-june-2019.pdf"
-    tags: [Medical policies]
-  -
-    title: "Gender Identity Services for Adults - Surgical Interventions"
-    organisation: "NHS England"
-    year: 2019
-    url: "https://www.england.nhs.uk/wp-content/uploads/2019/12/nhs-england-service-specification-gender-identity-surgical-services.pdf"
-    tags: [Medical policies]
   -
     title: "Supporting trans employees in the workplace"
     organisation: "ACAS"
@@ -2186,7 +2168,7 @@ publications:
     url: "https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/Guidelines%20for%20psychologists%20working%20with%20gender%2C%20sexuality%20and%20relationship%20diversity.pdf"
     tags: [Medical policies, 'National medical policies']
   -
-    title: "NHS Standard Contract for Gender Identity Development Service for Children and Adolescents - Service Specification"
+    title: "Gender Identity Development Service for Children and Adolescents - Service Specification"
     organisation: "NHS England"
     year: 2019
     url: "https://www.england.nhs.uk/wp-content/uploads/2017/04/gender-development-service-children-adolescents.pdf"
