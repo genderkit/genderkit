@@ -8,7 +8,7 @@ description: Helpful information, publications, and organisations for trans, non
 
 You can find general information about moving to the UK on [the UK Government Visas and Immigration page](https://www.gov.uk/browse/visas-immigration). 
 
-If you are intending to claim *asylum* in the UK, you can find information about asylum from [Transgender Europe](https://tgeu.org/issues/asylum/), [Stonewall UK](https://www.stonewall.org.uk/help-advice/asylum), [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) (who also support trans and intersex people), and [the UK government](https://www.gov.uk/claim-asylum). Transgender Europe also have a [guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum.
+If you are intending to claim *asylum* in the UK, you can find information about asylum from [Transgender Europe](https://tgeu.org/issues/asylum/), [Stonewall UK](https://www.stonewall.org.uk/help-advice/asylum), [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) (who also support trans and intersex people), and [the UK government](https://www.gov.uk/claim-asylum). Transgender Europe also have a [guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum. Micro Rainbow provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact. 
 
 ### Accessing gender services in the UK
 

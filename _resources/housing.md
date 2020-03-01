@@ -16,4 +16,6 @@ Stonewall Housing have produced a useful guide for survivors: [Housing options f
 - [Shelter Scotland](http://scotland.shelter.org.uk/get_advice)
 - [Shelter Cymru](http://www.sheltercymru.org.uk/get-advice/) (Wales)
 
+**Micro Rainbow** provide support for housing LGBTI asylum seekers and refugees. They have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact. 
+
 [Simon Community NI](http://simoncommunity.org/) provide homelessness support throughout Northern Ireland and have a 24/7 helpline.
