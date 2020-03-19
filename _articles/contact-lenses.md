@@ -20,6 +20,6 @@ Contact lenses are available in several types:
 - *Toric lenses* are able to correct for astigmatism combined with myopia or hypermetropia. They are able to do this because they are designed to have a heavier edge which naturally rotates to the bottom of the eye. If the head is tilted, the lenses will no longer correct the astigmatism.
 - *Multifocal lenses* are able to correct for presbyopia (needing a different prescription for reading than the prescription required for distance vision) in a similar way to bifocal or multifocal glasses.
 
-A more permanent alternative to contact lenses for some people is [laser eye surgery]({{ site.baseurl }}{% link _articles/laser-eye-surgery.md %}).
+A more permanent alternative to contact lenses for some people is [laser eye surgery]({% link _articles/laser-eye-surgery.md %}).
 
 You can read more about how to use contact lenses safely at the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Contactlenssafety.aspx).

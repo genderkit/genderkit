@@ -10,7 +10,7 @@ You may be interested in losing body fat to reduce chest, hip or buttock size, t
 
 Weight loss can be confusing because there are many different types diets promoted by many different organisations. 
 
-While there are many diets that suggest changing the amount of carbohydrate ("carbs"), protein, or fat in your diet or cutting out certain foods, there currently isn't any clear medical evidence for any of these diets being better than just reducing calories {% cite sacks2009comparison %}. Given this, the current recommendations in the UK {% cite nice-obesity %} and elsewhere {% cite jensen20142013 %} are to reduce your calorie intake while ensuring you are doing regular [exercise]({{ site.baseurl }}{% link _articles/exercise.md %}).
+While there are many diets that suggest changing the amount of carbohydrate ("carbs"), protein, or fat in your diet or cutting out certain foods, there currently isn't any clear medical evidence for any of these diets being better than just reducing calories {% cite sacks2009comparison %}. Given this, the current recommendations in the UK {% cite nice-obesity %} and elsewhere {% cite jensen20142013 %} are to reduce your calorie intake while ensuring you are doing regular [exercise]({% link _articles/exercise.md %}).
 
 Do not attempt to radically reduce calories by eating extremely small amounts unless you have been told to do so by a doctor.
 

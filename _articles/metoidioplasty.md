@@ -11,7 +11,7 @@ Metoidioplasty is a complex surgical procedure with significant risks that you m
 {% endcapture %}
 {% include warning warning=warn %}
 
-An alternative to metoidioplasty is [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring.
+An alternative to metoidioplasty is [phalloplasty]({% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring.
 
 In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This "releases" the clitoris, adding 2-4cm in length and allows the clitoris to point upwards {% cite christopher2017 -l 296 %}.
 
@@ -19,23 +19,23 @@ At this point, urethroplasty (construction of an extension of the urethra) is of
 
 In combination with metoidioplasty, you can optionally also have testicular implants added {% cite christopher2017 -l 297 %}.
 
-Metoidioplasty first requires taking [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occurred (usually after 1-2 years into taking testosterone), metoidioplasty can be carried out {% cite frey2017update -l 732 %}. 
+Metoidioplasty first requires taking [testosterone]({% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occurred (usually after 1-2 years into taking testosterone), metoidioplasty can be carried out {% cite frey2017update -l 732 %}. 
 
-Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({{ site.baseurl }}{% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({{ site.baseurl }}{% link _articles/vaginectomy.md %}), or [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
+Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({% link _articles/vaginectomy.md %}), or [hysterectomy]({% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
 
-For some people, metoidioplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
+For some people, metoidioplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Costs and funding
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for metoidioplasty or [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}).
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for metoidioplasty or [phalloplasty]({% link _articles/phalloplasty.md %}).
 
-The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
+The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}).
 
 In order to be accepted for a metoidioplasty, you will normally need to meet the following conditions:
 

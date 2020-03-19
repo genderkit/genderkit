@@ -10,4 +10,4 @@ description: UK-specific publications about trans, nonbinary, and gender non-con
 
 ### Legal information
 
-We also have a separate page with [information about legal issues]({{ site.baseurl }}{% link _resources/legal.md %}).
+We also have a separate page with [information about legal issues]({% link _resources/legal.md %}).

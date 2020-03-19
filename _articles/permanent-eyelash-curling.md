@@ -9,4 +9,4 @@ There are currently no national standards for beauty salons, and anyone can lega
 
 You can search for salons on the [British Association of Beauty Therapy & Cosmetology (BABTAC) database](https://www.babtac.com/salons), or look whether the salon advertises membership of professional organisations such as the [Health and Beauty Industry Authority](https://www.habia.org/) or the [British Association of Cosmetic Nurses](https://www.bacn.org.uk/).
 
-More temporary alternatives to permanent eyelash curling are using an [eyelash curler]({{ site.baseurl }}{% link _articles/eyelash-curling.md %}) or curled [false eyelashes]({{ site.baseurl }}{% link _articles/false-eyelashes.md %}).
+More temporary alternatives to permanent eyelash curling are using an [eyelash curler]({% link _articles/eyelash-curling.md %}) or curled [false eyelashes]({% link _articles/false-eyelashes.md %}).

@@ -12,7 +12,7 @@ description: UK-specific information for universities about supporting trans, no
 
 ### Supporting staff
 
-We have a separate page of [information for employers]({{ site.baseurl }}{% link _resources/employers.md %}) that gives advice on supporting your staff.
+We have a separate page of [information for employers]({% link _resources/employers.md %}) that gives advice on supporting your staff.
 
 ### Books
 

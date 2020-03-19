@@ -8,7 +8,7 @@ Silicone filler injections are extremely dangerous and can result in permanent d
 {% endcapture %}
 {% include warning warning=warn %}
 
-Silicone injections are different from modern [breast augmentation]({{ site.baseurl }}{% link _articles/breast-augmentation.md %}), which is significantly safer.
+Silicone injections are different from modern [breast augmentation]({% link _articles/breast-augmentation.md %}), which is significantly safer.
 
 ### References
 

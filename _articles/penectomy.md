@@ -6,21 +6,21 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
-Penectomy is surgical removal of the penis. This does not include removal of the testes (testicles), which are removed by an [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}).
+Penectomy is surgical removal of the penis. This does not include removal of the testes (testicles), which are removed by an [orchidectomy]({% link _articles/orchidectomy.md %}).
 
-A penectomy completely destroys the penis. After a penectomy has been carried out, [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) requires using non-standard techniques as there is no penile skin available, increasing risks and reducing the quality of the result. 
+A penectomy completely destroys the penis. After a penectomy has been carried out, [vaginoplasty]({% link _articles/vaginoplasty.md %}) requires using non-standard techniques as there is no penile skin available, increasing risks and reducing the quality of the result. 
 
-If you wish to have new genitals created, the vulva (external part of the female genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are often carried out together with [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) (creation of the internal canal).
+If you wish to have new genitals created, the vulva (external part of the female genitalia) is created by [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}). These operations are often carried out together with [vaginoplasty]({% link _articles/vaginoplasty.md %}) (creation of the internal canal).
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Costs and funding
 
-A operation in the UK to perform penectomy along with [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
+A operation in the UK to perform penectomy along with [orchidectomy]({% link _articles/orchidectomy.md %}), [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for penectomy and [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and optionally [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for penectomy and [labiaplasty]({% link _articles/labiaplasty.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and optionally [vaginoplasty]({% link _articles/vaginoplasty.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment

@@ -13,7 +13,7 @@ Not all breast tissue is removed in mastectomy, and it does not remove the risk 
 
 In a mastectomy, the breast tissue is removed, and usually the nipples are made smaller and repositioned.
 
-Typically, mastectomy is performed using the [double incision mastectomy]({{ site.baseurl }}{% link _articles/double-incision-mastectomy.md %}) technique in the UK. Around 7% of people have little enough breast tissue and good skin elasticity for periareolar mastectomy to be recommended instead {% cite yelland2017 -l 261 %}, which can result in less visible scarring {% cite davies2:2007 -l 227 %}. Other techniques are possible, such as buttonhole or inverted T (also known as T-anchor), but are much less common in the UK.
+Typically, mastectomy is performed using the [double incision mastectomy]({% link _articles/double-incision-mastectomy.md %}) technique in the UK. Around 7% of people have little enough breast tissue and good skin elasticity for periareolar mastectomy to be recommended instead {% cite yelland2017 -l 261 %}, which can result in less visible scarring {% cite davies2:2007 -l 227 %}. Other techniques are possible, such as buttonhole or inverted T (also known as T-anchor), but are much less common in the UK.
 
 Unlike double incision mastectomy, periareolar mastectomy results in significantly less visible scarring, but may also cause over-reduction of the breast leaving a depression or dip in the chest. Repositioning of nipples cannot be carried out during periareolar mastectomy without leaving very conspicuous scarring, unlike double incision mastectomy {% cite davies2:2007 -l 227 %}.
 
@@ -27,11 +27,11 @@ You can also read more about chest surgeries on the [Manchester Chest Wall Conto
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Cost and funding
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr181 %}.
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr181 %}.
 
 ### References
 

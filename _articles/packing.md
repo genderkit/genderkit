@@ -11,7 +11,7 @@ Packing provides an easy way to make it look like you have a penis.
 Multiple different kinds of packers are available, including:
 
 - *DIY packers:* using home made packers such as rolled up socks, or condoms filled with hair gel or "gak".
-- *packers with built in STP:* these packers are designed with a built in funnel and tube that allows you to urinate out of them while standing ("standing to pee"). You can also buy devices to do this which are not used for packing, normally called [STP devices]({{ site.baseurl }}{% link _articles/stp-devices.md %}).
+- *packers with built in STP:* these packers are designed with a built in funnel and tube that allows you to urinate out of them while standing ("standing to pee"). You can also buy devices to do this which are not used for packing, normally called [STP devices]({% link _articles/stp-devices.md %}).
 - *prosthetic packers:* these attach to your body using surgical glue so that they stay in place even when underwear is removed. More expensive models may be highly realistic and airbrushed to give a natural variation in colour.
 - *packers designed for use in penetrative sex:* packers which contain a bendable rod or which can be inflated.
 
@@ -29,4 +29,4 @@ If you are using a packer as part of sex, be aware that it may transfer sexually
 
 UK retailers of packers and harnesses are [Lovehoney](https://www.lovehoney.co.uk) and [Uberkinky](http://www.uberkinky.co.uk), who both advertise options for "discreet packaging". Outside the UK, specialist manufacturers of higher quality packers include [Transthetics](https://transthetics.com/).
 
-If you find that you are still unhappy when packing, there are more risky and permanent surgical options of [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}).
+If you find that you are still unhappy when packing, there are more risky and permanent surgical options of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}).

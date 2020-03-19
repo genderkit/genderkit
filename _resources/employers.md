@@ -8,7 +8,7 @@ description: UK-specific information about supporting trans, nonbinary, and gend
 
 {% include publications-grouped tag="National employment guidance" %}
 
-We also have a separate page with information published by [unions]({{ site.baseurl }}{% link _resources/unions.md %}) which may provide helpful guidance.
+We also have a separate page with information published by [unions]({% link _resources/unions.md %}) which may provide helpful guidance.
 
 ### Books
 
@@ -34,7 +34,7 @@ We also have a separate page with information published by [unions]({{ site.base
 
 {% include publications tag="Local medical employment policies" %}
 
-We also have a separate page with [information for clinicians]({{ site.baseurl }}{% link _resources/clinicians.md %}).
+We also have a separate page with [information for clinicians]({% link _resources/clinicians.md %}).
 
 ### Education
 
@@ -44,7 +44,7 @@ We also have a separate page with [information for clinicians]({{ site.baseurl }
 
 The National Education Union have created a [Trans educators toolkit webpage](https://neu.org.uk/advice/trans-educators-toolkit) with information for education staff on transitioning in school or college.
 
-We also have separate pages of [information for schools]({{ site.baseurl }}{% link _resources/schools.md %}) and [information for universities]({{ site.baseurl }}{% link _resources/universities.md %}).
+We also have separate pages of [information for schools]({% link _resources/schools.md %}) and [information for universities]({% link _resources/universities.md %}).
 
 ### Employee support networks
 

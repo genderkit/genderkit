@@ -6,7 +6,7 @@ feature:
   caption: "A photograph of a pile of pills"
 ---
 
-Alternatives to sildenafil include [tadalafil]({{ site.baseurl }}{% link _articles/tadalafil.md %}) and [vardenafil]({{ site.baseurl }}{% link _articles/vardenafil.md %}).
+Alternatives to sildenafil include [tadalafil]({% link _articles/tadalafil.md %}) and [vardenafil]({% link _articles/vardenafil.md %}).
 
 While tadalafil does have a longer lasting action than sildenafil and vardenfil, there is no evidence that any of the treatments is more effective than the others {% cite hatzimouratidis2005comparative %}.
 

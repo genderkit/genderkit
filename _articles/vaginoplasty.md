@@ -13,9 +13,9 @@ After vaginoplasty, you must regularly use  dilators for the rest of your life t
 
 Vaginoplasty involves surgically constructing a neovagina (artificially created vagina), normally out of tissue taken from the penis and/or scrotum. The penis is completely destroyed in the process.
 
-Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}). These operations are usually carried out together with vaginoplasty, but some people opt to avoid vaginoplasty because they do not want a vagina or to reduce the risk of complications, reduce recovery time, or avoid the need to dilate {% cite selvaggi2017 -l 268 %}.
+Vaginoplasty only creates the vaginal canal (the internal tube). The vulva (external part of the genitalia) is created by [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}). These operations are usually carried out together with vaginoplasty, but some people opt to avoid vaginoplasty because they do not want a vagina or to reduce the risk of complications, reduce recovery time, or avoid the need to dilate {% cite selvaggi2017 -l 268 %}.
 
-If tissue from the scrotum is to be used in the construction of the vagina, or if there is hair on the penile skin, hair removal using [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}) will be required before you can have surgery. This may take up to a year to complete {% cite selvaggi2017 -l 269 %}.
+If tissue from the scrotum is to be used in the construction of the vagina, or if there is hair on the penile skin, hair removal using [electrolysis]({% link _articles/electrolysis.md %}) will be required before you can have surgery. This may take up to a year to complete {% cite selvaggi2017 -l 269 %}.
 
 After vaginoplasty, you will be required to **dilate** by inserting cylinders called dilators into the vagina for the rest of your life. The recommendations for how often to dilate vary between surgeons. An example schedule would be to start at 2-3 times a day and gradually reduce in frequency to twice a week. Dilation can be time consuming and painful, but is essential to maintain the length and breadth of the vagina {% cite selvaggi2017 -l 272 %}.
 
@@ -29,17 +29,17 @@ UK surgeons will normally expect that your BMI is below 30 before carrying out v
 
 Vaginoplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
 
-For some people, vaginoplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
+For some people, vaginoplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Cost and funding
 
-A operation in the UK to perform vaginoplasty along with [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
+A operation in the UK to perform vaginoplasty along with [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for vaginoplasty and [penectomy]({{ site.baseurl }}{% link _articles/penectomy.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for vaginoplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({% link _articles/labiaplasty.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment
@@ -51,7 +51,7 @@ or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
 congruent with the gender identity {% cite cr181 %}.
 
-The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
+The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
 
 ### References
 

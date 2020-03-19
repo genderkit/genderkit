@@ -8,7 +8,7 @@ feature:
 
 Clitoroplasty involves surgically constructing a neoclitoris (artificially created clitoris), normally out of tissue taken from the dorsal (top) side of the glans penis (head of the penis). This organ is able to provide sexual sensation and in many cases the ability to orgasm. The penis is completely destroyed in the process of creating the clitoris.
 
-Clitoroplasty only creates the clitoris (the small organ that acts as a focus of sexual sensation). The rest of the vulva (external part of the genitalia) is created by [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}), and the internal vaginal canal by [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}). These operations are usually carried out together, though some people choose not to have a vaginoplasty.
+Clitoroplasty only creates the clitoris (the small organ that acts as a focus of sexual sensation). The rest of the vulva (external part of the genitalia) is created by [labiaplasty]({% link _articles/labiaplasty.md %}), and the internal vaginal canal by [vaginoplasty]({% link _articles/vaginoplasty.md %}). These operations are usually carried out together, though some people choose not to have a vaginoplasty.
 
 The most common technique for clitoroplasty is to use a small triangular piece of the dorsum (top side) of the glans penis, near to the corona (raised ring at the base of the glans). This is moved to the new position along with the neurovascular bundle (connecting tube of nerves and blood vessels) to supply it that would originally have run down the top edge of the penis.
 
@@ -22,13 +22,13 @@ A more dramatic complication is for the blood supply to the clitoris not to surv
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Cost and funding
 
-A operation in the UK to perform [labiaplasty]({{ site.baseurl }}{% link _articles/labiaplasty.md %}) and [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) costs around £11-12000.
+A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({{ site.baseurl }}{% link _articles/penectomy.md %}), [orchidectomy]({{ site.baseurl }}{% link _articles/orchidectomy.md %}), [clitoroplasty]({{ site.baseurl }}{% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment

@@ -9,4 +9,4 @@ Someone who uses the clothes or presentation of a different gender. The act of d
 
 Crossdresser is sometimes abbreviated to "CD".
 
-Crossdressers are different to [drag queens]({{ site.baseurl }}{% link _words/drag-queen.md %}) and [drag kings]({{ site.baseurl }}{% link _words/drag-king.md %}), who wear these clothes as a performance.
+Crossdressers are different to [drag queens]({% link _words/drag-queen.md %}) and [drag kings]({% link _words/drag-king.md %}), who wear these clothes as a performance.

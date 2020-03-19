@@ -15,7 +15,7 @@ You can change your name, title, or gender with the NHS at any time you like by 
 
 The NHS has multiple different systems that store details about patients. Most of these will be automatically updated when you tell your GP surgery. 
 
-Each system is different and able to hold different information about [titles]({{ site.baseurl }}{% link _explore/titles.md %}) (or lack of title) and about the gender of the patient. In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded.
+Each system is different and able to hold different information about [titles]({% link _explore/titles.md %}) (or lack of title) and about the gender of the patient. In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded.
 
 Usually, when you change your gender marker, you are also assigned a new [NHS number](
 http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). In England, information for GP surgeries on how to arrange for this is on [the PCSE website](https://pcse.england.nhs.uk/services/registrations/) (see the FAQs section).

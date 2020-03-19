@@ -6,7 +6,7 @@ feature:
   caption: "A picture of a person having eyebrow hair removed using wax"
 ---
 
-Waxing can be used to remove hair from many parts of the body, most commonly to remove leg hair and to reshape eyebrows. As the entire hair is removed, unlike [shaving]({{ site.baseurl }}{% link _articles/shaving.md %}) where only the hair above the surface of the skin is removed, hair removal may last up to six weeks. However, waxing can only be carried out when a certain length of hair has regrown above the surface {% cite wanitphakdeedecha2008physical %}.
+Waxing can be used to remove hair from many parts of the body, most commonly to remove leg hair and to reshape eyebrows. As the entire hair is removed, unlike [shaving]({% link _articles/shaving.md %}) where only the hair above the surface of the skin is removed, hair removal may last up to six weeks. However, waxing can only be carried out when a certain length of hair has regrown above the surface {% cite wanitphakdeedecha2008physical %}.
 
 A traditional alternative to waxing is a  similar technique called sugaring, which replaces the wax with a sticky paste.
 

@@ -11,7 +11,7 @@ Finasteride does not remove the risk of pregnancy {% cite fsrh2017contraceptive 
 {% endcapture %}
 {% include warning warning=warn %}
 
-Finasteride comes as pills that are taken daily to slow hair loss. It is used to treat hair loss caused by testosterone. A commonly used alternative to finasteride is [minoxidil]({{ site.baseurl }}{% link _articles/minoxidil.md %}), which is a topical cream or foam instead of a pill, and can be obtained without a prescription.
+Finasteride comes as pills that are taken daily to slow hair loss. It is used to treat hair loss caused by testosterone. A commonly used alternative to finasteride is [minoxidil]({% link _articles/minoxidil.md %}), which is a topical cream or foam instead of a pill, and can be obtained without a prescription.
 
 Finasteride can also be used to reduce body hair and slow facial hair growth {% cite seal2017 -l 236 %}.
 

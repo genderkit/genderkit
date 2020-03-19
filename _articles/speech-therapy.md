@@ -10,9 +10,9 @@ Speech and language therapy can be used by people wanting to change the quality 
 
 A trained speech therapist helps you discover what you would like your voice to sound like and helps you achieve those goals. Speech therapy may be one-on-one, or in a group therapy setting.
 
-Speech therapy cannot normally lower the bottom of the pitch range. Many people are able to accomplish that using [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) instead, though its effects are permanent. (While [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) is able to lower the bottom of the vocal range for many people, [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) has no effect on the voice).
+Speech therapy cannot normally lower the bottom of the pitch range. Many people are able to accomplish that using [testosterone]({% link _articles/testosterone.md %}) instead, though its effects are permanent. (While [testosterone]({% link _articles/testosterone.md %}) is able to lower the bottom of the vocal range for many people, [oestrogen]({% link _articles/oestrogen.md %}) has no effect on the voice).
 
-A minority of people are unable to reach their goals through speech and language therapy or [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) treatment and undergo surgical interventions to change their voice.
+A minority of people are unable to reach their goals through speech and language therapy or [testosterone]({% link _articles/testosterone.md %}) treatment and undergo surgical interventions to change their voice.
 
 ### Costs and funding
 

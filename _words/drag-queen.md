@@ -6,6 +6,6 @@ title: Drag queen
 
 A drag queen performs a hyper-feminine gender, usually temporarily as part of a  public performance.  
 
-An entertainer who instead exaggerates masculine qualities is known as a [drag king]({{ site.baseurl }}{% link _words/drag-king.md %}).
+An entertainer who instead exaggerates masculine qualities is known as a [drag king]({% link _words/drag-king.md %}).
 
 Drag exists as part of [ball culture](https://en.wikipedia.org/wiki/Ball_culture), a primarily non-white subculture in the US, though drag queens and kings also exist outside of this tradition. People adopting drag queen or drag king identities should be aware of the risk of [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation).

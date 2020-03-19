@@ -6,7 +6,7 @@ feature:
   caption: "A laser hair reduction machine"
 ---
 
-In this procedure, the skin is exposed to pulses of laser light. The laser is of a specific wavelength that heats up the hair, causing the hair and hair follicle to be heated and destroyed, stopping that hair from regrowing. It is unable to remove hairs that are not dark, such as ginger, grey, or blonde hairs. These hairs are usually removed by [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}) instead. Electrolysis may be up to 60 times slower and more painful {% cite gorgu2000comparison %}.
+In this procedure, the skin is exposed to pulses of laser light. The laser is of a specific wavelength that heats up the hair, causing the hair and hair follicle to be heated and destroyed, stopping that hair from regrowing. It is unable to remove hairs that are not dark, such as ginger, grey, or blonde hairs. These hairs are usually removed by [electrolysis]({% link _articles/electrolysis.md %}) instead. Electrolysis may be up to 60 times slower and more painful {% cite gorgu2000comparison %}.
 
 Laser hair reduction can be carried out using several different types of laser with different wavelengths: ruby (694nm), alexandrite (755nm), diode (810nm), and Nd:YAG (1,064-nm). Diode and alexandrite lasers are most effective for hair reduction, but only work effectively on pale skin. For people with darker coloured skin, Nd:YAG is more effective {% cite sadighha2009meta lapidoth2010best %}. Your laser technician should be able to discuss with you the type of laser they have available and whether it will be suitable for you.
 
@@ -18,9 +18,9 @@ You can read more about laser hair removal on the [NHS Choices website](http://w
 
 ### Costs and funding
 
-The price of laser hair reduction varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £100-200 per session. If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}) and unwanted facial hair, the NHS may provide funding for some laser hair reduction or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}).
+The price of laser hair reduction varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £100-200 per session. If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and unwanted facial hair, the NHS may provide funding for some laser hair reduction or [electrolysis]({% link _articles/electrolysis.md %}).
 
-The NHS will normally fund genital hair removal before [vaginoplasty]({{ site.baseurl }}{% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({{ site.baseurl }}{% link _articles/phalloplasty.md %}) or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
+The NHS will normally fund genital hair removal before [vaginoplasty]({% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 
 Remember to check the official inspection reports for your laser clinic before you attend to check that that their staff are properly trained and work safely:
 
@@ -29,7 +29,7 @@ Remember to check the official inspection reports for your laser clinic before y
 - in England, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on the [Care Quality Commission website](https://www.cqc.org.uk)
 - in Scotland, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on the [Healthcare Improvement Scotland website](http://www.healthcareimprovementscotland.org/our_work/inspecting_and_regulating_care/independent_healthcare/find_a_provider_or_service.aspx)
 
-You may also may want to ask a [local group]({{ site.baseurl }}{% link _resources/local.md %}) for people changing things related to gender to find out if people have had any problems with the clinic.
+You may also may want to ask a [local group]({% link _resources/local.md %}) for people changing things related to gender to find out if people have had any problems with the clinic.
 
 ### References
 

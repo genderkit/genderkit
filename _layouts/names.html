@@ -14,12 +14,12 @@ layout: page
         {% assign explore = site.explore | sort: 'title' %}
         {% for item in explore %}
           {% if item.title contains 'name' %}
-            <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
       <h3>Changing your name</h3>
-      <p>You can read about how to change your name on our <a href="{{ site.baseurl }}{% link _categories/id-documents.md %}">ID documents page</a>.
+      <p>You can read about how to change your name on our <a href="{% link _categories/id-documents.md %}">ID documents page</a>.
     </section>
   </article>
 </main>

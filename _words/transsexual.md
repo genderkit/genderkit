@@ -11,9 +11,9 @@ A transsexual person is defined in UK law by the [Equality Act 2010](https://www
 
 "A desire to live and be accepted as a member of the opposite sex, usually accompanied by a sense of discomfort with, or inappropriateness of, one's anatomic sex, and a wish to have surgery and hormonal treatment to make one's body as congruent as possible with one's preferred sex."
 
-Many (but not all) transsexual people also describe themselves as [transgender]({{ site.baseurl }}{% link _words/transgender.md %}) and/or [nonbinary]({{ site.baseurl }}{% link _words/nonbinary.md %}).
+Many (but not all) transsexual people also describe themselves as [transgender]({% link _words/transgender.md %}) and/or [nonbinary]({% link _words/nonbinary.md %}).
 
-"Transgender" and [trans]({{ site.baseurl }}{% link _words/trans.md %}) describe a much wider group of people than transsexual, and not all transgender and nonbinary people are transsexual or wish to use the term transsexual.
+"Transgender" and [trans]({% link _words/trans.md %}) describe a much wider group of people than transsexual, and not all transgender and nonbinary people are transsexual or wish to use the term transsexual.
 
 "The terms 'transsexual' and 'transsexualism' are often considered old-fashioned and stigmatising, and this terminology is increasingly being replaced by terms, such as 'transgender' and 'trans', which many people deem more acceptable." -- [The Transgender Handbook](https://books.google.co.uk/books?id=ty3fAQAACAAJ)
 

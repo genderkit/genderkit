@@ -27,7 +27,7 @@ Many sport and fitness activities can be  segregated based on gender, which can 
 
 Many swimming pools and gyms now have cubicle based changing rooms and showers which may be more comfortable for you. You may want to research your local fitness facilities to find out if there are any with these kinds of facilities.
 
-Swimming can be particularly difficult for many people as it can involve very tight clothing that can make the shape of your chest or crotch visible. If you find your chest shape distresses you, most pools will be happy for you to wear a rash vest, which can help to hide your chest shape or conceal a [binder]({{ site.baseurl }}{% link _articles/binding.md %}). Many binders can be worn while swimming - check with your binder manufacturer to be sure. If your crotch causes you distress, you may be able to find "swim skirt" swimwear that hides your crotch shape, or wear loose "board shorts" style swimming trunks.
+Swimming can be particularly difficult for many people as it can involve very tight clothing that can make the shape of your chest or crotch visible. If you find your chest shape distresses you, most pools will be happy for you to wear a rash vest, which can help to hide your chest shape or conceal a [binder]({% link _articles/binding.md %}). Many binders can be worn while swimming - check with your binder manufacturer to be sure. If your crotch causes you distress, you may be able to find "swim skirt" swimwear that hides your crotch shape, or wear loose "board shorts" style swimming trunks.
 
 In some areas of the country there are organisations specifically for expanding access to sport and fitness for people regardless of their gender history. Some run regular sessions at swimming pools where transgender, nonbinary or gender variant people can attend as a group. These organisations are listed further down this page.
 
@@ -45,9 +45,9 @@ You may also want to consider other ways of getting physical exercise that may b
 
 You may also want to use exercise as part of a strategy to change your body shape by increasing muscle mass in certain areas of your body (shoulders, arms, chest, thighs, or buttocks). Doing this requires exercising specific muscle groups.
 
-You will find that which sex hormones you have in your body will significantly affect your upper body strength and how easy it is for you to increase muscle mass. [Testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) therapy increases the ability to increase muscle mass, while reduction of testosterone can cause significant loss of strength.
+You will find that which sex hormones you have in your body will significantly affect your upper body strength and how easy it is for you to increase muscle mass. [Testosterone]({% link _articles/testosterone.md %}) therapy increases the ability to increase muscle mass, while reduction of testosterone can cause significant loss of strength.
 
-Remember that you can have a considerable amount of muscle without it being clearly visible if you have high body fat. One way of making muscles more clearly defined is [dieting]({{ site.baseurl }}{% link _articles/dieting.md %}).
+Remember that you can have a considerable amount of muscle without it being clearly visible if you have high body fat. One way of making muscles more clearly defined is [dieting]({% link _articles/dieting.md %}).
 
 ### Personal training
 
@@ -64,7 +64,7 @@ There is more information on finding a properly qualified and insured personal t
 
 {% include organisations tag="Sport and Fitness" %}
 
-There is also advice for sports and fitness clubs and venues about how to support diverse genders available on [this website]({{ site.baseurl }}{% link _resources/sports-and-fitness.md %}).
+There is also advice for sports and fitness clubs and venues about how to support diverse genders available on [this website]({% link _resources/sports-and-fitness.md %}).
 
 ### References
 

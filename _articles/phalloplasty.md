@@ -11,13 +11,13 @@ Phalloplasty is a complex surgical procedure with significant risks that you mus
 {% endcapture %}
 {% include warning warning=warn %}
 
-Phalloplasty is surgery to create a penis, usually with the ability to urinate out of the end of it, and to make it erect. Often [scrotoplasty]({{ site.baseurl }}{% link _articles/scrotoplasty.md %}) is performed at the same time.
+Phalloplasty is surgery to create a penis, usually with the ability to urinate out of the end of it, and to make it erect. Often [scrotoplasty]({% link _articles/scrotoplasty.md %}) is performed at the same time.
 
 Before phalloplasty surgery, you will need to choose to decide whether you wish to be able to use the penis to pass urine standing, and whether you wish to be able to make the penis hard for penetrative sex using prosthetic implants. Both of these will increase the length and complexity of surgery.
 
-For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({{ site.baseurl }}{% link _articles/counselling.md %}) before and after surgery may be helpful.
+For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
-An alternative option to phalloplasty is [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. 
+An alternative option to phalloplasty is [metoidioplasty]({% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. 
 
 Phalloplasty involves a degree of risk. UK surgeons have reported a 3% rate of phallus loss, thought this risk can be reduced by avoiding smoking and not being overweight. In the event of phallus loss, further attempts can be made 6-12 months later {% cite christopher2017 -l 284 %}. It is important to note that if a prosthetic erectile implant is used, it will likely need replacement later in life, so you will need to be prepared for further surgeries in the future {% cite christopher2017 -l 299 %}.
 
@@ -47,11 +47,11 @@ Several options are available for people who wish to have erections:
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stays and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stays and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Cost and funding
 
-If you have a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for phalloplasty or [metoidioplasty]({{ site.baseurl }}{% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}) or [electrolysis]({{ site.baseurl }}{% link _articles/electrolysis.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for phalloplasty or [metoidioplasty]({% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment

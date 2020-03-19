@@ -16,12 +16,12 @@ Chapter 12 of the [Equal Treatment Bench Book](https://www.judiciary.uk/wp-conte
 
 ### Prisons
 
-We have a seperate page on [prisons]({{ site.baseurl }}{% link _resources/immigration.md %}) with more information.
+We have a seperate page on [prisons]({% link _resources/immigration.md %}) with more information.
 
 ### Asylum and immigration
 
-We have a seperate page on [asylum and immigration]({{ site.baseurl }}{% link _resources/immigration.md %}) with information on this issue.
+We have a seperate page on [asylum and immigration]({% link _resources/immigration.md %}) with information on this issue.
 
 ### Gender Recognition Certificates
 
-In the UK, you are able to [apply for a Gender Recognition Certificate]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) which changes the gender listed on your birth certificate, and which has some legal implications.
+In the UK, you are able to [apply for a Gender Recognition Certificate]({% link _articles/obtaining-a-grc.md %}) which changes the gender listed on your birth certificate, and which has some legal implications.

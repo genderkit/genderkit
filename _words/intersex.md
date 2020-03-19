@@ -14,8 +14,8 @@ There is more information about these conditions on [the NHS Choices website](ht
 
 ### Intersex people and transgender people
 
-Most [transgender]({{ site.baseurl }}{% link _words/transgender.md %}) people are not intersex, and most intersex people are not transgender. 
+Most [transgender]({% link _words/transgender.md %}) people are not intersex, and most intersex people are not transgender. 
 
 Intersex and transgender are very different things, and intersex and transgender people have very different experiences. Most intersex people do not wish to be considered transgender. You should only describe intersex people as transgender if they have called themselves transgender.
 
-Some people erroneously use "intersex" to mean a gender that is not male or female: a more correct term for this is [nonbinary]({{ site.baseurl }}{% link _words/nonbinary.md %}).
+Some people erroneously use "intersex" to mean a gender that is not male or female: a more correct term for this is [nonbinary]({% link _words/nonbinary.md %}).

@@ -21,7 +21,7 @@ These bonds can be broken, straightening the hair. This is done by different typ
 
 - *aldehydes*, often called "keratin treatment" or "Brazilian treatment". Keratin treatments have often contained dangerous cancer-causing chemicals such as formaldehyde or glutaraldehyde, even when labelled "formaldehyde free". They may also contain methylene glycol, also known as methanediol, a chemical which releases formaldehyde when heated {% cite miranda2014overview %}. Stylists may not realise which ingredients are contained in keratin treatments and underestimate the danger to themselves and their clients {% cite weathersby2013brazilian %}.
 
-An alternative to chemical straightening is to break the chemical bonds by [hair straightening]({{ site.baseurl }}{% link _articles/hair-straightening.md %}) using heat. This approach only lasts until the hair becomes wet, so is much more of a temporary solution.
+An alternative to chemical straightening is to break the chemical bonds by [hair straightening]({% link _articles/hair-straightening.md %}) using heat. This approach only lasts until the hair becomes wet, so is much more of a temporary solution.
 
 Repeated chemical straightening of hair carries a number of risks, including itching, burns and scars on the scalp, thinning and weakening of the hair shaft, discolouration and hair loss, and allergic reactions {% cite miranda2014overview %}.
 

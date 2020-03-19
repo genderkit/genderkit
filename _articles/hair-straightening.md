@@ -19,7 +19,7 @@ As your hair straightening will be undone if your hair becomes wet, it may be us
 
 Hair straighteners come in a large range of prices, from £10 to over £100.
 
-An alternative to hair straightening using heat is [permanent hair straightening]({{ site.baseurl }}{% link _articles/permanent-hair-straightening.md %}) using chemicals. This approach lasts around 12 weeks between applications, instead of needing to be reapplied after each wash.
+An alternative to hair straightening using heat is [permanent hair straightening]({% link _articles/permanent-hair-straightening.md %}) using chemicals. This approach lasts around 12 weeks between applications, instead of needing to be reapplied after each wash.
 
 ### References
 

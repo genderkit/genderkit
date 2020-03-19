@@ -13,6 +13,6 @@ Sometimes other terms are used:
 - *FAAB* - female assigned at birth
 - *CAFAB* - coercively assigned female at birth
 
-Babies who are assigned male at birth are instead described as [AMAB]({{ site.baseurl }}{% link _words/amab.md %}).
+Babies who are assigned male at birth are instead described as [AMAB]({% link _words/amab.md %}).
 
 Not all babies are assigned male or female at birth, with some  [intersex](https://en.wikipedia.org/wiki/Intersex) babies being left unassigned.

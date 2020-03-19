@@ -17,20 +17,20 @@ Updating a passport is different depending on whether you already have a UK pass
 
 You can update your name and/or gender marker on an existing UK passport either [online](https://www.gov.uk/apply-renew-passport) or by post. Forms for postal updates are available from your local post office. You will need to return your old passport along with the application. If you have lost your passport, you will need to declare it lost. 
 
-To update your name on your passport you will need to send your [deed poll]({{ site.baseurl }}{% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({{ site.baseurl }}{% link _articles/name-change-by-statutory-declaration.md %}). Photocopies are not accepted, so you must either send the original document or a [certified copy](https://www.gov.uk/certifying-a-document).  
+To update your name on your passport you will need to send your [deed poll]({% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). Photocopies are not accepted, so you must either send the original document or a [certified copy](https://www.gov.uk/certifying-a-document).  
 
 To update your gender marker on an existing passport you will also need either:
 
 - a letter from a doctor (normally either your gender specialist or your GP) saying that they consider this change to be permanent. Your GP will usually  charge you money for writing this letter.
-- or a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}). 
+- or a [gender recognition certificate (GRC)]({% link _articles/obtaining-a-grc.md %}). 
 
 A GRC is *not* required to update your passport if you have a letter from a specialist or GP.
 
 ### I don't have an existing UK passport
 
-If you already have a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) or an updated birth certificate, you can apply for a passport as normal with your updated birth or adoption certificate. Name change documents and letters from doctors are not required.
+If you already have a [gender recognition certificate (GRC)]({% link _articles/obtaining-a-grc.md %}) or an updated birth certificate, you can apply for a passport as normal with your updated birth or adoption certificate. Name change documents and letters from doctors are not required.
 
-If you *do not* have a [gender recognition certificate (GRC)]({{ site.baseurl }}{% link _articles/obtaining-a-grc.md %}) and updated birth certificate, you will need to fill in the application for a new passport, and include your existing birth or adoption certificate along with the documents listed above.
+If you *do not* have a [gender recognition certificate (GRC)]({% link _articles/obtaining-a-grc.md %}) and updated birth certificate, you will need to fill in the application for a new passport, and include your existing birth or adoption certificate along with the documents listed above.
 
 ### More information
 

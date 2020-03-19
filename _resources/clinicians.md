@@ -28,7 +28,7 @@ Some CCGs and Trusts have written local policies on gender diversity in patients
 
 A number of specialist NHS services across the UK provide diagnosis and treatment to people experiencing issues related to gender. Some specialise in providing services to under-18s. A number of private specialist gender clinics are also available in the UK for patients who can afford this.
 
-[Full list of UK specialist gender services]({{ site.baseurl }}{% link _resources/gender-services.md %})
+[Full list of UK specialist gender services]({% link _resources/gender-services.md %})
 
 ### Guidance published by specialist services
 

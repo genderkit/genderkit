@@ -33,7 +33,7 @@ There is a useful guide to intersex and terminology used to describe intersex pe
 
 ### Shemale
 
-"Shemale" is a term primarily used in pornography and sex work to refer to [transgender]({{ site.baseurl }}{% link _words/transgender.md %}) women. 
+"Shemale" is a term primarily used in pornography and sex work to refer to [transgender]({% link _words/transgender.md %}) women. 
 
 It is considered to be an offensive term, particularly as it suggests that the people in question are male.
 
@@ -43,6 +43,6 @@ It is considered to be an offensive term, particularly as it suggests that the p
 
 ### Chick-with-a-dick
 
-"Chick-with-a-dick" is a term primarily used in pornography and sex work to refer to [transgender]({{ site.baseurl }}{% link _words/transgender.md %}) women. 
+"Chick-with-a-dick" is a term primarily used in pornography and sex work to refer to [transgender]({% link _words/transgender.md %}) women. 
 
 It is considered an offensive term. Do not use this term to describe anyone. 

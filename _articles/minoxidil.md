@@ -8,7 +8,7 @@ feature:
 
 Minoxidil comes as a liquid or foam that is applied to the scalp to slow hair loss. It is used to treat hair loss caused by testosterone.
 
-A commonly used alternative to minoxidil is [finasteride]({{ site.baseurl }}{% link _articles/finasteride.md %}). Unlike minoxidil, finasteride is only available on prescription.
+A commonly used alternative to minoxidil is [finasteride]({% link _articles/finasteride.md %}). Unlike minoxidil, finasteride is only available on prescription.
 
 Minoxidil may take several months to start taking effect, and there may be an initial loss of hair in the first few weeks.
 

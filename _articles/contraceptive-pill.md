@@ -12,7 +12,7 @@ Testosterone and/or GnRH agonists do not provide reliable contraception for peop
 {% include warning warning=warn %}
 
 {% capture warn %}
-Most contraceptives contain oestrogen which can interfere with [testosterone]({{ site.baseurl }}{% link _articles/testosterone.md %}) treatment. If you are using testosterone, ask your doctor for a "progesterone-only" contraceptive instead {% cite fsrh2017contraceptive %}.
+Most contraceptives contain oestrogen which can interfere with [testosterone]({% link _articles/testosterone.md %}) treatment. If you are using testosterone, ask your doctor for a "progesterone-only" contraceptive instead {% cite fsrh2017contraceptive %}.
 {% endcapture %}
 {% include warning warning=warn %}
 

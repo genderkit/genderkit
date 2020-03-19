@@ -6,7 +6,7 @@ description: Information about the team behind Gender Construction Kit and what 
 
 ### Contacting us
 
-Please take a look at our [Frequently Asked Questions]({{ site.baseurl }}{% link faq.md %}) page first.
+Please take a look at our [Frequently Asked Questions]({% link faq.md %}) page first.
 
 If you need to contact the team, [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit).
 

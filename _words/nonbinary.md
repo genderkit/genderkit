@@ -9,13 +9,13 @@ Nonbinary is an umbrella term covering any gender identity that doesn't fit with
 
 "Denoting or relating to a gender or sexual identity that is not defined in terms of traditional binary oppositions such as male and female or homosexual and heterosexual." -- [Oxford Dictionaries](https://en.oxforddictionaries.com/definition/us/nonbinary)
 
-Nonbinary is sometimes abbreviated to "NB" or [enby]({{ site.baseurl }}{% link _words/enby.md %}).
+Nonbinary is sometimes abbreviated to "NB" or [enby]({% link _words/enby.md %}).
 
-A term with a similar meaning is [genderqueer]({{ site.baseurl }}{% link _words/genderqueer.md %}).
+A term with a similar meaning is [genderqueer]({% link _words/genderqueer.md %}).
 
 ### Nonbinary people and transgender people
 
-Many nonbinary people consider themselves to be [transgender]({{ site.baseurl }}{% link _words/transgender.md %}), but some do not.
+Many nonbinary people consider themselves to be [transgender]({% link _words/transgender.md %}), but some do not.
 
 You should only describe nonbinary people as transgender if they have called themselves transgender.
 

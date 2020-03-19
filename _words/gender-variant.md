@@ -9,4 +9,4 @@ groups: [Umbrella term, Defined by breaking norms]
 
 "Gender variant" is particularly often used to describe children and young people or their behaviour.
 
-Terms with similar meanings are [gender non-conforming]({{ site.baseurl }}{% link _words/gender-non-conforming.md %}) and gender expansive.
+Terms with similar meanings are [gender non-conforming]({% link _words/gender-non-conforming.md %}) and gender expansive.

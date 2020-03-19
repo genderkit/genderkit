@@ -13,8 +13,8 @@ Transgender woman is used as an adjective, as in:
 - transgender woman (a woman who is transgender)
 - transgender man (a man who is transgender)
 
-Transgender is normally considered to be the opposite of [cisgender]({{ site.baseurl }}{% link _words/cisgender.md %}).
+Transgender is normally considered to be the opposite of [cisgender]({% link _words/cisgender.md %}).
 
 There is no requirement to have hormone treatment or gender related surgeries to call yourself transgender.
 
-Terms with similar meanings are [trans*]({{ site.baseurl }}{% link _words/trans-asterisk.md %}) and [trans]({{ site.baseurl }}{% link _words/trans.md %}).
+Terms with similar meanings are [trans*]({% link _words/trans-asterisk.md %}) and [trans]({% link _words/trans.md %}).

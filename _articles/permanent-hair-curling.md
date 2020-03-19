@@ -9,7 +9,7 @@ These bonds can be broken if a chemical (normally thioglycolate) are applied to 
 
 To speed up this process, some hairdressers will use a "drying hood" which produces heat which encourages the chemical reaction.
 
-An alternative to chemical curling is to break the chemical bonds by [hair curling]({{ site.baseurl }}{% link _articles/hair-curling.md %}) using heat. This is much more of a temporary solution as it will generally only last a few days or until the hair becomes wet.
+An alternative to chemical curling is to break the chemical bonds by [hair curling]({% link _articles/hair-curling.md %}) using heat. This is much more of a temporary solution as it will generally only last a few days or until the hair becomes wet.
 
 While called permanent hair curling, the effects will only last for a few months, and you will have to return to the salon to have the treatment reapplied at this point.
 

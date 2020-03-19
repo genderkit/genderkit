@@ -1,5 +1,5 @@
 <footer>
-	<h3>You're reading <a href="{{ site.baseurl }}{% link index.md %}">Gender Construction Kit</a>.</h3> 
+	<h3>You're reading <a href="{% link index.md %}">Gender Construction Kit</a>.</h3> 
 
 	<p>We're the UK guide to changing things that are linked to gender.</p>
 
@@ -22,12 +22,12 @@
 	  {% assign categoryslug = category.name | slugify %}
         <a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
   	{% endfor %}
-  	and guides to choosing <a href="{{ site.baseurl }}{% link names.md %}">names</a>,
-	<a href="{{ site.baseurl }}{% link _explore/pronouns.md %}">pronouns</a>, 
-	<a href="{{ site.baseurl }}{% link _explore/titles.md %}">titles</a>, and 
-	<a href="{{ site.baseurl }}{% link words.md %}">words</a>.
+  	and guides to choosing <a href="{% link names.md %}">names</a>,
+	<a href="{% link _explore/pronouns.md %}">pronouns</a>, 
+	<a href="{% link _explore/titles.md %}">titles</a>, and 
+	<a href="{% link words.md %}">words</a>.
   	</p>
-  	<p>Gender Construction Kit is an <a href="http://github.com/genderkit/genderkit">open source project</a> created by a <a href="{{ site.baseurl }}{% link credits.md %}">team of volunteers</a>.</p>
+  	<p>Gender Construction Kit is an <a href="http://github.com/genderkit/genderkit">open source project</a> created by a <a href="{% link credits.md %}">team of volunteers</a>.</p>
 	<p><em>Follow us</em> on <a href="http://www.facebook.com/{{ site.facebook_username }}">Facebook</a>, <a href="http://www.twitter.com/{{ site.twitter_username }}">Twitter</a>, <a href="https://www.instagram.com/genderkit/">Instagram</a>, and <a href="https://genderkit.tumblr.com/">Tumblr</a>.
 	</p>
 </footer>

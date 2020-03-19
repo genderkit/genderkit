@@ -10,4 +10,4 @@ description: UK-specific information about supporting trans, nonbinary, and gend
 
 ### Research studies
 
-We have a detailed library of [research studies]({{ site.baseurl }}{% link _resources/research.md %}) in this area which may be useful when producing policies and guidance.
+We have a detailed library of [research studies]({% link _resources/research.md %}) in this area which may be useful when producing policies and guidance.

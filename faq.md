@@ -6,7 +6,7 @@ description: Answers to frequently asked questions about Gender Construction Kit
 
 ### Can you help me with a problem?
 
-Unfortunately we don't have the resources to provide individual advice or support to people. If you need help, try our [UK helplines and advice page]({{ site.baseurl }}{% link help.md %}), or look for support groups on our [UK Organisations page]({{ site.baseurl }}{% link organisations.md %}).
+Unfortunately we don't have the resources to provide individual advice or support to people. If you need help, try our [UK helplines and advice page]({% link help.md %}), or look for support groups on our [UK Organisations page]({% link organisations.md %}).
 
 ### I've found a mistake in the site - can you fix it?
 

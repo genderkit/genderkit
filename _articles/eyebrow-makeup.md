@@ -13,7 +13,7 @@ A number of makeup techniques can be used to make eyebrows appear darker, denser
 - *waxes* provide a waterproof alternative to gels.
 - *powders* are applied with a makeup brush and darken the whole eyebrow area.
 
-It is also possible to use eyebrow pencil or [permanent makeup]({{ site.baseurl }}{% link _articles/permanent-makeup.md %}) to entirely replace the eyebrow after removing existing eyebrow hair.
+It is also possible to use eyebrow pencil or [permanent makeup]({% link _articles/permanent-makeup.md %}) to entirely replace the eyebrow after removing existing eyebrow hair.
 
 When you have finished wearing your makeup, for example when you want to go to sleep, you will need to remove it. You can use a normal facial wash to do this on most of your face, but on the delicate skin around your eyes you may wish to use eye makeup removal pads or cotton wool and some eye makeup remover. 
 

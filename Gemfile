@@ -9,8 +9,8 @@ ruby '>= 2.5.5'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.8.6"
-gem "citeproc-ruby", "1.1.7" # Need the most up to date version
+gem "jekyll", "~> 4.0"
+gem "citeproc-ruby", "~> 1.1.12" # Need the most up to date version
 gem "rake"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -19,8 +19,8 @@ gem "rake"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-scholar", "~> 5.10.1"
-   gem "jekyll-last-modified-at", "~> 1.0.0"
+   gem "jekyll-scholar", "~> 6.6.0"
+   gem "jekyll-last-modified-at", "~> 1.1.0"
    gem "jekyll-sitemap"
 end
 

@@ -6,7 +6,7 @@ feature:
   caption: "The head of an IPL machine in use"
 ---
 
-Intense pulsed light (IPL) therapy is an alternative to [laser hair reduction]({{ site.baseurl }}{% link _articles/laser-hair-reduction.md %}).
+Intense pulsed light (IPL) therapy is an alternative to [laser hair reduction]({% link _articles/laser-hair-reduction.md %}).
 
 It uses a bright flash of light from a xenon flashbulb that produces many different wavelengths - rather than the single wavelength used by a laser.
 
@@ -23,7 +23,7 @@ Remember to check the official inspection reports for your IPL clinic before you
 - in England, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on the [Care Quality Commission website](https://www.cqc.org.uk)
 - in Scotland, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on the [Healthcare Improvement Scotland website](http://www.healthcareimprovementscotland.org/our_work/inspecting_and_regulating_care/independent_healthcare/find_a_provider_or_service.aspx)
 
-You may also may want to ask a [local group]({{ site.baseurl }}{% link _resources/local.md %}) for people changing things related to gender to find out if people have had any problems with the clinic.
+You may also may want to ask a [local group]({% link _resources/local.md %}) for people changing things related to gender to find out if people have had any problems with the clinic.
 
 ### References
 

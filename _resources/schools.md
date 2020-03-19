@@ -18,7 +18,7 @@ description: UK-specific information for schools about supporting trans, nonbina
 
 {% include publications tag="National school employment guidance" %}
 
-We have a separate page of [information for employers]({{ site.baseurl }}{% link _resources/employers.md %}) that gives general advice on supporting staff.
+We have a separate page of [information for employers]({% link _resources/employers.md %}) that gives general advice on supporting staff.
 
 ### Books
 

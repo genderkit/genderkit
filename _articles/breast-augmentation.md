@@ -8,7 +8,7 @@ feature:
 
 The most common method of breast augmentation is using implants, though some alternatives exist including fat transplantation from another part of the body {% cite largo2014efficacy %}.
 
-Alternatives for increasing breast size that do not need surgery include [oestrogen]({{ site.baseurl }}{% link _articles/oestrogen.md %}) therapy, [bra inserts]({{ site.baseurl }}{% link _articles/bra-inserts.md %}), and weight gain.
+Alternatives for increasing breast size that do not need surgery include [oestrogen]({% link _articles/oestrogen.md %}) therapy, [bra inserts]({% link _articles/bra-inserts.md %}), and weight gain.
 
 There a number of ways of performing breast augmentation using implants, with different advantages and disadvantages, some of which may be appropriate for you. You should research the differences in:
 
@@ -32,7 +32,7 @@ You can read more about breast augmentation on the [NHS Choices website](http://
 
 ### Preparing for a surgical procedure
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({{ site.baseurl }}{% link surgery-checklist.md %}).
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 ### Costs and funding
 

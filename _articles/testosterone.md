@@ -12,7 +12,7 @@ Testosterone use can cause serious medical conditions including polycythaemia (t
 {% include warning warning=warn %}
 
 {% capture warn %}
-Testosterone may cause infertility which may be permanent. You should consider whether you need to use [gamete storage]({{ site.baseurl }}{% link _articles/gamete-storage.md %}) (egg storage).
+Testosterone may cause infertility which may be permanent. You should consider whether you need to use [gamete storage]({% link _articles/gamete-storage.md %}) (egg storage).
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -46,7 +46,7 @@ If you experience any of these symptoms, or you feel constantly tired or fall as
 
 Testosterone is commonly available as depot injections or as gels applied to the skin {% cite seal2017 -l 241 %}. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches (transdermal testosterone) are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.
 
-In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({{ site.baseurl }}{% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
+In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.
 
 Testosterone has noticeable effects on mood and thinking, and can increase energy and aggression, but can also help some people feel "more settled" in their body {% cite seal2017 -l 239 %}.
 
@@ -54,14 +54,14 @@ Testosterone may also cause acne. You can read more about acne and how to reduce
 
 Testosterone suppresses menstruation (periods). Some medical professionals have theorised that this could lead to endometrial hyperplasia (thickening of the lining of the womb), which might increase the risk of cancer. However, most studies have indicated that endometrial hyperplasia either does not occur, or happens only in a small minority of people, and that the risk of endometrial cancer is low with only one known case {% cite seal2017 -l 240 %}. 
 
-To avoid any risk from endometrial hyperplasia, current UK guidelines recommend that people taking testosterone long-term should have a [hysterectomy]({{ site.baseurl }}{% link _articles/hysterectomy.md %}), usually within a maximum of 4-5 years after starting testosterone {% cite cr181 -l 31 %}. However, this surgery is optional and you may feel the risks involved in a major operation are unnecessary considering the extremely small probability of cancer. If you decide not to undergo hysterectomy it is recommended to have scans to check for thickening of the endometrium every two years to reduce this risk {% cite seal2017 -l 240 %}.
+To avoid any risk from endometrial hyperplasia, current UK guidelines recommend that people taking testosterone long-term should have a [hysterectomy]({% link _articles/hysterectomy.md %}), usually within a maximum of 4-5 years after starting testosterone {% cite cr181 -l 31 %}. However, this surgery is optional and you may feel the risks involved in a major operation are unnecessary considering the extremely small probability of cancer. If you decide not to undergo hysterectomy it is recommended to have scans to check for thickening of the endometrium every two years to reduce this risk {% cite seal2017 -l 240 %}.
 
 For testosterone therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
 
 ### Costs and funding
 
-If you have received a [formal diagnosis]({{ site.baseurl }}{% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy. Testosterone therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({{ site.baseurl }}{% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
+If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy. Testosterone therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
 
 You do not have to pay the full cost of medication you are prescribed on the NHS. You are not asked to pay anything at all in [Northern Ireland]( https://www.nidirect.gov.uk/articles/prescriptions), [Scotland](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs) and [Wales](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs). In England, people are asked to pay a small charge for each item on their prescriptions. There are ways you can reduce or avoid this cost, which you can read about on [the NHS website](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs).
 
