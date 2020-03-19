@@ -1,0 +1,17 @@
+<ul class="details" id="publications">
+{{#each this }}    
+    <li class="searchItem">
+        <div>
+            <img src="{{image}}" height="200">
+            <a href="{{url}}">{{title}}</a>
+            <div class="publicationyear">{{organisation}}</div>
+            <div class="publicationyear">{{year}}</div>
+            <ul class="tags">
+                {{#each tags}}
+                <li class="tag"><a>{{this}}</a></li>
+                {{/each}}
+            </ul>
+        </div>
+    </li>
+{{/each}}
+</ul>

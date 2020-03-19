@@ -1,123 +1,22 @@
 ---
 layout: page
 ---
-
-<main role="main">
-  <article class="content">
-
-    <input id="autoComplete" type="text" tabindex="1">
-
+<main>
+  <article>
+    <section class="search">
+      <input id="searchbox">
+    </section>
+    <section>
+      <ul class="details" id="publications">
+      </ul>
+    </section>
+    <section class="bodytext">
+      <h3>Errors and omissions</h3>
+      <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know, or <a href="https://github.com/genderkit/genderkit/issues">file an issue on GitHub</a>.</p>
+    </section>
+    <script src="https://unpkg.com/quick-score@0.0.6/dist/quick-score.js"></script>
+    <script src="https://s3.amazonaws.com/builds.handlebarsjs.com/handlebars.runtime.min-v4.7.3.js"></script>
+    <script src="{{ site.baseurl }}/assets/handlebars/publications.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/search.js"></script>
   </article>
 </main>
-
-<script src="https://cdn.jsdelivr.net/gh/TarekRaafat/autoComplete.js@4.0.0/dist/js/autoComplete.min.js"></script>
-
-<script>
-// The autoComplete.js Engine instance creator
-const autoCompletejs = new autoComplete({
-  data: {
-    src: async () => {
-      // Loading placeholder text
-      document.querySelector("#autoComplete").setAttribute("placeholder", "Loading...");
-      // Fetch External Data Source
-      const source = await fetch("{{ site.baseurl }}/autocompletedata.json");
-      const data = await source.json();
-      // Returns Fetched data
-      return data;
-    },
-    key: ["term"]
-  },
-  sort: (a, b) => {
-    if (a.match < b.match) return -1;
-    if (a.match > b.match) return 1;
-    return 0;
-  },
-  placeHolder: "Food & Drinks",
-  selector: "#autoComplete",
-  threshold: 0,
-  searchEngine: "strict",
-  highlight: true,
-  maxResults: 10,
-  resultsList: {
-    container: source => {
-      resultsListID = "autoComplete_results_list";
-      return resultsListID;
-    },
-    destination: document.querySelector("#autoComplete"),
-    position: "afterend"
-  },
-  resultItem: (data, source) => {
-    return `${data.match}`;
-  },
-  onSelection: feedback => {
-    // nothing at the moment
-  }
-});
-
-// On page load add class to input field
-window.addEventListener("load", () => {
-  document.querySelector("#autoComplete").classList.add("out");
-  document.querySelector("#autoComplete_results_list").style.display = "none";
-});
-
-// Toggle results list and other elements
-const action = action => {
-//todo
-};
-
-// Toggle event for search input
-// showing & hidding results list onfocus / blur
-// ["focus", "blur"].forEach(eventType => {
-["focus", "blur", "mousedown", "keydown"].forEach(eventType => {
-  const input = document.querySelector("#autoComplete");
-  const resultsList = document.querySelector("#autoComplete_results_list");
-
-  document.querySelector("#autoComplete").addEventListener(eventType, event => {
-    // Hide results list & show other elemennts
-    if (eventType === "blur") {
-      action("dim");
-    } else if (eventType === "focus") {
-      // Show results list & hide other elemennts
-      action("light");
-    }
-  });
-
-  // Hide Results list when not used
-  document.addEventListener(eventType, event => {
-    var current = event.target;
-    if (
-      current === input ||
-      current === resultsList ||
-      input.contains(current) ||
-      resultsList.contains(current)
-    ) {
-      resultsList.style.display = "block";
-    } else {
-      resultsList.style.display = "none";
-    }
-  });
-});
-
-// Toggle Input Classes on results list focus to keep style
-["focusin", "focusout", "keydown"].forEach(eventType => {
-  document.querySelector("#autoComplete_results_list").addEventListener(eventType, event => {
-    if (eventType === "focusin") {
-      if (event.target && event.target.nodeName === "LI") {
-        action("light");
-        document.querySelector("#autoComplete").classList.remove("out");
-        document.querySelector("#autoComplete").classList.add("in");
-      }
-    } else if (eventType === "focusout" || event.keyCode === 13) {
-      action("dim");
-      document.querySelector("#autoComplete").classList.remove("in");
-      document.querySelector("#autoComplete").classList.add("out");
-    }
-  });
-});
-
-// autoComplete.js on type event emitter
-document.querySelector("#autoComplete").addEventListener("type", event => {
-    console.log(event);
-})
-
-</script>

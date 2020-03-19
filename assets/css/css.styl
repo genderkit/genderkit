@@ -81,6 +81,21 @@ section, footer, .greybox
   padding 1rem
   margin 0
 
+#searchbox
+  margin 0
+  display flex
+  flex-grow 999
+  font-size 125%
+  font-family Overpass
+  height 2em
+  border 1px #60f solid
+  background-image url(/assets/images/search.svg)
+  background-repeat no-repeat
+  background-position .5em center
+  padding-left 2.5rem
+  background-size 1em
+  box-shadow #60f 0 0 5px
+
 // Remove default UL styling on most lists  
 nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, #effectslist, #categorylist
   padding 0
@@ -323,10 +338,10 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     font-size 120%
 
 // Visual styling
-nav, aside, .warning, .attention
+nav, aside, .warning, .attention, .search
   h3, p
     margin 0
-nav, aside, footer, .greybox
+nav, aside, footer, .greybox, .search
   background $grey-colour
 nav, aside, .attention
   padding 1rem
@@ -336,6 +351,12 @@ nav, aside, .attention
   border-image linear-gradient(to bottom, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%) 10
   border-width 0 0 0 4px
   border-left 4px solid #f90
+.search
+  display flex
+.searchItem
+  line-height: 1.2
+#publications .searchitem a
+  font-weight bold
 .button
   display block
   width 16rem
@@ -359,7 +380,24 @@ nav, aside, .attention
     margin 0
 .griditem
   margin-bottom 1rem
-  
+
+// Tags
+.tags
+  display flex
+  flex-direction row
+  padding 0
+  flex-wrap wrap
+  margin-top .5rem
+.tag
+  font-size 80%
+  border-radius .25em
+  background-color #f0f0f0
+  margin 0 .25rem .25rem 0 !important
+  a
+    padding .25em .25em
+    display block
+    font-weight normal !important
+
 // Checklists
 .checklist
   padding 0
