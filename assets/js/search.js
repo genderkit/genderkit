@@ -48,6 +48,10 @@ function update()
     }
 }
 
+document.getElementById("searchbox").ontouchstart = (e) => {
+    document.getElementById("search").scrollIntoView()
+};
+
 document.getElementById("searchbox").oninput = (e) => {
     lastkey = Date.now();
     query = e.target.value.toLowerCase();
