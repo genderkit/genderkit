@@ -66,7 +66,7 @@ organisations:
         manualDescription: 'Private gender service located in Edinburgh'
     -
         name: 'Gender Identity Clinic at the Chalmers Centre Edinburgh'
-        url: 'http://lothiansexualhealth.scot.nhs.uk/services/gic/Pages/default.aspx'
+        url: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/'
         tags: ['NHS Gender Services', Scotland]
         manualDescription: 'NHS gender service located in Edinburgh'
         image: nhs-scotland
@@ -1009,7 +1009,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/24796712_10159550585750543_7171595993421173772_n.jpg?oh=2b3e29f37e829de3e5882744ec89e2d4&oe=5ACD6AC9'
     -
         name: transiness
-        url: 'http://transiness.co.uk'
         twitter: transiness
         twitterDescription: '🏳️‍⚧️Intersectional egalitarian. Providing a sense of belonging + providing targeted support for physically and/or socially transitioning people 365/7.🏳️‍⚧️'
         lastTwitterPost: 'Sun Mar 01 16:24:08 +0000 2020'
@@ -2479,8 +2478,6 @@ organisations:
     -
         name: 'Gabriel Jordan'
         tags: [Companies]
-        twitter: BarberTherapies
-        twitterID: '823897530903724034'
         facebook: barbergabrieltherapies
         twitterDescription: 'Barber & Massage Therapy service, Glasgow. Instagram: https://t.co/5SmzHbtbDi Email: barbergabriel@hotmail.com'
         lastTwitterPost: 'Tue Nov 26 14:35:55 +0000 2019'
