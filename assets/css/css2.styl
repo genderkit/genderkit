@@ -1,0 +1,294 @@
+---
+---
+
+// Colours
+$main-colour = #6600ff
+$background-colour = #4400aa
+$grey-colour = #f0f0fa
+
+// Column size
+$column = 9rem
+
+// Bold font weight
+$bold-weight = 600
+
+// Heading line height
+$heading-height = 1.2
+
+// Normalize
+@import "assets/css/normalize"
+
+// Icon font
+@import "assets/css/glyphter-font/css/genderkit-icons"
+
+// Use bold rather than italics
+em
+  font-style normal
+  font-weight $bold-weight
+
+// Basic utility classes
+.hidden
+  display none
+
+// Basic html styling
+html
+  line-height 1.5
+  font-family Overpass, Calibri, sans-serif
+  font-size 16px
+body
+  margin 0
+  word-break break-word // force wrapping on words > screen width
+  font-weight 300
+  -webkit-font-smoothing antialiased
+header, footer, main
+  max-width 760px // sort out page margins on larger screens
+  margin-left auto
+  margin-right auto
+main, footer
+  padding 1rem
+header
+  background url('/assets/images/arrowback6.jpg')
+  background-size cover
+  background-position bottom
+  display flex
+  flex-direction column
+  img
+    width 12rem
+    display block
+    margin-left 0.5rem
+main
+  display flex
+  flex-direction column
+footer 
+  border-top 1px solid #ddd
+section
+  margin-bottom 2em
+h1, h2
+  line-height $heading-height
+h1
+  margin 0
+  padding 0
+h2
+  margin 2rem 0 1rem 0
+  font-size 2rem
+h3
+  margin-top 0
+h4
+  font-weight inherit
+  margin-bottom 0
+  margin-top 0.5rem
+a
+  color $main-colour
+  text-decoration none
+  cursor pointer
+ul, ol
+  // padding-left 1.5rem // TODO: make this work correctly within an article itself
+  padding 0
+  margin 0
+  li
+    list-style-type none
+.bodytext
+  ul, ol
+    margin-left 2em
+  li
+    list-style-type disc
+.bibliography
+  list-style-type disc
+  margin-bottom 1em
+
+figure
+  margin 0
+img
+  width 100%
+  display block
+.greybox
+  background-color $grey-colour
+  padding 1rem
+article img 
+  max-width 380px
+
+#searchbox
+  margin 0.5rem 1rem 1rem 1rem
+  padding-left 2.5rem
+  display flex
+  flex-grow 999
+  font-size 125%
+  font-family Overpass
+  height 2em
+  border 1px $main-colour solid
+  background-image url(/assets/images/search.svg)
+  background-repeat no-repeat
+  background-position .5em center
+  background-size 1em
+  box-shadow $main-colour 0 0 5px
+#search
+  display flex
+  background-color $grey-colour
+.results
+  display flex
+  flex-direction column
+.results li
+  line-height $heading-height
+  margin-bottom 1rem
+  display flex
+  img
+    margin-right 1rem
+  a
+    font-weight bold
+  .attributions
+    color #666
+    margin-top .25rem
+.publication, .book, .organisation
+  img 
+    border 1px solid #e0e0ee
+.organisation
+  img 
+    height 50px
+    width 50px
+    min-width 50px
+    padding 15px
+.category
+  img 
+    height 70px
+    width 70px
+    min-width 70px
+    padding 5px
+    background $grey-colour
+.publication, .book
+  img
+    height 120px
+    width 80px
+    min-width 80px
+.article, .word
+  img 
+    height 60px
+    width 80px
+    min-width 80px
+
+.grid
+  display grid
+  grid-template-columns repeat(auto-fit, $column)
+  grid-gap 1rem /* 2rem on desktop */
+  justify-content center
+.grid.results 
+  li
+    flex-direction column
+    align-items center
+    margin-bottom 0
+    background $grey-colour
+  img 
+    margin-right 0
+    margin-top .5rem
+
+// Notes on list items to provide additional detail
+.note
+  font-size 90%
+  color #888
+    
+// Article pages
+.effects, #effectslist, #explore, #resources 
+  margin-top 1rem
+  padding 0
+  li
+    margin-left 6rem
+    padding-left 1rem
+    min-height 4rem
+    border-left 2px solid #a8f
+  i // Icons to represent body parts etc.
+    display block
+    color black
+    line-height 1
+    font-size 3rem
+    width 4rem
+    height 4rem
+    margin-bottom -4rem
+    margin-left -6.25rem
+    background-size 4rem
+#effectslist, #explore, #resources 
+  span
+    display block
+    margin-top 2rem
+
+.attention
+  background #ffffee
+  border-style none none none solid
+  border-image linear-gradient(to bottom, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%) 10
+  border-width 0 0 0 4px
+  border-left 4px solid #f90
+.warning
+  border-left 4px red solid 
+  padding 0 0 0 1rem
+  margin 0 0 1rem 0 // make sure that warnings are visually seperate
+
+// Tags
+.tags
+  display flex
+  flex-direction row
+  padding 0
+  flex-wrap wrap
+  margin-top .5rem
+.tag
+  font-size 80%
+  border-radius .25em
+  background-color #f0f0f0
+  margin 0 .25rem .25rem 0 !important
+  a
+    padding .25em .25em
+    display block
+    font-weight normal !important
+
+// Checklists
+.checklist
+  padding 0
+  list-style-type none
+  display flex
+  flex-direction column
+  li
+    padding 0.5rem 0
+  p
+    margin 0 0 0 3em
+    border-left 4px white solid
+  input[type=checkbox]
+    position absolute
+    overflow hidden
+    clip rect(0 0 0 0)
+    height 1px
+    width 1px
+    margin -1px
+    padding 0px
+    border 0
+  input[type=checkbox]+label::before
+    content "\2718"
+    color #e0e0e0
+    width 2em
+    height 2em
+    font-weight bold
+    font-family sans
+    display flex
+    align-items center
+    justify-content center
+    border 2px solid $main-colour
+    margin-right 16px
+    flex-shrink 0
+  input[type=checkbox]:checked+label::before
+    content "\2714"
+    color #444
+  input[type=checkbox]:hover+label::before
+    background-color $main-colour + 95%
+  input[type=checkbox]+label
+    line-height 1.25
+    height 2em
+    flex-grow 999
+    display flex
+    align-items center
+    cursor pointer
+    opacity 1
+    text-align left
+    font-weight bold
+
+a > span > span // Make citations appear correctly
+  vertical-align baseline !important
+  font-size 0.75rem
+a > span // Make citations appear correctly
+  line-height 0
+  

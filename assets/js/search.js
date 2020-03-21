@@ -12,8 +12,8 @@ function getData()
     fetch("/assets/json/search-index.json")
         .then(response => response.json())
         .then(data => { 
-            db = data.slice(0, 50) // TODO: sort by 
-            index = new quickScore.QuickScore(data, ["title", "organisation", "tagString"]);
+            db = data;
+            index = new quickScore.QuickScore(data, ["title", "details", "tagString"]);
             update();
         })
 }
@@ -23,9 +23,10 @@ function update()
     if (Date.now() - lastkey > 100)
     {
         var results = [];
-        if (query == "") 
+        if (!query || query == "") 
         { 
-            results = db;
+            results = db
+                .filter(i => i.kind == "category");
         } 
         else 
         { 
@@ -38,13 +39,15 @@ function update()
     
         if (results.length > 0)
         {
-            document.getElementById("publications").innerHTML = Handlebars.templates.publications(results);
+            document.getElementById("publications").outerHTML = Handlebars.templates.publications(results);
         }
         else
         {
             // do something to indicate nothing was found
             document.getElementById("publications").innerHTML = "No results found."
         }
+
+        document.getElementById("publications").className = query.length > 0 ? "results" : "results grid"
     }
 }
 

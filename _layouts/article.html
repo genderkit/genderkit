@@ -6,7 +6,8 @@ layout: page
 {% assign info = site.data.articles[slug] %}
 
 <main role="main">
-  {% include feature.html %}
+  <h2>{{ page.title }}</h2>
+  
   <article class="content">
     <section class="greybox">
       <h3>What effects does it have?</h3>
@@ -19,6 +20,7 @@ layout: page
     </section>
     <section class="bodytext">
       <h3>What is it?</h3>
+      {% include feature.html %}
       {% if info.summary %}
           <p>{{ info.summary }}.</p>
       {% endif %}

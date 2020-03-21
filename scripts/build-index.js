@@ -14,7 +14,7 @@ var synonyms =
     "violence": ["rape", "assault"],
     "surgery": ["operations", "surgeons", "hospitals"],
     "faith": ["religion", "spirituality"],
-    "race": ["racism", "bame", "bme", "poc", "ethnicity", "hate crime"],
+    "race": ["racism", "bame", "bme", "poc", "ethnicity", "hate crime", "diversity"],
     "wales": ["welsh", "cymru"],
     "legal": ["justice"],
     "prisons": ["prisoners", "justice"],
@@ -31,29 +31,128 @@ var synonyms =
     "hormones": ["medications", "blockers"]
 };
 
-fs.readFile('/vagrant/git/genderkit/_data/publications.yaml', 'utf8', function (err, filedata) {
-    database = yaml.parse(filedata);
+var database = [];
 
-    database.publications = database.publications.filter(el => !el.archived);
+try {
+    var publications = yaml.parse(fs.readFileSync('/vagrant/git/genderkit/_data/publications.yaml', 'utf8'))
+    var categories = yaml.parse(fs.readFileSync('/vagrant/git/genderkit/_data/categories.yaml', 'utf8'))
+    var books = yaml.parse(fs.readFileSync('/vagrant/git/genderkit/_data/books.yaml', 'utf8'))
+    var organisations = yaml.parse(fs.readFileSync('/vagrant/git/genderkit/_data/organisations.yaml', 'utf8'))
 
-    database.publications.forEach((el, i) => {
+    publications.publications = publications.publications.filter(el => !el.archived);
+
+    publications.publications.forEach((el, i) => {
         el.id = urlslug(el.url);
-
-        var keywords = [];
-        if (el.tags)
-        {
-            el.tags.forEach(i => keywords.push(i))
-            el.tags.forEach(tag => {
-                    if (synonyms[tag.toLowerCase()]) {
-                        synonyms[tag.toLowerCase()].forEach(i => keywords.push(i))
-                    }
-                });
-        }
-        el.tagString = keywords.join(" ");
+        el.tags = el.tags ? el.tags : [];
+        el.tags.splice(0, 0, "PDF");
+        el.details = el.organisation + ", " + el.year;
         var imagename = slug(el.organisation, " ") + " - " + slug(el.title, " ");
         el.image = '/assets/images/publications/' + imagename + '.jpg';
+        el.kind = "publication";
     });
 
-    console.log(JSON.stringify(database.publications));
+    publications.publications.forEach(i => { database.push(i) });
 
-});
+    organisations.organisations
+        .map(i => {
+            return {
+                "kind": "organisation",
+                "title": i.name,
+                "url": i.url,
+                "details": i.manualDescription ? i.manualDescription : (i.twitterDescription ? i.twitterDescription : i.facebookDescription),
+                "tags": i.tags,
+                "image": '/assets/images/organisations/' + (i.image ? i.image : (i.facebookId ? i.facebookId : i.twitterID)) + '.jpg'
+            };
+        })
+        .forEach(i => database.push(i));
+
+    categories.explore.forEach((el, i) => {
+        el.image = '/assets/images/icons/icon_' + slug(el.title) + '.png';
+        el.details = "";
+        el.kind = "category";
+    });
+
+    categories.explore.forEach(i => { database.push(i) });
+
+    books.books
+        .forEach(i => {
+            i.details = i.author + ", " + i.year
+            i.kind = "book"
+            i.tags = i.tags ? i.tags : []
+            i.tags.splice(0, 0, "Books")
+            i.image = '/assets/images/books/' + i.title + ".jpg"
+            database.push(i)
+        });
+
+    function getMetadata(input, key)
+    {
+        var re = new RegExp(key + ": (.*)", "g");
+        var matches = re.exec(input);
+        if (matches)
+        {
+            return matches[1].replace(/["']/g, "")
+        }
+        else
+        {
+            return null;
+        }
+    }
+
+    var articlePath = "/vagrant/git/genderkit/_data/articles/";
+    var articles = fs.readdirSync(articlePath, {"withFileTypes": true});
+    articles
+        .filter(i => i.isFile())
+        .forEach(i => {
+            var article = yaml.parse(fs.readFileSync(articlePath + i.name, 'utf8'))
+            var filepath = "/vagrant/git/genderkit/_articles/" + i.name.replace(".yaml", ".md");
+            var raw = fs.readFileSync(filepath, 'utf8');
+            article.title = getMetadata(raw, "title");
+            var image = getMetadata(raw, "image")
+            article.image = image ? image : "/assets/images/nophoto.png";
+            article.url = "/article/" + i.name.replace(".yaml", "")
+            article.details = article.summary;
+            article.kind = "article";
+            article.tags = [];
+            article.effects.forEach(effect => {
+                article.tags.push(effect.category);
+            });
+            database.push(article);
+        });
+
+    var wordsPath = "/vagrant/git/genderkit/_words/";
+    var words = fs.readdirSync(wordsPath, {"withFileTypes": true});
+    words
+    .filter(i => i.isFile())
+    .forEach(i => {
+        var filepath = wordsPath + i.name;
+        var raw = fs.readFileSync(filepath, 'utf8');
+        var word = {};
+        word.title = getMetadata(raw, "title");
+        word.image = "/assets/images/nophoto.png";
+        word.url = "/words/" + i.name.replace(".md", "")
+        word.kind = "word";
+        word.tags = ["Words"];
+        database.push(word);
+    });
+
+    database.forEach(el => {
+        var keywords = [];
+        if (el.tags) {
+            el.tags.forEach(i => keywords.push(i))
+            el.tags.forEach(tag => {
+                if (synonyms[tag.toLowerCase()]) {
+                    synonyms[tag.toLowerCase()].forEach(i => keywords.push(i))
+                }
+            });
+        }
+        else {
+            el.tags = [];
+        }
+        el.tagString = keywords.join(" ");
+    })
+
+    console.log(JSON.stringify(database));
+
+} catch (err) {
+    console.error(err)
+}

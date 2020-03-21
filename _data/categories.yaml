@@ -1,36 +1,176 @@
-- 
-  name: "Head hair"
-- 
-  name: "Facial hair"
-- 
-  name: "Body hair"
-- 
-  name: "Upper body"
-- 
-  name: "Lower body"
-- 
-  name: "Muscles"
-- 
-  name: "Face"
-- 
-  name: "Eyes"
-- 
-  name: "Hands"
-- 
-  name: "Voice"
-- 
-  name: "Fragrance"
-- 
-  name: "Mood"
-- 
-  name: "Fertility"
-- 
-  name: "Menstruation"
-- 
-  name: "Libido"
-- 
-  name: "ID documents"
-- 
-  name: "Legal and financial"
-- 
-  name: "Medical documents"
+explore:
+  -
+    url: '/names'
+    title: Names
+  -
+    url: '/explore/pronouns/'
+    title: Pronouns
+  -
+    url: '/explore/titles'
+    title: Titles
+  -
+    url: '/words'
+    title: Words
+  -
+    url: '/category/id-documents'
+    title: ID documents
+  -
+    url: '/category/head-hair'
+    title: Head hair
+  -
+    url: '/category/body-hair'
+    title: Body hair
+  -
+    url: '/category/voice'
+    title: Voice
+  -
+    url: '/category/facial-hair'
+    title: Facial hair
+  -
+    url: '/category/muscles'
+    title: Muscles
+  -
+    url: '/category/eyes'
+    title: Eyes
+  -
+    url: '/category/face'
+    title: Face
+  -
+    url: '/category/fragrance'
+    title: Fragrance
+  -
+    url: '/category/upper-body'
+    title: Upper body
+  -
+    url: '/category/lower-body'
+    title: Lower body
+  -
+    url: '/category/menstruation'
+    title: Menstruation
+  -
+    url: '/category/fertility'
+    title: Fertility
+  -
+    url: '/category/libido'
+    title: Libido
+  -
+    url: '/category/mood'
+    title: Mood
+  -
+    url: '/category/legal-and-financial'
+    title: Legal
+  -
+    url: '/category/medical-documents'
+    title: Medical
+resources:
+  -
+    url: '/resources/clinicians'
+    title: Clinicians
+    footer: clinicians
+  -
+    url: '/resources/schools'
+    title: Schools
+    footer: schools and colleges
+  -
+    url: '/resources/universities'
+    title: Universities
+    footer: universities
+  -
+    url: '/resources/employers'
+    title: Employers
+    footer: employers
+  -
+    url: '/resources/faith'
+    title: Faith
+    footer: faith and religion groups
+  -
+    url: '/resources/sports-and-fitness'
+    title: 'Sport & Fitness'
+    footer: sport and fitness clubs and venues
+  -
+    url: '/resources/unions'
+    title: Unions
+    footer: unions
+  -
+    url: '/resources/research'
+    title: UK Research
+    footer: UK-based researchers
+help:
+  -
+    url: '/resources/local'
+    title: Local groups
+    footer: local groups
+  -
+    url: '/books'
+    title: Books
+    footer: books
+  -
+    url: '/resources/family'
+    title: Family
+    footer: family
+  -
+    url: '/resources/gender-services'
+    title: Gender clinics
+    footer: UK gender services
+  -
+    url: '/resources/hormones'
+    title: Hormones
+    footer: hormones
+  -
+    url: '/resources/surgery'
+    title: Surgery
+    footer: surgeries
+  -
+    url: '/resources/mental-health'
+    title: Mental health
+    footer: mental health
+  -
+    url: '/resources/immigration'
+    title: Immigration
+    footer: immigration and asylum
+  -
+    url: '/resources/hate-crime'
+    title: Hate crime
+    footer: hate crime
+  -
+    url: '/resources/housing'
+    title: Homelessness
+    footer: homelessness and housing
+  -
+    url: '/resources/legal'
+    title: Legal
+    footer: legal
+  -
+    url: '/resources/prisons'
+    title: Prisons
+    footer: prisons
+  -
+    url: '/resources/sex'
+    title: Sex
+    footer: sex and contraception
+  -
+    url: '/resources/violence'
+    title: Violence and abuse
+    footer: domestic and sexual violence and abuse
+  -
+    url: '/resources/health'
+    title: Health
+    footer: health and screening tests
+  -
+    url: '/resources/national'
+    title: National organisations
+    footer: our national organisations directory
+  -
+    url: '/publications'
+    title: PDF library
+    footer: our PDF library
+indexes:
+  -
+    url: '/help'
+    title: Helplines
+  -
+    url: '/organisations'
+    title: Organisations
+  -
+    url: '/publications'
+    title: Publications
