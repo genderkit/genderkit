@@ -6,8 +6,8 @@ $main-colour = #6600ff
 $background-colour = #4400aa
 $grey-colour = #f0f0fa
 
-// Column size
-$column = 9rem
+// Grid olumn size
+$column = 7rem
 
 // Bold font weight
 $bold-weight = 600
@@ -40,12 +40,13 @@ body
   word-break break-word // force wrapping on words > screen width
   font-weight 300
   -webkit-font-smoothing antialiased
-header, footer, main
-  max-width 760px // sort out page margins on larger screens
+  max-width 960px // sort out page margins on larger screens
   margin-left auto
   margin-right auto
 main, footer
   padding 1rem
+article 
+  max-width 620px
 header
   background url('/assets/images/arrowback6.jpg')
   background-size cover
@@ -153,7 +154,10 @@ article img
     width 70px
     min-width 70px
     padding 5px
-    background $grey-colour
+    background #f6f6ff
+    border 2px solid $grey-colour
+    border-radius 16px
+    opacity 0.8
 .publication, .book
   img
     height 120px
@@ -168,17 +172,22 @@ article img
 .grid
   display grid
   grid-template-columns repeat(auto-fit, $column)
-  grid-gap 1rem /* 2rem on desktop */
+  /* grid-gap 1rem */
   justify-content center
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (min-width: 960px)
+  .grid
+    grid-template-columns repeat(auto-fit, 8rem)
+
 .grid.results 
   li
     flex-direction column
     align-items center
-    margin-bottom 0
-    background $grey-colour
   img 
     margin-right 0
     margin-top .5rem
+    margin-bottom .5rem
 
 // Notes on list items to provide additional detail
 .note
@@ -204,6 +213,8 @@ article img
     margin-bottom -4rem
     margin-left -6.25rem
     background-size 4rem
+  p
+    margin 0
 #effectslist, #explore, #resources 
   span
     display block
