@@ -28,7 +28,8 @@ var synonyms =
     "gender clinics": ["GICs"],
     "military": ["armed forces", "forces", "defence"],
     "family": ["parents"],
-    "hormones": ["medications", "blockers"]
+    "hormones": ["medications", "blockers"],
+    "menstruation": ["periods"]
 };
 
 var database = [];
@@ -147,6 +148,10 @@ try {
         }
         else {
             el.tags = [];
+        }
+        if (el.aka)
+        {
+            el.aka.forEach(i => keywords.push(i));
         }
         el.tagString = keywords.join(" ");
     })
