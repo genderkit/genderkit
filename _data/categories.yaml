@@ -62,7 +62,15 @@ explore:
   -
     url: '/category/medical-documents'
     title: Medical
-resources:
+information:
+  -
+    url: '/resources/family'
+    title: Family
+    footer: family
+  -
+    url: '/resources/employers'
+    title: Employers
+    footer: employers
   -
     url: '/resources/clinicians'
     title: Clinicians
@@ -75,55 +83,10 @@ resources:
     url: '/resources/universities'
     title: Universities
     footer: universities
-  -
-    url: '/resources/employers'
-    title: Employers
-    footer: employers
-  -
-    url: '/resources/faith'
-    title: Faith
-    footer: faith and religion groups
-  -
-    url: '/resources/sports-and-fitness'
-    title: 'Sport & Fitness'
-    footer: sport and fitness clubs and venues
-  -
-    url: '/resources/unions'
-    title: Unions
-    footer: unions
-  -
-    url: '/resources/research'
-    title: UK Research
-    footer: UK-based researchers
 help:
   -
-    url: '/resources/local'
-    title: Local groups
-    footer: local groups
-  -
-    url: '/books'
-    title: Books
-    footer: books
-  -
-    url: '/resources/family'
-    title: Family
-    footer: family
-  -
-    url: '/resources/gender-services'
-    title: Gender clinics
-    footer: UK gender services
-  -
-    url: '/resources/hormones'
-    title: Hormones
-    footer: hormones
-  -
-    url: '/resources/surgery'
-    title: Surgery
-    footer: surgeries
-  -
-    url: '/resources/mental-health'
-    title: Mental health
-    footer: mental health
+    url: '/help'
+    title: Helplines
   -
     url: '/resources/immigration'
     title: Immigration
@@ -141,36 +104,51 @@ help:
     title: Legal
     footer: legal
   -
-    url: '/resources/prisons'
-    title: Prisons
-    footer: prisons
-  -
-    url: '/resources/sex'
-    title: Sex
-    footer: sex and contraception
-  -
     url: '/resources/violence'
     title: Violence and abuse
     footer: domestic and sexual violence and abuse
+indexes:
   -
-    url: '/resources/health'
-    title: Health
-    footer: health and screening tests
+    url: '/resources/gender-services'
+    title: Gender clinics
+    footer: UK gender services
+  -
+    url: '/resources/local'
+    title: Local groups
+    footer: local groups
   -
     url: '/resources/national'
     title: National organisations
     footer: our national organisations directory
   -
     url: '/publications'
-    title: PDF library
-    footer: our PDF library
-indexes:
+    title: Publications
   -
-    url: '/help'
-    title: Helplines
-  -
-    url: '/organisations'
-    title: Organisations
+    url: '/books'
+    title: Books
+    footer: books
   -
     url: '/publications'
-    title: Publications
+    title: PDF library
+    footer: our PDF library
+resources:
+  -
+    url: '/resources/mental-health'
+    title: Mental health
+    footer: mental health
+  -
+    url: '/resources/sex'
+    title: Sex
+    footer: sex and contraception
+  -
+    url: '/resources/health'
+    title: Health
+    footer: health and screening tests
+  -
+    url: '/resources/faith'
+    title: Faith
+    footer: faith and religion groups
+  -
+    url: '/resources/sports-and-fitness'
+    title: 'Sport & Fitness'
+    footer: sport and fitness clubs and venues
