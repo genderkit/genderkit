@@ -13,7 +13,19 @@ function getData()
         .then(response => response.json())
         .then(data => { 
             db = data;
-            index = new quickScore.QuickScore(data, ["title", "details", "tagString"]);
+            index = new quickScore.QuickScore(
+                data, 
+                [
+                    {name: "title", scorer: quickScore.quickScore}, 
+                    {name: "details", scorer: quickScore.quickScore}, 
+                    {name: "tagString", scorer: (string, query) => 
+                        string
+                            .split(",")
+                            .map((i) => quickScore.quickScore(i, query))
+                            .reduce(( acc, cur ) => Math.max( acc, cur ), 0)
+                    }
+                ]
+            );
             update();
         })
 }
@@ -34,6 +46,8 @@ function update()
                 .search(query)
                 .slice(0, 50)
                 .filter(i => i.score > 0.5)
+                .filter(i => (i.matches.title.length <= 2 && i.matches.title.length > 0) 
+                    || (i.matches.details.length <= 2 && i.matches.details.length > 0))
                 .map(i => i.item);
         }
     

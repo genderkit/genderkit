@@ -153,7 +153,7 @@ try {
         {
             el.aka.forEach(i => keywords.push(i));
         }
-        el.tagString = keywords.join(" ");
+        el.tagString = keywords.join(",");
     })
 
     console.log(JSON.stringify(database));
