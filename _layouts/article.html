@@ -9,6 +9,17 @@ layout: page
   <h2>{{ page.title }}</h2>
   
   <article class="content">
+
+    <section class="bodytext">
+      <h3>What is it?</h3>
+      {% include feature.html %}
+      {% if info.summary %}
+          <p>{{ info.summary }}.</p>
+      {% endif %}
+      {% if info.aka %}
+        <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
+      {% endif %}
+    </section>
     <section class="greybox">
       <h3>What effects does it have?</h3>
       <ul class="effects">
@@ -19,14 +30,6 @@ layout: page
       </ul>
     </section>
     <section class="bodytext">
-      <h3>What is it?</h3>
-      {% include feature.html %}
-      {% if info.summary %}
-          <p>{{ info.summary }}.</p>
-      {% endif %}
-      {% if info.aka %}
-        <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
-      {% endif %}
       {% if info.duration %}
         <h3>How long does it last?</h3>
         <p>{{ info.duration }}</p>

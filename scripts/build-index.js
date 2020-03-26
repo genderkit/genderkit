@@ -29,7 +29,14 @@ var synonyms =
     "military": ["armed forces", "forces", "defence"],
     "family": ["parents"],
     "hormones": ["medications", "blockers"],
-    "menstruation": ["periods"]
+    "menstruation": ["periods"],
+    "lower body": ["genitals"],
+    "facial hair": ["beard", "stubble", "mustache"],
+    "face": ["acne", "spots", "skin"],
+    "fragrance": ["odour", "odor"],
+    "menstruation": ["periods"],
+    "upper body": ["chest", "breasts", "waist"],
+    "fertility": ["pregnancy"]
 };
 
 var database = [];
@@ -44,8 +51,9 @@ try {
 
     publications.publications.forEach((el, i) => {
         el.id = urlslug(el.url);
-        el.tags = el.tags ? el.tags : [];
-        el.tags.splice(0, 0, "PDF");
+        el.tags = el.tags ? el.tags.map(i => { return {name: i, url: ""} }) : [];
+        el.tags.splice(0, 0, {name: "PDF", url: "/publications"});
+        el.weighting = 20;
         el.details = el.organisation + ", " + el.year;
         var imagename = slug(el.organisation, " ") + " - " + slug(el.title, " ");
         el.image = '/assets/images/publications/' + imagename + '.jpg';
@@ -58,10 +66,11 @@ try {
         .map(i => {
             return {
                 "kind": "organisation",
+                "weighting": 10,
                 "title": i.name,
                 "url": i.url,
                 "details": i.manualDescription ? i.manualDescription : (i.twitterDescription ? i.twitterDescription : i.facebookDescription),
-                "tags": i.tags,
+                "tags": i.tags ? i.tags.map(i => { return {name: i, url: ""} }) : [],
                 "image": '/assets/images/organisations/' + (i.image ? i.image : (i.facebookId ? i.facebookId : i.twitterID)) + '.jpg'
             };
         })
@@ -70,6 +79,7 @@ try {
     categories.explore.forEach((el, i) => {
         el.image = '/assets/images/icons/icon_' + slug(el.title) + '.png';
         el.details = "";
+        el.weighting = 0;
         el.kind = "category";
     });
 
@@ -79,8 +89,9 @@ try {
         .forEach(i => {
             i.details = i.author + ", " + i.year
             i.kind = "book"
-            i.tags = i.tags ? i.tags : []
-            i.tags.splice(0, 0, "Books")
+            i.tags = i.tags ? i.tags.map(i => { return {name: i, url: ""} }) : []
+            i.tags.splice(0, 0, {name: "Books", url: "/books"})
+            i.weighting = 15;
             i.image = '/assets/images/books/' + i.title + ".jpg"
             database.push(i)
         });
@@ -108,6 +119,7 @@ try {
             var filepath = "/vagrant/git/genderkit/_articles/" + i.name.replace(".yaml", ".md");
             var raw = fs.readFileSync(filepath, 'utf8');
             article.title = getMetadata(raw, "title");
+            article.weighting = getMetadata(raw, "weighting");
             var image = getMetadata(raw, "image")
             article.image = image ? image : "/assets/images/nophoto.png";
             article.url = "/article/" + i.name.replace(".yaml", "")
@@ -115,7 +127,7 @@ try {
             article.kind = "article";
             article.tags = [];
             article.effects.forEach(effect => {
-                article.tags.push(effect.category);
+                article.tags.push({name: effect.category, url: "/category/" + slug(effect.category)});
             });
             database.push(article);
         });
@@ -132,7 +144,8 @@ try {
         word.image = "/assets/images/nophoto.png";
         word.url = "/words/" + i.name.replace(".md", "")
         word.kind = "word";
-        word.tags = ["Words"];
+        word.tags = [{name: "Words", url: "/words"}];
+        word.weighting = 6;
         database.push(word);
     });
 
@@ -141,8 +154,8 @@ try {
         if (el.tags) {
             el.tags.forEach(i => keywords.push(i))
             el.tags.forEach(tag => {
-                if (synonyms[tag.toLowerCase()]) {
-                    synonyms[tag.toLowerCase()].forEach(i => keywords.push(i))
+                if (synonyms[tag.name.toLowerCase()]) {
+                    synonyms[tag.name.toLowerCase()].forEach(i => keywords.push(i))
                 }
             });
         }

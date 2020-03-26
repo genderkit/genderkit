@@ -22,8 +22,17 @@ templates['publications'] = template({"1":function(container,depth0,helpers,part
     + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"tags") : depth0),{"name":"each","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":9,"column":16},"end":{"line":11,"column":25}}})) != null ? stack1 : "")
     + "            </ul>\r\n        </div>\r\n    </li>\r\n";
 },"2":function(container,depth0,helpers,partials,data) {
-    return "                <li class=\"tag\"><a>"
-    + container.escapeExpression(container.lambda(depth0, depth0))
+    var alias1=container.lambda, alias2=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "                <li class=\"tag\"><a href=\""
+    + alias2(alias1((depth0 != null ? lookupProperty(depth0,"url") : depth0), depth0))
+    + "\">"
+    + alias2(alias1((depth0 != null ? lookupProperty(depth0,"name") : depth0), depth0))
     + "</a></li>\r\n";
 },"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {

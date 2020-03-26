@@ -26,7 +26,11 @@ function getData()
                     }
                 ]
             );
-            update();
+
+            if (frontpage)
+            {
+                update();
+            }
         })
 }
 
@@ -44,21 +48,22 @@ function update()
         { 
             var results = index
                 .search(query)
-                .slice(0, 50)
                 .filter(i => i.score > 0.5)
                 .filter(i => (i.matches.title.length <= 2 && i.matches.title.length > 0) 
-                    || (i.matches.details.length <= 2 && i.matches.details.length > 0))
-                .map(i => i.item);
+                    || (i.matches.details.length <= 2 && i.matches.details.length > 0)
+                    || (i.scores.tagString >= 0.75))
+                .map(i => i.item)
+                .sort((a, b) => a.weighting - b.weighting);
         }
     
         if (results.length > 0)
         {
-            document.getElementById("publications").outerHTML = Handlebars.templates.publications(results);
+            document.getElementsByTagName("main")[0].innerHTML = Handlebars.templates.publications(results);
         }
         else
         {
             // do something to indicate nothing was found
-            document.getElementById("publications").innerHTML = "No results found."
+            document.getElementsByTagName("main")[0].innerHTML = "No results found."
         }
 
         document.getElementById("publications").className = query.length > 0 ? "results" : "results grid"
@@ -72,6 +77,7 @@ document.getElementById("searchbox").ontouchstart = (e) => {
 document.getElementById("searchbox").oninput = (e) => {
     lastkey = Date.now();
     query = e.target.value.toLowerCase();
+    //document.getElementById("searchpane").style.display = "block";
 
     // Wait a few milliseconds to see if the user changes their mind and types something else
     setTimeout(update, 150);
