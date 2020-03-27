@@ -77,7 +77,7 @@ try {
         .forEach(i => database.push(i));
 
     categories.explore.forEach((el, i) => {
-        el.image = '/assets/images/icons/icon_' + slug(el.title) + '.png';
+        el.image = '/assets/images/icons/icon_' + slug(el.title).toLowerCase() + '.png';
         el.details = "";
         el.weighting = 0;
         el.kind = "category";
@@ -127,7 +127,7 @@ try {
             article.kind = "article";
             article.tags = [];
             article.effects.forEach(effect => {
-                article.tags.push({name: effect.category, url: "/category/" + slug(effect.category)});
+                article.tags.push({name: effect.category, url: "/category/" + slug(effect.category).toLowerCase()});
             });
             database.push(article);
         });
@@ -142,7 +142,7 @@ try {
         var word = {};
         word.title = getMetadata(raw, "title");
         word.image = "/assets/images/nophoto.png";
-        word.url = "/words/" + i.name.replace(".md", "")
+        word.url = "/words/" + i.name.toLowerCase().replace(".md", "")
         word.kind = "word";
         word.tags = [{name: "Words", url: "/words"}];
         word.weighting = 6;
