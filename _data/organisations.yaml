@@ -1,6 +1,7 @@
 tags:
-    - 'NHS Gender Services'
-    - 'Private Gender Services'
+    - 'Gender Clinics'
+    - 'NHS'
+    - 'Private healthcare'
     - 'Under 18s'
     - Transmasculine
     - Nonbinary
@@ -48,106 +49,193 @@ regions:
     - Yorkshire
 organisations:
     -
+        heading: Cardiff
+        name: 'Wales Gender Service'
+        url: 'https://gender.wales/'
+        tags: ['NHS', 'Gender Clinics', 'Wales']
+        manualDescription: 'NHS Wales gender service'
+        image: nhs-wales2
+        age-range: "18+"
+        notes: "Only accepts patients with a registered GP in Wales."
+        nhs-funding: true
+        updated: "2020-04-13"
+    -
+        heading: Belfast
         name: 'Knowing Our Identity Gender Identity Development Service'
         url: 'http://www.belfasttrust.hscni.net/pdf/website_KOIleaflet.pdf'
-        tags: ['NHS Gender Services', 'Northern Ireland', 'Under 18s']
-        manualDescription: 'NHS gender service for under 18s in Northern Ireland'
+        tags: ['NHS', 'Gender Clinics', 'Northern Ireland', 'Under 18s']
+        manualDescription: 'HSC gender service for under 18s in Northern Ireland'
         image: hsc
+        age-range: "Under 18"
+        nhs-funding: true
     -
+        heading: Belfast
         name: 'Brackenburn Regional Gender Identity Clinic'
         url: 'http://www.belfasttrust.hscni.net/services/GenderIdentity.htm'
-        tags: ['NHS Gender Services', 'Northern Ireland']
-        manualDescription: 'NHS gender service located in Belfast'
+        tags: ['NHS', 'Gender Clinics', 'Northern Ireland']
+        manualDescription: 'HSC gender service located in Belfast'
         image: hsc
+        age-range: "18+"
+        not-accepting: true
+        nhs-funding: true
     -
-        name: 'YourGP Gender Clinic (Dr. Myskow)'
+        name: 'YourGP'
         url: 'http://your-gp.com/services/sexual-health-gender-clinic/gender-dysphoria/'
-        tags: ['Private Gender Services', Scotland]
+        tags: ['Private healthcare', 'Gender Clinics', Scotland]
         manualDescription: 'Private gender service located in Edinburgh'
+        image: your-gp
+        age-range: "17+"
+        publishes-wait: true
+        wait-first-appointment: 3
+        nhs-funding: false
+        updated: "2020-04-13"
     -
-        name: 'Gender Identity Clinic at the Chalmers Centre Edinburgh'
+        heading: Edinburgh
+        name: 'Gender Identity Clinic at the Chalmers Centre'
         url: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/'
-        tags: ['NHS Gender Services', Scotland]
+        tags: ['NHS', 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service located in Edinburgh'
         image: nhs-scotland
+        age-range: "17+"
+        publishes-wait: true
+        wait-first-appointment: 24
+        nhs-funding: true
+        updated: "2020-04-13"
     -
+        heading: Glasgow
         name: 'Sandyford Gender Identity Services'
-        url: 'https://www.sandyford.scot/sexual-health-services/gender-identitiy-service/'
-        tags: ['NHS Gender Services', Scotland]
+        url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
+        tags: ['NHS', 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service located in Glasgow accepting adults and under 18s'
         image: nhs-scotland
+        publishes-wait: true
+        wait-first-appointment: 27
+        nhs-funding: true
+        updated: "2020-04-13"
     -
+        heading: Exeter
         name: 'West of England Specialist Gender Identity Clinic'
         url: 'https://www.dpt.nhs.uk/our-services/gender-identity'
-        tags: ['NHS Gender Services', 'South West']
+        tags: ['NHS', 'Gender Clinics', 'South West']
         manualDescription: 'NHS gender service located in Exeter, also known as "The Laurels"'
         image: nhs
+        age-range: "17+"
+        publishes-wait: false
+        nhs-funding: true
     -
+        heading: Nottingham
         name: 'Nottingham Centre for Transgender Health'
         url: 'http://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
-        tags: ['NHS Gender Services', 'East Midlands']
+        tags: ['NHS', 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Nottingham'
         image: nhs
+        age-range: "16.5+"
+        publishes-wait: true
+        wait-first-appointment: 30
+        nhs-funding: true
+        updated: "2020-04-13"
     -
+        heading: Daventry
         name: 'Northamptonshire Healthcare NHS Foundation Trust Gender Clinic'
         url: 'https://www.nhft.nhs.uk/gic/'
-        tags: ['NHS Gender Services', 'East Midlands']
+        tags: ['NHS', 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
         image: nhs
+        age-range: "17+"
+        publishes-wait: false
+        nhs-funding: true
+        notes: "BBC News reported patients waiting over 25 months in February 2020"
     -
+        heading: Newcastle
         name: 'Northern Region Gender Dysphoria Service'
         url: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/'
-        tags: ['NHS Gender Services', 'North East']
+        tags: ['NHS', 'Gender Clinics', 'North East']
         manualDescription: 'NHS gender service located in Newcastle-upon-Tyne'
         image: nhs
+        age-range: "18+"
+        publishes-wait: true
+        wait-first-appointment: 26
+        nhs-funding: true
+        updated: "2020-04-13"
     -
+        heading: Leeds
         name: 'Leeds Gender Identity Service'
         url: 'https://www.leedsandyorkpft.nhs.uk/our-services/services-list/gender-identity-service/'
-        tags: ['NHS Gender Services', Yorkshire]
+        tags: ['NHS', 'Gender Clinics', Yorkshire]
         manualDescription: 'NHS gender service located in Leeds'
         image: nhs
+        age-range: "18+"
+        publishes-wait: true
+        wait-first-appointment: 29
+        nhs-funding: true
+        updated: "2020-04-13"
     -
+        heading: Sheffield
         name: 'Porterbrook Clinic Gender Identity Service'
         url: 'http://shsc.nhs.uk/service/gender-identity-service/'
-        tags: ['NHS Gender Services', Yorkshire]
+        tags: ['NHS', 'Gender Clinics', Yorkshire]
         manualDescription: 'NHS gender service located in Sheffield'
         image: nhs
+        age-range: "18+"
+        publishes-wait: false
+        nhs-funding: true
     -
+        heading: London
         name: 'Tavistock and Portman Gender Identity Development Service'
         url: 'http://gids.nhs.uk/'
-        tags: ['NHS Gender Services', 'Under 18s', National]
+        tags: ['NHS', 'Gender Clinics', 'Under 18s', National]
         manualDescription: 'NHS gender service for under 18s across the UK'
+        notes: 'Patients from Wales must ask their GP to apply for funding to access the service.'
         image: gids
+        age-range: "Under 18"
+        nhs-funding: true
+        publishes-wait: true
+        wait-first-appointment: 22
+        updated: "2020-04-13"
     -
+        heading: London
         name: 'Tavistock and Portman Gender Identity Clinic'
         url: 'https://gic.nhs.uk/'
-        tags: ['NHS Gender Services', National]
+        tags: ['NHS', 'Gender Clinics', National]
         manualDescription: 'NHS gender service for over 18s located in Hammersmith, London. Often referred to as "Charing Cross". Previously operated as the "West London Mental Health NHS Trust Gender Identity Clinic".'
         image: gic
+        age-range: "17+"
+        publishes-wait: false
+        nhs-funding: true
+        update-date: "2020-03-06"
+        notes: "Board minutes show most patients waiting more than 15 months."
     -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/trans-support-service-tss/'
-        tags: ['NHS Gender Services', National]
+        tags: ['NHS', National]
         manualDescription: 'A service which has been set up to support local transsexual, transgender, and gender non-conforming people by listening to them, informing them of available options to relieve their gender distress and empowering them to move forward with their lives.'
         image: nhs
     -
         name: 'Transhealth (Dr. Curtis)'
         url: 'http://transhealth.co.uk/'
-        tags: ['Private Gender Services', National]
+        tags: ['Private healthcare', 'Gender Clinics', National]
         manualDescription: 'Private gender service located in Marylebone, London. Closing at end of 2017.'
         archived: true
     -
         name: 'Northern Gender Network'
         url: 'https://www.northerngendernetwork.co.uk/'
-        tags: ['Private Gender Services', National]
-        manualDescription: 'The Northern Gender Network is a network of specialists in the field of Gender Dysphoria based in the North of England.'
+        tags: ['Private healthcare', 'Gender Clinics', National]
+        image: "ngn"
+        manualDescription: "Private sector network of specialists in the field of Gender Dysphoria based in the North of England."
+        age-range: "17.5+"
+        publishes-wait: truetomelgbt
+        wait-first-appointment: 1.5
+        nhs-funding: false
+        updated: "2020-04-13"
     -
-        name: 'GenderGP (Dr. Webberley)'
+        name: 'GenderGP'
         url: 'https://gendergp.co.uk/'
         twitter: gendergp
         facebook: gendergp
         youtube: UCU1mUfFhtdIRZiWADXqPtnw
-        tags: ['Private Gender Services', National]
+        tags: ['Private healthcare', 'Gender Clinics']
+        image: gendergp
+        manualDescription: "International private gender service"
         lastFacebookPost: '2017-12-09T09:31:45+0000'
         facebookDescription: 'This is a page to allow people to contact a real NHS GP for confidential advice on Transgender hormones, counselling and advice.'
         twitterDescription: 'Gender-affirming healthcare & wellbeing support for the #transgender community: counselling, prescription medication, advocacy & more. 📧 info@gendergp.com'
@@ -156,12 +244,16 @@ organisations:
         twitterID: '968819169448939525'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1143125660300394496/sKKmOIvb_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12974410_989428701143667_2040946718835892457_n.png?oh=98f81b9321d83d3b4dd4a282c6c0bca9&oe=5A8BF181'
+        publishes-wait: false
+        nhs-funding: false
     -
-        name: 'GenderCare (Dr. Lorimer)'
+        name: 'GenderCare'
         url: 'http://gendercare.co.uk'
         twitter: gendercaredrl
         facebook: drstuartlorimer
-        tags: ['Private Gender Services', National]
+        tags: ['Private healthcare', 'Gender Clinics', National]
+        image: gendercare
+        manualDescription: "Private sector network of gender healthcare clinicians"
         lastFacebookPost: '2017-09-22T00:50:20+0000'
         facebookDescription: 'I head up GenderCare, a network of individual healthcare practitioners, all qualified, Consultant-level professionals experienced in the gender field.'
         twitterDescription: 'Head of GenderCare, a private sector network of gender healthcare clinicians. He/him. Views my own. Infrequently here. Tweets private but ask me to add you.'
@@ -170,23 +262,27 @@ organisations:
         twitterID: '731232741078007809'
         twitterIcon: 'https://pbs.twimg.com/profile_images/731233414116986880/35QTks10_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c0.0.50.50/p50x50/13164311_1790073354549106_9094273060506944158_n.jpg?oh=a95f44cf2d1cb231d9f8481af9ab5731&oe=5A8D8182'
+        age-range: "18+"
+        notes: "Waiting lists vary between clinicians, with current patients reporting 2-3 months waiting time."
+        publishes-wait: false
+        nhs-funding: false
     -
         name: 'National Gender Identity Clinical Network for Scotland'
         url: 'http://www.ngicns.scot.nhs.uk'
         manualDescription: 'NHS Scotland network for Scottish gender clinics and online information hub'
-        tags: ['NHS Gender Services', Scotland]
+        tags: ['NHS', Scotland]
         image: nhs-scotland
     -
         name: 'NHS Wales Gender Identity Partnership Group'
         url: 'http://www.whssc.wales.nhs.uk/gender-identity-partnership-group'
         manualDescription: 'Advisory board for Gender Identity services in Wales'
-        tags: ['NHS Gender Services', Wales]
+        tags: ['NHS', Wales]
         image: nhs-wales
     -
         name: 'Dysfforia Rhywedd Cymru / Gender Dysphoria Wales'
         url: 'http://www.genderdysphoria.wales.nhs.uk/'
         manualDescription: 'NHS Wales gender dysphoria online information hub'
-        tags: ['NHS Gender Services', Wales]
+        tags: ['NHS', Wales]
         image: nhs-wales
     -
         name: Born
@@ -2081,13 +2177,13 @@ organisations:
     -
         name: 'Imperial College Healthcare NHS Trust Gender Surgery Service'
         url: 'https://www.imperial.nhs.uk/our-services/surgery/genital-reconstructive-surgery'
-        tags: ['NHS Gender Services', Surgery, National]
+        tags: ['NHS', Surgery, National]
         manualDescription: 'NHS surgical clinic specialising in vaginoplasty and labiaplasty'
         image: nhs
     -
         name: 'Manchester Chest Wall Contouring Clinic'
         url: 'http://www.pat.nhs.uk/our-services/general-surgery-gender.htm'
-        tags: ['NHS Gender Services', Surgery, Manchester]
+        tags: ['NHS', Surgery, Manchester]
         manualDescription: 'NHS surgical clinic specialising in chest surgery'
         image: nhs
     -
@@ -2182,7 +2278,7 @@ organisations:
         archived: true
     -
         name: 'Leeds Gender Outreach Workers'
-        tags: [Yorkshire, 'NHS Gender Services']
+        tags: [Yorkshire, 'NHS']
         facebook: LeedsGenderOutreachWorkers
         facebookId: '180118342534201'
         lastFacebookPost: '2017-12-11T16:33:02+0000'

@@ -1,0 +1,42 @@
+{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"heading" | sort:"wait-first-appointment", "last" %}
+
+<ul class="details" id="organisations">
+  {% for item in sortedOrganisations %}
+    <li>
+      {% assign url = item.url %}
+      {% if item.image %}
+        <img src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+      {% endif %}
+
+      <h3>{% if item.heading %}{{ item.heading | xml_escape }}: {% endif %}<a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
+      <p>{{ item.manualDescription | xml_escape }}</p>
+
+      {% if item.notes %}
+        <p>Note: {{ item.notes | xml_escape }}</p>
+      {% endif %}
+
+      <div class="searchDetails">
+
+        {% if item.nhs-funding %}
+          <span><img src="/assets/images/tick.svg" class="inlineIcon" /> Free service<a href="#costs-and-funding">*</a></span>&nbsp;
+        {% else %}
+          <span><img src="/assets/images/warning.svg" class="inlineIcon" /> Charges fees</span>&nbsp;
+        {% endif %}
+
+        {% if item.age-range %}
+          <span><em>{{ item.age-range }}</em> years only</span>&nbsp;
+        {% else %}
+          <span><img src="/assets/images/tick.svg" class="inlineIcon" /> For all ages</span>&nbsp;
+        {% endif %}
+      
+        {% if item.publishes-wait %}
+          <span><img src="/assets/images/warning.svg" class="inlineIcon" /> {{ item.wait-first-appointment }}+ months wait<a href="#waiting-times">**</a></span>&nbsp;
+        {% else %}
+          <span>No official wait data</span>&nbsp;
+        {% endif %}
+
+      </div>
+
+    </li>
+  {% endfor %}
+</ul>
