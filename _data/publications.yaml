@@ -746,7 +746,7 @@ publications:
     title: "Focus on gender incongruence in primary care"
     organisation: "British Medical Association"
     year: 2016
-    url: "https://www.bma.org.uk/-/media/files/pdfs/practical%20advice%20at%20work/gp%20practices/focus-on-gender-incongruence-in-primary-care.pdf"
+    url: "https://www.bma.org.uk/media/1085/bma-focus-on-gender-incongruence-in-primary-care.pdf"
     tags: [Medical policies, 'National medical advice']
   -
     title: "First steps to trans inclusion - An introduction to trans inclusion in the workplace"
@@ -1401,6 +1401,7 @@ publications:
     year: 2014
     url: "https://www.nhsgoldenjubilee.co.uk/files/6514/8482/1969/Transgender_policy.pdf"
     tags: [Employment, 'Local medical employment guidance']
+    archived: true
   -
     title: "Guidelines for the Use of Masculinising Hormone Therapy in Gender Dysphoria"
     organisation: "NHS North of Tyne and Gateshead Area Prescribing Committee"
