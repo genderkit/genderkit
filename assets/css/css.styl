@@ -220,22 +220,24 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 {
   height 150px
 }
-#organisations img
-{
-  display block
-  width 50px
-  height 50px
-  margin-left -50px
-  margin-bottom -50px
-}
-#organisations li
-{
-  margin-left 50px
-} 
-#organisations p, #organisations h3
-{
-  margin-left 1rem
-} 
+
+#organisations, #clinics
+  img
+    display block
+    width 50px
+    height 50px
+    margin-left -50px
+    margin-bottom -50px
+  li
+    margin-left 50px
+  p, h3
+    margin-left 1rem
+  .inlineIcon
+    width 1em
+    height 1em
+    margin 0
+    display inline-block
+
 .bookauthor, .publicationyear
 {
   color #888
@@ -387,14 +389,11 @@ nav, aside, .attention
   display flex
   flex-direction row
   flex-wrap wrap
+  align-items center
   span 
     margin-right .5rem
 
-#organisations .inlineIcon
-  width 1em
-  height 1em
-  margin 0
-  display inline-block
+
 
 // Tags
 .tags
@@ -461,6 +460,39 @@ nav, aside, .attention
     opacity 1
     text-align left
     font-weight bold
+
+// Gender clinic summary page
+#clinics
+  font-size 14px
+  li
+    margin-bottom 0
+    min-height 2.5em
+  li, p, h3, .searchDetails
+    margin-left 0
+  img
+    height 1.5em
+    width 1.5em
+    margin 0 .25em 0 0
+    display none
+  .searchDetails 
+    span
+      margin-right .25em
+  .clinicheading
+    font-weight bold
+    min-width 6.5em
+    max-width 6.5em
+    color #666
+    line-height 1
+  .funding
+    min-width 5em
+  .agerange
+    min-width 5em
+
+@media screen and (min-width: 400px)
+  #clinics 
+    img
+      display inline-block
+
 
 // Horrible special cases to make things look nicer
 #effectslist, #explore, #help, #resources

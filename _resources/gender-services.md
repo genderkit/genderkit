@@ -2,6 +2,8 @@
 layout: misc
 title: Specialist UK gender clinics
 description: List of UK gender services including NHS and private clinics
+attention-title: COVID-19 information
+attention-text: "Find up-to-date information on how the COVID-19 coronavirus has affected UK gender clinics at [Trans Health UK](https://transhealthuk.noblogs.org/)"
 ---
 
 In the UK, people who are changing things linked to gender are supported by a set of specialist centres, usually known as "gender clinics", which offer diagnosis and access to other services like medications. 

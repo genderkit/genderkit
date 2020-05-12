@@ -1,40 +1,42 @@
 {% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"heading" | sort:"wait-first-appointment", "last" %}
 
-<ul class="details" id="organisations">
+<ul class="details summarydetails" id="clinics">
   {% for item in sortedOrganisations %}
     <li>
       {% assign url = item.url %}
-      {% if item.image %}
-        <img src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
-      {% endif %}
-
-      <h3>{% if item.heading %}{{ item.heading | xml_escape }}: {% endif %}<a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
-      <p>{{ item.manualDescription | xml_escape }}</p>
-
-      {% if item.notes %}
-        <p>Note: {{ item.notes | xml_escape }}</p>
-      {% endif %}
 
       <div class="searchDetails">
+        {% if item.image %}
+          <img src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+        {% endif %}
+
+        <span class="clinicheading">
+          <a href="{{ url }}">{% if item.heading %}{{ item.heading | xml_escape }}{% else %}{{ item.name | xml_escape }}{% endif %}</a>
+          {% if item.nickname %}{{item.nickname}}{% endif %}
+        </span>
 
         {% if item.nhs-funding %}
-          <span><img src="/assets/images/tick.svg" class="inlineIcon" /> Free service<a href="#costs-and-funding">*</a></span>&nbsp;
+          <span class="funding"><img src="/assets/images/tick.svg" class="inlineIcon" />&nbsp;Free</span>
         {% else %}
-          <span><img src="/assets/images/warning.svg" class="inlineIcon" /> Charges fees</span>&nbsp;
+          <span class="funding"><img src="/assets/images/warning.svg" class="inlineIcon" />&nbsp;Costs</span>
         {% endif %}
 
         {% if item.age-range %}
-          <span><em>{{ item.age-range }}</em> years only</span>&nbsp;
+          {% if item.age-range == "Under 18" %}
+            <span class="agerange"><em>Under 18s</em></span>
+          {% else %}
+            <span class="agerange"><em>{{ item.age-range }}</em> only</span>
+          {% endif %}
         {% else %}
-          <span><img src="/assets/images/tick.svg" class="inlineIcon" /> For all ages</span>&nbsp;
+          <span class="agerange"><em>All</em> ages</span>
         {% endif %}
       
         {% if item.publishes-wait %}
-          <span><img src="/assets/images/warning.svg" class="inlineIcon" /> {{ item.wait-first-appointment }}+ months wait<a href="#waiting-times">**</a></span>&nbsp;
+          <span class="waittime">{% if item.wait-first-appointment < 12 %}<img src="/assets/images/tick.svg" class="inlineIcon" />{% else %}<img src="/assets/images/warning.svg" class="inlineIcon" />{% endif %}{% if item.wait-first-appointment == 0 %}&nbsp;<em><1</em> month{% else %}&nbsp;<em>{{ item.wait-first-appointment }}+</em> months{% endif %}</span>
         {% else %}
-          <span>No official wait data</span>&nbsp;
+          <span class="waittime">No official data</span>
         {% endif %}
-
+          
       </div>
 
     </li>
