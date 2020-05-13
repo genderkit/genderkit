@@ -49,8 +49,8 @@ regions:
     - Yorkshire
 organisations:
     -
-        heading: Cardiff
-        name: 'Wales Gender Service'
+        heading: Welsh Gender Service
+        name: 'Welsh Gender Service'
         url: 'https://gender.wales/'
         tags: [NHS, 'Gender Clinics', Wales]
         manualDescription: 'NHS Wales gender service'

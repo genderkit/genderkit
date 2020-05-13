@@ -21,22 +21,30 @@
           <span class="funding"><img src="/assets/images/warning.svg" class="inlineIcon" />&nbsp;Costs</span>
         {% endif %}
 
-        {% if item.age-range %}
-          {% if item.age-range == "Under 18" %}
-            <span class="agerange"><em>Under 18s</em></span>
+        {% if item.not-accepting %}
+
+          <span class="waittime"><em>Not accepting referrals</em></span>
+
+        {% else %}
+
+          {% if item.age-range %}
+            {% if item.age-range == "Under 18" %}
+              <span class="agerange"><em>Under</em> 18s</span>
+            {% else %}
+              <span class="agerange"><em>{{ item.age-range }}</em> only</span>
+            {% endif %}
           {% else %}
-            <span class="agerange"><em>{{ item.age-range }}</em> only</span>
+            <span class="agerange"><em>All</em> ages</span>
           {% endif %}
-        {% else %}
-          <span class="agerange"><em>All</em> ages</span>
+        
+          {% if item.publishes-wait %}
+            <span class="waittime">{% if item.wait-first-appointment < 12 %}<img src="/assets/images/tick.svg" class="inlineIcon" />{% else %}<img src="/assets/images/warning.svg" class="inlineIcon" />{% endif %}{% if item.wait-first-appointment == 0 %}&nbsp;<em><1</em> month wait{% else %}&nbsp;<em>{{ item.wait-first-appointment }}+</em> month wait{% endif %}</span>
+          {% else %}
+            <span class="waittime"><img src="/assets/images/cross.svg" class="inlineIcon" />&nbsp;Unknown wait</span>
+          {% endif %}
+
         {% endif %}
-      
-        {% if item.publishes-wait %}
-          <span class="waittime">{% if item.wait-first-appointment < 12 %}<img src="/assets/images/tick.svg" class="inlineIcon" />{% else %}<img src="/assets/images/warning.svg" class="inlineIcon" />{% endif %}{% if item.wait-first-appointment == 0 %}&nbsp;<em><1</em> month{% else %}&nbsp;<em>{{ item.wait-first-appointment }}+</em> months{% endif %}</span>
-        {% else %}
-          <span class="waittime">No official data</span>
-        {% endif %}
-          
+
       </div>
 
     </li>
