@@ -135,7 +135,7 @@ publications:
     title: "Interim Gender Dysphoria Protocol and service Guideline 2013/14"
     organisation: "NHS England"
     year: 2013
-    url: "https://www.bathandnortheastsomersetccg.nhs.uk/assets/uploads/2019/08/NHS-England-Interim-Gender-Dysphoria-Protocol.pdf"
+    url: "https://webarchive.nationalarchives.gov.uk/20180501165619/https://www.england.nhs.uk/wp-content/uploads/2013/10/int-gend-proto.pdf"
     tags: [Medical policies, England, 'National medical policies']
   -
     title: "Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria"
@@ -528,6 +528,7 @@ publications:
     year: 2014
     url: 'http://www.lancashirechildrenstrust.org.uk/web/viewdoc.asp?id=121455'
     tags: [Education, England, Local school policies]
+    archived: true
   -
     title: 'Changing your name and title'
     organisation: 'UK Trans Info'
@@ -748,6 +749,7 @@ publications:
     year: 2016
     url: "https://www.bma.org.uk/media/1085/bma-focus-on-gender-incongruence-in-primary-care.pdf"
     tags: [Medical policies, 'National medical advice']
+    archived: true
   -
     title: "First steps to trans inclusion - An introduction to trans inclusion in the workplace"
     organisation: "Stonewall"
@@ -919,6 +921,7 @@ publications:
     year: 2017
     url: "https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf"
     tags: [Sex, Health, 'National medical guidance'] 
+    archived: true
   -
     title: "Second Class Citizens, Second Class Women: The impact of gender inequality and commercial sexual exploitation on transsexual women"
     organisation: "LGBT Youth Scotland"
@@ -1012,19 +1015,19 @@ publications:
     title: "Trans Guides Issue 1: Name Change and Gender Recognition Certificates"
     organisation: "LGBT Foundation"
     year: 2017
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/d539a98f-a586-4c32-9736-ae9c5f5ac2dd/TransGuide1-Spreads-V2.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/d539a98f-a586-4c32-9736-ae9c5f5ac2dd/TransGuide1-Spreads-V2.pdf"
     tags: [Legal, 'Gender recognition', 'Name and title changes']
   -
     title: "Trans Guides Issue 2: Support for GPs and Trans Patients"
     organisation: "LGBT Foundation"
     year: 2017
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/d1db79de-1646-47b7-8b4d-6321c36f00ab/TransGuideIssue2-DIGITAL.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/d1db79de-1646-47b7-8b4d-6321c36f00ab/TransGuideIssue2-DIGITAL.pdf"
     tags: [National medical guidance]
   -
     title: "A guide for trans people who have been affected by sexual violence"
     organisation: "LGBT Foundation"
     year: 2015
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf"
     tags: [Violence]
   -
     title: "Getting Equalities Monitoring Right"
@@ -1048,7 +1051,7 @@ publications:
     title: "Transforming Outcomes - A review of the needs and assets of the trans community"
     organisation: "LGBT Foundation"
     year: 2017
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/acd2bcc5-a2d4-4203-8e22-aed9f4843921/TransformingOutcomesLGBTFdn.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/acd2bcc5-a2d4-4203-8e22-aed9f4843921/TransformingOutcomesLGBTFdn.pdf"
     tags: [Studies]
   -
     title: "Trans Toolkit for Schools"
@@ -1365,6 +1368,7 @@ publications:
     year: 2017
     url: "https://www.uhmb.nhs.uk/files/3115/1067/2200/UHMB_Transgender_Care_Policy_V1.1.pdf"
     tags: [Medical policies, Local medical policies]
+    archived: true
   -
     title: "Trans* people and HIV"
     organisation: "NAT"
@@ -1479,7 +1483,7 @@ publications:
     title: "Welcoming Transgender People"
     organisation: "Church of England General Synod"
     year: 2017
-    url: "https://www.churchofengland.org/sites/default/files/2017-11/gs-2071b-welcoming-transgender-people-a-note-from-the-secretary-general.pdf"
+    url: "https://www.churchofengland.org/sites/default/files/2017-11/gs-2071a-welcoming-transgender-people.pdf"
     tags: ['Faith']
   -
     title: "An update on Welcoming Transgender People"
@@ -1690,6 +1694,13 @@ publications:
     year: 2014
     url: "https://nos.org.uk/media/1585/transsexual-people-and-osteoporosis_-october-2014.pdf"
     tags: ['Health']
+    archived: true
+  -
+    title: "Transgender people and osteoporosis"
+    organisation: "National Osteoporosis Society"
+    year: 2018
+    url: "https://strwebstgmedia.blob.core.windows.net/media/libmnjci/transgender-people-and-osteoporosis-fact-sheet-march-2018.pdf"
+    tags: ['Health']
   -
     title: "Trans Equality at Work: A Unite Guide"
     organisation: "UNITE The Union"
@@ -1732,7 +1743,7 @@ publications:
     title: "Trans staff and students in HE and colleges: improving experiences"
     organisation: "Equality Challenge Unit"
     year: 2016
-    url: "http://www.port.ac.uk/departments/services/equalityanddiversity/downloads/filetodownload,197469,en.pdf"
+    url: "https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/ecu/Trans_guidance_May_2017_1579704782.pdf"
     tags: ['Education', 'National school guidance']
   -
     title: "Trans Patients Policy and Procedure"
@@ -1768,7 +1779,7 @@ publications:
     title: "Gender Reassignment Policy"
     organisation: "NHS Leicestershire Partnership NHS Trust"
     year: 2018
-    url: "https://www.leicspart.nhs.uk/wp-content/uploads/2020/01/Gender-Reassignment-Policy-exp-Aug-21.pdf"
+    url: "https://www.leicspart.nhs.uk/wp-content/uploads/2020/04/Gender-Reassignment-Policy-exp-Aug-21.pdf"
     tags: ['Medical policies', 'Local medical employment policies']
   -
     title: "Gender Reassignment Support in the Workplace"
@@ -1989,6 +2000,7 @@ publications:
     year: 2015
     url: "http://www.healthwatchhampshire.co.uk/sites/default/files/chrysalis_report.pdf"
     tags: [Studies]
+    archived: true
   -
     title: "TransEdu Scotland - Researching the experience of trans and gender diverse applicants, students and staff in Scotland's colleges and universities"
     organisation: "transEDU"
@@ -2092,14 +2104,14 @@ publications:
     title: "Safer Sex and Our Health"
     organisation: "LGBT Foundation"
     year: 2019
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/28532f75-927b-45eb-87df-824581091481/TSH-Guide-Side-1-FINAL.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/28532f75-927b-45eb-87df-824581091481/TSH-Guide-Side-1-FINAL.pdf"
     tags: [Sex]
     warning: "This publication contains drawings of fully naked people."
   -
     title: "Safer Sex, Ourselves and Our Relationships"
     organisation: "LGBT Foundation"
     year: 2019
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/aa7a98ed-58a8-42ce-bced-5cbde08f5989/TSH-Guide-Side-2-FINAL.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/aa7a98ed-58a8-42ce-bced-5cbde08f5989/TSH-Guide-Side-2-FINAL.pdf"
     tags: [Sex]
     warning: "This publication contains drawings of fully naked people."
   -
@@ -2137,7 +2149,8 @@ publications:
     organisation: "NSPCC Wales"
     year: 2015
     url: "https://www.nspcc.org.uk/globalassets/documents/consultation-responses/nspcc-wales-cymru-response-government-action-plan-transgender-people.pdf"
-    tags: [] 
+    tags: []
+    archived: true
   -
     title: "PG12 Pharmacological Treatment of Gender Dysphoria"
     organisation: "Devon Partnership NHS Trust"
@@ -2193,6 +2206,12 @@ publications:
     url: "http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182b%20Gender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Spec%20V1.0%20SEPT.pdf"
     tags: [Wales, Medical policies, Service specifications]
   -
+    title: "Trans and Non-Binary Employees UHL Policy"
+    organisation: "University Hospitals of Leicester NHS Trust"
+    year: 2018
+    url: "http://www.library.leicestershospitals.nhs.uk/PAGL/Shared%20Documents/Trans%20and%20Non-Binary%20Employees%20UHL%20Policy.pdf"
+    tags: ['Medical policies', 'Local medical employment policies']
+  -
     title: "Transgender and Non-binary Patients - Supporting UHL Policy"
     organisation: "University Hospitals of Leicester NHS Trust"
     year: 2019
@@ -2202,13 +2221,7 @@ publications:
     title: "A Guide to Being A Trans Ally"
     organisation: "LGBT Foundation"
     year: 2019
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/139d38ec-f6ce-4722-8945-8058be7da427/trans%2520allies%2520brochure%2520v4_smallfile.pdf"
-    tags: []
-  -
-    title: "A Guide to Being A Trans Ally"
-    organisation: "LGBT Foundation"
-    year: 2019
-    url: "https://s3-eu-west-1.amazonaws.com/lgbt-media/Files/139d38ec-f6ce-4722-8945-8058be7da427/trans%2520allies%2520brochure%2520v4_smallfile.pdf"
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/139d38ec-f6ce-4722-8945-8058be7da427/trans%2520allies%2520brochure%2520v4_smallfile.pdf"
     tags: []
   -
     title: "Experiences of health and care in Sheffield's trans community"
@@ -2228,6 +2241,18 @@ publications:
     year: 2019
     url: "https://www.enhertsccg.nhs.uk/sites/default/files/documents/Apr2019/Gender-Dysphoria-Paper-for-Upload-V2.pdf"
     tags: ['Medical policies', 'Local medical policies']
+  -
+    title: "Findings from the Trans Sexual Health Survey 2018"
+    organisation: "LGBT Foundation"
+    year: 2020
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/dcec75ea-383f-4e54-bc27-5133f21d6e71/Trans%2520Sexual%2520Health%2520Survey.pdf"
+    tags: [Studies, England]
+  -
+    title: "A Guide to Reporting Transphobic Crime"
+    organisation: "LGBT Foundation"
+    year: 2019
+    url: "https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/afe45faa-5fff-425d-a4f4-ec8c55c78ebd/hatecrimereporting-webdesign.pdf"
+    tags: ['Legal', 'Violence']
   # -
   #   title: ""
   #   organisation: ""
