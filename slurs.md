@@ -29,7 +29,7 @@ It is now considered to be offensive.
 
 It is also normally medically inaccurate (as "hermaphroditism", named after the mythological character [Hermaphroditus](https://en.wikipedia.org/wiki/Hermaphroditus) refers to having a combination of both female and male genitals at once).
 
-There is a useful guide to intersex and terminology used to describe intersex people on [the OII Australia website](https://oii.org.au/allies/).
+There is a useful guide to intersex and terminology used to describe intersex people on [the OII Australia website](https://ihra.org.au/allies/).
 
 ### Shemale
 
