@@ -1,7 +1,7 @@
 ---
 layout: names
 title: Names
-description: TODODODO
+description: Suggestions about how to choose a new name including lists of common names
 ---
 
 ### Choosing a new name
