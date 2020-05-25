@@ -11,14 +11,28 @@ Changing gender marker may affect whether you are invited to important medical s
 {% endcapture %}
 {% include warning warning=warn %}
 
-You can change your name, title, or gender with the NHS at any time you like by telling your GP surgery. If your GP surgery is not happy to do this, you may wish to show your GP [the General Medical Council guidance on this issue](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#confidentiality-and-equality).
+You can change your name, title, or gender with the NHS at any time you like by telling your GP surgery. 
 
-The NHS has multiple different systems that store details about patients. Most of these will be automatically updated when you tell your GP surgery. 
+### How do I request a change to my details?
 
-Each system is different and able to hold different information about [titles]({% link _explore/titles.md %}) (or lack of title) and about the gender of the patient. In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded.
+Most GP surgeries will be able to update your details if you ask at reception. However, some GP surgeries may be unsure of the procedure for how to do it. You may find it helpful to give them these links which explain how they can update your details:
+
+- in *England*, on the [PCSE website](https://pcse.england.nhs.uk/services/registrations) (search for "How should I advise PCSE of a patient gender re-assignment?" and "A transgender patient registered at our practice would like to change their registered name")
+- in *Wales*, on the [GPOne website](http://www.gpone.wales.nhs.uk/medical-records)
+- in *Scotland*, on the [NHS National Services Scotland website](https://nhsnss.org/foi-disclosure/requirements-for-processing-a-change-of-gender-and-title/)
+
+If your GP surgery is still unhappy to do this, or request a Gender Recognition Certificate before making a change, you may wish to show your GP [the General Medical Council guidance on this issue](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#confidentiality-and-equality).
+
+### What happens next?
+
+The NHS has multiple different systems that store details about patients. Most of these will be automatically updated when you tell your GP surgery, but you may find some hospitals or other NHS services are not automatically updated, and you may have to tell them as well. 
+
+Each NHS system is different and able to hold different information about [titles]({% link _explore/titles.md %}) (or lack of title) and about the gender of the patient. 
+
+In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded. 
 
 Usually, when you change your gender marker, you are also assigned a new [NHS number](
-http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). In England, information for GP surgeries on how to arrange for this is on [the PCSE website](https://pcse.england.nhs.uk/services/registrations/) (see the FAQs section).
+http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). This means that records from before your change in gender marker are kept seperately, to protect your privacy.
 
 ### Screening tests
 
