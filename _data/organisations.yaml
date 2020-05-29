@@ -531,6 +531,7 @@ organisations:
         twitterID: '2432213046'
         twitterIcon: 'https://pbs.twimg.com/profile_images/691407677252050948/h8MbqjpQ_normal.png'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12715420_1685284751751895_4892086156287671165_n.png?oh=bc3195bddcd7d17bbb6c4547a058ac9f&oe=5A930BCF'
+        archived: true
     -
         name: 'UK Trans Info'
         url: 'http://uktransinfo.eu/'
@@ -2451,7 +2452,7 @@ organisations:
     -
         name: 'Space Youth Project T-Group'
         tags: ['South West', 'Local groups']
-        url: 'http://www.spaceyouthproject.co.uk/p/t-group.html'
+        url: 'https://www.spaceyouthproject.co.uk/t-group'
         manualDescription: 'Bournemouth based group for young adults aged 14-25.'
         image: spacetgroup
     -
