@@ -155,6 +155,7 @@ publications:
     url: 'https://www.england.nhs.uk/wp-content/uploads/2013/10/int-gend-proto.pdf'
     tags: ['Medical policies', England, 'National medical policies']
     uuid: 9fbb315f-5885-4662-acfa-a6271f0b4612
+    archived: true
   -
     title: 'Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria'
     organisation: 'Royal College of Psychiatrists'
@@ -449,6 +450,7 @@ publications:
     url: 'http://uktrans.info/graguide.pdf'
     tags: [Legal, 'Gender recognition']
     uuid: d20b008e-a3d9-4286-af95-8b2aaeb908ff
+    archived: true
   -
     title: 'Change of name'
     organisation: 'The Nottingham Centre for Transgender Health'
@@ -869,6 +871,7 @@ publications:
     url: 'http://www.genderdysphoria.wales.nhs.uk/sitesplus/documents/1127/TransGender%20Guidance%20Schools%20Final.pdf'
     tags: [Wales, Education, 'Local school policies']
     uuid: fca584e6-3347-48fe-957d-94158ad7dc3c
+    archived: true
   -
     title: 'Focus on gender incongruence in primary care'
     organisation: 'British Medical Association'
@@ -1276,7 +1279,7 @@ publications:
     title: 'Primary Care Responsibilities In Regard To Requests by Private On-Line Medical Service Providers to Prescribe Hormone Treatments for Transgender People'
     organisation: 'NHS England'
     year: 2018
-    url: 'https://gendergp.co.uk/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf'
+    url: 'https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf'
     tags: ['Medical policies', 'National medical policies', Hormones]
     uuid: 8ea42bb8-ed97-485e-8948-2f348a30383f
   -
@@ -1588,6 +1591,7 @@ publications:
     url: 'https://www.healthysuffolk.org.uk/uploads/Transgender.pdf'
     tags: []
     uuid: c7e412cb-fd42-4578-9a2c-767b6986bffb
+    archived: true
   -
     title: 'Transgender Care Policy'
     organisation: 'NHS University Hospitals of Morecambe Bay NHS Foundation Trust'
@@ -1682,7 +1686,7 @@ publications:
     tags: ['Medical policies', 'Local medical policies']
     uuid: ff114a9d-8445-4ba7-bb97-91bb80c8ad84
   -
-    title: 'Transgender Support Policy for Service Users'
+    title: 'Transgender Support Policy for Staff and Service Users'
     organisation: 'NHS East Cheshire NHS Trust'
     year: 2017
     url: 'http://www.eastcheshire.nhs.uk/About-The-Trust/policies/T/Transgender%20Support%20Policy%20ECT2818.pdf'
@@ -1921,7 +1925,7 @@ publications:
     title: 'Briefing on Gender Identity in Wales'
     organisation: 'LGBT Excellence Centre'
     year: 2012
-    url: 'https://gendergp.co.uk/wp-content/uploads/2016/03/lgbt-excellence-centre-briefing-on-gender-identity-in-wales.pdf'
+    url: 'https://gendergp.com/wp-content/uploads/2016/03/lgbt-excellence-centre-briefing-on-gender-identity-in-wales.pdf'
     tags: [Wales]
     uuid: 29fc3fda-a90c-4647-a8ae-80e355c2ea85
   -
@@ -2251,7 +2255,7 @@ publications:
     year: 2017
     url: 'https://equality.leeds.ac.uk/wp-content/uploads/sites/64/2020/04/Trans-equality-policy-statement_Final_v1.pdf'
     tags: [Education, 'University policies']
-    archived: true
+    archived: false
     uuid: efe63f09-05ee-430a-93e4-64ed9f466346
   -
     title: 'Supporting Trans* Staff and Students at the University'
@@ -2367,6 +2371,7 @@ publications:
     url: 'https://www.leedsccg.nhs.uk/content/uploads/2018/03/Gender-Dysphoria-v2.pdf'
     tags: ['Medical policies', 'Local medical policies']
     uuid: af137929-dac1-4e2e-86c1-440463263ce4
+    archived: true
   -
     title: 'Gender Reassignment Surgery - Labioplasty - The Whole Journey'
     organisation: 'Parkside Hospital'
@@ -2416,6 +2421,7 @@ publications:
     url: 'http://www.healthyshropshire.co.uk/assets/downloads/finaltrangenderguidancemarch2018.pdf'
     tags: [Education, 'Local school policies']
     uuid: 09eb20c7-f11f-4dbd-9d15-063b841d36e7
+    archived: true
   -
     title: 'Staff and Student Trans Policy'
     organisation: 'University of Plymouth'
