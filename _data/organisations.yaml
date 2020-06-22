@@ -63,7 +63,7 @@ organisations:
         heading: Belfast
         nickname: KOI
         name: 'Knowing Our Identity Gender Identity Development Service'
-        url: 'http://www.belfasttrust.hscni.net/pdf/website_KOIleaflet.pdf'
+        url: 'https://belfasttrust.hscni.net/service/knowing-our-identity/'
         tags: [NHS, 'Gender Clinics', 'Northern Ireland', 'Under 18s']
         manualDescription: 'HSC gender service for under 18s in Northern Ireland'
         image: hsc
@@ -72,7 +72,7 @@ organisations:
     -
         heading: Belfast
         nickname: Brackenburn
-        url: 'http://www.belfasttrust.hscni.net/services/GenderIdentity.htm'
+        url: 'https://belfasttrust.hscni.net/service/regional-gender-identity-service/'
         tags: [NHS, 'Gender Clinics', 'Northern Ireland']
         manualDescription: 'HSC gender service located in Belfast'
         image: hsc
@@ -233,7 +233,7 @@ organisations:
         updated: '2020-04-13'
     -
         name: GenderGP
-        url: 'https://gendergp.co.uk/'
+        url: 'https://gendergp.com/'
         twitter: gendergp
         facebook: gendergp
         youtube: UCU1mUfFhtdIRZiWADXqPtnw
