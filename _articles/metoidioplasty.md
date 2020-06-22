@@ -49,6 +49,8 @@ or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
 congruent with the gender identity {% cite cr181 %}.
 
+If not funded by the NHS, the cost of a metoidioplasty performed in the UK is approximately £35,000. The only clinic currently performing metoidioplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
+
 ### References
 
 {% bibliography --cited %}  
