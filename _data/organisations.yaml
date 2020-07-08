@@ -208,6 +208,18 @@ organisations:
         update-date: '2020-03-06'
         notes: 'Board minutes show most patients waiting more than 15 months.'
     -
+        heading: 'Inverness'
+        nickname: 'Highland Gender Identity Service'
+        name: 'Highland Gender Identity Service'
+        url: 'http://www.highlandsexualhealth.co.uk/services/gender-identity'
+        tags: [NHS, 'Gender Clinics', Scotland]
+        manualDescription: 'NHS gender service based in Inverness'
+        image: nhs-scotland
+        age-range: 17+
+        publishes-wait: false
+        nhs-funding: true
+        update-date: '2020-07-05'
+    -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/trans-support-service-tss/'
         tags: [NHS, National]
@@ -231,6 +243,18 @@ organisations:
         wait-first-appointment: 1.5
         nhs-funding: false
         updated: '2020-04-13'
+    -
+        heading: 'Kelly Psychology'
+        name: 'Kelly Psychology'
+        url: 'https://www.kellypsychology.co.uk/'
+        tags: ['Private healthcare', 'Gender Clinics', National, 'Under 18s']
+        image: kelly
+        manualDescription: 'Private gender clinic based in London and also available online'
+        age-range: 'Under 18'
+        wait-first-appointment: 0
+        publishes-wait: true
+        nhs-funding: false
+        updated: '2020-07-05'
     -
         name: GenderGP
         url: 'https://gendergp.com/'
@@ -2737,3 +2761,9 @@ organisations:
         twitterDescription: 'EVENTS ON HOLD, Beyond Instagram Live Stream Series, Every night @ 7pm EST, TNBI, gender non-confirming & allies , Connecting trans people worldwide. Link below'
         lastTwitterPost: 'Wed May 06 13:47:25 +0000 2020'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1247213491599151104/wpf5H2FW_normal.jpg'
+    -
+        name: 'TransLondon'
+        facebook: 129183006047
+        tags: [London, 'Local groups']
+        facebookDescription: 'TransLondon Facebook group is for all trans* spectrum people and their friends lovers supporters parents and allies.'
+        facebookId: '129183006047'
