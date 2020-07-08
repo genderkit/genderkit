@@ -45,3 +45,5 @@ The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated 
 The Eyebrow Threading article is illustrated using a [photograph by Rune Enstad on Unsplash](https://unsplash.com/photos/cowLgyb63c4).
 
 The Eyebrow Makeup articles is illustrated using a portion of a photograph by Bernard Osei on Unsplash.
+
+The Registering A Name Change article is illustrated using a portion of a [photograph by David Caster on Wikimedia](https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_2019.jpg).
