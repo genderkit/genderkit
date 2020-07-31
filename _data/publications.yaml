@@ -1396,6 +1396,7 @@ publications:
     url: 'https://www.bradfordcollege.ac.uk/sites/default/files/towards-a-trans-positive-culture.pdf'
     tags: [Education, Studies]
     uuid: ab79006f-bc41-4458-a035-c903a6b53317
+    archived: true
   -
     title: 'Domestic Violence - A resource for trans people in Brighton and Hove'
     organisation: 'Brighton and Hove LGBT DVA Working Group'
@@ -2411,7 +2412,7 @@ publications:
     title: 'Bein yerself - A Young Persons Guide to Transitioning in Education'
     organisation: 'Cara Friend'
     year: 2018
-    url: 'https://www.patreon.com/file?h=20443376&i=2459685'
+    url: 'https://cara-friend.org.uk/wp-content/uploads/2018/08/ComingOutInSchool-FINAL.pdf'
     tags: ['Under 18s']
     uuid: 8f9644ac-35d4-40e4-82bb-2ec197a121a9
   -
@@ -2485,7 +2486,7 @@ publications:
     title: 'Transgender and Transsexual Policy'
     organisation: 'British Weight Lifting'
     year: 2018
-    url: 'https://britishweightlifting.org/resources/bwl---transgender-and-transsexual-policy.pdf'
+    url: 'https://britishweightlifting.org/resources/bwl---transgender-policy-2019-130720171810.pdf'
     tags: [Sport]
     uuid: ad890423-407f-4f8d-b250-411ab7aad554
   -
