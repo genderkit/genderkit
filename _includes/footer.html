@@ -1,34 +1,209 @@
 <footer>
-	<h3>You're reading <a href="{% link index.md %}">Gender Construction Kit</a>.</h3> 
+	<p>You're reading <a href="{% link index.md %}">Gender Construction Kit</a>, the UK guide to changing things that
+		are linked to gender.</p>
 
-	<p>We're the UK guide to changing things that are linked to gender.</p>
-
-	<p><em>Looking for help?</em> See our pages about {% for category in site.data.cards.help %}
-		{% if forloop.last == true %}
-		  and
+		{% if page.url != "/" %}
+		<p><em>Change anything you want:</em> we have information about ways to change 
+			{% for category in site.data.categories %}
+			  {% assign categoryslug = category.name | slugify %}
+				<a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
+			  {% endfor %}
+			  and guides to choosing <a href="{% link names.md %}">names</a>,
+			<a href="{% link _explore/pronouns.md %}">pronouns</a>, 
+			<a href="{% link _explore/titles.md %}">titles</a>, and 
+			<a href="{% link words.md %}">words</a>.
+		</p>
 		{% endif %}
-        <a href="{{ category.url | relative_url }}">{{ category.footer }}</a>{% if forloop.last == false %},{% endif %}{% endfor %}.
-  	</p>
 
-	<p><em>Supporting a gender diverse group?</em> We have information for {% for category in site.data.cards.resources %}
-		{% if forloop.last == true %}
-		  and
-		{% endif %}
-        <a href="{{ category.url | relative_url }}">{{ category.footer }}</a>{% if forloop.last == false %},{% endif %}{% endfor %}.
-  	</p>
+		<div class="footersections">
 
-	<p>We also offer information about ways to change 
-	{% for category in site.data.categories %}
-	  {% assign categoryslug = category.name | slugify %}
-        <a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
-  	{% endfor %}
-  	and guides to choosing <a href="{% link names.md %}">names</a>,
-	<a href="{% link _explore/pronouns.md %}">pronouns</a>, 
-	<a href="{% link _explore/titles.md %}">titles</a>, and 
-	<a href="{% link words.md %}">words</a>.
-  	</p>
-  	<p>Gender Construction Kit is an <a href="http://github.com/genderkit/genderkit">open source project</a> created by a <a href="{% link credits.md %}">team of volunteers</a>.</p>
-	<p><em>Follow us</em> on <a href="http://www.facebook.com/{{ site.facebook_username }}">Facebook</a>, <a href="http://www.twitter.com/{{ site.twitter_username }}">Twitter</a>, <a href="https://www.instagram.com/genderkit/">Instagram</a>, and <a href="https://genderkit.tumblr.com/">Tumblr</a>.
+			<ul>
+				<li>
+					<em>Find</em>
+				</li>
+
+				<li>
+					<a href="/resources/gender-services">
+
+						<span>Gender clinics</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/local">
+
+						<span>Local organisations</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/national">
+
+						<span>National organisations</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/national">
+
+						<span>Books and PDFs</span>
+					</a>
+				</li>
+
+			</ul>
+
+
+			<ul>
+				<li>
+					<em>Get help</em>
+				</li>
+
+				<li>
+					<a href="/resources/housing">
+
+						<span>Homelessness</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/violence">
+
+						<span>Violence and abuse</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/hate-crime">
+
+						<span>Hate crime</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/immigration">
+
+						<span>Immigration</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/prisons">
+
+						<span>Prisons</span>
+					</a>
+				</li>
+
+			</ul>
+
+
+			<ul>
+				<li>
+					<em>Information for</em>
+				</li>
+
+				<li>
+					<a href="/resources/family">
+
+						<span>Youth and families</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/employers">
+
+						<span>Employers</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/clinicians">
+
+						<span>Clinicians</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/schools">
+
+						<span>Schools</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/universities">
+
+						<span>Universities</span>
+					</a>
+				</li>
+
+			</ul>
+
+
+			<ul>
+				<li>
+					<em>Resources</em>
+				</li>
+
+				<li>
+					<a href="/resources/health">
+
+						<span>Staying healthy</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/mental-health">
+
+						<span>Mental health</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/sports-and-fitness">
+
+						<span>Sport and fitness</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/faith">
+
+						<span>Faith and religion</span>
+					</a>
+				</li>
+
+
+				<li>
+					<a href="/resources/sex">
+
+						<span>Sex and contraception</span>
+					</a>
+				</li>
+
+			</ul>
+
+		</div>
+
+	<p>Gender Construction Kit is an <a href="http://github.com/genderkit/genderkit">open source project</a> created by
+		a <a href="{% link credits.md %}">team of volunteers</a>.</p>
+	<p><em>Follow us</em> on <a href="http://www.facebook.com/{{ site.facebook_username }}">Facebook</a>, <a
+			href="http://www.twitter.com/{{ site.twitter_username }}">Twitter</a>, <a
+			href="https://www.instagram.com/genderkit/">Instagram</a>, and <a
+			href="https://genderkit.tumblr.com/">Tumblr</a>.
 	</p>
 </footer>
 <script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js" async></script>

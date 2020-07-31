@@ -125,6 +125,7 @@ $bold-weight = 600
     justify-content space-between
     text-align center
     li
+      display flex
       flex-direction column
       width 12rem
       min-height 8rem
@@ -191,3 +192,24 @@ $bold-weight = 600
       margin-right .5em
       width 2em
       height 2em
+
+// New homepage styling
+
+#explore
+  display grid
+  grid-template-columns repeat(auto-fit,8rem)
+  justify-content center
+  li
+    width 8rem
+    margin-bottom 0
+    a
+      padding-left 0
+      padding-right 0
+  li:last-child
+    margin-bottom 0
+
+footer
+  padding 1rem 0
+  div
+    grid-template-columns repeat(auto-fit,12rem)
+    grid-gap 2rem

@@ -1,0 +1,80 @@
+find:
+  -
+    url: '/resources/gender-services'
+    name: Gender clinics
+    footer: UK gender services
+  -
+    url: '/resources/local'
+    name: Local organisations
+    footer: local groups
+  -
+    url: '/resources/national'
+    name: National organisations
+    footer: our national organisations directory
+  -
+    url: '/resources/national'
+    name: Books and PDFs
+    footer: our national organisations directory
+help:
+  -
+    url: '/resources/housing'
+    name: Homelessness
+    footer: homelessness and housing
+  -
+    url: '/resources/violence'
+    name: Violence and abuse
+    footer: domestic and sexual violence and abuse
+  -
+    url: '/resources/hate-crime'
+    name: Hate crime
+    footer: hate crime
+  -
+    url: '/resources/immigration'
+    name: Immigration
+    footer: immigration and asylum
+  -
+    url: '/resources/prisons'
+    name: Prisons
+    footer: prisons
+information:
+  -
+    url: '/resources/family'
+    name: Youth and families
+    footer: family
+  -
+    url: '/resources/employers'
+    name: Employers
+    footer: employers
+  -
+    url: '/resources/clinicians'
+    name: Clinicians
+    footer: clinicians
+  -
+    url: '/resources/schools'
+    name: Schools
+    footer: schools and colleges
+  -
+    url: '/resources/universities'
+    name: Universities
+    footer: universities
+resources:
+  -
+    url: '/resources/health'
+    name: Staying healthy
+    footer: health and screening tests
+  -
+    url: '/resources/mental-health'
+    name: Mental health
+    footer: mental health
+  -
+    url: '/resources/sports-and-fitness'
+    name: 'Sport and fitness'
+    footer: sport and fitness clubs and venues
+  -
+    url: '/resources/faith'
+    name: Faith and religion
+    footer: faith and religion groups
+  -
+    url: '/resources/sex'
+    name: Sex
+    footer: sex and contraception
