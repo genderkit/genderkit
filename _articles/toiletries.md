@@ -2,7 +2,7 @@
 title: "Toiletries"
 weighting: 1
 feature:
-  image: /assets/images/articles/toiletries.jpg
+  image: toiletries.jpg
   caption: "A selection of different toiletries"
 ---
 

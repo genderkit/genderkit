@@ -2,7 +2,7 @@
 title: IPL
 weighting: 4
 feature:
-  image: /assets/images/articles/ipl.jpg
+  image: ipl.jpg
   caption: "The head of an IPL machine in use"
 ---
 

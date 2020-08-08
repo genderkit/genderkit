@@ -16,7 +16,7 @@ layout: page
             <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
               <a href="{{ p.url | relative_url }}">
               {% if p.feature %}
-                <img alt="" aria-hidden="true" src="{{ p.feature.image | relative_url }}" >
+                <img alt="" aria-hidden="true" src="{{ 'assets/images/articles/240/' | append: p.feature.image | relative_url }}" >
               {% else %}
                 <img alt="" aria-hidden="true" src="{{ 'assets/images/nophoto.png' | relative_url }}">
               {% endif %}

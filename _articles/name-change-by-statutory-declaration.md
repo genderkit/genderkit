@@ -2,7 +2,7 @@
 title: Name change by statutory declaration
 weighting: 3
 feature:
-  image: /assets/images/articles/statutory-declaration.jpg
+  image: statutory-declaration.jpg
   caption: "An example statutory declaration document"
 ---
 

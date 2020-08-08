@@ -2,7 +2,7 @@
 title: "STP devices"
 weighting: 1
 feature:
-  image: /assets/images/articles/urinating-standing.jpg
+  image: urinating-standing.jpg
   caption: "A black plastic STP device called a SheWee"
 ---
 

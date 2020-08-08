@@ -2,7 +2,7 @@
 title: "Deodorant"
 weighting: 1
 feature:
-  image: /assets/images/articles/deodorant.jpg
+  image: deodorant.jpg
   caption: "Two different types of deodorant"
 ---
 

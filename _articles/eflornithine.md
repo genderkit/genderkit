@@ -2,7 +2,7 @@
 title: Eflornithine
 weighting: 3
 feature:
-  image: /assets/images/articles/eflornithine.jpg
+  image: eflornithine.jpg
   caption: "A diagram of the chemical structure of eflornithine"
 ---
 

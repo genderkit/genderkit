@@ -2,7 +2,7 @@
 title: Eyebrow threading
 weighting: 2
 feature:
-  image: /assets/images/articles/eyebrow-threading.jpg
+  image: eyebrow-threading.jpg
   caption: "A person's eyebrows being threaded"
 ---
 

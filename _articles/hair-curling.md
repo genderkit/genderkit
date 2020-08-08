@@ -1,6 +1,9 @@
 ---
 title: Hair curling
 weighting: 1
+feature:
+  image: "hair-curling.jpg"
+  caption: "Hair being curled with a curling iron"
 ---
 
 {% capture warn %}

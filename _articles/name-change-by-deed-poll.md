@@ -2,7 +2,7 @@
 title: Name change by deed poll
 weighting: 3
 feature:
-  image: /assets/images/articles/name-change-by-deed-poll.jpg
+  image: name-change-by-deed-poll.jpg
   caption: "An example deed poll document"
 ---
 

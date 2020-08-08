@@ -2,7 +2,7 @@
 title: Finasteride
 weighting: 4
 feature:
-  image: /assets/images/articles/finasteride.jpg
+  image: finasteride.jpg
   caption: "Finasteride pills in blister pack"
 ---
 

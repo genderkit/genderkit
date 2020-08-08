@@ -2,7 +2,7 @@
 title: Packing
 weighting: 1
 feature:
-  image: /assets/images/articles/packing.jpg
+  image: packing.jpg
   caption: "A rolled up sock, one method of making a DIY packer"
 ---
 

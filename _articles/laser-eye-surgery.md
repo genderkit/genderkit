@@ -2,7 +2,7 @@
 title: "Laser eye surgery"
 weighting: 5
 feature:
-  image: /assets/images/articles/laser-eye-surgery.jpg
+  image: laser-eye-surgery.jpg
   caption: "Closeup of an eye"
 ---
 

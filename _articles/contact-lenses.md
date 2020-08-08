@@ -2,7 +2,7 @@
 title: "Contact lenses"
 weighting: 3
 feature:
-  image: /assets/images/articles/contact-lenses.jpg
+  image: contact-lenses.jpg
   caption: "A contact lens resting on a fingertip"
 ---
 

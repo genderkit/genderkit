@@ -2,7 +2,7 @@
 title: Anastrozole
 weighting: 4
 feature:
-  image: /assets/images/articles/anastrozole.jpg
+  image: anastrozole.jpg
   caption: "A diagram of the chemical structure of anastrozole"
 ---
 

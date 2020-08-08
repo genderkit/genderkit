@@ -2,7 +2,7 @@
 title: "Changing glasses frames"
 weighting: 2
 feature:
-  image: /assets/images/articles/glasses-frames.jpg
+  image: glasses-frames.jpg
   caption: "A pair of glasses"
 ---
 

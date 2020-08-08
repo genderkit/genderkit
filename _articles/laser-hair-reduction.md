@@ -2,7 +2,7 @@
 title: Laser hair reduction
 weighting: 4
 feature:
-  image: /assets/images/articles/laser-hair-reduction.jpg
+  image: laser-hair-reduction.jpg
   caption: "A laser hair reduction machine"
 ---
 

@@ -2,7 +2,7 @@
 title: Updating exam certificates
 weighting: 3
 feature:
-  image: /assets/images/articles/exam-boards.jpg
+  image: exam-boards.jpg
   caption: "The logos of several UK exam boards"
 ---
 

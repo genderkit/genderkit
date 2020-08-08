@@ -2,7 +2,7 @@
 title: Telling organisations
 weighting: 3
 feature:
-  image: /assets/images/articles/telling-organisations.jpg
+  image: telling-organisations.jpg
   caption: "An online form for changing name and title"
 ---
 

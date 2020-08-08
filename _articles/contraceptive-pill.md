@@ -2,7 +2,7 @@
 title: "Contraceptive pill"
 weighting: 2
 feature:
-  image: /assets/images/articles/contraceptive-pill.jpg
+  image: contraceptive-pill.jpg
   caption: "A pill board of combined contraceptive pills"
 ---
 

@@ -2,7 +2,7 @@
 title: Dieting
 weighting: 2
 feature:
-  image: /assets/images/articles/dieting.jpg
+  image: dieting.jpg
   caption: "A falafel salad"
 ---
 

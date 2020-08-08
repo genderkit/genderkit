@@ -2,7 +2,7 @@
 title: Epilation
 weighting: 2
 feature:
-  image: /assets/images/articles/epilating.jpg
+  image: epilating.jpg
   caption: "An epilator"
 ---
 

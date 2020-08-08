@@ -12,6 +12,7 @@ ruby '>= 2.5.5'
 gem "jekyll", "~> 4.0"
 gem "citeproc-ruby", "~> 1.1.12" # Need the most up to date version
 gem "rake"
+gem "rszr"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

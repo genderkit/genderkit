@@ -2,7 +2,7 @@
 title: Scrotoplasty
 weighting: 5
 feature:
-  image: /assets/images/articles/surgeons.jpg
+  image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 

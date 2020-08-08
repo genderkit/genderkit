@@ -2,7 +2,7 @@
 title: Alfatradiol
 weighting: 3
 feature:
-  image: /assets/images/articles/pills.jpg
+  image: pills.jpg
   caption: "A photograph of a pile of pills"
 ---
 

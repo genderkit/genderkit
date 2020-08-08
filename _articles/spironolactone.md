@@ -2,7 +2,7 @@
 title: Spironolactone
 weighting: 4
 feature:
-  image: /assets/images/articles/spironolactone.jpg
+  image: spironolactone.jpg
   caption: "A pill bottle of spironolactone"
 ---
 

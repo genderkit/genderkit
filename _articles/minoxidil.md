@@ -2,7 +2,7 @@
 title: Minoxidil
 weighting: 3
 feature:
-  image: /assets/images/articles/minoxidil.jpg
+  image: minoxidil.jpg
   caption: "A diagram of the chemical structure of minoxidil"
 ---
 

@@ -2,7 +2,7 @@
 title: Gamete storage
 weighting: 4
 feature:
-  image: /assets/images/articles/gamete-storage.jpg
+  image: gamete-storage.jpg
   caption: "A sample of ovarian tissue being inserted into a cryopreservation chamber"
 ---
 

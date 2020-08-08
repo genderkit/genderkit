@@ -2,7 +2,7 @@
 title: Eyebrow makeup
 weighting: 1
 feature:
-  image: /assets/images/articles/eye-makeup.jpg
+  image: eye-makeup.jpg
   caption: "A photograph of a person's eye area with makeup applied"
 ---
 

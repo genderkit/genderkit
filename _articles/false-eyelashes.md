@@ -2,7 +2,7 @@
 title: False eyelashes
 weighting: 2
 feature:
-  image: /assets/images/articles/false-eyelashes.jpg
+  image: false-eyelashes.jpg
   caption: "A tray containing strips of false eyelashes and glue"
 ---
 

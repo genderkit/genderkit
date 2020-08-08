@@ -1,9 +1,34 @@
 abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
+require 'rszr'
 
 task :default => ["test"]
 
 task :test => [:spellcheck, :htmlproofer] do
+  puts "Tests complete."
+end
+
+task :resize240 do
+  files = FileList['assets/images/articles/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "240")
+    Rszr::Image.load(file).resize!(240, 180).save(target)
+  end
+  puts "Image resize complete."
+end
+
+task :resize600 do
+  files = FileList['assets/images/articles/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "600")
+    Rszr::Image.load(file).resize!(600, 450).save(target)
+  end
+  puts "Image resize complete."
+end
+
+task :resize => [:resize240, :resize600] do
   puts "Tests complete."
 end
 
@@ -45,14 +70,18 @@ task :checklinks => :jekyll do
     :typhoeus => {
       :ssl_verifypeer => false,
       :ssl_verifyhost => 0,
-      :timeout => 60
+      :timeout => 60,
+      :headers => {
+        "User-Agent" => "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "Accept" => '*/*'
+      }
     }
   }
   HTMLProofer.check_directory("./_site", options).run
 end
 
 desc "Build the site using Jekyll"
-task :jekyll do
+task :jekyll => :resize do
   sh "bundle exec jekyll build"
 end
 

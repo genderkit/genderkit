@@ -2,7 +2,7 @@
 title: Shaving
 weighting: 1
 feature:
-  image: /assets/images/articles/shaving.jpg
+  image: shaving.jpg
   caption: "A disposable safety razor"
 ---
 

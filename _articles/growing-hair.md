@@ -2,7 +2,7 @@
 title: Growing hair
 weighting: 2
 feature:
-  image: /assets/images/articles/hairbrush.jpg
+  image: hairbrush.jpg
   caption: "A hair brush"
 ---
 

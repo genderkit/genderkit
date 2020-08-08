@@ -2,7 +2,7 @@
 title: Piercings
 weighting: 3
 feature:
-  image: /assets/images/articles/piercing.jpg
+  image: piercing.jpg
   caption: "An ear with a lobe piercing"
 ---
 

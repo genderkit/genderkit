@@ -2,7 +2,7 @@
 title: Registering a name change
 weighting: 4
 feature:
-  image: /assets/images/articles/registering-a-name-change.jpg
+  image: registering-a-name-change.jpg
   caption: "A photo of the Royal Courts of Justice"
 ---
 

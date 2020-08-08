@@ -2,7 +2,7 @@
 title: Speech therapy
 weighting: 2
 feature:
-  image: /assets/images/articles/speech-therapy.jpg
+  image: speech-therapy.jpg
   caption: "A person's mouth while they are speaking"
 ---
 

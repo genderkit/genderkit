@@ -2,7 +2,7 @@
 title: Counselling
 weighting: 2
 feature:
-  image: /assets/images/articles/counselling.jpg
+  image: counselling.jpg
   caption: "A box of tissues"
 ---
 

@@ -2,7 +2,7 @@
 title: Updating NHS patient details
 weighting: 3
 feature:
-  image: /assets/images/articles/updating-nhs-patient-details.jpg
+  image: updating-nhs-patient-details.jpg
   caption: "NHS logo closeup on computer screen"
 ---
 

@@ -2,7 +2,7 @@
 title: Exercise
 weighting: 2
 feature:
-  image: /assets/images/articles/exercise.jpg
+  image: exercise.jpg
   caption: "A person using a skateboard"
 ---
 

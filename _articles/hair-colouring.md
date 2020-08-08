@@ -2,7 +2,7 @@
 title: Hair colouring
 weighting: 2
 feature:
-  image: "/assets/images/articles/hair-colouring.jpg"
+  image: "hair-colouring.jpg"
   caption: "Two different brands of hair colouring product"
 ---
 

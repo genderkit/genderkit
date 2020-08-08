@@ -2,7 +2,7 @@
 title: Cyproterone
 weighting: 4
 feature:
-  image: /assets/images/articles/cyproterone.jpg
+  image: cyproterone.jpg
   caption: "A diagram of the chemical structure of cyproterone"
 ---
 

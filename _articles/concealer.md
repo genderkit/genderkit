@@ -2,7 +2,7 @@
 title: Concealer
 weighting: 1
 feature:
-  image: /assets/images/articles/concealer.jpg
+  image: concealer.jpg
   caption: "Some makeup on a black surface"
 ---
 

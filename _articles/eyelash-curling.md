@@ -2,7 +2,7 @@
 title: Eyelash curling
 weighting: 2
 feature:
-  image: /assets/images/articles/eyelash-curler.jpg
+  image: eyelash-curler.jpg
   caption: "An eyelash curler"
 ---
 

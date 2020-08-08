@@ -2,7 +2,7 @@
 title: Support services
 weighting: 1
 feature:
-  image: /assets/images/articles/support-services.jpg
+  image: support-services.jpg
   caption: "The hands of a person holding a phone and a cup of coffee"
 ---
 

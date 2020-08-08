@@ -2,7 +2,7 @@
 title: Progesterone
 weighting: 4
 feature:
-  image: /assets/images/articles/progesterone.jpg
+  image: progesterone.jpg
   caption: "A box of medroxyprogesterone"
 ---
 

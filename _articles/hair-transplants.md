@@ -1,6 +1,9 @@
 ---
 title: Hair transplants
 weighting: 5
+feature:
+  image: surgeons.jpg
+  caption: "Faces of surgeons performing surgery"
 ---
 
 After hair transplantation, it may be helpful to continue treatment with [minoxidil]({% link _articles/minoxidil.md %}) or [finasteride]({% link _articles/finasteride.md %}) to prevent further hair loss {% cite bhatti2013hair %}.
