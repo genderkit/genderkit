@@ -2300,6 +2300,7 @@ publications:
     url: 'http://www.scotland.police.uk/assets/pdf/151934/184779/transgender-people-in-employment-sop'
     tags: [Employment, 'Emergency services']
     uuid: e786be34-7513-48cd-a551-dbc4b8678d25
+    archived: true
   -
     title: 'Transgender Policy and Strategy'
     organisation: 'napo: Probation and Family Court Trade Union and Professional Association'
@@ -2496,6 +2497,7 @@ publications:
     url: 'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/834656/Screening_for_trans_and_non-binary_people_Sept_2019.pdf'
     tags: [Health]
     uuid: 79558215-7d12-4d5c-9283-67e7ee3f287d
+    archived: true
   -
     title: 'Response to Welsh Government action plan to further equality for transgender people'
     organisation: 'NSPCC Wales'
