@@ -1,4 +1,7 @@
 _site
+assets/images/articles/600
+assets/images/articles/240
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 logs
