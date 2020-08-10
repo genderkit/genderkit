@@ -16,5 +16,6 @@ jobs:
     - name: Build and test with Rake
       run: |
         gem install bundler
+        sudo apt-get install libimlib2-dev
         bundle install --jobs 4 --retry 3
         bundle exec rake
