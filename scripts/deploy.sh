@@ -12,6 +12,10 @@ cd live
 git clone git@github.com:genderkit/genderkit.git
 cd genderkit
 bundle install
+mkdir assets/images/articles/600
+mkdir assets/images/articles/240
+bundle exec rake resize
 bundle exec jekyll build --config /vagrant/live/genderkit/_config-live.yml
+bundle exec rake referencelinks
 aws s3 sync ./_site/ s3://genderkit.org.uk/
 rm -rv /vagrant/live
