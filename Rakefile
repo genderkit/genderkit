@@ -9,6 +9,7 @@ task :test => [:spellcheck, :htmlproofer] do
 end
 
 task :resize240 do
+  sh "mkdir -p assets/images/articles/240"
   files = FileList['assets/images/articles/original/*.jpg']
   files.each do |file|
     puts "Resizing #{file}..."
@@ -19,6 +20,7 @@ task :resize240 do
 end
 
 task :resize600 do
+  sh "mkdir -p assets/images/articles/600"
   files = FileList['assets/images/articles/original/*.jpg']
   files.each do |file|
     puts "Resizing #{file}..."
