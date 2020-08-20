@@ -16,7 +16,7 @@ You can access these gender clinics for free by asking your GP to make a referra
 
 ### Waiting times
 
-Waiting time information shown on this page is taken from information given directly to us by the clinics or published on the website of a clinic. Information on this page was last updated in April 2020. 
+Waiting time information shown on this page is taken from information given directly to us by the clinics or published on the website of a clinic. Information on this page was last updated in August 2020. 
 
 Waiting times indicate how long patients who have just been invited for their first appointment have waited for. As demand is currently increasing over time, this means it is likely you will wait *longer* than the time shown on this page. The time shown on this page is the wait until a first appointment, but you are likely to be required to attend further appointments before receiving any medical treatments, which will involve further waiting.
 

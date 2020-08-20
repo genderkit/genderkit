@@ -58,7 +58,9 @@ organisations:
         age-range: 18+
         notes: 'Only accepts patients with a registered GP in Wales.'
         nhs-funding: true
-        updated: '2020-04-13'
+        publishes-wait: true
+        wait-first-appointment: 30
+        updated: '2020-08-14'
     -
         heading: Belfast
         nickname: KOI
@@ -80,6 +82,7 @@ organisations:
         not-accepting: true
         nhs-funding: true
     -
+        heading: 'YourGP'
         name: YourGP
         url: 'http://your-gp.com/services/sexual-health-gender-clinic/gender-dysphoria/'
         tags: ['Private healthcare', 'Gender Clinics', Scotland]
@@ -101,7 +104,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 24
         nhs-funding: true
-        updated: '2020-04-13'
+        updated: '2020-08-14'
     -
         heading: Glasgow
         nickname: Sandyford
@@ -110,9 +113,9 @@ organisations:
         manualDescription: 'NHS gender service located in Glasgow accepting adults and under 18s'
         image: nhs-scotland
         publishes-wait: true
-        wait-first-appointment: 27
+        wait-first-appointment: 32
         nhs-funding: true
-        updated: '2020-04-13'
+        updated: '2020-08-14'
     -
         heading: Exeter
         nickname: 'West of England'
@@ -131,9 +134,9 @@ organisations:
         image: nhs
         age-range: 16.5+
         publishes-wait: true
-        wait-first-appointment: 30
+        wait-first-appointment: 34
         nhs-funding: true
-        updated: '2020-04-13'
+        updated: '2020-08-14'
     -
         heading: Northants
         nickname: Daventry
@@ -142,9 +145,10 @@ organisations:
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
         image: nhs
         age-range: 17+
-        publishes-wait: false
+        publishes-wait: true
+        wait-first-appointment: 40
+        updated: '2020-08-14'
         nhs-funding: true
-        notes: 'BBC News reported patients waiting over 25 months in February 2020'
     -
         heading: Newcastle
         name: 'Northern Region Gender Dysphoria Service'
@@ -156,7 +160,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 26
         nhs-funding: true
-        updated: '2020-04-13'
+        updated: '2020-08-14'
     -
         heading: Leeds
         name: 'Leeds Gender Identity Service'
@@ -168,7 +172,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 29
         nhs-funding: true
-        updated: '2020-04-13'
+        updated: '2020-08-14'
     -
         heading: Sheffield
         nickname: Porterbrook
@@ -178,8 +182,10 @@ organisations:
         manualDescription: 'NHS gender service located in Sheffield'
         image: nhs
         age-range: 18+
-        publishes-wait: false
+        publishes-wait: true
+        wait-first-appointment: 30
         nhs-funding: true
+        updated: '2020-08-14'
     -
         heading: 'London GIDS'
         nickname: Tavistock
@@ -192,8 +198,8 @@ organisations:
         age-range: 'Under 18'
         nhs-funding: true
         publishes-wait: true
-        wait-first-appointment: 22
-        updated: '2020-04-13'
+        wait-first-appointment: 18
+        updated: '2020-08-14'
     -
         heading: 'London GIC'
         nickname: Tavistock
@@ -203,10 +209,11 @@ organisations:
         manualDescription: 'NHS gender service for over 18s located in Hammersmith, London. Often referred to as "Charing Cross". Previously operated as the "West London Mental Health NHS Trust Gender Identity Clinic".'
         image: gic
         age-range: 17+
-        publishes-wait: false
+        publishes-wait: true
+        wait-first-appointment: 33
+        updated: '2020-08-14'
         nhs-funding: true
         update-date: '2020-03-06'
-        notes: 'Board minutes show most patients waiting more than 15 months.'
     -
         heading: 'Inverness'
         nickname: 'Highland Gender Identity Service'
@@ -240,9 +247,9 @@ organisations:
         manualDescription: 'Private sector network of specialists in the field of Gender Dysphoria based in the North of England.'
         age-range: 17.5+
         publishes-wait: truetomelgbt
-        wait-first-appointment: 1.5
+        wait-first-appointment: 5
         nhs-funding: false
-        updated: '2020-04-13'
+        updated: '2020-08-14'
     -
         heading: 'Kelly Psychology'
         name: 'Kelly Psychology'
@@ -256,6 +263,7 @@ organisations:
         nhs-funding: false
         updated: '2020-07-05'
     -
+        heading: 'GenderGP'
         name: GenderGP
         url: 'https://gendergp.com/'
         twitter: gendergp
@@ -273,6 +281,7 @@ organisations:
         twitterID: '968819169448939525'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1143125660300394496/sKKmOIvb_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12974410_989428701143667_2040946718835892457_n.png?oh=98f81b9321d83d3b4dd4a282c6c0bca9&oe=5A8BF181'
+        wait-first-appointment: 6
         publishes-wait: false
         nhs-funding: false
     -
@@ -293,7 +302,9 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c0.0.50.50/p50x50/13164311_1790073354549106_9094273060506944158_n.jpg?oh=a95f44cf2d1cb231d9f8481af9ab5731&oe=5A8D8182'
         age-range: 18+
         notes: 'Waiting lists vary between clinicians, with current patients reporting 2-3 months waiting time.'
-        publishes-wait: false
+        updated: '2020-08-15'
+        wait-first-appointment: 1
+        publishes-wait: true
         nhs-funding: false
     -
         heading: 'London Transgender Clinic'
@@ -309,8 +320,8 @@ organisations:
         lastTwitterPost: 'Tue May 12 13:22:23 +0000 2020'
         twitterIcon: 'https://pbs.twimg.com/profile_images/960562401086267393/aF_sW9VM_normal.jpg'
         age-range: 18+
-        wait-first-appointment: 0
-        publishes-wait: true
+        wait-first-appointment: 6
+        publishes-wait: false
         nhs-funding: false
     -
         name: 'National Gender Identity Clinical Network for Scotland'
