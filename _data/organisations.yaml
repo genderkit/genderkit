@@ -2780,3 +2780,13 @@ organisations:
         tags: [London, 'Local groups']
         facebookDescription: 'TransLondon Facebook group is for all trans* spectrum people and their friends lovers supporters parents and allies.'
         facebookId: '129183006047'
+    -
+        name: 'South Wales Trans and Non-Binary Mutual Aid'
+        twitter: SWTNMutualAid
+        tags: [Wales, 'Local groups']
+        facebook: 1132311263805634
+        facebookId: '1132311263805634'
+        twitterDescription: 'Mutual Aid Network for Trans, NonBinary and Intersex people in South Wales. Local chapters in Cardiff and Swansea.'
+        lastTwitterPost: 'Thur Aug 27 11:55:54 +0000 2020'
+        twitterID: '1283820330247692288'
+        twitterIcon: 'https://pbs.twimg.com/profile_images/1283820439027036161/9C82agaI_400x400.jpg'
