@@ -95,6 +95,18 @@ task :referencelinks do
   end
 end
 
+desc "Convert icons from SVG to PNG"
+task :converticons do
+  # Update bibliography sections to include real HTML links to sources
+  files = FileList['assets/images/icons/svg/*.svg']
+  files.each do |file|
+    puts "Converting #{file}..."
+    target = file.gsub("icons/svg/", "icons/")
+    target = target.gsub(".svg", ".png")
+    sh "inkscape --export-png=#{target} --export-width=128 --export-height=128 #{file}"
+  end
+end
+
 desc "Build the site using Jekyll"
 task :jekyll => :resize do
   sh "bundle exec jekyll build"
