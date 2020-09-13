@@ -8,6 +8,18 @@ layout: page
 <main role="main">
   {% include feature.html %}
   <article class="content">
+    {% if info.age_specific %}
+    <section class="articlescope">
+	   <h3>Age Specific Information</h3>
+	   <p>{{ info.age_specific }}</p>
+    </section>
+    {% endif %}
+    {% if info.region_specific %}
+    <section class="articlescope">
+	   <h3>Region Specific Information</h3>
+	   <p>{{ info.region_specific }}</p>
+    </section>
+    {% endif %}
     <section class="greybox">
       <h3>What effects does it have?</h3>
       <ul class="effects">

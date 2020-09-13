@@ -75,9 +75,12 @@ h4
   font-weight inherit
   margin-bottom 0
   margin-top 0.5rem
-section, footer, .greybox
+section, footer
   padding 1rem
   margin 0
+.greybox, .articlescope
+  padding 1rem
+  margin 0.5rem
 
 #searchbox
   margin 0
@@ -338,14 +341,14 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     font-size 120%
 
 // Visual styling
-nav, aside, .warning, .attention, .search
+nav, aside, .warning, .articlescope, .attention, .search
   h3, p
     margin 0
 nav, aside, footer, .greybox, .search
   background $grey-colour
-nav, aside, .attention
+nav, aside, .articlescope, .attention
   padding 1rem
-.attention
+.articlescope, .attention
   background #ffffee
   border-style none none none solid
   border-image linear-gradient(to bottom, #fe0 0%, #fc0 15%, #f90 65%, #e40 100%) 10
