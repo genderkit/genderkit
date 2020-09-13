@@ -131,7 +131,7 @@ task :htmlproofer => :jekyll do
 end
 
 def run_spellcheck(file)
-  cmd = "cat #{file} | aspell -p './whitelist' -H -d en_GB --encoding utf-8 --lset-html-skip ol:script list | cat"
+  cmd = "cat #{file} | aspell -p './whitelist' -H -d en_GB --encoding utf-8 --lset-html-skip ol:script:style list | cat"
   result = `#{cmd}`
   result
 end
