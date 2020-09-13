@@ -20,4 +20,4 @@ Some companies offer paid services for "official" deed polls: these "official" d
 
 To change your name by deed poll, you will need to obtain the signatures of two independent witnesses to your deed poll. These need to be people who know you personally but who are not part of your family. 
 
-If you are unable to do this, you may wish to use a [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). A statuatory declaration must be witnessed by a solicitor, which will involve paying a small fee.
+If you are unable to do this, you may wish to use a [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). A statutory declaration must be witnessed by a solicitor, which will involve paying a small fee.

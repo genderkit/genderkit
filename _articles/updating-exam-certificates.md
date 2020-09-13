@@ -14,7 +14,7 @@ Qualifications from schools and colleges are normally awarded by organisations c
 
 You will need to contact the correct exam board for the qualification to ask them to update your details. You can look at your exam certificates or transcripts to find out which one you need to contact. 
 
-Each organsiation has a different instructions, which they have published online:
+Each organisation has a different instructions, which they have published online:
 
 - *AQA*: [Amendments to original certificates](https://www.aqa.org.uk/contact-us/past-results-and-lost-certificates/amendments-to-original-certificates)
 - *CCEA*: [Change of name on certificates](https://ccea.org.uk/learning-resources/obtaining-replacing-and-updating-certificates/change-name)

@@ -32,7 +32,7 @@ Each NHS system is different and able to hold different information about [title
 In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded. 
 
 Usually, when you change your gender marker, you are also assigned a new [NHS number](
-http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). This means that records from before your change in gender marker are kept seperately, to protect your privacy.
+http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). This means that records from before your change in gender marker are kept separately, to protect your privacy.
 
 ### Screening tests
 
