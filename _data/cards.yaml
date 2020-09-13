@@ -24,6 +24,9 @@ explore:
     url: '/category/voice'
     name: Voice
   -
+    url: '/category/clothes'
+    name: Clothes
+  -
     url: '/category/facial-hair'
     name: Facial hair
   -

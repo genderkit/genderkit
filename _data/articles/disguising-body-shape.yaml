@@ -1,0 +1,11 @@
+summary: "Wearing clothes that change how people see your body shape"
+effects:
+  -
+    category: "Clothes"
+    detail: "Greater comfort in appearance"
+  -
+    category: "Lower body"
+    detail: "Conceals or enhances hip size"
+  -
+    category: "Upper body"
+    detail: "Conceals or enhances chest and shoulders"

@@ -40,13 +40,19 @@ Some articles are illustrated using a cropped version of a [photo of surgeons ta
 
 The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated using a [photograph by freestocks.org on Unsplash](https://unsplash.com/photos/nss2eRzQwgw).
 
+The Buying Clothes article is illustrated using a [photograph by Sara Kurfeß on Unsplash](https://unsplash.com/photos/5epnzwsphl0).
+
 The Contraceptive Pill article is illustrated using a [photograph by Thought Catalog on Unsplash](https://unsplash.com/photos/psgqUnk8zvM).
+
+The Disguising Body Shape article is illustrated using a [photograph by cristian castillo on Unsplash](https://unsplash.com/photos/N2rYZg72Lig).
 
 The Eyebrow Makeup article is illustrated using a portion of a photograph by Bernard Osei on Unsplash.
 
 The Eyebrow Threading article is illustrated using a [photograph by Rune Enstad on Unsplash](https://unsplash.com/photos/cowLgyb63c4).
 
 The Finasteride article is illustrated using a [photo of finasteride packaging taken by Kristoferb](https://commons.wikimedia.org/wiki/File:Propecia_box_and_tablet.jpg) which was released into the public domain.
+
+The Finding Your Style article is illustrated using a [photograph by Waldemar Brandt on Unsplash](https://unsplash.com/photos/NPPNHZK1U0s).
 
 The gamete storage article is illustrated using a [photo of ovarian tissue cryopreservation taken by Dr. Vereczkey Attila](https://commons.wikimedia.org/wiki/File:Petef%C3%A9szeksz%C3%B6vet-cs%C3%ADkok_fagyasztva_t%C3%A1rol%C3%A1sa.jpg) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
