@@ -1,0 +1,4 @@
+<section class="agerestrictions">
+  <h3 class="header">Age restrictions</h3>
+  {{ include.agerestrictions | markdownify }}
+</section>

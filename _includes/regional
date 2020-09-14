@@ -1,0 +1,4 @@
+<section class="regional">
+  <h3 class="heading">{{ include.heading }}</h3>
+  {{ include.regionalinfo | markdownify }}
+</section>
