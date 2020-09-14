@@ -19,3 +19,7 @@ Stonewall Housing have produced a useful guide for survivors: [Housing options f
 **Micro Rainbow** provide support for housing LGBTI asylum seekers and refugees. They have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact. 
 
 [Simon Community NI](http://simoncommunity.org/) provide homelessness support throughout Northern Ireland and have a 24/7 helpline.
+
+**Albert Kennedy Trust** provide support for LGBTQ+ young people (aged 16-25). They are currently not accepting new referrals for support, but their [online advice hub](https://www.akt.org.uk/Blogs/online) offers advice on a range of topics including how to access support from local councils.
+
+[The Outside Project](https://lgbtiqoutside.org) provide an LGBTQ+-specific homeless shelter and community centre in London, as well as a [domestic abuse refuge](https://lgbtiqoutside.org/refuge).
