@@ -38,7 +38,7 @@ If the person you're supporting would rather not have formal medical help for th
 
 It's generally unhelpful to impose help on somebody who doesn't want it, or to try to help them in ways they don't want. Talk with the person you're worried about and act with their consent as much as possible.
 
-Remember that some people, especially people of colour and those with uncertain immigration status, will have had bad experiences with police in the past. These people will often not want to interact with emergency services when they're in crisis in case police come as well, and you should respect their wishes.
+Remember that some people will have had bad experiences with police in the past, and will not want to interact with emergency services when they're in crisis in case police come as well. Unless there is an immediate threat to life or limb, you should respect their wishes.
 
 ### More information
 
