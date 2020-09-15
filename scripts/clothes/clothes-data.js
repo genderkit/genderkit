@@ -240,34 +240,74 @@ var patterns = {
             )
         }
     },
+    gingham: (col1, col2) => {
+        return (draw) => {
+            return draw.pattern(32, 64, function (add) {
+                add.rect(40, 64).fill(col1)
+                add.line(4, -10, -16, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(12, -10, -8, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(20, -10, 0, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(28, -10, 8, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(36, -10, 16, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(44, -10, 24, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(52, -10, 32, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(60, -10, 40, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(68, -10, 48, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(76, -10, 56, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(84, -10, 64, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(92, -10, 72, 70).stroke({ width: 4, color: col2, opacity:  0.4})
+
+                add.line(-10, 0, 70, 0).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 8, 70, 8).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 16, 70, 16).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 24, 70, 24).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 32, 70, 32).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 40, 70, 40).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 48, 70, 48).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 56, 70, 56).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 64, 70, 64).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 72, 70, 72).stroke({ width: 4, color: col2, opacity:  0.4})
+                add.line(-10, 80, 70, 80).stroke({ width: 4, color: col2, opacity:  0.4})
+            }   
+            )
+/*             return draw.pattern(20, 20, function (add) {
+                add.rect(20, 20).fill(col1)
+                add.rect(5, 20).fill(col2)
+                add.rect(20, 5).fill(col2)
+                add.rect(2, 20).move(12, 0).fill(col2)
+                add.rect(20, 2).move(0, 12).fill(col2)
+            }
+            ) */
+        }
+    },
     plaid: (col1, col2) => {
         return (draw) => {
             return draw.pattern(32, 64, function (add) {
                 add.rect(40, 64).fill(col1)
-                add.line(4, -10, -16, 70).stroke({ width: 4, color: col2 })
-                add.line(12, -10, -8, 70).stroke({ width: 1, color: col2 })
-                add.line(20, -10, 0, 70).stroke({ width: 4, color: col2 })
-                add.line(28, -10, 8, 70).stroke({ width: 1, color: col2 })
-                add.line(36, -10, 16, 70).stroke({ width: 4, color: col2 })
-                add.line(44, -10, 24, 70).stroke({ width: 1, color: col2 })
-                add.line(52, -10, 32, 70).stroke({ width: 4, color: col2 })
-                add.line(60, -10, 40, 70).stroke({ width: 1, color: col2 })
-                add.line(68, -10, 48, 70).stroke({ width: 4, color: col2 })
-                add.line(76, -10, 56, 70).stroke({ width: 1, color: col2 })
-                add.line(84, -10, 64, 70).stroke({ width: 4, color: col2 })
-                add.line(92, -10, 72, 70).stroke({ width: 1, color: col2 })
+                add.line(4, -10, -16, 70).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(12, -10, -8, 70).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(20, -10, 0, 70).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(28, -10, 8, 70).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(36, -10, 16, 70).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(44, -10, 24, 70).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(52, -10, 32, 70).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(60, -10, 40, 70).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(68, -10, 48, 70).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(76, -10, 56, 70).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(84, -10, 64, 70).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(92, -10, 72, 70).stroke({ width: 1, color: col2, opacity: 0.5 })
 
-                add.line(-10, 0, 70, 0).stroke({ width: 4, color: col2 })
-                add.line(-10, 8, 70, 8).stroke({ width: 1, color: col2 })
-                add.line(-10, 16, 70, 16).stroke({ width: 4, color: col2 })
-                add.line(-10, 24, 70, 24).stroke({ width: 1, color: col2 })
-                add.line(-10, 32, 70, 32).stroke({ width: 4, color: col2 })
-                add.line(-10, 40, 70, 40).stroke({ width: 1, color: col2 })
-                add.line(-10, 48, 70, 48).stroke({ width: 4, color: col2 })
-                add.line(-10, 56, 70, 56).stroke({ width: 1, color: col2 })
-                add.line(-10, 64, 70, 64).stroke({ width: 4, color: col2 })
-                add.line(-10, 72, 70, 72).stroke({ width: 1, color: col2 })
-                add.line(-10, 80, 70, 80).stroke({ width: 4, color: col2 })
+                add.line(-10, 0, 70, 0).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(-10, 8, 70, 8).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(-10, 16, 70, 16).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(-10, 24, 70, 24).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(-10, 32, 70, 32).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(-10, 40, 70, 40).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(-10, 48, 70, 48).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(-10, 56, 70, 56).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(-10, 64, 70, 64).stroke({ width: 4, color: col2, opacity: 0.5 })
+                add.line(-10, 72, 70, 72).stroke({ width: 1, color: col2, opacity: 0.5 })
+                add.line(-10, 80, 70, 80).stroke({ width: 4, color: col2, opacity: 0.5 })
             }   
             )
 /*             return draw.pattern(20, 20, function (add) {
@@ -299,21 +339,21 @@ var patterns = {
             return draw.pattern(60, 60, function (add) {
                 add.rect(60, 60).fill(col1)
 
-                add.rect(10, 15).move(0, 0).fill("rgba(50,100,255,0.6)")
-                add.rect(20, 20).move(10, 15).fill("rgba(255,0,0,0.3)")
-                add.rect(9, 9).move(20, 0).fill("rgba(0,255,0,0.4)")
-                add.rect(16, 12).move(43, 45).fill("rgba(255,0,0,0.3)")
+                add.rect(10, 15).move(0, 0).fill("rgb(50,100,255)").opacity(0.6)
+                add.rect(20, 20).move(10, 15).fill("rgb(255,0,0)").opacity(0.3)
+                add.rect(9, 9).move(20, 0).fill("rgb(0,255,0)").opacity(0.4)
+                add.rect(16, 12).move(43, 45).fill("rgb(255,0,0)").opacity(0.3)
 
-                add.rect(15, 20).move(40, 30).fill("rgba(200,255,0,0.3)")
-                add.rect(15, 5).move(10, 10).fill("rgba(255,255,0,0.4)")
-                add.rect(13, 15).move(30, 35).fill("rgba(0,0,255,0.4)")
-                add.rect(15, 5).move(20, 35).fill("rgba(255,240,210,0.4)")
-                add.rect(5, 8).move(15, 45).fill("rgba(255,0,255,0.4)")
-                add.rect(8, 15).move(25, 50).fill("rgba(200,255,128,0.4)")
-                add.rect(10, 15).move(5, 50).fill("rgba(0,255,0,0.4)")
-                add.rect(15, 10).move(0, 35).fill("rgba(0,0,255,0.4)")
-                add.rect(15, 10).move(-5, 20).fill("rgba(128,255,0,0.4)")
-                add.rect(15, 10).move(55, 20).fill("rgba(128,255,0,0.4)")
+                add.rect(15, 20).move(40, 30).fill("rgb(200,255,0)").opacity(0.3)
+                add.rect(15, 5).move(10, 10).fill("rgb(255,255,0)").opacity(0.4)
+                add.rect(13, 15).move(30, 35).fill("rgb(0,0,255)").opacity(0.4)
+                add.rect(15, 5).move(20, 35).fill("rgb(255,240,210)").opacity(0.4)
+                add.rect(5, 8).move(15, 45).fill("rgb(255,0,255)").opacity(0.4)
+                add.rect(8, 15).move(25, 50).fill("rgb(200,255,128)").opacity(0.4)
+                add.rect(10, 15).move(5, 50).fill("rgb(0,255,0)").opacity(0.4)
+                add.rect(15, 10).move(0, 35).fill("rgb(0,0,255)").opacity(0.4)
+                add.rect(15, 10).move(-5, 20).fill("rgb(128,255,0)").opacity(0.4)
+                add.rect(15, 10).move(55, 20).fill("rgb(128,255,0)").opacity(0.4)
             }
             )
         }
@@ -323,21 +363,21 @@ var patterns = {
             return draw.pattern(60, 60, function (add) {
                 add.rect(60, 60).fill(col1)
 
-                add.rect(10, 15).move(0, 0).fill("rgba(0,0,0,0.6)")
-                add.rect(20, 20).move(10, 15).fill("rgba(255,255,220,0.3)")
-                add.rect(9, 9).move(20, 0).fill("rgba(255,255,255,0.4)")
-                add.rect(16, 12).move(43, 45).fill("rgba(255,220,255,0.3)")
+                add.rect(10, 15).move(0, 0).fill("rgb(0,0,0)").opacity(0.6)
+                add.rect(20, 20).move(10, 15).fill("rgb(255,255,220)").opacity(0.3)
+                add.rect(9, 9).move(20, 0).fill("rgb(255,255,255)").opacity(0.4)
+                add.rect(16, 12).move(43, 45).fill("rgb(255,220,255)").opacity(0.3)
 
-                add.rect(15, 20).move(40, 30).fill("rgba(220,255,225,0.3)")
-                add.rect(15, 5).move(10, 10).fill("rgba(0,0,0,0.4)")
-                add.rect(13, 15).move(30, 35).fill("rgba(0,0,0,0.4)")
-                add.rect(15, 5).move(20, 35).fill("rgba(255,240,240,0.4)")
-                add.rect(5, 8).move(15, 45).fill("rgba(255,240,255,0.4)")
-                add.rect(8, 15).move(25, 50).fill("rgba(20,0,0,0.4)")
-                add.rect(10, 15).move(5, 50).fill("rgba(0,20,0,0.4)")
-                add.rect(15, 10).move(0, 35).fill("rgba(0,0,20,0.4)")
-                add.rect(15, 10).move(-5, 20).fill("rgba(255,255,0,0.4)")
-                add.rect(15, 10).move(55, 20).fill("rgba(255,255,220,0.4)")
+                add.rect(15, 20).move(40, 30).fill("rgb(220,255,225)").opacity(0.3)
+                add.rect(15, 5).move(10, 10).fill("rgb(0,0,0)").opacity(0.4)
+                add.rect(13, 15).move(30, 35).fill("rgb(0,0,0)").opacity(0.4)
+                add.rect(15, 5).move(20, 35).fill("rgb(255,240,240)").opacity(0.4)
+                add.rect(5, 8).move(15, 45).fill("rgb(255,240,255)").opacity(0.4)
+                add.rect(8, 15).move(25, 50).fill("rgb(20,0,0)").opacity(0.4)
+                add.rect(10, 15).move(5, 50).fill("rgb(0,20,0)").opacity(0.4)
+                add.rect(15, 10).move(0, 35).fill("rgb(0,0,20)").opacity(0.4)
+                add.rect(15, 10).move(-5, 20).fill("rgb(255,255,0)").opacity(0.4)
+                add.rect(15, 10).move(55, 20).fill("rgb(255,255,220)").opacity(0.4)
             }
             )
         }
@@ -347,21 +387,21 @@ var patterns = {
             return draw.pattern(60, 60, function (add) {
                 add.rect(60, 60).fill(col1)
 
-                add.circle(10).move(0, 0).fill("rgba(50,100,255,0.6)")
-                add.circle(20).move(10, 15).fill("rgba(255,192,0,0.3)")
-                add.circle(9).move(20, 0).fill("rgba(0,255,0,0.4)")
-                add.circle(16).move(43, 45).fill("rgba(255,192,0,0.3)")
+                add.circle(10).move(0, 0).fill("rgb(50,100,255)").opacity(0.6)
+                add.circle(20).move(10, 15).fill("rgb(255,192,0)").opacity(0.3)
+                add.circle(9).move(20, 0).fill("rgb(0,255,0)").opacity(0.4)
+                add.circle(16).move(43, 45).fill("rgb(255,192,0)").opacity(0.3)
 
-                add.circle(15).move(40, 30).fill("rgba(200,255,0,0.3)")
-                add.circle(15).move(10, 10).fill("rgba(255,255,0,0.4)")
-                add.circle(13).move(30, 35).fill("rgba(0,0,255,0.4)")
-                add.circle(15).move(20, 35).fill("rgba(255,240,210,0.4)")
-                add.circle(10).move(15, 45).fill("rgba(255,0,255,0.4)")
-                add.circle(8).move(25, 50).fill("rgba(200,255,128,0.4)")
-                add.circle(10).move(5, 50).fill("rgba(0,255,0,0.4)")
-                add.circle(15).move(0, 35).fill("rgba(0,0,255,0.4)")
-                add.circle(15).move(-5, 20).fill("rgba(128,255,0,0.4)")
-                add.circle(15).move(55, 20).fill("rgba(128,255,0,0.4)")
+                add.circle(15).move(40, 30).fill("rgb(200,255,0)").opacity(0.3)
+                add.circle(15).move(10, 10).fill("rgb(255,255,0)").opacity(0.4)
+                add.circle(13).move(30, 35).fill("rgb(0,0,255)").opacity(0.4)
+                add.circle(15).move(20, 35).fill("rgb(255,240,210)").opacity(0.4)
+                add.circle(10).move(15, 45).fill("rgb(255,0,255)").opacity(0.4)
+                add.circle(8).move(25, 50).fill("rgb(200,255,128)").opacity(0.4)
+                add.circle(10).move(5, 50).fill("rgb(0,255,0)").opacity(0.4)
+                add.circle(15).move(0, 35).fill("rgb(0,0,255)").opacity(0.4)
+                add.circle(15).move(-5, 20).fill("rgb(128,255,0)").opacity(0.4)
+                add.circle(15).move(55, 20).fill("rgb(128,255,0)").opacity(0.4)
             }
             )
         }
@@ -396,8 +436,8 @@ var categories = [
     ],
     [
         { "top": patterns.stripes("black", "hsl(345, 70%, 30%)"), "bottom": "black" },
-        { "top": patterns.abstract('black', 'rgba(100,20,255, 1)'), "bottom": monodenim(15), "seam": 'rgba(100,20,255, 1)'},
-        { "top": "black", "bottom": patterns.plaid(new Color(palletes.autumn[5]).toHex(), "rgba(30, 30, 30, 0.5)") },
+        { "top": patterns.abstract('black', 'rgb(100,20,255)'), "bottom": monodenim(15), "seam": 'rgb(100,20,255)'},
+        { "top": "black", "bottom": patterns.plaid(new Color(palletes.autumn[5]).toHex(), "rgb(30, 30, 30)") },
         { "top": monodenim(10), "bottom": new Color(palletes.earth[13]).toHex() },
         
     ],
@@ -405,16 +445,16 @@ var categories = [
         { "top": patterns.abstract(new Color(palletes.neon[1]).toHex(), "black"), "bottom": "black", "seam": new Color(palletes.neon[1]).toHex()},
         { "top": patterns.patchesmono("rgb(128,0,255)", ""), "bottom": monodenim(20) },
         { "top": new Color(palletes.neon[3]).toHex(), "bottom": "white" },
-        { "top": new Color(palletes.neon[2]).toHex() , "bottom": patterns.abstract2('black', 'rgba(0,255,255, 1)') }
+        { "top": new Color(palletes.neon[2]).toHex() , "bottom": patterns.abstract2('black', 'rgb(0,255,255)') }
     ],
 
 
 
     [
-        { "top": patterns.stripes(new Color(palletes.earth[14]).toHex(), "rgba(255,255,255,0.2") , "bottom": "rgb(60,60,60)" },
+        { "top": patterns.stripes(new Color(palletes.earth[14]).toHex(), {color: 'rgb(255,255,255)', "opacity": 0.2}) , "bottom": "rgb(60,60,60)" },
         { "top": new Color(palletes.earth[5]).toHex(), "bottom":  new Color(palletes.earth[6]).toHex()},
         { "top": "rgb(255,250,240)", "bottom": new Color(palletes.earth[4]).toHex() },
-        { "top": patterns.plaid(new Color(palletes.earth[8]).toHex(), 'rgba(255,255,255,0.3)'), "bottom": denim(30), "seam": "rgba(190, 130, 0, 1)" }
+        { "top": patterns.plaid(new Color(palletes.earth[8]).toHex(), 'rgb(255,255,255)'), "bottom": denim(30), "seam": "rgb(190, 130, 0)" }
     ],
     [
         
@@ -426,71 +466,71 @@ var categories = [
     [
         { "top": new Color(palletes.vivid[1]).toHex(), "bottom": patterns.verticalstripes("rgb(40,40,140)", "white") },
         { "top": new Color(palletes.vivid[5]).toHex(), "bottom": "rgb(255,250,240)" },
-        { "top": new Color(palletes.vivid[2]).toHex(), "bottom": denim(25), "seam": "rgba(0, 130, 190, 1)", "middle": patterns.stripes("white", new Color(palletes.vivid[2]).toHex()) },
+        { "top": new Color(palletes.vivid[2]).toHex(), "bottom": denim(25), "seam": "rgb(0, 130, 190)", "middle": patterns.stripes("white", new Color(palletes.vivid[2]).toHex()) },
         { "top": new Color(palletes.vivid[4]).toHex(), "bottom": new Color(palletes.vivid[6]).toHex() }
     ],
 
 
     [
         { "top": new Color(palletes.stuff[3]).toHex(), "bottom": "darkgrey" },
-        { "top": patterns.thickstripes(new Color(palletes.stuff[9]).toHex(), 'rgb(240,233,230)'), "bottom": denim(70), "seam": "rgba(240, 212, 0, 1)" },
+        { "top": patterns.thickstripes(new Color(palletes.stuff[9]).toHex(), 'rgb(240,233,230)'), "bottom": denim(70), "seam": "rgb(240, 212, 0)" },
         { "top": new Color(palletes.stuff[7]).toHex(), "bottom": new Color(palletes.stuff[4]).toHex() },
-        { "top": new Color(palletes.stuff[5]).toHex(), "bottom": patterns.zigzag("white", "rgba(255,235,0,0.3)") }
+        { "top": new Color(palletes.stuff[5]).toHex(), "bottom": patterns.zigzag("white", {"color": "rgb(255,235,0)", "opacity": 0.3}) }
     ],
     [
         { "top": new Color(palletes.warmpastel[1]).toHex(), "bottom": monodenim(60), "middle": "white"},
-        { "top": patterns.polka(new Color(palletes.warmpastel[2]).toHex(), 'rgba(128,192,255,0.4)'), "bottom": denim(60), "seam": "rgba(255, 255, 255, .5)" },
+        { "top": patterns.gingham(new Color(palletes.warmpastel[2]).toHex(),'rgb(128,192,255)'), "bottom": denim(60), "seam": {"color": "rgb(255, 255, 255)", "opacity": 0.5} },
         { "top": new Color(palletes.warmpastel[3]).toHex(), "bottom": "white" },
-        { "top": patterns.stripes(new Color(palletes.warmpastel[0]).toHex(), "white"), "bottom": "rgba(40, 40, 100)" }
+        { "top": patterns.stripes(new Color(palletes.warmpastel[0]).toHex(), "white"), "bottom": "rgb(40, 40, 100)" }
     ],
     [
         { "top": new Color({l: 60, c: 60, h: 200}).toHex(), "bottom": new Color({l: 40, c: 15, h: 200}).toHex() },
         { "bottom": patterns.patchesmono(new Color({l: 40, c: 20, h: 100}).toHex()), "top": new Color({l: 80, c: 15, h: 100}).toHex(), "middle": new Color({l: 95, c: 15, h: 100}).toHex() },
         { "top": patterns.thickstripes(new Color({l: 85, c: 15, h: 300}).toHex(), new Color({l: 98, c: 15, h: 300}).toHex()), "bottom": new Color({l: 30, c: 50, h: 300}).toHex()},
-        { "top": new Color({l: 80, c: 40, h: 265}).toHex(), "bottom": denim(50), "seam": "rgba(255,255,255,0.5)" },
+        { "top": new Color({l: 80, c: 40, h: 265}).toHex(), "bottom": denim(50), "seam": {"color": "rgb(255,255,255)", "opacity": 0.5} },
     ],
 
 
 
     [
         
-        { "top": new Color(palletes.vivid[4]).toHex(), "bottom": patterns.zigzag(new Color(palletes.earth[12]).toHex(), "rgba(90,40,70,1)")},
-        { "top": patterns.plaid("rgb(40, 40, 40)", "rgba(255, 100, 100, 0.5)"), "bottom": new Color(palletes.earth[0]).toHex()},
-        { "top": new Color(palletes.neon[4]).toHex(), "bottom": denim(25), "seam": "rgba(0, 130, 190, 1)",},
+        { "top": new Color(palletes.vivid[4]).toHex(), "bottom": patterns.zigzag(new Color(palletes.earth[12]).toHex(), "rgb(90,40,70)")},
+        { "top": patterns.plaid("rgb(40, 40, 40)", "rgb(255, 100, 100)"), "bottom": new Color(palletes.earth[0]).toHex()},
+        { "top": new Color(palletes.neon[4]).toHex(), "bottom": denim(25), "seam": "rgb(0, 130, 190)",},
         { "top": "black" , "bottom": patterns.polka(new Color(palletes.vivid[5]).toHex(),"white")},
     ],
     [
         { "top": "rgb(55,100,25)", "bottom": "rgb(229,220,200)"},
-        { "top": new Color(palletes.autumn[1]).toHex(), "bottom": monodenim(10), "middle": patterns.stripes(new Color(palletes.vivid[0]).toHex(),new Color(palletes.autumn[1]).toHex()), "seam": "rgba(255,255,255,0.8)"},
+        { "top": new Color(palletes.autumn[1]).toHex(), "bottom": monodenim(10), "middle": patterns.stripes(new Color(palletes.vivid[0]).toHex(),new Color(palletes.autumn[1]).toHex()), "seam": {color: "rgb(255,255,255)", "opacity": 0.8}},
         { "top": patterns.abstract(new Color(palletes.autumn[0]).toHex(), "white"), "bottom": denim(45)},
         { "bottom": patterns.patchesmono(new Color(palletes.earth[3]).toHex(), ""), "top": new Color(palletes.earth[6]).toHex() },
     ],
 
     [
         { "top": new Color(palletes.autumn[7]).toHex(), "bottom": denim(35), "seam": "white" },
-        { "top": patterns.stripes(new Color(palletes.earth[7]).toHex(),"rgba(255,255,255,0.4)"), "bottom": new Color(palletes.earth[3]).toHex() },
+        { "top": patterns.stripes(new Color(palletes.earth[7]).toHex(), {color: "rgb(255,255,255)", "opacity": 0.4}), "bottom": new Color(palletes.earth[3]).toHex() },
         { "top": new Color(palletes.earth[11]).toHex(), "bottom": new Color(palletes.earth[9]).toHex() },
         { "top": "rgb(60,90,150)" , "bottom": "black", "middle": "rgb(120,150,200)" }
     ],
+
     [
-        { "top": patterns.plaid(new Color(palletes.earth[13]).toHex(), 'rgba(255,255,255,0.3)'), "bottom": denim(30), "seam": "rgba(190, 130, 0, 1)" },
+        { "top": patterns.gingham(new Color(palletes.earth[13]).toHex(), 'rgb(255,255,255)'), "bottom": denim(30), "seam": "rgb(190, 130, 0)" },
         { "top": "rgb(120,40,250)", "bottom": denim(20), "middle": patterns.rainbow("","")},
-        { "top": new Color(palletes.stuff[6]).toHex(), "middle": "rgba(255,255,255,0.5)", "bottom": denim(70), "seam": "rgba(220, 80, 255, 1)"},
+        { "top": new Color(palletes.stuff[6]).toHex(), "middle": {"color": "rgb(255,255,255)", "opacity": 0.5}, "bottom": denim(70), "seam": "rgb(220, 80, 255)"},
         { "top": tiedie(300), "bottom": monodenim(25)},
         
     ],
-
     [
         
         { "top": patterns.thickstripes(new Color(palletes.autumn[0]).toHex(),"rgb(100,50,0)"), "bottom": denim(20)},
-        { "bottom": patterns.verticalstripes(new Color(palletes.earth[14]).toHex(), "rgba(60, 150, 120, 0.8)") ,"top": "rgba(235,220,180,1)" },
+        { "bottom": patterns.verticalstripes(new Color(palletes.earth[14]).toHex(), {color: "rgb(60, 150, 120)", "opacity": 0.8}) ,"top": "rgb(235,220,180)" },
         { "top": patterns.stripes(new Color(palletes.vivid[1]).toHex(), new Color(palletes.vivid[5]).toHex()) , "bottom": denim(50)},
-        { "top": patterns.polka("rgb(100,100,200)", "rgb(200,100,180)") ,"bottom": "rgba(255, 200, 0, 1)" },
+        { "top": patterns.polka("rgb(100,100,200)", "rgb(200,100,180)") ,"bottom": "rgb(255, 200, 0)" },
     ],
     [
         { "top": patterns.rainbow("white", "white") , "bottom": new Color(palletes.autumn[2]).toHex() },
         { "top": patterns.dots("white", ""), "bottom": "rgb(230,230,220)"},
-        { "top": patterns.abstract2("black","rgba(255,255,255,0.2)"), "bottom": patterns.dots("rgb(60,60,60)", "")},
+        { "top": patterns.abstract2("black",{"color": "rgb(255,255,255)", "opacity": 0.2}), "bottom": patterns.dots("rgb(60,60,60)", "")},
         { "top": new Color(palletes.autumn[3]).toHex(), "bottom":  patterns.patches("rgb(125, 40, 90)", "")},
     ],
 
@@ -510,7 +550,7 @@ function drawPerson(draw, x, y, top, bottom, middle, seam) {
     draw.polygon([[x + 25, y + 70], [x + 65, y + 70], [x + 55, y + 110], [x + 15, y + 110]]).attr({ "fill": bottom })
     if (middle)
     {
-        draw.polygon([[x + 33, y + 40], [x + 55, y + 40], [x + 52, y + 50], [x + 30, y + 50]]).attr({ "fill": middle })
+        draw.polygon([[x + 33, y + 40], [x + 55, y + 40], [x + 52, y + 50], [x + 30, y + 50]]).fill(middle)
     }
     if (seam)
     {
