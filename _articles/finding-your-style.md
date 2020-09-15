@@ -10,7 +10,7 @@ This page discusses some of the possibilities you could consider when trying to 
 
 ### Colours
 
-TODO: diagram mannequins
+{% include clothes %}
 
 ### Patterns
 
@@ -35,3 +35,7 @@ TODO: diagram mannequins
 ### Getting help in finding your style
 
 TODO
+
+- Pinterest, tumblr
+- Movies, books, magazines
+- People watching

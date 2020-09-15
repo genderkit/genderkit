@@ -28,5 +28,5 @@ TODO: pictures needed here!
 - Stripes - vertical or horizontal
 - Breaking up shapes - vertically or horizontally
 - Using colour or brightness to draw attention
-- Using dark colours or black to avoid attention and make look visually less prominent
-- Dazzle camouflage - use non-repeating patterns to hide shape
+- Using dark colours or black to avoid attention, make look visually less prominent, and obscure shape by minimising shadows
+- Dazzle camouflage - use non-repeating or complex patterns (e.g. plaid) to hide shape

@@ -36,3 +36,4 @@ If the options options of what you can buy are limited, you could modify the clo
 ### Costs
 
 - Charity shops
+- Clothes swaps

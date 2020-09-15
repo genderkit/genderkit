@@ -376,7 +376,7 @@ var titles = [
     "Contrasting colours",
     "Vivid primary colours",
     "Pale pastels",
-    "Bright",
+    "Bright light colours",
     "Matching hues",
     "Reds and oranges",
     "Greens and teals",

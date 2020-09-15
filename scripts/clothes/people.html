@@ -31,7 +31,7 @@
         }
         svg
         {
-            margin: 2rem 2rem;
+            margin: 0rem 2rem;
             border: none;
             display: block;
         }
@@ -39,11 +39,10 @@
         {
             font-family: Overpass;
             color: #666;
-            text-align: center;
-            width: 360px;
+            text-align: left;
+            width: 350px;
             display: block;
-            margin: .5rem auto;
-            margin-top: 2rem;
+            margin: 2rem auto .25rem auto;
         }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js"></script>
@@ -60,6 +59,12 @@
                 var node = document.createElement("div");                 // Create an SVG node
                 node.id = "peeps" + i;
                 document.getElementsByTagName("BODY")[0].appendChild(node);  // Append <li> to <ul> with id="myList" 
+
+                var caption = document.createElement("div");                 // Create a <li> node
+                var textnode = document.createTextNode(titles[i]);         // Create a text node
+                caption.appendChild(textnode);                              // Append the text to <li>
+                caption.setAttribute("class", "caption");
+                node.appendChild(caption);     // Append <li> to <ul> with id="myList" 
 
                 var draw = SVG().addTo('#peeps' + i).size(350, 120);
                 category.forEach((person, j) => {

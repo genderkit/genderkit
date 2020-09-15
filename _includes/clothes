@@ -1,0 +1,8 @@
+<ul class="clothes">
+{% for item in site.data.clothes %}
+  <li>
+    <div>{{item}}</div>
+    <img src="/assets/images/clothes/{{ item | slugify }}.png" />
+  </li>
+{% endfor %}
+</ul>
