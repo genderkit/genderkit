@@ -36,6 +36,6 @@ TODO: diagram mannequins
 
 TODO
 
-- Pinterest, tumblr
+- Pinterest, Tumblr
 - Movies, books, magazines
 - People watching
