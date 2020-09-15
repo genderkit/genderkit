@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width">
+    <style>
+        /* latin */
+        @font-face {
+        font-family: 'Overpass';
+        font-style: normal;
+        font-weight: 300;
+        src: local('Overpass Light'), local('Overpass-Light'), url(https://fonts.gstatic.com/s/overpass/v4/qFdA35WCmI96Ajtm81kOcc7N4ho.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* latin */
+        @font-face {
+        font-family: 'Overpass';
+        font-style: normal;
+        font-weight: 600;
+        src: local('Overpass SemiBold'), local('Overpass-SemiBold'), url(https://fonts.gstatic.com/s/overpass/v4/qFdA35WCmI96Ajtm81l6d87N4ho.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+    </style>
+    <style>
+        BODY {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 1300px;
+        }
+        svg
+        {
+            margin: 2rem 2rem;
+            border: none;
+            display: block;
+        }
+        .caption
+        {
+            font-family: Overpass;
+            color: #666;
+            text-align: center;
+            width: 360px;
+            display: block;
+            margin: .5rem auto;
+            margin-top: 2rem;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js"></script>
+    <script>
+        var Color = SVG.Color
+    </script>
+    <script src="clothes-data.js"></script>
+    <script>
+
+        function draw() {
+            
+            categories.forEach((category, i) => {
+                
+                var node = document.createElement("div");                 // Create an SVG node
+                node.id = "peeps" + i;
+                document.getElementsByTagName("BODY")[0].appendChild(node);  // Append <li> to <ul> with id="myList" 
+
+                var draw = SVG().addTo('#peeps' + i).size(350, 120);
+                category.forEach((person, j) => {
+                    drawPerson(
+                        draw, 
+                        j * 90, 
+                        0, 
+                        typeof person.top === "function" ? person.top(draw) : person.top, 
+                        typeof person.bottom === "function" ? person.bottom(draw) : person.bottom,
+                        person.middle ? (typeof person.middle === "function" ? person.middle(draw) : person.middle) : null,
+                        person.seam
+                    )
+                })
+            });
+        }
+        
+    </script>
+</head>
+<body onload="draw()">
+</body>
+</html>

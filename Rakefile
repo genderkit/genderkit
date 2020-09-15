@@ -97,13 +97,23 @@ end
 
 desc "Convert icons from SVG to PNG"
 task :converticons do
-  # Update bibliography sections to include real HTML links to sources
   files = FileList['assets/images/icons/svg/*.svg']
   files.each do |file|
     puts "Converting #{file}..."
     target = file.gsub("icons/svg/", "icons/")
     target = target.gsub(".svg", ".png")
     sh "inkscape --export-png=#{target} --export-width=128 --export-height=128 #{file}"
+  end
+end
+
+desc "Convert illustrations from SVG to PNG"
+task :convertillustrations do
+  files = FileList['assets/images/clothes/svg/*.svg']
+  files.each do |file|
+    puts "Converting #{file}..."
+    target = file.gsub("clothes/svg/", "clothes/")
+    target = target.gsub(".svg", ".png")
+    sh "inkscape --export-png=#{target} --export-area-drawing -y 0 #{file}"
   end
 end
 
