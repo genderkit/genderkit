@@ -35,7 +35,13 @@ TODO: diagram mannequins
 ### Getting help in finding your style
 
 TODO
+- Trying out in safe social support spaces
+- Getting professional advice
+  - some specifically advertise services to trans clients http://www.trans.style/ https://born.uk.com/ https://rachelwatson.net/ https://maggigreen.co.uk/
+
+### Looking for ideas
 
 - Pinterest, Tumblr
 - Movies, books, magazines
 - People watching
+
