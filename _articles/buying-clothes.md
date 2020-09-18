@@ -39,7 +39,7 @@ Alterations can change the fit of clothes, which can be particularly useful for 
  - Link to somewhere on how to find more about how to do this yourself. 
 - Hemming tape: this is an adhesive tape available in most supermarkets that you can use to adjust the length of some kinds of trousers without needing to sew. You can find instructions and videos that explain how to do this online.
  
-You can also get alterations made professionally: you can find an alterations specialist using a search engine, or find an alterations service at most stores that offer dry-cleaning services, such as [Johnsons](https://www.johnsoncleaners.com/services/alterations-repairs/) or [Timpson](https://www.timpson.co.uk/services/clothing-repairs-alterations).
+You can also get alterations made professionally: you can find an alterations specialist using a search engine, or find an alterations service at most stores that offer dry-cleaning services, such as [Johnson Cleaners](https://www.johnsoncleaners.com/services/alterations-repairs/) or [Timpson](https://www.timpson.co.uk/services/clothing-repairs-alterations).
  
 Some UK high street chains and online stores provide a free alterations service for some items bought in their stores:
 
