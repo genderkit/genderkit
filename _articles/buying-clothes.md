@@ -51,12 +51,14 @@ If shoes are too large for you, you may be able to slightly reduce their size by
 
 If you are only able to find a limited range of options in your size, you could modify the clothes that are available to better fit your style. You can normally find supplies to do this in the haberdashery section of a department store (e.g. [John Lewis](https://www.johnlewis.com/)), hobby shop (e.g. [Hobbycraft](https://www.hobbycraft.co.uk)), or an online specialist retailer.
 
-- *Relacing*: A easy and quick way to customise shoes and boots is to replace the laces with ones of a different colour.
-- *Dyeing*: You can alter the colour of many clothes by dyeing or bleaching them.
-- *Printing*: You can add designs to clothes using [transfer paper](https://en.wikipedia.org/wiki/Transfer_paper), which lets you iron on a design you have printed from your home printer. If you're feeling more ambitious, you could even try [screen printing](https://www.theguardian.com/lifeandstyle/2010/may/11/how-to-screen-print-tshirts-at-home).
-- *Replacing buttons*: changing the buttons on clothing to ones of a different style.
-- *Decorating*: Adding pin badges, patches, sequins, beads, or decorative bows to clothes.
-- *Repurposing*: Using a pair of scissors, you can turn a t-shirt into a tank top, or jeans or trousers into shorts. If you are able to sew, you can make this look more professional by adding new hems.
+Some options available to you are:
+
+- *replacing laces*: A easy and quick way to customise shoes and boots is to replace the laces with ones of a different colour.
+- *dyeing*: You can alter the colour of many clothes by dyeing or bleaching them.
+- *printing*: You can add designs to clothes using [transfer paper](https://en.wikipedia.org/wiki/Transfer_paper), which lets you iron on a design you have printed from your home printer. If you're feeling more ambitious, you could even try [screen printing](https://www.theguardian.com/lifeandstyle/2010/may/11/how-to-screen-print-tshirts-at-home).
+- *replacing buttons*: changing the buttons on clothing to ones of a different style.
+- *decorating*: Adding pin badges, patches, sequins, beads, or decorative bows to clothes.
+- *getting the scissors*: Using a pair of scissors, you can turn a t-shirt into a tank top, or jeans or trousers into shorts. If you are able to sew, you can make this look more professional by adding new hems.
 
 ### Costs
 
