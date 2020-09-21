@@ -21,7 +21,11 @@
   articles: 
     - "Binding"
     - "Piercings"
-  
+ 
+-
+  name: "Jenny"
+  contribution: "Website development, Research"
+
 # Example credit
 # -
 #   name: "Joe Bloggs"
