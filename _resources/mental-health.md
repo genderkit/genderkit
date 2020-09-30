@@ -38,7 +38,7 @@ If the person you're supporting would rather not have formal medical help for th
 
 It's generally unhelpful to impose help on somebody who doesn't want it, or to try to help them in ways they don't want. Talk with the person you're worried about and act with their consent as much as possible.
 
-Remember that some people will have had bad experiences with police in the past. They may not wish to interact with emergency services, even those which are not police, as those services could decide to contact the police. Unless there is an immediate threat to life or limb, consider carefully whether there is a need to contact emergency services, as that might cause further distress to the person you are trying to help.
+Remember that some people will have had bad experiences with police in the past. They may not wish to interact with emergency services, even if they are not police, as those services could decide to contact the police. Unless there is an immediate threat to life or limb, consider carefully if the situation could be resolved without involving the emergency services, as it might cause further distress to the person you are trying to help.
 
 ### More information
 
