@@ -35,7 +35,7 @@ Buying from abroad may incur customs charges.
 
 If you are unable to afford purchasing a binder from these sources, you may also be able to obtain free binders from:
 
-- the [MORF Binder Scheme](http://morfmanchester.blogspot.co.uk/p/binder-scheme.html)
+- the [FORGE Binder Scheme](https://forge-binder-scheme.myshopify.com/)
 - the [G(END)ER SWAP Binder Giveaway Scheme](https://genderswap.org/gc2b-x-gender-swap)
 
 You may also be able to find other people in your area who are willing to donate a binder they no longer use.
