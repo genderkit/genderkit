@@ -30,9 +30,31 @@ You can read more about counselling on [the NHS Choices website](http://www.nhs.
 
 The NHS provides counselling free of charge. You can often refer yourself directly to local organisations that provide counselling for the NHS, though it can be helpful to talk to your GP first as they may be able to offer you more options. If you are a patient with the NHS gender services, they may also be able to provide you with specialist counselling.
 
-As the counselling provided by the NHS is usually limited to a small number of sessions, if you have more complex problems you may wish to pay to see a counsellor privately.
+As the counselling provided by the NHS is usually limited to a small number of sessions, if you have more complex problems you may wish to explore other options for finding counselling: 
 
-There are online directories you can use to find a private counsellor:
+- many LGBT+ organisations provide a counselling service, often at low cost or on a sliding scale where what you pay depends on how much you earn
+- many counsellors will allow you to pay for your own treatment (private funding), and some offer a sliding scale system
+
+The next sections describe these options in more detail.
+
+### Counselling from LGBT+ organisations
+
+Regional LGBT+ organisations that offer counselling services include:
+
+- Brighton: [Mind Out](https://www.mindout.org.uk/get-support/counselling/)
+- East Midlands: [Leicester LGBT Centre](https://leicesterlgbtcentre.org/lgbt-counselling)
+- London: [London Friend](https://londonfriend.org.uk/counselling/), [ELOP](http://www.elop.org/), [Metro](https://metrocharity.org.uk/mental-health/lgbt-counselling-for-adults), [Spectra](https://spectra-london.org.uk/trans-gender-services/trans-counselling/)
+- North West England: [LGBT Foundation](http://www.lgbt.foundation/talkingtherapies)
+- Northern Ireland: [The Rainbow Project](https://www.rainbow-project.org/counselling)
+- South West England: [Intercom Trust](https://www.intercomtrust.org.uk/)
+- Scotland: [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/lgbt-mental-health/lgbt-counselling/)
+- Wales: [LGBT Cymru](https://www.lgbtcymru.org.uk/counselling.html)
+- West Midlands: [Birmingham LGBT](https://blgbt.org/counselling-and-psychotherapy/)
+- Yorkshire: [Yorkshire MESMAC](https://www.mesmac.co.uk/our-services/bradford/counselling)
+
+### Privately funded counselling
+
+There are online directories you can use to find a counsellor offering private services:
 
 - [British Association for Counselling and Psychotherapy](http://www.itsgoodtotalk.org.uk/)
 - [UK Council for Psychotherapy](https://www.psychotherapy.org.uk/find-a-therapist/)
