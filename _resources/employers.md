@@ -4,6 +4,8 @@ title: Information for employers
 description: UK-specific information about supporting trans, nonbinary, and gender non-conforming employees
 ---
 
+There is information from the UK government on what you must do if an employee changes gender available on [the GOV.UK website](https://www.gov.uk/employee-changes-gender).
+
 ### General information
 
 {% include publications-grouped tag="National employment guidance" %}

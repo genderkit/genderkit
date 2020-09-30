@@ -16,7 +16,9 @@ items:
   - 
     title: "DVLA"
     detail: "There is information on how to update your driving license on [the GOV.UK website](https://www.gov.uk/change-name-driving-licence)."
-  - "Employer/educational institution"
+  - 
+    title: "Employer/educational institution"
+    detail: "Your employer will need to complete the steps listed on [the GOV.UK website](https://www.gov.uk/employee-changes-gender)."
   - "Student Loans Company"
   - "Dentist"
   - 
