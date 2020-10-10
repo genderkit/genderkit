@@ -163,6 +163,12 @@ $bold-weight = 600
     border-left 4px solid #fff
     border-width 0 0 0 4px
     min-height 7rem
+  .requirementsbox
+    border-style none none none solid
+    border-image linear-gradient(to bottom, #ff0066 0%, rgba(255,0,80,0.2) 100%) 10
+    border-left 4px solid #fff
+    border-width 0 0 0 4px
+    min-height 7rem
   .wordcloud
     margin-left -.5rem
     margin-right -.5rem
@@ -206,7 +212,8 @@ $bold-weight = 600
   grid-template-columns repeat(auto-fit,8rem)
   justify-content center
   li
-    width 8rem
+    width fit-content 
+    margin auto
     margin-bottom 0
     a
       padding-left 0

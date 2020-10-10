@@ -78,7 +78,7 @@ h4
 section, footer
   padding 1rem
   margin 0
-.greybox, .articlescope
+.greybox, .requirementsbox, .articlescope
   padding 1rem
   margin 0.5rem
 
@@ -98,7 +98,7 @@ section, footer
   box-shadow #60f 0 0 5px
 
 // Remove default UL styling on most lists  
-nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, #effectslist, #categorylist
+nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, .requirements, #effectslist, #categorylist
   padding 0
   margin 0
   li
@@ -108,7 +108,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 
 // Lists where we want to squish the text together
 // to make list items more visually obvious 
-.articles, .effects, #effectslist, #explore, #resources, #help, .details
+.articles, .effects, .requirements, #effectslist, #explore, #resources, #help, .details
   display flex
   flex-direction column
   img
@@ -121,7 +121,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
   li:last-child
     margin-bottom 0
     
-.articles, .effects, #effectslist, #explore, #resources, #help
+.articles, .effects, .requirements, #effectslist, #explore, #resources, #help
   line-height 1.25
 
 .details
@@ -178,14 +178,16 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin-bottom 1rem
     
 // Article pages
-.effects, #effectslist, #explore, #resources 
+.effects, .requirements, #effectslist, #explore, #resources 
   margin-top 1rem
+  margin-bottom 1rem
   padding 0
   li
     margin-left 6rem
     padding-left 1rem
     min-height 4rem
-    border-left 2px solid #a8f
+    //border-left 2px solid #a8f
+    padding-bottom 10px
   i // Icons to represent body parts etc.
     display block
     color black
@@ -195,7 +197,13 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     height 4rem
     margin-bottom -4rem
     margin-left -6.25rem
+    background $grey-colour
+    border-radius 16px
     background-size 4rem
+    padding 5px
+    border 2px solid #c0c0fa
+    background-position center
+    background-repeat no-repeat
 #effectslist, #explore, #resources 
   span
     display block
@@ -279,12 +287,18 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
   header, section
     margin-bottom 2rem
     padding 0
-  .greybox h3
+  .greybox h3, .requirementsbox h3
     background #445
     color white
     padding 1rem
     margin 0
-#effectslist, #explore, #resources, #help
+#explore
+  li
+    border none
+    margin auto
+    a
+      display block
+#effectslist, #resources, #help
   li
     background-color #f0f0fa
     border none
@@ -344,7 +358,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 nav, aside, .warning, .agerestrictions, .regional, .articlescope, .attention, .search
   h3, p
     margin 0
-nav, aside, footer, .greybox, .search
+nav, aside, footer, .greybox, .search, .requirementsbox
   background $grey-colour
 nav, aside, .articlescope, .attention
   padding 1rem

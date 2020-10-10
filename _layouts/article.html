@@ -20,15 +20,6 @@ layout: page
 	   <p>{{ info.region_specific }}</p>
     </section>
     {% endif %}
-    <section class="greybox">
-      <h3>What effects does it have?</h3>
-      <ul class="effects">
-      {% for item in info.effects %}
-        {% assign slug = item.category | slugify %}
-        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
-      {% endfor %}
-      </ul>
-    </section>
     <section class="bodytext">
       <h3>What is it?</h3>
       {% if info.summary %}
@@ -36,6 +27,25 @@ layout: page
       {% endif %}
       {% if info.aka %}
         <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
+      {% endif %}
+      <h3>What effects does it have?</h3>
+      <ul class="effects">
+      {% for item in info.effects %}
+        {% assign slug = item.category | slugify %}
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+      {% endfor %}
+      </ul>
+      {% if info.requirements %}
+      <h3>What does it require?</h3>
+      <ul class="requirements">
+      {% for item in info.requirements %}
+        {% assign slug = item.category | slugify %}
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i>
+		{% if item.detail %} <p>{{ item.detail }}</p>
+		{% else %} <p>{{ site.data.requirementstext[slug] }}</p>
+		{% endif %}</li>
+      {% endfor %}
+      </ul>
       {% endif %}
       {% if info.duration %}
         <h3>How long does it last?</h3>
