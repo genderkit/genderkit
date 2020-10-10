@@ -4,7 +4,8 @@
 // Colours
 $main-colour = #6600ff
 $background-colour = #4400aa
-$grey-colour = #f0f0fa
+$grey-colour = hsl(250, 100%, 98%)
+$grey-border = hsl(250, 100%, 94%)
 
 // Column size
 $column = 12rem
@@ -180,7 +181,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 // Article pages
 .effects, .requirements, #effectslist, #explore, #resources 
   margin-top 1rem
-  margin-bottom 1rem
+  margin-bottom 1.5rem
   padding 0
   li
     margin-left 6rem
@@ -195,13 +196,13 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     font-size 3rem
     width 4rem
     height 4rem
-    margin-bottom -4rem
+    margin-bottom -4.35rem
     margin-left -6.25rem
     background $grey-colour
     border-radius 16px
     background-size 4rem
     padding 5px
-    border 2px solid #c0c0fa
+    border 2px solid $grey-border
     background-position center
     background-repeat no-repeat
 #effectslist, #explore, #resources 
@@ -298,6 +299,8 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin auto
     a
       display block
+    span
+      font-weight 600
 #effectslist, #resources, #help
   li
     background-color #f0f0fa
