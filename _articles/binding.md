@@ -24,12 +24,15 @@ Long-term binding for several years can effect skin elasticity, which increases 
 
 Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
 
-Binders typically cost £25-50. Well known retailers of binders serving the UK include:
+### Costs and funding
+
+Binders typically cost £25-50. Some retailers of binders serving the UK include:
 
 - [Spectrum Outfitters](https://www.spectrumoutfitters.co.uk)
 - [F2mbinders](https://www.f2mbinders.com/) - formerly known as Underworks
 - [gc2b](https://www.gc2b.co/)
 - [T Kingdom](http://www.t-kingdom.com/) - best for slim/small chested people
+- [Trans Shop UK](https://uktransshop.co.uk/)
 
 Buying from abroad may incur customs charges.
 
