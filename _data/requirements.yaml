@@ -1,0 +1,15 @@
+18+:
+ text: "You usually need to be at least 18"
+ icon: age18
+16+:
+ text: "You usually need to be at least 16"
+ icon: age16
+bmi:
+ text: "You may need to have a certain BMI (body mass index) to get this"
+ icon: bmi
+tanner2:
+ text: "Under 18s must be at <a href=\"/resources/tanner-stage\">Tanner Stage 2</a> or later"
+ icon: tanner2
+parents:
+ text: "Under 18s can usually only get this with the support of their parents or guardians"
+ icon: family

@@ -56,6 +56,7 @@ The following should be in the data file (.yaml in _data/articles/):
 - Effects - list of effects that the treatment/activity has - i.e. what it changes. Make sure that for each effect, you link it to a category from the file _data/categories.yaml. End the description of each effect with a full stop.
 - Duration - A description of how long the thing lasts. Nake sure that if this article is about something with permanent, irreversable effects, you say so. End the duration description with a full stop.
 - Scope - You should include an item in the yaml file labelled `age_specific` or `region_specific` if the subject of the article is applicable only to certain age groups or in certain regions. The text of these items should be a brief explanation of the age or region restrictions, ended with a full stop.
+- Requirements - list of requirements that the treatment has. Each one must have a `type` that links to an entry in _data/requirements.yaml, and optionally a `detail` that explains the specifics of the requirement. Requirements without a `detail` will get the default text listed in _data/requirements.yaml.
 
 The following should be written in the rest of the page (the .md file after the second ---):
 
