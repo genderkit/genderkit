@@ -1,32 +1,21 @@
-{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"heading" | sort:"wait-first-appointment", "last" %}
+{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" | sort:"heading" | sort:"wait-first-appointment", "last" %}
+
+<h3 class="referrals"><img src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 
 <ul class="details summarydetails" id="clinics">
   {% for item in sortedOrganisations %}
     <li>
       {% assign url = item.url %}
-
+      {% if item.image %}
+        <img src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+      {% endif %}
       <div class="searchDetails">
-        {% if item.image %}
-          <img src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
-        {% endif %}
 
-        <span class="clinicheading">
-          <a href="{{ url }}">{% if item.heading %}{{ item.heading | xml_escape }}{% else %}{{ item.name | xml_escape }}{% endif %}</a>
-          {% if item.nickname %}{{item.nickname}}{% endif %}
-        </span>
-
-        {% if item.nhs-funding %}
-          <span class="funding"><img src="/assets/images/tick.svg" class="inlineIcon" />&nbsp;Free</span>
-        {% else %}
-          <span class="funding"><img src="/assets/images/warning.svg" class="inlineIcon" />&nbsp;Costs</span>
-        {% endif %}
-
-        {% if item.not-accepting %}
-
-          <span class="waittime"><em>Not accepting referrals</em></span>
-
-        {% else %}
-
+        <div class="clinicdetails">
+          <span class="clinicheading">
+            <a href="{{ url }}">{% if item.heading %}{{ item.heading | xml_escape }}{% else %}{{ item.name | xml_escape }}{% endif %}</a>
+            {% if item.nickname %}{{item.nickname}}{% endif %}
+          </span>
           {% if item.age-range %}
             {% if item.age-range == "Under 18" %}
               <span class="agerange"><em>Under</em> 18s</span>
@@ -36,14 +25,20 @@
           {% else %}
             <span class="agerange"><em>All</em> ages</span>
           {% endif %}
-        
+          
           {% if item.publishes-wait %}
-            <span class="waittime">{% if item.wait-first-appointment < 12 %}<img src="/assets/images/tick.svg" class="inlineIcon" />{% else %}<img src="/assets/images/warning.svg" class="inlineIcon" />{% endif %}{% if item.wait-first-appointment == 0 %}&nbsp;<em><1</em> month wait{% else %}&nbsp;<em>{{ item.wait-first-appointment }}+</em> month wait{% endif %}</span>
+            <span class="waittime">{% if item.wait-first-appointment == 0 %}<em><1</em> month wait{% else %}<em>{{ item.wait-first-appointment }}+</em> month wait{% endif %}</span>
           {% else %}
-            <span class="waittime"><img src="/assets/images/cross.svg" class="inlineIcon" />&nbsp;Unknown wait</span>
+            <span class="waittime">Unknown wait</span>
+          {% endif %}
+        </div>
+
+        <div class="clinicdetails">
+          {% if item.catchment %}
+            <span class="catchment">{{item.catchment | markdownify }} patients only</span>
           {% endif %}
 
-        {% endif %}
+        </div>
 
       </div>
 
