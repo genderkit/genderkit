@@ -29,7 +29,7 @@ Doing some preparation in advance can help make sure everything goes smoothly du
 ### Costs and funding
 
 {% capture info %}
-Outside of Scotland, this is usually only funded as part of [vaginoplasty]({% link _articles/vaginoplasty.md %}), [clitoroplasty]({% _articles/clitoroplasty %}) or [labiaplasty]({% link _articles/labiaplasty.md %})
+Outside of Scotland, this is usually only funded as part of [vaginoplasty]({% link _articles/vaginoplasty.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) or [labiaplasty]({% link _articles/labiaplasty.md %})
 {% endcapture %}
 {% include regional regionalinfo=info %}
 
