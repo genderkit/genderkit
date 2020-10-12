@@ -9,7 +9,7 @@ bmi:
  icon: bmi
 tanner2:
  text: "Under 18s must be at [Tanner Stage 2](\"/resources/tanner-stage\") or later"
- icon: tanner2
+ icon: puberty
 parents:
  text: "Under 18s can usually only get this with the support of their parents or guardians"
  icon: family
@@ -19,7 +19,7 @@ consent:
  text: "You must have capacity to consent for this treatment"
  icon: consent
 hrt:
- icon: time
+ icon: medication
 not-standalone:
  text: "This is usually only commissioned as part of other treatments"
- icon: consent
+ icon: linked
