@@ -10,9 +10,13 @@ In the UK, people who are changing things linked to gender are supported by a se
 
 You can access these gender clinics for free by asking your GP to make a referral to a gender clinic. However, NHS and HSC clinics have significant waiting lists, and may require a wait of several years before being seen. There are also several privately run clinics which charge money but which may have significantly shorter waiting lists.
 
-### Services available in the UK
+{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK services" free=false referrals=true %}
 
-{% include gender-clinics tag="Gender Clinics" %}
+{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK services" free=true referrals=true %}
+
+{% include gender-clinics tag="Gender Clinics" icon="cross" title="UK services not accepting patients" free=true referrals=false %}
+
+All NHS services are now able to offer both phone and video appointments apart from the Belfast services.
 
 ### Waiting times
 
@@ -24,7 +28,7 @@ Waiting times indicate how long patients who have just been invited for their fi
 
 *British citizens* are able to access the NHS and HSC gender clinics for *free*. If you are not a British citizen, you may still be able to access these services for free, and more details can be found on the [Immigration page]({% link _resources/immigration.md %}).
 
-The Welsh Gender Service will only see patients who have a registered GP in Wales, and patients applying to Tavistock GIDS from Wales will need to ask their GP to apply for funding from their local CCG. 
+Patients applying to Tavistock GIDS from Wales will need to ask their GP to apply for funding from their local CCG. 
 
 Costs for private services vary between clinics. You can find price details on their websites, plus a comparison of estimated costs on the [Trans Health UK website](https://transhealthuk.noblogs.org/private-gender-clinics-services-prices/). If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
 
