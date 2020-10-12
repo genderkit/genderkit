@@ -58,9 +58,11 @@ organisations:
         age-range: 18+
         notes: 'Only accepts patients with a registered GP in Wales.'
         nhs-funding: true
+        referrals: true
         publishes-wait: true
         wait-first-appointment: 30
         updated: '2020-08-14'
+        catchment: "Wales"
     -
         heading: Belfast
         nickname: KOI
@@ -69,6 +71,7 @@ organisations:
         tags: [NHS, 'Gender Clinics', 'Northern Ireland', 'Under 18s']
         manualDescription: 'HSC gender service for under 18s in Northern Ireland'
         image: hsc
+        referrals: true
         age-range: 'Under 18'
         nhs-funding: true
     -
@@ -79,8 +82,9 @@ organisations:
         manualDescription: 'HSC gender service located in Belfast'
         image: hsc
         age-range: 18+
-        not-accepting: true
+        referrals: false
         nhs-funding: true
+        catchment: "Northern Ireland"
     -
         heading: YourGP
         name: YourGP
@@ -92,6 +96,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 3
         nhs-funding: false
+        referrals: true
         updated: '2020-04-13'
     -
         heading: Edinburgh
@@ -104,7 +109,9 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 24
         nhs-funding: true
+        referrals: true
         updated: '2020-08-14'
+        catchment: "Borders, Fife, or Lothian"
     -
         heading: Glasgow
         nickname: Sandyford
@@ -115,7 +122,9 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 32
         nhs-funding: true
+        referrals: true
         updated: '2020-08-14'
+        catchment: "Scotland"
     -
         heading: Exeter
         nickname: 'West of England'
@@ -124,19 +133,24 @@ organisations:
         manualDescription: 'NHS gender service located in Exeter, also known as "The Laurels"'
         image: nhs
         age-range: 17+
-        publishes-wait: false
+        publishes-wait: true
+        wait-first-appointment: 60
         nhs-funding: true
+        referrals: false
+        updated: '2020-10-11'
+        catchment: "England"
     -
         heading: Nottingham
         url: 'http://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
         tags: [NHS, 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Nottingham'
         image: nhs
-        age-range: 16.5+
+        age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 34
+        wait-first-appointment: 37
         nhs-funding: true
-        updated: '2020-08-14'
+        referrals: true
+        updated: '2020-10-12'
     -
         heading: Northants
         nickname: Daventry
@@ -148,7 +162,9 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 40
         updated: '2020-08-14'
+        referrals: true
         nhs-funding: true
+        catchment: "England"
     -
         heading: Newcastle
         name: 'Northern Region Gender Dysphoria Service'
@@ -160,7 +176,9 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 26
         nhs-funding: true
+        referrals: true
         updated: '2020-08-14'
+        catchment: "England"
     -
         heading: Leeds
         name: 'Leeds Gender Identity Service'
@@ -172,6 +190,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 29
         nhs-funding: true
+        referrals: true
         updated: '2020-08-14'
     -
         heading: Sheffield
@@ -185,7 +204,22 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 30
         nhs-funding: true
+        referrals: true
         updated: '2020-08-14'
+        catchment: "England"
+    -
+        heading: 'London Trans+'
+        name: 'Trans+'
+        url: 'http://wearetransplus.co.uk/'
+        tags: [NHS, 'Gender Clinics', National]
+        manualDescription: 'NHS gender service based in London offering services to people who are already on an NHS clinic waiting list.'
+        image: transplus
+        age-range: 17+
+        nhs-funding: true
+        referrals: true
+        publishes-wait: false
+        updated: '2020-08-14'
+        catchment: "England"
     -
         heading: 'London GIDS'
         nickname: Tavistock
@@ -197,9 +231,11 @@ organisations:
         image: gids
         age-range: 'Under 18'
         nhs-funding: true
+        referrals: true
         publishes-wait: true
         wait-first-appointment: 18
         updated: '2020-08-14'
+        catchment: "UK"
     -
         heading: 'London GIC'
         nickname: Tavistock
@@ -213,10 +249,12 @@ organisations:
         wait-first-appointment: 33
         updated: '2020-08-14'
         nhs-funding: true
+        referrals: true
         update-date: '2020-03-06'
+        catchment: "UK"
     -
         heading: Inverness
-        nickname: 'Highland Gender Identity Service'
+        nickname: 'Highland GIS'
         name: 'Highland Gender Identity Service'
         url: 'http://www.highlandsexualhealth.co.uk/services/gender-identity'
         tags: [NHS, 'Gender Clinics', Scotland]
@@ -225,6 +263,7 @@ organisations:
         age-range: 17+
         publishes-wait: false
         nhs-funding: true
+        referrals: true
         update-date: '2020-07-05'
     -
         name: 'Liverpool Community Health Trans Support Service'
@@ -249,6 +288,7 @@ organisations:
         publishes-wait: truetomelgbt
         wait-first-appointment: 5
         nhs-funding: false
+        referrals: true
         updated: '2020-08-14'
     -
         heading: 'Kelly Psychology'
@@ -261,6 +301,7 @@ organisations:
         wait-first-appointment: 0
         publishes-wait: true
         nhs-funding: false
+        referrals: true
         updated: '2020-07-05'
     -
         heading: GenderGP
@@ -283,6 +324,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12974410_989428701143667_2040946718835892457_n.png?oh=98f81b9321d83d3b4dd4a282c6c0bca9&oe=5A8BF181'
         wait-first-appointment: 0
         updated: '2020-08-27'
+        referrals: true
         publishes-wait: true
         nhs-funding: false
     -
@@ -307,6 +349,7 @@ organisations:
         wait-first-appointment: 1
         publishes-wait: true
         nhs-funding: false
+        referrals: true
     -
         heading: 'London Transgender Clinic'
         name: 'London Transgender Clinic'
@@ -325,6 +368,7 @@ organisations:
         updated: '2020-08-27'
         publishes-wait: true
         nhs-funding: false
+        referrals: true
     -
         name: 'National Gender Identity Clinical Network for Scotland'
         url: 'http://www.ngicns.scot.nhs.uk'

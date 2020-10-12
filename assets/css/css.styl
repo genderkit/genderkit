@@ -411,15 +411,12 @@ nav, aside, .articlescope, .attention
 
 .searchDetails
   margin-left 1rem
-  margin-top .5rem
   display flex
   flex-direction row
   flex-wrap wrap
   align-items center
   span 
     margin-right .5rem
-
-
 
 // Tags
 .tags
@@ -488,39 +485,60 @@ nav, aside, .articlescope, .attention
     font-weight bold
 
 // Gender clinic summary page
+.referrals
+  font-weight bold
+  display flex
+  align-items center
+  img
+    width 2rem
+    height 2rem
+    margin-right .5rem
 #clinics
-  font-size 13px
+  font-size 14px
+  margin-left 1rem
+  margin-bottom 2rem
   li
-    margin-bottom 0
+    margin-bottom .5em
     min-height 2.5em
+    display flex
+    align-items center
   li, p, h3, .searchDetails
     margin-left 0
   img
-    height 1.5em
-    width 1.5em
-    margin 0 .25em 0 0
-    display none
+    height 3em
+    width 3em
+    margin 0 .5em 0 0
+    display inline-block
   .searchDetails 
+    display flex
+    flex-direction column
+    align-items flex-start
     span
-      margin-right 1em
+      margin 0
   .clinicheading
     font-weight bold
-    min-width 6em
-    max-width 6em
     color #666
+    min-width 10rem
+    max-width 10rem
+    width 10rem
     line-height 1
-  .funding
-    min-width 4em
+    a
+      margin-right .25em
+  .clinicdetails
+    display flex
+    align-items center
+    flex-wrap wrap
+    p
+      display inline-block
+      font-size inherit
   .agerange
     min-width 5em
+    width 5em
   .waittime
-    margin-right 0 !important
-
-@media screen and (min-width: 400px)
-  #clinics 
-    img
-      display inline-block
-
+    min-width 8em
+    width 8em
+  .catchment
+    min-width 10em
 
 // Horrible special cases to make things look nicer
 #effectslist, #explore, #help, #resources
