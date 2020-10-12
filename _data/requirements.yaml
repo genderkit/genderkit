@@ -8,8 +8,18 @@ bmi:
  text: "You may need to have a certain BMI (body mass index) to get this"
  icon: bmi
 tanner2:
- text: "Under 18s must be at <a href=\"/resources/tanner-stage\">Tanner Stage 2</a> or later"
+ text: "Under 18s must be at [Tanner Stage 2](\"/resources/tanner-stage\") or later"
  icon: tanner2
 parents:
  text: "Under 18s can usually only get this with the support of their parents or guardians"
  icon: family
+time:
+ icon: time
+consent:
+ text: "You must have capacity to consent for this treatment"
+ icon: consent
+hrt:
+ icon: time
+not-standalone:
+ text: "This is usually only commissioned as part of other treatments"
+ icon: consent

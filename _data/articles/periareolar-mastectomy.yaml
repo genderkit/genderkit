@@ -5,3 +5,11 @@ effects:
   -
     category: "Upper body"
     detail: "Flattens chest"
+requirements:
+  - type: time
+    detail: "You need to have persistent dysphoria, but there is no specific time frame"
+  - type: consent
+  - type: 16+
+    detail: "You need to be at least 16 in Scotland, but *at least 17* in other parts of the UK"
+  - type: bmi
+    detail: "You typically need a BMI of less than 40"

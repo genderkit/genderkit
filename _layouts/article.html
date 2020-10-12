@@ -40,8 +40,8 @@ layout: page
       <ul class="requirements">
       {% for item in info.requirements %}
         <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: site.data.requirements[item.type].icon | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i>
-		{% if item.detail %} <p>{{ item.detail }}</p>
-		{% else %} <p>{{ site.data.requirements[item.type].text }}</p>
+		{% if item.detail %} <p>{{ item.detail | markdownify }}</p>
+		{% else %} <p>{{ site.data.requirements[item.type].text | markdownify }}</p>
 		{% endif %}</li>
       {% endfor %}
       </ul>
