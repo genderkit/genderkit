@@ -34,6 +34,11 @@ Doing some preparation in advance can help make sure everything goes smoothly du
 
 ### Costs and funding
 
+{% capture info %}
+Outside of Scotland, this is usually only funded as part of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %})
+{% endcapture %}
+{% include regional regionalinfo=info %}
+
 The NHS will normally fund total hysterectomy and [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}) for patients who are undergoing [testosterone]({% link _articles/testosterone.md %}) therapy.
 
 You will normally need to meet the following conditions:

@@ -28,6 +28,11 @@ Doing some preparation in advance can help make sure everything goes smoothly du
 
 ### Costs and funding
 
+{% capture info %}
+Outside of Scotland, this is usually only funded as part of [vaginoplasty]({% link _articles/vaginoplasty.md %}), [clitoroplasty]({% _articles/clitoroplasty %}) or [labiaplasty]({% link _articles/labiaplasty.md %})
+{% endcapture %}
+{% include regional regionalinfo=info %}
+
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for [orchidectomy]({% link _articles/orchidectomy.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria

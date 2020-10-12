@@ -26,4 +26,4 @@ requirements:
   - type: bmi
     detail: "You typically need a BMI of less than 30"
   - type: not-standalone
-    detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty) or [metoidoplasty](/article/metoidoplasty)"  
+    detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty) or [metoidioplasty](/article/metoidioplasty)"  
