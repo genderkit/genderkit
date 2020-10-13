@@ -172,7 +172,7 @@ organisations:
         tags: [NHS, 'Gender Clinics', 'North East']
         manualDescription: 'NHS gender service located in Newcastle-upon-Tyne'
         image: nhs
-        age-range: 18+
+        age-range: 17+
         publishes-wait: true
         wait-first-appointment: 26
         nhs-funding: true
