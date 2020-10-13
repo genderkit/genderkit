@@ -6,16 +6,8 @@ effects:
     category: "Lower body"
     detail: "Longer straighter clitoris and ability to stand to urinate"
 requirements:
-  -
-    type: time
-    detail: "You must have had 12 continuous months living as your gender identity"
-  -
-    type: hrt
-    detail: "You must have had 12 continuous months of hormone therapy, unless you can't be on hormones"
-  -
-    type: consent
-  -
-    type: 16+
-    detail: "You need to be at least 16 in Scotland, but *at least 17* in other parts of the UK"
-  - type: bmi
-    detail: "You typically need a BMI of less than 30"
+  - type: 12-months-rle
+  - type: 12-months-hrt
+  - type: consent
+  - type: 16-scot-17-uk
+  - type: bmi-30
