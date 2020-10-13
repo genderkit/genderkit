@@ -28,7 +28,7 @@ not-standalone:
  text: "You must have had 12 continuous months living as your gender identity"
 12-months-hrt:
  icon: medication
- text: "You must have had 12 continuous months of hormone therapy, unless you can't be on hormones"
+ text: "You must have had 12 continuous months of HRT, unless you're unable to"
 16-scot-17-uk:
  icon: age16
  text: "You need to be at least 16 in Scotland, but *at least 17* in other parts of the UK"
