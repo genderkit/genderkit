@@ -53,6 +53,8 @@ or is otherwise unable to take hormones) {% cite cr181 %}.
 
 Hysterectomy for other medical reasons is not subject to these requirements.
 
+{% include surgery-costs %}
+
 ### References
 
 {% bibliography --cited %}

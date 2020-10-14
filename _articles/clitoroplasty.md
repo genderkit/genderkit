@@ -40,6 +40,8 @@ or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
 congruent with the gender identity {% cite cr181 %}.
 
+{% include surgery-costs %}
+
 ### References
 
 {% bibliography --cited %}  
