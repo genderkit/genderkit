@@ -35,7 +35,7 @@ There is a useful guide to intersex and terminology used to describe intersex pe
 
 "Shemale" is a term primarily used in pornography and sex work to refer to [transgender]({% link _words/transgender.md %}) women. 
 
-It is considered to be an offensive term, particularly as it suggests that the people in question are male.
+It is considered to be an offensive term {% cite vincent2018transgender -l 36 %}, particularly as it suggests that the people in question are male.
 
 ### Heshe
 
@@ -46,3 +46,11 @@ It is considered to be an offensive term, particularly as it suggests that the p
 "Chick-with-a-dick" is a term primarily used in pornography and sex work to refer to [transgender]({% link _words/transgender.md %}) women. 
 
 It is considered an offensive term. Do not use this term to describe anyone. 
+
+### Transgenderist
+
+This is an outdated medical term which has significant connotations of disorder or pathology and is no longer in medical use (along with "transgenderism" and "transsexualism") and is normally considered offensive {% cite vincent2018transgender -l 36 %}.
+
+### References
+
+{% bibliography --cited %}
