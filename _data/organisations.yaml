@@ -200,7 +200,7 @@ organisations:
         tags: [NHS, 'Gender Clinics', Yorkshire]
         manualDescription: 'NHS gender service located in Sheffield'
         image: nhs
-        age-range: 18+
+        age-range: 17+
         publishes-wait: true
         wait-first-appointment: 30
         nhs-funding: true
@@ -265,6 +265,7 @@ organisations:
         nhs-funding: true
         referrals: true
         update-date: '2020-07-05'
+        catchment: 'Highland'
     -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/trans-support-service-tss/'
