@@ -10,13 +10,21 @@ In the UK, people who are changing things linked to gender are supported by a se
 
 You can access these gender clinics for free by asking your GP to make a referral to a gender clinic. However, NHS and HSC clinics have significant waiting lists, and may require a wait of several years before being seen. There are also several privately run clinics which charge money but which may have significantly shorter waiting lists.
 
-{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK services" free=false referrals=true %}
+{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true %}
 
-{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK services" free=true referrals=true %}
-
-{% include gender-clinics tag="Gender Clinics" icon="cross" title="UK services not accepting patients" free=true referrals=false %}
+{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true %}
 
 All NHS services are now able to offer both phone and video appointments apart from the Belfast services.
+
+{% include gender-clinics tag="Gender Clinics" icon="cross" title="UK-based services currently not accepting patients" free=true referrals=false %}
+
+### Other services
+
+Other services that may be of interest to people in the UK include:
+
+- [Christian Seipp](https://www.christianseipp-urology.net/transgender-health.html) offers private endocrinology services to people 18 years or older who have been previously assessed for gender dysphoria
+- [GenderHealthCare](https://genderhealthcare.co.uk/) offers private nursing services to gender-diverse youth and trans people of all ages, including offering specialist advice, adminstering injections, and taking blood samples 
+- [GenderGP](https://gendergp.com/) are an international service providing telemedicine for trans patients of all ages, including hormones and counselling
 
 ### Waiting times
 
@@ -29,6 +37,15 @@ Waiting times indicate how long patients who have just been invited for their fi
 *British citizens* are able to access the NHS and HSC gender clinics for *free*. If you are not a British citizen, you may still be able to access these services for free, and more details can be found on the [Immigration page]({% link _resources/immigration.md %}).
 
 Patients applying to Tavistock GIDS from Wales will need to ask their GP to apply for funding from their local CCG. 
+
+You may be able to get help with the cost of travelling to attending appointments at NHS gender services. Further information about travel costs can be found:
+
+- on [the NHS website](https://www.nhs.uk/using-the-nhs/help-with-health-costs/healthcare-travel-costs-scheme-htcs/) (valid across the whole of the UK)
+- on [the Welsh Government website](https://gov.wales/low-income-scheme-help-nhs-health-costs)
+- on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/surgery/claiming-travel-subsistence-expenses/) (Scotland only)
+- on [the HSC Northern Ireland website](http://www.hscbusiness.hscni.net/pdf/Expenses.pdf)
+
+More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/) and [the London GIDS website](https://gids.nhs.uk/how-claim-travel-expenses).
 
 Costs for private services vary between clinics. You can find price details on their websites, plus a comparison of estimated costs on the [Trans Health UK website](https://transhealthuk.noblogs.org/private-gender-clinics-services-prices/). If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
 
