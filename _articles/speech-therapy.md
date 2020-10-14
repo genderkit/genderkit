@@ -16,7 +16,9 @@ A minority of people are unable to reach their goals through speech and language
 
 ### Costs and funding
 
-Speech and language therapy is often provided free of charge by UK gender identity clinics, with several clinics having their own in-house speech and language therapists. The LGBT Foundation in Manchester also run [free introductory workshops](https://lgbt.foundation/who-we-help/trans-people/voice-coaching) for people who identify as trans.
+Speech and language therapy is often provided free of charge by UK gender identity clinics, with several clinics having their own in-house speech and language therapists. There is a list of NHS speech and language therapists with specialisms in this area based in Wales on [the GPOne website](http://www.gpone.wales.nhs.uk/sitesplus/documents/1000/Wales%20GI%20Specialist%20SLT%20Contact%20Details%20per%20LHB%20-March%202020.pdf).
+
+The LGBT Foundation in Manchester also run [free introductory workshops](https://lgbt.foundation/who-we-help/trans-people/voice-coaching) for people who identify as trans.
 
 Private speech therapists can charge a variety of different rates, from as low as £50/hour up to over £150/hour. When searching for a speech therapist, you should check they are registered with [HCPC UK](https://www.hcpc-uk.org/) by checking on their website. Checking they are an HCPC member helps make sure that your therapist is properly trained.
 
