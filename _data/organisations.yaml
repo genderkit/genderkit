@@ -311,7 +311,7 @@ organisations:
         twitter: gendergp
         facebook: gendergp
         youtube: UCU1mUfFhtdIRZiWADXqPtnw
-        tags: ['Private healthcare', 'Gender Clinics']
+        tags: ['Private healthcare']
         image: gendergp
         manualDescription: 'International private gender service'
         notes: 'Wait times may vary depending on your needs but are targeted at below 1 month'
@@ -2926,3 +2926,9 @@ organisations:
         twitterDescription: 'Helping the #Trans/#LGBT community in #Chelmsford.'
         lastTwitterPost: 'Tue Oct 13 10:46:19 +0000 2020'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1237380808924684288/dNqL_swe_normal.jpg'
+    -
+        name: 'GenderHealthCare'
+        url: 'https://genderhealthcare.co.uk/'
+        image: genderhealthcare
+        manualDescription: 'Help, advice and support from registered health professionals with personal and professional experience of non-conforming gender identities.'
+        tags: ['Private services','Under 18s','National']

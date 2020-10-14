@@ -51,6 +51,8 @@ or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
 congruent with the gender identity {% cite cr181 %}.
 
+{% include surgery-costs %}
+
 The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
 
 ### References
