@@ -1,7 +1,9 @@
 {% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" | sort:"heading" | sort:"wait-first-appointment", "last" %}
 
 <h3 class="referrals"><img src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
-
+{% if include.description %}
+<p>{{ include.description | markdownify }}</p>
+{% endif %}
 <ul class="details summarydetails" id="clinics">
   {% for item in sortedOrganisations %}
     <li>
