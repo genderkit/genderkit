@@ -6,7 +6,4 @@ effects:
     category: "Upper body"
     detail: "Flattens chest"
 requirements:
-  - type: persistent-dysphoria
-  - type: consent
-  - type: 16-scot-17-uk
-  - type: bmi-40
+  - multi: standard-top-surgery-reqs

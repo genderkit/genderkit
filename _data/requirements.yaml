@@ -41,6 +41,11 @@ bmi-40:
 persistent-dysphoria:
  icon: time
  text: "You need to have had persistent dysphoria, but there is no specific time frame"
+standard-top-surgery-reqs:
+ - type: persistent-dysphoria
+ - type: consent
+ - type: 16-scot-17-uk
+ - type: bmi-40
 standard-bottom-surgery-reqs:
  - type: 12-months-rle
  - type: 12-months-hrt

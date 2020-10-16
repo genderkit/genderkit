@@ -12,10 +12,6 @@ effects:
     category: "Menstruation"
     detail: "Stops"
 requirements:
-  - type: 12-months-rle
-  - type: 12-months-hrt
-  - type: consent
-  - type: 16-scot-17-uk
-  - type: bmi-30
+  - multi: standard-bottom-surgery-reqs
   - type: not-standalone
     detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty) or [metoidioplasty](/article/metoidioplasty)"  

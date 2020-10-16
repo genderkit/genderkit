@@ -5,8 +5,4 @@ effects:
     category: "Lower body"
     detail: "Creates a penis and ability to stand to urinate"
 requirements:
-  - type: 12-months-rle
-  - type: 12-months-hrt
-  - type: consent
-  - type: 16-scot-17-uk
-  - type: bmi-30
+  - multi: standard-bottom-surgery-reqs

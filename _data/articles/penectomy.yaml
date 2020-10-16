@@ -5,10 +5,6 @@ effects:
     category: "Lower body"
     detail: "Penis is removed"
 requirements:
-  - type: 12-months-rle
-  - type: 12-months-hrt
-  - type: consent
-  - type: 16-scot-17-uk
-  - type: bmi-30
+  - multi: standard-bottom-surgery-reqs
   - type: not-standalone
     detail: "Outside of Scotland this is only commissioned as a part of [vaginoplasty](/article/vaginoplasty), [labiaplasty](/article/labiaplasty) or [clitoroplasty](/article/clitoroplasty)"  
