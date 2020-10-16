@@ -2,4 +2,7 @@ summary: "Receiving a formal medical diagnosis from a specialist. This can often
 effects:
   -
     category: "Medical documents"
-    detail: "Required for surgery, hormones, and NHS funding for other treatments"
+    detail: "Generally required for surgery; may help get hormones and funding for other treatments"
+  -
+    category: "ID documents"
+    detail: "Required to get a Gender Recognition Certificate, but other documents can be updated without one"
