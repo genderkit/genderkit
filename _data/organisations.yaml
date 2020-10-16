@@ -74,6 +74,7 @@ organisations:
         referrals: true
         age-range: 'Under 18'
         nhs-funding: true
+        catchment: 'Northern Ireland'
     -
         heading: Belfast
         nickname: Brackenburn
@@ -115,9 +116,10 @@ organisations:
     -
         heading: Glasgow
         nickname: Sandyford
+        name: Sandyford Gender Identity Service
         url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
-        tags: [NHS, 'Gender Clinics', Scotland]
-        manualDescription: 'NHS gender service located in Glasgow accepting adults and under 18s'
+        tags: [NHS, 'Gender Clinics', Scotland, 'Under 18s']
+        manualDescription: 'NHS gender service for adults and young people across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait: true
         wait-first-appointment: 32
@@ -151,6 +153,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-10-12'
+        catchment: England
     -
         heading: Northants
         nickname: Daventry
@@ -297,7 +300,7 @@ organisations:
         url: 'https://www.kellypsychology.co.uk/'
         tags: ['Private healthcare', 'Gender Clinics', National, 'Under 18s']
         image: kelly
-        manualDescription: 'Private gender clinic based in London and also available online'
+        manualDescription: 'Private gender clinic for under 18s based in London'
         age-range: 'Under 18'
         wait-first-appointment: 0
         publishes-wait: true
@@ -2930,5 +2933,5 @@ organisations:
         name: 'GenderHealthCare'
         url: 'https://genderhealthcare.co.uk/'
         image: genderhealthcare
-        manualDescription: 'Help, advice and support from registered health professionals with personal and professional experience of non-conforming gender identities.'
+        manualDescription: 'Help, advice and support from registered health professionals with personal and professional experience of non-conforming gender identities. Provides services to people of all ages.'
         tags: ['Private services','Under 18s','National']

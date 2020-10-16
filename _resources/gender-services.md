@@ -9,7 +9,7 @@ Services on this page are listed for your information only. We do not recommend 
 {% endcapture %}
 {% include warning warning=warn %}
 
-In the UK, people who are changing things linked to gender are supported by a set of specialist centres, usually known as "gender clinics", which offer diagnosis and access to other services like medications. 
+In the UK, people who are changing things linked to gender are supported by a set of specialist centres, often known as "gender identity clinics" (GICs), which offer [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and access to other services like hormone medications and surgeries. 
 
 {% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description="You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen." %}
 
