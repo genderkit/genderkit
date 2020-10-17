@@ -83,7 +83,9 @@ stylus:
   compress: true
 
 scholar:
-  style: the-open-university-numeric-superscript
+  style: custom
   bibliography_template: "{{reference}}"
   bibtex_filters: 
     - latex
+  bibliography_item_attributes:
+    class: bibitem
