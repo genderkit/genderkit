@@ -4,50 +4,32 @@ title: Information for employers
 description: UK-specific information about supporting trans, nonbinary, and gender non-conforming employees
 ---
 
+### Government guidance
+
 There is information from the UK government on what you must do if an employee changes gender available on [the GOV.UK website](https://www.gov.uk/employee-changes-gender).
 
-### General information
+### Useful PDFs
 
 {% include publications-grouped tag="National employment guidance" %}
-
-We also have a separate page with information published by [unions]({% link _resources/unions.md %}) which may provide helpful guidance.
 
 ### Books
 
 {% include books tag="Employment" thumbnails="true" %}
 
-### Civil Service
+### Further reading
 
-{% include organisations tag="Civil Service" %}
+At genderarchive.org.uk, you can find detailed lists of employment guidance:
 
-{% include publications tag="Civil Service" %}
+- for UK [employers in general](https://genderarchive.org.uk/tag/guidance-for-employers/)
+- from UK [unions](https://genderarchive.org.uk/tag/national-union-guidance/)
+- aimed at [schools](https://genderarchive.org.uk/tag/employing-school-staff)
+- aimed at [universities](https://genderarchive.org.uk/tag/employing-university-staff)
 
-### Emergency Services
+There are also employment policies available from:
 
-{% include organisations tag="Emergency Services" %}
-
-{% include publications tag="Emergency services" %}
-
-### UK Armed Forces
-
-{% include publications tag="Military" %}
-
-### NHS and medical services
-
-{% include publications tag="Local medical employment policies" %}
-
-We also have a separate page with [information for clinicians]({% link _resources/clinicians.md %}).
-
-### Education
-
-{% include publications tag="National school employment guidance" %}
-
-{% include publications tag="National university employment guidance" %}
-
-The National Education Union have created a [Trans educators toolkit webpage](https://neu.org.uk/advice/trans-educators-toolkit) with information for education staff on transitioning in school or college.
-
-We also have separate pages of [information for schools]({% link _resources/schools.md %}) and [information for universities]({% link _resources/universities.md %}).
-
-### Employee support networks
-
-{% include organisations tag="Employment support" %}
+- [companies](https://genderarchive.org.uk/tag/company-policies/)
+- [NHS Trusts](https://genderarchive.org.uk/tag/nhs-trust-employment-policies/)
+- [emergency services](https://genderarchive.org.uk/tag/emergency-services)
+- [local government](https://genderarchive.org.uk/tag/local-government-employment-policies/)
+- [military organisations](https://genderarchive.org.uk/tag/military)
+- [civil service](https://genderarchive.org.uk/tag/civil-service/)

@@ -4,28 +4,25 @@ title: Information for schools and colleges
 description: UK-specific information for schools about supporting trans, nonbinary, and gender non-conforming students and staff
 ---
 
-### General information for schools and colleges
+### Information resources
+
+At genderarchive.org.uk, you can find detailed lists of resources:
+
+- for UK [primary and secondary](https://genderarchive.org.uk/tag/primary-and-secondary-education/) schools 
+- for UK [further education](https://genderarchive.org.uk/tag/further-education/) institutions such as sixth-form colleges
+- [resources provided by local education authorities](https://genderarchive.org.uk/tag/education-authority-policies/)
+- guidance on [supporting school staff](https://genderarchive.org.uk/tag/employing-school-staff/) who are transitioning, trans, or non-binary
+
+The following organisation may also be of interest to you:
 
 {% include organisations tag="Education" %}
-
-{% include publications tag="National school guidance" %}
-
-### Organisations supporting gender diverse children 
-
-{% include organisations tag="Under 18s" %}
-
-### Supporting staff
-
-{% include publications tag="National school employment guidance" %}
-
-We have a separate page of [information for employers]({% link _resources/employers.md %}) that gives general advice on supporting staff.
 
 ### Books
 
 {% include books tag="Education" thumbnails="true" %}
 
-### Local resources and policies
+### Organisations
 
-A number of local authorities and organisations have produced resources or policies specifically for schools in their area.
+These organisations provide support to gender diverse children and may also be able to provide information, advice, or training to schools and collages.
 
-{% include publications-summary tag="Local school policies" %}
+{% include organisations tag="Under 18s" %}

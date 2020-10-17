@@ -8,10 +8,14 @@ description: Helpful organisations and publications in the UK for people with tr
 
 {% include organisations tag="Families" %}
 
-### Useful PDFs
-
-{% include publications tag="Family" thumbnails="true" %}
-
 ### Books
 
 {% include books tag="Family" thumbnails="true" %}
+
+### More information
+
+You can find more PDFs, books, and websites:
+
+- in [the Youth section on genderarchive.org.uk](https://genderarchive.org.uk/tag/youth/)
+- in [the Family section on genderarchive.org.uk](https://genderarchive.org.uk/tag/family/)
+

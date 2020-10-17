@@ -42,8 +42,6 @@ Once you have obtained your GRC, it is important that you notify the following o
 
 There is a box on the application form for a GRC that allows HMRC and the DWP to be notified automatically without you having to do anything.
 
-### More information
+### Further reading
 
-A number of organisations have produced guidance on the process of obtaining a GRC:
-
-{% include publications-grouped tag="Gender recognition" %}
+A number of organisations have produced guidance on the process of obtaining a GRC. You can find a comprehensive list of resources about obtaining a Gender Recognition Certificate and on the Gender Recognition Act on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/gender-recognition/).

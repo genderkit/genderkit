@@ -4,20 +4,26 @@ title: Information about violence and abuse
 description: Information about domestic and sexual violence and abuse for trans, nonbinary, and gender non-conforming people in the UK
 ---
 
-### UK organisations supporting survivors
-
-{% include organisations tag="Violence" %}
+### Advice and guidance
 
 Advice for trans survivors of domestic and sexual violence can be found on [the Scottish Trans website](https://www.scottishtrans.org/trans-rights/practice/sexual-violence-abuse/).
+
+There is a very useful guide for trans people who have been affected by sexual violence on [the LGBT Foundation website](https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf).
 
 More general advice for survivors is available on the NHS Choices website:
 
 - [Help after rape and sexual assault](https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/)
 - [Getting help for domestic violence](https://www.nhs.uk/live-well/healthy-body/getting-help-for-domestic-violence/)
 
-The [Rape Crisis Scotland helpline](https://www.rapecrisisscotland.org.uk/help-helpline/) is for anyone, whatever their gender, who has been affected by sexual iolence, no matter when or how it happened. They offer both phone and email support.
+### UK organisations supporting survivors
 
-The Galop [National LGBT Domestic Abuse Helpline](http://www.galop.org.uk/domesticabuse/) supports LGBT people, their friends & families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.
+{% include organisations tag="Violence" %}
+
+The [Rape Crisis Scotland helpline](https://www.rapecrisisscotland.org.uk/help-helpline/) is for anyone, whatever their gender, who has been affected by sexual violence, no matter when or how it happened. They offer both phone and email support.
+
+The Galop [National LGBT Domestic Abuse Helpline](http://www.galop.org.uk/domesticabuse/) supports LGBT people, their friends and families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.
+
+There is a 1-to-1 [LGBT* domestic violence support service](https://lgbt.foundation/domesticabuse) run by LGBT Foundation based in Manchester.
 
 ### If you're worried about someone else
 
@@ -30,8 +36,8 @@ Thankfully, you can find information about what to do online on the NHS Choices 
 
 If you're worried about someone's mental health or whether they are thinking of hurting themselves, we have a seperate page on [mental health]({% link _resources/mental-health.md %}) with more information.
 
-### Useful PDFs
+### More information
 
-{% include publications tag="Violence" thumbnails="true" %}
+There are many useful resources relating to trans people and sexual and domestic violence on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/violence/).
 
-There are more PDFs about domestic violence available on [the Stonewall UK website](https://www.stonewall.org.uk/help-advice/criminal-law/domestic-violence).
+There are PDFs about domestic violence for LGBT+ people available on [the Stonewall UK website](https://www.stonewall.org.uk/help-advice/criminal-law/domestic-violence).

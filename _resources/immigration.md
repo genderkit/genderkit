@@ -8,7 +8,9 @@ description: Helpful information, publications, and organisations for trans, non
 
 You can find general information about moving to the UK on [the UK Government Visas and Immigration page](https://www.gov.uk/browse/visas-immigration). 
 
-If you are intending to claim *asylum* in the UK, you can find information about asylum from [Transgender Europe](https://tgeu.org/issues/asylum/), [Stonewall UK](https://www.stonewall.org.uk/help-advice/asylum), [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) (who also support trans and intersex people), and [the UK government](https://www.gov.uk/claim-asylum). Transgender Europe also have a [guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum. Micro Rainbow provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact. 
+If you are intending to claim *asylum* in the UK, you can find information about asylum from [Transgender Europe](https://tgeu.org/issues/asylum/), [Stonewall UK](https://www.stonewall.org.uk/help-advice/asylum), [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) (who also support trans and intersex people), and [the UK government](https://www.gov.uk/claim-asylum). Transgender Europe also have a [guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum. Micro Rainbow provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact.
+
+More useful links for trans asylum seekers and refugees can be found on [the Trans-Fit website](https://www.trans-fit.co.uk/asylum-and-refugee-support).
 
 ### Accessing gender services in the UK
 
@@ -34,6 +36,6 @@ To change your name on UK government documents, such as residence permits, trave
 
 If you have a visa or BRP, you must report a change of name to the UK Government. You can find more information on how to do this on [the UK Government website](https://www.gov.uk/change-circumstances-visa-brp).
 
-### Important PDFs
+### More information
 
-{% include publications tag="Immigration and asylum" %}
+You can find more publications relating to UK immigration and asylum on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/immigration-and-asylum/).
