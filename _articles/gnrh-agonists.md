@@ -33,13 +33,7 @@ GnRH agonists are usually supplied in forms that are administered once every fou
 
 GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
 
-### Costs and funding
-
-GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}.
-
-You do not have to pay the full cost of medication you are prescribed on the NHS. You are not asked to pay anything at all in [Northern Ireland]( https://www.nidirect.gov.uk/articles/prescriptions), [Scotland](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs) and [Wales](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs). In England, people are asked to pay a small charge for each item on their prescriptions. There are ways you can reduce or avoid this cost, which you can read about on [the NHS website](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs).
-
-If you are using private gender services, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
+{% include hrt-funding type="gnrh" %}
 
 ### References
 

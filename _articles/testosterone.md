@@ -56,14 +56,7 @@ In the UK, some clinicians recommend that people taking testosterone long-term s
 
 For testosterone therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
-
-### Costs and funding
-
-If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy. Testosterone therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
-
-You do not have to pay the full cost of medication you are prescribed on the NHS. You are not asked to pay anything at all in [Northern Ireland]( https://www.nidirect.gov.uk/articles/prescriptions), [Scotland](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs) and [Wales](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs). In England, people are asked to pay a small charge for each item on their prescriptions. There are ways you can reduce or avoid this cost, which you can read about on [the NHS website](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs).
-
-If you are using private gender services, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
+{% include hrt-funding type="masculinising" %}
 
 ### References
 
