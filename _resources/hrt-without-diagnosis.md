@@ -4,6 +4,8 @@ title: Accessing HRT without a diagnosis
 description: Information on how to get hormone therapy without a diagnosis
 ---
 
+Normally, your GP will want you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) before they are willing to prescribe. However, there are some circumstances under which your GP may be willing to prescribe without a diagnosis.
+
 Vincent {% cite vincent2018transgender --locator 148 %} lists the following circumstances when it could be appropriate for your GP to prescribe hormones without referring to a GIC, or before you've been seen by the GIC you've been referred to:
 
 - When you've *already been seen* by a GIC
@@ -21,6 +23,11 @@ Vincent {% cite vincent2018transgender --locator 148 %} lists the following circ
 
 It's very likely that your GP will still want to refer you to a GIC even if they do prescribe.
 
+{%capture warn%}
+Regardless of where you get your hormones, regular blood tests are essential to make sure that your hormone levels are safe and there are no problems. If your GP is unable or unwilling to give you blood tests at the practice, you should ask them to refer you to a local endocrinologist who can do the tests for them.
+{%endcapture%}
+{%include warning warning=warn%}
+
 When talking to your GP, the following references may be useful:
 
 - The NHS England service specification {% cite specEngNonsurgical --locator 30 %} states:
@@ -31,7 +38,7 @@ When talking to your GP, the following references may be useful:
 
 > Some service users may already be on hormonal treatment prior to referral, either through previous prescription or self medication. It is appropriate to continue this treatment following engagement with the GIC whilst Assessment One is undertaken. Appropriate prescribing guidelines and monitoring requirements are detailed in Endocrine Management of Adult Transgender Service users (NGICNS) and all service users should be made aware of this guidance and prescribing and monitoring of treatment brought in line with this guidance.
 
-Many GPs might be hesitant to prescribe hormones due to an unfamiliarity with the standard treatments for trans people. The Nottingham Centre for Transgender Health has published two informational guides for masculinising {% cite ncthMasc %} and feminising {% cite ncthFem %} hormone treatment, which may help your GP work out the right treatment to prescribe.
+Many GPs might be hesitant to prescribe hormones due to an unfamiliarity with the standard treatments for trans people. However, a number of gender clinics have published prescribing guidelines that your GP may find useful; you can find a list of these in [the Hormones section on genderarchive.org.uk](https://genderarchive.org.uk/tag/hormones/).
 
 ### References
 

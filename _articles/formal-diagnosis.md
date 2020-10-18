@@ -16,7 +16,7 @@ Before getting a diagnosis, it's worth considering carefully whether you need on
 
    A diagnosis is usually required to receive gender-related surgeries, and may help you get hormone treatment and NHS funding for hair removal or [speech therapy]({% link _articles/speech-therapy.md %}).
 
-   You may be able to get your GP to prescribe hormones *without* getting a diagnosis: see [Accessing HRT without a diagnosis](% link _resources/hrt-without-diagnosis.md %}) for more information.
+   You may be able to get your GP to prescribe hormones *without* getting a diagnosis: see [Accessing HRT without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}) for more information.
 
 -  *To get a Gender Recognition Certificate, or update the gender on your [passport]({% link _articles/getting-a-new-passport.md %})*
 
