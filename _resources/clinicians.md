@@ -12,19 +12,23 @@ BMJ subscribers can also access [BMJ Best Practice - Gender dysphoria in adults]
 
 ### Policies
 
-Each nation's public health body has published a policy for how patients should be treated.
+Each nation has different policies for how patients should be treated.
 
 - *NHS England*
 
-    [Gender Identity Services for Adults (Non-Surgical Interventions](https://www.england.nhs.uk/publication/service-specification-gender-identity-services-for-adults-non-surgical-interventions/), [Gender Identity Services for Adults (Surgical Interventions)](https://www.england.nhs.uk/publication/service-specification-gender-identity-services-for-adults-surgical-interventions/), [Gender Identity Development Service (GIDS) for Children and Adolescents](https://www.england.nhs.uk/wp-content/uploads/2017/04/gender-development-service-children-adolescents.pdf).  NHS England have also published information for GPs on [prescribing and monitoring hormones](https://www.shsc.nhs.uk/sites/default/files/2019-12/SSC1620_GD-Prescribing.pdf) and information for GPs on handling [requests from private medical service providers](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf).
+    NHS England's services for adults follow these specifications for [Non-Surgical Interventions](https://www.england.nhs.uk/publication/service-specification-gender-identity-services-for-adults-non-surgical-interventions/) and  [Surgical Interventions](https://www.england.nhs.uk/publication/service-specification-gender-identity-services-for-adults-surgical-interventions/). The services for children are described in [Gender Identity Development Service (GIDS) for Children and Adolescents](https://www.england.nhs.uk/wp-content/uploads/2017/04/gender-development-service-children-adolescents.pdf). NHS England have also published information for GPs on [prescribing and monitoring hormones](https://www.shsc.nhs.uk/sites/default/files/2019-12/SSC1620_GD-Prescribing.pdf) and information for GPs on handling [requests from private medical service providers](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf).
 
 - *NHS Scotland*
 
-    [Gender Reassignment Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf). You should also read [Interim Guidance](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2015/07/Gender-Reassignment-Interim-Guidance-2.pdf) which contains updates to the protocol. Some [explanatory notes](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2016/04/NGICNS-Explanatory-Notes-for-GRP-v1-0-2.pdf) have been published which may help you.
+    NHS Scotland follows their [Gender Reassignment Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2012_26.pdf). You should also read [Interim Guidance](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2015/07/Gender-Reassignment-Interim-Guidance-2.pdf) which contains updates to the protocol. Some [explanatory notes](http://www.ngicns.scot.nhs.uk/wp-content/uploads/2016/04/NGICNS-Explanatory-Notes-for-GRP-v1-0-2.pdf) have been published which may help you.
     
 - *NHS Wales*
 
-    [Specialised Services Policy CP21](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP21%20Gender%20Services%20Specialies%20Services%20Policy%20%20Approved%201209251.pdf)
+    NHS Wales follow the [Specialised Services Policy CP21](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP21%20Gender%20Services%20Specialies%20Services%20Policy%20%20Approved%201209251.pdf).
+
+- *HSC Northern Ireland*
+
+    HSC NI have not published policies online. For further information contact the [Brackenburn Regional Gender Identity Service](https://belfasttrust.hscni.net/service/regional-gender-identity-service/).
 
 Additionally, the specialist gender services follow the [Royal College of Psychiatrists Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf).
 
