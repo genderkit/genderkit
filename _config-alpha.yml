@@ -1,0 +1,89 @@
+title: Gender Construction Kit
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The UK guide to changing things linked to gender
+url: "http://alpha.genderkit.org.uk.s3-website.eu-west-2.amazonaws.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 
+twitter_username: genderkit
+facebook_username: genderkit
+github_username:  genderkit
+
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+gems:
+  - 'jekyll/scholar'
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "old/*"
+  - vendor # Gem install location under travis
+  - scripts
+  - .travis.yml
+  - Rakefile
+  - logs
+  - LICENSE
+  - CONTRIBUTING.md
+  - README.md
+  - whitelist
+  - "data/*"
+  - "vagrant/*"
+
+collections:
+  articles:
+    output: true
+  categories:
+    output: true
+  explore:
+    output: true
+  words:
+    output: true
+  resources:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+      weighting: 999
+      permalink: /article/:name/
+  - scope:
+      path: ""
+      type: categories
+    values:
+      layout: category
+      permalink: /category/:name/
+  - scope:
+      path: ""
+      type: explore
+    values:
+      layout: explore
+      permalink: /explore/:name/
+  - scope:
+      path: ""
+      type: words
+    values:
+      layout: word
+      permalink: /word/:name/
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: misc
+      permalink: /resources/:name/
+
+stylus:
+  compress: true
+
+scholar:
+  style: custom
+  bibliography_template: "{{reference}}"
+  bibtex_filters: 
+    - latex
+  bibliography_item_attributes:
+    class: bibitem
