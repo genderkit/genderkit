@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: misc
 ---
 
 {% assign slug = page.title | slugify %}
 {% assign info = site.data.words[slug] %}
 
-<main role="main">
-  <article class="content">
     <section class="bodytext">
       <h3>What does it mean?</h3>
       {{ content }}
@@ -34,5 +32,3 @@ layout: page
       <h3>Errors and omissions</h3>
       <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know, or <a href="https://github.com/genderkit/genderkit/issues">file an issue on GitHub</a>.</p>
     </section>
-  </article>
-</main>

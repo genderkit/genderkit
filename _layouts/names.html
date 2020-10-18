@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: misc
 ---
-<main role="main">
-  <article>
-    <section>
-      {{ content }}
+<section class="bodytext">
+{{ content }}
       <img src="{{ 'assets/images/name-axes.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" style="max-width: 450px; margin-left: auto; margin-right: auto;" />
     </section>
     <section>
@@ -21,5 +19,3 @@ layout: page
       <h3>Changing your name</h3>
       <p>You can read about how to change your name on our <a href="{% link _categories/id-documents.md %}">ID documents page</a>.
     </section>
-  </article>
-</main>
