@@ -83,7 +83,7 @@ If you don't need medical treatments or a GRC, and don't need the gender on your
 
 Getting the gender on your passport updated will require a letter from a doctor stating that you intend to live in the new gender permanently. Your GP might be willing to write this for you without a formal diagnosis.
 
-Under some circumstances, your GP may be willing to prescribe hormones without a diagnosis; hormone treatments are well-documented, easy to monitor for safety and cost the NHS relatively little. However, it is very unlikely that you will be able to access surgery without a diagnosis. See [Accessing HRT without a diagnosis](% link _resources/hrt-without-diagnosis.md %}) for more information.
+Under some circumstances, your GP may be willing to prescribe hormones without a diagnosis; hormone treatments are well-documented, easy to monitor for safety and cost the NHS relatively little. However, it is very unlikely that you will be able to access surgery without a diagnosis. See [Accessing HRT without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}) for more information.
 
 ### References
 
