@@ -31,12 +31,7 @@ Other services that may be of interest to people in the UK include:
 
 To ensure that you choose an appropriate service, it is important to investigate:
 
-- how long you might be waiting before you are seen
-- whether you will recieve written confirmation that you have been added to the waiting list
-- whether you will receive regular blood tests and monitoring (or your GP will receive instructions on how to do it)
-- whether you will be expected to undergo medically unnecessary physical examinations of your chest or genitalia
-- whether any fees you pay for the service will be reasonable in comparison to similar services
-- whether your GP will support you accessing that service and cooperate with hormone prescription if necessary
+{% include checklist checklist="genderservices" %}
 
 A well-run service will be happy to help you with questions on these subjects. You may also find useful information on these subjects, and other people's thoughts and experiences of services, by searching [/r/transgenderuk](https://www.reddit.com/r/transgenderuk) for information.
 
