@@ -189,12 +189,13 @@ organisations:
         tags: [NHS, 'Gender Clinics', Yorkshire]
         manualDescription: 'NHS gender service located in Leeds'
         image: nhs
-        age-range: 18+
+        age-range: 17+
         publishes-wait: true
         wait-first-appointment: 29
         nhs-funding: true
         referrals: true
         updated: '2020-08-14'
+        catchment: England
     -
         heading: Sheffield
         nickname: Porterbrook
