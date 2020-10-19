@@ -38,7 +38,7 @@ When talking to your GP, the following references may be useful:
 
 - The NGICNS Explanatory Notes to the Scottish gender protocol {% cite ngicnsExplanatoryNotes --locator 5 %} states:
 
-> Some service users may already be on hormonal treatment prior to referral, either through previous prescription or self medication. It is appropriate to continue this treatment following engagement with the GIC whilst Assessment One is undertaken. Appropriate prescribing guidelines and monitoring requirements are detailed in Endocrine Management of Adult Transgender Service users (NGICNS) and all service users should be made aware of this guidance and prescribing and monitoring of treatment brought in line with this guidance.
+  > Some service users may already be on hormonal treatment prior to referral, either through previous prescription or self medication. It is appropriate to continue this treatment following engagement with the GIC whilst Assessment One is undertaken. Appropriate prescribing guidelines and monitoring requirements are detailed in Endocrine Management of Adult Transgender Service users (NGICNS) and all service users should be made aware of this guidance and prescribing and monitoring of treatment brought in line with this guidance.
 
 Many GPs might be hesitant to prescribe hormones due to an unfamiliarity with the standard treatments for trans people. However, they will be familiar with the same medications used for other purposes, such as treating hypogonadism, hormone-sensitive cancers, or menopausal symptoms; the GMC {% cite GMCTransPrescribing %} notes that
 
