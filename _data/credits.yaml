@@ -21,10 +21,12 @@
   articles: 
     - "Binding"
     - "Piercings"
- 
 -
   name: "Jenny"
   contribution: "Website development, Research"
+-  
+  name: "Mikey"
+  contribution: "Writing"
 
 # Example credit
 # -
