@@ -41,7 +41,9 @@ You will normally need to meet the following conditions:
 patient’s goals (unless the patient has medical contraindications
 or is otherwise unable to take hormones) {% cite cr181 %}. 
 
-Hysterectomy for other medical reasons is not subject to these requirements.
+Salpingo-oophorectomy for other medical reasons is not subject to these requirements.
+
+{% include list-of-surgeons %}
 
 ### References
 

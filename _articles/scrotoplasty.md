@@ -10,6 +10,8 @@ In scrotoplasty surgery, a scrotum is created. This is performed by reshaping an
 
 Often scrotoplasty will be performed during the same operation as [metoidioplasty]({% link _articles/metoidioplasty.md %}) or during the process of [phalloplasty]({% link _articles/phalloplasty.md %}).
 
+{% include list-of-surgeons %}
+
 ### References
 
 {% bibliography --cited %}
