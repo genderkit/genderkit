@@ -10,7 +10,7 @@ Intense pulsed light (IPL) therapy is an alternative to [laser hair reduction]({
 
 It uses a bright flash of light from a xenon flashbulb that produces many different wavelengths - rather than the single wavelength used by a laser.
 
-Medical studies have yet to come to a clear conclusion about whether IPL is more or less effective than laser hair reduction. Some studies have suggested that treatment with IPL is less effective {% cite klein2013photoepilation ormiga2014comparison %}, while others have found no difference {% cite gan2013laser szima2017comparison %}.
+Medical studies have yet to come to a clear conclusion about whether IPL is more or less effective than laser hair reduction. Some studies have suggested that treatment with IPL is less effective {% cite klein2013photoepilation ormiga2014comparison %}, while others have found no difference {% cite gan2013laser szima2017comparison %}. NHS Scotland have produced guidance suggesting that IPL therapy may work less effectively on thicker hairs with deeper roots {% cite ngicns2020facial -l 7 %}.
 
 IPL is less suitable than laser hair reduction for people with darker skin {% cite gan2013laser %}.
 
