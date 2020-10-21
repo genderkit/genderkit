@@ -20,9 +20,13 @@ The British Institute and Association of Electrolysis maintain a [directory of m
 
 ### Costs and funding
 
-The price of electrolysis varies depending on the size of the area to be treated. A common area is the face and neck, which costs around £80-90 per hour with an experienced electrologist, with more specialist work required before surgery costing £95-115 per hour. Prices will vary depending on the location of the clinic within the UK and the amount of experience your electrologist has. 
+The price of electrolysis varies depending on the location of the clinic within the UK, the amount of experience your electrologist has, the size of the area to be treated. A common area is the face and neck, which costs around £80-90 per hour with an experienced electrologist, with more specialist work required before surgery costing £95-115 per hour. NHS Scotland have produced guidance suggesting that around 250-400 hours or treatment would be required for effective facial hair removal {% cite ngicns2020facial -l 6 %}.
 
-If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and have unwanted facial hair, the NHS may provide funding for some electrolysis or [laser hair reduction]({% link _articles/laser-hair-reduction.md %}).
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and have unwanted facial hair, the NHS may provide funding for some electrolysis or [laser hair reduction]({% link _articles/laser-hair-reduction.md %}):
+
+- *NHS England*: electrolysis sessions up to the value of 8 sessions of laser hair removal{% cite specEngNonsurgical -l 17 %}
+- *NHS Scotland*: at least 250 hours of treatment {% cite ngicns2020facial -l 10 %}
+- *NHS Wales*: facial hair removal is not currently funded by NHS Wales {% cite specWalesNonsurgical -l 40 %}
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 
