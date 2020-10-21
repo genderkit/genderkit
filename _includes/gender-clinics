@@ -1,4 +1,4 @@
-{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" | sort:"heading" | sort:"wait-first-appointment", "last" %}
+{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"catchment", "last" %}
 
 <h3 class="referrals"><img src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 {% if include.description %}
@@ -37,7 +37,7 @@
 
         <div class="clinicdetails">
           {% if item.catchment %}
-            <span class="catchment">{{item.catchment | markdownify }} patients only</span>
+            <span class="catchment">{{item.catchment | markdownify }} GP only</span>
           {% endif %}
 
         </div>
