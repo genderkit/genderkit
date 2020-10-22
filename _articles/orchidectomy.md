@@ -33,6 +33,8 @@ Outside of Scotland, this is usually only funded as part of [vaginoplasty]({% li
 {% endcapture %}
 {% include regional regionalinfo=info %}
 
+The cost of an orchidectomy performed in the UK is currently around £3000-4000 (last updated October 2020).
+
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for [orchidectomy]({% link _articles/orchidectomy.md %}). You will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria

@@ -67,7 +67,7 @@ congruent with the gender identity {% cite cr181 %}.
 
 {% include surgery-costs %}
 
-If not funded by the NHS, the cost of a phalloplasty performed in the UK is approximately £40,000-£70,000. The exact cost will depends on exactly what surgery is required, and determining the best option for you will require a consultation with a surgeon. The only clinic currently performing phalloplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
+If not funded by the NHS, the cost of a phalloplasty performed in the UK is approximately £40,000-£70,000 (last updated July 2020). The exact cost will depends on exactly what surgery is required, and determining the best option for you will require a consultation with a surgeon. The only clinic currently performing phalloplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
 
 ### References
 

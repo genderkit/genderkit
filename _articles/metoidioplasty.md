@@ -53,7 +53,7 @@ congruent with the gender identity {% cite cr181 %}.
 
 {% include surgery-costs %}
 
-If not funded by the NHS, the cost of a metoidioplasty performed in the UK is approximately £35,000. The only clinic currently performing metoidioplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
+If not funded by the NHS, the cost of a metoidioplasty performed in the UK is approximately £35,000 (last updated July 2020). The only clinic currently performing metoidioplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
 
 ### References
 

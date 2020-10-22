@@ -29,6 +29,8 @@ Doing some preparation in advance can help make sure everything goes smoothly du
 
 ### Costs and funding
 
+The cost of a mastectomy and chest reconstruction performed in the UK is currently around £6000-7000 (last updated October 2020).
+
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for a mastectomy. Mastectomy for reasons of gender dysphoria requires a written letter of recommendation from a specialist gender clinician (such as NHS Gender Identity Clinic staff or private specialists) who have assessed you for suitability for surgery {% cite cr181 %}.
 
 {% include list-of-surgeons %}
