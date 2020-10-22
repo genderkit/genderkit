@@ -16,9 +16,12 @@ In the UK, there are several specialist services available to provide you with i
 
 [Mindline Trans+](http://bristolmind.org.uk/help-and-counselling/mindline-transplus/) is a helpline for adults in the UK who identify as trans or non-binary, run by mental health charity Mind.
 
-[Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline) support patients of the Nottingham Centre for Transgender Health and the Sheffield Porterbrook Clinic.
+If you are on a gender service waiting list or are a current gender service user, you can also get support from:
 
-[Leeds Gender Outreach Workers](https://www.mesmac.co.uk/our-services/leeds/trans-non-binary-gender-outreach-workers) provide support to patients of the Leeds Gender Identity Service.
+- *Leeds Gender Identity Service*: [Leeds Gender Outreach Workers](https://www.mesmac.co.uk/our-services/leeds/trans-non-binary-gender-outreach-workers)
+- *Nottingham Centre for Transgender Health*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
+- *Sheffield Porterbrook Clinic*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
+- *Welsh Gender Service*: [XIST at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
 
 ### Counselling 
 
