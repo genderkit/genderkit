@@ -6,19 +6,21 @@ attention-title: Having suidical thoughts?
 attention-text: "You can find information about what to do to get help on [the NHS Choices website](https://www.nhs.uk/conditions/suicide/)."
 ---
 
-### Helplines
+### How to get help
 
-[Mindline Trans+](https://bristolmind.org.uk/help-and-counselling/mindline-transplus/) provide a helpline for people across the UK for anyone regardless of their gender, run by the mental health charity Mind.
+If you'd like to talk to someone about problems you're having, we have [a list of UK support services and helplines]({% link _articles/support-services.md %}) that help trans, nonbinary, and gender non-conforming people and people who are thinking about their gender.
 
-[Mermaids](https://mermaidsuk.org.uk/contact-us/) provide a helpline and email support for transgender youth.
+We also have a page with detailed information about [how to access counselling]({% link _articles/counselling.md %}).
 
-If you are finding you are struggling with mental health issues, make an appointment to see your GP as they will be able to arrange for treatments like talking therapies or medication. If you're worried about killing yourself, please [click here right now to find out what to do to get help](https://www.nhs.uk/conditions/suicide/).
+If you are finding you are struggling with mental health issues that continue over a longer period, it could help you to make an appointment to see your GP as they will be able to arrange for treatments like talking therapies or medication. 
 
 ### If you're worried about hurting yourself or other people
 
 If you think you are seeing or hearing things that aren't there, or you think you may harm someone around you, please read [this page on the NHS website](https://www.nhs.uk/conditions/psychosis/).
 
 If you are hurting yourself in order to cope - even if it is by exercising too much, using alcohol or drugs, or not eating enough or too much - it's important that you get help. The NHS have a page about [self-harming and how to get help](https://www.nhs.uk/conditions/self-harm).
+
+If you're worried about killing yourself, please [click here right now to find out what to do to get help](https://www.nhs.uk/conditions/suicide/).
 
 ### If you're worried about someone else
 
