@@ -20,7 +20,7 @@ The British Institute and Association of Electrolysis maintain a [directory of m
 
 ### Costs and funding
 
-The price of electrolysis varies depending on the location of the clinic within the UK, the amount of experience your electrologist has, the size of the area to be treated. A common area is the face and neck, which costs around £80-90 per hour with an experienced electrologist, with more specialist work required before surgery costing £95-115 per hour. NHS Scotland have produced guidance suggesting that around 250-400 hours or treatment would be required for effective facial hair removal {% cite ngicns2020facial -l 6 %}.
+The price of electrolysis varies depending on the location of the clinic within the UK, the amount of experience your electrologist has, the size of the area to be treated. A common area is the face and neck, which costs around £80-90 per hour with an experienced electrologist, with more specialist work required before surgery costing £95-115 per hour. NHS Scotland have produced guidance suggesting that around 250-400 hours of treatment would be required for effective facial hair removal {% cite ngicns2020facial -l 6 %}.
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and have unwanted facial hair, the NHS may provide funding for some electrolysis or [laser hair reduction]({% link _articles/laser-hair-reduction.md %}):
 
