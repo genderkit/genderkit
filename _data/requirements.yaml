@@ -22,7 +22,7 @@ parents:
 time:
  icon: time
 consent:
- text: "You must have capacity to consent for this treatment"
+ text: "You must have [capacity to consent](/resources/capacity) for this treatment"
  icon: consent
 hrt:
  icon: medication
