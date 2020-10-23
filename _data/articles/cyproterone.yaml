@@ -24,3 +24,6 @@ effects:
     category: "Libido"
     detail: "Reduced"
     
+requirements:
+  - type: non-nhs
+    detail: "This is not normally available on the NHS, except as a temporary measure"

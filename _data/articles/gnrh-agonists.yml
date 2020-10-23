@@ -26,3 +26,5 @@ effects:
   -
     category: "Libido"
     detail: "Reduced"    
+requirements:
+  - multi: standard-blocker-reqs

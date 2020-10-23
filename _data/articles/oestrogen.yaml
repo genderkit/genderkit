@@ -12,3 +12,5 @@ effects:
     detail: "Calmed or improved mood"
   - category: "Fragrance"
     detail: "Body odour changes"
+requirements:
+  - multi: standard-hrt-reqs

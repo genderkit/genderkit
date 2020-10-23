@@ -1,3 +1,6 @@
+non-nhs:
+ text: "This is not normally available on the NHS"
+ icon: otherrestriction
 18+:
  text: "You usually need to be at least 18"
  icon: age18
@@ -8,8 +11,11 @@ bmi:
  text: "You may need to have a certain BMI (body mass index) to get this"
  icon: bmi
 tanner2:
- text: "Under 18s must be at [Tanner Stage 2](\"/resources/tanner-stage\") or later"
+ text: "Under 18s must be at [Tanner Stage 2](/resources/tanner-stage) or later; this may involve a physical exam"
  icon: puberty
+parents-16:
+ text: "Under 16s need the support of their family, while 16-18 year olds need support of one parent"
+ icon: family
 parents:
  text: "Under 18s can usually only get this with the support of their parents or guardians"
  icon: family
@@ -38,6 +44,9 @@ bmi-30:
 bmi-40:
  icon: bmi
  text: "You typically need a BMI of less than 40"
+bmi-bd:
+ icon: bmi
+ text: "Under 18s must meet some requirements based on body mass index and bone density"
 persistent-dysphoria:
  icon: time
  text: "You need to have had persistent dysphoria, but there is no specific time frame"
@@ -52,4 +61,13 @@ standard-bottom-surgery-reqs:
  - type: consent
  - type: 16-scot-17-uk
  - type: bmi-30
-
+standard-hrt-reqs:
+ - type: persistent-dysphoria
+ - type: consent
+ - type: 16+
+standard-blocker-reqs:
+ - type: persistent-dysphoria
+ - type: consent
+ - type: parents-16
+ - type: tanner2
+ - type: bmi-bd 

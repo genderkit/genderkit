@@ -24,3 +24,5 @@ effects:
     detail: "Increased energy"
   - category: "Fragrance"
     detail: "Body odour changes"
+requirements:
+  - multi: standard-hrt-reqs
