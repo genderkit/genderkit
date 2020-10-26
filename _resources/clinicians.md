@@ -42,6 +42,8 @@ A number of specialist NHS services across the UK provide diagnosis and treatmen
 
 Some specialist gender services have produced additional guidance for GPs. You can find a list of publications from these services including guidance on shared care and prescribing information on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/gender-clinic-publications/).
 
+It may be appropriate to prescribe hormone therapy *before* a patient has been seen by a specialist clinic. See our [Accessing HRT without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}) page for more information.
+
 ### Updating medical records
 
 If a patient wants to update their medical records to match a change in gender, name, or title, there is information on how they can do this in our [Updating NHS patient details]({% link _articles/updating-nhs-patient-details.md %}) article.
