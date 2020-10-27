@@ -23,7 +23,11 @@ There is detailed information about gamete storage and fertility treatments for 
 
 ### Costs and funding
 
-Gamete storage for transgender people is not routinely available on the NHS.
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and the NHS will be providing medical treatments relating to gender that could affect your fertility, you may be able to access funding for gamete storage:
+
+- *NHS England*: funding varies by local area based on rules set by your local Clinical Commissioning Group (CCG), with many CCGs now funding treatment.
+- *NHS Wales*: gamete storage is funded for 10 years {% cite walesfertility -l 2 %}
+- *NHS Scotland*: information can be found on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/assisted-conception/)
 
 The Human Fertilisations and Embryology Authority have details of [costs and funding of gamete collection and storage](https://www.hfea.gov.uk/treatments/explore-all-treatments/costs-and-funding/), including options that may help you reduce costs such as egg sharing and treatment abroad. You also can use [their search tool](https://www.hfea.gov.uk/choose-a-clinic/clinic-search/) to find a clinic that will help you.
 
