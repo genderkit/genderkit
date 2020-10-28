@@ -21,7 +21,7 @@ to a treatment if you can do all of these things:
 * *Understand information about the decision you're making*
 
   If you can understand information about the consequences of deciding to have
-the treatment, of deciding not to have the treatment, and of faiing to make a
+the treatment, of deciding not to have the treatment, and of failing to make a
 decision, you meet this criterion.
 
   You can ask for the information to be given to you in simple language, with
@@ -44,6 +44,8 @@ a short time, you meet this criterion.
 Unless there is significant evidence to show you don't meet these criteria, you
 are assumed to have capacity to consent.
 
+The Mental Capacity Act (2005) relates to adults aged 16 and older. However, the standard of *Gillick competence* means that the same criteria broadly apply to those under the age of 16 {% cite gillick %}.
+
 If you're worried that your *capacity to consent might be denied*, you could consider
 bringing an advocate to medical appointments; this could be a friend or
 relative, or someone experienced in medical advocacy.
@@ -57,3 +59,7 @@ or make a complaint:
 * For NHS Wales, you can find details of your local health board's process [here](http://www.wales.nhs.uk/ourservices/contactus/nhscomplaints)
 * For HSC Northern Ireland, you can find out how to make a complaint [here](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services)
 * Private clinics will have their own complaints process
+
+### References
+
+{% bibliography --cited %}
