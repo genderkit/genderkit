@@ -13,11 +13,11 @@ Transphobic hate crime is:
 
 where the perpetrator is motivated by how they perceive a person's gender identity.
 
-Hate crimes can also be motivated by a persons sexuality, disability, religion, race,  ethnicity or nationality {% cite hatecrime2016 %}.
+Hate crimes can also be motivated by a persons sexuality, disability, religion, race, ethnicity or nationality {% cite hatecrime2016 %}.
 
 ### Useful links
 
-GALOP have a [trans advocacy service](http://www.galop.org.uk/trans-advocacy/) that can help provide advice and support if you are experiencing or have experinced a hate crime.
+GALOP have a [trans advocacy service](http://www.galop.org.uk/trans-advocacy/) that can help provide advice and support if you are experiencing or have experienced a hate crime.
 
 LGBT Foundation have produced [A Guide to Reporting Transphobic Crime](https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/afe45faa-5fff-425d-a4f4-ec8c55c78ebd/hatecrimereporting-webdesign.pdf).
 

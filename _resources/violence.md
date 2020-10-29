@@ -34,7 +34,7 @@ Thankfully, you can find information about what to do online on the NHS Choices 
 - [Supporting a victim of sexual assault](https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/#supporting-a-victim-of-sexual-assault)
 - [Helping a friend if they're being abused](https://www.nhs.uk/live-well/healthy-body/getting-help-for-domestic-violence/#helping-a-friend-if-theyre-being-abused)
 
-If you're worried about someone's mental health or whether they are thinking of hurting themselves, we have a seperate page on [mental health]({% link _resources/mental-health.md %}) with more information.
+If you're worried about someone's mental health or whether they are thinking of hurting themselves, we have a page on [mental health]({% link _resources/mental-health.md %}) with more information.
 
 ### More information
 

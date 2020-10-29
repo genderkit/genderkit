@@ -6,7 +6,7 @@ description: Sex and contraception information for trans, non-binary, and gender
 
 ### Sexual health for trans people
 
-Terrence Higgins Trust have useful webpages giving information about:
+Terrence Higgins Trust have useful pages giving information about:
 
 - [sex as a trans man](https://www.tht.org.uk/hiv-and-sexual-health/sexual-health/improving-your-sexual-health/sex-trans-man)
 - [sex as a trans woman](https://www.tht.org.uk/hiv-and-sexual-health/sexual-health/improving-your-sexual-health/sex-trans-woman)

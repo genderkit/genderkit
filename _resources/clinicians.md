@@ -24,7 +24,7 @@ Each nation has different policies for how patients should be treated.
     
 - *NHS Wales*
 
-    For non-surgical matters, NHS Wales follow the [Specialised Services Commissioning Policy CP182a](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182a%5FGender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Policy%20V3.0%20March%202020.pdf) and [Service Specification CP182b](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182b%20Gender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Spec%20V2.0%20March%202020.pdf). Surgical matters are referred to NHS England.
+    For non-surgical matters, NHS Wales follow the [Specialised Services Commissioning Policy](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182a%5FGender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Policy%20V3.0%20March%202020.pdf) and [Service Specification](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182b%20Gender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Spec%20V2.0%20March%202020.pdf). Surgical matters are referred to NHS England and follow their policy.
 
 - *HSC Northern Ireland*
 

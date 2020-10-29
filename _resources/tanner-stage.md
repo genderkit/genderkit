@@ -6,7 +6,7 @@ description: Explanation of the Tanner Stages of puberty
 
 In medicine, the development of the body over the course of puberty is broken down into five stages, called Tanner Stages.
 
-Blocker meds such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %}) are usualy not available until the onset of puberty at Tanner Stage 2. This generally involves the following changes:
+Blocker medications such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %}) are usually not available until the onset of puberty at Tanner Stage 2. This generally involves the following changes:
 
 <div class="tanner">
 <div class="tannercol">
@@ -14,7 +14,7 @@ Blocker meds such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %}) are 
 <ul>
 <li>Usually starts around age 11</li>
 <li>Breast buds develop</li>
-<li>Areola begin to swell</li>
+<li>Areolae begin to swell</li>
 <li>Pubic hair starts to develop</li>
 <li>Start to grow taller</li>
 </ul>

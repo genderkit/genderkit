@@ -24,8 +24,8 @@ All these services are now able to offer both phone and video appointments.
 Other services that may be of interest to people in the UK include:
 
 - [Christian Seipp](https://www.christianseipp-urology.net/transgender-health.html) offers private endocrinology services to people 18 years or older who have been previously assessed for gender dysphoria
-- [GenderHealthCare](https://genderhealthcare.co.uk/) offers private nursing services to gender-diverse youth and trans people of all ages, including offering specialist advice, adminstering injections, and taking blood samples 
-- [GenderGP](https://gendergp.com/) are an international service providing telemedicine for trans patients of all ages, including hormones and counselling
+- [GenderHealthCare](https://genderhealthcare.co.uk/) offers private nursing services to gender-diverse youth and trans people of all ages, including offering specialist advice, administering injections, and taking blood samples 
+- [GenderGP](https://gendergp.com/) are an international organisation providing services for trans patients of all ages, including hormones and counselling
 
 ### Choosing a service
 

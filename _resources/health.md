@@ -26,4 +26,4 @@ You can find out more about sports and exercise on [our page on this subject]({%
 
 ### Further reading
 
-You can find a detailed list of resources about health, aging, exercise, nutrition, and seuxal health on the [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/health-information/).
+You can find a detailed list of resources about health, ageing, exercise, nutrition, and sexual health on the [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/health-information/).

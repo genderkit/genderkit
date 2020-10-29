@@ -2,7 +2,7 @@
 layout: misc
 title: Mental health
 description: Information about mental health for trans, non-binary, and gender non-conforming people in the UK
-attention-title: Having suidical thoughts?
+attention-title: Having suicidal thoughts?
 attention-text: "You can find information about what to do to get help on [the NHS Choices website](https://www.nhs.uk/conditions/suicide/)."
 ---
 
@@ -35,7 +35,7 @@ Thankfully, you can find information about what to do online on the NHS Choices 
 
 If the person you're supporting would rather not have formal medical help for their problems, you might find one of the following resources useful:
 
-- QueerCare's [mental health intervention protocol](https://wiki.queercare.network/Mental_Health_Intervention_Protocol)
+- [Mental health intervention protocol](https://wiki.queercare.network/Mental_Health_Intervention_Protocol) by QueerCare
 - [What to do if a friend goes mad](https://asylummagazine.org/2019/03/what-to-do-if-a-friend-goes-mad-by-donnard-white/?fbclid=IwAR1OH7o6Q07h7ekQ1BRz4dBmnYi-_ex3DePsjvsF5O6mKdMSfxQwUmiGqRU) by Donnard White
 
 It's generally unhelpful to impose help on somebody who doesn't want it, or to try to help them in ways they don't want. Talk with the person you're worried about and act with their consent as much as possible.
