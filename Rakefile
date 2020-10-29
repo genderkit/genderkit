@@ -158,8 +158,14 @@ def run_spellcheck(file)
   result
 end
 
+def run_spellcheck_markdown(file)
+  cmd = "cat #{file} | sed 's/image:.*//g' | sed 's/{%[^%]*%}//g' | aspell -p './whitelist' -M -d en_GB --encoding utf-8 list | cat"
+  result = `#{cmd}`
+  result
+end
+
 desc "Spellcheck using Aspell"
-task :spellcheck => :jekyll do
+task :spellcheck => [:spellcheckmarkdown, :jekyll] do
   errors = 0
   files = FileList['_site/**/*.html']
   files.exclude("_site/books/*.html")
@@ -169,7 +175,9 @@ task :spellcheck => :jekyll do
   files.exclude("_site/credits/*.html")
   files.exclude("_site/tools/*")
   files.exclude("_site/explore/names-*/*.html")
-  files.exclude("_site/resources/*/*.html")
+  files.exclude("_site/resources/national/*.html")
+  files.exclude("_site/resources/local/*.html")
+  files.exclude("_site/resources/research/*.html")
   files.each do |file|
     results = run_spellcheck(file)
     if (results.length > 0)
@@ -182,7 +190,28 @@ task :spellcheck => :jekyll do
     puts "Spelling errors found! If you believe these words are spelled correctly, add them to the file called 'whitelist'."
     exit 1
   else
-    puts "No spelling errors found."
-    exit 0
+    puts "No spelling errors found in built site."
+  end
+end
+
+desc "Spellcheck markdown files using Aspell"
+task :spellcheckmarkdown do
+  errors = 0
+  files = FileList['**/*.md']
+  files.exclude("CONTRIBUTING.md")
+  files.exclude("credits.md")
+  files.each do |file|
+    results = run_spellcheck_markdown(file)
+    if (results.length > 0)
+      puts "Found spelling errors in #{file}:"
+      puts results
+      errors = errors + 1
+    end
+  end
+  if errors > 0
+    puts "Spelling errors found! If you believe these words are spelled correctly, add them to the file called 'whitelist'."
+    exit 1
+  else
+    puts "No spelling errors found in Markdown sources."
   end
 end
