@@ -150,7 +150,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 60
         nhs-funding: true
-        referrals: false
+        referrals: true
         updated: '2020-10-11'
         catchment: England
     -
