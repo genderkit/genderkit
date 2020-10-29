@@ -12,7 +12,7 @@
       {% assign url = item.url %}
       {% if include.thumbnails %}
         {% assign imagename = item.title %}
-        <img src="{{ 'assets/images/books/' | append: imagename | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" height="200" />
+        <img alt="Front cover of {{ item.title | xml_escape }}" src="{{ 'assets/images/books/' | append: imagename | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" height="200" />
       {% endif %}
       <a href="{{ url }}">{{ item.title | xml_escape }}</a>
       {% if item.subtitle %}
