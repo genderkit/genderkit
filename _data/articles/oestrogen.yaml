@@ -5,12 +5,12 @@ effects:
   - category: "Facial hair"
     detail: "Thins"
   - category: "Upper body"
-    detail: "Breasts grow"
+    detail: "Makes breasts grow"
   - category: "Lower body"
-    detail: "Larger hips and buttocks, less erections"
+    detail: "Increases size of hips and buttocks, makes erections less frequent"
   - category: "Mood"
-    detail: "Calmed or improved mood"
+    detail: "Calms or improves mood"
   - category: "Fragrance"
-    detail: "Body odour changes"
+    detail: "Changes body odour"
 requirements:
   - multi: standard-hrt-reqs

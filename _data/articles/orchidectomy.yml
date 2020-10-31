@@ -4,19 +4,19 @@ duration: "The effects are permanent and cannot be reversed."
 effects:
   -
     category: "Fertility"
-    detail: "Permanent infertility"
+    detail: "Causes permanent infertility"
   -
     category: "Body hair"
     detail: "Reduces and thins"
   -
     category: "Muscles"
-    detail: "Weaker and smaller"
+    detail: "Weakens and makes smaller"
   -
     category: "Lower body"
-    detail: "Easier to tuck, genital shrinkage, reduces erections"
+    detail: "Makes it easier to tuck, shrinks genitals, reduces erections"
   -
     category: "Face"
-    detail: "Softer skin, less acne"
+    detail: "Softens skin, lessens acne"
 requirements:
   - multi: standard-bottom-surgery-reqs
   - type: not-standalone

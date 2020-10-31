@@ -3,7 +3,7 @@ duration: "The effects are permanent and cannot be reversed."
 effects:
   -
     category: "Lower body"
-    detail: "Penis is removed"
+    detail: "Removes penis"
 requirements:
   - multi: standard-bottom-surgery-reqs
   - type: not-standalone

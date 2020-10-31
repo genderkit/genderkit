@@ -7,22 +7,22 @@ effects:
     detail: "Reduces and thins"
   -
     category: "Muscles"
-    detail: "Weaker and smaller"
+    detail: "Weakens and makes smaller"
   -
     category: "Head hair"
     detail: "Reduces hair loss"
   -
     category: "Fertility"
-    detail: "Temporary or permanent infertility"
+    detail: "Causes temporary or permanent infertility"
   -
     category: "Lower body"
-    detail: "Genital shrinkage, reduces erections"
+    detail: "Causes genital shrinkage, reduces erections"
   -
     category: "Face"
-    detail: "Softer skin, less acne"
+    detail: "Softens skin, lessens acne"
   -
     category: "Libido"
-    detail: "Reduced"
+    detail: "Reduces"
     
 requirements:
   - type: non-nhs

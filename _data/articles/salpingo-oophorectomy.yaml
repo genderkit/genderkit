@@ -4,10 +4,10 @@ duration: "The effects are permanent and cannot be reversed."
 effects:
   -
     category: "Lower body"
-    detail: "Ovaries removed"
+    detail: "Removes ovaries"
   -
     category: "Fertility"
-    detail: "Permanent infertility"
+    detail: "Causes permanent infertility"
   -
     category: "Menstruation"
     detail: "Stops"
