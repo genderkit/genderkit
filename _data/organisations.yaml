@@ -249,8 +249,8 @@ organisations:
         nhs-funding: true
         referrals: true
         publishes-wait: true
-        wait-first-appointment: 18
-        updated: '2020-08-14'
+        wait-first-appointment: 23
+        updated: '2020-11-04'
         catchment: UK GP only
     -
         heading: 'London GIC'
