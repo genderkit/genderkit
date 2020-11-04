@@ -235,7 +235,7 @@ organisations:
         referrals: true
         publishes-wait: false
         updated: '2020-08-14'
-        catchment: "Very limited access: see the [FAQ](http://wearetransplus.co.uk/faqs/)"
+        catchment: "Very limited access: [more info](http://wearetransplus.co.uk/faqs/)"
     -
         heading: 'London GIDS'
         nickname: Tavistock
@@ -281,7 +281,7 @@ organisations:
         nhs-funding: true
         referrals: true
         update-date: '2020-07-05'
-        catchment: 'Highland'
+        catchment: 'Highland GP only'
     -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/trans-support-service-tss/'
