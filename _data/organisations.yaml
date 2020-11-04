@@ -74,7 +74,7 @@ organisations:
         referrals: true
         age-range: 'Under 18'
         nhs-funding: true
-        catchment: 'Northern Ireland residents'
+        catchment: 'Northern Ireland residents only'
     -
         heading: Belfast
         nickname: Brackenburn
@@ -85,7 +85,7 @@ organisations:
         age-range: 18+
         referrals: false
         nhs-funding: true
-        catchment: 'Northern Ireland residents'
+        catchment: 'Northern Ireland residents only'
     -
         heading: YourGP
         name: YourGP
@@ -234,6 +234,7 @@ organisations:
         nhs-funding: true
         referrals: true
         publishes-wait: false
+        custom-wait: Under *2* months
         updated: '2020-08-14'
         catchment: "Very limited access: [more info](http://wearetransplus.co.uk/faqs/)"
     -
