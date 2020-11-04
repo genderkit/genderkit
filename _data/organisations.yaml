@@ -62,7 +62,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 30
         updated: '2020-08-14'
-        catchment: Wales
+        catchment: 'Wales GP only'
     -
         heading: Belfast
         nickname: KOI
@@ -74,7 +74,7 @@ organisations:
         referrals: true
         age-range: 'Under 18'
         nhs-funding: true
-        catchment: 'Northern Ireland'
+        catchment: 'Northern Ireland residents'
     -
         heading: Belfast
         nickname: Brackenburn
@@ -85,7 +85,7 @@ organisations:
         age-range: 18+
         referrals: false
         nhs-funding: true
-        catchment: 'Northern Ireland'
+        catchment: 'Northern Ireland residents'
     -
         heading: YourGP
         name: YourGP
@@ -110,7 +110,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-10-21'
-        catchment: 'Grampian, Orkney and Shetland'
+        catchment: 'Grampian, Orkney and Shetland GP only'
     -
         heading: Edinburgh
         nickname: Chalmers
@@ -124,7 +124,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-08-14'
-        catchment: 'Borders, Fife, or Lothian'
+        catchment: 'Borders, Fife, or Lothian GP only'
     -
         heading: Glasgow
         nickname: Sandyford
@@ -138,7 +138,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-08-14'
-        catchment: Scotland
+        catchment: Scotland GP only
     -
         heading: Exeter
         nickname: 'West of England'
@@ -152,7 +152,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-10-11'
-        catchment: England
+        catchment: England GP only
     -
         heading: Nottingham
         url: 'http://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
@@ -165,7 +165,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-10-12'
-        catchment: England
+        catchment: England GP only
     -
         heading: Northants
         nickname: Daventry
@@ -179,7 +179,7 @@ organisations:
         updated: '2020-08-14'
         referrals: true
         nhs-funding: true
-        catchment: England
+        catchment: England GP only
     -
         heading: Newcastle
         name: 'Northern Region Gender Dysphoria Service'
@@ -193,7 +193,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-08-14'
-        catchment: England
+        catchment: England GP only
     -
         heading: Leeds
         name: 'Leeds Gender Identity Service'
@@ -207,7 +207,7 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-08-14'
-        catchment: England
+        catchment: England GP only
     -
         heading: Sheffield
         nickname: Porterbrook
@@ -222,10 +222,10 @@ organisations:
         nhs-funding: true
         referrals: true
         updated: '2020-08-14'
-        catchment: England
+        catchment: England GP only
     -
-        heading: 'London Trans+'
-        name: Trans+
+        heading: 'London TransPlus'
+        name: TransPlus
         url: 'http://wearetransplus.co.uk/'
         tags: [NHS, 'Gender Clinics', National]
         manualDescription: 'NHS gender service based in London offering services to people who are already on an NHS clinic waiting list.'
@@ -235,7 +235,7 @@ organisations:
         referrals: true
         publishes-wait: false
         updated: '2020-08-14'
-        catchment: England
+        catchment: "Very limited access: see the [FAQ](http://wearetransplus.co.uk/faqs/)"
     -
         heading: 'London GIDS'
         nickname: Tavistock
@@ -251,7 +251,7 @@ organisations:
         publishes-wait: true
         wait-first-appointment: 18
         updated: '2020-08-14'
-        catchment: UK
+        catchment: UK GP only
     -
         heading: 'London GIC'
         nickname: Tavistock
@@ -267,7 +267,7 @@ organisations:
         nhs-funding: true
         referrals: true
         update-date: '2020-03-06'
-        catchment: UK
+        catchment: UK GP only
     -
         heading: Inverness
         nickname: 'Highland GIS'

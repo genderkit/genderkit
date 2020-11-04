@@ -31,13 +31,17 @@
           {% if item.publishes-wait %}
             <span class="waittime">{% if item.wait-first-appointment == 0 %}<em><1</em> month wait{% else %}<em>{{ item.wait-first-appointment }}+</em> month wait{% endif %}</span>
           {% else %}
-            <span class="waittime">Unknown wait</span>
+            {% if item.custom-wait %}
+              <span class="waittime">{{ item.custom-wait | markdownify }}</span>
+            {% else %}
+              <span class="waittime">Unknown wait</span>
+            {% endif %}
           {% endif %}
         </div>
 
         <div class="clinicdetails">
           {% if item.catchment %}
-            <span class="catchment">{{item.catchment | markdownify }} GP only</span>
+            <span class="catchment">{{item.catchment | markdownify }}</span>
           {% endif %}
 
         </div>
