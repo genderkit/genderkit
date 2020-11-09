@@ -1,0 +1,31 @@
+{% assign data = site.data.disguising-body-shape %}
+
+{% for technique in data %}
+
+
+
+<div class="columns">
+
+<div>
+{{ technique.description || markdownify }}
+
+{% if technique.furtherinfo %}
+{{ technique.furtherinfo || markdownify }}
+{% endif %}
+</div>
+
+{% for application in technique.applications %}
+<div>
+{% if false %}<div style="display: block; background: #ddd; width: 12.5em; height: 9em; margin-top: 1rem"></div>{% endif %}
+<p>to <span style="font-weight: bold">{{ application.purpose}}</span> try:
+{% for solution in application.solutions %}
+<br />
+{{ solution }}
+{% endfor %}
+</p>
+</div>
+{% endfor %}
+
+</div>
+
+{% endfor %}

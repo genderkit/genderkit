@@ -1,0 +1,113 @@
+-
+  description: "*Baggy fitting* clothes can help hide part of your body or make it look bigger."
+  furtherinfo: "However, they may make you appear shorter, or make parts of your body look skinnier and less muscular."
+  applications: 
+    - 
+      purpose: "make hips look wider"
+      solutions:
+        - "A-line skirts"
+        - "peplum/skater tops"
+    - 
+      purpose: "hide crotch shape"
+      solutions:
+        - "baggy trousers or shorts"
+        - "loose skirts or dresses"
+        - "swimsuits featuring a swim skirt"
+-
+  description: "*Tailored fitting* clothing can combine the advantages of baggy and tighter fits within different areas of one piece of clothing."
+  furtherinfo: "This can help make one part of your body appear larger while the other looks smaller, changing your overall silhouette."
+  applications: 
+    - 
+      purpose: "straighten silhouette"
+      solutions:
+        - "loose fit at waist but tight at shoulder, like unisex tshirts"
+    - 
+      purpose: "curve silhouette"
+      solutions:
+        - "tight fit at waist but loose at chest, like “tailored” shirts and t-shirts, dresses and tops with a belt or tie at waist, wrap or empire style clothes"
+-
+  description: "*Multiple layers* and thicker and *less flexible* materials can smooth out the shape of your body."
+  furtherinfo: "However, these can get hot in summer, so you might want to consider breathable materials like cotton instead of synthetic ones."
+  applications: 
+    - 
+      purpose: "hide chest shape"
+      solutions:
+        - "layering tops"
+        - "undershirts or vests"
+        - "waistcoats"
+    - 
+      purpose: "hide body shape"
+      solutions:
+        - "well-padded coats"
+        - "thick knitwear"
+        - "thick denim or flannel"
+-
+  description: "*Covering up* parts of your body to hide them can be useful if you are uncomfortable with a part of your body."
+  applications: 
+    - 
+      purpose: "hide neck shape"
+      solutions:
+        - "roll neck or polo neck"
+        - "scarves"
+    - 
+      purpose: "hide buttocks"
+      solutions:
+        - "long cardigans"
+        - "long coats"
+-
+  description: "*Visual distractions* to draw people’s attention to parts of your body that you want to emphasise can help them overlook parts you wish to conceal.  "
+  applications: 
+    - 
+      purpose: "emphasise upper body"
+      solutions:
+        - "bold or light coloured tops"
+        - "muted or darker coloured bottoms"
+        - "accessorising with jewellery"
+    - 
+      purpose: "emphasise lower body"
+      solutions:
+        - "brightly coloured jeans"
+        - "patterned leggings"      
+-
+  description: "*Patterns* can affect how well people can determine the shape of a body part."
+  furtherinfo: "Repeating patterns can make it easier for the eye to detect shape, while complex patterns can make shape harder to perceive."
+  applications: 
+    - 
+      purpose: "emphasise shape"
+      solutions:
+        - "stripes"
+        - "checks"
+    - 
+      purpose: "conceal shape"
+      solutions:
+        - "floral prints"
+        - "graphic tees"
+        - "camo pattern"    
+-
+  description: "*Custom underwear* can help change shape in specific areas."
+  furtherinfo: "Using underwear to create dramatic changes may look unnatural."
+  applications: 
+    - 
+      purpose: "enlarge chest"
+      solutions:
+        - "padded bras"
+        - "bra inserts"
+        - "swimsuits with pockets for inserts"
+    - 
+      purpose: "enlarge hips"
+      solutions:
+        - "hip padding"
+        - "buttock padding"    
+    - 
+      purpose: "flatten chest"
+      solutions:
+        - "sports bras"
+        - "binding"
+    - 
+      purpose: "flatten hips"
+      solutions:
+        - "shapewear"    
+    - 
+      purpose: "shrink waist"
+      solutions:
+        - "corsets"    

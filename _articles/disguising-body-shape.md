@@ -6,27 +6,21 @@ feature:
   caption: "Silhouette of a person against a sunset"
 ---
 
-You might want to hide, emphasise, or enhance certain parts of your body shape. Common areas that people will often focus on are their shoulders, chest, waist, hips, legs, or neck. A variety of techniques can be used to alter the appearance of these areas, particularly choice of fit of clothing, materials, layering, padding, and creative use of optical illusions.
+You might want to hide, minimise, emphasise, or enhance certain parts of your body shape in order to feel more comfortable. A variety of techniques can be used to alter the appearance of these areas.
 
-### Fit of clothing
+This is not a science, and not all techniques will work for everyone: there are no hard and fast rules in fashion. You can try these ideas to find out which work on your body, and use them as inspiration for finding more ideas unique to your personal style.
 
-- Baggy or flared clothing can help hide where your body is narrower - e.g. A-line skirts
-- Tight clothing - can help draw attention to parts of your body, reduce size compared to parts of body where clothes are looser, and may help you look taller
-- Layers - can help obscure shape
-- Thick or inflexible materials - e.g. a thick or well-padded coat - to help hide shape
+### Useful techniques
 
-### Enhancing things
+{% include disguising-body-shape %}
 
-- Padding - shoulders, hips, chest (see relevant article)
-- Height - heels, hats, hair
-- Corsets - link to corsets page
+### Avoiding common problems
 
-### Optical illusions
+- Some people find that their arms look too small for the arms of t-shirts. One solution to this is to wear vest tops instead - and some people convert t-shirts into vests themselves.
+- If you find that t-shirts or shirts do not fit properly around your hips and are being stretched out, you can try to find ones that split at the sides at the bottom, as these can better accommodate larger hips.
 
-TODO: pictures needed here!
+### Useful links
 
-- Stripes - vertical or horizontal
-- Breaking up shapes - vertically or horizontally
-- Using colour or brightness to draw attention
-- Using dark colours or black to avoid attention, make look visually less prominent, and obscure shape by minimising shadows
-- Dazzle camouflage - use non-repeating or complex patterns (e.g. plaid) to hide shape
+You can find more useful information in our [article about buying clothes]({% link _articles/buying-clothes.md %}).
+
+For more information, advice, and events relating to clothing and style for UK people, check out [the G(end)er Swap website](https://genderswap.org).

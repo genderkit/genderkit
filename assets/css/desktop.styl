@@ -32,6 +32,11 @@ $bold-weight = 600
   // New category page styling
   .articles
     width 52rem
+  .columns
+    display grid
+    grid-template-columns repeat(auto-fit,12.5rem)
+    column-gap 1rem
+    padding 0
 
 // Change page look based on width
 @media screen and (min-width: 620px)
@@ -211,6 +216,8 @@ $bold-weight = 600
     margin-left 4.5rem
     i
       margin-left -5.5rem
+
+
 
 // New homepage styling
 
