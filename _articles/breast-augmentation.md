@@ -28,6 +28,8 @@ To ensure you are receiving the safest possible treatment, you should follow [th
 
 There is a significant risk of complications that require additional surgeries. The risk of additional operations being needed has been estimated by a UK surgeon as 1% a year, with about 10% of patients needing a new operation within ten years {% cite yelland2017 -l 259 %}, though studies in other countries have reported 30% of patients requiring more surgery within six years {% cite forster2013reoperation %}. Some UK surgeons recommend that implants are replaced every 10-15 years for safety even if complications have not occurred {% cite davies:2007 %}. As implants can leak or rupture as time passes, you will need to be prepared for the financial cost of future operations, not just the initial breast augmentation {% cite yelland2017 -l 260 %}.
 
+For your safety, it is wise to read the advice on choosing who will do the procedure found on [the NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/choosing-who-will-do-your-procedure/).
+
 You can read more about breast augmentation on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
 
 ### Preparing for a surgical procedure
