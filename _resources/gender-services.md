@@ -41,6 +41,14 @@ Waiting time information shown on this page is taken from information given dire
 
 Waiting times indicate how long patients who have just been invited for their first appointment have waited for. As demand is currently increasing over time, this means it is likely you will wait *longer* than the time shown on this page. The time shown on this page is the wait until a first appointment, but you are likely to be required to attend further appointments before receiving any medical treatments, which will involve further waiting.
 
+### Getting a referral to an NHS clinic
+
+If you're an adult, you can ask your GP for a referral to a specialist gender service, and they should refer you directly without first referring you to a local mental health team.
+
+If you're a young person, you can ask your GP for a referral to one of the specialist youth gender services. You can see your GP without your parents present, and they shouldn't tell them about what you've discussed without your consent, though they may encourage you to talk to them yourself. If you're in England, Wales and Northern Ireland, you might be referred to a CAMHS team before being referred to a specialist gender service. If you're in Scotland, you can be referred to Sandyford's Young People's Gender Service directly.
+
+If you're in Scotland (regardless of age), you can self-refer to Sandyford; see [their website](https://www.sandyford.scot/sexual-health-services/gender-identity-service/) for more information.
+
 ### Costs and funding
 
 *British citizens* are able to access the NHS and HSC gender services for *free*. If you are not a British citizen, you may still be able to access these services for free, and more details can be found on the [Immigration page]({% link _resources/immigration.md %}).

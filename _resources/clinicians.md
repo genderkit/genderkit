@@ -42,6 +42,8 @@ A number of specialist NHS services across the UK provide diagnosis and treatmen
 
 Some specialist gender services have produced additional guidance for GPs. You can find a list of publications from these services including guidance on shared care and prescribing information on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/gender-clinic-publications/).
 
+There is no need to refer adult patients to a local mental health team before making a referral to a specialist gender service. Young people in England, Wales and Northern Ireland may benefit from a referral to CAMHS first, but the services may be willing to accept a direct referral. Young people in Scotland can be referred (or self-refer) to Sandyford's Young People's Gender Service in the first instance.
+
 It may be appropriate to prescribe hormone therapy *before* a patient has been seen by a specialist clinic. See our [Accessing HRT without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}) page for more information.
 
 ### Updating medical records
