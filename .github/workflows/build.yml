@@ -16,6 +16,6 @@ jobs:
     - name: Build and test with Rake
       run: |
         gem install bundler
-        sudo apt-get install libimlib2-dev
+        sudo apt-get install libimlib2-dev aspell aspell-en
         bundle install --jobs 4 --retry 3
         bundle exec rake
