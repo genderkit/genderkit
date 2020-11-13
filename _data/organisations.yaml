@@ -370,7 +370,7 @@ organisations:
         age-range: 18+
         notes: 'Waiting lists vary between clinicians, with current patients reporting 2-3 months waiting time.'
         updated: '2020-08-15'
-        wait-first-appointment: 1
+        wait-first-appointment: 2
         publishes-wait: true
         nhs-funding: false
         referrals: true
