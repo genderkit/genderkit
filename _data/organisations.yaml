@@ -78,6 +78,7 @@ organisations:
     -
         heading: Belfast
         nickname: Brackenburn
+        name: 'Brackenburn Clinic Regional Gender Identity Service'
         url: 'https://belfasttrust.hscni.net/service/regional-gender-identity-service/'
         tags: [NHS, 'Gender Clinics', 'Northern Ireland']
         manualDescription: 'HSC gender service located in Belfast'
@@ -101,6 +102,7 @@ organisations:
         updated: '2020-04-13'
     -
         heading: Grampian
+        name: 'Grampian Gender Identity Clinic' 
         tags: [NHS, 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service located in Aberdeen'
         image: nhs-scotland
@@ -114,6 +116,7 @@ organisations:
     -
         heading: Edinburgh
         nickname: Chalmers
+        name: 'Chalmers Gender Identity Clinic'
         url: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/'
         tags: [NHS, 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service located in Edinburgh'
@@ -128,7 +131,7 @@ organisations:
     -
         heading: Glasgow
         nickname: Sandyford
-        name: Sandyford Gender Identity Service
+        name: 'Sandyford Gender Identity Service'
         url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
         tags: [NHS, 'Gender Clinics', Scotland, 'Under 18s']
         manualDescription: 'NHS gender service for adults and young people across Scotland located in Glasgow'
@@ -142,6 +145,7 @@ organisations:
     -
         heading: Exeter
         nickname: 'West of England'
+        name: 'West of England Specialist Gender Identity Clinic'
         url: 'https://www.dpt.nhs.uk/our-services/gender-identity'
         tags: [NHS, 'Gender Clinics', 'South West']
         manualDescription: 'NHS gender service located in Exeter, also known as "The Laurels"'
@@ -155,6 +159,7 @@ organisations:
         catchment: England GP only
     -
         heading: Nottingham
+        name: 'The Nottingham Centre for Transgender Health'
         url: 'http://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
         tags: [NHS, 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Nottingham'
@@ -169,6 +174,7 @@ organisations:
     -
         heading: Northants
         nickname: Daventry
+        name: 'Northamptonshire Gender Identity Clinic'
         url: 'https://www.nhft.nhs.uk/gic/'
         tags: [NHS, 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Daventry, Northamptonshire'
