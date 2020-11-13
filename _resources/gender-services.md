@@ -2,10 +2,12 @@
 layout: misc
 title: Specialist UK gender clinics
 description: List of UK gender services including NHS and private clinics
+attention-title: Updated November 2020
+attention-text: This is the most recent information provided by each organisation by 2020-11-10.
 ---
 
 {% capture warn %}
-Services on this page are listed for your information only. We do not recommend any particular service and cannot check the quality or safety of these services.
+We cannot check the quality or safety of services on this page.
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -15,7 +17,7 @@ In the UK, people who are changing things linked to gender are supported by a se
 
 All these services are now able to offer both phone and video appointments.
 
-{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description="There are also several privately run services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service." %}
+{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description="There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service." %}
 
 {% include gender-clinics tag="Gender Clinics" icon="cross" title="UK-based services currently not accepting patients" free=true referrals=false details="These services are no longer accepting new referrals and are only offering appointments to existing patients." %}
 
@@ -37,9 +39,13 @@ A well-run service will be happy to help you with questions on these subjects. Y
 
 ### Waiting times
 
-Waiting time information shown on this page is taken from information given directly to us by the services or published on their website. Information on this page was last updated in August 2020. 
+Waiting time information shown on this page is taken from information given directly to us by the services or published on their website.
 
 Waiting times indicate how long patients who have just been invited for their first appointment have waited for. As demand is currently increasing over time, this means it is likely you will wait *longer* than the time shown on this page. The time shown on this page is the wait until a first appointment, but you are likely to be required to attend further appointments before receiving any medical treatments, which will involve further waiting.
+
+Many gender services currently have very lengthy wait lists, and it can be very difficult to be waiting for so long. You can find ways you can get help while you are waiting on [our Mental Health page]({% link _resources/mental-health.md %}).
+
+If you switch from the wait list of one gender service to another, how long you wait for an appointment may take into account how long you have already waited, but not all services offer this. If you are considering switching from one gender service to another, you may wish to contact them to find out whether your existing wait time may be taken into account by the new service.
 
 ### Getting a referral to an NHS clinic
 
@@ -48,6 +54,8 @@ If you're an adult, you can ask your GP for a referral to a specialist gender se
 If you're a young person, you can ask your GP for a referral to one of the specialist youth gender services. You can see your GP without your parents present, and they shouldn't tell them about what you've discussed without your consent, though they may encourage you to talk to them yourself. If you're in England, Wales and Northern Ireland, you might be referred to a CAMHS team before being referred to a specialist gender service. If you're in Scotland, you can be referred to Sandyford's Young People's Gender Service directly.
 
 If you're in Scotland (regardless of age), you can self-refer to Sandyford; see [their website](https://www.sandyford.scot/sexual-health-services/gender-identity-service/) for more information.
+
+All the private gender services accept self-referral. However, it may be helpful to speak to your GP before self-referring to a private service, to find out if your GP will be able to support your treatment and if they are able to support you with blood tests and prescribing.
 
 ### Costs and funding
 
