@@ -4,7 +4,7 @@
 
 
 
-<div class="columns">
+<div class="columns dividingline">
 
 <div>
 {{ technique.description || markdownify }}

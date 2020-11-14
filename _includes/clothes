@@ -1,7 +1,7 @@
-<ul class="clothes">
+<ul class="clothes columns">
 {% for item in site.data.clothes %}
   <li>
-    <div>{{item}}</div>
+    <div><em>{{item}}</em></div>
     <img data-proofer-ignore src="/assets/images/clothes/{{ item | slugify }}.png" />
   </li>
 {% endfor %}
