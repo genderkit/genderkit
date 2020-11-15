@@ -14,7 +14,7 @@ Choosing glasses frames for yourself can be difficult. If you are trying on fram
 
 You may also find it helpful to read about what different types of frames suit different face types. There is a helpful guide to this on [the Boots Opticians website](https://www.boots.com/glasses/glasses-frames-for-your-face-shape). Remember that these are guidelines, rather than rules, so don't be afraid to go against this advice if a shape makes you more comfortable.
 
-### Costs
+### How much will it cost?
 
 Glasses frames vary significantly in price. 
 

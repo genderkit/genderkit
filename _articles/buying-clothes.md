@@ -80,7 +80,7 @@ Some options available to you are:
 - *decorating*: adding pin badges, patches, sequins, beads, or decorative bows to clothes.
 - *getting out the scissors*:	Using a pair of scissors, you can turn a t-shirt into a tank top, or jeans or trousers into shorts. If you are able to sew, you can make this look more professional by adding new hems.
 
-### Costs
+### How much will it cost?
 
 If you're looking to reduce costs, you can find bargains in charity shops, some of which now even offer online shopping, such as [Oxfam](https://onlineshop.oxfam.org.uk/shop/second-hand-clothes). Other options include vintage and second-hand stores. 
 

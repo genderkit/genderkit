@@ -24,7 +24,7 @@ Long-term binding for several years can effect skin elasticity, which increases 
 
 Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
 
-### Costs and funding
+### How much will it cost?
 
 Binders typically cost £25-50. Some retailers of binders serving the UK include:
 

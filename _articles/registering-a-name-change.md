@@ -18,6 +18,6 @@ If you want to officially register your change of name:
 - in *Scotland*, you can find information about registering your name change on [the National Records of Scotland website](https://www.nrscotland.gov.uk/registration/recording-change-of-forename-and-surname-in-scotland).
 - in *Northern Ireland*, you can find information about recording a change of name on [the NI Direct website](https://www.nidirect.gov.uk/articles/recording-change-name).
 
-### Costs and funding
+### How much will it cost?
 
 The cost of enrolling a deed poll varies between nations, but is normally around £30-40.

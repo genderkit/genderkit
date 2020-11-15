@@ -13,6 +13,8 @@ An alternative to chemical curling is to break the chemical bonds by [hair curli
 
 While called permanent hair curling, the effects will only last for a few months, and you will have to return to the salon to have the treatment reapplied at this point.
 
+### How much will it cost?
+
 Prices for permanent hair curling range from £40-100. Different shapes of wave or curl require different amounts of work, affecting the price.
 
 ### References

@@ -10,4 +10,6 @@ Some false eyelashes come in strips that are applied across the entire eye, whil
 
 It is also possible to buy decorative false eyelashes in different colours or made of paper with patterns cut out of them.
 
+### How much will it cost?
+
 False eyelashes normally cost £5-10.

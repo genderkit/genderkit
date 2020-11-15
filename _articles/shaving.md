@@ -40,6 +40,8 @@ You can read more about ingrown hairs and how to prevent them on the [NHS Choice
 
 If you are finding it difficult to avoid ingrown hairs, an alternative to shaving that may help is using [depilatory cream]({% link _articles/depilatory-cream.md %}) instead of shaving.
 
+### How much will it cost?
+
 You can purchase safety razors from supermarkets, high street chemists, and online. Razors are available for as low a price as 10p per razor, with more expensive brands costing up to £2 per razor.
 
 Electric razors and clippers can be purchased from department stores, larger supermarkets with an electronics section, many branches of Boots, or online retailers. Prices vary significantly, from as low as £10 to over £100.

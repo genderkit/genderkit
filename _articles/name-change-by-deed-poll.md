@@ -12,7 +12,7 @@ You can also choose to officially [register your name change by deed poll]({% li
 
 You can find more information about changing your name by deed poll on [the GOV.UK website](https://www.gov.uk/change-name-deed-poll/overview).
 
-### Costs and funding
+### How much will it cost?
 
 Some companies offer paid services for "official" deed polls: these "official" deed polls are no more legal {% cite vincent2018transgender -l 71 %} than one you have printed yourself using [the template on the GOV.UK website](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll) or the [Free UK Deed Poll website](https://freedeedpoll.org.uk/). There is no need to pay an organisation for a deed poll (see [this Guardian article](https://www.theguardian.com/money/2013/jun/29/deed-poll-websites-avoid) for more information).
 

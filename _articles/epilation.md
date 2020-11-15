@@ -10,4 +10,6 @@ Epilation involves pain and discomfort, unlike [shaving]({% link _articles/shavi
 
 If there are only a few hairs on an area of skin, you may want to use tweezers to [pluck]({% link _articles/plucking.md %}) them individually instead.
 
+### How much will it cost?
+
 Epilators come in a range of prices, from £20 up to over £200.

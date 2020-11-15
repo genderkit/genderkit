@@ -23,4 +23,6 @@ However, hair patterning is performed on only sections of the hair. This is most
 
 An alternative method for adding areas of different colour to your hair is clip-in [hair extensions]({% link _articles/hair-extensions.md %}). This has the advantage that you can clip them in or out whenever you like, compared to the more permanent effect of hair patterning.
 
+### How much will it cost?
+
 Hair patterning will typically cost £50-100 depending on the complexity of the work to be done.

@@ -16,7 +16,7 @@ Laser hair reduction may be painful or uncomfortable. You can reduce the discomf
 
 You can read more about laser hair removal on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
 
-### Costs and funding
+### How much will it cost?
 
 The price of laser hair reduction varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £100-200 per session. NHS Scotland have produced guidance that suggests that around 15 sessions of 30 minutes each would normally be needed to clear facial hair growth {% cite ngicns2020facial -l 6 %}.
 

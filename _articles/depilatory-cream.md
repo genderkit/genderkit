@@ -15,6 +15,8 @@ Depilatory creams contain chemicals (normally thioglycolate) which weaken the pr
 
 Depilatory creams are not suitable for facial hair removal, as for almost all people they cause so much skin irritation that they are not worthwhile. Depilatory creams also do not normally absorb quickly enough into thicker facial hair to have a useful effect {% cite wanitphakdeedecha2008physical  %}. Some depilatory products designed for use on facial hair are available, usually called "shaving powder" or "cream shave", marketed at people who are unable to shave without severe skin irritation.
 
+### How much will it cost?
+
 Depilatory creams can be bought in supermarkets and chemists and normally cost between £2 and £6.
 
 ### References

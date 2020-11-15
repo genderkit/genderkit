@@ -16,7 +16,7 @@ Minoxidil is not suitable for people who are sunburned or who have psoriasis or 
 
 You can read more about hair loss treatments at the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
-### Costs and funding
+### How much will it cost?
 
 The cost of Minoxidil is around £10-20 per month, with cost varying depending on the quantity bought at a time. You can buy it from a pharmacy or high-street chemist.
 

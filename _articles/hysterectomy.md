@@ -32,7 +32,7 @@ You can read more about hysterectomy on the [NHS Choices website](http://www.nhs
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
-### Costs and funding
+### How much will it cost?
 
 {% capture info %}
 Outside of Scotland, this is usually only funded as part of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %})

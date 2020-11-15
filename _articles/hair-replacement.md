@@ -19,7 +19,7 @@ You may be able to find specialists in your area using a search engine.
 
 Possible alternatives to hair replacement systems include [hair colouring]({% link _articles/hair-colouring.md %}), [hair extensions]({% link _articles/hair-extensions.md %}), and [hair transplantation]({% link _articles/hair-transplants.md %}), depending on your specific circumstances and requirements. Hair loss can also be slowed or halted using treatments such as [minoxidil]({% link _articles/minoxidil.md %}) or [finasteride]({% link _articles/finasteride.md %}). Other options that can help include micropigmentation, tinted powders, and camouflage hairdressing.
 
-### Costs and funding
+### How much will it cost?
 
 Funding for hair replacement varies by region:
 

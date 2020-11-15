@@ -21,6 +21,8 @@ As your hair curling will be undone if your hair becomes wet, it may be useful t
 
 A more permanent alternative to using curling tongs is [permanent hair curling]({% link _articles/permanent-hair-curling.md %}) using chemicals.
 
+### How much will it cost?
+
 Curling tongs come in a large range of prices, from £10 to over £100.
 
 ### References

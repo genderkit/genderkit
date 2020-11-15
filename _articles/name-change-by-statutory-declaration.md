@@ -14,7 +14,7 @@ There is an example statutory declaration of change of name document on [the GOV
 
 Once you have changed your name, you will need to update your details with lots of different organisations. You can find out who you need to notify and how to do it on our page about [telling organisations]({% link _articles/telling-organisations.md %}).
 
-### Costs and funding
+### How much will it cost?
 
 The charge for witnessing a statutory declaration is set at £5 in law {% cite commisioners1993 %}.
 

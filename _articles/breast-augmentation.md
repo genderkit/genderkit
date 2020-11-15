@@ -36,7 +36,7 @@ You can read more about breast augmentation on the [NHS Choices website](http://
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
-### Costs and funding
+### How much will it cost?
 
 It is possible to apply for funding for augmentation through exceptional funding processes within the NHS, but breast augmentation is not normally funded by the NHS, regardless of whether a diagnosis of gender dysphoria has been given.
 

@@ -21,7 +21,7 @@ Finasteride use has been linked to liver problems and depression {% cite seal:20
 
 You can read more about hair loss treatments on the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
-### Costs and funding
+### How much will it cost?
 
 Finasteride is a "prescription-only medication", meaning you are only able to get it from a pharmacy by giving them a valid prescription. 
 

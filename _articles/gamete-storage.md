@@ -21,7 +21,7 @@ Alternatives to using stored material are adopting or fostering children, using 
 
 There is detailed information about gamete storage and fertility treatments for trans and non-binary people on [the Human Fertilisations and Embryology Authority website](https://www.hfea.gov.uk/treatments/fertility-preservation/information-for-trans-and-non-binary-people-seeking-fertility-treatment/) and on the [Wales Fertility Institute website](http://www.gpone.wales.nhs.uk/sitesplus/documents/1000/Fertility%20Preservation%20Information%20for%20Gender%20Diversity..V1.pdf).
 
-### Costs and funding
+### How much will it cost?
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and the NHS will be providing medical treatments relating to gender that could affect your fertility, you may be able to access funding for gamete storage:
 

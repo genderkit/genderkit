@@ -35,7 +35,7 @@ For some people, vaginoplasty can provide a significant improvement in mental he
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
-### Cost and funding
+### How much will it cost?
 
 The cost of a vaginoplasty performed in the UK along with [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) is currently around £10000-15000 (last updated October 2020).
 

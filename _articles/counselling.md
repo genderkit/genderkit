@@ -26,7 +26,7 @@ Your counsellor will be bound by rules of confidentiality which mean that they n
 
 You can read more about counselling on [the NHS Choices website](http://www.nhs.uk/conditions/Counselling/Pages/Introduction.aspx).
 
-### Cost and funding
+### How much will it cost?
 
 The NHS provides counselling free of charge. You can often refer yourself directly to local organisations that provide counselling for the NHS, though it can be helpful to talk to your GP first as they may be able to offer you more options. If you are a patient with the NHS gender services, they may also be able to provide you with specialist counselling.
 

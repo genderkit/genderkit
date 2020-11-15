@@ -17,7 +17,7 @@ Hair colour uses a lightening step called "developer" (usually hydrogen peroxide
 
 An alternative to normal hair colour is to use henna. Henna is a natural hair dry extracted from a plant called "lawsonia inermis". It comes as a powder that you mix with water to form a paste, and can be used to stain hair to make it look more red. Henna has the advantage that it is less harsh on hair than many chemical dyes, but the resulting colour can be unpredictable, and it is normally suitable only for brown or black hair {% cite peacock2005hair -l 60 %}. Some henna products blend henna with other natural colours to produce a wider range of colours. You can find some advice about using henna products on [the website of the cosmetics retailer LUSH](https://uk.lush.com/article/how-use-henna).
 
-### Costs
+### How much will it cost?
 
 The typical cost is around £1-10 for home colour and £25-75 for salon colour. 
 

@@ -29,7 +29,7 @@ You can also read more about chest surgeries on the [Manchester Chest Wall Conto
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
-### Cost and funding
+### How much will it cost?
 
 The cost of a mastectomy and chest reconstruction performed in the UK is currently around £6000-7000 (last updated October 2020).
 

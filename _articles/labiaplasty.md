@@ -18,7 +18,7 @@ For some people, labiaplasty can provide a significant improvement in mental hea
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
-### Cost and funding
+### How much will it cost?
 
 A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
