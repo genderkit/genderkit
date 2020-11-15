@@ -57,7 +57,7 @@ If you're in Scotland (regardless of age), you can self-refer to Sandyford; see 
 
 All the private gender services accept self-referral. However, it may be helpful to speak to your GP before self-referring to a private service, to find out if your GP will be able to support your treatment and if they are able to support you with blood tests and prescribing.
 
-### Costs and funding
+### How much will it cost?
 
 *British citizens* are able to access the NHS and HSC gender services for *free*. If you are not a British citizen, you may still be able to access these services for free, and more details can be found on the [Immigration page]({% link _resources/immigration.md %}).
 
