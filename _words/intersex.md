@@ -10,7 +10,7 @@ Some people will describe these conditions as **disorders of sex development** o
 
 However, many medical professionals still use the term DSD. Some people continue to use the abbreviation DSD but use it to mean "differences in sex development" instead.
 
-There is more information about these conditions on [the NHS Choices website](http://www.nhs.uk/conditions/disorders-sex-development/Pages/Introduction.aspx).
+There is more information about these conditions on [the NHS website](http://www.nhs.uk/conditions/disorders-sex-development/Pages/Introduction.aspx).
 
 ### Intersex people and transgender people
 

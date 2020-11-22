@@ -19,7 +19,7 @@ This is not a science, and not all techniques will work for everyone: there are 
 - Some people find that their arms look too small for the arms of t-shirts. One solution to this is to wear vest tops instead - and some people convert t-shirts into vests themselves.
 - If you find that t-shirts or shirts do not fit properly around your hips and are being stretched out, you can try to find ones that split at the sides at the bottom, as these can better accommodate larger hips.
 
-### Useful links
+### Where can I learn more?
 
 You can find more useful information in our [article about buying clothes]({% link _articles/buying-clothes.md %}).
 

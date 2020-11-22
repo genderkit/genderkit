@@ -14,7 +14,9 @@ Minoxidil may take several months to start taking effect, and there may be an in
 
 Minoxidil is not suitable for people who are sunburned or who have psoriasis or hypertension, as well as people taking certain medications. You should check with your doctor or pharmacist about whether Minoxidil is suitable for you {% cite minoxidil %}.
 
-You can read more about hair loss treatments at the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+### Where can I learn more?
+
+You can read more about hair loss treatments at the [NHS website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
 ### How much will it cost?
 

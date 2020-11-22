@@ -10,6 +10,8 @@ Once you have changed your name, you will need to update your details with lots 
 
 You can also choose to officially [register your name change by deed poll]({% link _articles/registering-a-name-change.md %}), but most people do not do this.
 
+### Where can I learn more?
+
 You can find more information about changing your name by deed poll on [the GOV.UK website](https://www.gov.uk/change-name-deed-poll/overview).
 
 ### How much will it cost?

@@ -10,7 +10,7 @@ Advice for trans survivors of domestic and sexual violence can be found on [the 
 
 There is a very useful guide for trans people who have been affected by sexual violence on [the LGBT Foundation website](https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf).
 
-More general advice for survivors is available on the NHS Choices website:
+More general advice for survivors is available on the NHS website:
 
 - [Help after rape and sexual assault](https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/)
 - [Getting help for domestic violence](https://www.nhs.uk/live-well/healthy-body/getting-help-for-domestic-violence/)
@@ -29,7 +29,7 @@ There is a 1-to-1 [LGBT* domestic violence support service](https://lgbt.foundat
 
 It can be difficult to know what to do if you're worried about someone else.
 
-Thankfully, you can find information about what to do online on the NHS Choices website:
+Thankfully, you can find information about what to do online on the NHS website:
 
 - [Supporting a victim of sexual assault](https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/#supporting-a-victim-of-sexual-assault)
 - [Helping a friend if they're being abused](https://www.nhs.uk/live-well/healthy-body/getting-help-for-domestic-violence/#helping-a-friend-if-theyre-being-abused)

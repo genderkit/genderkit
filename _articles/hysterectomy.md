@@ -26,7 +26,9 @@ Hysterectomy does not usually involve removal of the vagina, which is called a [
 
 Hysterectomy is a major surgery and has a significant recovery time. You should expect to spend at least 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
 
-You can read more about hysterectomy on the [NHS Choices website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
+### Where can I learn more?
+
+You can read more about hysterectomy on the [NHS website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
 
 ### Preparing for a surgical procedure
 

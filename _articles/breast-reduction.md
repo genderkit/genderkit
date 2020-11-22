@@ -8,7 +8,9 @@ feature:
 
 Breast reduction removes part of the breast tissue in order to reduce the size of the breasts. For complete removal of the breasts, see [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) and [double incision mastectomy]({% link _articles/double-incision-mastectomy.md %}).
 
-You can read more about breast reduction, including information about costs, on the [NHS Choices website](https://www.nhs.uk/conditions/cosmetic-procedures/breast-reduction-female/).
+### Where can I learn more?
+
+You can read more about breast reduction, including information about costs, on the [NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/breast-reduction-female/).
 
 ### Preparing for a surgical procedure
 

@@ -21,6 +21,8 @@ An alternative option to phalloplasty is [metoidioplasty]({% link _articles/meto
 
 Phalloplasty involves a degree of risk. UK surgeons have reported a 3% rate of phallus loss, thought this risk can be reduced by avoiding smoking and not being overweight. In the event of phallus loss, further attempts can be made 6-12 months later {% cite christopher2017 -l 284 %}. It is important to note that if a prosthetic erectile implant is used, it will likely need replacement later in life, so you will need to be prepared for further surgeries in the future {% cite christopher2017 -l 299 %}.
 
+### Where can I learn more?
+
 You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty).
 
 ### Types of phalloplasty

@@ -12,7 +12,9 @@ In the UK, the more proven options of [minoxidil]({% link _articles/minoxidil.md
 
 Alfatradiol treatment is not funded by the NHS.
 
-You can read more about hair loss treatments on the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+### Where can I learn more?
+
+You can read more about hair loss treatments on the [NHS website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
 ### References
 

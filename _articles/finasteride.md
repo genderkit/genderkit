@@ -19,7 +19,9 @@ You will have to take finasteride for three to six months before you will notice
 
 Finasteride use has been linked to liver problems and depression {% cite seal:2007 -l 174 %}. It is not normally prescribed to anyone at risk of pregnancy due to potential effects on unborn children {% cite finasteride %}.
 
-You can read more about hair loss treatments on the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+### Where can I learn more?
+
+You can read more about hair loss treatments on the [NHS website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
 ### How much will it cost?
 

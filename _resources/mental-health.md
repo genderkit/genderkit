@@ -3,7 +3,7 @@ layout: misc
 title: Mental health
 description: Information about mental health for trans, non-binary, and gender non-conforming people in the UK
 attention-title: Having suicidal thoughts?
-attention-text: "You can find information about what to do to get help on [the NHS Choices website](https://www.nhs.uk/conditions/suicide/)."
+attention-text: "You can find information about what to do to get help on [the NHS website](https://www.nhs.uk/conditions/suicide/)."
 ---
 
 ### How to get help
@@ -26,7 +26,7 @@ If you're worried about killing yourself, please [click here right now to find o
 
 It can be difficult to know what to do if you're worried about someone else's mental health.
 
-Thankfully, you can find information about what to do online on the NHS Choices website:
+Thankfully, you can find information about what to do online on the NHS website:
 
 - [Worried about someone else having suicidal thoughts?](https://www.nhs.uk/conditions/suicide/#worried-about-someone-else)
 - [Getting help for others if you're worried someone is having hallucinations or delusions](https://www.nhs.uk/conditions/psychosis/#getting-help-for-others)
@@ -44,7 +44,7 @@ Remember that some people will have had bad experiences with police in the past.
 
 ### More information
 
-There's more information about common mental health conditions on the NHS Choices website:
+There's more information about common mental health conditions on the NHS website:
 
 - [Depression](https://www.nhs.uk/conditions/clinical-depression/)
 - [Anxiety](https://www.nhs.uk/conditions/generalised-anxiety-disorder/)

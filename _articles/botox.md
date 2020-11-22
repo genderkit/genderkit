@@ -15,7 +15,9 @@ The long-term effects of repeated botox injections remain unknown and have not y
 
 For your safety, it is wise to read the advice on choosing who will do the procedure found on [the NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/choosing-who-will-do-your-procedure/).
 
-You can read more about botox on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/botulinum-toxin-Botox-injections.aspx).
+### Where can I learn more?
+
+You can read more about botox on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/botulinum-toxin-Botox-injections.aspx).
 
 ### References
 
