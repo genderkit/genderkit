@@ -11,9 +11,11 @@ mkdir live
 cd live
 git clone git@github.com:genderkit/genderkit.git
 cd genderkit
+tmpfile=`mktemp --suffix=.yml`
+echo "css_ver:" $(tr -cd 0-9 </dev/urandom | head -c 6) > $tmpfile
 bundle install
 bundle exec rake resize
-bundle exec jekyll build --config /vagrant/live/genderkit/_config-alpha.yml
+bundle exec jekyll build --config /vagrant/live/genderkit/_config-alpha.yml,$tmpfile
 bundle exec rake referencelinks
 aws s3 sync ./_site/ s3://alpha.genderkit.org.uk/ --metadata-directive REPLACE --cache-control max-age=86400
 rm -rv /vagrant/live
