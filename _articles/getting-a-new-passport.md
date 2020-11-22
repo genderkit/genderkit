@@ -36,4 +36,6 @@ If you *do not* have a [gender recognition certificate (GRC)]({% link _articles/
 
 Regardless of whether you have an existing UK passport, you will need to send the passport office two [passport photographs](https://www.gov.uk/photos-for-passports). If your appearance has changed significantly, or this is your first passport, you will also need to get the photographs [countersigned](https://www.gov.uk/countersigning-passport-applications). If you are in doubt, it can be better to get them countersigned, as having to respond to a request to send in new photographs can slow the process down. 
 
+### Where can I learn more?
+
 You can read more about obtaining or renewing passports on the [HM Passport Office website](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251703/Applying_for_a_passport_additional_information.PDF).

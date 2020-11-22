@@ -24,6 +24,8 @@ Practitioners may be known by a number of  names, including "counsellors", "ther
 
 Your counsellor will be bound by rules of confidentiality which mean that they need to keep information you tell them private unless there is a good reason not to do so (for example, if they are required to by law, or if they believe you are at risk of killing yourself). Counsellors also normally have their own counsellors called "supervisors" who support them with the emotional challenges of their work.
 
+### Where can I learn more?
+
 You can read more about counselling on [the NHS Choices website](http://www.nhs.uk/conditions/Counselling/Pages/Introduction.aspx).
 
 ### How much will it cost?

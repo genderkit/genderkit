@@ -21,6 +21,8 @@ Mastectomy usually requires an overnight stay in hospital {% cite cr181 -l 31 %}
 
 Complications of mastectomy can include too much or too little tissue removed, "dog ears" (pouches of skin), and hypertrophic or [keloid scars](http://www.nhs.uk/Livewell/skin/Pages/Keloidscarring.aspx) {% cite yelland2017 -l 262 %}.
 
+### Where can I learn more?
+
 You can read more about mastectomy on the [NHS Choices website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 
 You can also read more about chest surgeries on the [Manchester Chest Wall Contouring Clinic website](http://www.pat.nhs.uk/our-services/general-surgery-gender.htm).

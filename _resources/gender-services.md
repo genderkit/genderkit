@@ -74,7 +74,7 @@ More information about travel funding is also available on [the London GIC websi
 
 Costs for private services vary significantly. You can find price details on their websites, plus a comparison of estimated costs on the [Trans Health UK website](https://transhealthuk.noblogs.org/private-gender-clinics-services-prices/). If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
 
-### More information
+### Where can I learn more?
 
 There are official pages about finding a gender clinic available:
 

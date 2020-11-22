@@ -19,6 +19,8 @@ Double incision mastectomy carries a risk of loss of sensation in the nipples or
 
 Mastectomy usually requires an overnight stay in hospital {% cite cr181 -l 31 %}. Mastectomy is a major surgery and has a significant recovery time. You should expect to spend around 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer. You will also need to return for a follow up appointment to determine if any further surgery is required to improve the cosmetic appearance.
 
+### Where can I learn more?
+
 You can read more about mastectomy on the [NHS Choices website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 
 You can also read more about chest surgeries on the [Manchester Chest Wall Contouring Clinic website](http://www.pat.nhs.uk/our-services/general-surgery-gender.htm).

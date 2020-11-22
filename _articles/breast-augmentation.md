@@ -30,6 +30,8 @@ There is a significant risk of complications that require additional surgeries. 
 
 For your safety, it is wise to read the advice on choosing who will do the procedure found on [the NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/choosing-who-will-do-your-procedure/).
 
+### Where can I learn more?
+
 You can read more about breast augmentation on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
 
 ### Preparing for a surgical procedure

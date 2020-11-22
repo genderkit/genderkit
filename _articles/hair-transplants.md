@@ -10,6 +10,8 @@ After hair transplantation, it may be helpful to continue treatment with [minoxi
 
 Alternatives to hair transplants include wigs, [hair extensions]({% link _articles/hair-extensions.md %}), topical hair fibers, hair powders, and micropigmentation {% cite saed2017hair %}.
 
+### Where can I learn more?
+
 You can read more about hair transplants on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/hair-transplant.aspx).
 
 ### References

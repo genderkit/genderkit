@@ -79,7 +79,7 @@ If you're looking for inspiration, here are some possibilities to consider for h
 
 {% include clothes %}
 
-### Useful links
+### Where can I learn more?
 
 You can find more useful information in our [article about buying clothes]({% link _articles/buying-clothes.md %}).
 

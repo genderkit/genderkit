@@ -14,6 +14,8 @@ Common side effects of laser hair reduction are erythema (skin redness) and edem
 
 Laser hair reduction may be painful or uncomfortable. You can reduce the discomfort by asking your GP to prescribe you lidocaine and prilocaine cream, also known as EMLA cream. This is a local anaesthetic, applied directly onto the skin, which numbs the skin so you feel less pain from the treatment. You will normally need to apply the cream around an hour before your treatment.
 
+### Where can I learn more?
+
 You can read more about laser hair removal on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
 
 ### How much will it cost?

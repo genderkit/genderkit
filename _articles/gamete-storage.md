@@ -19,6 +19,8 @@ Instead of storing gametes, it is also possible to store embryos or reproductive
 
 Alternatives to using stored material are adopting or fostering children, using donated sperm or eggs from another person, or using a surrogate. 
 
+### Where can I learn more?
+
 There is detailed information about gamete storage and fertility treatments for trans and non-binary people on [the Human Fertilisations and Embryology Authority website](https://www.hfea.gov.uk/treatments/fertility-preservation/information-for-trans-and-non-binary-people-seeking-fertility-treatment/) and on the [Wales Fertility Institute website](http://www.gpone.wales.nhs.uk/sitesplus/documents/1000/Fertility%20Preservation%20Information%20for%20Gender%20Diversity..V1.pdf).
 
 ### How much will it cost?

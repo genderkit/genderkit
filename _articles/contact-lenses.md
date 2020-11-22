@@ -22,4 +22,6 @@ Contact lenses are available in several types:
 
 A more permanent alternative to contact lenses for some people is [laser eye surgery]({% link _articles/laser-eye-surgery.md %}).
 
+### Where can I learn more?
+
 You can read more about how to use contact lenses safely at the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Contactlenssafety.aspx).

@@ -17,6 +17,8 @@ The Chief Medical Officers of England, Scotland, Wales and NI have [recommended]
 
 One way to do this is brisk walking or cycling for 30 minutes on at least 5 days a week. For example, a 15 minute walk to work or education in the morning and a 15 minute walk back each weekday.
 
+### Where can I learn more?
+
 You can read more about the benefits of regular exercise and get advice on what you can do next on [the NHS Choices website](http://www.nhs.uk/livewell/fitness/Pages/Fitnesshome.aspx).
 
 There is also specific information for people with disabilities on [the NHS Choices website](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx).
