@@ -11,4 +11,4 @@ feature:
 
 ### Where can I learn more?
 
-If you experience ongoing problems with body odour or excessive sweating, you can find more information and advice on the [NHS Choices website](http://www.nhs.uk/conditions/Body-odour/Pages/Introduction.aspx).
+If you experience ongoing problems with body odour or excessive sweating, you can find more information and advice on the [NHS website](http://www.nhs.uk/conditions/Body-odour/Pages/Introduction.aspx).

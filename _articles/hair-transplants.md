@@ -12,7 +12,7 @@ Alternatives to hair transplants include wigs, [hair extensions]({% link _articl
 
 ### Where can I learn more?
 
-You can read more about hair transplants on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/hair-transplant.aspx).
+You can read more about hair transplants on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/hair-transplant.aspx).
 
 ### References
 

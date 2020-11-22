@@ -36,7 +36,7 @@ Longer term irritation to the skin can also be caused by ingrown hairs (sometime
 - rinsing after every stroke
 - ensuring that only sharp razor blades are used
 
-You can read more about ingrown hairs and how to prevent them on the [NHS Choices website](http://www.nhs.uk/conditions/ingrown-hairs/Pages/Introduction.aspx).
+You can read more about ingrown hairs and how to prevent them on the [NHS website](http://www.nhs.uk/conditions/ingrown-hairs/Pages/Introduction.aspx).
 
 If you are finding it difficult to avoid ingrown hairs, an alternative to shaving that may help is using [depilatory cream]({% link _articles/depilatory-cream.md %}) instead of shaving.
 

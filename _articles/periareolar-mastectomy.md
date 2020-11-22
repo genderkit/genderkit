@@ -23,7 +23,7 @@ Complications of mastectomy can include too much or too little tissue removed, "
 
 ### Where can I learn more?
 
-You can read more about mastectomy on the [NHS Choices website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
+You can read more about mastectomy on the [NHS website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 
 You can also read more about chest surgeries on the [Manchester Chest Wall Contouring Clinic website](http://www.pat.nhs.uk/our-services/general-surgery-gender.htm).
 

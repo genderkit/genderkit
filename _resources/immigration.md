@@ -20,11 +20,11 @@ More useful links for trans asylum seekers and refugees can be found on [the Tra
 
 However, bear in mind that the waiting lists for NHS gender services are currently very long and you may need to wait 1-2 years before you get your first appointment. An quicker approach is to use one of the private gender services, but these will charge you money.
 
-There is information about moving to England from the EEA or Switzerland on [the NHS Choices website](https://www.nhs.uk/nhsengland/aboutnhsservices/uk-visitors/moving-to-england/pages/moving-to-england-from-the-eea.aspx).
+There is information about moving to England from the EEA or Switzerland on [the NHS website](https://www.nhs.uk/nhsengland/aboutnhsservices/uk-visitors/moving-to-england/pages/moving-to-england-from-the-eea.aspx).
 
 *People from outside the EU and EEA* can apply for access to the NHS as part of their immigration application. This costs you a small amount of money each year (normally around £150) which will pay for you to be able to access the health services in the UK - including gender services - without paying any more money. There is information on [the UK Government website](https://www.gov.uk/healthcare-immigration-application) on applying for this during the visa process.
 
-You can read more about moving to England from outside the EEA on [the NHS Choices website](https://www.nhs.uk/NHSEngland/AboutNHSservices/uk-visitors/moving-to-england/Pages/moving-from-outside-the-eea.aspx).
+You can read more about moving to England from outside the EEA on [the NHS website](https://www.nhs.uk/NHSEngland/AboutNHSservices/uk-visitors/moving-to-england/Pages/moving-from-outside-the-eea.aspx).
 
 *Refugees and asylum seekers* can access NHS services - including gender services - for free. There is more information about this on [the UK Government website](https://www.gov.uk/guidance/nhs-entitlements-migrant-health-guide).
 

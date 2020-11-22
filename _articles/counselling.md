@@ -26,7 +26,7 @@ Your counsellor will be bound by rules of confidentiality which mean that they n
 
 ### Where can I learn more?
 
-You can read more about counselling on [the NHS Choices website](http://www.nhs.uk/conditions/Counselling/Pages/Introduction.aspx).
+You can read more about counselling on [the NHS website](http://www.nhs.uk/conditions/Counselling/Pages/Introduction.aspx).
 
 ### How much will it cost?
 

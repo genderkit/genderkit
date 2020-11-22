@@ -16,7 +16,7 @@ Laser hair reduction may be painful or uncomfortable. You can reduce the discomf
 
 ### Where can I learn more?
 
-You can read more about laser hair removal on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
+You can read more about laser hair removal on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
 
 ### How much will it cost?
 

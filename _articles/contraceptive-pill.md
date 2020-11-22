@@ -16,7 +16,7 @@ Most contraceptives contain oestrogen which can interfere with [testosterone]({%
 {% endcapture %}
 {% include warning warning=warn %}
 
-You can read more about the combined contraceptive pill on the [NHS Choices website](http://www.nhs.uk/conditions/contraception-guide/pages/combined-contraceptive-pill.aspx).
+You can read more about the combined contraceptive pill on the [NHS website](http://www.nhs.uk/conditions/contraception-guide/pages/combined-contraceptive-pill.aspx).
 
 ### Where can I learn more?
 

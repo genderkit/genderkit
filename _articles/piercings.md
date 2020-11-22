@@ -51,7 +51,7 @@ If you are experiencing these symptoms, immediately seek medical attention {% ci
 
 ### Where can I learn more?
 
-You can find out more about piercing on [the NHS Choices website](http://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
+You can find out more about piercing on [the NHS website](http://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
 
 ### References
 

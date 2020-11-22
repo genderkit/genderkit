@@ -16,7 +16,7 @@ Minoxidil is not suitable for people who are sunburned or who have psoriasis or 
 
 ### Where can I learn more?
 
-You can read more about hair loss treatments at the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+You can read more about hair loss treatments at the [NHS website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
 ### How much will it cost?
 

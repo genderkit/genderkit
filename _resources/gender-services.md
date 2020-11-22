@@ -78,6 +78,6 @@ Costs for private services vary significantly. You can find price details on the
 
 There are official pages about finding a gender clinic available:
 
-- for people in England on [the NHS Choices website](https://www.nhs.uk/live-well/healthy-body/how-to-find-an-nhs-gender-identity-clinic/)
+- for people in England on [the NHS website](https://www.nhs.uk/live-well/healthy-body/how-to-find-an-nhs-gender-identity-clinic/)
 - for people in Scotland on [the NGICNS website](https://www.ngicns.scot.nhs.uk/gender-identity-clinics/)
 

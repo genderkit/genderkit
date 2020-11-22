@@ -18,7 +18,7 @@ There a number of ways of performing breast augmentation using implants, with di
 - *implant shells*: smooth or textured surface 
 - *implant shape*: round or anatomical (teardrop) 
 
-There is detailed information on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx) which can help you understand these choices.
+There is detailed information on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx) which can help you understand these choices.
 
 Common side effects of breast augmentation are capsular contraction (the body forming a tough shell around the implant which shrinks, often causing pain or change in shape of the breast), infections, and loss of sensitivity in the nipple area {% cite palma2016quality %}.
 
@@ -32,7 +32,7 @@ For your safety, it is wise to read the advice on choosing who will do the proce
 
 ### Where can I learn more?
 
-You can read more about breast augmentation on the [NHS Choices website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
+You can read more about breast augmentation on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
 
 ### Preparing for a surgical procedure
 

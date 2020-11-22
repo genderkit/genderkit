@@ -10,7 +10,7 @@ Breast reduction removes part of the breast tissue in order to reduce the size o
 
 ### Where can I learn more?
 
-You can read more about breast reduction, including information about costs, on the [NHS Choices website](https://www.nhs.uk/conditions/cosmetic-procedures/breast-reduction-female/).
+You can read more about breast reduction, including information about costs, on the [NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/breast-reduction-female/).
 
 ### Preparing for a surgical procedure
 

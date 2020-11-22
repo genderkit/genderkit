@@ -28,7 +28,7 @@ Hysterectomy is a major surgery and has a significant recovery time. You should 
 
 ### Where can I learn more?
 
-You can read more about hysterectomy on the [NHS Choices website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
+You can read more about hysterectomy on the [NHS website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
 
 ### Preparing for a surgical procedure
 

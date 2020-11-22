@@ -14,7 +14,7 @@ Alfatradiol treatment is not funded by the NHS.
 
 ### Where can I learn more?
 
-You can read more about hair loss treatments on the [NHS Choices website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+You can read more about hair loss treatments on the [NHS website](http://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
 
 ### References
 

@@ -50,7 +50,7 @@ In a small proportion of people menstruation (periods) is not stopped by testost
 
 Testosterone has noticeable effects on mood and thinking, and can increase energy and aggression, but can also help some people feel "more settled" in their body {% cite seal2017 -l 239 %}.
 
-Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS Choices website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
+Testosterone may also cause acne. You can read more about acne and how to reduce it on the [NHS website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 
 In the UK, some clinicians recommend that people taking testosterone long-term should have a [hysterectomy]({% link _articles/hysterectomy.md %}). They theorise that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}. Hysterectomy for people taking testosterone is optional and you may feel the risks involved in a major operation are unnecessary. If you decide not to undergo hysterectomy it has been suggested that scans to check for thickening of the endometrium every two years could reduce any potential risks {% cite seal2017 -l 240 %}.
 
