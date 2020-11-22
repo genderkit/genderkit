@@ -14,6 +14,7 @@ cd genderkit
 tmpfile=`mktemp --suffix=.yml`
 echo "css_ver:" $(tr -cd 0-9 </dev/urandom | head -c 6) > $tmpfile
 bundle install
+bundle add jekyll-sitemap
 bundle exec rake resize
 bundle exec jekyll build --config /vagrant/live/genderkit/_config-live.yml,$tmpfile
 bundle exec rake referencelinks

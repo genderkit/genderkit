@@ -11,7 +11,7 @@ github_username:  genderkit
 permalink: pretty
 
 # Build settings
-markdown: kramdown
+markdown: CommonMark
 gems:
   - 'jekyll/scholar'
   - jekyll-last-modified-at
