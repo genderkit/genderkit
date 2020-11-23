@@ -3,9 +3,6 @@ title: Transsexual
 groups: [Medical term, Change focused]
 ---
 
-A transsexual person is defined in UK law by the [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/section/7) as a person who:
-
-> "is proposing to undergo, is undergoing or has undergone a process (or part of a process) for the purpose of reassigning the person's sex by changing physiological or other attributes of sex."
 
 "Transsexualism" - the condition of being transsexual - is a medical diagnosis listed in the [ICD-10](https://en.wikipedia.org/wiki/ICD-10), the international classification system for medical conditions. It is [defined as](http://apps.who.int/classifications/icd10/browse/2016/en#/F64.0):
 
@@ -22,4 +19,8 @@ Many (but not all) transsexual people also describe themselves as [transgender](
 >
 > </figcaption>
 
-Transsexual is sometimes abbreviated to "TS".
+However, because transsexual is an older term, some people will prefer to use it simply because it is more familiar to them. 
+
+Some people will avoid using this word because the word "sexual" sounds like it implies a sexuality. However, in recent years some people have been re-adopting "transsexual" because of this transgressive connotation.
+
+Transsexual is sometimes abbreviated to "TS". However, because this abbreviation is popular in pornography, some people who are otherwise comfortable using "transsexual" might still avoid "TS".

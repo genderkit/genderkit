@@ -10,6 +10,14 @@
     - "hide how much more discrimination some people using the term receive"
     - "include people in a term that they don’t like without asking them"
     - "include people in a term that they don't feel actually describes them"  
+"Legal term":
+  description: "has a specific meaning in UK law"
+  pros:
+    - "be useful if you want to assert your rights under law"
+  cons:
+    - "be confusing, as a word's legal definition may differ from its use in casual speech"
+    - "sound overly rigid or formal"
+    - "imply that the law's definition is the main one that matters"
 "Defined by breaking norms":
   description: "describes whether people are breaking the rules - “norms” - of how people are expected to behave or describe themselves"
   pros:
@@ -49,6 +57,14 @@
   cons:
     - "give the impression that there is something wrong with people (it is “pathologising”)"
     - "make it seem like people with a medical diagnosis are more genuine or valid than people who do not"
+"Medical treatment":
+  description: "describes a broad class of medical treatments"
+  pros:
+   - "give a broad and holistic view of medical treatments to do with gender"
+  cons:
+   - "be ambiguous as to which treatments are or are not included"
+   - "imply that such treatments are inherently to do with gender"
+   - "imply that these treatments are \"necessary\" for your identity to be valid"
 "Simplified view of gender":
   description: "describes people using a view of gender that is deliberately oversimplified"
   pros:
