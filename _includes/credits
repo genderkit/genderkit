@@ -1,33 +1,33 @@
-{% assign data = site.data.credits %}
-{% if data %}
+{%- assign data = site.data.credits -%}
+{%- if data -%}
   <ul class="details">
-  {% for item in data %}
+  {%- for item in data -%}
     <li>
       <h3 id="{{ item.name | slugify }}">{{ item.name | xml_escape }}</h3>
-      {% if item.contribution %}
+      {%- if item.contribution -%}
       <p>{{ item.contribution | xml_escape }}</p>
-      {% endif %}
-      {% if item.articles %}
+      {%- endif -%}
+      {%- if item.articles -%}
       <p>
       Article contributions: 
-      {% for article in item.articles %}
-      {% assign slug = article | slugify %}
-      <a href="{{ site.baseurl }}/article/{{slug}}">{{ article | xml_escape }}</a>{% if forloop.last == true %}.{% else %}, {% endif %}
-      {% endfor %}
+      {%- for article in item.articles -%}
+      {%- assign slug = article | slugify -%}
+      <a href="{{ site.baseurl }}/article/{{slug}}">{{ article | xml_escape }}</a>{%- if forloop.last == true -%}.{%- else -%}, {%- endif -%}
+      {%- endfor -%}
       </p>
-      {% endif %}
+      {%- endif -%}
       <p>
-        {% if item.url %}
+        {%- if item.url -%}
           <a href="{{ item.url }}">Website</a>&nbsp;
-        {% endif %}
-        {% if item.mastodon %}
+        {%- endif -%}
+        {%- if item.mastodon -%}
           <a href="{{ item.mastodon }}">Mastodon</a>&nbsp;
-        {% endif %}
-        {% if item.twitter %}
+        {%- endif -%}
+        {%- if item.twitter -%}
           <a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
-        {% endif %}
+        {%- endif -%}
       </p>
     </li>
-  {% endfor %}
+  {%- endfor -%}
   </ul>
-{% endif %}
+{%- endif -%}

@@ -7,9 +7,9 @@ description: Local organisations, support groups, and social groups in the UK fo
   <nav>
     <h3 id="jump-to">Jump to:</h3>
     <ul>
-      {% for region in site.data.organisations.regions %}
+      {%- for region in site.data.organisations.regions -%}
         <li><a href="#{{ region | slugify }}">{{ region }}</a></li>
-      {% endfor %}
+      {%- endfor -%}
     </ul>
   </nav> 
   <article>
@@ -20,10 +20,10 @@ description: Local organisations, support groups, and social groups in the UK fo
       </p>
     </section>
     <section>
-        {% for region in site.data.organisations.regions %}
+        {%- for region in site.data.organisations.regions -%}
 	  <h3 id="{{ region | slugify }}">{{ region }}</h3>
-	  {% include organisations tag=region %}
-	{% endfor %}
+	  {%- include organisations tag=region -%}
+	{%- endfor -%}
 	</section>
   </article>
 </main>
