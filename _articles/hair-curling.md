@@ -21,6 +21,8 @@ It also possible to use some hair straighteners to put waves in hair. You can fi
 
 As your hair curling will be undone if your hair becomes wet, it may be useful to invest in a shower cap, which will keep your hair dry while you wash the rest of your body in the shower.
 
+### Are there other options?
+
 A more permanent alternative to using curling tongs is [permanent hair curling]({% link _articles/permanent-hair-curling.md %}) using chemicals.
 
 ### How much will it cost?

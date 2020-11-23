@@ -19,9 +19,11 @@ Before phalloplasty surgery, you will need to choose to decide whether you wish 
 
 For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
-An alternative option to phalloplasty is [metoidioplasty]({% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. 
-
 Phalloplasty involves a degree of risk. UK surgeons have reported a 3% rate of phallus loss, thought this risk can be reduced by avoiding smoking and not being overweight. In the event of phallus loss, further attempts can be made 6-12 months later {% cite christopher2017 -l 284 %}. It is important to note that if a prosthetic erectile implant is used, it will likely need replacement later in life, so you will need to be prepared for further surgeries in the future {% cite christopher2017 -l 299 %}.
+
+### Are there other options?
+
+An alternative option to phalloplasty is [metoidioplasty]({% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. 
 
 ### Where can I learn more?
 

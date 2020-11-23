@@ -22,6 +22,8 @@ Many hair stylists and hair websites recommend that even when growing your hair,
 
 You can find more detailed information on protecting your hair lower down on this page.
 
+### Are there other options?
+
 If you'd like you hair to be longer right now without having to wait for it to grow, an alternative you could consider is [hair extensions]({% link _articles/hair-extensions.md %}). You may also be able to get a small increase in hair length from [hair straightening]({% link _articles/hair-straightening.md %}) if your hair is curly or wavy.
 
 ### Finding a hairdresser

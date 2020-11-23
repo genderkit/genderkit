@@ -35,6 +35,10 @@ GnRH agonists are usually supplied as injections that are administered once ever
 
 GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
 
+### Are there other options?
+
+Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproterone.md %}), [spironolactone]({% link _articles/spironolactone.md %}), and [anastrozole]({% link _articles/anastrozole.md %}). While these options are generally cheaper, GnRH agonists are generally preferred by NHS clinicians due to a much lower risk of side effects {% cite seal2017 %}.
+
 {% include hrt-funding type="gnrh" %}
 
 ### References

@@ -23,6 +23,8 @@ As with other hair colouring, hair patterning techniques use a lightening step c
 
 However, hair patterning is performed on only sections of the hair. This is most often done by using strips of foil to separate the hair into sections. Other methods include using a cap which only certain strands of hair have been pulled through, or carefully painting colour onto certain sections with a brush ("balayage"). 
 
+### Are there other options?
+
 An alternative method for adding areas of different colour to your hair is clip-in [hair extensions]({% link _articles/hair-extensions.md %}). This has the advantage that you can clip them in or out whenever you like, compared to the more permanent effect of hair patterning.
 
 ### How much will it cost?

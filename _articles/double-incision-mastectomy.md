@@ -15,11 +15,13 @@ Not all breast tissue is removed in mastectomy, and it does not remove the risk 
 
 In a mastectomy, the breast tissue is removed, and usually the nipples are made smaller and repositioned.
 
-Typically, mastectomy is performed using the double incision mastectomy technique in the UK. Around 7% of people have little enough breast tissue and good skin elasticity for [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) to be recommended instead {% cite yelland2017 -l 261 %} which can result in less visible scarring {% cite davies2:2007 -l 227 %}. Other techniques are possible, such as buttonhole or inverted T (also known as T-anchor), but are much less common in the UK.
-
 Double incision mastectomy carries a risk of loss of sensation in the nipples or loss of the nipples entirely. If a nipple is completely lost, some people use cosmetic tattooing to give the appearance that the nipple is still there.
 
 Mastectomy usually requires an overnight stay in hospital {% cite cr181 -l 31 %}. Mastectomy is a major surgery and has a significant recovery time. You should expect to spend around 4-6 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer. You will also need to return for a follow up appointment to determine if any further surgery is required to improve the cosmetic appearance.
+
+### Are there other options?
+
+Typically, mastectomy is performed using the double incision mastectomy technique in the UK. Around 7% of people have little enough breast tissue and good skin elasticity for [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) to be recommended instead {% cite yelland2017 -l 261 %} which can result in less visible scarring {% cite davies2:2007 -l 227 %}. Other techniques are possible, such as buttonhole or inverted T (also known as T-anchor), but are much less common in the UK.
 
 ### Where can I learn more?
 

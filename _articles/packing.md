@@ -29,6 +29,8 @@ Packers come in different sizes. Bear in mind that penises get bigger during aro
 
 If you are using a packer as part of sex, be aware that it may transfer sexually transmitted diseases from one partner to another. You may want to use a condom over the packer, or sterilise the packer between uses - but remember that only packers made from silicone can be sterilised.
 
+### Are there other options?
+
 If you find that you are still unhappy when packing, there are more risky and permanent surgical options of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}).
 
 ### How much will it cost?

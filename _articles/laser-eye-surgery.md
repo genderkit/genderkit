@@ -20,6 +20,8 @@ There are three main types of laser eye surgery, *Photoreactive keratectomy (PRK
 
 The main risks of laser eye surgery are not having the expected improvement in vision, development of new visual problems like halos, infections in the cornea, and complications with the creation of the flap during the surgical procedure. There is also a very small risk of developing ectasia, a condition that can cause blindness {% cite nice-photorefractive %}.
 
+### How much will it cost?
+
 Laser eye surgery is not normally funded by the NHS unless it is to treat a condition that cannot be fixed with contact lenses or glasses.
 
 To ensure you are receiving the safest possible treatment, you should follow [this advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.

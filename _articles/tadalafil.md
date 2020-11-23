@@ -6,7 +6,7 @@ feature:
   caption: "A photograph of a pile of pills"
 ---
 
-### More information
+### Are there other options?
 
 Alternatives to tadalafil include [vardenafil]({% link _articles/vardenafil.md %}) and [sildenafil]({% link _articles/sildenafil.md %}). 
 

@@ -13,8 +13,6 @@ Metoidioplasty is a complex surgical procedure with significant risks that you m
 {% endcapture %}
 {% include warning warning=warn %}
 
-An alternative to metoidioplasty is [phalloplasty]({% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring.
-
 In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This "releases" the clitoris, adding 2-4cm in length and allows the clitoris to point upwards {% cite christopher2017 -l 296 %}.
 
 At this point, urethroplasty (construction of an extension of the urethra) is often performed to allow urinating from the end of the clitoris. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want, though this would require continuing to sit to urinate or using a stand to pee device. Avoiding a urethroplasty reduces the risk of complications {% cite cr181 -l 30 %}.
@@ -26,6 +24,10 @@ Metoidioplasty first requires taking [testosterone]({% link _articles/testostero
 Sometimes the operation will be carried out during the same surgery as [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), [vaginectomy]({% link _articles/vaginectomy.md %}), or [hysterectomy]({% link _articles/hysterectomy.md %}). This can provide useful tissue for performing the urethroplasty.
 
 For some people, metoidioplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
+
+### Are there other options?
+
+An alternative to metoidioplasty is [phalloplasty]({% link _articles/phalloplasty.md %}), surgery to create a penis. Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring.
 
 ### Where can I learn more?
 

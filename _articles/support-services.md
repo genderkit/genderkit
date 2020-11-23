@@ -25,6 +25,6 @@ If you are on a gender service waiting list or are a current gender service user
 - *Sheffield Porterbrook Clinic*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Welsh Gender Service*: [XIST at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
 
-### Counselling 
+### Are there other options?
 
 If you need longer term support, you may find counselling to be useful. You can find out more about this on our [counselling page]({% link _articles/counselling.md %}).
