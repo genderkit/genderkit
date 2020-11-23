@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 Breast reduction removes part of the breast tissue in order to reduce the size of the breasts. For complete removal of the breasts, see [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) and [double incision mastectomy]({% link _articles/double-incision-mastectomy.md %}).
 
 ### Where can I learn more?

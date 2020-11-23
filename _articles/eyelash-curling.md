@@ -6,6 +6,8 @@ feature:
   caption: "An eyelash curler"
 ---
 
+### More information
+
 A more permanent alternative to curling eyelashes with curlers is [permanent eyelash curling]({% link _articles/permanent-eyelash-curling.md %}).
 
 ### How much will it cost?

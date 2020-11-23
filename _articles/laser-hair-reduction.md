@@ -6,6 +6,8 @@ feature:
   caption: "A laser hair reduction machine"
 ---
 
+### More information
+
 In this procedure, the skin is exposed to pulses of laser light. The laser is of a specific wavelength that heats up the hair, causing the hair and hair follicle to be heated and destroyed, stopping that hair from regrowing. It is unable to remove hairs that are not dark, such as ginger, grey, or blonde hairs. These hairs are usually removed by [electrolysis]({% link _articles/electrolysis.md %}) instead. Electrolysis may be up to 60 times slower and more painful {% cite gorgu2000comparison %}.
 
 Laser hair reduction can be carried out using several different types of laser with different wavelengths: ruby (694nm), alexandrite (755nm), diode (810nm), and Nd:YAG (1,064-nm). Diode and alexandrite lasers are most effective for hair reduction, but only work effectively on pale skin. For people with darker coloured skin, Nd:YAG is more effective {% cite sadighha2009meta lapidoth2010best %}. Your laser technician should be able to discuss with you the type of laser they have available and whether it will be suitable for you.

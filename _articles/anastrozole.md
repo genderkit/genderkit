@@ -6,6 +6,8 @@ feature:
   caption: "A diagram of the chemical structure of anastrozole"
 ---
 
+### More information
+
 The human body naturally converts excess testosterone into oestrogen. Anastrozole works by stopping "aromatase", a chemical that the body uses as part of this process. Taking anastrozole can reduce the amount of oestrogen in your body.
 
 Anastrozole is normally used in breast cancer patients to slow the growth of some tumours. However, it can also be used to reduce breast growth {% cite anastrozole %} or stop menstruation.

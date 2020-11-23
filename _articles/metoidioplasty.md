@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 {% capture warn %}
 Metoidioplasty is a complex surgical procedure with significant risks that you must understand before it is carried out. Complications are common in this operation, particularly problems with urinating which may require surgical correction, including urethral strictures and fistulas (urethra closing up so you cannot urinate) {% cite frey2017update -l 732 %}.
 {% endcapture %}

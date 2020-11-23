@@ -3,6 +3,8 @@ title: Tucking
 weighting: 1
 ---
 
+### More information
+
 {% capture warn %}
 There is no published medical research into the risks of tucking we are aware of. Perform tucking at your own risk.
 {% endcapture %}

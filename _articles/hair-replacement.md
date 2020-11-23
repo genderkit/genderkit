@@ -6,6 +6,8 @@ feature:
   caption: "Person wearing a multicoloured full cap wig and sunglasses"
 ---
 
+### More information
+
 Hair replacement is a complex topic and seeking professional advice is recommended if you intend to use this approach on a regular basis.
 
 Some UK businesses offer professional services for hair replacements targeted at trans, non-binary, or gender nonconforming people in the UK, such as:

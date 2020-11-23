@@ -6,6 +6,8 @@ feature:
   caption: "Hair being curled with a curling iron"
 ---
 
+### More information
+
 {% capture warn %}
 A common cause of serious injuries to children is burns from home use of hair curling tongs. If you are in a home containing children pay particular care to keep children away until the tongs have completely cooled, which may take several minutes.
 {% endcapture %}

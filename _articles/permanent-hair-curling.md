@@ -3,6 +3,8 @@ title: Permanent hair curling
 weighting: 3
 ---
 
+### More information
+
 Hair is made from keratin proteins. These keratin proteins are held into shape by chemical bonds.
 
 These bonds can be broken if a chemical (normally thioglycolate) are applied to the hair, allowing the hair to be moved into new shapes like curls or waves by wrapping it around rollers. Another chemical can then be applied to the hair (normally hydrogen peroxide) that reforms the bonds, fixing the hair in the new position {% cite peacock2005hair -l 55 %}.

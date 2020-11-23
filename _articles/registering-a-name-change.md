@@ -6,6 +6,8 @@ feature:
   caption: "A photo of the Royal Courts of Justice"
 ---
 
+### More information
+
 As registering a name change causes information about your name change to become publicly available, most people do not decide to register their change of name, and you are not required to do so.
 
 If you were born or adopted in Scotland, registering a change of name will allow you to request an updated birth certificate with a new name. This only updates the birth certificate itself, and you can use a new name in Scotland without having updated your birth certificate. Registering a change of name does not allow you to update the gender recorded on your birth certificate, which is instead changed by [obtaining a GRC]({% link _articles/obtaining-a-grc.md %}).

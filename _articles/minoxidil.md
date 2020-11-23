@@ -6,6 +6,8 @@ feature:
   caption: "A diagram of the chemical structure of minoxidil"
 ---
 
+### More information
+
 Minoxidil comes as a liquid or foam that is applied to the scalp to slow hair loss. It is used to treat hair loss caused by testosterone.
 
 A commonly used alternative to minoxidil is [finasteride]({% link _articles/finasteride.md %}). Unlike minoxidil, finasteride is only available on prescription.

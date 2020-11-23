@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 The most common method of breast augmentation is using implants, though some alternatives exist including fat transplantation from another part of the body {% cite largo2014efficacy %}.
 
 Alternatives for increasing breast size that do not need surgery include [oestrogen]({% link _articles/oestrogen.md %}) therapy, [bra inserts]({% link _articles/bra-inserts.md %}), and weight gain.

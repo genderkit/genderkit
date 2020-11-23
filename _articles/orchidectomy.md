@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 {% capture warn %}
 Orchidectomy results in permanent destruction of the testes and is irreversible. After orchidectomy you will be infertile and unable to have children unless you have previously carried out [gamete storage]({% link _articles/gamete-storage.md %}) (i.e. sperm banking).
 {% endcapture %}

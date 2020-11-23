@@ -6,6 +6,8 @@ feature:
   caption: "A rolled up sock, one method of making a DIY packer"
 ---
 
+### More information
+
 Packing provides an easy way to make it look like you have a penis.
 
 Multiple different kinds of packers are available, including:

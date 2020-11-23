@@ -6,6 +6,8 @@ feature:
   caption: "Silhouette of a person against a sunset"
 ---
 
+### More information
+
 You might want to hide, minimise, emphasise, or enhance certain parts of your body shape in order to feel more comfortable. A variety of techniques can be used to alter the appearance of these areas.
 
 This is not a science, and not all techniques will work for everyone: there are no hard and fast rules in fashion. You can try these ideas to find out which work on your body, and use them as inspiration for finding more ideas unique to your personal style.

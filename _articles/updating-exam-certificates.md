@@ -6,6 +6,8 @@ feature:
   caption: "The logos of several UK exam boards"
 ---
 
+### More information
+
 The process of amending details will vary depending on the type of qualification and who it was awarded by.
 
 Qualifications from schools and colleges are normally awarded by organisations called "examination boards". Some higher level qualifications are also awarded by exam boards. Degrees are normally awarded by a specific university.

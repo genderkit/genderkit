@@ -3,6 +3,8 @@ title: Electrolysis
 weighting: 4
 ---
 
+### More information
+
 Electrolysis often used as an alternative to [laser hair reduction]({% link _articles/laser-hair-reduction.md %}). Laser hair reduction can be up to 60 times faster than electrolysis and less painful {% cite gorgu2000comparison %}. A common reason for using electrolysis is for treating blonde, ginger or grey hairs, which are unaffected by laser hair reduction. 
 
 Electrolysis is often used to remove facial hair.

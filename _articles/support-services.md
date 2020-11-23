@@ -6,6 +6,8 @@ feature:
   caption: "The hands of a person holding a phone and a cup of coffee"
 ---
 
+### More information
+
 Changing things about your gender can bring up lots of questions and unexpected emotions. Often, it can be helpful to talk to other people and get their input.
 
 ### Information and support services in the UK

@@ -6,6 +6,8 @@ feature:
   caption: "A sample of ovarian tissue being inserted into a cryopreservation chamber"
 ---
 
+### More information
+
 {% capture warn %}
 Storing gametes does not guarantee the ability to later have children. Use of stored gametes only sometimes results in pregnancy.
 {% endcapture %}

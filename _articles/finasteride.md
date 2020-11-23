@@ -6,6 +6,8 @@ feature:
   caption: "Finasteride pills in blister pack"
 ---
 
+### More information
+
 {% capture warn %}
 Finasteride does not remove the risk of pregnancy {% cite fsrh2017contraceptive %} and should not be used as a contraceptive method.
 {% endcapture %}

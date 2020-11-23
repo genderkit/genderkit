@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 Thyroid chondroplasty involves removing some of the cartilage at the front of the Adam's apple to flatten it, making it less visible.
 
 Thyroid chondroplasty is often carried out during surgeries that affect the voice - either to reduce the number of operations required, or because those surgeries would otherwise make the Adam's apple more apparent.

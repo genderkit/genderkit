@@ -6,6 +6,8 @@ feature:
   caption: "Closeup of an eye"
 ---
 
+### More information
+
 Laser eye surgery can be used to treat:
 
 - *myopia* - shortsightedness or inability to clearly see things in the distance

@@ -6,6 +6,8 @@ feature:
   caption: "A closeup photo of the word dysphoria"
 ---
 
+### More information
+
 Getting a formal medical diagnosis may help you access treatment, especially surgery. It may also help you update some legal documents, and acquire a [gender recognition certificate]({% link _articles/obtaining-a-grc.md %}). 
 
 Before getting a diagnosis, it's worth considering carefully whether you need one. It can be tempting to look for a diagnosis as validation, but it can also be pathologising --- making you feel like your identity is a "disease" --- and may be unnecessary, depending on what your needs are. Remember that lacking a diagnosis does not make your identity as a trans person any less valid.

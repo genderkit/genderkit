@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 Possible complications of a brow lift include:
 
 - nerve damage causing numbness of the forehead

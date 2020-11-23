@@ -6,6 +6,8 @@ feature:
   caption: A person with their hair in foils during application of hair dye for full head highlights
 ---
 
+### More information
+
 {% capture warn %}
 The chemicals involved in hair colouring may cause an allergic reaction. It is very important to always perform a patch test first by using the chemicals on a small area 48 hours before applying it to the rest of your hair.
 {% endcapture %}

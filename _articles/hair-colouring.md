@@ -6,6 +6,8 @@ feature:
   caption: "Two different brands of hair colouring product"
 ---
 
+### More information
+
 {% capture warn %}
 The chemicals involved in hair colouring may cause an allergic reaction. This is true even for "natural" hair colours such as henna {% cite de2013side %}. It is  important to always perform a patch test first by using the chemicals on a small area 48 hours before applying it to the rest of your hair. This is especially important if you have ever had a black henna tattoo, [as you may be at risk of death](http://www.nhs.uk/Conditions/hair-dye-allergy/Pages/Introduction.aspx).
 {% endcapture %}

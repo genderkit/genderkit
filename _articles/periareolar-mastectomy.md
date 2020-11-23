@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 {% capture warn %}
 Not all breast tissue is removed in mastectomy, and it does not remove the risk of breast cancer.
 {% endcapture %}

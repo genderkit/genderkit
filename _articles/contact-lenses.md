@@ -6,6 +6,8 @@ feature:
   caption: "A contact lens resting on a fingertip"
 ---
 
+### More information
+
 {% capture warn %}
 Contact lenses require careful handling, storage and cleaning in order to prevent eye infections. You must follow the instructions given by your optometrist (optician). Always wash your hands before inserting or removing contact lenses but do not dry them with a towel.
 {% endcapture %}

@@ -6,6 +6,8 @@ feature:
   caption: "Three shop mannequins in a clothes store"
 ---
 
+### More information
+
 Making significant changes to your wardrobe can be intimidating! This article will talk about how to find your size, find clothing for you in that size, alter the size of clothes that are too big or small, customise things to better match your gender, and reduce your clothing costs.
 
 It is normal to make mistakes when buying clothing - expect to find you have bought some things that you won't ever wear or won't wear more than once. You can help out others by donating these clothes to charity or to your local trans clothing exchange/swap.

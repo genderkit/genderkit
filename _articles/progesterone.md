@@ -6,6 +6,8 @@ feature:
   caption: "A box of medroxyprogesterone"
 ---
 
+### More information
+
 There are two types of chemicals used in progesterone therapy:
 
 - *Progesterone* (usually sold in micronised form)

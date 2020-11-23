@@ -6,6 +6,8 @@ feature:
   caption: "A pair of glasses"
 ---
 
+### More information
+
 Your choice of glasses frames affects how your face shape is perceived. For example, you could choose frames to create the illusion that a "long" face is shorter, or you could choose an angular style to make your face look less rounded.
 
 It is possible to buy "clear" glasses that are not designed to correct vision, to be worn by people with no vision problems. You can purchase these online or in some high street fashion shops.

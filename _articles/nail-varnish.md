@@ -6,6 +6,8 @@ feature:
   caption: "A selection of different brands and colours of nail varnish"
 ---
 
+### More information
+
 You can apply nail varnish at home or have your nails painted at a nail salon. Salons will be able to provide more advanced techniques like UV-cured gels and shellacs which give longer lasting results.
 
 To paint your nails at home, you will need the following:

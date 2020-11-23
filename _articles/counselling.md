@@ -6,6 +6,8 @@ feature:
   caption: "A box of tissues"
 ---
 
+### More information
+
 It is a normal thing to want or need help from counselling at some points in your life. 
 
 You may be experiencing distress or problems with your mental health due to not being sure who you are, what you want to change about yourself, or how other people will react to changes. Counselling can help you talk through these problems. Counselling is also useful if you are facing life changes and want support to stay well or talk through issues that may come up.

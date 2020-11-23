@@ -6,6 +6,8 @@ feature:
   caption: "A picture of hair straighteners"
 ---
 
+### More information
+
 {% capture warn %}
 A common cause of serious injuries to children is burns from home use of hair straighteners. If you are in a home containing children pay particular care to keep children away until the straighteners have completely cooled, which may take several minutes. Accidental contact with hot hair straighteners can cause permanent disfigurement and require skin grafting {% cite jones2008electric %}.
 {% endcapture %}

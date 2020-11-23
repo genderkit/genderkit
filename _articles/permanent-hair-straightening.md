@@ -6,6 +6,8 @@ feature:
   caption: "A box of permanent hair straightening product"
 ---
 
+### More information
+
 {% capture warn %}
 Stylists may not realise which ingredients are contained in some permanent straightening treatments and underestimate the danger to themselves and their clients {% cite weathersby2013brazilian %}. Always ensure you discuss with your stylist what treatments are being applied and what ingredients they contain.
 {% endcapture %}

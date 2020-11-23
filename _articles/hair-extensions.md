@@ -3,6 +3,8 @@ title: Hair extensions
 weighting: 3
 ---
 
+### More information
+
 Hair extensions vary considerably in several ways:
 
 - *attachment method*: some are easily clipped to your hair at home, whereas others are attached using one of several different methods in a salon. Some methods may damage your existing hair more than others, and some may irritate your scalp.

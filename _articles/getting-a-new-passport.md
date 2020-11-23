@@ -6,6 +6,8 @@ feature:
   caption: "A red UK passport sat onto top the Identities and Passport Services information leaflet."
 ---
 
+### More information
+
 {% capture warn %}
 Any current visa you hold will not be transferred to your new passport. Some countries will allow you to travel with both your new valid passport and your old invalidated passport, but this will out you every time that you need to show your visa. Other countries will require you to have the visa transferred or possibly even apply for a new visa. You are advised to check with any country you hold a visa with before you update your details.
 {% endcapture %}

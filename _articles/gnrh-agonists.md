@@ -6,6 +6,8 @@ feature:
   caption: "A diagram of the chemical structure of Triptorelin"
 ---
 
+### More information
+
 {% capture warn %}
 Taking GnRH agonists without also taking a sex hormone (e.g.
 [oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. If GnRH agonists are being used without an additional sex hormone, [DEXA (bone density) scans](https://www.nhs.uk/conditions/dexa-scan/) which measure bone mineral density may be needed {% cite murjan2017 -l 197 %}.

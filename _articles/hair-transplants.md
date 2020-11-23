@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 After hair transplantation, it may be helpful to continue treatment with [minoxidil]({% link _articles/minoxidil.md %}) or [finasteride]({% link _articles/finasteride.md %}) to prevent further hair loss {% cite bhatti2013hair %}.
 
 Alternatives to hair transplants include wigs, [hair extensions]({% link _articles/hair-extensions.md %}), topical hair fibers, hair powders, and micropigmentation {% cite saed2017hair %}.

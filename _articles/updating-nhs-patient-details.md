@@ -6,6 +6,8 @@ feature:
   caption: "NHS logo closeup on computer screen"
 ---
 
+### More information
+
 {% capture warn %}
 Changing gender marker may affect whether you are invited to important medical screening tests that you still need. Read the whole of this page to ensure you still receive the correct tests.
 {% endcapture %}

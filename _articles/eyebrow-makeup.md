@@ -6,6 +6,8 @@ feature:
   caption: "A photograph of a person's eye area with makeup applied"
 ---
 
+### More information
+
 A number of makeup techniques can be used to make eyebrows appear darker, denser or thicker:
 
 - *eyebrow pencil* can be used to draw in additional eyebrow hairs, either to change the shape of the brow, make it look thicker, or to cover gaps or patches.

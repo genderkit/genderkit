@@ -6,6 +6,8 @@ feature:
   caption: "A pair of transparent bra inserts"
 ---
 
+### More information
+
 Bra inserts are anatomically shaped soft (usually silicone) objects that are placed into a bra to provide the impression there is more breast tissue present. These may also result in a more visible cleavage.
 
 An alternative to bra inserts is [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}), which are similar but are stuck to the skin using an adhesive.

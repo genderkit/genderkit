@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 {% capture warn %}
 Phalloplasty is a complex surgical procedure with significant risks that you must understand before it is carried out. Phalloplasty usually causes significant scarring due to skin grafting (usually on the lower arm). Complications are also common in this operation, particularly problems with urinating which may require surgical correction, including urethral strictures and fistulae (urethra closing up so you cannot urinate) {% cite frey2017update -l 732 %}.
 {% endcapture %}

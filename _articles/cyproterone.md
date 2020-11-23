@@ -6,6 +6,8 @@ feature:
   caption: "A diagram of the chemical structure of cyproterone"
 ---
 
+### More information
+
 {% capture warn %}
 Cyproterone can cause liver malfunction and depression {% cite seal:2007 -l 170,174 %} and higher doses have been linked to meningioma {% cite seal2017 -l 236 %}.
 {% endcapture %}
