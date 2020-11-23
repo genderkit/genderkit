@@ -12,6 +12,8 @@ permalink: pretty
 
 # Build settings
 markdown: CommonMark
+commonmark:
+  options: ["DEFAULT", "UNSAFE"]
 gems:
   - 'jekyll/scholar'
   - jekyll-last-modified-at
