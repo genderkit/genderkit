@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 [Speech therapy]({% link _articles/speech-therapy.md %}) is able to allow the majority of people to raise the pitch and change the qualities of their voice safely and easily.
 
 However, for a minority of people this is not the case, and they may consider voice surgery as an alternative. Unlike speech therapy, voice surgery carries significant risks of complications, and the effects may be irreversible.

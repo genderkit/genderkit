@@ -6,6 +6,8 @@ feature:
   caption: "A black plastic STP device called a SheWee"
 ---
 
+### More information
+
 STP devices are placed over the urethral opening (the hole you urinate from) and direct the urine forwards so that you can urinate standing, including into a urinal.
 
 Most are shaped like a funnel or medicine spoon and come in a variety of colours. It is also possible to buy STP devices that are designed to resemble a penis.

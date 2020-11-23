@@ -6,6 +6,8 @@ feature:
   caption: "An ear with a lobe piercing"
 ---
 
+### More information
+
 {% capture warn %}
 Always have piercings performed by a professional. **Never** try and pierce yourself. There is a much higher risk of scarring or infection.
 {% endcapture %}

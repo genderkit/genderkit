@@ -6,6 +6,8 @@ feature:
   caption: "A rail of shirts in different shades of blue and white"
 ---
 
+### More information
+
 Finding your own personal fashion style can take time. The more you experiment, the more you will find things you feel comfortable and confident in. Expect your style to keep evolving over time as you learn more about what you like.
 
 Once you’ve started to get a basic idea of what you like, you can start to consider how you might adapt it to different situations, like different types of weather, work and education, or formal occasions.

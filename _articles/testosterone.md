@@ -6,6 +6,8 @@ feature:
   caption: "A box of Sustanon, an injectable brand of testosterone"
 ---
 
+### More information
+
 {% capture warn %}
 Testosterone use can cause serious medical conditions including polycythaemia (too many red blood cells which can increase stroke risk) and liver problems {% cite seal2017 -l 239 %}. For these reasons, it is important to only use testosterone under medical supervision with regular blood testing.
 {% endcapture %}

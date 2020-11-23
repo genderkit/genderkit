@@ -6,6 +6,8 @@ feature:
   caption: "A white chest binder"
 ---
 
+### More information
+
 {% capture warn %}
 The health risks of binding are almost entirely unstudied and unknown, and are associated with a number of health problems. Research suggests you should take rest days where you do not bind as much as you can {% cite peitzmeier2017health %}. Do not use "home made" binders made from elastic bandages, duct tape and plastic wrap.
 {% endcapture %}

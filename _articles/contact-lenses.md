@@ -6,6 +6,8 @@ feature:
   caption: "A contact lens resting on a fingertip"
 ---
 
+### More information
+
 {% capture warn %}
 Contact lenses require careful handling, storage and cleaning in order to prevent eye infections. You must follow the instructions given by your optometrist (optician). Always wash your hands before inserting or removing contact lenses but do not dry them with a towel.
 {% endcapture %}
@@ -19,6 +21,8 @@ Contact lenses are available in several types:
 - *Spherical lenses* can correct for myopia (short-sightedness, i.e. inability to clearly see things in the distance) and hypermetropia (long-sightedness, i.e. inability to clearly see things close by), but cannot correct for astigmatism (where the lens does not focus evenly).
 - *Toric lenses* are able to correct for astigmatism combined with myopia or hypermetropia. They are able to do this because they are designed to have a heavier edge which naturally rotates to the bottom of the eye. If the head is tilted, the lenses will no longer correct the astigmatism.
 - *Multifocal lenses* are able to correct for presbyopia (needing a different prescription for reading than the prescription required for distance vision) in a similar way to bifocal or multifocal glasses.
+
+### Are there other options?
 
 A more permanent alternative to contact lenses for some people is [laser eye surgery]({% link _articles/laser-eye-surgery.md %}).
 

@@ -6,6 +6,8 @@ feature:
   caption: "A photograph of a pile of pills"
 ---
 
+### More information
+
 There are only a small number of studies of the effects of alfatradiol on hair loss, and there is no clear conclusion on whether it is effective {% cite varothai2014androgenetic -l 221 %}.
 
 In the UK, the more proven options of [minoxidil]({% link _articles/minoxidil.md %}) and [finasteride]({% link _articles/finasteride.md %}) are used instead.

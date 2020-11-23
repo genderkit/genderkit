@@ -6,6 +6,8 @@ feature:
   caption: "A rolled up sock, one method of making a DIY packer"
 ---
 
+### More information
+
 Packing provides an easy way to make it look like you have a penis.
 
 Multiple different kinds of packers are available, including:
@@ -26,6 +28,8 @@ You may also need something to hold the packer in place:
 Packers come in different sizes. Bear in mind that penises get bigger during arousal, so don't try and order a packer that has the length of an erect penis unless you want to look like you are in a permanent state of arousal.
 
 If you are using a packer as part of sex, be aware that it may transfer sexually transmitted diseases from one partner to another. You may want to use a condom over the packer, or sterilise the packer between uses - but remember that only packers made from silicone can be sterilised.
+
+### Are there other options?
 
 If you find that you are still unhappy when packing, there are more risky and permanent surgical options of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}).
 

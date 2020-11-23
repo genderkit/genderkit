@@ -6,6 +6,8 @@ feature:
   caption: "The head of an IPL machine in use"
 ---
 
+### More information
+
 Intense pulsed light (IPL) therapy is an alternative to [laser hair reduction]({% link _articles/laser-hair-reduction.md %}).
 
 It uses a bright flash of light from a xenon flashbulb that produces many different wavelengths - rather than the single wavelength used by a laser.

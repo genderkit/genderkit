@@ -6,6 +6,8 @@ feature:
   caption: "A tube of depilatory cream"
 ---
 
+### More information
+
 {% capture warn %}
 The chemicals in depilatory cream may cause skin irritation. It is very important to always perform a patch test first by using the chemicals on a small area the day before.
 {% endcapture %}

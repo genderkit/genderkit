@@ -6,6 +6,8 @@ feature:
   caption: "A person's mouth while they are speaking"
 ---
 
+### More information
+
 Speech and language therapy can be used by people wanting to change the quality of their voice, raise the pitch of their voice, or lower their average pitch. 
 
 A trained speech therapist helps you discover what you would like your voice to sound like and helps you achieve those goals. Speech therapy may be one-on-one, or in a group therapy setting.

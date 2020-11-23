@@ -6,6 +6,8 @@ feature:
   caption: "Closeup of an eye"
 ---
 
+### More information
+
 Laser eye surgery can be used to treat:
 
 - *myopia* - shortsightedness or inability to clearly see things in the distance
@@ -17,6 +19,8 @@ Laser eye surgery is normally used on people with +6 dioptres (D) of hyperopia t
 There are three main types of laser eye surgery, *Photoreactive keratectomy (PRK)*, *Laser-assisted sub-epithelial keratectomy (LASEK)*, and *Laser-assisted in-situ keratomileusis (LASIK)*. The current evidence available from the National Institute for Clinical Excellence suggests that there is not a significant difference between the effectiveness of these techniques {% cite nice-photorefractive %}. Laser eye surgery is an area with continual development of new techniques, so you are advised to do your own research into the different kinds of eye surgery available to you. There is [guidance available from the Royal College of Ophthalmologists](https://www.rcophth.ac.uk/wp-content/uploads/2015/03/Patient-Guide-to-Excimer-Laser-Refractive-Surgery-2011.pdf) that includes detailed information about laser surgical techniques, including newer techniques not described here.
 
 The main risks of laser eye surgery are not having the expected improvement in vision, development of new visual problems like halos, infections in the cornea, and complications with the creation of the flap during the surgical procedure. There is also a very small risk of developing ectasia, a condition that can cause blindness {% cite nice-photorefractive %}.
+
+### How much will it cost?
 
 Laser eye surgery is not normally funded by the NHS unless it is to treat a condition that cannot be fixed with contact lenses or glasses.
 

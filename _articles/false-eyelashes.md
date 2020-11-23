@@ -6,6 +6,8 @@ feature:
   caption: "A tray containing strips of false eyelashes and glue"
 ---
 
+### More information
+
 Some false eyelashes come in strips that are applied across the entire eye, while others come in small sections which are applied individually.
 
 It is also possible to buy decorative false eyelashes in different colours or made of paper with patterns cut out of them.

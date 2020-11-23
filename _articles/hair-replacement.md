@@ -6,6 +6,8 @@ feature:
   caption: "Person wearing a multicoloured full cap wig and sunglasses"
 ---
 
+### More information
+
 Hair replacement is a complex topic and seeking professional advice is recommended if you intend to use this approach on a regular basis.
 
 Some UK businesses offer professional services for hair replacements targeted at trans, non-binary, or gender nonconforming people in the UK, such as:
@@ -16,6 +18,8 @@ Some UK businesses offer professional services for hair replacements targeted at
 - [Simone Thomas](https://www.simonethomas.com/transgender-hair-services/) (Bournemouth)
 
 You may be able to find specialists in your area using a search engine.
+
+### Are there other options?
 
 Possible alternatives to hair replacement systems include [hair colouring]({% link _articles/hair-colouring.md %}), [hair extensions]({% link _articles/hair-extensions.md %}), and [hair transplantation]({% link _articles/hair-transplants.md %}), depending on your specific circumstances and requirements. Hair loss can also be slowed or halted using treatments such as [minoxidil]({% link _articles/minoxidil.md %}) or [finasteride]({% link _articles/finasteride.md %}). Other options that can help include micropigmentation, tinted powders, and camouflage hairdressing.
 

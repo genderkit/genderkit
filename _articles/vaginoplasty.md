@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 {% capture warn %}
 After vaginoplasty, you must regularly use  dilators for the rest of your life to maintain the shape of the vagina. Failure to regularly dilate can result in prolapse, serious health complications and/or permanent loss of the vagina.
 {% endcapture %}

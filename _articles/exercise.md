@@ -6,6 +6,8 @@ feature:
   caption: "A person using a skateboard"
 ---
 
+### More information
+
 You may consider exercise to improve physical fitness but also to improve mental health and fitness. You may also be interested in changing body shape by developing muscle.
 
 It is now widely recognised that there is good evidence that regular exercise has beneficial effects on mental health {% cite stathopoulou2006exercise %}. (You can [read more about this from the NHS](http://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/mental-benefits-of-exercise.aspx)).

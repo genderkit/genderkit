@@ -6,6 +6,8 @@ feature:
   caption: "An online form for changing name and title"
 ---
 
+### More information
+
 We've created a checklist of places you might want to notify of a change of names, pronouns or title.
 
 {% include checklist checklist=telling-organisations %}

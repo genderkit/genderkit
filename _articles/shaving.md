@@ -6,6 +6,8 @@ feature:
   caption: "A disposable safety razor"
 ---
 
+### More information
+
 {% capture warn %}
 Do not share razors with other people. Sharing razors is a method of transmission of hepatitis C. People can be infected with hepatitis C without realising it or having any noticeable symptoms, but it can cause serious liver problems later on if left untreated. You can read more hepatitis on [the NHS website](http://www.nhs.uk/conditions/hepatitis-c/Pages/Introduction.aspx).
 {% endcapture %}

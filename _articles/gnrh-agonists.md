@@ -6,6 +6,8 @@ feature:
   caption: "A diagram of the chemical structure of Triptorelin"
 ---
 
+### More information
+
 {% capture warn %}
 Taking GnRH agonists without also taking a sex hormone (e.g.
 [oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. If GnRH agonists are being used without an additional sex hormone, [DEXA (bone density) scans](https://www.nhs.uk/conditions/dexa-scan/) which measure bone mineral density may be needed {% cite murjan2017 -l 197 %}.
@@ -32,6 +34,10 @@ People who do not have gonads (ovaries and/or testes) do not need to take GnRH a
 GnRH agonists are usually supplied as injections that are administered once every four weeks {% cite prostap zoladex1 %}, twelve weeks {% cite zoladex prostap3 decapeptyl3%}, or six months {% cite decapeptyl %}. Buserelin and Nafarelin are also available as a nasal spray that is administered twice daily {% cite buserelin nafarelin buserelin-nafarelin-ggp %}.
 
 GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
+
+### Are there other options?
+
+Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproterone.md %}), [spironolactone]({% link _articles/spironolactone.md %}), and [anastrozole]({% link _articles/anastrozole.md %}). While these options are generally cheaper, GnRH agonists are generally preferred by NHS clinicians due to a much lower risk of side effects {% cite seal2017 %}.
 
 {% include hrt-funding type="gnrh" %}
 

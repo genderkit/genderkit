@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 Labiaplasty involves surgically constructing labia, normally out of tissue taken from the penis and/or scrotum. The penis and scrotum are completely destroyed in the process.
 
 Normally [clitoroplasty]({% link _articles/clitoroplasty.md %}) (surgical creation of a clitoris) is carried out as part of labiaplasty. Some people also undergo [vaginoplasty]({% link _articles/vaginoplasty.md %}) (surgical creation of a vagina), while other people opt to avoid vaginoplasty because they do not want a vagina or to reduce the risk of complications, reduce recovery time, or avoid the need to dilate {% cite selvaggi2017 -l 268 %}. 

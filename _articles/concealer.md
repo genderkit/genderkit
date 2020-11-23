@@ -6,6 +6,8 @@ feature:
   caption: "Some makeup on a black surface"
 ---
 
+### More information
+
 Concealer is a type of foundation that gives high coverage (this means it hides the colour of the underlying skin well).
 
 Concealer comes in different shades, and it is important to match the shade you use to your natural skin colour. Shops selling makeup will usually have "testers" that you can apply to part of your skin to compare the makeup to your skin tone. Some shops also offer a service to help you find the correct makeup colour for your skin tone.

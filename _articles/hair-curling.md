@@ -6,6 +6,8 @@ feature:
   caption: "Hair being curled with a curling iron"
 ---
 
+### More information
+
 {% capture warn %}
 A common cause of serious injuries to children is burns from home use of hair curling tongs. If you are in a home containing children pay particular care to keep children away until the tongs have completely cooled, which may take several minutes.
 {% endcapture %}
@@ -18,6 +20,8 @@ To reduce the amount of damage to the hair caused by styling, it is important to
 It also possible to use some hair straighteners to put waves in hair. You can find tutorial videos on YouTube that will tell you how to do this.
 
 As your hair curling will be undone if your hair becomes wet, it may be useful to invest in a shower cap, which will keep your hair dry while you wash the rest of your body in the shower.
+
+### Are there other options?
 
 A more permanent alternative to using curling tongs is [permanent hair curling]({% link _articles/permanent-hair-curling.md %}) using chemicals.
 

@@ -6,6 +6,8 @@ feature:
   caption: "A hair brush"
 ---
 
+### More information
+
 Hair grows at an average rate of just over 1cm per month, though it can vary slightly from person to person depending on genetics {% cite loussouarn2005diversity %}.
 
 There isn't any way to speed the growth rate of individual hairs up, but you can decrease the time it takes for your hair to grow by reducing the amount of hairs that are shortened by damage. When hair is grown longer it stays attached to your head accumulating damage, perhaps for up to several years, so you need to work harder to protect it than you would with shorter hair. The most important things you can do are:
@@ -19,6 +21,8 @@ There isn't any way to speed the growth rate of individual hairs up, but you can
 Many hair stylists and hair websites recommend that even when growing your hair, the ends should be trimmed every few months to remove damage. We have been unable so far to find expert advice from trichologists (specialists in hair and hair disorders) about whether this is necessary - but you may want to do it anyway, as this will help your hair look more healthy and well maintained.
 
 You can find more detailed information on protecting your hair lower down on this page.
+
+### Are there other options?
 
 If you'd like you hair to be longer right now without having to wait for it to grow, an alternative you could consider is [hair extensions]({% link _articles/hair-extensions.md %}). You may also be able to get a small increase in hair length from [hair straightening]({% link _articles/hair-straightening.md %}) if your hair is curly or wavy.
 

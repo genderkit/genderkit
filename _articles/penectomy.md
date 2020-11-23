@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 Penectomy is surgical removal of the penis. This does not include removal of the testes (testicles), which are removed by an [orchidectomy]({% link _articles/orchidectomy.md %}).
 
 A penectomy completely destroys the penis. After a penectomy has been carried out, [vaginoplasty]({% link _articles/vaginoplasty.md %}) requires using non-standard techniques as there is no penile skin available, increasing risks and reducing the quality of the result. 

@@ -6,6 +6,8 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
+### More information
+
 {% capture warn %}
 Hysterectomy results in permanent destruction of the uterus (womb) and is irreversible. After hysterectomy you will be unable to become pregnant or give birth.
 {% endcapture %}
