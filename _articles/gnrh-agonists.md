@@ -21,7 +21,7 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 
 Gonadotropin releasing hormone (GnRH) agonists are medicines that cause the gonads (testes and/or ovaries) to stop producing sex hormones. GnRH agonists are considered to have an excellent side-effect profile with minimal side-effects compared to other alternatives {% cite seal2017 -l 236 %}.
 
-Commonly used GnRH agonists in the UK are Goserelin (Zoladex), Triptorelin (Decapeptyl) and Leuprorelin (Prostap).
+Commonly used GnRH agonists in the UK are Goserelin (Zoladex), Triptorelin (Decapeptyl) and Leuprorelin (Prostap). Certain clinicians also offer Buserelin (Suprecur/Suprefact) and Nafarelin (Synarel).
 
 In people with testes, this produces an anti-androgenic effect (reduction in testosterone levels). GnRH agonists are the main antiandrogen treatment used in the UK as while they are much more expensive than other antiandrogens they have less side effects. As these medications cause an initial rise in testosterone levels for the first few weeks of use, sometimes a short course of [cyproterone]({% link _articles/cyproterone.md %}) will also be given {% cite seal:2007 -l 170 %}.
 
@@ -29,7 +29,7 @@ In people with ovaries, treatment with GnRH agonists reduces oestrogen and proge
 
 People who do not have gonads (ovaries and/or testes) do not need to take GnRH agonists. This means that after [orchidectomy]({% link _articles/orchidectomy.md %}) or [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), there is no longer any need to use GnRH agonists.
 
-GnRH agonists are usually supplied in forms that are administered once every four weeks {% cite prostap %}, twelve weeks {% cite zoladex %}, or six months {% cite decapeptyl %}.
+GnRH agonists are usually supplied as injections that are administered once every four weeks {% cite prostap zoladex1 %}, twelve weeks {% cite zoladex prostap3 decapeptyl3%}, or six months {% cite decapeptyl %}. Buserelin and Nafarelin are also available as a nasal spray that is administered twice daily {% cite buserelin nafarelin buserelin-nafarelin-ggp %}.
 
 GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
 
