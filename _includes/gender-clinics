@@ -1,53 +1,53 @@
-{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"catchment", "last" %}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"catchment", "last" -%}
 
 <h3 class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
-{% if include.description %}
+{%- if include.description -%}
 <p>{{ include.description | markdownify }}</p>
-{% endif %}
+{%- endif -%}
 <ul class="details summarydetails" id="clinics">
-  {% for item in sortedOrganisations %}
+  {%- for item in sortedOrganisations -%}
     <li>
-      {% assign url = item.url %}
-      {% if item.image %}
+      {%- assign url = item.url -%}
+      {%- if item.image -%}
         <img alt="Logo of {{ item.title }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
-      {% endif %}
+      {%- endif -%}
       <div class="searchDetails">
-
+<!-- -->
         <div class="clinicdetails">
           <span class="clinicheading">
-            <a href="{{ url }}">{% if item.heading %}{{ item.heading | xml_escape }}{% else %}{{ item.name | xml_escape }}{% endif %}</a>
-            {% if item.nickname %}{{item.nickname}}{% endif %}
+            <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a>
+            {%- if item.nickname -%}{{item.nickname}}{%- endif -%}
           </span>
-          {% if item.age-range %}
-            {% if item.age-range == "Under 18" %}
+          {%- if item.age-range -%}
+            {%- if item.age-range == "Under 18" -%}
               <span class="agerange"><em>Under</em> 18s</span>
-            {% else %}
+            {%- else -%}
               <span class="agerange"><em>{{ item.age-range }}</em> only</span>
-            {% endif %}
-          {% else %}
+            {%- endif -%}
+          {%- else -%}
             <span class="agerange"><em>All</em> ages</span>
-          {% endif %}
-          
-          {% if item.publishes-wait %}
-            <span class="waittime">{% if item.wait-first-appointment == 0 %}<em><1</em> month wait{% else %}<em>{{ item.wait-first-appointment }}+</em> month wait{% endif %}</span>
-          {% else %}
-            {% if item.custom-wait %}
+          {%- endif -%}
+<!-- -->
+          {%- if item.publishes-wait -%}
+            <span class="waittime">{%- if item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-first-appointment }}+</em> month wait{%- endif -%}</span>
+          {%- else -%}
+            {%- if item.custom-wait -%}
               <span class="waittime">{{ item.custom-wait | markdownify }}</span>
-            {% else %}
+            {%- else -%}
               <span class="waittime">Unknown wait</span>
-            {% endif %}
-          {% endif %}
+            {%- endif -%}
+          {%- endif -%}
         </div>
-
+<!-- -->
         <div class="clinicdetails">
-          {% if item.catchment %}
+          {%- if item.catchment -%}
             <span class="catchment">{{item.catchment | markdownify }}</span>
-          {% endif %}
-
+          {%- endif -%}
+<!-- -->
         </div>
-
+<!-- -->
       </div>
-
+<!-- -->
     </li>
-  {% endfor %}
+  {%- endfor -%}
 </ul>

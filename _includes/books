@@ -1,28 +1,28 @@
 
-{% if include.tag %}
-{% assign sortedPublications = site.data.books.books | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"year" | reverse %}
-{% else %}
-{% assign sortedPublications = site.data.books.books | where_exp:"item", "item.archived != true" %}
-{% endif %}
+{%- if include.tag -%}
+{%- assign sortedPublications = site.data.books.books | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"year" | reverse -%}
+{%- else -%}
+{%- assign sortedPublications = site.data.books.books | where_exp:"item", "item.archived != true" -%}
+{%- endif -%}
 
 <ul class="details" id="books">
-{% for item in sortedPublications %}
+{%- for item in sortedPublications -%}
     <li>
       <div>
-      {% assign url = item.url %}
-      {% if include.thumbnails %}
-        {% assign imagename = item.title %}
+      {%- assign url = item.url -%}
+      {%- if include.thumbnails -%}
+        {%- assign imagename = item.title -%}
         <img alt="Front cover of {{ item.title | xml_escape }}" src="{{ 'assets/images/books/' | append: imagename | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" height="200" />
-      {% endif %}
+      {%- endif -%}
       <a href="{{ url }}">{{ item.title | xml_escape }}</a>
-      {% if item.subtitle %}
+      {%- if item.subtitle -%}
         <div>{{ item.subtitle | xml_escape }}</div>
-      {% endif %}
+      {%- endif -%}
       <div class="bookauthor">{{ item.author | xml_escape}}</div> 
-      {% if item.warning %}
+      {%- if item.warning -%}
         <div class="datewarning"><em>Warning:</em> {{ item.warning }}</div>
-      {% endif %}
+      {%- endif -%}
       </div>
     </li>
-{% endfor %}
+{%- endfor -%}
 </ul>

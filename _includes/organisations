@@ -1,54 +1,54 @@
-{% assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"name" %}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"name" -%}
 
 <ol class="details" id="organisations">
-  {% for item in sortedOrganisations %}
-    {% assign cssclasses = "" %}
-    {% for category in item.tags %}
-      {% assign cssclass = "category " | append: category | slugify %}
-      {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-    {% endfor %}
+  {%- for item in sortedOrganisations -%}
+    {%- assign cssclasses = "" -%}
+    {%- for category in item.tags -%}
+      {%- assign cssclass = "category " | append: category | slugify -%}
+      {%- assign cssclasses = cssclasses | append: cssclass | append: " " -%}
+    {%- endfor -%}
     <li class="{{ cssclasses }}">
-      {% assign url = "" %}
-      {% if item.url %}
-      {% assign url = item.url %}
-      {% elsif item.twitter %}
-      {% assign url = "http://www.twitter.com/" | append: item.twitter %}
-      {% elsif item.facebook %}
-      {% assign url = "http://www.facebook.com/" | append: item.facebook %}
-      {% elsif item.facebookId %}
-      {% assign url = "http://www.facebook.com/" | append: item.facebookId %}
-      {% endif %}
-      {% if item.image %}
+      {%- assign url = "" -%}
+      {%- if item.url -%}
+      {%- assign url = item.url -%}
+      {%- elsif item.twitter -%}
+      {%- assign url = "http://www.twitter.com/" | append: item.twitter -%}
+      {%- elsif item.facebook -%}
+      {%- assign url = "http://www.facebook.com/" | append: item.facebook -%}
+      {%- elsif item.facebookId -%}
+      {%- assign url = "http://www.facebook.com/" | append: item.facebookId -%}
+      {%- endif -%}
+      {%- if item.image -%}
         <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
-      {% elsif item.facebookId %}
+      {%- elsif item.facebookId -%}
         <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.facebookId | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
-      {% elsif item.twitterID %}
+      {%- elsif item.twitterID -%}
         <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.twitterID | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" />
-      {% endif %}
+      {%- endif -%}
 
       <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
       <p>
-        {% if item.twitterDescription %}
+        {%- if item.twitterDescription -%}
           {{ item.twitterDescription | xml_escape }}
-        {% elsif item.facebookDescription %}
+        {%- elsif item.facebookDescription -%}
           {{ item.facebookDescription | xml_escape }}
-        {% else %}
+        {%- else -%}
           {{ item.manualDescription | xml_escape }}
-        {% endif %}
+        {%- endif -%}
       </p>
       <p>
-      {% if item.url %}
+      {%- if item.url -%}
         <a href="{{ item.url }}">Website</a>&nbsp;
-      {% endif %}
-      {% if item.twitter %}
+      {%- endif -%}
+      {%- if item.twitter -%}
         <a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
-      {% endif %}
-      {% if item.facebook %}
+      {%- endif -%}
+      {%- if item.facebook -%}
         <a href="http://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;
-      {% elsif item.facebookId %}
+      {%- elsif item.facebookId -%}
         <a href="http://www.facebook.com/{{ item.facebookId }}">Facebook</a>&nbsp;
-      {% endif %}
+      {%- endif -%}
       </p>
     </li>
-  {% endfor %}
+  {%- endfor -%}
 </ol>
