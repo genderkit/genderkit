@@ -20,7 +20,3 @@ You can use your judgement to choose the most appropriate words to describe your
 ### Construct your own
 
 You can also create your own words to describe yourself that better fit who you are - even the most commonly used words have only been around a few decades at most, and more are being invented all the time!
-
-### Errors and omissions
-
-Is there something missing from this page? Have you spotted something that isn't correct? Please [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit) to let us know.
