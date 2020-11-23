@@ -5,7 +5,7 @@ layout: misc
     {{ content }}
     </section>
     <section>
-      <h3>Lists of names</h3>
+      <h3 id="lists-of-names">Lists of names</h3>
       <p>These useful lists might inspire you.</p>
       <ul class="wordlist">
         {% assign explore = site.explore | sort: 'title' %}
@@ -15,6 +15,6 @@ layout: misc
           {% endif %}
         {% endfor %}
       </ul>
-      <h3>Changing your name</h3>
+      <h3 id="changing-your-name">Changing your name</h3>
       <p>You can read about how to change your name on our <a href="{% link _categories/id-documents.md %}">ID documents page</a>.
     </section>

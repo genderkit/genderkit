@@ -26,7 +26,7 @@
         <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.twitterID | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" />
       {%- endif -%}
 
-      <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
+      <h3 id="{{ item.name | slugify }}"><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
       <p>
         {%- if item.twitterDescription -%}
           {{ item.twitterDescription | xml_escape }}

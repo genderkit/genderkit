@@ -3,7 +3,7 @@
   <ul class="details">
   {% for item in data %}
     <li>
-      <h3>{{ item.name | xml_escape }}</h3>
+      <h3 id="{{ item.name | slugify }}">{{ item.name | xml_escape }}</h3>
       {% if item.contribution %}
       <p>{{ item.contribution | xml_escape }}</p>
       {% endif %}

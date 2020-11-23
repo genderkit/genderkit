@@ -135,6 +135,19 @@ task :proselint => :jekyll do
   end
 end
 
+class ProofHeaderIDs < ::HTMLProofer::Check
+  def run
+    @html.css('h1,h2,h3,h4,h5,h6').each do |node|
+      @link = create_element(node)
+      line = node.line
+
+      if @link.id.nil?
+        return add_issue("Heading has missing ID!", line: line)
+      end
+    end
+  end
+end
+
 desc "Test the built html"
 task :htmlproofer => :jekyll do
   options = {

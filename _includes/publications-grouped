@@ -6,7 +6,7 @@
 
 {%- for publisher in publishers -%}
 
-<h4>{{ publisher.name | xml_escape }}:</h4>
+<h4 id="{{ publisher.name | slugify }}">{{ publisher.name | xml_escape }}:</h4>
 {%- assign sortedPublications = publisher.items | sort:"title" -%}
 
 <ul class="details" id="publications">

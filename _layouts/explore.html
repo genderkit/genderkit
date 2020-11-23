@@ -4,7 +4,7 @@ layout: page
 <main role="main">
   {% if page.title contains 'name' %}
   <nav>
-    <h3>See also</h3>
+    <h3 id="see-also">See also</h3>
     {% assign exploreList = site.explore | sort: 'title' %}
     <ul>
       {% for p in exploreList %}
@@ -29,7 +29,7 @@ layout: page
         <ul class="gridcontainer">
           {% for item in site.data.explore[page.data] %}
           <li class="griditem">
-            <h3>{{ item.title }}</h3>
+            <h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
             <ul>
             {% for subitem in item.items %}
               <li>{{ subitem }}</li>

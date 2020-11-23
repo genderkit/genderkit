@@ -52,7 +52,7 @@ document.body.onload = function() {
 </script>
 <main role="main">
   <nav>
-    <h3>
+    <h3 id="accordion-button">
       <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event.currentTarget);"><span aria-hidden="true">&#9654;&#65038;&nbsp;</span>Filters</a>
     </h3>
     <ul id="categorylist" role="region" aria-labelledby="accordionButton" aria-hidden="true" class="hidden">
@@ -66,7 +66,7 @@ document.body.onload = function() {
   </nav>
   <article>
     <section class="attention">
-      <h3>Youth Groups</h3>
+      <h3 id="youth-groups">Youth Groups</h3>
       <p>Looking for youth support groups? Find them on the <a href="https://www.theproudtrust.org/for-young-people/lgbt-youth-groups/where-can-i-find-a-youth-group/">Proud Trust</a> group finder. 
       </p>
     </section>
@@ -98,7 +98,7 @@ document.body.onload = function() {
             <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.twitterID | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" />
           {% endif %}
 
-          <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
+	  <h3 id="{{item.name | slugify }}"><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
           <p>
             {% if item.twitterDescription %}
               {{ item.twitterDescription | xml_escape }}
@@ -126,7 +126,7 @@ document.body.onload = function() {
       </ul>
     </section>
     <section class="bodytext">
-      <h3>Errors and omissions</h3>
+      <h3 id="errors-and-omissions">Errors and omissions</h3>
       <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know, or <a href="https://github.com/genderkit/genderkit/issues">file an issue on GitHub</a>.</p>
     </section>
   </article>

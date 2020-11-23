@@ -6,7 +6,7 @@
     {%- assign data = site.data.checklists[slug] -%}
   {%- endif -%}
 <!-- -->  
-  {%- if data.title -%}<h3>{{ data.title }}</h3>{%- endif -%}
+  {%- if data.title -%}<h3 id="{{ data.title | slugify }}">{{ data.title }}</h3>{%- endif -%}
   {%- if data.items -%}
     <ul class="checklist">
     {%- for item in data.items -%}
