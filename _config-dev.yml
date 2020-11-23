@@ -13,7 +13,7 @@ permalink: pretty
 # Build settings
 markdown: CommonMark
 commonmark:
-  options: ["DEFAULT", "UNSAFE"]
+  options: ["DEFAULT", "UNSAFE", "SMART"]
 gems:
   - 'jekyll/scholar'
   - jekyll-last-modified-at
