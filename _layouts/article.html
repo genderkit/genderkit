@@ -30,7 +30,7 @@ layout: page
           <p>{{ info.summary }}.</p>
       {% endif %}
       {% if info.aka %}
-        <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
+      <p>{% if site.data.articles[slug].plural %}They're{%else%}It's{%endif%} also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
       {% endif %}
       {% if site.data.articles[slug].plural %}
       <h3 id="what-do-{{ slug }}-do">What do {{ page.title }} do?</h3>
@@ -43,8 +43,9 @@ layout: page
         <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
+      {% assign slug = page.title | slugify %}
       {% if info.requirements %}
-      <h3 id="who-can-have-{{ slug }}-do">Who can have {{ page.title }}?</h3>
+      <h3 id="who-can-have-{{ slug }}">Who can have {{ page.title }}?</h3>
       <ul class="requirements">
       {% assign reqs = info.requirements | where_exp: "item", "item.type" %}
       {% assign multis = info.requirements | where_exp: "item", "item.multi" %}
