@@ -1,28 +1,38 @@
 ---
-title: Binding
+title: binding
 weighting: 3
 feature:
   image: binding.jpg
   caption: "A white chest binder"
 ---
 
-### More information
+### How do I stay safe?
 
 {% capture warn %}
 The health risks of binding are almost entirely unstudied and unknown, and are associated with a number of health problems. Research suggests you should take rest days where you do not bind as much as you can {% cite peitzmeier2017health %}. Do not use "home made" binders made from elastic bandages, duct tape and plastic wrap.
 {% endcapture %}
 {% include warning warning=warn %}
 
-Binders are a tight, elastic type of underwear that compresses the chest into a different shape. This flattens breast tissue, making it less visible. Safer but less effective alternatives to binding are wearing a sports bra or multiple layers of clothing to hide your chest shape.
+### What should I be aware of?
+
+Use of a binder is almost always accompanied by some undesirable symptoms, most commonly back, chest or shoulder pain, overheating, shortness of breath, itching (possibly due to fungal skin infections {% cite deutsch2016guidelines -l 155 %}), and bad posture. Rarer but more serious effects of binder use include scarring, swelling, rib fractures and respiratory infections. The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks.
+
+Long-term binding for several years can effect skin elasticity, which increases the risk of complications if you wish to surgically remove your breasts with an operation like [double-incision]({% link _articles/double-incision-mastectomy.md %}) or [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) {% cite yelland2017 -l 260 %}.
+
+### Are there other options?
+
+Safer but less effective alternatives to binding are wearing a sports bra or multiple layers of clothing to [hide your chest shape]({% link _articles/disguising-body-shape.md %}).
+
+An operation like [double-incision]({% link _articles/double-incision-mastectomy.md %}) or [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) can permanently remove breasts, eliminating the need to bind.
+
+### How do I bind?
+
+The safest way to bind is to use a binder. Binders are a tight, elastic type of underwear that compresses the chest into a different shape. This flattens breast tissue, making it less visible. 
 
 You can get different styles of binders depending on where you get them from and your needs:
 
 - *Full length* binders are in a tank top style. The compression is mainly in the chest area but there is some in the stomach area too.
 - *Tri top* binders are in a crop top style. The compression is in the chest area and the stomach area is left free.
-
-Use of a binder is almost always accompanied by some undesirable symptoms, most commonly back, chest or shoulder pain, overheating, shortness of breath, itching (possibly due to fungal skin infections {% cite deutsch2016guidelines -l 155 %}), and bad posture. Rarer but more serious effects of binder use include scarring, swelling, rib fractures and respiratory infections. The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks.
-
-Long-term binding for several years can effect skin elasticity, which increases the risk of complications if you wish to surgically remove your breasts with an operation like [double-incision]({% link _articles/double-incision-mastectomy.md %}) or [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) {% cite yelland2017 -l 260 %}.
 
 Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
 

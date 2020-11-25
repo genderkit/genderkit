@@ -1,12 +1,12 @@
 ---
-title: "Anterior commissure advancement"
+title: "anterior commissure advancement"
 weighting: 5
 feature:
   image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 
-### More information
+### What should I be aware of?
 
 [Speech therapy]({% link _articles/speech-therapy.md %}) is able to allow the majority of people to raise the pitch and change the qualities of their voice safely and easily.
 
