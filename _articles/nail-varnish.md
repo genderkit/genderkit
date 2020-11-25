@@ -23,7 +23,7 @@ To paint your nails at home, you will need the following:
 
 Nail varnishes, including base and top coat, usually have a built in brush attached to the lid which means you don't have to buy any additional brushes or clean them.
 
-### How to apply nail varnish
+### How do I use it?
 
 Applying nail varnish involves several simple steps:
 
