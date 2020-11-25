@@ -1,5 +1,5 @@
 ---
-title: "Thyroid chondroplasty"
+title: "thyroid chondroplasty"
 weighting: 5
 feature:
   image: surgeons.jpg

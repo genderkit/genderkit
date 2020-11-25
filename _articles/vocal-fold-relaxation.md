@@ -1,5 +1,5 @@
 ---
-title: "Vocal fold relaxation"
+title: "vocal fold relaxation"
 weighting: 5
 feature:
   image: surgeons.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Thyrohyoid approximation"
+title: "thyrohyoid approximation"
 weighting: 5
 feature:
   image: surgeons.jpg
