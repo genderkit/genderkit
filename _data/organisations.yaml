@@ -95,11 +95,11 @@ organisations:
         manualDescription: 'Private gender service located in Edinburgh'
         image: your-gp
         age-range: 17+
-        publishes-wait: true
+        publishes-wait: false
         wait-first-appointment: 3
         nhs-funding: false
         referrals: true
-        updated: '2020-04-13'
+        updated: '2020-11-25'
     -
         heading: Grampian
         name: 'Grampian Gender Identity Clinic' 
@@ -209,10 +209,10 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 29
+        wait-first-appointment: 37
         nhs-funding: true
         referrals: true
-        updated: '2020-08-14'
+        updated: '2020-11-23'
         catchment: England GP only
     -
         heading: Sheffield
@@ -389,8 +389,8 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/960562401086267393/aF_sW9VM_normal.jpg'
         age-range: 18+
         wait-first-appointment: 0
-        updated: '2020-08-27'
-        publishes-wait: true
+        updated: '2020-11-25'
+        publishes-wait: false
         nhs-funding: false
         referrals: true
     -
