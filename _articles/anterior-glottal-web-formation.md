@@ -18,6 +18,10 @@ While a variety of different surgical approaches to increasing vocal pitch have 
 
 Depending on the surgical technique, you may have permanent scarring after the operation. Voice surgery also requires additional speech therapy after the surgery {% cite seal:2007 -l 194 %}.
 
+### What else might I want?
+
+[Thyroid chondroplasty]({% link _articles/thyroid-chondroplasty.md %}) is often carried out during surgeries that affect the voice - either to reduce the number of operations required, or because those surgeries would otherwise make the Adam's apple more apparent.
+
 ### References
 
 {% bibliography --cited %}
