@@ -1,12 +1,12 @@
 ---
-title: "Laser assisted voice adjustment"
+title: "laser assisted voice adjustment"
 weighting: 5
 feature:
   image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 
-### More information
+### What should I be aware of?
 
 {% capture warn %}
 This technique is a surgery with a number of risks you need to understand before it is carried out. Common side effects are a quieter voice, a voice with less vocal range, or decreased clarity. The surgery may also result in no change to the pitch of the voice or a deepening of the voice {% cite song2017transgender -l 807 %}.
@@ -20,6 +20,10 @@ However, for a minority of people this is not the case, and they may consider vo
 While a variety of different approaches to increasing vocal pitch have been tried, there is currently little research into what the long term effects of these surgeries are, and how long the effects will last is unknown {% cite van2017effectiveness -l 244e4 %}.
 
 Voice surgery requires additional speech therapy after the surgery {% cite seal:2007 -l 194 %}.
+
+### What else might I want?
+
+[Thyroid chondroplasty]({% link _articles/thyroid-chondroplasty.md %}) is often carried out during surgeries that affect the voice - either to reduce the number of operations required, or because those surgeries would otherwise make the Adam's apple more apparent.
 
 ### References
 
