@@ -5,6 +5,6 @@
     </a>
   </h1>
   <h2 id="{{ page.title | slugify }}">
-    {{ page.title | capitalize }}
+	  {{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }}
   </h2>
 </header>
