@@ -1,5 +1,5 @@
 ---
-title: Alfatradiol
+title: alfatradiol
 weighting: 3
 feature:
   image: pills.jpg

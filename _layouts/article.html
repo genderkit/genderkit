@@ -21,14 +21,22 @@ layout: page
     </section>
     {% endif %}
     <section class="bodytext">
-      <h3 id="what-is-this">What is this?</h3>
+      {% if site.data.articles[slug].plural %}
+      <h3 id="what-are-{{ slug }}">What are {{ page.title }}?</h3>
+      {% else %}
+      <h3 id="what-is-{{ slug }}">What is {{ page.title }}?</h3>
+      {% endif %}
       {% if info.summary %}
           <p>{{ info.summary }}.</p>
       {% endif %}
       {% if info.aka %}
         <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
       {% endif %}
-      <h3 id="what-does-this-do">What does this do?</h3>
+      {% if site.data.articles[slug].plural %}
+      <h3 id="what-do-{{ slug }}-do">What do {{ page.title }} do?</h3>
+      {% else %}
+      <h3 id="what-does-{{ slug }}-do">What does {{ page.title }} do?</h3>
+      {% endif %}
       <ul class="effects">
       {% for item in info.effects %}
         {% assign slug = item.category | slugify %}
@@ -36,7 +44,7 @@ layout: page
       {% endfor %}
       </ul>
       {% if info.requirements %}
-      <h3 id="who-can-have-this">Who can have this?</h3>
+      <h3 id="who-can-have-{{ slug }}-do">Who can have {{ page.title }}?</h3>
       <ul class="requirements">
       {% assign reqs = info.requirements | where_exp: "item", "item.type" %}
       {% assign multis = info.requirements | where_exp: "item", "item.multi" %}
@@ -52,7 +60,11 @@ layout: page
       </ul>
       {% endif %}
       {% if info.duration %}
-        <h3 id="how-long-does-this-last">How long does this last?</h3>
+        {% if site.data.articles[slug].plural %}
+        <h3 id="how-long-do-{{ slug }}-last">How long do {{ page.title }} last?</h3>
+        {% else %}
+        <h3 id="how-long-does-{{ slug }}-last">How long does {{ page.title }} last?</h3>
+        {% endif %}
         <p>{{ info.duration }}</p>
       {% endif %}
       {{ content }}
