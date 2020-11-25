@@ -1,30 +1,36 @@
 ---
-title: Labiaplasty
+title: labiaplasty
 weighting: 5
 feature:
   image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 
-### More information
-
-Labiaplasty involves surgically constructing labia, normally out of tissue taken from the penis and/or scrotum. The penis and scrotum are completely destroyed in the process.
-
-Normally [clitoroplasty]({% link _articles/clitoroplasty.md %}) (surgical creation of a clitoris) is carried out as part of labiaplasty. Some people also undergo [vaginoplasty]({% link _articles/vaginoplasty.md %}) (surgical creation of a vagina), while other people opt to avoid vaginoplasty because they do not want a vagina or to reduce the risk of complications, reduce recovery time, or avoid the need to dilate {% cite selvaggi2017 -l 268 %}. 
+### What should I be aware of?
 
 Labiaplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
 
-For some people, labiaplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
+The penis and scrotum are completely destroyed in the process of labiaplasty, as the labia are normally surgically constructed out of tissue that has been taken from the penis and/or scrotum.
 
-### Preparing for a surgical procedure
+### How do I get labiaplasty?
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+For some people, labiaplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
 ### How much will it cost?
 
 A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
-If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}). You will normally need to meet the following conditions:
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}).
+
+{% include list-of-surgeons %}
+
+{% include surgery-costs %}
+
+### More information
+
+In order to be eligible for labiaplasty, you will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment
@@ -36,9 +42,9 @@ or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
 congruent with the gender identity {% cite cr181 %}.
 
-{% include list-of-surgeons %}
+### What else might I want?
 
-{% include surgery-costs %}
+Normally [clitoroplasty]({% link _articles/clitoroplasty.md %}) (surgical creation of a clitoris) is carried out as part of labiaplasty. Some people also undergo [vaginoplasty]({% link _articles/vaginoplasty.md %}) (surgical creation of a vagina), while other people opt to avoid vaginoplasty because they do not want a vagina or to reduce the risk of complications, reduce recovery time, or avoid the need to dilate {% cite selvaggi2017 -l 268 %}. 
 
 ### References
 
