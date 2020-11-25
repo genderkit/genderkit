@@ -6,15 +6,19 @@ feature:
   caption: "Faces of surgeons performing surgery"
 ---
 
-### What should I be aware of?
+### How do I stay safe?
 
-Labiaplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+### What should I be aware of?
 
 The penis and scrotum are completely destroyed in the process of labiaplasty, as the labia are normally surgically constructed out of tissue that has been taken from the penis and/or scrotum.
 
 ### How do I get labiaplasty?
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+{% include list-of-surgeons %}
+
+Labiaplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
 
 For some people, labiaplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
@@ -23,8 +27,6 @@ For some people, labiaplasty can provide a significant improvement in mental hea
 A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}).
-
-{% include list-of-surgeons %}
 
 {% include surgery-costs %}
 
