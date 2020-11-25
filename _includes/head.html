@@ -1,7 +1,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <meta name="google-site-verification" content="qetg5bHJT_x0mnOmiCB6dKCY5LcPG-7PLGjarWaYfmc" />
-<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if page.title %}{{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }}
+ - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 <style>
 	/* latin */
 	@font-face {
