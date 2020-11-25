@@ -6,7 +6,7 @@ feature:
   caption: "A diagram of the chemical structure of Triptorelin"
 ---
 
-### More information
+### What are the risks?
 
 {% capture warn %}
 Taking GnRH agonists without also taking a sex hormone (e.g.
@@ -19,19 +19,25 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 {% endcapture %}
 {% include warning warning=warn %}
 
-Gonadotropin releasing hormone (GnRH) agonists are medicines that cause the gonads (testes and/or ovaries) to stop producing sex hormones.
+GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
 
-In people with testes, treatment with GnRH agonists reduces testosterone levels. GnRH agonists cause an initial rise in testosterone levels for the first few weeks of use, which is sometimes stopped by a short course of [cyproterone]({% link _articles/cyproterone.md %}) {% cite seal:2007 -l 170 %}.
+### Do I need this?
 
-In people with ovaries, treatment with GnRH agonists reduces oestrogen and progesterone levels. This causes periods to stop, along with halting breast growth. Treatment with GnRH agonists is not normally necessary for people taking [testosterone]({% link _articles/testosterone.md %}) as testosterone normally adequately suppresses production of oestrogen.
+- *If you have testes*, treatment with GnRH agonists will reduce your testosterone levels. GnRH agonists will cause an initial rise in testosterone levels for the first few weeks of use, which is sometimes stopped by a short course of [cyproterone]({% link _articles/cyproterone.md %}) {% cite seal:2007 -l 170 %}.
 
-People who do not have gonads (ovaries and/or testes) do not need to take GnRH agonists. This means that after [orchidectomy]({% link _articles/orchidectomy.md %}) or [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), there is no longer any need to use GnRH agonists.
+- *If you have ovaries*, treatment with GnRH agonists will reduce your oestrogen and progesterone levels. This will cause periods to stop, along with halting breast growth. Treatment with GnRH agonists is not normally necessary for people taking [testosterone]({% link _articles/testosterone.md %}) as testosterone normally adequately suppresses production of oestrogen.
+
+- *If you do not have gonads (ovaries and/or testes)*, you will not need to take GnRH agonists. This means that after [orchidectomy]({% link _articles/orchidectomy.md %}) or [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), there is no longer any need to use GnRH agonists.
+
+- *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are fully reversible {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on the [GIDS website](https://gids.nhs.uk/evidence-base).
+
+### What kinds are there?
 
 Commonly used GnRH agonists in the UK are Goserelin (Zoladex), Triptorelin (Decapeptyl) and Leuprorelin (Prostap). Certain clinicians also offer Buserelin (Suprecur/Suprefact) and Nafarelin (Synarel).
 
-GnRH agonists are usually supplied as injections that are administered once every four weeks {% cite prostap zoladex1 %}, twelve weeks {% cite zoladex prostap3 decapeptyl3%}, or six months {% cite decapeptyl %}. Buserelin and Nafarelin are also available as a nasal spray that is administered twice daily {% cite buserelin nafarelin buserelin-nafarelin-ggp %}.
+GnRH agonists are usually supplied as injections that are administered once every four weeks {% cite prostap zoladex1 %}, twelve weeks {% cite zoladex prostap3 decapeptyl3%}, or six months {% cite decapeptyl %}.
 
-GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
+Buserelin and Nafarelin are also available as a nasal spray that is administered twice daily {% cite buserelin nafarelin buserelin-nafarelin-ggp %}; this could be a good option if you have difficulty with needles, but these are not normally prescribed on the NHS, and you will still need to have regular blood tests.
 
 ### Are there other options?
 
