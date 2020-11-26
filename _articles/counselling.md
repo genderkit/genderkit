@@ -1,12 +1,12 @@
 ---
-title: Counselling
+title: counselling
 weighting: 2
 feature:
   image: counselling.jpg
   caption: "A box of tissues"
 ---
 
-### More information
+### Who might want counselling?
 
 It is a normal thing to want or need help from counselling at some points in your life. 
 
@@ -18,13 +18,28 @@ The most commonly found problems are [depression](http://www.nhs.uk/conditions/d
 
 A large number of people with gender dysphoria (perhaps up to 20%) also have an [autism spectrum condition](http://www.nhs.uk/conditions/autistic-spectrum-disorder/Pages/Introduction.aspx) {% cite van2016gender %}. If you are one of these people dealing with emotional problems on your own without help can be even more complex and difficult.
 
+### How do I get counselling?
+
 If you think you might need help, you can speak to your GP. They will often suggest that you try some kind of counselling, sometimes in combination with other approaches like medication or specialist assessments and treatments.
 
 Counselling approaches are talking therapies: by discussing your problems in a safe environment with a counsellor you can gain a deeper insight into them. Counsellors do not "treat" or "heal" people like a doctor, nor do they give you general life advice. The counsellor instead helps you understand yourself and your problems so that you can move forward.
 
-Practitioners may be known by a number of  names, including "counsellors", "therapists", "psychotherapists", "clinical psychologists" and "psychiatric nurses", depending on exactly what training they have and what their job involves {% cite sanders2002counselling %}. We're using the word "counsellor" here for simplicity. There are a variety of ways of working. Different approaches work for different people and in different situations. 
-
 Your counsellor will be bound by rules of confidentiality which mean that they need to keep information you tell them private unless there is a good reason not to do so (for example, if they are required to by law, or if they believe you are at risk of killing yourself). Counsellors also normally have their own counsellors called "supervisors" who support them with the emotional challenges of their work.
+
+### What kinds are there?
+
+Practitioners may be known by a number of  names, including "counsellors", "therapists", "psychotherapists", "clinical psychologists" and "psychiatric nurses", depending on exactly what training they have and what their job involves {% cite sanders2002counselling %}. We're using the word "counsellor" here for simplicity.
+
+There are a variety of ways of working, including:
+
+- Cognitive behavioural therapy
+- Person-centred therapy
+- Existential therapy
+- Psychodynamic therapy
+- Dialectical behaviour therapy
+- Art and music therapy
+
+You might find that some of these approaches are more suited to you than others. Don't be discouraged if you don't "get on" with the first few counsellors you try; it might take a while until you find a counsellor whose approach and personality are right for you. It might help to learn a bit about the different types of therapy and talk them through with a friend.
 
 ### Where can I learn more?
 

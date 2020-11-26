@@ -4,6 +4,11 @@ layout: page
 
 {% assign slug = page.title | slugify %}
 {% assign info = site.data.articles[slug] %}
+{% if site.data.articles[slug].in-headings %}
+  {% assign in-headings = site.data.articles[slug].in-headings %}
+{% else %}
+  {% assign in-headings = page.title %}
+{% endif %}
 
 <main role="main">
   {% include feature.html %}
@@ -22,9 +27,9 @@ layout: page
     {% endif %}
     <section class="bodytext">
       {% if site.data.articles[slug].plural %}
-      <h3 id="what-are-{{ slug }}">What are {{ page.title }}?</h3>
+      <h3 id="what-are-{{ in-headings | slugify }}">What are {{ in-headings }}?</h3>
       {% else %}
-      <h3 id="what-is-{{ slug }}">What is {{ page.title }}?</h3>
+      <h3 id="what-is-{{ in-headings | slugify }}">What is {{ in-headings }}?</h3>
       {% endif %}
       {% if info.summary %}
           <p>{{ info.summary }}.</p>
@@ -33,9 +38,9 @@ layout: page
       <p>{% if site.data.articles[slug].plural %}They're{%else%}It's{%endif%} also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
       {% endif %}
       {% if site.data.articles[slug].plural %}
-      <h3 id="what-do-{{ slug }}-do">What do {{ page.title }} do?</h3>
+      <h3 id="what-do-{{ in-headings | slugify }}-do">What do {{ in-headings }} do?</h3>
       {% else %}
-      <h3 id="what-does-{{ slug }}-do">What does {{ page.title }} do?</h3>
+      <h3 id="what-does-{{ in-headings | slugify }}-do">What does {{ in-headings }} do?</h3>
       {% endif %}
       <ul class="effects">
       {% for item in info.effects %}
@@ -45,7 +50,7 @@ layout: page
       </ul>
       {% assign slug = page.title | slugify %}
       {% if info.requirements %}
-      <h3 id="who-can-have-{{ slug }}">Who can have {{ page.title }}?</h3>
+      <h3 id="who-can-have-{{ in-headings | slugify }}">Who can have {{ in-headings }}?</h3>
       <ul class="requirements">
       {% assign reqs = info.requirements | where_exp: "item", "item.type" %}
       {% assign multis = info.requirements | where_exp: "item", "item.multi" %}

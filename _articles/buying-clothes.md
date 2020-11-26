@@ -1,12 +1,12 @@
 ---
-title: Buying clothes
+title: buying clothes
 weighting: 2
 feature:
   image: buying-clothes.jpg
   caption: "Three shop mannequins in a clothes store"
 ---
 
-### More information
+### How do I buy clothes?
 
 Making significant changes to your wardrobe can be intimidating! This article will talk about how to find your size, find clothing for you in that size, alter the size of clothes that are too big or small, customise things to better match your gender, and reduce your clothing costs.
 

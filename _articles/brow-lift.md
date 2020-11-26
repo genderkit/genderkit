@@ -1,12 +1,12 @@
 ---
-title: Brow lift
+title: brow lift
 weighting: 5
 feature:
   image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 
-### More information
+### What should I be aware of?
 
 Possible complications of a brow lift include:
 

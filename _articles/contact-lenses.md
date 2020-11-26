@@ -1,17 +1,20 @@
 ---
-title: "Contact lenses"
+title: "contact lenses"
 weighting: 3
 feature:
   image: contact-lenses.jpg
   caption: "A contact lens resting on a fingertip"
 ---
 
-### More information
+### How do I stay safe?
 
 {% capture warn %}
-Contact lenses require careful handling, storage and cleaning in order to prevent eye infections. You must follow the instructions given by your optometrist (optician). Always wash your hands before inserting or removing contact lenses but do not dry them with a towel.
+Contact lenses require careful handling, storage and cleaning in order to prevent eye infections.
 {% endcapture %}
 {% include warning warning=warn %}
+You must follow the instructions given by your optometrist (optician). Always wash your hands before inserting or removing contact lenses, but do not dry them with a towel.
+
+### What kinds are there?
 
 Contact lenses are available in several types:
 

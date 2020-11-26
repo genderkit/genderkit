@@ -1,16 +1,18 @@
 ---
-title: "Changing glasses frames"
+title: "changing glasses frames"
 weighting: 2
 feature:
   image: glasses-frames.jpg
   caption: "A pair of glasses"
 ---
 
-### More information
+### Why might I want to change my glasses frames?
 
 Your choice of glasses frames affects how your face shape is perceived. For example, you could choose frames to create the illusion that a "long" face is shorter, or you could choose an angular style to make your face look less rounded.
 
-It is possible to buy "clear" glasses that are not designed to correct vision, to be worn by people with no vision problems. You can purchase these online or in some high street fashion shops.
+Even if you don't have any problems with your vision, you can still take advantage of this with "clear" glasses that are not designed to correct vision. You can purchase these online or in some high street fashion shops.
+
+### How do I choose new glasses frames?
 
 Choosing glasses frames for yourself can be difficult. If you are trying on frames in a store, it can be helpful to take a friend with you for a second opinion.
 

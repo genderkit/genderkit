@@ -1,14 +1,16 @@
 ---
-title: Breast reduction
+title: breast reduction
 weighting: 5
 feature:
   image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 
-### More information
+### Are there other options?
 
-Breast reduction removes part of the breast tissue in order to reduce the size of the breasts. For complete removal of the breasts, see [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) and [double incision mastectomy]({% link _articles/double-incision-mastectomy.md %}).
+Breast reduction removes only part of the breast tissue in order to reduce the size of the breasts. For complete removal of the breasts, see [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) and [double incision mastectomy]({% link _articles/double-incision-mastectomy.md %}).
+
+For temporarily reducing the visibility of breasts, you could try [binding]({% link _articles/binding.md %}) or [disguising your body shape]({% link _articles/disguising-body-shape.md %}).
 
 ### Where can I learn more?
 

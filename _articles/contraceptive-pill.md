@@ -1,12 +1,12 @@
 ---
-title: "Contraceptive pill"
+title: "contraceptive pill"
 weighting: 2
 feature:
   image: contraceptive-pill.jpg
   caption: "A pill board of combined contraceptive pills"
 ---
 
-### More information
+### What should I be aware of?
 
 {% capture warn %}
 Testosterone and/or GnRH agonists do not provide reliable contraception for people with ovaries {% cite fsrh2017contraceptive %}. They do not prevent pregnancy effectively.
