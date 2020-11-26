@@ -9,13 +9,24 @@ feature:
 ### How do I stay safe?
 
 {% capture warn %}
-The health risks of binding are almost entirely unstudied and unknown, and are associated with a number of health problems. Research suggests you should take rest days where you do not bind as much as you can {% cite peitzmeier2017health %}. Do not use "home made" binders made from elastic bandages, duct tape and plastic wrap.
+The health risks of binding are almost entirely unstudied and unknown, and are associated with a number of health problems.
 {% endcapture %}
 {% include warning warning=warn %}
 
-### What should I be aware of?
+Use of a binder is almost always accompanied by some undesirable symptoms, most commonly back, chest or shoulder pain, overheating, shortness of breath, itching (possibly due to fungal skin infections {% cite deutsch2016guidelines -l 155 %}), and bad posture. Rarer but more serious effects of binder use include scarring, swelling, rib fractures and respiratory infections.
 
-Use of a binder is almost always accompanied by some undesirable symptoms, most commonly back, chest or shoulder pain, overheating, shortness of breath, itching (possibly due to fungal skin infections {% cite deutsch2016guidelines -l 155 %}), and bad posture. Rarer but more serious effects of binder use include scarring, swelling, rib fractures and respiratory infections. The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks.
+Here are some things you can do to reduce the risk {% cite binding101 peitzmeier2017health %}:
+- Make sure your binder is the right size
+- Avoid binding for more than eight hours in a day
+- Never sleep in your binder
+- Take rest days where you do not bind as much as you can
+- If you start to feel pain, especially chest pain, take off your binder
+- If you suspect something is wrong, see a doctor as soon as possible
+- Never use "home made" binders made from elastic bandages, duct tape or plastic wrap
+
+The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks.
+
+### What should I be aware of?
 
 Long-term binding for several years can effect skin elasticity, which increases the risk of complications if you wish to surgically remove your breasts with an operation like [double-incision]({% link _articles/double-incision-mastectomy.md %}) or [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) {% cite yelland2017 -l 260 %}.
 
