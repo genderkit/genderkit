@@ -13,7 +13,7 @@ Taking cyproterone without also taking another sex hormone (e.g. [oestrogen]({% 
 {% endcapture %}
 {% include warning warning=warn %}
 
-If you're taking cypropterone, you should also take at least a small dose of one of oestrogen or testosterone, to avoid osteoporosis. As with all hormones and hormone blockers, regular blood tests and monitoring are essential to spot any problems that arise.
+If you're taking cyproterone, you should also take at least a small dose of one of oestrogen or testosterone, to avoid osteoporosis. As with all hormones and hormone blockers, regular blood tests and monitoring are essential to spot any problems that arise.
 
 ### What should I be aware of?
 
