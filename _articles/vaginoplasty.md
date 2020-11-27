@@ -15,8 +15,6 @@ Failure to regularly dilate can result in prolapse, serious health complications
 {% endcapture %}
 {% include warning warning=warn %}
 
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
-
 ### What should I be aware of?
 
 The penis and scrotum are completely destroyed in the process of vaginoplasty, as the neovagina (artificially created vagina) is normally surgically constructed out of tissue that has been taken from the penis and/or scrotum.
@@ -31,28 +29,6 @@ It is possible to create the vulva (external part of the genitalia) without crea
 
 ### How do I get vaginoplasty?
 
-{% include list-of-surgeons %}
-
-Vaginoplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
-
-If tissue from the scrotum is to be used in the construction of the vagina, or if there is hair on the penile skin, hair removal using [electrolysis]({% link _articles/electrolysis.md %}) will be required before you can have surgery. This may take up to a year to complete {% cite selvaggi2017 -l 269 %}.
-
-A very common complication of vaginoplasty is *granulation tissue* forming inside the neovagina, which can be treated with silver nitrate. This can often be carried out by a GP or practice nurse.
-
-For some people, vaginoplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
-
-### How much will it cost?
-
-The cost of a vaginoplasty performed in the UK along with [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) is currently around £10000-15000 (last updated October 2020).
-
-If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for vaginoplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({% link _articles/labiaplasty.md %}). 
-
-{% include surgery-costs %}
-
-The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
-
-### More information
-
 To be eligible for vaginoplasty, you will normally need to meet the following conditions:
 
 - persistent and well-documented gender dysphoria
@@ -66,6 +42,30 @@ or is otherwise unable to take hormones)
 congruent with the gender identity {% cite cr181 %}.
 
 UK surgeons will normally expect that your BMI is below 30 before carrying out vaginoplasty.
+
+{% include list-of-surgeons %}
+
+Vaginoplasty is a major surgery and has a significant recovery time. You should expect to spend around 10 weeks time recovering before you are ready to resume work or study. When you are discharged from hospital, your surgeon should provide you with a sick note to give to your employer.
+
+If tissue from the scrotum is to be used in the construction of the vagina, or if there is hair on the penile skin, hair removal using [electrolysis]({% link _articles/electrolysis.md %}) will be required before you can have surgery. This may take up to a year to complete {% cite selvaggi2017 -l 269 %}.
+
+A very common complication of vaginoplasty is *granulation tissue* forming inside the neovagina, which can be treated with silver nitrate. This can often be carried out by a GP or practice nurse.
+
+For some people, vaginoplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
+
+### How do I get ready for surgery?
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+### How much will it cost?
+
+The cost of a vaginoplasty performed in the UK along with [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) is currently around £10000-15000 (last updated October 2020).
+
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for vaginoplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({% link _articles/labiaplasty.md %}). 
+
+{% include surgery-costs %}
+
+The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
 
 ### References
 
