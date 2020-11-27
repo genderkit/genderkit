@@ -1,6 +1,12 @@
 non-nhs:
  text: "This is not normally available on the NHS"
  icon: otherrestriction
+18+-strong:
+ text: "Under 18s cannot have this"
+ icon: age18
+not-pregnant:
+ text: "You cannot have this if you are pregnant"
+ icon: fertility
 18+:
  text: "You usually need to be at least 18"
  icon: age18

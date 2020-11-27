@@ -1,14 +1,18 @@
 ---
-title: Epilation
+title: epilation
 weighting: 2
 feature:
   image: epilating.jpg
   caption: "An epilator"
 ---
 
-### More information
+### What should I aware of?
 
-Epilation involves pain and discomfort, unlike [shaving]({% link _articles/shaving.md %}), but removes the whole hair including the root. This means that the hair takes longer to grow back.
+Epilation is generally a bit more painful than other methods of temporary hair removal.
+
+### Are there other options?
+
+[Shaving]({% link _articles/shaving.md %}) is less painful than epilation, but doesn't last as long. This is because epilation removes the whole hair including the root, so the hair takes longer to grow back.
 
 If there are only a few hairs on an area of skin, you may want to use tweezers to [pluck]({% link _articles/plucking.md %}) them individually instead.
 

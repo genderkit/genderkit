@@ -1,5 +1,5 @@
 ---
-title: Eyelash curling
+title: eyelash curling
 weighting: 2
 feature:
   image: eyelash-curler.jpg

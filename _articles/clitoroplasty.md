@@ -18,28 +18,9 @@ Clitoroplasty involves surgically constructing a neoclitoris (artificially creat
 
 The penis is completely destroyed in the process of creating the clitoris.
 
-### What kinds are there?
+### How do I get clitoroplasty?
 
-The most common technique for clitoroplasty is to use a small triangular piece of the dorsum (top side) of the glans penis, near to the corona (raised ring at the base of the glans). This is moved to the new position along with the neurovascular bundle (connecting tube of nerves and blood vessels) to supply it that would originally have run down the top edge of the penis.
-
-A variety of different variations on this basic technique exist, such as neourethroclitoroplasty (utilising urethral tissue as part of building the clitoris) {% cite trombetta2015technical %}, moving the remainder of the glans to between the urethra and neoclitoris for additional sensation {% cite selvaggi2011gender %}, and corona glans Clitoroplasty {% cite giraldo2004corona %}. There is no clear medical evidence about which techniques are most effective. You may wish to discuss the advantages and disadvantages of these techniques with your surgeon. 
-
-Historically, alternative techniques such as a free graft of the tip of the penis {% cite hage1994sculpturing %}, retention of the entire glans, or use of the ventral (bottom) side of the glans {% cite bellringer:2007 -l 213 %} have also been used, but these are now much less common.
-
-### Preparing for a surgical procedure
-
-Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
-
-### How much will it cost?
-
-A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
-
-If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}). 
 {% include list-of-surgeons %}
-
-{% include surgery-costs %}
-
-### More information
 
 In order to be eligible for clitoroplasty, you will normally need to meet the following conditions:
 
@@ -52,6 +33,26 @@ patient’s goals (unless the patient has medical contraindications
 or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is
 congruent with the gender identity {% cite cr181 %}.
+
+### What kinds are there?
+
+The most common technique for clitoroplasty is to use a small triangular piece of the dorsum (top side) of the glans penis, near to the corona (raised ring at the base of the glans). This is moved to the new position along with the neurovascular bundle (connecting tube of nerves and blood vessels) to supply it that would originally have run down the top edge of the penis.
+
+A variety of different variations on this basic technique exist, such as neourethroclitoroplasty (utilising urethral tissue as part of building the clitoris) {% cite trombetta2015technical %}, moving the remainder of the glans to between the urethra and neoclitoris for additional sensation {% cite selvaggi2011gender %}, and corona glans clitoroplasty {% cite giraldo2004corona %}. There is no clear medical evidence about which techniques are most effective. You may wish to discuss the advantages and disadvantages of these techniques with your surgeon. 
+
+Historically, alternative techniques such as a free graft of the tip of the penis {% cite hage1994sculpturing %}, retention of the entire glans, or use of the ventral (bottom) side of the glans {% cite bellringer:2007 -l 213 %} have also been used, but these are now much less common.
+
+### How do I get ready for surgery?
+
+Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+### How much will it cost?
+
+A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
+
+If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}). 
+
+{% include surgery-costs %}
 
 ### What else might I want?
 

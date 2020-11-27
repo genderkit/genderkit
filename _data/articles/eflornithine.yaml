@@ -5,3 +5,8 @@ effects:
   -
     category: "Facial hair"
     detail: "Slows growth"
+requirements:
+  -
+    type: 18+-strong
+  -
+    type: not-pregnant

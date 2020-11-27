@@ -1,14 +1,16 @@
 ---
-title: Disguising body shape
+title: disguising body shape
 weighting: 2
 feature:
   image: disguising-body-shape.jpg
   caption: "Silhouette of a person against a sunset"
 ---
 
-### More information
+### Why might I want to disguise my body shape?
 
 You might want to hide, minimise, emphasise, or enhance certain parts of your body shape in order to feel more comfortable. A variety of techniques can be used to alter the appearance of these areas.
+
+### How do I disguise my body shape?
 
 This is not a science, and not all techniques will work for everyone: there are no hard and fast rules in fashion. You can try these ideas to find out which work on your body, and use them as inspiration for finding more ideas unique to your personal style.
 

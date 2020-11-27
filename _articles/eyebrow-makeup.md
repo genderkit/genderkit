@@ -1,12 +1,12 @@
 ---
-title: Eyebrow makeup
+title: eyebrow makeup
 weighting: 1
 feature:
   image: eye-makeup.jpg
   caption: "A photograph of a person's eye area with makeup applied"
 ---
 
-### More information
+### How do I use eyebrow makeup?
 
 A number of makeup techniques can be used to make eyebrows appear darker, denser or thicker:
 
@@ -21,7 +21,7 @@ When you have finished wearing your makeup, for example when you want to go to s
 
 It is also possible to use eyebrow pencil or [permanent makeup]({% link _articles/permanent-makeup.md %}) to entirely replace the eyebrow after removing existing eyebrow hair.
 
-### Getting help and advice
+### Where can I learn more?
 
 Makeup can be appear complicated and intimidating at first.
 
