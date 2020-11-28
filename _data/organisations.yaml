@@ -195,10 +195,10 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 26
+        wait-first-appointment: 32
         nhs-funding: true
         referrals: true
-        updated: '2020-08-14'
+        updated: '2020-11-28'
         catchment: England GP only
     -
         heading: Leeds
