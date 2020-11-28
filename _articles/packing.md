@@ -1,21 +1,18 @@
 ---
-title: Packing
+title: packing
 weighting: 1
 feature:
   image: packing.jpg
   caption: "A rolled up sock, one method of making a DIY packer"
 ---
 
-### More information
+### How do I stay safe?
 
-Packing provides an easy way to make it look like you have a penis.
+If you are using a packer as part of sex, be aware that it may transfer sexually transmitted diseases from one partner to another. You may want to use a condom over the packer, or sterilise the packer between uses - but remember that only packers made from silicone can be sterilised.
 
-Multiple different kinds of packers are available, including:
+### How do I pack?
 
-- *DIY packers:* using home made packers such as rolled up socks, or condoms filled with hair gel or "gak".
-- *packers with built in STP:* these packers are designed with a built in funnel and tube that allows you to urinate out of them while standing ("standing to pee"). You can also buy devices to do this which are not used for packing, normally called [STP devices]({% link _articles/stp-devices.md %}).
-- *prosthetic packers:* these attach to your body using surgical glue so that they stay in place even when underwear is removed. More expensive models may be highly realistic and airbrushed to give a natural variation in colour.
-- *packers designed for use in penetrative sex:* packers which contain a bendable rod or which can be inflated.
+Packing provides an easy way to make it look like you have a penis. UK retailers of packers and harnesses are [Lovehoney](https://www.lovehoney.co.uk) and [Uberkinky](http://www.uberkinky.co.uk), who both advertise options for "discreet packaging". Outside the UK, specialist manufacturers of higher quality packers include [Transthetics](https://transthetics.com/).
 
 You may also need something to hold the packer in place:
 
@@ -27,14 +24,19 @@ You may also need something to hold the packer in place:
 
 Packers come in different sizes. Bear in mind that penises get bigger during arousal, so don't try and order a packer that has the length of an erect penis unless you want to look like you are in a permanent state of arousal.
 
-If you are using a packer as part of sex, be aware that it may transfer sexually transmitted diseases from one partner to another. You may want to use a condom over the packer, or sterilise the packer between uses - but remember that only packers made from silicone can be sterilised.
+### What kinds are there?
+
+Multiple different kinds of packers are available, including:
+
+- *DIY packers:* using home made packers such as rolled up socks, or condoms filled with hair gel or "gak".
+- *packers with built in STP:* these packers are designed with a built in funnel and tube that allows you to urinate out of them while standing ("standing to pee"). You can also buy devices to do this which are not used for packing, normally called [STP devices]({% link _articles/stp-devices.md %}).
+- *prosthetic packers:* these attach to your body using surgical glue so that they stay in place even when underwear is removed. More expensive models may be highly realistic and airbrushed to give a natural variation in colour.
+- *packers designed for use in penetrative sex:* packers which contain a bendable rod or which can be inflated.
 
 ### Are there other options?
 
-If you find that you are still unhappy when packing, there are more risky and permanent surgical options of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}).
+If you find that you are still unhappy when packing, there are the more risky and permanent surgical options of [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}).
 
 ### How much will it cost?
 
 Basic packers can cost as little as £15, but more realistic packers can cost much more.
-
-UK retailers of packers and harnesses are [Lovehoney](https://www.lovehoney.co.uk) and [Uberkinky](http://www.uberkinky.co.uk), who both advertise options for "discreet packaging". Outside the UK, specialist manufacturers of higher quality packers include [Transthetics](https://transthetics.com/).

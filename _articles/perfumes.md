@@ -1,11 +1,7 @@
 ---
-title: "Perfumes"
+title: "perfumes"
 weighting: 1
 ---
-
-### More information
-
-A variety of perfumes are available with different gendered associations.
 
 ### Are there other options?
 
