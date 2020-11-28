@@ -1,18 +1,16 @@
 ---
-title: Minoxidil
+title: minoxidil
 weighting: 3
 feature:
   image: minoxidil.jpg
   caption: "A diagram of the chemical structure of minoxidil"
 ---
 
-### More information
-
-Minoxidil comes as a liquid or foam that is applied to the scalp to slow hair loss. It is used to treat hair loss caused by testosterone.
-
-Minoxidil may take several months to start taking effect, and there may be an initial loss of hair in the first few weeks.
+### What should I be aware of?
 
 Minoxidil is not suitable for people who are sunburned or who have psoriasis or hypertension, as well as people taking certain medications. You should check with your doctor or pharmacist about whether Minoxidil is suitable for you {% cite minoxidil %}.
+
+Minoxidil may take several months to start taking effect, and there may be an initial loss of hair in the first few weeks.
 
 ### Are there other options?
 

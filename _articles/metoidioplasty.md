@@ -13,7 +13,7 @@ Metoidioplasty is a complex surgical procedure with significant risks that you m
 {% endcapture %}
 {% include warning warning=warn %}
 
-### Why might I want a metoidioplasty?
+### Why might I want metoidioplasty?
 
 The main effect of a metoidioplasty is to enlarge the apparent size of the clitoris. In a metoidioplasty, the clitoris is detached from the labia and the ligaments which hold the clitoris are cut. This "releases" the clitoris, adding 2-4cm in length and allows the clitoris to point upwards {% cite christopher2017 -l 296 %}.
 
@@ -21,7 +21,7 @@ If you wish to be able to urinate from the end of the clitoris, urethroplasty (c
 
 If you also wish to have a scrotum, you can optionally also have testicular implants added as part of a scrotoplasty that takes place at the same time as a metoidioplasty {% cite christopher2017 -l 297 %}.
 
-### How do I get a metoidioplasty?
+### How do I get metoidioplasty?
 
 Metoidioplasty first requires taking [testosterone]({% link _articles/testosterone.md %}) which causes hypertrophy (enlargement) of the clitoris. Once this has occurred (usually after 1-2 years into taking testosterone), metoidioplasty can be carried out {% cite frey2017update -l 732 %}. 
 

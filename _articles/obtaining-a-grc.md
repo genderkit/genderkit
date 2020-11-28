@@ -1,17 +1,19 @@
 ---
-title: Obtaining a GRC
+title: obtaining a GRC
 weighting: 4
 feature:
   image: obtaining-a-grc.jpg
   caption: "A picture of the application form for a GRC"
 ---
 
-### More information
+### What should I be aware of?
 
 {% capture warn %}
 If you are currently married or in a civil partnership, obtaining a GRC may annul your marriage or civil partnership. See below for more details.
 {% endcapture %}
 {% include warning warning=warn %}
+
+### Why might I want to obtain a Gender Recognition Certificate?
 
 The process of obtaining a *Gender Recognition Certificate* (GRC) allows you to change the gender listed on your birth certificate to either "female" or "male", provided you meet the requirements of the Gender Recognition Panel (GRP).
 
@@ -21,7 +23,19 @@ This has three main effects:
 - it may change whether you would be housed in a women's prison or a men's prison
 - it may affect your rights around pensions, particularly if you were born before 6th December 1953. 
 
+### Why might I not want to obtain a Gender Recognition Certificate?
+
 Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
+
+Obtaining a GRC can also have very important consequences for your legal status if you are currently married. In the event you are currently married, there are a complex set of rules around how you and your marriage are effected. UK Trans Info produced [a useful guide](http://web.archive.org/web/20180424042324/http://uktrans.info/graguide.pdf) that provides lots of information about this.
+
+### How much will it cost?
+
+It costs £140 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
+
+### How do I obtain a Gender Recognition Certificate?
+
+Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf).
 
 You cannot obtain a GRC unless you:
 
@@ -31,16 +45,6 @@ You cannot obtain a GRC unless you:
 - intend to live permanently in your acquired gender until death.
 
 More stringent requirements may be placed on you depending on the method by which you apply for a GRC.
-
-In the event you are currently married, there are a complex set of rules around how you and your marriage are effected. UK Trans Info  produced [a useful guide](http://web.archive.org/web/20180424042324/http://uktrans.info/graguide.pdf) that provides lots of information about this.
-
-### How much will it cost?
-
-It costs £140 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
-
-### How do I do it?
-
-Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf).
 
 Once you have obtained your GRC, it is important that you notify the following organisations:
 
