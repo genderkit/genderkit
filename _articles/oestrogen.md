@@ -53,7 +53,7 @@ When used in combination with an antiandrogen such as [GnRH agonists]({% link _a
 
 - *Changes in arousal*
 
-  Oestrogen and antiandrogen therapy can cause changes to sexual arousal, reducing frequency of spontaneous erections {% cite hembree2009endocrine %}, and sometimes making it difficult to maintain erections, and can signficantly reduce the amount of ejaculate over time down to little or none {% cite adeleye2019semen -l 138 %}.
+  Oestrogen and antiandrogen therapy can cause changes to sexual arousal, reducing frequency of spontaneous erections {% cite hembree2009endocrine %}, and sometimes making it difficult to maintain erections, and can significantly reduce the amount of ejaculate over time down to little or none {% cite adeleye2019semen -l 138 %}.
 
 - *Changes in libido*
 

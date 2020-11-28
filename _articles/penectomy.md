@@ -8,7 +8,7 @@ feature:
 
 ### What should I be aware of?
 
-A penectomy completely destroys the penis. After a penectomy has been carried out, there is no penile skin available for [vaginoplasty]({% link _articles/vaginoplasty.md %}), and a vaginoplasty will require using less common techniques such as sigmoid vaginoplasy that increase risks and reduce the quality of the result. 
+A penectomy completely destroys the penis. After a penectomy has been carried out, there is no penile skin available for [vaginoplasty]({% link _articles/vaginoplasty.md %}), and a vaginoplasty will require using less common techniques such as sigmoid vaginoplasty that increase risks and reduce the quality of the result. 
 
 ### How do I get a penectomy?
 
