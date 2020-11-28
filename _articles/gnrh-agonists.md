@@ -6,22 +6,21 @@ feature:
   caption: "A diagram of the chemical structure of Triptorelin"
 ---
 
-### What are the risks?
-
+### How do I stay safe?
 {% capture warn %}
 Taking GnRH agonists without also taking a sex hormone (e.g.
-[oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. If GnRH agonists are being used without an additional sex hormone, [DEXA (bone density) scans](https://www.nhs.uk/conditions/dexa-scan/) which measure bone mineral density may be needed {% cite murjan2017 -l 197 %}.
+[oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. 
 {% endcapture %}
 {% include warning warning=warn %}
+
+Taking a sex hormone along with GnRH agonists will avoid the risk of osteoporosis or early heart disease. If GnRH agonists are being used without an additional sex hormone, [DEXA (bone density) scans](https://www.nhs.uk/conditions/dexa-scan/) which measure bone mineral density may be needed {% cite murjan2017 -l 197 %}.
 
 {% capture warn %}
 GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptive %}. They do not remove the risk of making someone pregnant, and they do not remove the risk of becoming pregnant.
 {% endcapture %}
 {% include warning warning=warn %}
 
-GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
-
-### Do I need this?
+### Who might want GnRH agonists?
 
 - *If you have testes*, treatment with GnRH agonists will reduce your testosterone levels. GnRH agonists will cause an initial rise in testosterone levels for the first few weeks of use, which is sometimes stopped by a short course of [cyproterone]({% link _articles/cyproterone.md %}) {% cite seal:2007 -l 170 %}.
 
@@ -31,6 +30,14 @@ GnRH agonists may cause erectile dysfunction in people with penises. If this is 
 
 - *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are fully reversible {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on the [GIDS website](https://gids.nhs.uk/evidence-base).
 
+### Are there other options?
+
+Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproterone.md %}), [spironolactone]({% link _articles/spironolactone.md %}), and [anastrozole]({% link _articles/anastrozole.md %}). 
+
+While these options are cheaper, GnRH agonists are generally preferred by NHS clinicians, as GnRH agonists are considered to have an excellent side-effect profile with minimal side-effects compared to the other alternatives {% cite seal2017 -l 236 %}.
+
+{% include hrt-funding type="gnrh" %}
+
 ### What kinds are there?
 
 Commonly used GnRH agonists in the UK are Goserelin (Zoladex), Triptorelin (Decapeptyl) and Leuprorelin (Prostap). Certain clinicians also offer Buserelin (Suprecur/Suprefact) and Nafarelin (Synarel).
@@ -39,13 +46,11 @@ GnRH agonists are usually supplied as injections that are administered once ever
 
 Buserelin and Nafarelin are also available as a nasal spray that is administered twice daily {% cite buserelin nafarelin buserelin-nafarelin-ggp %}; this could be a good option if you have difficulty with needles, but these are not normally prescribed on the NHS, and you will still need to have regular blood tests.
 
-### Are there other options?
+### What else might I want?
 
-Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproterone.md %}), [spironolactone]({% link _articles/spironolactone.md %}), and [anastrozole]({% link _articles/anastrozole.md %}). 
+GnRH agonists are often used in conjunction with a sex hormone like [oestrogen]({% link _articles/oestrogen.md %}) or [testosterone]({% link _articles/testosterone.md %}).
 
-While these options are cheaper, GnRH agonists are generally preferred by NHS clinicians, as GnRH agonists are considered to have an excellent side-effect profile with minimal side-effects compared to the other alternatives {% cite seal2017 -l 236 %}.
-
-{% include hrt-funding type="gnrh" %}
+GnRH agonists may cause erectile dysfunction in people with penises. If this is not desired, it can be treated with [sildenafil]({% link _articles/sildenafil.md %}), [tadalafil]({% link _articles/tadalafil.md %}) or [vardenafil]({% link _articles/vardenafil.md %}).
 
 ### References
 

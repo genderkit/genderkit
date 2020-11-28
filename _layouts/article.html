@@ -67,9 +67,9 @@ layout: page
       {% endif %}
       {% if info.duration %}
         {% if site.data.articles[slug].plural %}
-        <h3 id="how-long-do-{{ slug }}-last">How long do {{ page.title }} last?</h3>
+        <h3 id="how-long-do-{{ in-headings | slugify }}-last">How long do {{ in-headings }} last?</h3>
         {% else %}
-        <h3 id="how-long-does-{{ slug }}-last">How long does {{ page.title }} last?</h3>
+        <h3 id="how-long-does-{{ in-headings | slugify }}-last">How long does {{ in-headings }} last?</h3>
         {% endif %}
         <p>{{ info.duration }}</p>
       {% endif %}
