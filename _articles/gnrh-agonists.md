@@ -28,7 +28,7 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 
 - *If you do not have gonads (ovaries and/or testes)*, you will not need to take GnRH agonists. This means that after [orchidectomy]({% link _articles/orchidectomy.md %}) or [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), there is no longer any need to use GnRH agonists.
 
-- *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are fully reversible {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on the [GIDS website](https://gids.nhs.uk/evidence-base).
+- *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are considered a fully reversible treatment {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on [the GIDS website](https://gids.nhs.uk/evidence-base).
 
 ### Are there other options?
 
