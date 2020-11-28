@@ -19,7 +19,7 @@ For your safety, it is wise to read the advice on choosing who will do the proce
 
 ### Where can I learn more?
 
-You can read more about Botox on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/botulinum-toxin-Botox-injections.aspx).
+You can read more about Botox on [the NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/botulinum-toxin-Botox-injections.aspx).
 
 ### References
 

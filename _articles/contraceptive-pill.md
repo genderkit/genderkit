@@ -20,9 +20,9 @@ Most contraceptives contain oestrogen which can interfere with [testosterone]({%
 
 ### Where can I learn more?
 
-You can read more about the combined contraceptive pill on the [NHS website](http://www.nhs.uk/conditions/contraception-guide/pages/combined-contraceptive-pill.aspx).
+You can read more about the combined contraceptive pill on [the NHS website](http://www.nhs.uk/conditions/contraception-guide/pages/combined-contraceptive-pill.aspx).
 
-You can find more information specifically for transgender and non-binary people on the [FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
+You can find more information specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
 
 ### References
 

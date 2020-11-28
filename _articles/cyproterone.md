@@ -49,7 +49,7 @@ Cyproterone may cause erectile dysfunction. If this is not desired, it can be tr
 
 ### Are there other options?
 
-In the UK GnRH (gonadotropin releasing hormone) agonists are generally prescribed instead, as they cause fewer side effects. These are described in more detail on the [GnRH agonists page]({% link _articles/gnrh-agonists.md %}).
+In the UK GnRH (gonadotropin releasing hormone) agonists are generally prescribed instead, as they cause fewer side effects. These are described in more detail on [the GnRH agonists page]({% link _articles/gnrh-agonists.md %}).
 
 ### More information
 

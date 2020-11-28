@@ -73,7 +73,7 @@ The NHS will normally fund total hysterectomy and [salpingo-oophorectomy]({% lin
 
 ### Where can I learn more?
 
-You can read more about hysterectomy on the [NHS website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
+You can read more about hysterectomy on [the NHS website](http://www.nhs.uk/conditions/Hysterectomy/Pages/Introduction.aspx).
 
 
 ### References

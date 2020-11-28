@@ -36,7 +36,7 @@ There a number of ways of performing breast augmentation using implants, with di
 - *implant shells*: smooth or textured surface 
 - *implant shape*: round or anatomical (teardrop) 
 
-There is detailed information on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx) which can help you understand these choices.
+There is detailed information on [the NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx) which can help you understand these choices.
 
 ### How do I get ready for surgery?
 
@@ -55,7 +55,7 @@ In the event that you believe an exception to the funding rules should be made i
 
 ### Where can I learn more?
 
-You can read more about breast augmentation on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
+You can read more about breast augmentation on [the NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
 
 ### References
 

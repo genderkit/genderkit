@@ -14,7 +14,7 @@ For temporarily reducing the visibility of breasts, you could try [binding]({% l
 
 ### Where can I learn more?
 
-You can read more about breast reduction, including information about costs, on the [NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/breast-reduction-female/).
+You can read more about breast reduction, including information about costs, on [the NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/breast-reduction-female/).
 
 ### Preparing for a surgical procedure
 

@@ -43,4 +43,4 @@ Regardless of whether you have an existing UK passport, you will need to send th
 
 ### Where can I learn more?
 
-You can read more about obtaining or renewing passports on the [HM Passport Office website](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251703/Applying_for_a_passport_additional_information.PDF).
+You can read more about obtaining or renewing passports on [the HM Passport Office website](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251703/Applying_for_a_passport_additional_information.PDF).

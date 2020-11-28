@@ -34,6 +34,47 @@ Whereever possible, try and use the following style:
 - Rather than saying "patients" say "you"
 - Rather than using brand names (e.g. Viagra) use the actual chemical name where possible, then add brand names in brackets afterwards if it will help the reader
 - If you can find any further information from NHS Choices, a government webpage, or a gender clinic, include the link at the bottom of the article. (TODO: should we have a special graphic style to highlight this?)
+- Links to external sources should be of the form "on [the XYZ website]" or "on [the XYZ page]"; note that the word "the" goes in the link. The only exception to this is if there is more than one link, such as "on the [ABC] and [XYZ] websites".
+
+Unless there is a good reason not to, articles should use headings from the following list, in order:
+- What is [name]?, What does [name] do?, Who can have [name]?, How long does [name] last?
+
+  Automatically generated from the data file for the article. If you need a different phrasing of [name] from the article title, you can specify that in the data file under "in-headings:". If you need the plural versions of these phrases (what are, what do, how long do) you can specify "plural: true" in the data.
+- How do I stay safe?
+
+  For safety advice. Anything that might go wrong that can be mitigated for in some way.
+- What should I be aware of?
+
+  For potential problems or contraindications, or if we're specifically advising against doing it. We should only advise against doing something if there are good alternatives to doing it and there are medical reasons to avoid it; it's not our place to decide whether people should want X or Y effect, only to help them find a safe way to achieve it.
+- Who might want [name]?
+
+  Different sorts of people who might want the thing, to help readers work out if it's relevant to them. Some articles make more sense in a pros/cons style, in which case we usually don't use this heading.
+- Why might I want [name]?
+
+  For pros in a pros/cons style article.
+- Why might I not want [name]?
+
+  For cons in a pros/cons style article.
+- Are there other options?
+
+  For alternative ways to achieve a similar result. 
+- How do I do/use/get [name]?
+
+  Instructions or advice on how to access or use a particular treatment or technique.
+- What kinds are there?
+
+  Discussion of the different types of whatever this thing is, if it comes in multiple variants.
+- How do I get ready for surgery?
+
+  How to prepare for surgery; usually will just contain the same text as in e.g. hysterectomy
+- More information
+
+  Further detail, scientific citations or anything else that's generally not essential info but may be of interest to some people.
+- What else might I want?
+
+  Other things you're likely to want if you're doing whatever the article is about.
+
+These headings are a rough guideline. Not all articles will have all of these headings, but it can be a good exercise to think about these things to make sure you've covered as much of the necessary information as possible. Try to avoid overly long sections; if you can come up with more headings to break up the page into more easily-digestible chunks, do so.
 
 ### Articles about chemical/medical/surgical interventions
 
