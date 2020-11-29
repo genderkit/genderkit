@@ -19,7 +19,7 @@ The main effect of a metoidioplasty is to enlarge the apparent size of the clito
 
 If you wish to be able to urinate from the end of the clitoris, urethroplasty (construction of an extension of the urethra) can also be performed along with metoidioplasty. This is an optional procedure - you may not have this procedure and continue urinating from your existing urethral opening if you want, though this would require continuing to sit to urinate or using a stand to pee device. Avoiding a urethroplasty reduces the risk of complications {% cite cr181 -l 30 %}.
 
-If you also wish to have a scrotum, you can optionally also have testicular implants added as part of a scrotoplasty that takes place at the same time as a metoidioplasty {% cite christopher2017 -l 297 %}.
+If you also wish to have a scrotum, you can optionally also have testicular implants added as part of a [scrotoplasty]({% link _articles/scrotoplasty.md %}) that takes place at the same time as a metoidioplasty {% cite christopher2017 -l 297 %}.
 
 ### How do I get metoidioplasty?
 
