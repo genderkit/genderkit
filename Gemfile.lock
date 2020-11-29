@@ -121,6 +121,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bibtex-ruby
   citeproc-ruby (~> 1.1.12)
   html-proofer
   jekyll (~> 4.0)

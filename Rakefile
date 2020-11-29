@@ -4,7 +4,7 @@ require 'rszr'
 
 task :default => ["test"]
 
-task :test => [:spellcheck, :htmlproofer] do
+task :test => [:checkbibtex, :spellcheck, :htmlproofer] do
   puts "Tests complete."
 end
 
@@ -32,6 +32,34 @@ end
 
 task :resize => [:resize240, :resize600] do
   puts "Tests complete."
+end
+
+desc "Make sure all bibtex entries have urls, that there are no duplicates, and count the number of doi-less articles and incollections"
+task :checkbibtex do
+  require 'bibtex'
+  b = BibTeX.open('_bibliography/references.bib')
+  bad_entries = b['@entry[url!~.*]']
+  bad_entries.each do |entry|
+    puts "Found entry without url: #{entry.key}"
+  end
+  if bad_entries.length > 0 then
+    exit 1
+  else
+    puts "No url-less bibtex entries found!"
+    puts
+  end
+  if b.duplicates? then
+    puts "Duplicate entries in bibtex found:"
+    puts b.duplicates.map { |ds| ds.map { |d| d.key }.to_s }
+    puts "Are these genuinely different?"
+    puts
+  end
+  doiless = b['@article[doi!~.*], @incollection[doi!~.*]']
+  if doiless.length > 0 then
+    puts "Articles and incollections without doi:"
+    puts doiless.map {|e| e.key}
+    puts "Can any of these be given dois?"
+  end
 end
 
 desc "Test for broken internal links"
