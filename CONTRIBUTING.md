@@ -22,7 +22,7 @@ Your work will appear on the credits page if you add an entry for yourself [to t
 
 Want to write some code? Please read [Local Development](https://github.com/genderkit/genderkit/wiki/Local-development) on the wiki for instructions on how to set up a local installation of the website for testing. If you're looking for some jobs to do, check out the [issues list](https://github.com/genderkit/genderkit/issues) for ideas.
 
-Continuous integration is done using [Travis CI](https://travis-ci.org/genderkit/genderkit). Broken links or spelling errors in the website will cause the build to fail!
+Continuous integration is done using GitHub Actions. Broken links or spelling errors in the website will cause the build to fail!
 
 ## Writing articles
 
