@@ -1,9 +1,9 @@
 ---
-title: Permanent eyelash curling
+title: permanent eyelash curling
 weighting: 3
 ---
 
-### More information
+### How do I get permanent eyelash curling?
 
 Permanent eyelash curling is performed in a beauty salon. A beautician applies a gel to the eyebrows which contains chemicals which are used to curl the eyelashes.
 

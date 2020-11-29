@@ -1,32 +1,35 @@
 ---
-title: Piercings
+title: piercings
 weighting: 3
 feature:
   image: piercing.jpg
   caption: "An ear with a lobe piercing"
 ---
 
-### More information
+### What should I be aware of?
+
+Common risks of piercings are infection and scarring. Some types of piercing carry higher risks than others. Other possible complications include migration (where a piercing moves from the place it was originally pierced) and rejection (where the piercing is expelled from the body completely).
+
+### How do I stay safe?
 
 {% capture warn %}
 Always have piercings performed by a professional. **Never** try and pierce yourself. There is a much higher risk of scarring or infection.
 {% endcapture %}
 {% include warning warning=warn %}
 
-{% capture warn %}
 Make sure the person who is performing the piercing has a piercing license that is clearly displayed in their establishment. This makes sure that the equipment and facilities being used are safe and hygienic. It is **illegal** to perform piercing without a licence.  
-{% endcapture %}
-{% include warning warning=warn %}
-
-Not all jewellery requires piercing to use. Alternatives include clip-on, magnetic, or stick-on earrings, ear cuffs, and 'fake' nose rings. You may want to try these first to find out how you feel about wearing jewellery.
-
-Most parts of the body can be pierced, but not all types of piercings are suitable for everyone. Ask for professional advice if you are considering having your body pierced.
 
 You may want to look for reviews or ask people you know for recommendations of places that will perform piercing.
 
-The time required for a piercing to heal will vary depending on the location of the piercing. A simple ear lobe piercing will normally take 6-8 weeks to heal properly.
+### Are there other options?
 
-Common risks of piercings are infection and scarring. Some types of piercing carry higher risks than others. Other possible complications include migration (where a piercing moves from the place it was originally pierced) and rejection (where the piercing is expelled from the body completely).
+Not all jewellery requires piercing to use. Alternatives include clip-on, magnetic, or stick-on earrings, ear cuffs, and 'fake' nose rings. You may want to try these first to find out how you feel about wearing jewellery.
+
+### How do I get piercings?
+
+Most parts of the body can be pierced, but not all types of piercings are suitable for everyone. Ask for professional advice if you are considering having your body pierced.
+
+The time required for a piercing to heal will vary depending on the location of the piercing. A simple ear lobe piercing will normally take 6-8 weeks to heal properly.
 
 While your piercing is healing, keep the area clean and dry, and make sure your hands are clean before you touch the area. It is not normally necessary to rotate or remove a piece of jewellery - try and handle it as little as possible, and touch the jewellery instead of the skin if you can {% cite cieh2013 -l 28 %}.
 
