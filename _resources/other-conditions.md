@@ -1,7 +1,7 @@
 ---
 layout: misc
-title: What does "reasonably well controlled" mean?
-desc: Describes what it means for other conditions to be "reasonably controlled"
+title: What does ''reasonably well controlled'' mean?
+description: Describes what it means for other conditions to be 'reasonably controlled'
 ---
 
 A phrase you might find often comes up in requirements is that other medical conditions should be "reasonably well-controlled". For example:
@@ -20,7 +20,7 @@ The meaning of this phrase is not clearly set out in any of the NHS documents th
 
   > Other medical conditions ... can be exacerbated by estrogen or androgen blockade, and therefore should be evaluated and reasonably well controlled prior to starting hormone therapy
 
-  for estrogen treatment, and
+  for oestrogen treatment, and
 
   > Co-morbid conditions likely to be exacerbated by testosterone use should be evaluated and treated, ideally prior to starting hormone therapy
 

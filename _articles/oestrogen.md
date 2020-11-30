@@ -71,7 +71,7 @@ When used in combination with an antiandrogen such as [GnRH agonists]({% link _a
 
 Oestrogen is commonly available in oral (pill or tablet) form, transdermal patches (patches that are stuck to the skin), gels applied to the skin, and as depot injections or implants {% cite seal2017 -l 237 %}.
 
-There are several different variants of oestrogen available. In the UK, oestrodiol valerate or oestrodiol hemihydrate are normally used, but cypionate or bezoate are also available and have a longer lasting effect. In the past, ethinylestradiol and conjugated equine oestrogens were used, but these are now avoided because they have a much higher risk of blood clots {% cite toorians2003venous %} and are not detectable in normal blood tests.
+There are several different variants of oestrogen available. In the UK, oestradiol valerate or oestradiol hemihydrate are normally used, but cypionate or bezoate are also available and have a longer lasting effect. In the past, ethinylestradiol and conjugated equine oestrogens were used, but these are now avoided because they have a much higher risk of blood clots {% cite toorians2003venous %} and are not detectable in normal blood tests.
 
 {% include hrt-funding type="feminising" %}
 
