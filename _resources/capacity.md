@@ -44,7 +44,7 @@ a short time, you meet this criterion.
 Unless there is significant evidence to show you don't meet these criteria, you
 are assumed to have capacity to consent.
 
-The Mental Capacity Act (2005) relates to adults aged 16 and older. However, the standard of *Gillick competence* means that the same criteria broadly apply to those under the age of 16 {% cite gillick %}.
+The Mental Capacity Act (2005) relates to adults aged 16 and older. However, the standard of *Gillick competence* means that the same criteria broadly apply to those under the age of 16 {% cite gillick %}, with the exception that the standard of proof is reversed. In other words, you are not automatically assumed to have capacity, but may have to prove it {% cite re-s-child-as-parent %}.
 
 If you're worried that your *capacity to consent might be denied*, you could consider
 bringing an advocate to medical appointments; this could be a friend or
