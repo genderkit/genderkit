@@ -6,13 +6,11 @@ feature:
   caption: "The logos of several UK exam boards"
 ---
 
-### More information
+### How do I update exam certificates?
 
 The process of amending details will vary depending on the type of qualification and who it was awarded by.
 
 Qualifications from schools and colleges are normally awarded by organisations called "examination boards". Some higher level qualifications are also awarded by exam boards. Degrees are normally awarded by a specific university.
-
-### Exam boards
 
 You will need to contact the correct exam board for the qualification to ask them to update your details. You can look at your exam certificates or transcripts to find out which one you need to contact. 
 
@@ -30,7 +28,7 @@ Each organisation has a different instructions, which they have published online
 
 In the past, other examination boards existed. If you need a  replacement certificates for a qualification awarded by one of those boards, there are instructions about who to contact on [the GOV.UK website](https://www.gov.uk/replacement-exam-certificate/if-your-old-exam-board-no-longer-exists).
 
-### Degrees
+### How do I update university degree certificates?
 
 For a degree you have previously been awarded by a university, you may wish to contact that university's Alumni Office. 
 

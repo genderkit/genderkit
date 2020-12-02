@@ -1,21 +1,14 @@
 ---
-title: Updating NHS patient details
+title: updating NHS patient details
 weighting: 3
 feature:
   image: updating-nhs-patient-details.jpg
   caption: "NHS logo closeup on computer screen"
 ---
 
-### More information
-
-{% capture warn %}
-Changing gender marker may affect whether you are invited to important medical screening tests that you still need. Read the whole of this page to ensure you still receive the correct tests.
-{% endcapture %}
-{% include warning warning=warn %}
+### How do I update my NHS patient details?
 
 You can change your name, title, or gender with the NHS at any time you like by telling your GP surgery. 
-
-### How do I request a change to my details?
 
 Most GP surgeries will be able to update your details if you ask at reception. However, some GP surgeries may be unsure of the procedure for how to do it. You may find it helpful to give them these links which explain how they can update your details:
 
@@ -36,7 +29,12 @@ In most NHS systems there are gender options for not only male and female, but o
 Usually, when you change your gender marker, you are also assigned a new [NHS number](
 http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). This means that records from before your change in gender marker are kept separately, to protect your privacy.
 
-### Screening tests
+### What should I be aware of?
+
+{% capture warn %}
+Changing gender marker may affect whether you are invited to important medical screening tests that you still need. Read the whole of this page to ensure you still receive the correct tests.
+{% endcapture %}
+{% include warning warning=warn %}
 
 During your life the NHS will invite you to a number of screening tests for common conditions. As the prevalence of these conditions is different for men and women, some tests only invite people who have "female" on their NHS record, and some tests only invite people who have "male" on their NHS record. This can mean people who have changed their gender marker can invited to the wrong tests for the body parts they have.
 
