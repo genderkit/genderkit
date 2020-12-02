@@ -2,8 +2,8 @@
 layout: misc
 title: Specialist UK gender clinics
 description: List of UK gender services including NHS and private clinics
-attention-title: Updated November 2020
-attention-text: This is the most recent information provided by each organisation by 2020-11-10.
+attention-title: Updated December 2020
+attention-text: This is the most recent information provided by each organisation by 2020-12-02.
 ---
 
 {% capture warn %}
