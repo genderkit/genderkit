@@ -181,8 +181,8 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 40
-        updated: '2020-08-14'
+        wait-first-appointment: 43
+        updated: '2020-12-02'
         referrals: true
         nhs-funding: true
         catchment: England GP only
@@ -233,7 +233,7 @@ organisations:
         heading: 'London TransPlus'
         name: TransPlus
         url: 'http://wearetransplus.co.uk/'
-        tags: [NHS, 'Gender Clinics', National]
+        tags: [NHS, 'Gender Clinics', National, London]
         manualDescription: 'NHS gender service based in London offering services to people who are already on an NHS clinic waiting list.'
         image: transplus
         age-range: 17+
@@ -243,6 +243,20 @@ organisations:
         custom-wait: Under *2* months
         updated: '2020-08-14'
         catchment: "Very limited access: [more info](http://wearetransplus.co.uk/faqs/)"
+    -
+        heading: 'Manchester'
+        nickname: Indigo
+        name: Indigo Gender Service
+        url: 'https://www.indigogenderservice.uk/'
+        tags: [NHS, 'Gender Clinics', National, Manchester]
+        manualDescription: 'NHS gender service based in Manchester offering services to people who are already on an NHS clinic waiting list.'
+        image: indigo
+        age-range: 17+
+        nhs-funding: true
+        referrals: true
+        publishes-wait: false
+        updated: '2020-12-02'
+        catchment: "Very limited access: [more info](https://www.indigogenderservice.uk/files/Patient%20FAQs%20V3%20-%2001.12.20.pdf)"
     -
         heading: 'London GIDS'
         nickname: Tavistock
