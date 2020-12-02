@@ -58,7 +58,10 @@ In the UK, some clinicians recommend that people taking testosterone long-term s
 
 For testosterone therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
-{% include hrt-funding type="masculinising" %}
+{% capture specifics %}
+If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy. Testosterone therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
+{% endcapture %}
+{% include hrt-funding specifics=specifics %}
 
 ### References
 
