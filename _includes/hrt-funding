@@ -7,7 +7,7 @@ If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md 
 <h3>Note</h3>
 <p>NHS policy on treatment of under-16s has been affected by recent High Court rulings, and is subject to change. This page will be updated regularly.</p>
 </section>
-GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}. Under-16s will require a 'best interests' court judgement to receive this treatment.
+GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}. Under-16s attending the GIDS clinic in England will require a 'best interests' court judgement to receive this treatment {% cite specEngDec20Update %}.
 {% elsif include.type=="masculinising" %}
 If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will normally provide testosterone therapy. Testosterone therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({% link _articles/gnrh-agonists.md %}) until the age of 18 when testosterone therapy can be commenced. Some services may additionally provide testosterone to selected 16 and 17 year old people {% cite gids2016 %}.
 {% endif %}
