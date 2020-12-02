@@ -74,6 +74,7 @@ standard-hrt-reqs:
 standard-blocker-reqs:
  - type: persistent-dysphoria
  - type: consent
- - type: parents-16
+ - type: 16+
+   detail: "As of December 2020, under 16s will need a 'best interests' court order"
  - type: tanner2
  - type: bmi-bd 

@@ -21,6 +21,10 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 {% include warning warning=warn %}
 
 ### Who might want GnRH agonists?
+<section class="agerestrictions">
+<h3>Note</h3>
+<p>NHS policy on treatment of under-16s has been affected by recent High Court rulings, and is subject to change. This page will be updated regularly.</p>
+</section>
 
 - *If you have testes*, treatment with GnRH agonists will reduce your testosterone levels. GnRH agonists will cause an initial rise in testosterone levels for the first few weeks of use, which is sometimes stopped by a short course of [cyproterone]({% link _articles/cyproterone.md %}) {% cite seal:2007 -l 170 %}.
 
@@ -30,6 +34,8 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 
 - *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are considered a fully reversible treatment {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on [the GIDS website](https://gids.nhs.uk/evidence-base).
 
+  Due to a recent high court ruling, under-16s will not receive this treatment from the NHS in England and Wales without a 'best interests' court order {% cite specEngDec20Update %}. It is likely that private clinics will adopt similar policies. You can find more information about 'best interests' court proceedings on the Something Or Other Website (TODO!!).
+
 ### Are there other options?
 
 Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproterone.md %}), [spironolactone]({% link _articles/spironolactone.md %}), and [anastrozole]({% link _articles/anastrozole.md %}). 
@@ -37,7 +43,7 @@ Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproteron
 While these options are cheaper, GnRH agonists are generally preferred by NHS clinicians, as GnRH agonists are considered to have an excellent side-effect profile with minimal side-effects compared to the other alternatives {% cite seal2017 -l 236 %}.
 
 {% capture specifics %}
-GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}.
+GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}. Under-16s attending the GIDS clinic in England will require a 'best interests' court judgement to receive this treatment {% cite specEngDec20Update %}.
 {% endcapture %}
 {% include hrt-funding specifics=specifics %}
 
