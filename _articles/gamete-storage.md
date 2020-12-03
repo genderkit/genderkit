@@ -8,7 +8,10 @@ feature:
 
 ### What should I be aware of?
 
+{% capture warn %}
 Storing gametes does not guarantee the ability to later have children. Use of stored gametes only sometimes results in pregnancy.
+{% endcapture %}
+{% include warning warning=warn %}
 
 ### Why might I want gamete storage?
 

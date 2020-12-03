@@ -60,7 +60,7 @@ Unless there is a good reason not to, articles should use headings from the foll
   For alternative ways to achieve a similar result. 
 - How do I do/use/get [name]?
 
-  Instructions or advice on how to access or use a particular treatment or technique.
+  Instructions or advice on how to access or use a particular treatment or technique. Any information about eligibility requirements will go here.
 - What kinds are there?
 
   Discussion of the different types of whatever this thing is, if it comes in multiple variants.

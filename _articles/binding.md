@@ -15,7 +15,7 @@ The health risks of binding are almost entirely unstudied and unknown, and are a
 
 Use of a binder is almost always accompanied by some undesirable symptoms, most commonly back, chest or shoulder pain, overheating, shortness of breath, itching (possibly due to fungal skin infections {% cite deutsch2016guidelines -l 155 %}), and bad posture. Rarer but more serious effects of binder use include scarring, swelling, rib fractures and respiratory infections.
 
-Here are some things you can do to reduce the risk {% cite binding101 peitzmeier2017health %}:
+Here are some things you can do that may reduce the risk {% cite binding101 peitzmeier2017health %}:
 - Make sure your binder is the right size
 - Avoid binding for more than eight hours in a day
 - Never sleep in your binder
