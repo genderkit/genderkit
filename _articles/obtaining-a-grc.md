@@ -13,7 +13,7 @@ If you are currently married or in a civil partnership, obtaining a GRC may annu
 {% endcapture %}
 {% include warning warning=warn %}
 
-### Why might I want to obtain a Gender Recognition Certificate?
+### Why might I want a Gender Recognition Certificate?
 
 The process of obtaining a *Gender Recognition Certificate* (GRC) allows you to change the gender listed on your birth certificate to either "female" or "male", provided you meet the requirements of the Gender Recognition Panel (GRP).
 
@@ -23,7 +23,7 @@ This has three main effects:
 - it may change whether you would be housed in a women's prison or a men's prison
 - it may affect your rights around pensions, particularly if you were born before 6th December 1953. 
 
-### Why might I not want to obtain a Gender Recognition Certificate?
+### Why might I not want a Gender Recognition Certificate?
 
 Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
 
