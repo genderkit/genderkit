@@ -1,6 +1,9 @@
 aka: [Oestrogen, Estrogen, Estradiol, 17β-estradiol]
 summary: "Hormone with many effects including fat redistribution, skin thinning and breast growth"
 duration: "Some of the effects of oestrogen (including breast growth) are permanent and start within 2-3 months. Changes may take several years to reach their full effect."
+seealso:
+  - text: "Oestrogen is a component in many hormone-based contraceptives"
+    link: "contraceptive pill"
 effects:
   - category: "Facial hair"
     detail: "Thins"

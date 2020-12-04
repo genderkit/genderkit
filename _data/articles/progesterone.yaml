@@ -1,6 +1,9 @@
 aka: [Progestins]
 summary: "Hormone sometimes used in conjunction with oestrogen therapy and also for stopping periods"
 duration: "Oral progesterone (pills) are taken as a daily dose; depot injections normally last around 12 weeks."
+seealso:
+  - text: "This can also be used for contraception"
+    link: "contraceptive pill"
 effects:
   - category: "Menstruation"
     detail: "Stops"
