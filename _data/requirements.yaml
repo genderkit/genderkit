@@ -1,3 +1,6 @@
+other-conditions-controlled:
+ text: "If you have significant medical conditions, these need to be [\"reasonably well-controlled\"](/resources/other-conditions)"
+ icon: otherrestriction 
 non-nhs:
  text: "This is not normally available on the NHS"
  icon: otherrestriction
@@ -59,21 +62,25 @@ persistent-dysphoria:
 standard-top-surgery-reqs:
  - type: persistent-dysphoria
  - type: consent
+ - type: other-conditions-controlled
  - type: 16-scot-17-uk
  - type: bmi-40
 standard-bottom-surgery-reqs:
  - type: 12-months-rle
  - type: 12-months-hrt
  - type: consent
+ - type: other-conditions-controlled
  - type: 16-scot-17-uk
  - type: bmi-30
 standard-hrt-reqs:
  - type: persistent-dysphoria
  - type: consent
+ - type: other-conditions-controlled
  - type: 16+
 standard-blocker-reqs:
  - type: persistent-dysphoria
  - type: consent
+ - type: other-conditions-controlled
  - type: 16+
    detail: "As of December 2020, under 16s will need a 'best interests' court order"
  - type: tanner2
