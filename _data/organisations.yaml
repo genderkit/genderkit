@@ -1111,12 +1111,6 @@ organisations:
         facebookId: '540358062757588'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12295482_762568620536530_2697439898572855865_n.jpg?oh=dd251f0be0adf5b0049eadf3efb92a15&oe=5AC7DA52'
     -
-        name: 'FORGE Binder Scheme'
-        url: 'https://forge-binder-scheme.myshopify.com/'
-        tags: [National, Transmasculine]
-        image: 768198799386869761
-        manualDescription: 'The Forge Binder Scheme is run by Forge, a social and support community group for trans men, transmasculine and AFAB non-binary adults in Greater Manchester. Although Forge is Manchester-based, we provide binders to people across the UK. Binders are offered for free to those who cannot otherwise get a binder. You will only have to cover shipping costs. You must be 18 or over to order a binder.'
-    -
         name: 'National Trans Police Association'
         url: 'http://www.ntpa.org.uk'
         archived: true
