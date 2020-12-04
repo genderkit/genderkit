@@ -74,7 +74,7 @@ Oestrogen is commonly available in oral (pill or tablet) form, transdermal patch
 There are several different variants of oestrogen available. In the UK, oestradiol valerate or oestradiol hemihydrate are normally used, but cypionate or bezoate are also available and have a longer lasting effect. In the past, ethinylestradiol and conjugated equine oestrogens were used, but these are now avoided because they have a much higher risk of blood clots {% cite toorians2003venous %} and are not detectable in normal blood tests.
 
 {% capture specifics %}
-If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will normally provide oestrogen therapy and treatment with GnRH agonists. Oestrogen therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced. Some services may additionally provide oestrogen to selected 16 and 17 year old people {% cite gids2016 %}.
+If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will normally provide funding for oestrogen therapy and treatment with GnRH agonists. Oestrogen therapy is not usually provided to under-18s on the NHS, with the effects of hormones during puberty being stopped by [GnRH agonists]({% link _articles/gnrh-agonists.md %}) until the age of 18 when oestrogen therapy can be commenced. Some services may additionally provide oestrogen to selected 16 and 17 year old people {% cite gids2016 %}.
 {% endcapture %}
 {% include hrt-funding specifics=specifics %}
 

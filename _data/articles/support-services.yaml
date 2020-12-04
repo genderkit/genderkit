@@ -2,3 +2,4 @@ summary: "Getting help and information from an organisation that provides suppor
 effects:
   - category: "Mood"
     detail: "Reduces anxiety and uncertainty"
+plural: true

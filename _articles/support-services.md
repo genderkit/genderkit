@@ -1,16 +1,16 @@
 ---
-title: Support services
+title: support services
 weighting: 1
 feature:
   image: support-services.jpg
   caption: "The hands of a person holding a phone and a cup of coffee"
 ---
 
-### More information
+### Why might I want to use support services?
 
 Changing things about your gender can bring up lots of questions and unexpected emotions. Often, it can be helpful to talk to other people and get their input.
 
-### Information and support services in the UK
+### How do I get support?
 
 In the UK, there are several specialist services available to provide you with information and support. If these services cannot help you themselves, they may be able to point you to other people who can help.
 
