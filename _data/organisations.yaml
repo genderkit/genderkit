@@ -420,12 +420,6 @@ organisations:
         tags: [NHS, Wales]
         image: nhs-wales
     -
-        name: 'Dysfforia Rhywedd Cymru / Gender Dysphoria Wales'
-        url: 'http://www.genderdysphoria.wales.nhs.uk/'
-        manualDescription: 'NHS Wales gender dysphoria online information hub'
-        tags: [NHS, Wales]
-        image: nhs-wales
-    -
         name: Born
         url: 'http://born.uk.com'
         twitter: Borntoturnheads
@@ -596,7 +590,7 @@ organisations:
         archived: true
     -
         name: Mermaids
-        url: 'http://www.mermaidsuk.org.uk/'
+        url: 'http://mermaidsuk.org.uk/'
         twitter: Mermaids_Gender
         facebook: MermaidsGender
         tags: [National, 'Under 18s', Families]
@@ -735,7 +729,7 @@ organisations:
         archived: true
     -
         name: 'Trans*Code'
-        url: 'http://trans-code.org'
+        url: 'https://www.trans.tech'
         twitter: trans_code
         tags: [National]
         twitterDescription: 'Bringing trans* folk & allies together for a hack day & community building. Founded in the UK by @NaomiCeder & @jesslynnrose'
@@ -1110,17 +1104,11 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c2.0.50.50/p50x50/11188372_630458937055125_2750861551117354694_n.jpg?oh=723d5ef900329f5af9a707902f955a2c&oe=5ACB89EA'
     -
         name: 'TAGS* Swimming'
-        url: 'http://www.tagswim.com/'
-        twitter: TAGS_swimming
         facebook: 540358062757588
         tags: [London, 'Sport and Fitness', 'Local groups']
         lastFacebookPost: '2017-12-01T15:08:20+0000'
         facebookDescription: 'We are starting a swimming group in London for trans and gender non-conforming peeps, first in Lewisham and in other areas  if need and interest exists.'
-        twitterDescription: 'Trans* and Gender Non-Conforming Swimming.We are at Fusion Pool Lewisham Every Friday and St George''s Shadwell every two weeks.'
-        lastTwitterPost: 'Sat Apr 18 14:14:08 +0000 2020'
         facebookId: '540358062757588'
-        twitterID: '2781158997'
-        twitterIcon: 'https://pbs.twimg.com/profile_images/514390878954463232/ywyv4o_S_normal.jpeg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12295482_762568620536530_2697439898572855865_n.jpg?oh=dd251f0be0adf5b0049eadf3efb92a15&oe=5AC7DA52'
     -
         name: 'FORGE Binder Scheme'
@@ -2703,7 +2691,7 @@ organisations:
     -
         name: 'Gabriel Jordan'
         tags: [Companies]
-        facebook: barbergabrieltherapies
+        facebook: themassagebarber
         twitterDescription: 'Barber & Massage Therapy service, Glasgow. Instagram: https://t.co/5SmzHbtbDi Email: barbergabriel@hotmail.com'
         lastTwitterPost: 'Tue Nov 26 14:35:55 +0000 2019'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1093889150259003395/dgvTe4L-_normal.jpg'

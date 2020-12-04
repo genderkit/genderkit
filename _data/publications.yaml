@@ -466,19 +466,12 @@ publications:
     tags: [Legal, Scotland, 'Legal information']
     uuid: cec64102-4822-46e9-af50-bfbecd9eb03b
   -
-    title: 'A Guide to Supporting Trans Children and Young People'
+    title: "Everyone's welcome — Gender Identity Guide"
     organisation: 'Action for Children'
-    year: 2016
-    url: 'https://www.actionforchildren.org.uk/media/6718/a-guide-to-supporting-trans-children-and-young-people.pdf'
+    year: 2020
+    url: 'https://mermaidsuk.org.uk/wp-content/uploads/2020/03/Gender-Identity-Guide-AFC.pdf'
     tags: ['Under 18s', Organisations]
     uuid: 97e150a4-ffd2-48bc-a59a-c48ed5a686be
-  -
-    title: 'A guide to supporting trans staff and volunteers'
-    organisation: 'Action for Children'
-    year: 2016
-    url: 'https://www.actionforchildren.org.uk/media/6717/a-guide-to-supporting-trans-staff-and-volunteers.pdf'
-    tags: [Organisations]
-    uuid: e95f44f1-8fb9-4b0e-b472-081bcffe87f7
   -
     title: 'What is transgender - Information Booklet for people with Learning Disabilities'
     organisation: 'Scottish Government'
@@ -988,7 +981,7 @@ publications:
     title: 'How Transgender People Experience the Media'
     organisation: 'Trans Media Watch'
     year: 2010
-    url: 'http://www.transmediawatch.org/Documents/How%20Transgender%20People%20Experience%20the%20Media.pdf'
+    url: 'http://transmediawatch.org/wp-content/uploads/2020/09/How-Transgender-People-Experience-the-Media.pdf'
     tags: [Studies, Media]
     uuid: bc34573b-2491-40d1-977d-1ba240877889
   -
@@ -2105,7 +2098,7 @@ publications:
     title: 'Trans Employee Experiences Survey'
     organisation: Totaljobs
     year: 2016
-    url: 'https://www.totaljobs.com/insidejob/wp-content/uploads/2016/04/160407_TJ_Trans_Report.pdf'
+    url: 'https://www.totaljobs.com/advice/wp-content/uploads/Transgender-employee-experiences-survey-report-2016_Totaljobs.pdf'
     tags: [Studies, Employment, 'National employment guidance']
     uuid: fdd9da9d-23fa-4d45-bac9-d991588bb814
   -
@@ -2605,10 +2598,10 @@ publications:
     tags: ['Medical policies', 'Local medical policies']
     uuid: 057deddf-8813-4614-a443-f3f139bf9ac6
   -
-    title: 'Findings from the Trans Sexual Health Survey 2018'
+    title: 'Findings from the Trans Sexual Health Survey 2017'
     organisation: 'LGBT Foundation'
     year: 2020
-    url: 'https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/dcec75ea-383f-4e54-bc27-5133f21d6e71/Trans%2520Sexual%2520Health%2520Survey.pdf'
+    url: 'https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/cc913a02-3651-4891-994c-e6eca04f2c50/Trans%2520Sexual%2520Health%2520Survey%2520Aug%25202020.pdf'
     tags: [Studies, England]
     uuid: 7efd0989-9772-4029-a597-82a479bf5c7d
   -

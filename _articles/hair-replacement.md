@@ -33,7 +33,7 @@ Funding for hair replacement varies by region:
 If no funding is available in your region, and you believe an exception to the funding rules should be made in your case, the following documents give information about to apply for this:
 
 - *England:* [Interim Commissioning Policy: Individual funding requests](https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2016/08/cp-03.pdf)
-- *Wales:* [Individual Patient Funding Requests: Frequently Asked Questions](http://www.wales.nhs.uk/sitesplus/863/page/55331)
+- *Wales:* [Patient guide to Individual Patient Funding Requests (IPFR)](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/AW%20IPFR%20Patient%20Leaflet%20%2D%20November%202019.pdf)
 - *Northern Ireland:* [HSCB ARRANGEMENTS FOR THE CONSIDERATION OF REQUESTS FOR CARE AND /OR TREATMENT ON BEHALF OF INDIVIDUAL PATIENTS](http://www.hscbusiness.hscni.net/pdf/Protocol_ECR_and__IFR_arrangements.pdf) 
 
 If you decide to pay yourself, costs can vary greatly depending on the size, type, and quality of the piece, with a short length machine wefted cap of synthetic hair costing as little as £50, while a quality hand tied lace fronted human hair cap may cost more than £2000. There a complex range of products, with particular advantages and drawbacks, and researching your options is wise. You will need to factor in the need to periodically replace the wig, which may be as often as 3-6 months with synthetic hair, up to 3-4 years for a quality human hair product {% cite camouflage2016 %}.

@@ -50,7 +50,7 @@ In the event that you believe an exception to the funding rules should be made i
 
 - *England:* [Interim Commissioning Policy: Individual funding requests](https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2016/08/cp-03.pdf)
 - *Scotland:* [Adult Exceptional Aesthetic Referral Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2011_27.pdf)
-- *Wales:* [Individual Patient Funding Requests: Frequently Asked Questions](http://www.wales.nhs.uk/sitesplus/863/page/55331)
+- *Wales:* [Patient guide to Individual Patient Funding Requests (IPFR)](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/AW%20IPFR%20Patient%20Leaflet%20%2D%20November%202019.pdf)
 - *Northern Ireland:* [HSCB ARRANGEMENTS FOR THE CONSIDERATION OF REQUESTS FOR CARE AND /OR TREATMENT ON BEHALF OF INDIVIDUAL PATIENTS](http://www.hscbusiness.hscni.net/pdf/Protocol_ECR_and__IFR_arrangements.pdf) 
 
 ### Where can I learn more?
