@@ -1,0 +1,4 @@
+{% capture warn %}
+The information on this page represents our best understanding of legislation and case law as laypeople. It is not a substitute for legal advice.
+{% endcapture %}
+{% include warning warning=warn %}

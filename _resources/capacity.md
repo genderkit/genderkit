@@ -4,6 +4,8 @@ title: Capacity to Consent
 description: A brief explanation of what it means to have capacity to consent
 ---
 
+{% include legal-disclaimer %}
+
 In order to access treatments, you usually need to have capacity to consent
 to those treatments. You will be assumed to have capacity, unless
 there is a reason to believe otherwise.  Conditions that might impair your
