@@ -14,6 +14,12 @@ We also have a page with detailed information about [how to access counselling](
 
 If you are finding you are struggling with mental health issues that continue over a longer period, it could help you to make an appointment to see your GP as they will be able to arrange for treatments like talking therapies or medication. 
 
+### Information for young people
+
+Mind have an [information hub](https://www.mind.org.uk/information-support/for-children-and-young-people/) for young people, with information about a range of issues.
+
+If you're a parent worried about your child's mental health, Young Minds have a [helpline](https://youngminds.org.uk/find-help/for-parents/parents-helpline/) specifically for parents.
+
 ### If you're worried about hurting yourself or other people
 
 If you think you are seeing or hearing things that aren't there, or you think you may harm someone around you, please read [this page on the NHS website](https://www.nhs.uk/conditions/psychosis/).
