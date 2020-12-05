@@ -21,6 +21,8 @@ Planned Parenthood Toronto have produced a collection of [queer sex ed resources
 
 LGBT Youth Scotland have a produced various [inclusive guides to sex and relationships](https://www.lgbtyouth.org.uk/resources/?topic=Sex).
 
+Transgender NI have a resource discussing the [sexual health of trans young people](https://transgenderni.org.uk/wp-content/uploads/2020/01/TYSHGuide-2019.pdf).
+
 ### Sexual health organisations for trans people
 
 {% include organisations tag="Sexual health" %}
