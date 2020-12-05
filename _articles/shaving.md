@@ -6,7 +6,7 @@ feature:
   caption: "A disposable safety razor"
 ---
 
-### How do I stay save?
+### How do I stay safe?
 
 {% capture warn %}
 Do not share razors with other people. 
