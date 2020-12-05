@@ -1,5 +1,6 @@
 aka: ["Stand-to-pee devices"]
 summary: "Using a specially made funnel or device to urinate while standing"
+plural: true
 effects:
   -
     category: "Lower body"

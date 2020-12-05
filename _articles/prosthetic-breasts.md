@@ -1,13 +1,13 @@
 ---
-title: Prosthetic breasts
+title: prosthetic breasts
 weighting: 1
 ---
 
-### More information
+### Who might want to use prosthetic breasts?
 
 Breast forms are commonly marketed to people who have had a mastectomy (breast removal) due to cancer, but they can be used by anyone. Breast forms may be designed to increase the size of existing breast tissue, or to be used by people who are entirely missing one or both both breasts.
 
-Breast forms are usually attached to the skin with adhesive.
+As some breast forms are attached to the skin with adhesive, many prosthetic breasts can be used when you are wearing little or not clothing.
 
 ### Are there other options?
 

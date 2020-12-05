@@ -1,5 +1,5 @@
 ---
-title: Tadalafil
+title: tadalafil
 weighting: 3
 feature:
   image: pills.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Rhinoplasty"
+title: "rhinoplasty"
 weighting: 5
 feature:
   image: surgeons.jpg

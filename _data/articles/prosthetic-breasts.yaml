@@ -1,6 +1,7 @@
 aka: ["Breast forms"]
-summary: "Attaching silicone breast forms to your chest using adhesive"
+summary: "Silicone breast forms placed on the chest to give the appearance of breasts"
 duration: "This is a temporary technique that works while the prosthetics are attached."
+plural: true
 effects:
   -
     category: "Upper body"

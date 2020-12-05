@@ -1,5 +1,5 @@
 ---
-title: Sildenafil
+title: sildenafil
 weighting: 3
 feature:
   image: pills.jpg

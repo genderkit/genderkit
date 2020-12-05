@@ -1,5 +1,5 @@
 ---
-title: Salpingo-oophorectomy
+title: salpingo-oophorectomy
 weighting: 5
 feature:
   image: surgeons.jpg
@@ -20,7 +20,7 @@ After salpingo-oophorectomy, you will need to take at least one sex hormone ([oe
 
 ### How do I get salpingo-oophorectomy?
 
-You will normally need to meet the following conditions to be eligible:
+You will normally need to meet the following conditions to be eligible for salpingo-oophorectomy:
 
 - persistent and well-documented gender dysphoria
 - capacity to make fully informed decisions and to consent to treatment

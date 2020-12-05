@@ -1,5 +1,5 @@
 ---
-title: Vardenafil
+title: vardenafil
 weighting: 3
 feature:
   image: pills.jpg
