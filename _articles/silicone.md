@@ -1,9 +1,9 @@
 ---
-title: "Silicone"
+title: "silicone"
 weighting: 5
 ---
 
-### More information
+### What should I be aware of?
 
 {% capture warn %}
 Silicone filler injections are extremely dangerous and can result in permanent disfigurement {% cite hage2001devastating %} or death {% cite clark2008subcutaneous %}. Do not attempt this.

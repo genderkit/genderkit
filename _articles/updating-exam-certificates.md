@@ -1,12 +1,12 @@
 ---
-title: Updating exam certificates
+title: updating exam certificates
 weighting: 3
 feature:
   image: exam-boards.jpg
   caption: "The logos of several UK exam boards"
 ---
 
-### How do I update exam certificates?
+### How do I update my exam certificates?
 
 The process of amending details will vary depending on the type of qualification and who it was awarded by.
 
@@ -22,7 +22,7 @@ Each organisation has a different instructions, which they have published online
 - *Edexcel*: is now owned by Pearson, see the link for Pearson below
 - *Eduqas*: [Replacement exam certificates](https://www.eduqas.co.uk/home/student-support/replacement-exam-certificates/) (look under the "Amendments to Certificates" tab)
 - *OCR*: [Gender reassignment](https://www.ocr.org.uk/students/replacement-certificates/gender-reassignment/)
-- *Pearson*: [Certificated services: amendment to original](https://qualifications.pearson.com/en/support/Services/certificate-services/amendment-to-original.html)
+- *Pearson*: [Certificate services: replacement documents](https://qualifications.pearson.com/en/support/Services/certificate-services/replacement-documents.html) (look under "Amendment to an original")
 - *SQA*: [Updating personal information — guidance for transgender learners](https://www.sqa.org.uk/sqa/75545.html)
 - *WJEC/CBAC*: [Need a replacement certificate?](https://www.wjec.co.uk/home/student-support/replacement-exam-certificates) (look under the "Amendments to Certificates" tab)
 
