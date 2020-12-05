@@ -14,7 +14,7 @@ If you were born or adopted in Scotland, registering a change of name will allow
 
 As registering a name change causes information about your name change to become publicly available, most people do not decide to register their change of name, and you are not required to do so.
 
-### How do I do it?
+### How do I register a name change?
 
 If you want to officially register your change of name:
 

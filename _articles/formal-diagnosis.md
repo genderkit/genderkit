@@ -32,7 +32,7 @@ Here are some reasons you might want a diagnosis:
 
    However, you should keep in mind that the lack of a diagnosis does not imply that you aren't "really" trans.
 
-### Why might I *not* want a diagnosis?
+### Why might I not want a diagnosis?
 
 -  *You find it pathologising*
 

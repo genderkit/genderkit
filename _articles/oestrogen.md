@@ -67,7 +67,7 @@ When used in combination with an antiandrogen such as [GnRH agonists]({% link _a
 
   Oestrogen and antiandrogen therapy can reduce sperm quality {% cite adeleye2019semen -l 138 %} and may eventually cause infertility. 
 
-### What kinds of oestrogen are there?
+### What kinds are there?
 
 Oestrogen is commonly available in oral (pill or tablet) form, transdermal patches (patches that are stuck to the skin), gels applied to the skin, and as depot injections or implants {% cite seal2017 -l 237 %}.
 

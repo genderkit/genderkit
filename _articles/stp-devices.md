@@ -18,7 +18,7 @@ It is also possible to buy STP devices that are designed to resemble a penis.
 
 You can also buy [packers]({% link _articles/packing.md %}) (devices placed in your underwear to create a bulge in your crotch) that contain a built in STP device to allow you to urinate through them.
 
-### How much will this cost?
+### How much will it cost?
 
 Basic STP devices can cost around £5-15. More complex devices (for example, built into a packer or prosthetic) can cost significantly more. 
 

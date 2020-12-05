@@ -12,7 +12,7 @@ There are only a small number of studies of the effects of alfatradiol on hair l
 
 In the UK, the more proven options of [minoxidil]({% link _articles/minoxidil.md %}) and [finasteride]({% link _articles/finasteride.md %}) are used instead.
 
-### How much will alfatradiol cost?
+### How much will it cost?
 
 Alfatradiol treatment is not funded by the NHS.
 

@@ -6,7 +6,7 @@ feature:
   caption: "A bottle of sunscreen"
 ---
 
-### What should I know?
+### What should I be aware of?
 
 {% capture warn %}
 There is no safe or healthy way to get a tan from sunlight, according to the  National Institute for Health and Care Excellence {% cite nice-sunlight %}.

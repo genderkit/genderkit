@@ -6,7 +6,7 @@ feature:
   caption: "An epilator"
 ---
 
-### What should I aware of?
+### What should I be aware of?
 
 Epilation is generally a bit more painful than other methods of temporary hair removal.
 

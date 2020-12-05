@@ -6,7 +6,7 @@ feature:
   caption: "A laser hair reduction machine"
 ---
 
-### How can I stay safe?
+### How do I stay safe?
 
 Remember to check the official inspection reports for your laser clinic before you attend to check that that their staff are properly trained and work safely:
 

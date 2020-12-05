@@ -14,7 +14,8 @@ The chemicals involved in hair colouring may cause an allergic reaction. This is
 {% include warning warning=warn %}
 It is important to always perform a patch test first by using the chemicals on a small area 48 hours before applying it to the rest of your hair. This is especially important if you have ever had a black henna tattoo, [as you may be at risk of death](http://www.nhs.uk/Conditions/hair-dye-allergy/Pages/Introduction.aspx).
 
-### Are there any alternatives?
+### Are there other options?
+
 Another way to change your hair colour is to wear a [wig]({% link _articles/hair-replacement.md %}).
 
 If you only want to change parts of your hair, see [hair patterning]({% link _articles/hair-patterning.md %}).
