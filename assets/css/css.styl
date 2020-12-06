@@ -16,6 +16,17 @@ $bold-weight = 600
 // Normalize
 @import "assets/css/normalize"
 
+.accordion-button
+  all inherit
+
+.accordion-button[aria-expanded="true"]
+.accordion-button[aria-expanded="false"]
+
+// Use bold rather than italics
+em
+  font-style normal
+  font-weight 600
+
 // Basic utility classes
 .hidden
   display none

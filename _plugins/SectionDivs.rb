@@ -16,7 +16,17 @@ module Jekyll
               div = html_doc.create_element "div"
               div.children=current_section
               elem.add_previous_sibling(div)
+              div['aria-labelledby']=last_heading['id'] << "-button"
+              div['id']=last_heading['id'] << "-panel"
             end
+            elem['class']='accordion-heading'
+            button = html_doc.create_element "button"
+            button.children = elem.children
+            elem.children = button
+            button['id']=elem['id'] << "-button"
+            button['aria-expanded']="true"
+            button['aria-controls']=elem['id'] << "-panel"
+            button['class']="accordion-button"
             last_heading=elem
             current_section = Nokogiri::XML::NodeSet.new(html_doc)
           else
@@ -26,6 +36,8 @@ module Jekyll
         div = html_doc.create_element "div"
         div.children=current_section
         last_heading.add_next_sibling(div)
+        div['aria-labelledby']=last_heading['id']
+        div['id']=last_heading['id'] << "-panel"
         doc.output = html_doc.to_html
       end
     end
