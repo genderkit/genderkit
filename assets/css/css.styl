@@ -26,7 +26,7 @@ $bold-weight = 600
      margin-right 0.4em
      &::before
        content '»'
- 
+
 // Use bold rather than italics
 em
   font-style normal
@@ -647,3 +647,7 @@ figcaption
 figure img
   width 100vw
   height 75vw
+
+.accordion-panel-closed
+  *:not(.warning,.warning *)
+    display none

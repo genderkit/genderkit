@@ -18,6 +18,7 @@ module Jekyll
               elem.add_previous_sibling(div)
               div['aria-labelledby']=last_heading['id'] << "-button"
               div['id']=last_heading['id'] << "-panel"
+              div['class']='accordion-panel'
             end
             elem['class']='accordion-heading'
             button = html_doc.create_element "button"
@@ -41,6 +42,7 @@ module Jekyll
         last_heading.add_next_sibling(div)
         div['aria-labelledby']=last_heading['id']
         div['id']=last_heading['id'] << "-panel"
+        div['class']='accordion-panel-open'
         doc.output = html_doc.to_html
       end
     end

@@ -4,6 +4,10 @@ Array.prototype.forEach.call(accordionHeaders, accordionHeader => {
   accordionHeader.onclick = () => {
     let expanded = accordionHeader.getAttribute('aria-expanded') === 'true' || false;
     accordionHeader.setAttribute('aria-expanded', !expanded);
-    target.hidden = expanded;
+    if(expanded) {
+      target.className = "accordion-panel-closed";
+    } else {
+      target.className = "accordion-panel-open";
+    }
   }
 })
