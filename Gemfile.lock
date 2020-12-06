@@ -128,6 +128,7 @@ DEPENDENCIES
   jekyll-commonmark-ghpages
   jekyll-last-modified-at (~> 1.1.0)
   jekyll-scholar (~> 6.6.0)
+  nokogiri
   rake
   rszr
   stylus
