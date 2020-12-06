@@ -21,7 +21,10 @@ module Jekyll
             end
             elem['class']='accordion-heading'
             button = html_doc.create_element "button"
-            button.children = elem.children
+            status = html_doc.create_element "span"
+            status['class']="status"
+            button.children = status
+            button.children += elem.children
             elem.children = button
             button['id']=elem['id'] << "-button"
             button['aria-expanded']="true"

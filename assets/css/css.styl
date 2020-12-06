@@ -18,10 +18,15 @@ $bold-weight = 600
 
 .accordion-button
   all inherit
-
-.accordion-button[aria-expanded="true"]
-.accordion-button[aria-expanded="false"]
-
+  &[aria-expanded="true"]
+    .status
+      transform rotate(90deg)
+  .status
+     display inline-block
+     margin-right 0.4em
+     &::before
+       content '»'
+ 
 // Use bold rather than italics
 em
   font-style normal
