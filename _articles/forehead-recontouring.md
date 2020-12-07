@@ -12,7 +12,7 @@ Possible complications of forehead recontouring include alopecia (hair loss), bo
 
 To ensure you are receiving the safest possible treatment, you should follow [this advice from the Care Quality Commission](http://www.cqc.org.uk/help-advice/help-choosing-care-services/choosing-cosmetic-surgery) on how to choose cosmetic surgery.
 
-### More information
+### How does it work?
 
 Forehead recontouring involves changing the shape of the bones of the skull. This can often be achieved by opening the forehead and shaving down the bone. In some cases, it is necessary to cut out a section of bone, trim it, and replace it in a new position using titanium plates or screws.
 

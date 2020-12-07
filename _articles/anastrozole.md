@@ -15,9 +15,10 @@ anastrozole %} or stop menstruation.
 ### Why might I not want anastrozole?
 As anastrozole can have a number of side effects, in the UK [GnRH agonists]({% link _articles/gnrh-agonists.md %}) are usually used to stop the production of oestrogen instead.
 
-### More information
+### How does it work?
 
 The human body naturally converts excess testosterone into oestrogen. Anastrozole works by stopping "aromatase", a chemical that the body uses as part of this process. 
+
 ### References
 
 {% bibliography --cited %}

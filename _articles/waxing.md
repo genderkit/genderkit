@@ -6,11 +6,11 @@ feature:
   caption: "A picture of a person having eyebrow hair removed using wax"
 ---
 
-### More information
+### Why might I want waxing?
 
 Waxing can be used to remove hair from many parts of the body, most commonly to remove leg hair and to reshape eyebrows. Eyebrows are often waxed to remove stray hairs that are separate from the main eyebrow, to reshape the eyebrows or make them thinner, or to remove hair from the bottom to make the eyebrows look higher up on the face.
 
-### How do I do waxing?
+### How do I wax?
 
 Waxing can be carried out using an at home kit bought from a supermarket or chemists, or by a professional beautician in a beauty salon. Some salons may offer a similar technique called sugaring, which replaces the wax with a sticky paste. Waxing can only be carried out when a certain length of hair has regrown above the surface {% cite wanitphakdeedecha2008physical %}.
 

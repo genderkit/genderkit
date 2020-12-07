@@ -1,18 +1,18 @@
 ---
-title: Telling organisations
+title: telling organisations
 weighting: 3
 feature:
   image: telling-organisations.jpg
   caption: "An online form for changing name and title"
 ---
 
-### More information
+### Who should I tell?
 
 We've created a checklist of places you might want to notify of a change of names, pronouns or title.
 
 {% include checklist checklist=telling-organisations %}
 
-### Birth certificates
+### How do I update my birth certificate?
 
 You may wish to update your name or gender on your birth, marriage, or civil partnership certificates. 
 

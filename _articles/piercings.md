@@ -21,6 +21,23 @@ Make sure the person who is performing the piercing has a piercing license that 
 
 You may want to look for reviews or ask people you know for recommendations of places that will perform piercing.
 
+{% capture warn %}
+If your piercing becomes infected, immediately seek medical attention. 
+{% endcapture %}
+{% include warning warning=warn %}
+
+Signs of infection are are:
+
+- significant redness around the piercing 
+- pus or green or yellow fluid
+- bleeding that isn't stopped by light pressure
+- an odd smell
+- lots of swelling
+- a high temperature (fever)
+- not wanting to or being able to move arms, legs, fingers, or another part of the body
+
+If you are experiencing these symptoms, immediately seek medical attention {% cite cieh2013 -l 29 %}. If left untreated an infection could lead to abscesses or in more serious cases sepsis (blood poisoning) or toxic shock syndrome. 
+
 ### Are there other options?
 
 Not all jewellery requires piercing to use. Alternatives include clip-on, magnetic, or stick-on earrings, ear cuffs, and 'fake' nose rings. You may want to try these first to find out how you feel about wearing jewellery.
@@ -41,18 +58,6 @@ Public Health England and the Chartered Institute of Environmental Health have p
 - [vulva piercings](https://www.cieh.org/media/1977/tattoo-toolkit_part-c_05-genital-piercing-female-aftercare.pdf)
 - [penis and scrotum piercings](https://www.cieh.org/media/1978/tattoo-toolkit_part-c_06-genital-piercing-male-aftercare.pdf)
 - [microdermal implants](https://www.cieh.org/media/1979/tattoo-toolkit_part-c_07-microdermal-implants-aftercare.pdf)
-
-If your piercing becomes infected, you should immediately seek medical attention. Signs of infection are are:
-
-- significant redness around the piercing 
-- pus or green or yellow fluid
-- bleeding that isn't stopped by light pressure
-- an odd smell
-- lots of swelling
-- a high temperature (fever)
-- not wanting to or being able to move arms, legs, fingers, or another part of the body
-
-If you are experiencing these symptoms, immediately seek medical attention {% cite cieh2013 -l 29 %}. If left untreated an infection could lead to abscesses or in more serious cases sepsis (blood poisoning) or toxic shock syndrome. 
 
 ### Where can I learn more?
 

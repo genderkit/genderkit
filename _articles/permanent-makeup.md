@@ -1,5 +1,5 @@
 ---
-title: Permanent makeup
+title: permanent makeup
 weighting: 4
 ---
 

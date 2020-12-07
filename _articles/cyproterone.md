@@ -49,13 +49,11 @@ Cyproterone may cause erectile dysfunction. If this is not desired, it can be tr
 
 ### Are there other options?
 
-In the UK GnRH (gonadotropin releasing hormone) agonists are generally prescribed instead, as they cause fewer side effects. These are described in more detail on [the GnRH agonists page]({% link _articles/gnrh-agonists.md %}).
+In the UK GnRH (gonadotropin releasing hormone) agonists are generally prescribed instead, as they cause fewer side effects. These are described in more detail on [the GnRH agonists page]({% link _articles/gnrh-agonists.md %}). In some cases, a short course of cyproterone is used in patients with testes receiving treatment with GnRH agonists to reduce the effects of the initial spike in testosterone levels caused by these medications {% cite seal:2007 -l 170 %}.
 
-### More information
+### How does it work?
 
 Cyproterone acetate (Androcur) is a drug that reduces the amount that the body reacts to testosterone. It also reduces levels of the hormones that cause the body to produce testosterone {% cite seal2017 -l 235 %}.
-
-In some cases, a short course of cyproterone is used in patients with testes receiving treatment with GnRH agonists to reduce the effects of the initial spike in testosterone levels caused by these medications {% cite seal:2007 -l 170 %}.
 
 ### References
 

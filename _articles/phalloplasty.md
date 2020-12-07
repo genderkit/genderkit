@@ -19,9 +19,23 @@ Phalloplasty involves a degree of risk. UK surgeons have reported a 3% rate of p
 
 For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
-### Are there other options?
+### Why might I not want phalloplasty?
 
-An alternative option to phalloplasty is [metoidioplasty]({% link _articles/metoidioplasty.md %}). Phalloplasty usually creates an average sized penis, compared to the much smaller (5-7cm length) results of metoidioplasty. However, as metoidioplasty uses only clitoral tissue, it will usually provide an organ with good erogenous sensation which can become erect without the use of prostheses. Metoidioplasty also often requires less surgeries, less time in hospital, and less scarring. 
+There are a number of reasons you might wish to not have a phalloplasty:
+
+- you do not experience dysphoria related to your genitals
+- you feel that the risks involved in a major surgery are not worth it
+- you do not wish to have multiple surgeries and recoveries over an extended period
+- you do not like the long term effects such as donor site scarring
+- you do not feel you would be happy with the surgical results
+
+Many people choose [metoidioplasty]({% link _articles/metoidioplasty.md %}) instead of phalloplasty because:
+
+- it will usually provide an organ with good erogenous sensation
+- it provides results that can become erect without the use of prostheses
+- it often requires less surgeries, less time in hospital, and less scarring
+
+A disadvantage of metoidioplasty is that unlike phalloplasty, which usually creates an average sized penis, metoidioplasty results are much smaller (5-7cm length).
 
 ### How do I get phalloplasty?
 

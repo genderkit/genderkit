@@ -21,7 +21,7 @@ Some depilatory products designed for use on facial hair are available, usually 
 
 Depilatory creams can be bought in supermarkets and chemists and normally cost between £2 and £6.
 
-### More information
+### How does it work?
 
 Depilatory creams contain chemicals (normally thioglycolate) which weaken the proteins in hair, making it weak. Once the cream has been applied and left for a short time, the hair can then be easily scraped off using a plastic scraper.
 

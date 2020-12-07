@@ -1,5 +1,5 @@
 ---
-title: "Toiletries"
+title: "toiletries"
 weighting: 1
 feature:
   image: toiletries.jpg
