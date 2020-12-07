@@ -11,3 +11,6 @@ Array.prototype.forEach.call(accordionHeaders, accordionHeader => {
     }
   }
 })
+if(window.innerWidth < 620) {
+  Array.prototype.forEach.call(accordionHeaders, accordionHeader => accordionHeader.onclick());
+}

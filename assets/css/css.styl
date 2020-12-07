@@ -649,5 +649,9 @@ figure img
   height 75vw
 
 .accordion-panel-closed
-  *:not(.warning,.warning *)
+  > *:not(.warning)
     display none
+  > .warning
+    margin-left 3rem
+    p
+      font-size small
