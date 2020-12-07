@@ -2,8 +2,6 @@ abort('Please run this using `bundle exec rake`') unless ENV["BUNDLE_BIN_PATH"]
 require 'html-proofer'
 require 'rszr'
 
-require './SectionDivs.rb'
-
 task :default => ["test"]
 
 task :test => [:checkbibtex, :spellcheck, :htmlproofer] do
