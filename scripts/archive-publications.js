@@ -8,7 +8,7 @@ var database = {};
 
 var myArgs = process.argv.slice(2);
 
-fs.readFile('/vagrant/git/genderkit/_data/publications.yaml', 'utf8', function (err,filedata) {
+fs.readFile('/vagrant/git/genderkit/_data/publications.yml', 'utf8', function (err,filedata) {
 	database = yaml.parse(filedata);
 
 	console.log("Loaded data.");

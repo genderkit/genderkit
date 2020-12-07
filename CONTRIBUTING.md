@@ -8,15 +8,15 @@ First, something really important:
 
 Here's how to do some common things:
 
-- to add a new organisation to the organisations list, edit the _data/organisations.yaml file.
-- to add a new organisation to the publications list, edit the _data/publications.yaml file.
+- to add a new organisation to the organisations list, edit the _data/organisations.yml file.
+- to add a new organisation to the publications list, edit the _data/publications.yml file.
 - if you want to change the "What effects does it have?", "What is it?" or "How long does it last?" sections of an article, look in _data/articles/ for a file with the same name as the article - that's where you find that stuff.
 
 If you need help, message us on Twitter or Facebook and we can help get you started. We'd be really excited to hear from you!
 
 ### How do I get my hard work credited?
 
-Your work will appear on the credits page if you add an entry for yourself [to this file](https://github.com/genderkit/genderkit/blob/master/_data/credits.yaml).
+Your work will appear on the credits page if you add an entry for yourself [to this file](https://github.com/genderkit/genderkit/blob/master/_data/credits.yml).
 
 ### I can code - how do I do development for the site?
 
@@ -90,15 +90,15 @@ The following should be in the frontmatter (the stuff between the --- and the --
 - Page title (the main name it is called by. This should start with a captial letter but have no other capitals)
 - Page illustration - Pictures must have a public domain license, and ideally you should have taken the picture yourself. If you are not sure, ask in the Telegram channel. Do not use pictures found on a normal Google search. If you include a picture, you *must* include a caption - we need this so that blind/partially sighted users still know what the image is a picture of. 
 
-The following should be in the data file (.yaml in _data/articles/):
+The following should be in the data file (.yml in _data/articles/):
 
 - Summary - a brief one sentence summary of what the treatment/activity is and what it is meant to do (as brief as possible). (Don't end this in a full stop, please!)
 - AKA - other names that the treatment/activity might be known by. If more than one name, put commas between them.
-- Effects - list of effects that the treatment/activity has - i.e. what it changes. Make sure that for each effect, you link it to a category from the file _data/categories.yaml. End the description of each effect with a full stop.
+- Effects - list of effects that the treatment/activity has - i.e. what it changes. Make sure that for each effect, you link it to a category from the file _data/categories.yml. End the description of each effect with a full stop.
   Each effect should be written in the *present tense*. For example, 'Body hair: permanently removes' rather than 'Permanently removed' or 'Permanent removal'. A good way to check this is to try saying the name of the treatment before the effect, and see if it makes sense. '[Waxing] permanently removes [body hair]' rather than '[Waxing] permanent removal [body hair]'.
 - Duration - A description of how long the thing lasts. Nake sure that if this article is about something with permanent, irreversable effects, you say so. End the duration description with a full stop.
 - Scope - You should include an item in the yaml file labelled `age_specific` or `region_specific` if the subject of the article is applicable only to certain age groups or in certain regions. The text of these items should be a brief explanation of the age or region restrictions, ended with a full stop.
-- Requirements - list of requirements that the treatment has. Each one must have a `type` that links to an entry in _data/requirements.yaml, and optionally a `detail` that explains the specifics of the requirement. Requirements without a `detail` will get the default text listed in _data/requirements.yaml.
+- Requirements - list of requirements that the treatment has. Each one must have a `type` that links to an entry in _data/requirements.yml, and optionally a `detail` that explains the specifics of the requirement. Requirements without a `detail` will get the default text listed in _data/requirements.yml.
 
 The following should be written in the rest of the page (the .md file after the second ---):
 

@@ -6,7 +6,7 @@ var download = require('download');
 
 var database = {};
 
-fs.readFile('/vagrant/git/genderkit/_data/organisations.yaml', 'utf8', function (err,filedata) {
+fs.readFile('/vagrant/git/genderkit/_data/organisations.yml', 'utf8', function (err,filedata) {
 	database = yaml.parse(filedata);
 
 	console.log("Loaded!");
