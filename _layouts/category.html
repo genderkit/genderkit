@@ -16,7 +16,10 @@ layout: page
 	  <li>
               <a href="{{ p.url | relative_url }}">
               {% if p.feature %}
+              <picture>
+                <source type="image/webp" srcset="{{ 'assets/images/articles/240webp/' | append: p.feature.image | replace: '.jpg', '.webp' | relative_url }}">
                 <img alt="" aria-hidden="true" src="{{ 'assets/images/articles/240/' | append: p.feature.image | relative_url }}" >
+              </picture>
               {% else %}
                 <img alt="" aria-hidden="true" src="{{ 'assets/images/nophoto.png' | relative_url }}">
               {% endif %}

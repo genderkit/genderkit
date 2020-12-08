@@ -8,6 +8,17 @@ task :test => [:checkbibtex, :spellcheck, :htmlproofer] do
   puts "Tests complete."
 end
 
+task :resize240webp do
+  sh "mkdir -p assets/images/articles/240webp"
+  files = FileList['assets/images/articles/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "240webp").gsub("jpg","webp")
+    Rszr::Image.load(file).resize!(240, 180).save(target)
+  end
+  puts "Image resize complete."
+end
+
 task :resize240 do
   sh "mkdir -p assets/images/articles/240"
   files = FileList['assets/images/articles/original/*.jpg']
@@ -15,6 +26,17 @@ task :resize240 do
     puts "Resizing #{file}..."
     target = file.gsub("original", "240")
     Rszr::Image.load(file).resize!(240, 180).save(target)
+  end
+  puts "Image resize complete."
+end
+
+task :resize600webp do
+  sh "mkdir -p assets/images/articles/600webp"
+  files = FileList['assets/images/articles/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "600webp").gsub("jpg","webp")
+    Rszr::Image.load(file).resize!(600, 450).save(target)
   end
   puts "Image resize complete."
 end
@@ -30,7 +52,7 @@ task :resize600 do
   puts "Image resize complete."
 end
 
-task :resize => [:resize240, :resize600] do
+task :resize => [:resize240, :resize600, :resize240webp, :resize600webp] do
   puts "Tests complete."
 end
 
