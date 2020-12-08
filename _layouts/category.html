@@ -13,7 +13,7 @@ layout: page
              | where_exp:"item", "item.category == page.index-for" %}
           {% if effects.size > 0 %}
             
-            <li class="{% if cssclasses %}{{ cssclasses }}{% endif %}">
+	  <li>
               <a href="{{ p.url | relative_url }}">
               {% if p.feature %}
                 <img alt="" aria-hidden="true" src="{{ 'assets/images/articles/240/' | append: p.feature.image | relative_url }}" >
