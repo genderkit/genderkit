@@ -1,8 +1,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <meta name="google-site-verification" content="qetg5bHJT_x0mnOmiCB6dKCY5LcPG-7PLGjarWaYfmc" />
-<title>{% if page.title %}{{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }}
- - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if page.title %}{{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<link rel="preload" href="https://fonts.gstatic.com/s/overpass/v4/qFdA35WCmI96Ajtm81kOcc7N4ho.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://fonts.gstatic.com/s/overpass/v4/qFdA35WCmI96Ajtm81l6d87N4ho.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ site.baseurl }}/assets/css/css.css?{{ site.css_ver }}" as="style">
 <style>
 	/* latin */
 	@font-face {
