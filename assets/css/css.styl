@@ -16,17 +16,13 @@ $bold-weight = 600
 // Normalize
 @import "assets/css/normalize"
 
-
-// Use bold rather than italics
-em
-  font-style normal
-  font-weight 600
-
 // Basic utility classes
 .hidden
   display none
 
 // Basic html styling
+html
+  line-height 1.5
 body
   margin 0
   word-break break-word // force wrapping on words > screen width
@@ -631,3 +627,7 @@ figcaption
   padding-left 1em
   p
     line-height 1
+
+figure img
+  width 100vw
+  height 75vw
