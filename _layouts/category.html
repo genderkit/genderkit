@@ -20,8 +20,8 @@ layout: page
               {% else %}
                 <img alt="" aria-hidden="true" src="{{ 'assets/images/nophoto.png' | relative_url }}">
               {% endif %}
+		<h3 id="{{ slug }}">{{ p.title | slice: 0 | upcase }}{{ p.title | slice: 1, p.title.size }}</h3>
               </a>
-		<h3 id="{{ slug }}"><a href="{{ p.url | relative_url }}">{{ p.title | slice: 0 | upcase }}{{ p.title | slice: 1, p.title.size }}</a></h3>
                 {% for item in effects %}
                   {% assign effect = item %}
                   <p>{{ item.detail }}</p>
