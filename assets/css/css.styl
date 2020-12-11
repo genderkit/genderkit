@@ -16,12 +16,6 @@ $bold-weight = 600
 // Normalize
 @import "assets/css/normalize"
 
-
-// Use bold rather than italics
-em
-  font-style normal
-  font-weight 600
-
 // Basic utility classes
 .hidden
   display none
@@ -29,11 +23,9 @@ em
 // Basic html styling
 html
   line-height 1.5
-  font-family Overpass, Calibri, sans-serif
 body
   margin 0
   word-break break-word // force wrapping on words > screen width
-  font-weight 300
 header
   background-image url('{{ site.baseurl }}/assets/images/arrowback6.jpg')
   background-repeat no-repeat
@@ -247,7 +239,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
 
 .bookauthor, .publicationyear
 {
-  color #888
+  color #666
 }
 
 // Video utility classes
@@ -547,23 +539,6 @@ a > span > span // Make citations appear correctly
 a > span // Make citations appear correctly
   line-height 0
   
-/* Test images on mobile category pages
-.articles
-  flex-direction row
-  flex-wrap wrap
-  justify-content space-evenly
-  margin-left: -1rem
-  margin-right: -1rem
-  img
-      display block
-  li
-    width 9rem
-    margin-bottom 1.5rem
-  h3
-    margin-top .5rem
-*/
-
-
 // New category page styling
 
 .articles
@@ -575,7 +550,8 @@ a > span // Make citations appear correctly
   img 
     margin-bottom 1rem
     display block
-
+    width 9rem
+    height 6.75rem
 
 // New homepage styling
 
@@ -646,3 +622,12 @@ footer
   list-style-type none
 .bibitem
   padding-block-end .5ex
+
+figcaption
+  padding-left 1em
+  p
+    line-height 1
+
+figure img
+  width 100vw
+  height 75vw

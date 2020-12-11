@@ -3,7 +3,12 @@ title: Queer
 groups: [Umbrella term]
 ---
 
-"Denoting or relating to a sexual or gender identity that does not correspond to established ideas of sexuality and gender, especially heterosexual norms." -- [Oxford Dictionaries](https://en.oxforddictionaries.com/definition/queer)
+> "Denoting or relating to a sexual or gender identity that does not correspond to established ideas of sexuality and gender, especially heterosexual norms."
+> <figcaption>
+>
+> --- [Oxford Dictionaries](https://en.oxforddictionaries.com/definition/queer)
+>
+> </figcaption>
 
 ### Slur
 

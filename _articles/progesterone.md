@@ -1,10 +1,12 @@
 ---
-title: Progesterone
+title: progesterone
 weighting: 4
 feature:
   image: progesterone.jpg
   caption: "A box of medroxyprogesterone"
 ---
+
+### What kinds are there?
 
 There are two types of chemicals used in progesterone therapy:
 

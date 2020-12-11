@@ -1,0 +1,87 @@
+other-conditions-controlled:
+ text: "If you have significant medical conditions, these need to be [\"reasonably well-controlled\"](/resources/other-conditions)"
+ icon: otherrestriction 
+non-nhs:
+ text: "This is not normally available on the NHS"
+ icon: otherrestriction
+18+-strong:
+ text: "Under 18s cannot have this"
+ icon: age18
+not-pregnant:
+ text: "You cannot have this if you are pregnant, or might become pregnant"
+ icon: otherrestriction
+18+:
+ text: "You usually need to be at least 18"
+ icon: age18
+16+:
+ text: "You usually need to be at least 16"
+ icon: age16
+bmi:
+ text: "You may need to have a certain BMI (body mass index) to get this"
+ icon: bmi
+tanner2:
+ text: "Under 18s must be at [Tanner Stage 2](/resources/tanner-stage) or later; this may involve a physical exam"
+ icon: puberty
+parents-16:
+ text: "Under 16s need the support of their family, while 16-18 year olds need support of one parent"
+ icon: family
+parents:
+ text: "Under 18s can usually only get this with the support of their parents or guardians"
+ icon: family
+time:
+ icon: time
+consent:
+ text: "You must have [capacity to consent](/resources/capacity) for this treatment"
+ icon: consent
+hrt:
+ icon: medication
+not-standalone:
+ text: "This is usually only commissioned as part of other treatments"
+ icon: linked
+12-months-rle:
+ icon: time
+ text: "You must have had 12 continuous months living as your gender identity"
+12-months-hrt:
+ icon: medication
+ text: "You must have had 12 continuous months of HRT, unless you're unable to"
+16-scot-17-uk:
+ icon: age16
+ text: "You need to be at least 16 in Scotland, but *at least 17* in other parts of the UK"
+bmi-30:
+ icon: bmi
+ text: "You typically need a BMI of less than 30"
+bmi-40:
+ icon: bmi
+ text: "You typically need a BMI of less than 40"
+bmi-bd:
+ icon: bmi
+ text: "Under 18s must meet some requirements based on body mass index and bone density"
+persistent-dysphoria:
+ icon: time
+ text: "You need to have had persistent dysphoria, but there is no specific time frame"
+standard-top-surgery-reqs:
+ - type: persistent-dysphoria
+ - type: consent
+ - type: other-conditions-controlled
+ - type: 16-scot-17-uk
+ - type: bmi-40
+standard-bottom-surgery-reqs:
+ - type: 12-months-rle
+ - type: 12-months-hrt
+ - type: consent
+ - type: other-conditions-controlled
+ - type: 16-scot-17-uk
+ - type: bmi-30
+standard-hrt-reqs:
+ - type: persistent-dysphoria
+ - type: consent
+ - type: other-conditions-controlled
+ - type: 16+
+standard-blocker-reqs:
+ - type: persistent-dysphoria
+ - type: consent
+ - type: other-conditions-controlled
+ - type: 16+
+   detail: "As of December 2020, under 16s will need a 'best interests' court order"
+ - type: tanner2
+ - type: bmi-bd 

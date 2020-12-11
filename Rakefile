@@ -4,8 +4,19 @@ require 'rszr'
 
 task :default => ["test"]
 
-task :test => [:spellcheck, :htmlproofer] do
+task :test => [:checkbibtex, :spellcheck, :htmlproofer] do
   puts "Tests complete."
+end
+
+task :resize240webp do
+  sh "mkdir -p assets/images/articles/240webp"
+  files = FileList['assets/images/articles/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "240webp").gsub("jpg","webp")
+    Rszr::Image.load(file).resize!(240, 180).save(target)
+  end
+  puts "Image resize complete."
 end
 
 task :resize240 do
@@ -15,6 +26,17 @@ task :resize240 do
     puts "Resizing #{file}..."
     target = file.gsub("original", "240")
     Rszr::Image.load(file).resize!(240, 180).save(target)
+  end
+  puts "Image resize complete."
+end
+
+task :resize600webp do
+  sh "mkdir -p assets/images/articles/600webp"
+  files = FileList['assets/images/articles/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "600webp").gsub("jpg","webp")
+    Rszr::Image.load(file).resize!(600, 450).save(target)
   end
   puts "Image resize complete."
 end
@@ -30,8 +52,36 @@ task :resize600 do
   puts "Image resize complete."
 end
 
-task :resize => [:resize240, :resize600] do
+task :resize => [:resize240, :resize600, :resize240webp, :resize600webp] do
   puts "Tests complete."
+end
+
+desc "Make sure all bibtex entries have urls, that there are no duplicates, and count the number of doi-less articles and incollections"
+task :checkbibtex do
+  require 'bibtex'
+  b = BibTeX.open('_bibliography/references.bib')
+  bad_entries = b['@entry[url!~.*]']
+  bad_entries.each do |entry|
+    puts "Found entry without url: #{entry.key}"
+  end
+  if bad_entries.length > 0 then
+    exit 1
+  else
+    puts "No url-less bibtex entries found!"
+    puts
+  end
+  if b.duplicates? then
+    puts "Duplicate entries in bibtex found:"
+    puts b.duplicates.map { |ds| ds.map { |d| d.key }.to_s }
+    puts "Are these genuinely different?"
+    puts
+  end
+  doiless = b['@article[doi!~.*], @incollection[doi!~.*]']
+  if doiless.length > 0 then
+    puts "Articles and incollections without doi:"
+    puts doiless.map {|e| e.key}
+    puts "Can any of these be given dois?"
+  end
 end
 
 desc "Test for broken internal links"
@@ -131,6 +181,19 @@ task :proselint => :jekyll do
     if (results.length > 0)
       puts "In #{file}:"
       puts "#{results}"
+    end
+  end
+end
+
+class ProofHeaderIDs < ::HTMLProofer::Check
+  def run
+    @html.css('h1,h2,h3,h4,h5,h6').each do |node|
+      @link = create_element(node)
+      line = node.line
+
+      if @link.id.nil?
+        return add_issue("Heading has missing ID!", line: line)
+      end
     end
   end
 end

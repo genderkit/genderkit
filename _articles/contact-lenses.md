@@ -1,15 +1,20 @@
 ---
-title: "Contact lenses"
+title: "contact lenses"
 weighting: 3
 feature:
   image: contact-lenses.jpg
   caption: "A contact lens resting on a fingertip"
 ---
 
+### How do I stay safe?
+
 {% capture warn %}
-Contact lenses require careful handling, storage and cleaning in order to prevent eye infections. You must follow the instructions given by your optometrist (optician). Always wash your hands before inserting or removing contact lenses but do not dry them with a towel.
+Contact lenses require careful handling, storage and cleaning in order to prevent eye infections.
 {% endcapture %}
 {% include warning warning=warn %}
+You must follow the instructions given by your optometrist (optician). Always wash your hands before inserting or removing contact lenses, but do not dry them with a towel.
+
+### What kinds are there?
 
 Contact lenses are available in several types:
 
@@ -20,6 +25,10 @@ Contact lenses are available in several types:
 - *Toric lenses* are able to correct for astigmatism combined with myopia or hypermetropia. They are able to do this because they are designed to have a heavier edge which naturally rotates to the bottom of the eye. If the head is tilted, the lenses will no longer correct the astigmatism.
 - *Multifocal lenses* are able to correct for presbyopia (needing a different prescription for reading than the prescription required for distance vision) in a similar way to bifocal or multifocal glasses.
 
+### Are there other options?
+
 A more permanent alternative to contact lenses for some people is [laser eye surgery]({% link _articles/laser-eye-surgery.md %}).
 
-You can read more about how to use contact lenses safely at the [NHS Choices website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Contactlenssafety.aspx).
+### Where can I learn more?
+
+You can read more about how to use contact lenses safely at [the NHS website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Contactlenssafety.aspx).

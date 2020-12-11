@@ -10,7 +10,7 @@ Blocker medications such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %
 
 <div class="tanner">
 <div class="tannercol">
-<h3>In those <a href="{% link _words/afab.md %}">assigned female at birth</a></h3>
+<h3 id="in-those-assigned-female-at-birth">In those <a href="{% link _words/afab.md %}">assigned female at birth</a></h3>
 <ul>
 <li>Usually starts around age 11</li>
 <li>Breast buds develop</li>
@@ -20,7 +20,7 @@ Blocker medications such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %
 </ul>
 </div>
 <div class="tannercol">
-<h3>In those <a href="{% link _words/amab.md %}">assigned male at birth</a></h3>
+<h3 id="in-those-assigned-male-at-birth">In those <a href="{% link _words/amab.md %}">assigned male at birth</a></h3>
 <ul>
 <li>Usually starts around age 12</li>
 <li>Scrotum thins, testicles increase in size</li>
@@ -28,3 +28,7 @@ Blocker medications such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %
 </ul>
 </div>
 </div>
+
+<h3 id="where-can-i-learn-more">Where can I learn more?</h3>
+
+[This page from NHS Wales](https://111.wales.nhs.uk/encyclopaedia/p/article/puberty/) may be useful.

@@ -1,0 +1,11 @@
+aka: [Girdles, Waist cinchers, Tightlacing, Corset training]
+plural: true
+summary: "Shaped clothing that thins the waist or has a slimming effect"
+duration: "The effects last as long as the corset is worn. Prolonged use over a period of years can be used to 'train' the body to have a smaller waist."
+effects:
+  -
+    category: "Upper body"
+    detail: "Slims waist"
+  -
+    category: "Lower body"
+    detail: "Slims waist"

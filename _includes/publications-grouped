@@ -1,35 +1,35 @@
 
 
-{% assign publishers = site.data.publications.publications | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"organisation" | group_by:"organisation" %}
+{%- assign publishers = site.data.publications.publications | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"organisation" | group_by:"organisation" -%}
 
 <div class="grouped-publications">
 
-{% for publisher in publishers %}
+{%- for publisher in publishers -%}
 
-<h4>{{ publisher.name | xml_escape }}:</h4>
-{% assign sortedPublications = publisher.items | sort:"title" %}
+<h4 id="{{ publisher.name | slugify }}">{{ publisher.name | xml_escape }}:</h4>
+{%- assign sortedPublications = publisher.items | sort:"title" -%}
 
 <ul class="details" id="publications">
-{% for item in sortedPublications %}
-  {% assign cssclasses = "" %}
-  {% for category in item.tags %}
-        {% assign cssclass = "category " | append: category | slugify %}
-        {% assign cssclasses = cssclasses | append: cssclass | append: " " %}
-      {% endfor %}
+{%- for item in sortedPublications -%}
+  {%- assign cssclasses = "" -%}
+  {%- for category in item.tags -%}
+        {%- assign cssclass = "category " | append: category | slugify -%}
+        {%- assign cssclasses = cssclasses | append: cssclass | append: " " -%}
+      {%- endfor -%}
     <li class="{{ cssclasses }}" style="padding-bottom: 0;">
       <div>
-      {% assign imagetitle = item.title | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " %}
-      {% assign imagepublisher = publisher.name | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " %}
-      {% assign url = item.url %}
+      {%- assign imagetitle = item.title | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " -%}
+      {%- assign imagepublisher = publisher.name | remove: " -" | remove: "*" | remove: "," | replace: "&", "and" | remove: "(" | remove: ")" | remove: ":" | remove: "?" | remove: "/" | remove: "’" | remove: "'" | replace: "-", " " -%}
+      {%- assign url = item.url -%}
       <a href="{{ url }}">{{ item.title | xml_escape }}</a>
-      {% if item.warning %}
+      {%- if item.warning -%}
         <div class="datewarning"><em>Warning:</em> {{ item.warning }}</div>
-      {% endif %}
+      {%- endif -%}
       </div>
     </li>
-{% endfor %}
+{%- endfor -%}
 </ul>
 
-{% endfor %}
+{%- endfor -%}
 
 </div>

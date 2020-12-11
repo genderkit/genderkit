@@ -1,6 +1,7 @@
-aka: [Blockers, Hormone blockers, Goserelin, Zoladex, Triptorelin, Decapeptyl, Leuprorelin, Prostap]
-summary: "Medications that temporarily reduce production of sex hormones"
-duration: "GnRH agonists are available in four week, twelve week and six month forms. Prolonged use may have some effects that are permanent and cannot be reversed. GnRH agonists usually take around two weeks to take full effect."
+aka: [Blockers, Hormone blockers, Goserelin, Zoladex, Triptorelin, Decapeptyl, Leuprorelin, Prostap, Buserelin, Nafarelin]
+plural: true
+summary: "Medications that cause the gonads (testes and/or ovaries) to stop producing sex hormones"
+duration: "GnRH agonists are available in four week, twelve week and six month forms. Some are also available as a nasal spray taken daily. GnRH agonists usually take around two weeks to take full effect. Prolonged use may have some effects that are permanent and cannot be reversed."
 effects:
   - 
     category: "Menstruation"

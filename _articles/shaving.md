@@ -1,15 +1,21 @@
 ---
-title: Shaving
+title: shaving
 weighting: 1
 feature:
   image: shaving.jpg
   caption: "A disposable safety razor"
 ---
 
+### How do I stay safe?
+
 {% capture warn %}
-Do not share razors with other people. Sharing razors is a method of transmission of hepatitis C. People can be infected with hepatitis C without realising it or having any noticeable symptoms, but it can cause serious liver problems later on if left untreated. You can read more hepatitis on [the NHS website](http://www.nhs.uk/conditions/hepatitis-c/Pages/Introduction.aspx).
+Do not share razors with other people. 
 {% endcapture %}
 {% include warning warning=warn %}
+
+Sharing razors is a method of transmission of hepatitis C. People can be infected with hepatitis C without realising it or having any noticeable symptoms, but it can cause serious liver problems later on if left untreated. You can read more hepatitis on [the NHS website](http://www.nhs.uk/conditions/hepatitis-c/Pages/Introduction.aspx).
+
+### How do I shave?
 
 Shaving is the simplest method to remove large amounts of body or facial hair.
 
@@ -19,6 +25,8 @@ There are four main types of tool used for shaving:
 - *electric razors* (often just called a "shaver") come with either rotary or oscillating blades. Electric razors have the advantage of being able to be used on dry skin without shaving foam or water.
 - *clippers* shave hair short but not completely down to the root. Clippers come with attachments that allow you to set the length of hair you want, from grade 12 (nearly 4cm) down to grade 1 (3mm). Each grade means 3 millimetres.
 - *straight razors* require significant expertise to sharpen and use and are now uncommon.
+
+### How do I avoid skin irritation when I shave?
 
 Shaving can cause considerable irritation to the skin. 
 
@@ -36,7 +44,7 @@ Longer term irritation to the skin can also be caused by ingrown hairs (sometime
 - rinsing after every stroke
 - ensuring that only sharp razor blades are used
 
-You can read more about ingrown hairs and how to prevent them on the [NHS Choices website](http://www.nhs.uk/conditions/ingrown-hairs/Pages/Introduction.aspx).
+You can read more about ingrown hairs and how to prevent them on the [NHS website](http://www.nhs.uk/conditions/ingrown-hairs/Pages/Introduction.aspx).
 
 If you are finding it difficult to avoid ingrown hairs, an alternative to shaving that may help is using [depilatory cream]({% link _articles/depilatory-cream.md %}) instead of shaving.
 

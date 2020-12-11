@@ -1,0 +1,10 @@
+summary: "Surgery to create a scrotum by reshaping and closing the labia majora together and then inserting testicular prostheses into the labia"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Lower body"
+    detail: "Creates scrotum"
+requirements:
+  - multi: standard-bottom-surgery-reqs
+  - type: not-standalone
+    detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty) or [metoidioplasty](/article/metoidioplasty)"  

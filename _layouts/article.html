@@ -4,39 +4,57 @@ layout: page
 
 {% assign slug = page.title | slugify %}
 {% assign info = site.data.articles[slug] %}
+{% if site.data.articles[slug].in-headings %}
+  {% assign in-headings = site.data.articles[slug].in-headings %}
+{% else %}
+  {% assign in-headings = page.title %}
+{% endif %}
 
-<main role="main">
+<main>
   {% include feature.html %}
   <article class="content">
     {% if info.age_specific %}
     <section class="articlescope">
-	   <h3>Age-specific information</h3>
+	   <h3 id="age-specific-information">Age-specific information</h3>
 	   <p>{{ info.age_specific }}</p>
     </section>
     {% endif %}
     {% if info.region_specific %}
     <section class="articlescope">
-	   <h3>Regional information</h3>
+	   <h3 id="regional-information">Regional information</h3>
 	   <p>{{ info.region_specific }}</p>
     </section>
     {% endif %}
     <section class="bodytext">
-      <h3>What is it?</h3>
+      {% if site.data.articles[slug].plural %}
+      <h3 id="what-are-{{ in-headings | slugify }}">What are {{ in-headings }}?</h3>
+      {% else %}
+      <h3 id="what-is-{{ in-headings | slugify }}">What is {{ in-headings }}?</h3>
+      {% endif %}
       {% if info.summary %}
           <p>{{ info.summary }}.</p>
       {% endif %}
       {% if info.aka %}
-        <p>It's also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
+      <p>{% if site.data.articles[slug].plural %}They're{%else%}It's{%endif%} also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
       {% endif %}
-      <h3>What does it do?</h3>
+      {% for item in info.seealso %}
+     	{% assign itemslug = item.link | slugify %}
+	<p>{{ item.text }}; see <a href="{{ '/article/' | append: itemslug | relative_url }}">{{item.link}}</a>.</p>
+      {% endfor %}
+      {% if site.data.articles[slug].plural %}
+      <h3 id="what-do-{{ in-headings | slugify }}-do">What do {{ in-headings }} do?</h3>
+      {% else %}
+      <h3 id="what-does-{{ in-headings | slugify }}-do">What does {{ in-headings }} do?</h3>
+      {% endif %}
       <ul class="effects">
       {% for item in info.effects %}
         {% assign slug = item.category | slugify %}
         <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
+      {% assign slug = page.title | slugify %}
       {% if info.requirements %}
-      <h3>Who can have it?</h3>
+      <h3 id="who-can-have-{{ in-headings | slugify }}">Who can have {{ in-headings }}?</h3>
       <ul class="requirements">
       {% assign reqs = info.requirements | where_exp: "item", "item.type" %}
       {% assign multis = info.requirements | where_exp: "item", "item.multi" %}
@@ -45,21 +63,23 @@ layout: page
       {% endfor %}
       {% for item in reqs %}
         <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: site.data.requirements[item.type].icon | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i>
-		{% if item.detail %} <p>{{ item.detail | markdownify }}</p>
-		{% else %} <p>{{ site.data.requirements[item.type].text | markdownify }}</p>
+		{% if item.detail %} {{ item.detail | markdownify }}
+		{% else %} {{ site.data.requirements[item.type].text | markdownify }}
 		{% endif %}</li>
       {% endfor %}
       </ul>
       {% endif %}
       {% if info.duration %}
-        <h3>How long does it last?</h3>
+        {% if site.data.articles[slug].plural %}
+        <h3 id="how-long-do-{{ in-headings | slugify }}-last">How long do {{ in-headings }} last?</h3>
+        {% else %}
+        <h3 id="how-long-does-{{ in-headings | slugify }}-last">How long does {{ in-headings }} last?</h3>
+        {% endif %}
         <p>{{ info.duration }}</p>
       {% endif %}
-      <h3>More information</h3>
       {{ content }}
-      <h3>Errors and omissions</h3>
+      <h3 id="errors-and-omissions">Errors and omissions</h3>
       <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know, or <a href="https://github.com/genderkit/genderkit/issues">file an issue on GitHub</a>.</p>
-      <p><em>Page last updated:</em> {% last_modified_at %B %Y %}</p>
     </section>
   </article>
 </main>

@@ -1,10 +1,12 @@
 ---
-title: "Cricothyroid approximation"
+title: "cricothyroid approximation"
 weighting: 5
 feature:
   image: surgeons.jpg
   caption: "Faces of surgeons performing surgery"
 ---
+
+### What should I be aware of?
 
 {% capture warn %}
 This technique is a surgery with a number of risks you need to understand before it is carried out. Common side effects are a quieter voice, a voice with less vocal range, or decreased clarity. The surgery may also result in no change to the pitch of the voice or a deepening of the voice {% cite song2017transgender -l 807 %}.

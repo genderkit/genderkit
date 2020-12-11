@@ -104,7 +104,7 @@ function processUserBatch()
 		{
 			// We've finished, write out our result
 			console.log("Writing updated file.");
-			fs.writeFile('/vagrant/git/genderkit/_data/organisations.yaml', yaml.stringify(database, 3), function (err) {
+			fs.writeFile('/vagrant/git/genderkit/_data/organisations.yml', yaml.stringify(database, 3), function (err) {
 			  if (err) throw err;
 			  console.log('It\'s saved!');
 			});
@@ -112,7 +112,7 @@ function processUserBatch()
 	});
 }
 
-fs.readFile('/vagrant/git/genderkit/_data/organisations.yaml', 'utf8', function (err,filedata) {
+fs.readFile('/vagrant/git/genderkit/_data/organisations.yml', 'utf8', function (err,filedata) {
 	database = yaml.parse(filedata);
 
 	console.log("Loaded YAML.");

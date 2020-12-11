@@ -1,0 +1,18 @@
+aka: [Hysto]
+in-headings: "a hysterectomy"
+summary: "Permanent surgical removal of the uterus (womb)"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Lower body"
+    detail: "Removes womb"
+  -
+    category: "Fertility"
+    detail: "Causes permanent infertility"
+  -
+    category: "Menstruation"
+    detail: "Stops"
+requirements:
+  - multi: standard-bottom-surgery-reqs
+  - type: not-standalone
+    detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty) or [metoidioplasty](/article/metoidioplasty)"  

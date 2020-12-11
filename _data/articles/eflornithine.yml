@@ -1,0 +1,12 @@
+aka: [Vaniqa]
+summary: "Cream that temporarily slows hair growth"
+duration: "Eflornithine only works while being regularly applied and stops working within weeks if application is stopped. The cream may take up to 24 weeks to reach its maximum effect."
+effects:
+  -
+    category: "Facial hair"
+    detail: "Slows growth"
+requirements:
+  -
+    type: 18+-strong
+  -
+    type: not-pregnant

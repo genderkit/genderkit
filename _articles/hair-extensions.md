@@ -1,15 +1,13 @@
 ---
-title: Hair extensions
+title: hair extensions
 weighting: 3
 ---
 
-Hair extensions vary considerably in several ways:
+### How do I get hair extensions?
 
-- *attachment method*: some are easily clipped to your hair at home, whereas others are attached using one of several different methods in a salon. Some methods may damage your existing hair more than others, and some may irritate your scalp.
-- *amount of hair*: some provide just a ponytail or a fringe, while others provide multiple different pieces that attach to different parts of your head in different lengths.
-- *material*: some extensions are made of synthetic material, while others are made from real human hair or a blend of synthetic and human hair. Human hair comes in different quality grades, and you are encouraged to research this in detail as the terminology can be complex and confusing.
+Some hair extensions can be clipped to your hair at home, while others will generally require a salon visit. The actual process of attaching the extensions may take several hours.
 
-The actual process of attaching the extensions may take several hours. You will have to return to the salon for periodic maintenance every few months or if you want the extensions removed.
+For salon extensions, you will have to return to the salon for periodic maintenance every few months or if you want the extensions removed.
 
 You may be required to grow your hair to a minimum length before the extensions can be attached.
 
@@ -23,6 +21,14 @@ Some specialist hair extension salons also have statements on their websites tha
 
 - [Mark Glenn](http://www.markglenn.com) (London)
 - [Gold Hair Extensions](http://www.goldhairextensions.com) (South East England)
+
+### What kinds are there?
+
+Hair extensions vary considerably in several ways:
+
+- *attachment method*: some are easily clipped to your hair at home, whereas others are attached using one of several different methods in a salon. Some methods may damage your existing hair more than others, and some may irritate your scalp.
+- *amount of hair*: some provide just a ponytail or a fringe, while others provide multiple different pieces that attach to different parts of your head in different lengths.
+- *material*: some extensions are made of synthetic material, while others are made from real human hair or a blend of synthetic and human hair. Human hair comes in different quality grades, and you are encouraged to research this in detail as the terminology can be complex and confusing.
 
 ### How much will it cost?
 

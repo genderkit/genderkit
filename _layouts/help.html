@@ -4,20 +4,20 @@ layout: page
 <main>
   <article>
     <section class="attention">
-      <h3>In immediate danger?</h3>
+      <h3 id="in-immediate-danger">In immediate danger?</h3>
       <p>Phone 999. If you can't use a phone, use <a href="https://www.emergencysms.net/">emergencySMS</a> or Textphone 18000.</p>
     </section>
     <section class="bodytext">
-      <h3>Police</h3>
+      <h3 id="police">Police</h3>
       <p>Phone 101 to contact the police if it isn't an emergency.</p>
-      <h3>Medical help</h3>
+      <h3 id="medical-help">Medical help</h3>
       <p>Phone 111 for medical help if it isn't an emergency.</p>
     </section>
     {% assign categories = site.data.help.help | sort:"category" | group_by:"category" %}
     <section class="groupings">
       {% for category in categories %}
       <div class="grouping">
-        <h3>{{ category.name | xml_escape }}</h3>
+	<h3 id="{{ category.name | slugify }}">{{ category.name | xml_escape }}</h3>
         <ul class="details">
         {% assign sortedOrganisations = category.items %}
         {% for item in sortedOrganisations %}
@@ -29,7 +29,7 @@ layout: page
             <li class="{{ cssclasses }}">
               <div>
               {% assign url = item.url %}
-                <h3><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
+      	      <h3 id="{{ item.name | slugify }}"><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
                 <p>
                   {% if item.manualDescription %}
                     {{ item.manualDescription | xml_escape }}
@@ -43,9 +43,9 @@ layout: page
     {% endfor %}
     </section>
     <section class="bodytext">
-     <h3>Support groups</h3>
+     <h3 id="support-groups">Support groups</h3>
       <p>For in person support, you  can find national and local support groups on our <a href="{% link organisations.md %}">UK Organisations</a> page.
-      <h3>Errors and omissions</h3>
+      <h3 id="errors-and-omissions">Errors and omissions</h3>
       <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know, or <a href="https://github.com/genderkit/genderkit/issues">file an issue on GitHub</a>.</p>
     </section>
   </article>

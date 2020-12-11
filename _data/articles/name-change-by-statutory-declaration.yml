@@ -1,0 +1,7 @@
+summary: "A legal declaration you will only use a new name in future, witnessed by a solicitor. This allows you to update other ID documents to a new name"
+duration: "The change of name is permanent. It remains in effect until you make a new name change by deed poll or statutory declaration."
+in-headings: "a statutory declaration"
+effects:
+  -
+    category: "ID documents"
+    detail: "Provides ability to change other documents"

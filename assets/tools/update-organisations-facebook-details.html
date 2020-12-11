@@ -7,7 +7,7 @@ sitemap: false
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script>
 
-// This page updates the organisations.yaml file with information from Facebook.
+// This page updates the organisations.yml file with information from Facebook.
 // TODO: deal with organisations who have deleted their Facebook presence.
 
 var database = {};
@@ -99,7 +99,7 @@ function updateDataFromFB(response)
     FB.login(function()
     {
       
-      $.get("https://genderkit.org.uk/organisations.yaml", function (data) {
+      $.get("https://genderkit.org.uk/organisations.yml", function (data) {
         console.log(data);
         database = YAML.parse(data);
 

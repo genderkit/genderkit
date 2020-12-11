@@ -1,10 +1,12 @@
 ---
-title: False eyelashes
+title: false eyelashes
 weighting: 2
 feature:
   image: false-eyelashes.jpg
   caption: "A tray containing strips of false eyelashes and glue"
 ---
+
+### What kinds are there?
 
 Some false eyelashes come in strips that are applied across the entire eye, while others come in small sections which are applied individually.
 

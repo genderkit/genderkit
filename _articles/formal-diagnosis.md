@@ -1,16 +1,18 @@
 ---
-title: Formal diagnosis
+title: formal diagnosis
 weighting: 4
 feature:
   image: formal-diagnosis.jpg
   caption: "A closeup photo of the word dysphoria"
 ---
 
+### Why might I want a diagnosis?
+
 Getting a formal medical diagnosis may help you access treatment, especially surgery. It may also help you update some legal documents, and acquire a [gender recognition certificate]({% link _articles/obtaining-a-grc.md %}). 
 
 Before getting a diagnosis, it's worth considering carefully whether you need one. It can be tempting to look for a diagnosis as validation, but it can also be pathologising --- making you feel like your identity is a "disease" --- and may be unnecessary, depending on what your needs are. Remember that lacking a diagnosis does not make your identity as a trans person any less valid.
 
-### Why you might want a diagnosis
+Here are some reasons you might want a diagnosis:
 
 -  *To access treatment*
 
@@ -30,7 +32,7 @@ Before getting a diagnosis, it's worth considering carefully whether you need on
 
    However, you should keep in mind that the lack of a diagnosis does not imply that you aren't "really" trans.
 
-### Why you might *not* want a diagnosis
+### Why might I not want a diagnosis?
 
 -  *You find it pathologising*
 
@@ -61,7 +63,7 @@ treatment {% cite vincent2018transgender --locator 39 %}.
 diagnosis. Furthermore, if you only need hormones, there might be a way to [access
 them without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
 
-### Getting a diagnosis
+### How do I get a diagnosis?
 
 In the UK, diagnoses for trans people are normally made by specialists. The exact diagnosis given in the UK can vary, but common diagnoses include:
 
@@ -78,7 +80,7 @@ If you wish, you can pay to use private specialist gender services. You may find
 
 You can find details of both the NHS and private gender services on our [Specialist UK gender clinics]({% link _resources/gender-services.md %}) page.
 
-### Getting by without a diagnosis
+### How do I get by without a diagnosis?
 If you don't need medical treatments or a GRC, and don't need the gender on your passport updated, you may be fine without a diagnosis. The Equality Act (2010) protects you from discrimination on the basis of "gender reassignment", which will still apply to you even if you only pursue non-medical aspects of transition such as clothes, cosmetics, and pronouns. If you are presenting as your gender identity, you should not be excluded from any spaces or services that are specific to that gender, with some very limited exceptions.
 
 Getting the gender on your passport updated will require a letter from a doctor stating that you intend to live in the new gender permanently. Your GP might be willing to write this for you without a formal diagnosis.

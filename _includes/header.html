@@ -1,10 +1,10 @@
-<header {% if page.index-for %} class="categoryheader" {% endif %} role="banner"> 
-  <h1>
+<header {% if page.index-for %} class="categoryheader" {% endif %}> 
+  <h1 id="gck-logo">
     <a href="{{ site.baseurl }}/">
       <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo.png" />
     </a>
   </h1>
-  <h2>
-    {{ page.title }}
+  <h2 id="{{ page.title | slugify }}">
+	  {{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }}
   </h2>
 </header>

@@ -3,7 +3,7 @@ layout: misc
 title: Mental health
 description: Information about mental health for trans, non-binary, and gender non-conforming people in the UK
 attention-title: Having suicidal thoughts?
-attention-text: "You can find information about what to do to get help on [the NHS Choices website](https://www.nhs.uk/conditions/suicide/)."
+attention-text: "You can find information about what to do to get help on [the NHS website](https://www.nhs.uk/conditions/suicide/)."
 ---
 
 ### How to get help
@@ -13,6 +13,12 @@ If you'd like to talk to someone about problems you're having, we have [a list o
 We also have a page with detailed information about [how to access counselling]({% link _articles/counselling.md %}).
 
 If you are finding you are struggling with mental health issues that continue over a longer period, it could help you to make an appointment to see your GP as they will be able to arrange for treatments like talking therapies or medication. 
+
+### Information for young people
+
+Mind have an [information hub](https://www.mind.org.uk/information-support/for-children-and-young-people/) for young people, with information about a range of issues.
+
+If you're a parent worried about your child's mental health, Young Minds have a [helpline](https://youngminds.org.uk/find-help/for-parents/parents-helpline/) specifically for parents.
 
 ### If you're worried about hurting yourself or other people
 
@@ -26,7 +32,7 @@ If you're worried about killing yourself, please [click here right now to find o
 
 It can be difficult to know what to do if you're worried about someone else's mental health.
 
-Thankfully, you can find information about what to do online on the NHS Choices website:
+Thankfully, you can find information about what to do online on the NHS website:
 
 - [Worried about someone else having suicidal thoughts?](https://www.nhs.uk/conditions/suicide/#worried-about-someone-else)
 - [Getting help for others if you're worried someone is having hallucinations or delusions](https://www.nhs.uk/conditions/psychosis/#getting-help-for-others)
@@ -35,7 +41,7 @@ Thankfully, you can find information about what to do online on the NHS Choices 
 
 If the person you're supporting would rather not have formal medical help for their problems, you might find one of the following resources useful:
 
-- [Mental health intervention protocol](https://wiki.queercare.network/Mental_Health_Intervention_Protocol) by QueerCare
+- [Mental health intervention protocol](https://wiki.queercare.network/Mental_Health_Intervention_Protocol) by QueerCare (If this link fails, try the [Internet Archive](https://web.archive.org/web/20201115170136/https://wiki.queercare.network/Mental_Health_Intervention_Protocol))
 - [What to do if a friend goes mad](https://asylummagazine.org/2019/03/what-to-do-if-a-friend-goes-mad-by-donnard-white/?fbclid=IwAR1OH7o6Q07h7ekQ1BRz4dBmnYi-_ex3DePsjvsF5O6mKdMSfxQwUmiGqRU) by Donnard White
 
 It's generally unhelpful to impose help on somebody who doesn't want it, or to try to help them in ways they don't want. Talk with the person you're worried about and act with their consent as much as possible.
@@ -44,7 +50,7 @@ Remember that some people will have had bad experiences with police in the past.
 
 ### More information
 
-There's more information about common mental health conditions on the NHS Choices website:
+There's more information about common mental health conditions on the NHS website:
 
 - [Depression](https://www.nhs.uk/conditions/clinical-depression/)
 - [Anxiety](https://www.nhs.uk/conditions/generalised-anxiety-disorder/)

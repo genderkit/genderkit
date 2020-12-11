@@ -1,10 +1,12 @@
 ---
-title: Finding your style
+title: finding your style
 weighting: 1
 feature:
   image: finding-your-style.jpg
   caption: "A rail of shirts in different shades of blue and white"
 ---
+
+### How do I find my style?
 
 Finding your own personal fashion style can take time. The more you experiment, the more you will find things you feel comfortable and confident in. Expect your style to keep evolving over time as you learn more about what you like.
 
@@ -79,7 +81,7 @@ If you're looking for inspiration, here are some possibilities to consider for h
 
 {% include clothes %}
 
-### Useful links
+### Where can I learn more?
 
 You can find more useful information in our [article about buying clothes]({% link _articles/buying-clothes.md %}).
 

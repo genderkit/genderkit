@@ -1,0 +1,8 @@
+summary: "Surgery to remove the breast tissue, more suitable to larger amounts of breast tissue. Usually the nipples are made smaller and repositioned"
+duration: "The effects are permanent and cannot be reversed."
+effects:
+  -
+    category: "Upper body"
+    detail: "Flattens chest"
+requirements:
+  - multi: standard-top-surgery-reqs

@@ -1,10 +1,12 @@
 ---
-title: "Toiletries"
+title: "toiletries"
 weighting: 1
 feature:
   image: toiletries.jpg
   caption: "A selection of different toiletries"
 ---
+
+### More information
 
 Toiletries come in a wide variety of fragrances, some of which are associated with particular genders and some of which are not.
 

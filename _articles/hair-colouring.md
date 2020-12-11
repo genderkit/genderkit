@@ -1,15 +1,26 @@
 ---
-title: Hair colouring
+title: hair colouring
 weighting: 2
 feature:
   image: "hair-colouring.jpg"
   caption: "Two different brands of hair colouring product"
 ---
 
+### How do I stay safe?
+
 {% capture warn %}
-The chemicals involved in hair colouring may cause an allergic reaction. This is true even for "natural" hair colours such as henna {% cite de2013side %}. It is  important to always perform a patch test first by using the chemicals on a small area 48 hours before applying it to the rest of your hair. This is especially important if you have ever had a black henna tattoo, [as you may be at risk of death](http://www.nhs.uk/Conditions/hair-dye-allergy/Pages/Introduction.aspx).
+The chemicals involved in hair colouring may cause an allergic reaction. This is true even for "natural" hair colours such as henna {% cite de2013side %}.
 {% endcapture %}
 {% include warning warning=warn %}
+It is important to always perform a patch test first by using the chemicals on a small area 48 hours before applying it to the rest of your hair. This is especially important if you have ever had a black henna tattoo, [as you may be at risk of death](http://www.nhs.uk/Conditions/hair-dye-allergy/Pages/Introduction.aspx).
+
+### Are there other options?
+
+Another way to change your hair colour is to wear a [wig]({% link _articles/hair-replacement.md %}).
+
+If you only want to change parts of your hair, see [hair patterning]({% link _articles/hair-patterning.md %}).
+
+### How do I colour my hair?
 
 Hair colouring can either be done at home or by a professional in a hair salon. Colouring in a hair salon has the advantage that a stylist can help you select a colour that will suit you well, ensure that the chemicals involved are used safely, and can advise you how to take care of your hair after it has been coloured. Colouring at home is much cheaper but carries the risks of accidentally staining your face, ears, hands, or your towels and carpet.
 

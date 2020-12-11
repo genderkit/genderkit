@@ -14,6 +14,8 @@ gem "citeproc-ruby", "~> 1.1.12" # Need the most up to date version
 gem "rake"
 gem "rszr"
 
+gem "bibtex-ruby"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -22,7 +24,8 @@ gem "rszr"
 group :jekyll_plugins do
    gem "jekyll-scholar", "~> 6.6.0"
    gem "jekyll-last-modified-at", "~> 1.1.0"
-   gem "jekyll-sitemap"
+   #gem "jekyll-sitemap"
+   gem "jekyll-commonmark-ghpages"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

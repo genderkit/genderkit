@@ -1,10 +1,12 @@
 ---
-title: Growing hair
+title: growing hair
 weighting: 2
 feature:
   image: hairbrush.jpg
   caption: "A hair brush"
 ---
+
+### How do I grow my hair?
 
 Hair grows at an average rate of just over 1cm per month, though it can vary slightly from person to person depending on genetics {% cite loussouarn2005diversity %}.
 
@@ -20,13 +22,11 @@ Many hair stylists and hair websites recommend that even when growing your hair,
 
 You can find more detailed information on protecting your hair lower down on this page.
 
-If you'd like you hair to be longer right now without having to wait for it to grow, an alternative you could consider is [hair extensions]({% link _articles/hair-extensions.md %}). You may also be able to get a small increase in hair length from [hair straightening]({% link _articles/hair-straightening.md %}) if your hair is curly or wavy.
-
-### Finding a hairdresser
+### How do I find a hairdresser?
 
 Hair salons can be intimidating and confusing if you've only ever visited a barber's before. Here are a few tips that might help:
 
-- Some hair salons advertise that they are specifically for men or for women; others will advertise themselves as "unisex". If you ask, salons will often accept you as a customer even if your gender does not match what they advertise. There are some hairdressers that specialise in gender variant clients, such as [Open Barbers](http://openbarbers.co.uk/), [Barberette](http://www.barberette.co.uk/), and [Gabriel Jordan](http://www.facebook.com/barbergabrieltherapies).
+- Some hair salons advertise that they are specifically for men or for women; others will advertise themselves as "unisex". If you ask, salons will often accept you as a customer even if your gender does not match what they advertise. There are some hairdressers that specialise in gender variant clients, such as [Open Barbers](http://openbarbers.co.uk/), [Barberette](http://www.barberette.co.uk/), and [Gabriel Jordan](http://www.facebook.com/themassagebarber).
 
 - "Unisex" salons may have different prices listed for "men's" and "women's" hair, but normally this actually means they will charge a more expensive rate for people with longer hair.
 
@@ -36,7 +36,7 @@ Hair salons can be intimidating and confusing if you've only ever visited a barb
 
 - If your body or presentation is different to what people in the hair salon are expecting, you may be anxious about how accepting hair stylists will be. One way to reduce this anxiety is to contact the hair salon to tell them what to expect and ask if they are comfortable cutting your hair. Hair salons are often very LGBT friendly places, and hair stylists cut a very wide range of people's hair from all walks of life, so there is a good chance they will be accepting of you. If you'd like to be sure, you can also try contacting a local trans group in your area, who may be able to suggest hairdressers to you. You can use our [Local groups in the UK page]({% link _resources/local.md %}) to find groups near to you.
 
-### Protecting your hair
+### How do I protect my hair?
 
 Hair is covered in a protective layer of scales called the cuticle. This protects the more delicate inner layers of the hair. If the scales are undamaged and smoothly layered, the hair will look glossy and smooth {% cite madnani2013hair %}.
 
@@ -53,6 +53,10 @@ You can protect against hair damage in the following ways:
 - **UV radiation** - when you are in sunlight, your hair is exposed to UV radiation from the sun which can damage your hair. Some hair products advertise UV protection, but often these aren't helpful, as they either wash out of the hair or don't coat it well {% cite draelos2014hair %}. You can protect your hair by wearing a hat or bandana - or by staying out of the sun between 11am and 3pm in summer, which is recommended to protect your skin from UV radiation. Your hair is more susceptible to UV damage when it is wet {% cite horev2004exogenous %}, so try and keep it dry when you are out in the sun.
 
 Your hair stylist can advise you on caring for your hair - if you're not sure about how to look after your hair, ask them for advice.
+
+### Are there other options?
+
+If you'd like you hair to be longer right now without having to wait for it to grow, an alternative you could consider is [hair extensions]({% link _articles/hair-extensions.md %}). You may also be able to get a small increase in hair length from [hair straightening]({% link _articles/hair-straightening.md %}) if your hair is curly or wavy.
 
 ### References
 

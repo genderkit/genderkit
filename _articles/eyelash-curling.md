@@ -1,10 +1,12 @@
 ---
-title: Eyelash curling
+title: eyelash curling
 weighting: 2
 feature:
   image: eyelash-curler.jpg
   caption: "An eyelash curler"
 ---
+
+### Are there other options?
 
 A more permanent alternative to curling eyelashes with curlers is [permanent eyelash curling]({% link _articles/permanent-eyelash-curling.md %}).
 

@@ -2,29 +2,29 @@
 layout: page
 ---
 
-<main role="main">
+<main>
   <article class="content">
     <section class="bodytext">
       {{ content }}
-      <h3>Indexes</h3>
+      <h3 id="indexes">Indexes</h3>
       <ul class="wordlist">     
         {% for p in site.data.cards.indexes %}
           <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.name }}</a></li>
         {% endfor %}
       </ul>
-      <h3>Explore</h3>
+      <h3 id="explore">Explore</h3>
       <ul class="wordlist">
         {% for p in site.explore %}
           <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}
       </ul>
-      <h3>Words</h3>
+      <h3 id="words">Words</h3>
       <ul class="wordlist">
         {% for word in site.words %}
           <li><a href="{{ word.url | relative_url }}">{{ word.title }}</a></li>
         {% endfor %}
       </ul>
-      <h3>How to do it</h3>
+      <h3 id="how-to-do-it">How to do it</h3>
       <ul class="wordlist">
         {% for p in site.articles %}
           <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>

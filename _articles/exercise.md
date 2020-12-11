@@ -1,14 +1,18 @@
 ---
-title: Exercise
+title: exercise
 weighting: 2
 feature:
   image: exercise.jpg
   caption: "A person using a skateboard"
 ---
 
+### Why might I want to exercise?
+
 You may consider exercise to improve physical fitness but also to improve mental health and fitness. You may also be interested in changing body shape by developing muscle.
 
 It is now widely recognised that there is good evidence that regular exercise has beneficial effects on mental health {% cite stathopoulou2006exercise %}. (You can [read more about this from the NHS](http://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/mental-benefits-of-exercise.aspx)).
+
+### How much should I exercise?
 
 The Chief Medical Officers of England, Scotland, Wales and NI have [recommended](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/216370/dh_128210.pdf) that adults (19-64 years old) should perform either:
 
@@ -16,10 +20,6 @@ The Chief Medical Officers of England, Scotland, Wales and NI have [recommended]
 - 75 minutes of "vigorous" intensity activity spread across the week or combinations of moderate and vigorous intensity activity
 
 One way to do this is brisk walking or cycling for 30 minutes on at least 5 days a week. For example, a 15 minute walk to work or education in the morning and a 15 minute walk back each weekday.
-
-You can read more about the benefits of regular exercise and get advice on what you can do next on [the NHS Choices website](http://www.nhs.uk/livewell/fitness/Pages/Fitnesshome.aspx).
-
-There is also specific information for people with disabilities on [the NHS Choices website](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx).
 
 ### Accessing gendered activities
 
@@ -65,6 +65,12 @@ There is more information on finding a properly qualified and insured personal t
 {% include organisations tag="Sport and Fitness" %}
 
 There is also advice for sports and fitness clubs and venues about how to support diverse genders available on [this website]({% link _resources/sports-and-fitness.md %}).
+
+### Where can I learn more?
+
+You can read more about the benefits of regular exercise and get advice on what you can do next on [the NHS website](http://www.nhs.uk/livewell/fitness/Pages/Fitnesshome.aspx).
+
+There is also specific information for people with disabilities on [the NHS website](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx).
 
 ### References
 

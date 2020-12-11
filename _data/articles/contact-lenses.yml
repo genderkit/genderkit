@@ -1,0 +1,11 @@
+aka: [Contacts, Daily disposables]
+plural: true
+summary: "Replacing glasses with contact lenses, changing your appearance"
+duration: "The effects last only while the contact lenses are worn."
+effects:
+  -
+    category: "Face"
+    detail: "Changes appearance"
+  -
+    category: "Eyes"
+    detail: "Changes colour or makes iris bigger"

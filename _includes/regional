@@ -1,4 +1,4 @@
 <section class="regional">
-  <h3 class="heading">{{ include.heading }}</h3>
+  <h3 id="{{ include.heading | slugify }}" class="heading">{{ include.heading }}</h3>
   {{ include.regionalinfo | markdownify }}
 </section>

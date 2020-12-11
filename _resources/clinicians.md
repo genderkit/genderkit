@@ -28,9 +28,9 @@ Each nation has different policies for how patients should be treated.
 
 - *HSC Northern Ireland*
 
-    HSC NI have not published policies online. For further information contact the [Brackenburn Regional Gender Identity Service](https://belfasttrust.hscni.net/service/regional-gender-identity-service/).
+    The HSC NI services for adults follow the [Royal College of Psychiatrists Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf). For further information contact the [Brackenburn Regional Gender Identity Service](https://belfasttrust.hscni.net/service/regional-gender-identity-service/). The HSC NI service for young people follows [the WPATH Standards of Care](https://www.wpath.org/publications/soc).
 
-Additionally, the specialist gender services follow the [Royal College of Psychiatrists Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf).
+Additionally, services across the UK will follow the [Royal College of Psychiatrists Good Practice Guidelines for the Assessment and Treatment of Adults with Gender Dysphoria](https://www.rcpsych.ac.uk/docs/default-source/improving-care/better-mh-policy/college-reports/cr181-good-practice-guidelines-for-the-assessment-and-treatment-of-adults-with-gender-dysphoria.pdf).
 
 Some CCGs and Trusts have written local policies relating to gender diversity of patients and staff. You can find a large list of these on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/local-medical-policies/).
 
