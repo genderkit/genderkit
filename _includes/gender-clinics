@@ -29,13 +29,13 @@
           {%- endif -%}
 <!-- -->
           {%- if item.publishes-wait -%}
-            <span class="waittime">{%- if item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-first-appointment }}+</em> month wait{%- endif -%}</span>
-          {%- else -%}
             {%- if item.custom-wait -%}
               <span class="waittime">{{ item.custom-wait | markdownify }}</span>
             {%- else -%}
-              <span class="waittime">Unknown wait</span>
+              <span class="waittime">{%- if item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-first-appointment }}+</em> month wait{%- endif -%}</span>
             {%- endif -%}
+          {%- else -%}
+              <span class="waittime">Unknown wait</span>
           {%- endif -%}
         </div>
 <!-- -->

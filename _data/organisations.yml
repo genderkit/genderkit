@@ -73,6 +73,8 @@ organisations:
         image: hsc
         referrals: true
         age-range: 'Under 18'
+        publishes-wait: true
+        wait-first-appointment: 3
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
     -
@@ -84,6 +86,8 @@ organisations:
         manualDescription: 'HSC gender service located in Belfast'
         image: hsc
         age-range: 18+
+        publishes-wait: true
+        custom-wait: Up to *47* months
         referrals: true
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
@@ -239,7 +243,7 @@ organisations:
         age-range: 17+
         nhs-funding: true
         referrals: true
-        publishes-wait: false
+        publishes-wait: true
         custom-wait: Under *2* months
         updated: '2020-08-14'
         catchment: "Very limited access: [more info](http://wearetransplus.co.uk/faqs/)"
