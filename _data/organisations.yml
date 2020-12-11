@@ -84,7 +84,7 @@ organisations:
         manualDescription: 'HSC gender service located in Belfast'
         image: hsc
         age-range: 18+
-        referrals: false
+        referrals: true
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
     -
@@ -403,8 +403,8 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/960562401086267393/aF_sW9VM_normal.jpg'
         age-range: 18+
         wait-first-appointment: 0
-        updated: '2020-11-25'
-        publishes-wait: false
+        updated: '2020-12-09'
+        publishes-wait: true
         nhs-funding: false
         referrals: true
     -

@@ -3,7 +3,7 @@ layout: misc
 title: Specialist UK gender clinics
 description: List of UK gender services including NHS and private clinics
 attention-title: Updated December 2020
-attention-text: This is the most recent information provided by each organisation by 2020-12-02.
+attention-text: This is the most recent information provided by each organisation by 2020-12-09.
 ---
 
 {% capture warn %}
@@ -15,11 +15,9 @@ In the UK, people who are changing things linked to gender are supported by a se
 
 {% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description="You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area." %}
 
-All these services are now able to offer both phone and video appointments.
+All these services are now accepting referrals and able to offer both phone and video appointments.
 
 {% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description="There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service." %}
-
-{% include gender-clinics tag="Gender Clinics" icon="cross" title="UK-based services currently not accepting patients" free=true referrals=false details="These services are no longer accepting new referrals and are only offering appointments to existing patients." %}
 
 ### Other services
 
