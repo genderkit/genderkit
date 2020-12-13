@@ -6,6 +6,8 @@ description: A brief explanation of what it means to have capacity to consent
 
 {% include legal-disclaimer %}
 
+### What does it mean to have capacity to consent?
+
 In order to access treatments, you usually need to have capacity to consent
 to those treatments. You will be assumed to have capacity, unless
 there is a reason to believe otherwise.  Conditions that might impair your
@@ -18,8 +20,18 @@ ability to consent include:
 
 However, just because you have one or more of these conditions *does not* necessarily mean you lack capacity.
 
-According to the Mental Capacity Act (2005), you have the capacity to consent
-to a treatment if you can do all of these things:
+### Who has capacity?
+
+{% capture info %}
+The following information discusses the Mental Capacity Act (2005) and Gillick competency, which are specific to England and Wales. Other laws apply elsewhere:
+* In Scotland, this is covered by the Adults with Incapacity (Scotland) Act (2000) and the Age of Legal Capacity (Scotland) Act (1991).
+* In Northern Ireland, the relevant law is the Mental Capacity Act (Northern Ireland) (2016), and Gillick competency has been adopted there as well.
+
+All of these have broadly the same criteria, though there are some differences in the specific wording.
+{% endcapture %}
+{% include regional regionalinfo=info heading="Outside of England and Wales" %}
+
+According to the Mental Capacity Act (2005), you have the capacity to consent to a treatment if you can do all of these things:
 * *Understand information about the decision you're making*
 
   If you can understand information about the consequences of deciding to have
@@ -44,9 +56,11 @@ a short time, you meet this criterion.
   If you can communicate your consent with *any method* of communication, such as spoken language, written language, sign language, or gesture, you meet this criterion.
 
 Unless there is significant evidence to show you don't meet these criteria, you
-are assumed to have capacity to consent.
+are assumed to have capacity to consent. 
 
 The Mental Capacity Act (2005) relates to adults aged 16 and older. However, the standard of *Gillick competence* means that the same criteria broadly apply to those under the age of 16 {% cite gillick %}, with the exception that the standard of proof is reversed. In other words, you are not automatically assumed to have capacity, but may have to prove it {% cite re-s-child-as-parent %}.
+
+### What if my doctor determines that I don't have capacity?
 
 If you're worried that your *capacity to consent might be denied*, you could consider
 bringing an advocate to medical appointments; this could be a friend or
