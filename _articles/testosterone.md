@@ -6,6 +6,9 @@ feature:
   caption: "A box of Sustanon, an injectable brand of testosterone"
 ---
 
+### How do I stay safe?
+{% include needles optional=true %}
+
 ### What should I be aware of?
 
 {% capture warn %}

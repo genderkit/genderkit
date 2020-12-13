@@ -1,0 +1,8 @@
+{% capture warn %}
+Re-using needles puts you at risk of infection.
+{% endcapture %}
+{% include warning warning=warn %}
+
+{% if include.optional %}If you're taking this as an injection, {% else %}For any injected drug,{% endif %} it is important that you always use fresh needles. If you're injecting yourself and you're not sure where you can get fresh needles, look for a local *needle exchange*. These are organisations that will take used needles and replace them with fresh, sterile ones.
+
+If your injections are being done by a doctor or nurse, they should make sure the needles are sterile.

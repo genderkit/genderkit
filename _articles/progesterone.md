@@ -6,6 +6,10 @@ feature:
   caption: "A box of medroxyprogesterone"
 ---
 
+### How do I stay safe?
+
+{% include needles optional=true %}
+
 ### What kinds are there?
 
 There are two types of chemicals used in progesterone therapy:

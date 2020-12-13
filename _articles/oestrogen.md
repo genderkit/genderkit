@@ -15,6 +15,8 @@ Taking oestrogen causes development of breast tissue. If you have taken oestroge
 
 There is no recommended method for breast self-examination in the UK, but you should learn how your breast tissue feels and looks and see a doctor if you experience any unexpected changes.
 
+{% include needles optional='true' %}
+
 ### What should I be aware of?
 
 {% capture warn %}

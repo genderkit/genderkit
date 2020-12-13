@@ -20,6 +20,8 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 {% endcapture %}
 {% include warning warning=warn %}
 
+{% include needles %}
+
 ### Who might want GnRH agonists?
 <section class="agerestrictions">
 <h3 id="note">Note</h3>
