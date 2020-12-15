@@ -64,8 +64,8 @@
 
 <meta name="twitter:site" content="{{ site.twitter_username }}" />
 
-<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | slice: 0 | upcase }}{{ page.title | slice: 1, page.title.size }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:description" content="{{ description }}" />
 <meta name="twitter:description" content="{{ description }}" />
