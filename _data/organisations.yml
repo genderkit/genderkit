@@ -127,10 +127,10 @@ organisations:
         image: nhs-scotland
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 24
+        wait-first-appointment: 27
         nhs-funding: true
         referrals: true
-        updated: '2020-08-14'
+        updated: '2020-12-15'
         catchment: 'Borders, Fife, or Lothian GP only'
     -
         heading: Glasgow
