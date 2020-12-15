@@ -9,7 +9,7 @@
 cd /vagrant
 mkdir live
 cd live
-git clone git@github.com:genderkit/genderkit.git
+git clone -b 1.3.1 git@github.com:genderkit/genderkit.git
 cd genderkit
 tmpfile=`mktemp --suffix=.yml`
 echo "css_ver:" $(tr -cd 0-9 </dev/urandom | head -c 6) > $tmpfile
