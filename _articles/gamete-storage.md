@@ -35,6 +35,8 @@ If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and t
 
 The Human Fertilisations and Embryology Authority have details of [costs and funding of gamete collection and storage](https://www.hfea.gov.uk/treatments/explore-all-treatments/costs-and-funding/), including options that may help you reduce costs such as egg sharing and treatment abroad. You also can use [their search tool](https://www.hfea.gov.uk/choose-a-clinic/clinic-search/) to find a clinic that will help you.
 
+Thera are also a number of private options. This will generally cost several hundred for storing sperm, or several thousand for storing eggs. There will be extra costs per year you want to store them for.
+
 ### Where can I learn more?
 
 There is detailed information about gamete storage and fertility treatments for trans and non-binary people on [the Human Fertilisations and Embryology Authority website](https://www.hfea.gov.uk/treatments/fertility-preservation/information-for-trans-and-non-binary-people-seeking-fertility-treatment/) and on [the Wales Fertility Institute website](http://www.gpone.wales.nhs.uk/sitesplus/documents/1000/Fertility%20Preservation%20Information%20for%20Gender%20Diversity..V1.pdf).
