@@ -47,6 +47,16 @@ You can get different styles of binders depending on where you get them from and
 
 Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
 
+### How do I put on my binder?
+
+There are two main methods to put on a binder:
+- Pulling it over the head, like a sports bra
+- Turning it inside out, stepping into it and pulling it up over your hips
+
+Which of these is the best method for you will depend on the shape of your body and the type of binder you have. If your binder came with any instructions, these might tell you the best method.
+
+You may need to adjust your chest once the binder is on to get the flattest look possible. Make sure that the resulting fit is comfortable enough for you to wear it, and avoid stretching or creasing your skin.
+
 ### How much will it cost?
 
 Binders typically cost £25-50. Some retailers of binders serving the UK include:
