@@ -1,0 +1,29 @@
+aka: [Casodex]
+summary: "Medication that temporarily blocks the effects of testosterone"
+duration: "Bicalutamide is taken as daily pills and the effects stop if the medication is discontinued. Prolonged use may have some effects that are permanent and cannot be reversed."
+effects:
+  -
+    category: "Body hair"
+    detail: "Reduces and thins"
+  -
+    category: "Muscles"
+    detail: "Weakens and makes smaller"
+  -
+    category: "Head hair"
+    detail: "Reduces hair loss"
+  -
+    category: "Fertility"
+    detail: "Causes temporary or permanent infertility"
+  -
+    category: "Lower body"
+    detail: "Causes genital shrinkage, reduces erections"
+  -
+    category: "Face"
+    detail: "Softens skin, lessens acne"
+  -
+    category: "Libido"
+    detail: "Reduces"
+requirements:
+  - type: non-nhs
+  - type: not-pregnant
+  - type: 18+
