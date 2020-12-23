@@ -88,8 +88,8 @@ If you're looking to reduce costs, you can find bargains in charity shops, some 
 
 If you have clothes you no longer need that are in good condition, you may be able to make money to buy new clothes by selling your existing ones online using sites like [Vinted](https://www.vinted.co.uk/), [Depop](https://www.depop.com/), or [Rebelle](https://www.rebelle.com).
 
-Some areas of the UK have clothes swaps or exchanges, where trans and nonbinary people can find clothes that have been donated by other people who no longer need them. LGBT+ organisations, student unions, and LGBT events will often run clothes swaps - if there isn't one coming up, you can try asking them if they would run one. You might also want to look into events run by [G(end)er swap](https://genderswap.org/events) or [the Cardiff Trans Wardrobe site](https://www.instagram.com/cardiff_trans_wardrobe).
+Some areas of the UK have clothes swaps or exchanges, where trans and nonbinary people can find clothes that have been donated by other people who no longer need them. LGBT+ organisations, student unions, and LGBT events will often run clothes swaps - if there isn't one coming up, you can try asking them if they would run one. You might also want to look into events run by [G(end)er Swap CIC](https://genderswap.org/events) or [the Cardiff Trans Wardrobe site](https://www.instagram.com/cardiff_trans_wardrobe).
 
 ### Where can I learn more?
 
-For more information, advice, and events relating to clothing and style for UK people, check out [the G(end)er Swap website](https://genderswap.org).
+For more clothing support, resources, and advice for LGBTQ+ gender non-conforming and trans people based in the UK, check out [the G(end)er Swap CIC website](https://genderswap.org).

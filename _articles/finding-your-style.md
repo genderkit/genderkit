@@ -85,4 +85,4 @@ If you're looking for inspiration, here are some possibilities to consider for h
 
 You can find more useful information in our [article about buying clothes]({% link _articles/buying-clothes.md %}).
 
-For more information, advice, and events relating to clothing and style for UK people, check out [the G(end)er Swap website](https://genderswap.org).
+For more clothing support, resources, and advice for LGBTQ+ gender non-conforming and trans people based in the UK, check out [the G(end)er Swap CIC website](https://genderswap.org).
