@@ -2,6 +2,11 @@ aka: [Combined pill]
 in-headings: "a contraceptive pill"
 summary: "Medication that reduces the risk of pregnancy and may reduce severity of periods"
 duration: "The effects of the pill last for as long as you take the pill. The pill may take up to a week to take effect depending on the point in the menstrual cycle you start taking it."
+seealso:
+  - text: "The same hormones used in the contraceptive pill are also used as part of hormone replacement therapy"
+    link:
+      - "oestrogen"
+      - "progesterone"
 effects:
   -
     category: "Menstruation"

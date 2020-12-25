@@ -38,8 +38,12 @@ layout: page
       <p>{% if site.data.articles[slug].plural %}They're{%else%}It's{%endif%} also known as {{ info.aka | array_to_sentence_string: 'or' }}.</p>
       {% endif %}
       {% for item in info.seealso %}
-     	{% assign itemslug = item.link | slugify %}
-	<p>{{ item.text }}; see <a href="{{ '/article/' | append: itemslug | relative_url }}">{{item.link}}</a>.</p>
+	<p>{{ item.text }}; see 
+	{% for l in item.link %}
+     	{% assign itemslug = l | slugify %}
+	<a href="{{ '/article/' | append: itemslug | relative_url }}">{{l}}</a>{% if forloop.last %}.{%else%}, {%endif%}
+	{% endfor %}
+	</p>
       {% endfor %}
       {% if site.data.articles[slug].plural %}
       <h3 id="what-do-{{ in-headings | slugify }}-do">What do {{ in-headings }} do?</h3>
