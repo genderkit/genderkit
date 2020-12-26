@@ -135,7 +135,7 @@ end
 desc "Rewrite URLs in bibliography sections to be real links"
 task :referencelinks do
   # Update bibliography sections to include real HTML links to sources
-  files = FileList['_site/article/*/*.html','_site/resources/*/*.html']
+  files = FileList['_site/article/*/*.html','_site/resources/*/*.html','_site/*/*.html','_site/explore/*/*.html']
   files.each do |file_name|
     text = File.open(file_name, 'r'){ |file| file.read }
     if text.gsub!(/\[online\] Available from: ([^\s<]*)/, '<a href="\1">Link</a>')
