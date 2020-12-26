@@ -1,1 +1,104 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1{fill:none;}.cls-1,.cls-2{stroke:#231f20;stroke-linecap:round;stroke-miterlimit:10;stroke-width:16px;}.cls-2{fill:#231f20;}</style></defs><title>icon</title><path class="cls-1" d="M352,216c0,53-96,136-96,136s-96-83-96-136a96,96,0,0,1,192,0Z"/><line class="cls-1" x1="256" y1="448" x2="256" y2="352"/><path class="cls-1" d="M427.27,180.36A61.94,61.94,0,0,0,446,136a64,64,0,0,0-128,0"/><ellipse class="cls-2" cx="413.63" cy="193.55" rx="19" ry="11.83" transform="translate(-15.71 349.17) rotate(-45)"/><path class="cls-1" d="M85.73,180.36A61.94,61.94,0,0,1,67,136a64,64,0,0,1,128,0"/><ellipse class="cls-2" cx="99.37" cy="193.55" rx="11.83" ry="19" transform="translate(-107.76 126.96) rotate(-45)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled
+            {
+                fill:#231f20;
+                stroke:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-width:8px;
+            }
+            .line
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+            }
+            .line-thin
+            {
+                
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:8px;
+            }
+            .line-extra-thick
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:32px;
+            }
+            .text
+            {
+                font-size:300px;
+                font-weight:100;
+                fill:#231f20;
+                stroke:#231f20;
+                font-family:Overpass-Thin, Overpass;
+                letter-spacing:-0.08em;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="icon">
+
+        <path class="line" d='
+            M346,192 
+            c 24 24 64 0 64 24
+            l0,104
+            c 0 24 -40 0 -64 24
+        '/>
+
+        <path class="line" d='
+            M166,192 
+            c -24 24 -64 0 -64 24
+            l0,104
+            c 0 24 40 0 64 24
+        '/>
+
+        <!-- <path class="line-thin" stroke-dasharray="16" d='
+            M224,160 
+            a 360 360 0 0 1 0 192
+            a 32 32 0 0 0 64 0
+            a 360 360 0 0 1 0 -192
+            a 32 32 0 0 0 -64 0
+        '/> -->
+
+        <path class="filled" d='
+            M256,208
+            c 0 32 24 40 24 64
+            a 24 24 0 0 1 -48 0
+            c 0 -24 24 -32 24 -64
+        '/>
+
+        <path class="line-thin" stroke-dasharray="16" d='
+            M184,400 
+            a 64 48 0 0 0 144 0
+            a 256 256 0 0 0 -4 -32
+            a 512 512 0 0 1 0 -224
+            a 256 256 0 0 0 4 -32
+            a 64 48 0 0 0 -144 0
+            a 256 256 0 0 0 4 32
+            a 512 512 0 0 1 0 224
+            a 256 256 0 0 0 -4 32
+        '/>
+
+        <path class="line" d='
+            M160,416 
+            a 96 64 0 0 0 192 0
+            a 256 256 0 0 0 -4 -32
+            a 700 700 0 0 1 0 -256
+            a 256 256 0 0 0 4 -32
+            a 96 64 0 0 0 -192 0
+            a 256 256 0 0 0 4 32
+            a 700 700 0 0 1 0 256
+            a 256 256 0 0 0 -4 32
+        ' />
+    </g>
+</svg>

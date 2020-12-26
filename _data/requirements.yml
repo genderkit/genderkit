@@ -9,7 +9,7 @@ non-nhs:
  icon: age18
 not-pregnant:
  text: "You cannot have this if you are pregnant, or might become pregnant"
- icon: otherrestriction
+ icon: pregnancy
 18+:
  text: "You usually need to be at least 18"
  icon: age18
