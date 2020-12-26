@@ -1,0 +1,15 @@
+aka: [Nexplanon, Etonogestrel]
+in-headings: "a contraceptive implant"
+summary: "A medical implant inserted in your arm which reduces the risk of pregnancy and can reduce or stop menstruation"
+duration: "The contraceptive implant lasts for three years before needing replacement."
+seealso:
+  - text: "The same hormones used in the contraceptive implant can also be used for other purposes"
+    link:
+      - "progesterone"
+effects:
+  -
+    category: "Menstruation"
+    detail: "Reduces or stops"
+  -
+    category: "Fertility"
+    detail: "Reduces pregnancy risk"

@@ -42,6 +42,8 @@ The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated 
 
 The Buying Clothes article is illustrated using a [photograph by Sara Kurfeß on Unsplash](https://unsplash.com/photos/5epnzwsphl0).
 
+The Contraceptive Implant article is illustrated using a [photograph by the Science Museum, London](https://wellcomecollection.org/works/vxcg4g86) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/).
+
 The Contraceptive Pill article is illustrated using a [photograph by Thought Catalog on Unsplash](https://unsplash.com/photos/psgqUnk8zvM).
 
 The Disguising Body Shape article is illustrated using a [photograph by cristian castillo on Unsplash](https://unsplash.com/photos/N2rYZg72Lig).
