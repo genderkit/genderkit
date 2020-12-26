@@ -12,4 +12,5 @@ effects:
     category: "Body hair"
     detail: "Reduces body hair"
 requirements:
+  - type: 18+-strong
   - type: not-pregnant

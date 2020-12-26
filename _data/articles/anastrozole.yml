@@ -5,3 +5,5 @@ effects:
   -
     category: "Menstruation"
     detail: "Stops"
+requirements:
+  - type: 18+

@@ -4,3 +4,6 @@ duration: "Counselling may be as short as six sessions or may involve several ye
 effects:
   - category: "Mood"
     detail: "Improves or stabilises"
+requirements:
+  - type: 16+
+    detail: Most NHS talking therapies are adults-only, with the specific age cutoff depending on the service

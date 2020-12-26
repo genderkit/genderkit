@@ -25,5 +25,7 @@ effects:
     detail: "Reduces"
     
 requirements:
+  - type: 18+
+    detail: "This is not recommended for use with under-18s, and must not be given before the end of puberty"
   - type: non-nhs
     detail: "This is not normally available on the NHS, except as a temporary measure"

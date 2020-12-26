@@ -24,4 +24,6 @@ effects:
     category: "Libido"
     detail: "Reduces"
 requirements:
+  - type: generic
+    detail: "Children with moderate to severe kidney disease must not have this"
   - type: non-nhs

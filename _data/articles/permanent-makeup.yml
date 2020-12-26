@@ -5,3 +5,5 @@ effects:
   -
     category: "Face"
     detail: "Adds definition to facial features"
+requirements:
+  - type: 18+-strong

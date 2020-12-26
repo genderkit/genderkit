@@ -1,6 +1,9 @@
 other-conditions-controlled:
  text: "If you have significant medical conditions, these need to be [\"reasonably well-controlled\"](/resources/other-conditions)"
  icon: otherrestriction 
+generic:
+ text: "This text should never be seen, so I will spell a word badly to make the build break: sdkjghfdjkghfd"
+ icon: otherrestriction
 non-nhs:
  text: "This is not normally available on the NHS"
  icon: otherrestriction

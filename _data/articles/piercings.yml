@@ -4,3 +4,6 @@ plural: true
 effects:
   - category: "Face"
     detail: "Allows attaching jewellery, such as earrings"
+requirements:
+  - type: 16+
+    detail: "In Scotland, you need to be at least 16 to get a piercing. In other places it depends on the shop."
