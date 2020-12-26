@@ -8,10 +8,7 @@ feature:
 
 ### What should I be aware of?
 
-{% capture warn %}
-Testosterone and/or GnRH agonists do not provide reliable contraception for people with ovaries {% cite fsrh2017contraceptive %}. They do not prevent pregnancy effectively.
-{% endcapture %}
-{% include warning warning=warn %}
+The contraceptive implant has a very high effectiveness, but there is still a small (<1%) chance of pregnancy, and some medicines may make the implant less effective {% cite nexplanon %}. Combining the implant with the use of barrier methods such as a condom will reduce the risk of pregnancy even further.
 
 ### Why might I want a contraceptive implant?
 
@@ -27,7 +24,7 @@ You might not want to undergo the surgery to insert and remove the implant. Howe
 
 If you don't want other people to know you are using contraception, an implant might not be the best option for you, as other people may be able feel or see it if they look closely at your arm.
 
-Some people decide they do not want the implant because they experience side effects from the implant, such as headaches, acne, or heavy bleeding.
+Some people decide they do not want the implant because they experience side effects from the implant, such as headaches, acne, or heavy bleeding. However, not everyone will experience these side effects.
 
 ### Are there other options?
 

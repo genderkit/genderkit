@@ -9,11 +9,6 @@ feature:
 ### What should I be aware of?
 
 {% capture warn %}
-Testosterone and/or GnRH agonists do not provide reliable contraception for people with ovaries {% cite fsrh2017contraceptive %}. They do not prevent pregnancy effectively.
-{% endcapture %}
-{% include warning warning=warn %}
-
-{% capture warn %}
 Most contraceptives contain oestrogen which can interfere with [testosterone]({% link _articles/testosterone.md %}) treatment. If you are using testosterone, ask your doctor for a "progesterone-only" contraceptive instead {% cite fsrh2017contraceptive %}.
 {% endcapture %}
 {% include warning warning=warn %}
