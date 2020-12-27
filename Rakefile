@@ -10,7 +10,8 @@ end
 
 task :resize240webp do
   sh "mkdir -p assets/images/articles/240webp"
-  files = FileList['assets/images/articles/original/*.jpg']
+  sh "mkdir -p assets/images/photos/240webp"
+  files = FileList['assets/images/articles/original/*.jpg', 'assets/images/photos/original/*.jpg']
   files.each do |file|
     puts "Resizing #{file}..."
     target = file.gsub("original", "240webp").gsub("jpg","webp")
@@ -21,7 +22,8 @@ end
 
 task :resize240 do
   sh "mkdir -p assets/images/articles/240"
-  files = FileList['assets/images/articles/original/*.jpg']
+  sh "mkdir -p assets/images/photos/240"
+  files = FileList['assets/images/articles/original/*.jpg', 'assets/images/photos/original/*.jpg']
   files.each do |file|
     puts "Resizing #{file}..."
     target = file.gsub("original", "240")
@@ -32,7 +34,8 @@ end
 
 task :resize600webp do
   sh "mkdir -p assets/images/articles/600webp"
-  files = FileList['assets/images/articles/original/*.jpg']
+  sh "mkdir -p assets/images/photos/600webp"
+  files = FileList['assets/images/articles/original/*.jpg', 'assets/images/photos/original/*.jpg']
   files.each do |file|
     puts "Resizing #{file}..."
     target = file.gsub("original", "600webp").gsub("jpg","webp")
@@ -43,7 +46,8 @@ end
 
 task :resize600 do
   sh "mkdir -p assets/images/articles/600"
-  files = FileList['assets/images/articles/original/*.jpg']
+  sh "mkdir -p assets/images/photos/600"
+  files = FileList['assets/images/articles/original/*.jpg', 'assets/images/photos/original/*.jpg']
   files.each do |file|
     puts "Resizing #{file}..."
     target = file.gsub("original", "600")
