@@ -1,10 +1,7 @@
 {% if page.feature %}
 	<aside>
 		<figure>
-			<picture>
-                <source type="image/webp" srcset="{{ 'assets/images/articles/600webp/' | append: page.feature.image | replace: '.jpg', '.webp' | relative_url }}">
-					<img src="{{ 'assets/images/articles/600/' | append: page.feature.image | relative_url }}" alt="{{ page.feature.caption }}" />
-              </picture>
+			{% include picture.html size=600 image=page.feature.image alt=page.feature.caption %}
 		</figure>
 	</aside>
 {% else %}
