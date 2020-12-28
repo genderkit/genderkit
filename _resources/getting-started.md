@@ -55,34 +55,34 @@ These are some things that are easy and quick to try out.
 <ul class="columns getting-started">
 <li>
 
-{% include picture.html size=240 folder="photos" image="getting-started-hat.jpg" alt="The top of a white person's head, covered by a purple hat." %}
+{% include picture.html size=600 folder="photos" image="getting-started-hat.jpg" alt="The top of a white person's head, covered by a purple hat." %}
 
 *Hide your hair*: want to see what you might look like with short hair? Tuck your hair into a beanie hat.
 
 </li><li>
 
-{% include picture.html size=240 folder="articles" image="nail-varnish.jpg" alt="Multiple colours of nail varnish." %}
+{% include picture.html size=600 folder="articles" image="nail-varnish.jpg" alt="Multiple colours of nail varnish." %}
 
 *Paint your nails*: you can buy some nail varnish for less than £5, and they normally come with their own brush. Don’t forget to pick up some nail varnish remover so you can get the varnish off again afterwards.
 
 </li>
 <li>
 
-{% include picture.html size=240 folder="photos" image="getting-started-socks.jpg" alt="Brightly-coloured socks on a washing line." %}
+{% include picture.html size=600 folder="photos" image="getting-started-socks.jpg" alt="Brightly-coloured socks on a washing line." %}
 
 *Try different underwear out*: leggings, tights, and underpants are cheap to buy and you can often wear them without anyone else noticing.
 
 </li>
 <li>
 
-{% include picture.html size=240 folder="photos" image="getting-started-digital.jpg" alt="A character creator for a video game." %}
+{% include picture.html size=600 folder="photos" image="getting-started-digital.jpg" alt="A character creator for a video game." %}
 
 *Use digital spaces* like video games or chat apps to try out a different name, pronouns, or gender. You don’t have to link it to your offline identity if you don’t want to.
 
 </li>
 <li>
 
-{% include picture.html size=240 folder="photos" image="getting-started-names.jpg" alt="A list of names of various genders." %}
+{% include picture.html size=600 folder="photos" image="getting-started-names.jpg" alt="A list of names of various genders." %}
 
 *Try out new names and pronouns with friends*, especially ones you can trust to keep a secret.
 
