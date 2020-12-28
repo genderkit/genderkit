@@ -52,6 +52,11 @@ Testosterone usually causes periods to stop, but does not remove the risk of pre
 
 Testosterone does not remove the need for [cervical screening tests](http://www.nhs.uk/conditions/cervical-screening-test/pages/introduction.aspx).
 
+{% capture warn %}
+Do not take testosterone if you are pregnant as it can damage a developing foetus {% cite wpath7 fsrh2017contraceptive %}.
+{% endcapture %}
+{% include warning warning=warn %}
+
 ### Why might I want testosterone?
 
 Testosterone causes a large number of physical changes to your body that you may wish for, including significant changes to body fat distribution, hair growth, pitch of voice.

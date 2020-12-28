@@ -26,3 +26,4 @@ effects:
     detail: "Changes body odour"
 requirements:
   - multi: standard-hrt-reqs
+  - type: not-pregnant
