@@ -4,3 +4,6 @@ effects:
   -
     category: "Face"
     detail: "Changes nose shape"
+requirements:
+  - type: 16+
+    detail: "There is no defined age limit, but most surgeons will not operate on someone under 16, as the nose is still developing"

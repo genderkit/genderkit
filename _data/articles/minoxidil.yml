@@ -8,3 +8,6 @@ effects:
   -
     category: "Head hair"
     detail: "Reduces hair loss"
+requirements:
+  - type: 18+
+

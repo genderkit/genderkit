@@ -8,3 +8,9 @@ effects:
   -
     category: "ID documents"
     detail: "Changes birth and marriage certificates"
+requirements:
+  - type: 18+-strong
+  - type: generic
+    detail: "You need a [formal diagnosis](/article/formal-diagnosis/)"
+  - type: 24-months-rle
+  - type: gender-permanent

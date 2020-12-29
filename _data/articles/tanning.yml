@@ -5,3 +5,6 @@ effects:
   -
     category: "Face"
     detail: "Darkens/tans skin"
+requirements:
+  - type: 18+
+    detail: "Tanning beds are only available for use by adults, but anyone may sunbathe in natural sunlight"

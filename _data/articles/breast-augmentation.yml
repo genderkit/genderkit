@@ -4,3 +4,6 @@ effects:
   -
     category: "Upper body"
     detail: "Increases breast size"
+requirements:
+  - type: 18+
+    detail: "There is no legal age limit, but most surgeons will not operate on young people under 18"

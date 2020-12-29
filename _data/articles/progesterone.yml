@@ -10,3 +10,5 @@ effects:
     detail: "Stops"
   - category: "Upper body"
     detail: "(Possibly) increases breast growth"
+requirements:
+  - type: non-nhs

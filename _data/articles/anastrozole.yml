@@ -7,3 +7,4 @@ effects:
     detail: "Stops"
 requirements:
   - type: 18+
+  - type: not-pregnant

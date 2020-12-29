@@ -5,3 +5,7 @@ effects:
   -
     category: "Face"
     detail: "Changes appearance"
+requirements:
+  - type: 18+
+  - type: generic
+    detail: "Ideally your prescription should not have changed in the last two years"
