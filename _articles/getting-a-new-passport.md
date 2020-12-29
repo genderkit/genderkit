@@ -21,6 +21,12 @@ You should check with any country you hold a visa with before you update your de
 
 ### How do I get a new passport?
 
+To apply for your own adult passport you must be either:
+- 16 or over
+- turning 16 within the next three weeks.
+
+If you are under 16, your parent or guardian must apply for a child passport for you.
+
 Updating a passport is different depending on whether you already have a UK passport or not.
 
 - *If you already have an existing UK passport*
