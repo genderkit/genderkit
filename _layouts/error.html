@@ -27,7 +27,7 @@ layout: page
       <h3 id="how-to-do-it">How to do it</h3>
       <ul class="wordlist">
         {% for p in site.articles %}
-          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title | slice: 0 | upcase }}{{ p.title | slice: 1, p.title.size }}</a></li>
         {% endfor %}
       </ul>
     </section>
