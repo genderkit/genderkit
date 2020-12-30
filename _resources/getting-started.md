@@ -14,7 +14,7 @@ You don’t have to do anything right now. It’s okay to find the idea of chang
 
 There are a few things that take some time that you might want to get started with early, and we'll come back to these [later in the page](#what-can-i-do-right-now).
 
-*Work out what you want*
+*Try out different things*
 
 It can be difficult to know what you want to do, especially when there are so many options to choose from. The easiest way to figure this out is to try different things out; the more things you try, the more you’ll learn about what is right for you. Keep in mind that what’s right for one person may be wrong for you, and vice-versa.
 
@@ -24,7 +24,7 @@ This site is split into sections, and each one is about something you might want
 
 You don’t need to try changing everything. We’ve listed a lot of what's out there so that you can make your own decisions. But we can’t list everything, so if you can’t find something on here, there might still be a way to change it.
 
-*Work out what you need*
+*Listen to your discomfort*
 
 Are there things about your body that make you uncomfortable? Do you feel like something is wrong when you do something in particular? Perhaps you feel jealous that other people get to use clothes, names, or words that you can’t, or unable to shake the feeling that you aren’t the way other people see you?
 
@@ -36,7 +36,7 @@ Not everyone will experience this sort of feeling. If dysphoria doesn’t sound 
 
 ### But wait, what about...?
 
-If you’re worried about whether changing things is right for you, or about what might happen if you do, take a look at [our page of common worries and concerns].
+If you’re worried about whether acting on these feelings is right for you, or about what might happen if you do, take a look at [our page of common worries and concerns]({% link _resources/common-concerns.md %}).
 
 ### When can I start?
 
@@ -84,7 +84,7 @@ These are some things that are easy and quick to try out.
 
 {% include picture.html size=600 folder="photos" image="getting-started-names.jpg" alt="A list of names of various genders." %}
 
-*Try out new names and pronouns with friends*, especially ones you can trust to keep a secret.
+*Try out new names and pronouns with friends*, especially ones you can trust to keep a secret. Some friends and friendship groups may be more open to this than others.
 
 </li>
 </ul>
@@ -107,15 +107,17 @@ This site is for anyone - whether they are “transgender” or not - who wants 
 
 {% include picture.html size=600 folder="photos" image="getting-started-7.jpg" alt="Two people in gender-blending clothes and makeup." %}
 
-Some countries and cultures have their own ways of talking about gender that include more than just “man” and “woman”. If you’re from one of these cultures, you might find that the terms your culture uses fit you better than words like “transgender”, or you might not. However, if you’re not from one of these cultures, you should avoid using their words to describe yourself, as this is a form of [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation).
+Some countries and cultures have their own ways of talking about gender that include more than just “man” and “woman”. If you’re from one of these cultures, you might find that the terms your culture uses fit you better than words like “transgender”, or you might not. However, if you’re not from one of these cultures, you should avoid using their words to describe yourself, as this is a form of cultural appropriation.
+
+[Our words section]({% link words.md %}) lists various non-culturally-specific terms relating to gender. You might find something there that you feel describes your experience. If you don't, you should keep in mind that your feelings are still legitimate even if you don't know what the word is for them.
 
 ### What should I plan ahead for?
 
 * *Referrals*
 
-  Unfortunately, the waiting times for [NHS gender identity clinics](/resources/gender-services/#free-uk-based-services) in this country are generally pretty long. If you think you might want any sort of medical treatments, it might be worth getting a referral in as soon as possible, even if you’re not completely sure you’ll need their help.
+  Unfortunately, the waiting times for [gender identity clinics](/resources/gender-services/) in this country are generally pretty long. If you think you might want any sort of medical treatments, it might be worth getting a referral in as soon as possible, even if you’re not completely sure you’ll need their help.
 
-  If you do want the help of a gender clinic and are finding the waiting time difficult, there may be [private providers](/resources/gender-services/#paid-uk-based-services) you can see, or you may be able to get your doctor to [prescribe HRT before the clinic sees you]({% link _resources/hrt-without-diagnosis.md %}).
+  If you do want the help of a gender clinic and are finding the waiting time difficult, there may be a clinic out there with a shorter waiting list, or you may be able to get your doctor to [prescribe HRT before the clinic sees you]({% link _resources/hrt-without-diagnosis.md %}).
 
 * *Gender Recognition Certificate*
 
