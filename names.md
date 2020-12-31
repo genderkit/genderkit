@@ -1,5 +1,5 @@
 ---
-layout: names
+layout: misc
 title: Names
 description: Suggestions about how to choose a new name including lists of common names
 ---
@@ -44,3 +44,19 @@ In the UK, forenames typically have gendered associations, while family names ca
 
 You might do this because you wish to make a clean break between an old identity and a new identity, to indicate a separation between yourself and other people with the old name, or just because you want to change it.
 
+### Lists of names
+
+These useful lists might inspire you.
+
+<ul class="wordlist">
+{% assign explore = site.explore | sort: 'title' %}
+{% for item in explore %}
+{% if item.title contains 'name' %}
+<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Changing your name
+
+You can read about how to change your name on our [ID documents page]({% link _categories/id-documents.md %}).

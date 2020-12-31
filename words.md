@@ -1,9 +1,29 @@
 ---
-# Top half of this page is hard coded into the "identities" layout
-layout: words
+layout: misc
 title: Words
 description: Information about common words used to describe gender non-conforming people in the UK
 ---
+
+### Finding words to describe yourself
+
+You're allowed to be whoever you like. No-one can tell you who you are. Everyone is unique and is not fully described by any word or combination of words.
+
+Sooner or later, however, you will find you will need to use words to describe yourself to other people. There are a number of common words used to describe people, which all have advantages and disadvantages.
+
+### Commonly used words
+
+Click a word for more information on what the word means and when to use it.
+
+<ul class="wordlist">
+{% for word in site.words %}
+<li><a href="{{ word.url | relative_url }}">{{ word.title }}</a></li>
+{% endfor %}
+</ul>
+
+{% capture warn %}
+Remember when you are talking about other people to use the words they prefer. If you're not sure, ask.
+{% endcapture %}
+{% include warning warning=warn %}
 
 ### Words to avoid
 
