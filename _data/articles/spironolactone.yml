@@ -3,6 +3,9 @@ summary: "Medication that temporarily reduces production of testosterone"
 duration: "Spironolactone is taken as daily pills and the effects stop if the medication is discontinued. Prolonged use may have some effects that are permanent and cannot be reversed."
 effects:
   -
+    category: "Facial hair"
+    detail: "Prevents additional growth and may reduce and thin"
+  -
     category: "Body hair"
     detail: "Prevents additional growth and may reduce and thin"
   -
@@ -24,7 +27,7 @@ effects:
     category: "Libido"
     detail: "Reduces"    
   -
-    category: "Odour"
+    category: "Fragrance"
     detail: "Prevents change of body odour due to puberty"
 requirements:
   - type: generic

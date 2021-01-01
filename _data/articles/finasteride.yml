@@ -9,8 +9,11 @@ effects:
     category: "Facial hair"
     detail: "Slows growth"
   -
+    category: "Facial hair"
+    detail: "Prevents additional growth and may reduce and thin"
+  -
     category: "Body hair"
-    detail: "Reduces body hair"
+    detail: "Prevents additional growth and may reduce and thin"
 requirements:
   - type: 18+-strong
   - type: not-pregnant
