@@ -7,7 +7,7 @@ feature:
 ---
 
 ### Why might I want to register a name change?
-There are two main situations in which you might want to consider a name change:
+There are two main situations in which you might want to register a name change:
 - *If you are under 16*, registering your name change officially may reduce the need to supply proof of parental consent when updating your name with other organisations.
 - *If you were born or adopted in Scotland or Northern Ireland*, registering a change of name will allow you to request an updated birth certificate with your new name alongside your original name. You do not need to do this to use a new name in Scotland or Northern Ireland – you can use a [statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}) instead.
 

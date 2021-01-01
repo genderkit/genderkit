@@ -8,13 +8,13 @@ effects:
     detail: "Stops"
   -
     category: "Body hair"
-    detail: "Reduces and thins"
+    detail: "Prevents additional growth and may reduce and thin"
   -
     category: "Muscles"
     detail: "Weakens and makes smaller"
   -
     category: "Head hair"
-    detail: "Reduces hair loss"
+    detail: "Prevents some forms of hair loss"
   -
     category: "Fertility"
     detail: "Causes temporary or permanent infertility"
@@ -27,5 +27,11 @@ effects:
   -
     category: "Libido"
     detail: "Reduces"    
+  -
+    category: "Odour"
+    detail: "Prevents change of body odour due to puberty"
+  -
+    category: "Upper body"
+    detail: "Prevents breast development"
 requirements:
   - multi: standard-blocker-reqs

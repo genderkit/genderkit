@@ -91,6 +91,6 @@ standard-blocker-reqs:
  - type: consent
  - type: other-conditions-controlled
  - type: 16+
-   detail: "As of December 2020, under 16s will need a 'best interests' court order"
+   detail: "As of December 2020, under 16s may need a 'best interests' court order"
  - type: tanner2
  - type: bmi-bd 

@@ -6,7 +6,7 @@ description: Answers to a number of common concerns
 
 ### How can I stop feeling like this?
 
-There isn’t really a “cure” for wanting to change your gender like this. The NHS and all the main counselling and psychotherapy organisations in the UK have all publicly announced there is no medical way to “cure” these feelings. Some people will claim to have a cure, but these treatments do not work, and can make things much worse for you.
+There isn’t really a “cure” for wanting to change your gender like this. The NHS and all the main counselling and psychotherapy organisations in the UK have all [publicly announced](https://www.bacp.co.uk/events-and-resources/ethics-and-standards/mou/) there is no medical way to “cure” these feelings. Some people will claim to have a cure, but these treatments do not work, and can make things much worse for you.
 
 The good news is that you will not always feel as bad as you do now. You can feel better by exploring your gender and working out what’s right for you.
 

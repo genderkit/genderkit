@@ -4,13 +4,13 @@ duration: "Cyproterone is taken as a tablet twice daily and effects last while t
 effects:
   -
     category: "Body hair"
-    detail: "Reduces and thins"
+    detail: "Prevents additional growth and may reduce and thin"
   -
     category: "Muscles"
     detail: "Weakens and makes smaller"
   -
     category: "Head hair"
-    detail: "Reduces hair loss"
+    detail: "Prevents some forms of hair loss"
   -
     category: "Fertility"
     detail: "Causes temporary or permanent infertility"
@@ -19,11 +19,13 @@ effects:
     detail: "Causes genital shrinkage, reduces erections"
   -
     category: "Face"
-    detail: "Softens skin, lessens acne"
+    detail: "Softens skin, reduces acne"
   -
     category: "Libido"
-    detail: "Reduces"
-    
+    detail: "Reduces"    
+  -
+    category: "Odour"
+    detail: "Prevents change of body odour due to puberty"
 requirements:
   - type: 18+
     detail: "This is not recommended for use with under-18s, and must not be given before the end of puberty"

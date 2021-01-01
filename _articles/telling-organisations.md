@@ -6,11 +6,13 @@ feature:
   caption: "An online form for changing name and title"
 ---
 
+### What should I be aware of?
+
+If you are under 16, you may need to supply proof of parental consent.
+
 ### Who should I tell?
 
 We've created a checklist of places you might want to notify of a change of names, pronouns or title.
-
-If you are under 16, you may need to supply proof of parental consent.
 
 {% include checklist checklist=telling-organisations %}
 
