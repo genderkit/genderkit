@@ -18,6 +18,8 @@ There are a lot of stereotypes about gay men being feminine and lesbians being m
 
 Our society tends to treat gender and sexuality as if they’re the same, but for many people this isn’t really true. You might find that you feel like your gender is an entirely separate thing from your sexuality, or that they’re closely intertwined. There’s no “right” way to think about these things, only what works for you.
 
+If you are questioning your sexuality and need help working through these feelings, you could talk to a [counsellor]({% link _articles/counselling.md %}), or contact an LGBT+ helpline like [Switchboard](https://switchboard.lgbt).
+
 ### What if people think I am gay?
 
 It’s gradually becoming more accepted to explore feelings around gender, though there’s still a way to go. People will always make assumptions about who you are based on how you look, but people who really know and care about you should realise that you can’t always judge a book by its cover.

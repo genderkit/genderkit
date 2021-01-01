@@ -124,3 +124,6 @@ Some countries and cultures have their own ways of talking about gender that inc
   To get the gender changed on your birth certificate, you’ll generally need what’s called a [Gender Recognition Certificate]({% link _articles/obtaining-a-grc.md %}). This requires you to provide evidence of having lived as your chosen gender for at least two years. An easy way to do this is to change your name, and [tell organisations]({% link _articles/telling-organisations.md %}) like banks or utility companies about your name change as soon as you can, as the letters they send you can be used as evidence.
 
 ### Where can I learn more?
+
+* Kate Bornstein's [My New Gender Workbook](https://www.amazon.co.uk/New-Gender-Workbook-Step-Step/dp/0415538653) and Meg-John Barker and Alex Iantaffi's [How to Understand Your Gender](https://www.amazon.co.uk/How-Understand-Your-Gender-Practical/dp/1785927469/) are books offering advice to anyone questioning their gender identity.
+* Trans Health UK have a [Navigating UK Trans Healthcare](https://transhealthuk.noblogs.org/navigating-uk-trans-healthcare/) page with links to a number of useful resources on how to navigate the healthcare system.
