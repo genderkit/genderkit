@@ -58,6 +58,8 @@ The Finding Your Style article is illustrated using a [photograph by Waldemar Br
 
 The gamete storage article is illustrated using a [photo of ovarian tissue cryopreservation taken by Dr. Vereczkey Attila](https://commons.wikimedia.org/wiki/File:Petef%C3%A9szeksz%C3%B6vet-cs%C3%ADkok_fagyasztva_t%C3%A1rol%C3%A1sa.jpg) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
+The Getting Started page is illustrated using several photographs from [The Gender Spectrum Collection](https://genderphotos.vice.com) which were made available under a [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/4.0/). The page also contains a [photo by Shane](https://unsplash.com/photos/RnreUGy5Apk), a [photo by Nick Page](https://unsplash.com/photos/XMg8GBzNmgA), a [photo by Jana Sabeth](https://unsplash.com/photos/USKsnSIDNIA), and a [photo by Bret Kavanaugh](https://unsplash.com/photos/ge8IxvM5Gxk) as found on Unsplash.
+
 The Hair Curling article is illustrated using a [photograph by Baylee Gramling on Unsplash](https://unsplash.com/photos/a3xr2mVjT5M).
 
 The Registering A Name Change article is illustrated using a portion of a [photograph by David Caster on Wikimedia](https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_2019.jpg).
