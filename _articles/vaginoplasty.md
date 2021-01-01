@@ -53,6 +53,30 @@ A very common complication of vaginoplasty is *granulation tissue* forming insid
 
 For some people, vaginoplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
+### What kinds are there?
+
+Types of vaginoplasty that surgeons carry out include:
+
+- *Penile inversion vaginoplasty*
+
+  In this technique, the vagina is created using material from the penis turned inside out ("inverted").
+
+- *Penoscrotal flap vaginoplasty*
+
+  In this technique, the vagina is created using material from both the penis and scrotum, and is often used if there is not enough donor material in the penis alone.
+
+- *Cosmetic vaginoplasty*
+
+  This is one way used to describe [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) without the creation of a neovagina; other terms for this procedure include "vulvoplasty".
+
+- *Sigmoid vaginoplasty*
+
+  In a sigmoid colon vaginoplasty, the vagina is created using tissue from the sigmoid colon (part of the lower intestine), which may be used if there is insufficient penile and scrotal tissue, for example after puberty blockers or if a repair is needed after complications of an existing vaginoplasty {% cite bouman2016sigmoid %}.
+
+- *Peritoneal vaginoplasty*
+
+  Also known as peritoneal pull-through vaginoplasty, this is a newer technique that is not commonly available in the UK. While the technique has been used for decades for medical conditions that cause underdevelopment of the vagina, and appears to have advantages over sigmoid vaginoplasty, the use of this technique in trans and nonbinary patients is relatively new and untested compared to other techniques {% cite slater2018neovaginal %}.
+
 ### How do I get ready for surgery?
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
