@@ -13,6 +13,11 @@ Not all breast tissue is removed in mastectomy, and it does not remove the risk 
 {% endcapture %}
 {% include warning warning=warn %}
 
+{% capture info %}
+Chest reconstruction surgeries on under 18s who have been on testosterone appear to have similar complications to those in young adults {% cite mahfouda2019 %}, but the research on this is limited.
+{% endcapture %}
+{% include under18s info=info %}
+
 Double incision mastectomy carries a risk of loss of sensation in the nipples or loss of the nipples entirely. If a nipple is completely lost, some people use cosmetic tattooing to give the appearance that the nipple is still there.
 
 ### Are there other options?

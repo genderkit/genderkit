@@ -10,6 +10,11 @@ feature:
 
 Do not attempt to radically reduce calories by eating extremely small amounts unless you have been told to do so by a doctor.
 
+{% capture info %}
+While your body is still developing, it is especially important that you eat enough food. The NHS has a guide giving advice on [healthy eating for teens](https://www.nhs.uk/live-well/eat-well/healthy-eating-for-teens/).
+{% endcapture %}
+{% include under18s info=info %}
+
 ### Why might I want to diet?
 
 Dieting is a way to reduce body fat by changing what you eat. You may be interested in losing body fat:

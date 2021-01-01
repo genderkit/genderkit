@@ -1,0 +1,4 @@
+<section class="agerestrictions">
+  <h3 id="information-for-under-18s" class="header">Information for under 18s</h3>
+  {{ include.info | markdownify }}
+</section>

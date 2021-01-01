@@ -1,0 +1,11 @@
+<section class="agerestrictions">
+  <h3 id="information-for-under-18s" class="header">Information for under 18s</h3>
+
+There is no set lower age limit for cosmetic facial surgery. However, the General Medical Council recommend {% cite gmc-cosmetic %} that:
+
+* Cosmetic surgeries must only be given to minors when it is in their best interests
+* Even if you have [capacity to consent]({% link _resources/capacity.md %}), you will be encouraged to involve your parents in the decision
+* If you do not want to have a cosmetic surgery, you should not have one, even if your parents consent on your behalf
+* Cosmetic surgeries should not be marketed towards under 18s
+
+</section>
