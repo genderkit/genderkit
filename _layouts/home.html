@@ -8,13 +8,13 @@
     <h1 id="gck-logo">
       <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo.png" />
     </h1>
-    <h2 id="{{page.description | slugify }}">
-      {{ page.description }}
-    </h2>
   </header>
 
   <section>
+  <h3>In the UK? Here's how to change your:</h3>
   {% include cards cards="explore" icons="true" %}
+  <h3>Don't know where to begin?</h3>
+  <p>Read <a href="{% link _resources/getting-started.md %}">how to get started.</a></p>
   </section>
 
   {% include footer.html %}
