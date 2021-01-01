@@ -1,0 +1,16 @@
+aka: [Medroxyprogesterone acetate, MPA, Depo-Provera, Sayana Press]
+in-headings: "a contraceptive injection"
+summary: "An injection which reduces the risk of pregnancy and can reduce or stop menstruation"
+duration: "The contraceptive injection must be administered regularly, most commonly every 12 weeks. It may take significant time for fertility to return after the medication is stopped."
+seealso:
+  - text: "The same hormones used in the contraceptive implant can also be used for other purposes"
+    link:
+      - "progesterone"
+      - "contraceptive implant"
+effects:
+  -
+    category: "Menstruation"
+    detail: "Reduces or stops"
+  -
+    category: "Fertility"
+    detail: "Reduces pregnancy risk"

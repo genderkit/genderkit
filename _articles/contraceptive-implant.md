@@ -12,11 +12,13 @@ The contraceptive implant has a very high effectiveness, but there is still a sm
 
 ### Why might I want a contraceptive implant?
 
-A contraceptive implant substantially reduce the risk of pregnancy for up to three years. Unlike the [contraceptive pill]({% link _articles/contraceptive-pill.md %}), you do not need to remember to take a pill every day.
+A contraceptive implant substantially reduces the risk of pregnancy for up to three years. Unlike the [contraceptive pill]({% link _articles/contraceptive-pill.md %}), you do not need to remember to take a pill every day.
 
-For many people the contraceptive implant reduces menstruation (periods) and menstrual pain. For around 1 in 5 people, it stops menstruation entirely {% cite nexplanon %}.
+For many people the contraceptive implant reduces menstruation (periods) and menstrual pain. For around 1 in 5 people, it stops menstruation entirely, and for around 3 in 4 menstruation will be infrequent {% cite fsrh2014implants nexplanon %}.
 
-If you are using [testosterone]({% link _articles/testosterone.md %}), the contraceptive implant that is believed to be a better choice than the [combined contraceptive pill]({% link _articles/contraceptive-pill.md %}) {% cite fsrh2017contraceptive %}.
+Unlike [contraceptive injections]({% link _articles/contraceptive-injection.md %}), when the implant is removed there is not normally a long delay before fertility returns {% cite fsrh2019young %}.
+
+If you are using [testosterone]({% link _articles/testosterone.md %}), the contraceptive implant is believed to be a better choice than the [combined contraceptive pill]({% link _articles/contraceptive-pill.md %}) {% cite fsrh2017contraceptive %}.
 
 ### Why might I not want a contraceptive implant?
 
@@ -28,9 +30,9 @@ Some people decide they do not want the implant because they experience side eff
 
 ### Are there other options?
 
-Other options that can also be used while taking [testosterone]({% link _articles/testosterone.md %}) include progesterone-only contraceptive pills and most types of IUD {% cite fsrh2017contraceptive %}.
+Other options that can also be used while taking [testosterone]({% link _articles/testosterone.md %}) include [contraceptive injections]({% link _articles/contraceptive-injection.md %}), progesterone-only contraceptive pills, and most types of IUD {% cite fsrh2017contraceptive %}.
 
-If you are not using testosterone, other options include the [combined contraceptive pill]({% link _articles/contraceptive-pill.md %}), patches, and vaginal rings.
+If you are not using testosterone, other options also include the [combined contraceptive pill]({% link _articles/contraceptive-pill.md %}), patches, and vaginal rings.
 
 ### How do I get a contraceptive implant fitted?
 
