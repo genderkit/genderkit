@@ -36,9 +36,9 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 
 - *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are considered a fully reversible treatment {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on [the GIDS website](https://gids.nhs.uk/evidence-base).
 
-  Due to a recent high court ruling, under-16s will not receive this treatment from the NHS in England and Wales without a 'best interests' court order {% cite specEngDec20Update %}. If your doctor determines that prescribing blockers would be in your best interests, they will have to apply to a court for a final decision. At the moment, it is unclear exactly what this process will involve.
+  Due to a recent high court ruling, under-16s will not receive this treatment from the NHS in England and Wales without a 'best interests' court order {% cite specEngDec20Update %}. The Tavistock and Portman NHS Foundation Trust is currently in the process of appealing this ruling, and a ruling on appeal will affect the whole of the UK.
 
-  It is likely that private clinics will adopt similar policies. However, the legal situation is still developing, so it is difficult to say for certain whether this will become the norm.
+  If your doctor determines that prescribing blockers would be in your best interests, they will have to apply to a court for a final decision. At the moment, it is unclear exactly what this process will involve. It is likely that private clinics will adopt similar policies, but the legal situation is still developing, so it is difficult to say for certain whether this will become the norm.
 
 ### Are there other options?
 
