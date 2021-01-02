@@ -38,7 +38,7 @@ After you have completed your deed poll, you can also choose to officially [regi
 ### Making a deed poll --- under 16
 If you are under 16, you will need to get your parents or guardians to make a deed poll on your behalf. They must all agree to this, otherwise you will need a court order.
 
-To make a deed poll for your child, print off and complete [the GOV.UK template for changing a child's name](https://www.gov.uk/change-name-deed-poll/change-a-childs-name). There are some additional forms you will need to fill in to enrol it.
+To make a deed poll, your parents or guardians can print off and complete [the GOV.UK template for changing a child's name](https://www.gov.uk/change-name-deed-poll/change-a-childs-name). There are some additional forms they will need to fill in to enrol it.
 
 ### Where can I learn more?
 

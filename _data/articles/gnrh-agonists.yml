@@ -35,6 +35,6 @@ effects:
     detail: "Prevents change of body odour due to puberty"
   -
     category: "Upper body"
-    detail: "Prevents breast development"
+    detail: "Prevents breast development due to puberty"
 requirements:
   - multi: standard-blocker-reqs
