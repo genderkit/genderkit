@@ -83,9 +83,9 @@ When searching for a counsellor, you should check they have been accredited by a
 
 You may find that choosing a counsellor can be difficult because they all offer differing approaches to counselling. 
 
-The [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/types-of-therapy) and [UKCP](https://www.psychotherapy.org.uk/about-psychotherapy/types/) both have guides to the different approaches.
+The [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/types-of-therapy) and [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/types-of-psychotherapy/) both have guides to the different approaches.
 
-You can also find advice on finding a counsellor on the [UKCP](https://www.psychotherapy.org.uk/what-is-psychotherapy/how-to-choose-a-psychotherapist/) and [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/finding-the-right-therapist) websites.
+You can also find advice on finding a counsellor on the [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/how-to-choose-a-psychotherapist/) and [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/finding-the-right-therapist) websites.
 
 ### References
 
