@@ -59,11 +59,11 @@ Types of vaginoplasty that surgeons carry out include:
 
 - *Penile inversion vaginoplasty*
 
-  In this technique, the vagina is created using material from the penis turned inside out ("inverted").
+  In the penile inversion technique, the vagina is created using material from the penis turned inside out ("inverted").
 
 - *Penoscrotal flap vaginoplasty*
 
-  In this technique, the vagina is created using material from both the penis and scrotum, and is often used if there is not enough donor material in the penis alone.
+  In the penoscrotal flap technique, the vagina is created using material from both the penis and scrotum, and is often used if there is not enough donor material in the penis alone.
 
 - *Cosmetic vaginoplasty*
 
@@ -71,7 +71,7 @@ Types of vaginoplasty that surgeons carry out include:
 
 - *Sigmoid vaginoplasty*
 
-  In a sigmoid colon vaginoplasty, the vagina is created using tissue from the sigmoid colon (part of the lower intestine), which may be used if there is insufficient penile and scrotal tissue, for example after puberty blockers or if a repair is needed after complications of an existing vaginoplasty {% cite bouman2016sigmoid %}.
+  Also known as a sigmoid colon vaginoplasty or laparoscopic sigmoid vaginoplasty, this procedure involves creating a vagina using tissue from the sigmoid colon (part of the lower intestine). This approach might be used if there is insufficient penile and scrotal tissue, for example after the use of puberty blockers, or if a repair is needed after complications of an existing vaginoplasty {% cite bouman2016sigmoid %}.
 
 - *Peritoneal vaginoplasty*
 
