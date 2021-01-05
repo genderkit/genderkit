@@ -9,7 +9,6 @@ weighting: 1
 There is no published medical research into the risks of tucking we are aware of. Perform tucking at your own risk.
 {% endcapture %}
 {% include warning warning=warn %}
-
 Possible side effects of tucking are:
 
 - skin irritation and [fungal infections](http://www.nhs.uk/Conditions/Ringworm/Pages/Introduction.aspx), particularly if tape is being used {% cite conard2017supporting %}
@@ -19,6 +18,13 @@ prostatitis, or cystitis {% cite deutsch2016guidelines -l 93 %}
 - chronic testicular pain {% cite deutsch2016guidelines -l 93 %}
 
 We are not aware of any research into how common these side effects are.
+
+{% capture warn %}
+Testes require a lower temperature than body temperature to produce sperm. As tucking keeps the testes closer to the body than normal, this may result in reduced fertility.
+{% endcapture %}
+{% include warning warning=warn %}
+
+If you hope to [store your sperm]({% link _articles/gamete-storage.md %}), you may wish to avoid tucking for several months beforehand.
 
 ### How do I tuck?
 
