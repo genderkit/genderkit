@@ -20,7 +20,7 @@ prostatitis, or cystitis {% cite deutsch2016guidelines -l 93 %}
 We are not aware of any research into how common these side effects are.
 
 {% capture warn %}
-Testes require a lower temperature than body temperature to produce sperm. As tucking keeps the testes closer to the body than normal, this may result in reduced fertility.
+Testes require a lower temperature than body temperature to produce sperm. The effects of tucking on fertility have not been studied, but as tucking keeps the testes closer to the body than normal, this may result in reduced fertility.
 {% endcapture %}
 {% include warning warning=warn %}
 
