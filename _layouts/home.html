@@ -6,14 +6,17 @@
 <body class="homescreen">
   <header role="banner" id="header">    
     <h1 id="gck-logo">
-      <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo.png" />
+      <picture>
+        <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/logo/logo.webp 768w, {{ site.baseurl }}/assets/images/logo/logo192.webp 192w">
+        <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo/logo.png" srcset="{{ site.baseurl }}/assets/images/logo/logo.png 768w, {{ site.baseurl }}/assets/images/logo/logo192.png 192w" />
+      </picture>
     </h1>
   </header>
 
   <section>
-  <h3 id="in-the-uk-heres-how-to-change-your">In the UK? Here's how to change your:</h3>
+  <h2 id="in-the-uk-heres-how-to-change-your">In the UK? Here's how to change your:</h2>
   {% include cards cards="explore" icons="true" %}
-  <h3 id="dont-know-where-to-begin">Don't know where to begin?</h3>
+  <h2 id="dont-know-where-to-begin">Don't know where to begin?</h2>
   <p>Read <a href="{% link _resources/getting-started.md %}">how to get started.</a></p>
   </section>
 

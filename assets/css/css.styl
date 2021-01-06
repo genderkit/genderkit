@@ -61,8 +61,9 @@ figure
   margin -1rem // nasty hack
 img
   width 100%
-  max-width 500px
   display block
+article img
+  max-width 500px
 h3
   margin-top 0
 h4
@@ -640,6 +641,13 @@ figure img
   padding 0
   list-style-type none
 
-.homescreen section h3, .homescreen section p 
+.homescreen section h2, .homescreen section p 
   margin 0 1em
   font-size 18px
+  background inherit
+  color black
+  padding 0
+  letter-spacing initial
+
+.homescreen section h2
+  font-weight bold

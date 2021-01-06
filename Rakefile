@@ -8,6 +8,31 @@ task :test => [:checkbibtex, :spellcheck, :htmlproofer] do
   puts "Tests complete."
 end
 
+task :resize160webp do
+  sh "mkdir -p assets/images/articles/160webp"
+  sh "mkdir -p assets/images/photos/160webp"
+  files = FileList['assets/images/articles/original/*.jpg', 'assets/images/photos/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "160webp").gsub("jpg","webp")
+    Rszr::Image.load(file).resize!(160, 120).save(target)
+  end
+  puts "Image resize complete."
+end
+
+task :resize160 do
+  sh "mkdir -p assets/images/articles/160"
+  sh "mkdir -p assets/images/photos/160"
+  files = FileList['assets/images/articles/original/*.jpg', 'assets/images/photos/original/*.jpg']
+  files.each do |file|
+    puts "Resizing #{file}..."
+    target = file.gsub("original", "160")
+    Rszr::Image.load(file).resize!(160, 120).save(target)
+  end
+  puts "Image resize complete."
+end
+
+
 task :resize240webp do
   sh "mkdir -p assets/images/articles/240webp"
   sh "mkdir -p assets/images/photos/240webp"
@@ -160,7 +185,20 @@ task :converticons do
   end
 end
 
-desc "Convert illustrations from SVG to PNG"
+desc "Convert logo from SVG to PNG"
+task :convertlogo do
+  files = FileList['assets/images/logo/logo.svg']
+  files.each do |file|
+    puts "Converting #{file}..."
+    target = file.gsub(".svg", ".png")
+    sh "inkscape --export-png=#{target} --export-width=768 --export-height=384 #{file}"
+    Rszr::Image.load(target).save(target.gsub(".png", ".webp"))
+    Rszr::Image.load(target).resize!(192,96).save(target.gsub(".png", "192.png"))
+    Rszr::Image.load(target).resize!(192,96).save(target.gsub(".png", "192.webp"))
+  end
+end
+
+desc "Convert illustrations from SVG to PNG and WEBP"
 task :convertillustrations do
   files = FileList['assets/images/clothes/svg/*.svg']
   files.each do |file|
@@ -172,7 +210,7 @@ task :convertillustrations do
 end
 
 desc "Build the site using Jekyll"
-task :jekyll => :resize do
+task :jekyll do
   sh "bundle exec jekyll build"
   Rake::Task["referencelinks"].invoke
 end

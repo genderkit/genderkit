@@ -1,7 +1,10 @@
 <header {% if page.index-for %} class="categoryheader" {% endif %}> 
   <h1 id="gck-logo">
     <a href="{{ site.baseurl }}/">
-      <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo.png" />
+      <picture>
+        <source type="image/webp" srcset="{{ site.baseurl }}/assets/images/logo/logo.webp 768w, {{ site.baseurl }}/assets/images/logo/logo192.webp 192w">
+        <img alt="Gender Construction Kit Logo" src="{{ site.baseurl }}/assets/images/logo/logo.png" />
+      </picture>
     </a>
   </h1>
   <h2 id="{{ page.title | slugify }}">

@@ -3,11 +3,11 @@
     {%- if include.folder %}
         {%- assign folder = include.folder %}
     {% endif %}
+    <source type="image/webp" srcset="{{ 'assets/images/' | append: folder | append: '/600webp/' | append: include.image | replace: '.jpg', '.webp' | relative_url }} 600w, {{ 'assets/images/' | append: folder | append: '/240webp/' | append: include.image | replace: '.jpg', '.webp' | relative_url }} 240w, {{ 'assets/images/' | append: folder | append: '/160webp/' | append: include.image | replace: '.jpg', '.webp' | relative_url }} 160w">
     {%- if include.size == 240 %}
-        <source type="image/webp" srcset="{{ 'assets/images/' | append: folder | append: '/240webp/' | append: include.image | replace: '.jpg', '.webp' | relative_url }}">
-        <img src="{{ 'assets/images/' | append: folder | append: '/240/' | append: include.image | relative_url }}" alt="{{ include.alt }}" {% if include.aria-hidden %}aria-hidden="true"{% endif %} />
+        <!-- 240!! -->
+        <img src="{{ 'assets/images/' | append: folder | append: '/240/' | append: include.image | relative_url }}" srcset="{{ 'assets/images/' | append: folder | append: '/160/' | append: include.image | relative_url }} 160w, {{ 'assets/images/' | append: folder | append: '/240/' | append: include.image | relative_url }} 240w, {{ 'assets/images/' | append: folder | append: '/600/' | append: include.image | relative_url }} 600w" alt="{{ include.alt }}" {% if include.aria-hidden %}aria-hidden="true"{% endif %} />
     {%- else %}
-        <source type="image/webp" srcset="{{ 'assets/images/' | append: folder | append: '/600webp/' | append: include.image | replace: '.jpg', '.webp' | relative_url }}">
-        <img src="{{ 'assets/images/' | append: folder | append: '/600/' | append: include.image | relative_url }}" alt="{{ include.alt }}" {% if include.aria-hidden %}aria-hidden="true"{% endif %} />
+        <img src="{{ 'assets/images/' | append: folder | append: '/600/' | append: include.image | relative_url }}" srcset="{{ 'assets/images/' | append: folder | append: '/160/' | append: include.image | relative_url }} 160w, {{ 'assets/images/' | append: folder | append: '/240/' | append: include.image | relative_url }} 240w, {{ 'assets/images/' | append: folder | append: '/600/' | append: include.image | relative_url }} 600w" alt="{{ include.alt }}" {% if include.aria-hidden %}aria-hidden="true"{% endif %} />
     {% endif %}
 </picture>
