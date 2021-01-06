@@ -71,7 +71,7 @@ Types of vaginoplasty that surgeons carry out include:
 
 - *Sigmoid vaginoplasty*
 
-  Also known as a sigmoid colon vaginoplasty or laparoscopic sigmoid vaginoplasty, this procedure involves creating a vagina using tissue from the sigmoid colon (part of the lower intestine). This approach might be used if there is insufficient penile and scrotal tissue, for example after the use of puberty blockers, or if a repair is needed after complications of an existing vaginoplasty {% cite bouman2016sigmoid %}.
+  Also known as colovaginoplasty, sigmoid colon vaginoplasty, or laparoscopic sigmoid vaginoplasty, this procedure involves creating a vagina using tissue from the sigmoid colon (part of the lower intestine). This approach might be used if there is insufficient penile and scrotal tissue, for example after the use of puberty blockers, or if a repair is needed after complications of an existing vaginoplasty {% cite bouman2016sigmoid %}.
 
 - *Peritoneal vaginoplasty*
 
