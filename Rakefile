@@ -210,7 +210,7 @@ task :convertillustrations do
 end
 
 desc "Build the site using Jekyll"
-task :jekyll do
+task :jekyll => :resize do
   sh "bundle exec jekyll build"
   Rake::Task["referencelinks"].invoke
 end
