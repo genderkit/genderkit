@@ -24,5 +24,6 @@ bundle add jekyll-sitemap
 bundle exec rake resize
 bundle exec jekyll build --config /vagrant/live/genderkit/_config-live.yml,$tmpfile
 bundle exec rake referencelinks
-aws s3 sync ./_site/ s3://genderkit.org.uk/ --metadata-directive REPLACE --cache-control max-age=86400
+aws s3 sync ./_site/ s3://genderkit.org.uk/ --metadata-directive REPLACE --cache-control max-age=0
+aws s3 sync ./_site/assets/ s3://genderkit.org.uk/assets/ --metadata-directive REPLACE --cache-control max-age=31536000
 rm -rv /vagrant/live
