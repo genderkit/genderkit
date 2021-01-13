@@ -262,6 +262,20 @@ organisations:
         updated: '2020-12-02'
         catchment: 'Very limited access: [more info](https://www.indigogenderservice.uk/files/Patient%20FAQs%20V3%20-%2001.12.20.pdf)'
     -
+        heading: Merseyside
+        nickname: CMAGIC
+        name: 'Cheshire and Merseyside Adult Gender Identity Collaborative'
+        url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/'
+        tags: [NHS, 'Gender Clinics', National, Liverpool, 'North West']
+        manualDescription: 'NHS adult gender services in Cheshire and Merseyside'
+        image: cmagic
+        age-range: 17+
+        nhs-funding: true
+        referrals: true
+        publishes-wait: false
+        updated: '2021-01-12'
+        catchment: 'Very limited access: [more info](https://www.merseycare.nhs.uk/our-services/physical-health-services/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/cmagic-questions-and-answers/)'
+    -
         heading: 'London GIDS'
         nickname: Tavistock
         name: 'Tavistock and Portman Gender Identity Development Service'
