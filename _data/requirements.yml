@@ -1,5 +1,5 @@
 other-conditions-controlled:
- text: "If you have significant medical conditions, these need to be [\"reasonably well-controlled\"](/resources/other-conditions)"
+ text: "If you have significant medical conditions, these need to be [\"reasonably well-controlled\"](/resources/other-conditions/)"
  icon: otherrestriction 
 generic:
  text: "This text should never be seen, so I will spell a word badly to make the build break: sdkjghfdjkghfd"
@@ -23,7 +23,7 @@ bmi:
  text: "You may need to have a certain BMI (body mass index) to get this"
  icon: bmi
 tanner2:
- text: "Under 18s must be at [Tanner Stage 2](/resources/tanner-stage) or later; this may involve a physical exam"
+ text: "Under 18s must be at [Tanner Stage 2](/resources/tanner-stage/) or later; this may involve a physical exam"
  icon: puberty
 parents-16:
  text: "Under 16s need the support of their family, while 16-18 year olds need support of one parent"
@@ -34,7 +34,7 @@ parents:
 time:
  icon: time
 consent:
- text: "You must have [capacity to consent](/resources/capacity) for this treatment"
+ text: "You must have [capacity to consent](/resources/capacity/) for this treatment"
  icon: consent
 hrt:
  icon: medication

@@ -15,4 +15,4 @@ effects:
 requirements:
   - multi: standard-bottom-surgery-reqs
   - type: not-standalone
-    detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty) or [metoidioplasty](/article/metoidioplasty)"  
+    detail: "Outside of Scotland this is only commissioned as a part of [phalloplasty](/article/phalloplasty/) or [metoidioplasty](/article/metoidioplasty/)"  

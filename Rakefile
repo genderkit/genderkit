@@ -227,6 +227,17 @@ task :proselint => :jekyll do
   end
 end
 
+class InternalLinkTrailingSlash < ::HTMLProofer::Check
+  def run
+    @html.css('a').each do |node|
+      @link = create_element(node)
+      if @link.internal? and not (@link.href.match(/\/(#.*)?$/) or @link.href[0] == "#")
+        return add_issue("No trailing slash on internal link #{@link.href}", line: node.line)
+      end
+    end
+  end
+end
+
 class ProofHeaderIDs < ::HTMLProofer::Check
   def run
     @html.css('h1,h2,h3,h4,h5,h6').each do |node|

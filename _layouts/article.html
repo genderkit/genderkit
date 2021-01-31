@@ -41,7 +41,7 @@ layout: page
 	<p>{{ item.text }}; see 
 	{% for l in item.link %}
      	{% assign itemslug = l | slugify %}
-	<a href="{{ '/article/' | append: itemslug | relative_url }}">{{l}}</a>{% if forloop.last %}.{%else%}, {%endif%}
+	<a href="{{ '/article/' | append: itemslug | append: "/" | relative_url }}">{{l}}</a>{% if forloop.last %}.{%else%}, {%endif%}
 	{% endfor %}
 	</p>
       {% endfor %}
@@ -53,7 +53,7 @@ layout: page
       <ul class="effects">
       {% for item in info.effects %}
         {% assign slug = item.category | slugify %}
-        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/" | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
       {% assign slug = page.title | slugify %}

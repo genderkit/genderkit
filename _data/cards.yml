@@ -1,150 +1,150 @@
 explore:
   -
-    url: '/names'
+    url: '/names/'
     name: Names
   -
     url: '/explore/pronouns/'
     name: Pronouns
   -
-    url: '/explore/titles'
+    url: '/explore/titles/'
     name: Titles
   -
-    url: '/words'
+    url: '/words/'
     name: Words
   -
-    url: '/category/id-documents'
+    url: '/category/id-documents/'
     name: ID documents
   -
-    url: '/category/head-hair'
+    url: '/category/head-hair/'
     name: Head hair
   -
-    url: '/category/body-hair'
+    url: '/category/body-hair/'
     name: Body hair
   -
-    url: '/category/voice'
+    url: '/category/voice/'
     name: Voice
   -
-    url: '/category/clothes'
+    url: '/category/clothes/'
     name: Clothes
   -
-    url: '/category/facial-hair'
+    url: '/category/facial-hair/'
     name: Facial hair
   -
-    url: '/category/muscles'
+    url: '/category/muscles/'
     name: Muscles
   -
-    url: '/category/eyes'
+    url: '/category/eyes/'
     name: Eyes
   -
-    url: '/category/face'
+    url: '/category/face/'
     name: Face
   -
-    url: '/category/fragrance'
+    url: '/category/fragrance/'
     name: Fragrance
   -
-    url: '/category/upper-body'
+    url: '/category/upper-body/'
     name: Upper body
   -
-    url: '/category/lower-body'
+    url: '/category/lower-body/'
     name: Lower body
   -
-    url: '/category/hands'
+    url: '/category/hands/'
     name: Hands
   -
-    url: '/category/menstruation'
+    url: '/category/menstruation/'
     name: Menstruation
   -
-    url: '/category/fertility'
+    url: '/category/fertility/'
     name: Fertility
   -
-    url: '/category/libido'
+    url: '/category/libido/'
     name: Libido
   -
-    url: '/category/mood'
+    url: '/category/mood/'
     name: Mood
   -
-    url: '/category/legal-and-financial'
+    url: '/category/legal-and-financial/'
     name: Legal
   -
-    url: '/category/medical-documents'
+    url: '/category/medical-documents/'
     name: Medical
 find:
   -
-    url: '/resources/gender-services'
+    url: '/resources/gender-services/'
     name: Gender clinics
     footer: UK gender services
   -
-    url: '/resources/local'
+    url: '/resources/local/'
     name: Local organisations
     footer: local groups
   -
-    url: '/resources/national'
+    url: '/resources/national/'
     name: National organisations
     footer: our national organisations directory
   -
-    url: '/resources/national'
+    url: '/resources/national/'
     name: Books and PDFs
     footer: our national organisations directory
 help:
   -
-    url: '/resources/housing'
+    url: '/resources/housing/'
     name: Homelessness
     footer: homelessness and housing
   -
-    url: '/resources/violence'
+    url: '/resources/violence/'
     name: Violence and abuse
     footer: domestic and sexual violence and abuse
   -
-    url: '/resources/hate-crime'
+    url: '/resources/hate-crime/'
     name: Hate crime
     footer: hate crime
   -
-    url: '/resources/immigration'
+    url: '/resources/immigration/'
     name: Immigration
     footer: immigration and asylum
   -
-    url: '/resources/prisons'
+    url: '/resources/prisons/'
     name: Prisons
     footer: prisons
 information:
   -
-    url: '/resources/family'
+    url: '/resources/family/'
     name: Youth and families
     footer: family
   -
-    url: '/resources/employers'
+    url: '/resources/employers/'
     name: Employers
     footer: employers
   -
-    url: '/resources/clinicians'
+    url: '/resources/clinicians/'
     name: Clinicians
     footer: clinicians
   -
-    url: '/resources/schools'
+    url: '/resources/schools/'
     name: Schools
     footer: schools and colleges
   -
-    url: '/resources/universities'
+    url: '/resources/universities/'
     name: Universities
     footer: universities
 resources:
   -
-    url: '/resources/health'
+    url: '/resources/health/'
     name: Staying healthy
     footer: health and screening tests
   -
-    url: '/resources/mental-health'
+    url: '/resources/mental-health/'
     name: Mental health
     footer: mental health
   -
-    url: '/resources/sports-and-fitness'
-    name: 'Sport and fitness'
+    url: '/resources/sports-and-fitness/'
+    name: 'Sport and fitness/'
     footer: sport and fitness clubs and venues
   -
-    url: '/resources/faith'
+    url: '/resources/faith/'
     name: Faith and religion
     footer: faith and religion groups
   -
-    url: '/resources/sex'
+    url: '/resources/sex/'
     name: Sex
     footer: sex and contraception

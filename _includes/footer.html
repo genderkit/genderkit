@@ -6,7 +6,7 @@
 		<p><em>Change anything you want:</em> we have information about ways to change 
 			{% for category in site.data.categories %}
 			  {% assign categoryslug = category.name | slugify %}
-				<a href="{{ '/category/' | append: categoryslug | relative_url }}">{{ category.name | downcase }}</a>, 
+				<a href="{{ '/category/' | append: categoryslug | append: "/" | relative_url }}">{{ category.name | downcase }}</a>, 
 			  {% endfor %}
 			  and guides to choosing <a href="{% link names.md %}">names</a>,
 			<a href="{% link _explore/pronouns.md %}">pronouns</a>, 
@@ -23,7 +23,7 @@
 				</li>
 
 				<li>
-					<a href="/resources/gender-services">
+					<a href="/resources/gender-services/">
 
 						<span>Gender clinics</span>
 					</a>
@@ -31,14 +31,14 @@
 
 
 				<li>
-					<a href="/resources/local">
+					<a href="/resources/local/">
 
 						<span>Local organisations</span>
 					</a>
 				</li>
 
 				<li>
-					<a href="/resources/national">
+					<a href="/resources/national/">
 
 						<span>National organisations</span>
 					</a>
@@ -53,7 +53,7 @@
 
 
 				<li>
-					<a href="/books">
+					<a href="/books/">
 
 						<span>Books</span>
 					</a>
@@ -68,7 +68,7 @@
 				</li>
 
 				<li>
-					<a href="/resources/housing">
+					<a href="/resources/housing/">
 
 						<span>Homelessness</span>
 					</a>
@@ -76,7 +76,7 @@
 
 
 				<li>
-					<a href="/resources/violence">
+					<a href="/resources/violence/">
 
 						<span>Violence and abuse</span>
 					</a>
@@ -84,7 +84,7 @@
 
 
 				<li>
-					<a href="/resources/hate-crime">
+					<a href="/resources/hate-crime/">
 
 						<span>Hate crime</span>
 					</a>
@@ -92,7 +92,7 @@
 
 
 				<li>
-					<a href="/resources/immigration">
+					<a href="/resources/immigration/">
 
 						<span>Immigration</span>
 					</a>
@@ -100,7 +100,7 @@
 
 
 				<li>
-					<a href="/resources/legal">
+					<a href="/resources/legal/">
 
 						<span>Legal and prisons</span>
 					</a>
@@ -115,7 +115,7 @@
 				</li>
 
 				<li>
-					<a href="/resources/family">
+					<a href="/resources/family/">
 
 						<span>Youth and families</span>
 					</a>
@@ -123,7 +123,7 @@
 
 
 				<li>
-					<a href="/resources/employers">
+					<a href="/resources/employers/">
 
 						<span>Employers</span>
 					</a>
@@ -131,7 +131,7 @@
 
 
 				<li>
-					<a href="/resources/clinicians">
+					<a href="/resources/clinicians/">
 
 						<span>Clinicians</span>
 					</a>
@@ -139,7 +139,7 @@
 
 
 				<li>
-					<a href="/resources/schools">
+					<a href="/resources/schools/">
 
 						<span>Schools</span>
 					</a>
@@ -147,7 +147,7 @@
 
 
 				<li>
-					<a href="/resources/universities">
+					<a href="/resources/universities/">
 
 						<span>Universities</span>
 					</a>
@@ -162,7 +162,7 @@
 				</li>
 
 				<li>
-					<a href="/resources/health">
+					<a href="/resources/health/">
 
 						<span>Staying healthy</span>
 					</a>
@@ -170,7 +170,7 @@
 
 
 				<li>
-					<a href="/resources/mental-health">
+					<a href="/resources/mental-health/">
 
 						<span>Mental health</span>
 					</a>
@@ -178,7 +178,7 @@
 
 
 				<li>
-					<a href="/resources/sports-and-fitness">
+					<a href="/resources/sports-and-fitness/">
 
 						<span>Sport and fitness</span>
 					</a>
@@ -186,7 +186,7 @@
 
 
 				<li>
-					<a href="/resources/faith">
+					<a href="/resources/faith/">
 
 						<span>Faith and religion</span>
 					</a>
@@ -194,7 +194,7 @@
 
 
 				<li>
-					<a href="/resources/sex">
+					<a href="/resources/sex/">
 
 						<span>Sex and contraception</span>
 					</a>
