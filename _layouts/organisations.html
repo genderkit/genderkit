@@ -84,7 +84,7 @@ document.body.onload = function() {
           {% if item.url %}
           {% assign url = item.url %}
           {% elsif item.twitter %}
-          {% assign url = "http://www.twitter.com/" | append: item.twitter %}
+          {% assign url = "https://twitter.com/" | append: item.twitter %}
           {% elsif item.facebook %}
           {% assign url = "http://www.facebook.com/" | append: item.facebook %}
           {% elsif item.facebookId %}
@@ -113,7 +113,7 @@ document.body.onload = function() {
             <a href="{{ item.url }}">Website</a>&nbsp;
           {% endif %}
           {% if item.twitter %}
-            <a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
+            <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
           {% endif %}
           {% if item.facebook %}
             <a href="http://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;

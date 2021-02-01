@@ -24,7 +24,7 @@
           <a href="{{ item.mastodon }}">Mastodon</a>&nbsp;
         {%- endif -%}
         {%- if item.twitter -%}
-          <a href="http://www.twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
+          <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
         {%- endif -%}
       </p>
     </li>
