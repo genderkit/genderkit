@@ -141,10 +141,10 @@ organisations:
         manualDescription: 'NHS gender service for adults and young people across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait: true
-        wait-first-appointment: 32
+        wait-first-appointment: 36
         nhs-funding: true
         referrals: true
-        updated: '2020-08-14'
+        updated: '2021-02-01'
         catchment: 'Scotland GP only'
     -
         heading: Exeter
@@ -186,7 +186,7 @@ organisations:
         age-range: 17+
         publishes-wait: true
         wait-first-appointment: 43
-        updated: '2020-12-02'
+        updated: '2021-02-01'
         referrals: true
         nhs-funding: true
         catchment: 'England GP only'
@@ -199,7 +199,7 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 32
+        wait-first-appointment: 36
         nhs-funding: true
         referrals: true
         updated: '2020-11-28'
@@ -228,10 +228,10 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 30
+        wait-first-appointment: 44
         nhs-funding: true
         referrals: true
-        updated: '2020-08-14'
+        updated: '2021-02-01'
         catchment: 'England GP only'
     -
         heading: 'London TransPlus'
@@ -301,11 +301,10 @@ organisations:
         image: gic
         age-range: 17+
         publishes-wait: true
-        wait-first-appointment: 33
-        updated: '2020-08-14'
+        wait-first-appointment: 35
+        updated: '2021-01-29'
         nhs-funding: true
         referrals: true
-        update-date: '2020-03-06'
         catchment: 'UK GP only'
     -
         heading: Inverness
