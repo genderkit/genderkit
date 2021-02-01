@@ -384,7 +384,7 @@ organisations:
         nhs-funding: false
     -
         name: GenderCare
-        url: 'http://gendercare.co.uk'
+        url: 'https://gendercare.co.uk'
         twitter: gendercaredrl
         facebook: drstuartlorimer
         tags: ['Private healthcare', 'Gender Clinics', National]
@@ -767,6 +767,7 @@ organisations:
         twitterID: '2465231166'
         twitterIcon: 'https://pbs.twimg.com/profile_images/693583446095040512/MHwB53yC_normal.png'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c0.3.50.50/p50x50/12646954_555343144632279_7868382844305593007_n.png?oh=2d963adb7f798d5fb51c0a7653f4f622&oe=5ACFA248'
+        archived: true
     -
         name: 'GenderJam NI'
         twitter: GenderJamNI
@@ -847,7 +848,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13692537_312479605758295_3216304422752878212_n.png?oh=d8f103c687083524b1d64c763a368d1d&oe=5AD089BC'
     -
         name: 'Wipe Out Transphobia'
-        url: 'http://wipeouttransphobia.com'
         twitter: WipeTransphobia
         facebook: wipeouttransphobia
         tags: [National]
@@ -889,7 +889,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c63.8.95.95/s50x50/971391_594872457212807_277035630_n.png?oh=deec77dc59926884ba8173fac678bb60&oe=5A909506'
     -
         name: 'Trans Forum Manchester'
-        url: 'http://www.transforum-manchester.co.uk/'
+        url: 'https://www.transforum.co.uk'
         tags: ['North West', Manchester, 'Local groups']
         twitter: TransForumMcr
         facebook: TransForumManchester
@@ -1302,6 +1302,7 @@ organisations:
         twitterID: '2937067409'
         twitterIcon: 'https://pbs.twimg.com/profile_images/560831508458373120/8O9MB4ej_normal.jpeg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/10455120_705547009561552_8080884404708093826_n.jpg?oh=77ff1f4713429ce0d330260cd5e9ba82&oe=5ABC27E9'
+        archived: true
     -
         name: 'Transformers - Trans Youth Brighton'
         url: 'http://www.allsortsyouth.org.uk/groups/transformers/'
@@ -1396,7 +1397,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/1395952_257323021083422_603657377_n.png?oh=36f79eb0bf6e4c73a122b2ca91dd9a3e&oe=5AD5FFE8'
     -
         name: 'Affirm NI'
-        url: 'http://www.affirmni.co.uk/'
+        url: 'https://www.facebook.com/AffirmNI'
         twitter: AffirmNI
         facebook: AffirmNI
         tags: ['Northern Ireland', 'Local groups']
@@ -1881,6 +1882,7 @@ organisations:
         lastTwitterPost: 'Sun Dec 16 09:00:15 +0000 2018'
         twitterID: '2438222112'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1016422787341324290/jONCafgr_normal.jpg'
+        archived: true
     -
         name: TransBristol
         url: 'https://transbristol.wordpress.com/'
@@ -2380,7 +2382,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/21317471_113820576000818_5292077635184300031_n.png?oh=13ad882984b9dad542a9cfbe29f6eed1&oe=5AD20566'
     -
         name: 'G(end)er Swap CIC'
-        url: 'https://genderswapblog.wordpress.com/'
+        url: 'https://genderswap.org'
         tags: [National]
         twitter: genderswap_
         twitterID: '759635094352990208'
