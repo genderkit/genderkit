@@ -1031,7 +1031,8 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/978346697620324353/5imV8yX5_normal.jpg'
     -
         name: TMSA-UK
-        url: 'http://tmsauk.org'
+        url: 'https://www.facebook.com/TMSAUK'
+        facebook: TMSAUK
         twitter: TmsaUk
         tags: [National, Transmasculine]
         twitterDescription: 'UK support group for Trans Masc, NB & Gender Variant AFAB people'
