@@ -72,6 +72,7 @@ Buying from abroad may incur customs charges.
 If you are unable to afford purchasing a binder from these sources, you may also be able to obtain free binders from:
 
 - [the G(END)ER SWAP CIC Binder Giveaway Scheme](https://genderswap.org/gc2b-x-gender-swap)
+- [Scottish Binders](https://scotbinders.com)
 - [Safe2Trans](https://safe2trans.org)
 - [Point of Pride](https://pointofpride.org/chest-binder-donations/)
 
