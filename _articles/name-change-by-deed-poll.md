@@ -31,9 +31,11 @@ To change your own name by deed poll, you must be 16 or over.
 
 You will need to obtain the signatures of two independent witnesses to your deed poll. These need to be people who know you personally but who are not part of your family. If you are unable to do this, you may wish to use a [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). A statutory declaration must be witnessed by a solicitor, which will involve paying a small fee.
 
-To make an unenrolled deed poll for yourself, print off and complete [the template on the GOV.UK website](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll).
+To make an unenrolled deed poll for yourself, print off and complete [the template on the GOV.UK website](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll). You can also use the [Free UK Deed Poll website](https://freedeedpoll.org.uk/).
 
 After you have completed your deed poll, you can also choose to officially [register your name change]({% link _articles/registering-a-name-change.md %}), but most people do not do this.
+
+Many people will make multiple original, signed deed polls so they can send them to multiple organisations at once. Most organisations will return original deed polls although they may take some time to do so.
 
 ### Making a deed poll --- under 16
 If you are under 16, you will need to get your parents or guardians to make a deed poll on your behalf. They must all agree to this, otherwise you will need a court order.
