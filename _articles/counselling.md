@@ -78,6 +78,7 @@ There are online directories you can use to find a counsellor offering private s
 - [British Association for Counselling and Psychotherapy](http://www.itsgoodtotalk.org.uk/)
 - [UK Council for Psychotherapy](https://www.psychotherapy.org.uk/find-a-therapist/)
 - [Pink Therapy](http://pinktherapy.com/en-us/findatherapist.aspx)
+- [Gendered Intelligence Therapists and Counsellors Directory](http://genderedintelligence.co.uk/professionals/therapists-and-counsellors/directory)
 
 When searching for a counsellor, you should check they have been accredited by a professional body. Professional bodies ensure that your counsellor is properly trained and follows their rules and ethical framework.
 
