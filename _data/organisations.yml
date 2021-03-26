@@ -2614,14 +2614,20 @@ organisations:
         lastTwitterPost: 'Fri Nov 20 15:53:22 +0000 2020'
         twitterIcon: 'https://pbs.twimg.com/profile_images/928368981626454017/V6DhAkcq_normal.jpg'
     -
-        name: 'Harley Street Gender Clinic (Dr. Pasterski)'
-        tags: ['Private healthcare']
+        name: 'Harley Street Gender Clinic'
+        tags: ['Private healthcare', 'Gender Clinics']
         url: 'http://www.harleystgenderclinic.com/'
         twitter: DrPasterski
         twitterID: '778571737931911168'
-        twitterDescription: "Gender Specialist, Harley Street, London\nAffil Lecturer, Department of Psychology, University of Cambridge"
+        twitterDescription: "Gender Specialist, Harley Street, London"
         lastTwitterPost: 'Tue May 28 07:25:33 +0000 2019'
         twitterIcon: 'https://pbs.twimg.com/profile_images/778573552358453248/BtnYxIS6_normal.jpg'
+        image: harleystreet
+        publishes-wait: true
+        wait-first-appointment: 4
+        nhs-funding: false
+        referrals: true
+        updated: '2021-04-24'
     -
         name: 'Huddersfield SU Trans Campaigns'
         tags: [Students, Yorkshire, 'Local groups']
