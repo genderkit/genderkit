@@ -340,11 +340,24 @@ organisations:
         image: ngn
         manualDescription: 'Private sector network of specialists in the field of Gender Dysphoria based in the North of England.'
         age-range: 17.5+
-        publishes-wait: truetomelgbt
+        publishes-wait: true
         wait-first-appointment: 5
         nhs-funding: false
         referrals: true
         updated: '2020-08-14'
+    -
+        heading: 'GenderDoctors'
+        name: 'GenderDoctors'
+        url: 'https://genderdoctors.com/'
+        tags: ['Private healthcare', 'Gender Clinics', National]
+        image: genderdoctors
+        manualDescription: 'Gender specialists offering assessments for gender dysphoria diagnosis, hormones, surgical referrals and counselling services'
+        age-range: 18+
+        publishes-wait: true
+        wait-first-appointment: 0
+        nhs-funding: false
+        referrals: true
+        updated: '2021-03-08'
     -
         heading: 'Kelly Psychology'
         name: 'Kelly Psychology'
