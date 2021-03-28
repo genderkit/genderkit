@@ -8,10 +8,10 @@ feature:
 
 ### Why might I want to use eflornithine?
 
-Some people will use it as a temporary alternative measure for managing facial hair while they are waiting to access more permanent approaches, such as [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}) hair removal {% cite ngicns2020facial %}. This might be useful if:
+You might use it as a temporary alternative measure for managing facial hair while you are waiting to access more permanent approaches, such as [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}) hair removal {% cite ngicns2020facial %}. This might be useful if:
 
-- they cannot afford to pay for permanent approaches yet, and there is no funding for them in their area
-- they are delaying permanent approaches until they are prescribed GnRH agonists or other anti-androgens so that a better result can be achieved
+- you cannot afford to pay for permanent approaches yet, and there is no funding for it in your area
+- you are delaying permanent approaches until you are prescribed GnRH agonists or other anti-androgens so that a better result can be achieved
 
 You may also choose to use eflornithine because you do not wish to make a permanent change to your body but would like less hair regrowth after shaving.
 
@@ -19,7 +19,7 @@ You may also choose to use eflornithine because you do not wish to make a perman
 
 If you have very light coloured facial hair or minimal facial hair growth, and [shaving]({% link _articles/shaving.md %}) is effective at reducing the visibility of your facial hair, eflornithine might be unnecessary.
 
-Eflornithine appears to only be effective for some people, and a significant proportion of people discontinue treatment because they see little or no effect from eflornithine {% cite vaniqua %}.
+Eflornithine appears to only be effective for some people, and a significant proportion of people stop using Eflornithine because they see little or no effect from eflornithine {% cite vaniqua %}.
 
 ### How do I get eflornithine?
 
