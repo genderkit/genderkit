@@ -26,7 +26,7 @@ You usually must update any foreign passports you hold before updating your Brit
 
 If you have any other passports: 
 - If your country will issue new passports for trans people, you need to [update them before updating your British passport](https://www.gov.uk/government/publications/change-of-name-guidance/use-and-change-of-names).
-- If your country will not issue new passports for trans people, you do [not need to update your other passports](https://www.gov.uk/government/publications/change-of-name-guidance/use-and-change-of-names#exceptions-guidance).
+- If your country will not issue new passports for trans people, you [do not need to update your other passports](https://www.gov.uk/government/publications/change-of-name-guidance/use-and-change-of-names#exceptions-guidance).
 
 ### How do I get a new passport?
 
