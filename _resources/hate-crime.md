@@ -25,6 +25,8 @@ There is detailed information about sexual orientation and transgender identity 
 
 [Stop Hate UK](https://www.stophateuk.org/) provide a LGBT hate crime support line and tools to report hate crime online.
 
+[True Vision](https://www.report-it.org.uk/transgender_hate_crime) provide tools to report hate crime online.
+
 ### Complaints about professionals
 
 If you want to make a complaint about transphobia from a professional, there is information available on how to make a complaint about:
