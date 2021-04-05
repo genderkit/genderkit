@@ -19,6 +19,15 @@ If you have visas in your old passport and still wish to travel to those countri
 
 You should check with any country you hold a visa with before you update your details, or just apply for new visas.
 
+{% capture warn %}
+You usually must update any foreign passports you hold before updating your British passport.
+{% endcapture %}
+{% include warning warning=warn %}
+
+If you have any other passports: 
+- If your country will issue new passports for trans people, you need to [update them before updating your British passport.](https://www.gov.uk/government/publications/change-of-name-guidance/use-and-change-of-names). 
+- If your country will not issue new passports for trans people, you can get a new British passport [without needing to update your other passports.](https://www.gov.uk/government/publications/change-of-name-guidance/use-and-change-of-names#exceptions-guidance)
+
 ### How do I get a new passport?
 
 To apply for your own adult passport you must be either:
