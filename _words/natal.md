@@ -3,9 +3,7 @@ title: Natal
 groups: [History focused]
 ---
 
-"Natal" is a medical term used to describe the sex you were assigned at birth. 
+"Natal" is an outdated medical term used to describe the sex you were assigned at birth. 
 
- - Natal females are often described as [AFAB]({% link _words/afab.md %}).
- - Natal males are often described as [AMAB]({% link _words/amab.md %}).
-
-Not all babies are assigned male or female at birth, with some  [intersex](https://en.wikipedia.org/wiki/Intersex) babies being left unassigned.
+In almost all cases where this term could be used, it is better to use [AFAB]({% link _words/afab.md %}), [AMAB]({% link _words/amab.md %}), or [Intersex](https://en.wikipedia.org/wiki/Intersex) instead. These words have far fewer problems associated with them.
+ 
