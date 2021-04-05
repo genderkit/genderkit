@@ -2,8 +2,8 @@
 title: oestrogen
 weighting: 4
 feature:
-  image: oestrogen.jpg
-  caption: "A blister pack of oestrogen pills"
+  image: Oestrogen.jpg
+  caption: "Blister packs of two brands of oestrogen pills"
 ---
 
 ### How do I stay safe?
