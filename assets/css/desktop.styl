@@ -238,3 +238,34 @@ footer
   div
     grid-template-columns repeat(auto-fit,12rem)
     grid-gap 2rem
+
+// regional option grid layouts
+.regionaloptions
+  display grid
+  grid-template-columns 50%
+  :last-child
+    grid-column-end last-line
+  .region
+    margin 2px
+    padding 5px
+    border-radius 5px
+    h4
+      margin 2px
+    p
+      margin 0
+  .bigregion
+    margin 2px
+    border-radius 5px
+    padding 0
+    h4
+      min-width 100%
+      margin 7px 7px 2px
+    div
+      flex-grow 1
+      width 50%
+      p
+        margin 2px 7px
+    grid-column 1 / last-line
+    display flex
+    flex-wrap wrap
+  padding-bottom 15px
