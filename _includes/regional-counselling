@@ -7,7 +7,7 @@
   {%- else -%}
   <div class="region" style="background-color: {{ region.colour }};">
   {%- endif -%}
-  <h4>{{ region.name }}</h4>
+  <h4 id="{{ region.name | slugify }}">{{ region.name }}</h4>
   {%- for item in region.items -%}
     <div>{{ item | markdownify }}</div>
   {%- endfor -%}
