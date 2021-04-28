@@ -21,6 +21,6 @@ Many (but not all) transsexual people also describe themselves as [transgender](
 
 However, because transsexual is an older term, some people will prefer to use it simply because it is more familiar to them. 
 
-Some people will avoid using this word because the word "sexual" sounds like it implies a sexuality. However, in recent years some people have been re-adopting "transsexual" because of this transgressive connotation.
+Some people will avoid using this word because the word "sexual" sounds like it implies a sexuality. However, in recent years some people have been re-adopting "transsexual".
 
 Transsexual is sometimes abbreviated to "TS". However, because this abbreviation is popular in pornography, some people who are otherwise comfortable using "transsexual" might still avoid "TS".
