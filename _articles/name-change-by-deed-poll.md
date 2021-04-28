@@ -17,10 +17,10 @@ A deed poll can be either unenrolled or enrolled.
 - An unenrolled deed poll is a simple formal legal statement that you have changed your name. You can make this yourself - you do not need a solicitor.
 - An enrolled deed poll is a deed poll which has been officially registered at the Royal Courts of Justice. These are specific to births registered in England and Wales; there are [separate procedures]({% link _articles/registering-a-name-change.md %}) for Scotland and Northern Ireland.
 
-Enrolling a deed poll is generally not needed for adults, as unenrolled deed polls are accepted by the Passport Office. Enrolment may be useful if you are under 16, to reduce the need to supply proof of parental consent when [updating your name with the Passport Office]({% link _articles/getting-a-new-passport.md %}) or [other organisations]({% link _articles/telling-organisations.md %}).
+Enrolling a deed poll is generally not needed, as unenrolled deed polls are accepted by the Passport Office. 
 
 {% capture warn %}
-Enrolling a deed poll will create a permanent public link between your old and new names, including a notification on the London Gazette website.
+Enrolling a deed poll will create a permanent searchable link between your old and new names, including a notification in the London Gazette. Anyone could find out your old name with only a few seconds of web searching.
 {% endcapture %}
 {% include warning warning=warn %}
 
