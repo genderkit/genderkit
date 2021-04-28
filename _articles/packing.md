@@ -12,8 +12,15 @@ If you are using a packer as part of sex, be aware that it may transfer sexually
 
 ### How do I pack?
 
-Packing provides an easy way to make it look like you have a penis. UK retailers of packers and harnesses are [Lovehoney](https://www.lovehoney.co.uk) and [Uberkinky](http://www.uberkinky.co.uk), who both advertise options for "discreet packaging". Outside the UK, specialist manufacturers of higher quality packers include [Transthetics](https://transthetics.com/).
+Packing provides an easy way to make it look like you have a penis. UK retailers of packers and harnesses include:
+- [Spectrum Outfitters](https://spectrumoutfitters.co.uk/)
+- [Lovehoney](https://www.lovehoney.co.uk)
+- [Uberkinky](http://www.uberkinky.co.uk)
 
+Outside the UK, specialist manufacturers of high quality packers include:
+- [Transthetics](https://transthetics.com/)
+- [ReelMagik](https://www.reelmagik.com/)
+- [GenderCat](https://gendercat.com/)
 You may also need something to hold the packer in place:
 
 - *tight/sports underwear:* wearing tight underwear or multiple layers of underwear can often be enough to hold the packer in place. 

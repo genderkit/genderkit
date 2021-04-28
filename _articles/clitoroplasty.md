@@ -48,7 +48,7 @@ Doing some preparation in advance can help make sure everything goes smoothly du
 
 ### How much will it cost?
 
-A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
+A operation in the UK to perform [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £15000.
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for labiaplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [vaginoplasty]({% link _articles/vaginoplasty.md %}). 
 
