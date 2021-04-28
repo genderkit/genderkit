@@ -2,7 +2,7 @@
 title: "corsets"
 weighting: 2
 feature:
-  image: WaistTrainerGrey.jpg
+  image: waist-trainer-grey.jpg
   caption: "A picture of an elasticated neoprene material 'waist trainer' type corset garment, with hook & loop and zip fasteners"
 ---
 
