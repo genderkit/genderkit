@@ -1,0 +1,16 @@
+{%- assign regions = site.data.counselling -%}
+
+<div class="regionaloptions">
+{%- for region in regions -%}
+  {%- if region.large -%}
+  <div class="bigregion" style="background-color: {{ region.colour }};">
+  {%- else -%}
+  <div class="region" style="background-color: {{ region.colour }};">
+  {%- endif -%}
+  <h4 id="{{ region.name | slugify }}">{{ region.name }}</h4>
+  {%- for item in region.items -%}
+    <div>{{ item | markdownify }}</div>
+  {%- endfor -%}
+  </div>
+{%- endfor -%}
+</div>

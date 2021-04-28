@@ -16,9 +16,11 @@ More useful links for trans asylum seekers and refugees can be found on [the Tra
 
 *British citizens* are all able to access the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS) which provides medical services - including support with gender - for *free*. You can find out how to become a British citizen on [the UK Government website](https://www.gov.uk/becoming-a-british-citizen).
 
-*EU and EEA nationals* can apply for a [European Health Insurance Card](http://ec.europa.eu/social/main.jsp?catId=559) (EHIC). If you have an EHIC, you can use the NHS gender services for *free* while you are in the UK.
+*EU and EEA nationals* who need *care that can't wait until they return home* can use a [European Health Insurance Card](http://ec.europa.eu/social/main.jsp?catId=559) (EHIC). If you have an EHIC, you can use the NHS gender services for *free* while you are in the UK, so long as you're not here for more than 6 months.
 
-However, bear in mind that the waiting lists for NHS gender services are currently very long and you may need to wait 1-2 years before you get your first appointment. An quicker approach is to use one of the private gender services, but these will charge you money.
+*EU and EEA nationals* who are *in the UK for more than 6 months* can pay the [immigration health surcharge](https://www.gov.uk/healthcare-immigration-application) when applying for a visa. If you have an *S1 certificate* from the healthcare authority in your home country and [register it with Overseas Healthcare Services](https://www.gov.uk/healthcare-immigration-application), you may be able to get this [reimbursed](https://www.gov.uk/guidance/healthcare-for-eu-and-efta-nationals-living-in-the-uk#when-your-healthcare-costs-in-the-uk-are-covered-by-an-eu-country).
+
+Bear in mind that the waiting lists for NHS gender services are currently very long and you may need to wait several years before you get your first appointment. An quicker approach is to use one of the private gender services, but these will charge you money.
 
 There is information about moving to England from the EEA or Switzerland on [the NHS website](https://www.nhs.uk/nhsengland/aboutnhsservices/uk-visitors/moving-to-england/pages/moving-to-england-from-the-eea.aspx).
 

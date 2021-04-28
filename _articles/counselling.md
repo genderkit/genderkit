@@ -58,18 +58,11 @@ The next sections describe these options in more detail.
 
 ### Counselling from LGBT+ organisations
 
+Many regional LGBT+ organisations offer counselling services for LGBT+ people. Many of these are free, low-cost, or operate on a sliding scale (are cheaper for people with low income).
+
 Regional LGBT+ organisations that offer counselling services include:
 
-- Brighton: [Mind Out](https://www.mindout.org.uk/get-support/counselling/)
-- East Midlands: [Leicester LGBT Centre](https://leicesterlgbtcentre.org/lgbt-counselling)
-- London: [London Friend](https://londonfriend.org.uk/counselling/), [ELOP](http://www.elop.org/), [Metro](https://metrocharity.org.uk/mental-health/lgbt-counselling-for-adults), [Spectra](https://spectra-london.org.uk/trans-gender-services/trans-counselling/)
-- North West England: [LGBT Foundation](http://www.lgbt.foundation/talkingtherapies)
-- Northern Ireland: [The Rainbow Project](https://www.rainbow-project.org/counselling)
-- South West England: [Intercom Trust](https://www.intercomtrust.org.uk/)
-- Scotland: [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/lgbt-mental-health/lgbt-counselling/)
-- Wales: [LGBT Cymru](https://www.lgbtcymru.org.uk/counselling.html)
-- West Midlands: [Birmingham LGBT](https://blgbt.org/counselling-and-psychotherapy/)
-- Yorkshire: [Yorkshire MESMAC](https://www.mesmac.co.uk/our-services/bradford/counselling)
+{% include regional-counselling %}
 
 ### Privately funded counselling
 

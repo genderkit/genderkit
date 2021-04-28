@@ -297,7 +297,7 @@ organisations:
         name: 'Tavistock and Portman Gender Identity Clinic'
         url: 'https://gic.nhs.uk/'
         tags: [NHS, 'Gender Clinics', National]
-        manualDescription: 'NHS gender service for over 18s located in Hammersmith, London. Often referred to as "Charing Cross". Previously operated as the "West London Mental Health NHS Trust Gender Identity Clinic".'
+        manualDescription: 'NHS gender service for over 18s located in Hampstead, London. Often referred to as "Charing Cross". Previously operated as the "West London Mental Health NHS Trust Gender Identity Clinic" in Hammersmith, London.'
         image: gic
         age-range: 17+
         publishes-wait: true
