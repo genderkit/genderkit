@@ -2,7 +2,7 @@
 title: oestrogen
 weighting: 4
 feature:
-  image: Oestrogen.jpg
+  image: oestrogen.jpg
   caption: "Blister packs of two brands of oestrogen pills"
 ---
 
