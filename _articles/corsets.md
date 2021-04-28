@@ -2,8 +2,8 @@
 title: "corsets"
 weighting: 2
 feature:
-  image: corsets.jpg
-  caption: "A picture of the back of someone wearing a corset"
+  image: WaistTrainerGrey.jpg
+  caption: "A picture of an elasticated neoprene material 'waist trainer' type corset garment, with hook & loop and zip fasteners"
 ---
 
 ### What should I be aware of?
