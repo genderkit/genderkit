@@ -41,7 +41,7 @@ Outside of Scotland, this is usually only funded as part of [vaginoplasty]({% li
 {% endcapture %}
 {% include regional regionalinfo=info %}
 
-A operation in the UK to perform penectomy along with [orchidectomy]({% link _articles/orchidectomy.md %}), [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £11-12000.
+A operation in the UK to perform penectomy along with [orchidectomy]({% link _articles/orchidectomy.md %}), [labiaplasty]({% link _articles/labiaplasty.md %}) and [clitoroplasty]({% link _articles/clitoroplasty.md %}) costs around £15000.
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for penectomy and [labiaplasty]({% link _articles/labiaplasty.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and optionally [vaginoplasty]({% link _articles/vaginoplasty.md %}). 
 

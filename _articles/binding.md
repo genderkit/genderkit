@@ -23,8 +23,9 @@ Here are some things you can do that may reduce the risk {% cite binding101 peit
 - If you start to feel pain, especially chest pain, take off your binder
 - If you suspect something is wrong, see a doctor as soon as possible
 - Never use "home made" binders made from elastic bandages, duct tape or plastic wrap
+- Only use binders from reputable brands. Ask others if you're unsure if a brand is reputable or not.
 
-The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks.
+The full health consequences and degree of risk of binding are currently unknown as few medical studies have been carried out {% cite peitzmeier2017health %}. Before binding, you should decide whether the benefits to you of binding outweigh these risks. 
 
 ### What should I be aware of?
 
@@ -45,7 +46,7 @@ You can get different styles of binders depending on where you get them from and
 - *Full length* binders are in a tank top style. The compression is mainly in the chest area but there is some in the stomach area too.
 - *Tri top* binders are in a crop top style. The compression is in the chest area and the stomach area is left free.
 
-Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists but you may be able to find some on Amazon and eBay. If you're worried about receiving a binder at your home address, you could try having it delivered to a nearby [Amazon Locker](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200966210).
+Binders cannot be bought in high street shops and have to be ordered online. There are only a few UK stockists. 
 
 ### How do I put on my binder?
 
