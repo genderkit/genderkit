@@ -42,7 +42,7 @@ The cost of a mastectomy and chest reconstruction performed in the UK is current
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for a mastectomy.
 
-{% include surgery-costs %}
+{% include travel-costs %}
 
 ### Where can I learn more?
 

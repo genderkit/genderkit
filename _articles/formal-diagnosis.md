@@ -76,6 +76,8 @@ These are all broadly synonymous from a medical perspective, though you may pref
 
 Your GP should be able to refer you to one of the NHS gender services who will be able to diagnose you. If they are unsure, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
 
+{% include travel-costs %}
+
 If you wish, you can pay to use private specialist gender services. You may find this is quicker than using the NHS services, but it may cost £200 per hour or more for your appointments.
 
 You can find details of both the NHS and private gender services on our [Specialist UK gender clinics]({% link _resources/gender-services.md %}) page.

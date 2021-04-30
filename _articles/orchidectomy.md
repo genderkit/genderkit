@@ -50,7 +50,7 @@ Outside of Scotland, orchidectomy is usually only funded as part of [vaginoplast
 {% endcapture %}
 {% include regional regionalinfo=info %}
 
-{% include surgery-costs %}
+{% include travel-costs %}
 
 ### References
 

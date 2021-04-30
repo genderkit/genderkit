@@ -87,7 +87,7 @@ The cost of a vaginoplasty performed in the UK along with [labiaplasty]({% link 
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for vaginoplasty and [penectomy]({% link _articles/penectomy.md %}), [orchidectomy]({% link _articles/orchidectomy.md %}), [clitoroplasty]({% link _articles/clitoroplasty.md %}) and/or [labiaplasty]({% link _articles/labiaplasty.md %}). 
 
-{% include surgery-costs %}
+{% include travel-costs %}
 
 The NHS will normally also fund hair removal from the genitals before vaginoplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). This is to ensure that hair does not grow in the vagina. The process of hair removal may take many months {% cite bellringer:2007 -l 217 %}. Not all patients require hair removal, and your surgeon should tell you whether you need to do this or not.
 

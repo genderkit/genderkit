@@ -69,7 +69,7 @@ Outside of Scotland, this is usually only funded as part of [phalloplasty]({% li
 
 The NHS will normally fund total hysterectomy and [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}) for patients who are undergoing [testosterone]({% link _articles/testosterone.md %}) therapy.
 
-{% include surgery-costs %}
+{% include travel-costs %}
 
 ### Where can I learn more?
 

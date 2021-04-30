@@ -80,7 +80,7 @@ Doing some preparation in advance can help make sure everything goes smoothly du
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for phalloplasty or [metoidioplasty]({% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). 
 
-{% include surgery-costs %}
+{% include travel-costs %}
 
 If not funded by the NHS, the cost of a phalloplasty performed in the UK is approximately £40,000-£70,000 (last updated July 2020). The exact cost will depends on exactly what surgery is required, and determining the best option for you will require a consultation with a surgeon. The only clinic currently performing phalloplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
 

@@ -45,6 +45,8 @@ Some voice coaches also advertise specific experience around gender:
 
 Speech and language therapy is often provided free of charge by UK gender identity clinics, with several clinics having their own in-house speech and language therapists. 
 
+{% include travel-costs %}
+
 The LGBT Foundation in Manchester also run [free introductory workshops](https://lgbt.foundation/who-we-help/trans-people/voice-coaching) for people who identify as trans.
 
 Private speech therapists can charge a variety of different rates, from as low as £50/hour up to over £150/hour. When searching for a speech therapist, you should check they are registered with [HCPC UK](https://www.hcpc-uk.org/) by checking on their website. Checking they are an HCPC member helps make sure that your therapist is properly trained.
