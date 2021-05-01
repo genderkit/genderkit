@@ -49,7 +49,7 @@ While these options are cheaper, GnRH agonists are generally preferred by NHS cl
 {% capture specifics %}
 Funding for GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}. Under-16s attending the GIDS clinic in England will require a 'best interests' court judgement to receive this treatment {% cite specEngDec20Update %}.
 {% endcapture %}
-{% include hrt-funding specifics=specifics %}
+{% include hrt-funding specifics=specifics travel="yes" %}
 
 ### What kinds are there?
 
