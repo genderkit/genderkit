@@ -76,6 +76,7 @@ If you are unable to afford purchasing a binder from these sources, you may also
 - [Scottish Binders](https://scotbinders.com)
 - [Safe2Trans](https://safe2trans.org)
 - [Point of Pride](https://pointofpride.org/chest-binder-donations/)
+- [TransgenderNI Binder Scheme](https://transgenderni.org.uk/binder-scheme/)
 
 You may also be able to find other people in your area who are willing to donate a binder they no longer use.
 
