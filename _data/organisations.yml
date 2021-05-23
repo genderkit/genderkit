@@ -336,14 +336,9 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 44
         publishes-wait-hormones: true
-<<<<<<< HEAD
-        custom-wait-hormones: "*12-18* months"
-        custom-wait-total: "*56-62* months"
         wait-carried-over: "no"
-=======
         custom-wait-hormones: "*12-18* mos"
         custom-wait-total: "*56-62* mos"
->>>>>>> 82fd8dd0fa2e8248b52ee58ead10d897f6f13dbe
         updated: '2021-01-29'
         nhs-funding: true
         referrals: true
