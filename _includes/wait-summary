@@ -4,46 +4,31 @@
 {%- if include.description -%}
 <p>{{ include.description | markdownify }}</p>
 {%- endif -%}
-<ul class="details summarydetails" id="clinics">
+<table class="details summarydetails" id="wait-summary">
   {%- for item in sortedOrganisations -%}
-    <li>
+    <tr>
       {%- assign url = item.url -%}
+      <td>
       {%- if item.image -%}
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
       {%- endif -%}
-      <div class="searchDetails">
-<!-- -->
-        <div class="clinicdetails">
           <span class="clinicheading">
             <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a>
-            {%- if item.nickname -%}{{item.nickname}}{%- endif -%}
           </span>
-          {%- if item.age-range -%}
-            {%- if item.age-range == "Under 18" -%}
-              <span class="agerange"><em>Under</em> 18s</span>
+      </td>
+      <td>
+          {%- if item.publishes-wait -%}
+            {%- if item.custom-wait -%}
+              <span class="waittime">{{ item.custom-wait | markdownify }}</span>
             {%- else -%}
-              <span class="agerange"><em>{{ item.age-range }}</em> only</span>
+              <span class="waittime">{%- if item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-first-appointment }}+</em> months{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-            <span class="agerange"><em>All</em> ages</span>
-          {%- endif -%}
-          {%- if item.self-referral -%}
-            <span class="referral">Allows self-referral</span>
-          {%- else -%}
-            <span class="referral">GP referral only</span>
+              <span class="waittime">Unknown wait</span>
           {%- endif -%}
 <!-- -->
-        </div>
+      </td>
 <!-- -->
-        <div class="clinicdetails">
-          {%- if item.catchment -%}
-            <span class="catchment">{{item.catchment | markdownify }}</span>
-          {%- endif -%}
-<!-- -->
-        </div>
-<!-- -->
-      </div>
-<!-- -->
-    </li>
+    </tr>
   {%- endfor -%}
-</ul>
+</table>
