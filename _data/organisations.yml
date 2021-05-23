@@ -60,8 +60,8 @@ organisations:
         notes: 'Only accepts patients with a registered GP in Wales.'
         nhs-funding: true
         referrals: true
-        publishes-wait-first-appointment-first-appointment: true
-        publishes-wait-first-appointment-hormones: true
+        publishes-wait-first-appointment: true
+        publishes-wait-hormones: true
         wait-first-appointment: 30
         wait-hormones: 0
         updated: '2020-08-14'
