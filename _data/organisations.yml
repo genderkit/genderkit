@@ -63,9 +63,9 @@ organisations:
         publishes-wait-first-appointment: true
         publishes-wait-hormones: true
         wait-carried-over: "yes"
-        custom-wait-first-appointment: "*24-30* mos"
+        custom-wait-first-appointment: "24-30"
         wait-hormones: 0
-        custom-wait-total: "*24-30* mos"
+        custom-wait-total: "24-30"
         updated: '2021-05-23'
         catchment: 'Wales GP only'
     -
@@ -92,7 +92,7 @@ organisations:
         image: hsc
         age-range: 18+
         publishes-wait-first-appointment: true
-        custom-wait-first-appointment: '*<47* mos'
+        custom-wait-first-appointment: '<47'
         referrals: true
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
@@ -276,7 +276,7 @@ organisations:
         referrals: true
         wait-carried-over: "yes"
         publishes-wait-first-appointment: true
-        custom-wait-first-appointment: '*<2* mos'
+        custom-wait-first-appointment: '<2'
         updated: '2020-08-14'
         catchment: 'Very limited access: [more info](http://wearetransplus.co.uk/faqs/)'
     -
@@ -337,8 +337,8 @@ organisations:
         wait-first-appointment: 44
         publishes-wait-hormones: true
         wait-carried-over: "no"
-        custom-wait-hormones: "*12-18* mos"
-        custom-wait-total: "*56-62* mos"
+        custom-wait-hormones: "12-18"
+        custom-wait-total: "56-62"
         updated: '2021-01-29'
         nhs-funding: true
         referrals: true
