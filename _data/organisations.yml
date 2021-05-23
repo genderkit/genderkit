@@ -62,12 +62,13 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: true
         publishes-wait-hormones: true
-        wait-first-appointment: 30
+        custom-wait-first-appointment: "24-30 months"
         wait-hormones: 0
-        updated: '2020-08-14'
+        custom-wait-total: "24-30 months"
+        updated: '2021-05-23'
         catchment: 'Wales GP only'
     -
-        heading: Belfast
+        heading: "Belfast KOI"
         nickname: KOI
         name: 'Knowing Our Identity Gender Identity Development Service'
         url: 'https://belfasttrust.hscni.net/service/knowing-our-identity/'
@@ -131,24 +132,39 @@ organisations:
         image: nhs-scotland
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 27
+        wait-first-appointment: 31
         nhs-funding: true
         referrals: true
-        updated: '2020-12-15'
+        updated: '2021-05-23'
         catchment: 'Borders, Fife, or Lothian GP only'
     -
         heading: Glasgow
         nickname: Sandyford
         name: 'Sandyford Gender Identity Service'
         url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
-        tags: [NHS, 'Gender Clinics', Scotland, 'Under 18s']
-        manualDescription: 'NHS gender service for adults and young people across Scotland located in Glasgow'
+        tags: [NHS, 'Gender Clinics', Scotland]
+        manualDescription: 'NHS gender service for adults across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
         wait-first-appointment: 36
         nhs-funding: true
         referrals: true
-        updated: '2021-02-01'
+        updated: '2021-05-23'
+        catchment: 'Scotland GP only'
+        self-referral: true
+    -
+        heading: Glasgow
+        nickname: Sandyford Youth
+        name: 'Sandyford Youth Gender Identity Service'
+        url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
+        tags: [NHS, 'Gender Clinics', Scotland, 'Under 18s']
+        manualDescription: 'NHS gender service for young people across Scotland located in Glasgow'
+        image: nhs-scotland
+        publishes-wait-first-appointment: true
+        wait-first-appointment: 32
+        nhs-funding: true
+        referrals: true
+        updated: '2021-05-23'
         catchment: 'Scotland GP only'
         self-referral: true
     -
@@ -161,10 +177,12 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 60
+        wait-first-appointment: 57
+        published-wait-hormones: true
+        wait-hormones: 12
         nhs-funding: true
         referrals: true
-        updated: '2020-10-11'
+        updated: '2021-05-23'
         catchment: 'England GP only'
     -
         heading: Nottingham
@@ -178,7 +196,7 @@ organisations:
         wait-first-appointment: 37
         nhs-funding: true
         referrals: true
-        updated: '2020-10-12'
+        updated: '2021-05-23'
         catchment: 'England GP only'
     -
         heading: Northants
@@ -191,7 +209,7 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 43
-        updated: '2021-02-01'
+        updated: '2021-05-23'
         referrals: true
         nhs-funding: true
         catchment: 'England GP only'
@@ -204,10 +222,12 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 36
+        wait-first-appointment: 39
+        publishes-wait-hormones: true
+        wait-hormones: 24
         nhs-funding: true
         referrals: true
-        updated: '2020-11-28'
+        updated: '2021-05-23'
         catchment: 'England GP only'
     -
         heading: Leeds
@@ -219,9 +239,11 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 37
+        published-wait-hormones: true
+        wait-hormones: 10
         nhs-funding: true
         referrals: true
-        updated: '2020-11-23'
+        updated: '2021-05-23'
         catchment: 'England GP only'
     -
         heading: Sheffield
@@ -233,10 +255,10 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 44
+        wait-first-appointment: 39
         nhs-funding: true
         referrals: true
-        updated: '2021-02-01'
+        updated: '2021-05-23'
         catchment: 'England GP only'
     -
         heading: 'London TransPlus'
@@ -306,11 +328,15 @@ organisations:
         image: gic
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 35
+        wait-first-appointment: 44
+        published-wait-hormones: true
+        custom-wait-hormones: "12-18 months"
+        custom-wait-total: "56-62 months"
         updated: '2021-01-29'
         nhs-funding: true
         referrals: true
         catchment: 'UK GP only'
+        self-referral: true
     -
         heading: Inverness
         nickname: 'Highland GIS'
