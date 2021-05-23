@@ -62,10 +62,10 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: true
         publishes-wait-hormones: true
-        custom-wait-first-appointment: "*24-30* months"
         wait-carried-over: "yes"
+        custom-wait-first-appointment: "*24-30* mos"
         wait-hormones: 0
-        custom-wait-total: "*24-30* months"
+        custom-wait-total: "*24-30* mos"
         updated: '2021-05-23'
         catchment: 'Wales GP only'
     -
@@ -92,7 +92,7 @@ organisations:
         image: hsc
         age-range: 18+
         publishes-wait-first-appointment: true
-        custom-wait-first-appointment: 'Up to *47* months'
+        custom-wait-first-appointment: '*<47* mos'
         referrals: true
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
@@ -276,7 +276,7 @@ organisations:
         referrals: true
         wait-carried-over: "yes"
         publishes-wait-first-appointment: true
-        custom-wait-first-appointment: 'Under *2* months'
+        custom-wait-first-appointment: '*<2* mos'
         updated: '2020-08-14'
         catchment: 'Very limited access: [more info](http://wearetransplus.co.uk/faqs/)'
     -
@@ -336,9 +336,14 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 44
         publishes-wait-hormones: true
+<<<<<<< HEAD
         custom-wait-hormones: "*12-18* months"
         custom-wait-total: "*56-62* months"
         wait-carried-over: "no"
+=======
+        custom-wait-hormones: "*12-18* mos"
+        custom-wait-total: "*56-62* mos"
+>>>>>>> 82fd8dd0fa2e8248b52ee58ead10d897f6f13dbe
         updated: '2021-01-29'
         nhs-funding: true
         referrals: true
@@ -454,7 +459,6 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/731233414116986880/35QTks10_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c0.0.50.50/p50x50/13164311_1790073354549106_9094273060506944158_n.jpg?oh=a95f44cf2d1cb231d9f8481af9ab5731&oe=5A8D8182'
         age-range: 18+
-        notes: 'Waiting lists vary between clinicians, with current patients reporting 2-3 months waiting time.'
         updated: '2021-03-28'
         wait-first-appointment: 3
         publishes-wait-first-appointment: true
