@@ -92,10 +92,10 @@ document.body.onload = function() {
           {% endif %}
           {% if item.image %}
             <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
-          {% elsif item.facebookId %}
-            <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.facebookId | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
           {% elsif item.twitterID %}
             <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.twitterID | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }}" />
+          {% elsif item.facebookId %}
+            <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.facebookId | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
           {% endif %}
 
 	  <h3 id="{{item.name | slugify }}"><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
