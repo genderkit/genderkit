@@ -62,9 +62,9 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: true
         publishes-wait-hormones: true
-        custom-wait-first-appointment: "24-30 months"
+        custom-wait-first-appointment: "*24-30* months"
         wait-hormones: 0
-        custom-wait-total: "24-30 months"
+        custom-wait-total: "*24-30* months"
         updated: '2021-05-23'
         catchment: 'Wales GP only'
     -
@@ -153,7 +153,7 @@ organisations:
         catchment: 'Scotland GP only'
         self-referral: true
     -
-        heading: Glasgow
+        heading: Glasgow Youth
         nickname: Sandyford Youth
         name: 'Sandyford Youth Gender Identity Service'
         url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
@@ -178,7 +178,7 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 57
-        published-wait-hormones: true
+        publishes-wait-hormones: true
         wait-hormones: 12
         nhs-funding: true
         referrals: true
@@ -239,7 +239,7 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 37
-        published-wait-hormones: true
+        publishes-wait-hormones: true
         wait-hormones: 10
         nhs-funding: true
         referrals: true
@@ -329,9 +329,9 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 44
-        published-wait-hormones: true
-        custom-wait-hormones: "12-18 months"
-        custom-wait-total: "56-62 months"
+        publishes-wait-hormones: true
+        custom-wait-hormones: "*12-18* months"
+        custom-wait-total: "*56-62* months"
         updated: '2021-01-29'
         nhs-funding: true
         referrals: true
