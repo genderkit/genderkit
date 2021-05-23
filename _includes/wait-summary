@@ -1,10 +1,19 @@
-{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"catchment", "last" -%}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"heading" -%}
 
 <h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 {%- if include.description -%}
 <p>{{ include.description | markdownify }}</p>
 {%- endif -%}
 <table class="details summarydetails" id="wait-summary">
+  <tr>
+    <th>Clinic</th>
+    <th>Seen</th>
+{%- if include.free -%}
+    <th>Hormones</th>
+    <th>Total</th>
+    <th>Transfers</th>
+{%- endif -%}
+  </tr>
   {%- for item in sortedOrganisations -%}
     <tr>
       {%- assign url = item.url -%}
@@ -15,20 +24,57 @@
           <span class="clinicheading">
             <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a>
           </span>
-      </td>
+     </td>
       <td>
-          {%- if item.publishes-wait -%}
-            {%- if item.custom-wait -%}
-              <span class="waittime">{{ item.custom-wait | markdownify }}</span>
+          {%- if item.publishes-wait-first-appointment -%}
+            {%- if item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-first-appointment | markdownify }}</span>
             {%- else -%}
               <span class="waittime">{%- if item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-first-appointment }}+</em> months{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="waittime">Unknown wait</span>
+              <span class="unknowninfo">unknown wait</span>
           {%- endif -%}
 <!-- -->
       </td>
+{%- if include.free -%} 
+      <td>
+          {%- if item.publishes-wait-hormones -%}
+ 	    {%- if item.custom-wait-hormones -%}
+              <span class="waittime">{{ item.custom-wait-hormones | markdownify }}</span>
+            {%- else -%}
+              <span class="waittime">{%- if item.wait-hormones == 0 -%}No additional wait{%- else -%}<em>{{ item.wait-hormones }}+</em> months{%- endif -%}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">unknown wait</span>
+          {%- endif -%}
 <!-- -->
+      </td>
+      <td>
+          {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
+            =
+ 	    {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-total | markdownify }}</span>
+            {%- else -%}
+              <span class="waittime">{%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-hormones | plus: item.wait-first-appointment }}+</em> months{%- endif -%}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">unknown wait</span>
+          {%- endif -%}
+<!-- -->
+      </td>
+      <td>
+        {%- if item.wait-carried-over -%}
+          {%- if item.wait-carried-over == "yes" -%}
+            <span class="waittime">✅</span>
+          {%- else -%}
+            <span class="waittime">❌</span>
+          {%- endif -%}
+        {%- else -%}
+        <span class="unknowninfo">unknown</span>
+        {%- endif -%}
+      </td>
+{%- endif -%}
     </tr>
   {%- endfor -%}
 </table>
