@@ -667,17 +667,31 @@ figure img
   width 1.5em
   height 1.5em
 
-th.rotate 
-  height 140px
-  white-space nowrap
+th > .smaller
+  font-size small
+  font-weight normal
 
+th.rotate 
+  height 60px
+  white-space nowrap
+  transform translate(0,-10px) rotate(315deg)
+  
 th.rotate > div
-  transform translate(0px, 50px) rotate(315deg)
-  width 50px
+  line-height 1
+
+th.rotate >  .smaller
+  font-weight normal
+  font-size small
 
 th.rotate > div > span 
   border-bottom 1px solid #ccc
   padding 5px 10px
 
+td.centred
+  text-align center
+
 #wait-summary tr
   height 2em
+#wait-summary tbody
+  margin-left auto
+  margin-right auto
