@@ -6,12 +6,12 @@
 {%- endif -%}
 <table class="details summarydetails" id="wait-summary">
   <tr>
-    <th {% if include.free %}class="rotate"{% endif %}><div>Service</div></th>
-    <th {% if include.free %}class="rotate"{% endif %}><div class="smaller">To be</div><div>seen</div><div class="smaller">(in months)</div></th>
+    <th>{% if include.free %}<div class="rotate">{% endif %}<div>Service</div>{% if include.free %}</div>{% endif %}</th>
+    <th>{% if include.free %}<div class="rotate">{% endif %}<div class="smaller">To be</div><div>seen</div><div class="smaller">(in months)</div>{% if include.free %}</div>{% endif %}</th>
 {%- if include.free -%}
-    <th class="rotate"><div class="smaller">To get</div><div>hormones</div><div class="smaller">(in months)</div></th>
-    <th class="rotate"><div>Total</div><div class="smaller">(in months)</div></th>
-    <th class="rotate"><div>Transfers</div></th>
+    <th><div class="rotate"><div class="smaller">To get</div><div>hormones</div><div class="smaller">(in months)</div></div></th>
+    <th><div class="rotate"><div>Total</div><div class="smaller">(in months)</div></div></th>
+    <th><div class="rotate"><div>Transfers</div></div></th>
 {%- endif -%}
   </tr>
   {%- for item in sortedOrganisations -%}

@@ -671,19 +671,19 @@ th > .smaller
   font-size small
   font-weight normal
 
-th.rotate 
-  height 60px
+div.rotate 
   white-space nowrap
   transform translate(0,-10px) rotate(315deg)
+  width fit-content
   
-th.rotate > div
+div.rotate > div
   line-height 1
 
-th.rotate >  .smaller
+div.rotate >  .smaller
   font-weight normal
   font-size small
 
-th.rotate > div > span 
+div.rotate > div > span 
   border-bottom 1px solid #ccc
   padding 5px 10px
 
@@ -692,6 +692,8 @@ td.centred
 
 #wait-summary tr
   height 2em
+#wait-summary th
+  max-width 50px
 #wait-summary tbody
   margin-left auto
   margin-right auto
