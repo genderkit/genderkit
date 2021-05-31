@@ -659,5 +659,41 @@ figure img
   .region , .bigregion
     padding 10px
     margin 0
-    p , h4
+    p, h4
       margin 5px
+
+.tableicon
+  display block !important
+  width 1.5em
+  height 1.5em
+
+th > .smaller
+  font-size small
+  font-weight normal
+
+div.rotate 
+  white-space nowrap
+  transform translate(0,-10px) rotate(315deg)
+  width fit-content
+  
+div.rotate > div
+  line-height 1
+
+div.rotate >  .smaller
+  font-weight normal
+  font-size small
+
+div.rotate > div > span 
+  border-bottom 1px solid #ccc
+  padding 5px 10px
+
+td.centred
+  text-align center
+
+#wait-summary tr
+  height 2em
+#wait-summary th
+  max-width 50px
+#wait-summary tbody
+  margin-left auto
+  margin-right auto

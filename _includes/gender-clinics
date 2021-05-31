@@ -27,16 +27,12 @@
           {%- else -%}
             <span class="agerange"><em>All</em> ages</span>
           {%- endif -%}
-<!-- -->
-          {%- if item.publishes-wait -%}
-            {%- if item.custom-wait -%}
-              <span class="waittime">{{ item.custom-wait | markdownify }}</span>
-            {%- else -%}
-              <span class="waittime">{%- if item.wait-first-appointment == 0 -%}<em>&lt;1</em> month wait{%- else -%}<em>{{ item.wait-first-appointment }}+</em> month wait{%- endif -%}</span>
-            {%- endif -%}
+          {%- if item.self-referral -%}
+            <span class="referral">Allows self-referral</span>
           {%- else -%}
-              <span class="waittime">Unknown wait</span>
+            <span class="referral">GP referral only</span>
           {%- endif -%}
+<!-- -->
         </div>
 <!-- -->
         <div class="clinicdetails">

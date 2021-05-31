@@ -2,8 +2,6 @@
 layout: misc
 title: Specialist UK gender clinics
 description: List of UK gender services including NHS and private clinics
-attention-title: Updated February 2021
-attention-text: This is the most recent information provided by each organisation by 2021-02-01.
 ---
 
 {% capture warn %}
@@ -37,13 +35,7 @@ A well-run service will be happy to help you with questions on these subjects. Y
 
 ### Waiting times
 
-Waiting time information shown on this page is taken from information given directly to us by the services or published on their website.
-
-Waiting times indicate how long patients who have just been invited for their first appointment have waited for. As demand is currently increasing over time, this means it is likely you will wait *longer* than the time shown on this page. The time shown on this page is the wait until a first appointment, but you are likely to be required to attend further appointments before receiving any medical treatments, which will involve further waiting.
-
-Many gender services currently have very lengthy wait lists, and it can be very difficult to be waiting for so long. You can find ways you can get help while you are waiting on [our Mental Health page]({% link _resources/mental-health.md %}).
-
-If you switch from the wait list of one gender service to another, how long you wait for an appointment may take into account how long you have already waited, but not all services offer this. If you are considering switching from one gender service to another, you may wish to contact them to find out whether your existing wait time may be taken into account by the new service.
+See the other page for this info.
 
 ### Getting a referral to an NHS clinic
 

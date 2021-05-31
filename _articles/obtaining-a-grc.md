@@ -31,7 +31,7 @@ Obtaining a GRC can also have very important consequences for your legal status 
 
 ### How much will it cost?
 
-It costs £140 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
+It costs £5 to apply for a GRC. You may also need to pay in order to obtain medical evidence from gender clinicians to support your claim. You may be able to apply for help with the cost of applying for your GRC.
 
 ### How do I obtain a Gender Recognition Certificate?
 

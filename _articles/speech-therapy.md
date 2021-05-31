@@ -40,10 +40,13 @@ Private speech and language therapists in the UK who advertise specific experien
 Some voice coaches also advertise specific experience around gender:
 
 - [Maggi Stratford](https://www.maggistratford.com/) (Leeds)
+- [Louise Milner-Smith](https://allaboutyourvoice.com/) (Surrey)
 
 ### How much will it cost?
 
 Speech and language therapy is often provided free of charge by UK gender identity clinics, with several clinics having their own in-house speech and language therapists. 
+
+{% include travel-costs %}
 
 The LGBT Foundation in Manchester also run [free introductory workshops](https://lgbt.foundation/who-we-help/trans-people/voice-coaching) for people who identify as trans.
 

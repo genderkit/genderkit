@@ -1,0 +1,79 @@
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"heading" -%}
+
+<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
+{%- if include.description -%}
+<p>{{ include.description | markdownify }}</p>
+{%- endif -%}
+<table class="details summarydetails" id="wait-summary">
+  <tr>
+    <th>{% if include.free %}<div class="rotate">{% endif %}<div>Service</div>{% if include.free %}</div>{% endif %}</th>
+    <th>{% if include.free %}<div class="rotate">{% endif %}<div class="smaller">To be</div><div>seen</div><div class="smaller">(in months)</div>{% if include.free %}</div>{% endif %}</th>
+{%- if include.free -%}
+    <th><div class="rotate"><div class="smaller">To get</div><div>hormones</div><div class="smaller">(in months)</div></div></th>
+    <th><div class="rotate"><div>Total</div><div class="smaller">(in months)</div></div></th>
+    <th><div class="rotate"><div>Transfers</div></div></th>
+{%- endif -%}
+  </tr>
+  {%- for item in sortedOrganisations -%}
+    <tr>
+      {%- assign url = item.url -%}
+      <td>
+      {%- if item.image -%}
+        <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+      {%- endif -%}
+          <span class="clinicheading">
+            <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a>
+          </span>
+     </td>
+      <td class="centred">
+          {%- if item.publishes-wait-first-appointment -%}
+            {%- if item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-first-appointment }}</span>
+            {%- else -%}
+              <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">?</span>
+          {%- endif -%}
+<!-- -->
+      </td>
+{%- if include.free -%} 
+      <td class="centred">
+          {%- if item.publishes-wait-hormones -%}
+ 	    {%- if item.custom-wait-hormones -%}
+              <span class="waittime">{{ item.custom-wait-hormones }}</span>
+            {%- else -%}
+              <span class="waittime">{{ item.wait-hormones }}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">?</span>
+          {%- endif -%}
+<!-- -->
+      </td>
+      <td class="centred">
+          {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
+ 	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-total }}</span>
+            {%- else -%}
+              <span class="waittime">{%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">?</span>
+          {%- endif -%}
+<!-- -->
+      </td>
+      <td class="centred">
+        {%- if item.wait-carried-over -%}
+          {%- if item.wait-carried-over == "yes" -%}
+            <img class="tableicon" src="/assets/images/tick.svg"></img>
+          {%- else -%}
+            <img class="tableicon" src="/assets/images/cross.svg"></img>
+          {%- endif -%}
+        {%- else -%}
+          <img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+        {%- endif -%}
+      </td>
+{%- endif -%}
+    </tr>
+  {%- endfor -%}
+</table>

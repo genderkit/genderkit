@@ -58,7 +58,7 @@ If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the 
 
 The NHS will normally fund hair removal from the donor skin sites for urethroplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}).
 
-{% include surgery-costs %}
+{% include travel-costs %}
 
 If not funded by the NHS, the cost of a metoidioplasty performed in the UK is approximately £35,000 (last updated July 2020). The only clinic currently performing metoidioplasty in the UK is [St. Peter's Andrology Centre](https://www.andrology.co.uk/phalloplasty).
 
