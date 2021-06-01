@@ -675,6 +675,7 @@ div.rotate
   white-space nowrap
   transform translate(0,-10px) rotate(315deg)
   width fit-content
+  width moz-fit-content
   
 div.rotate > div
   line-height 1
@@ -690,6 +691,10 @@ div.rotate > div > span
 td.centred
   text-align center
 
+.centred .tableicon
+  margin-left auto
+  margin-right auto
+
 #wait-summary tr
   height 2em
 #wait-summary th
@@ -697,3 +702,21 @@ td.centred
 #wait-summary tbody
   margin-left auto
   margin-right auto
+
+#wait-full .wait-full-details
+  display grid
+  grid-template-columns repeat(auto-fit,10rem)
+  justify-content center
+  margin-bottom 2em
+
+#wait-full .waittime, #wait-full .unknowninfo
+    font-size 2em
+    font-weight bold
+
+#wait-full .tableicon
+  width 1em
+  height 1.5em
+
+#wait-full p
+  font-size 85%
+  color #666

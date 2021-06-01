@@ -1,0 +1,71 @@
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"heading" -%}
+
+
+<div class="details summarydetails" id="wait-full">
+  {%- for item in sortedOrganisations -%}
+    <h3>
+      {%- if item.image -%}
+        <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+      {%- endif -%}
+      <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a> 
+    </h3>
+    {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
+    {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
+    <div class="wait-full-details">
+      <div>
+          <h4>First Seen</h4>
+          {%- if item.publishes-wait-first-appointment -%}
+            {%- if item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-first-appointment }}</span>
+            {%- else -%}
+              <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">?</span>
+          {%- endif -%}
+          <p>months average wait for 1st assessment appt</p>
+      </div>
+      <div>
+          <h4>Hormones</h4>
+          {%- if item.publishes-wait-hormones -%}
+ 	    {%- if item.custom-wait-hormones -%}
+              <span class="waittime">+{{ item.custom-wait-hormones }}</span>
+            {%- else -%}
+              <span class="waittime">+{{ item.wait-hormones }}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">?</span>
+          {%- endif -%}
+          <p>months additional minimum wait for HRT</p>
+      </div>
+      <div>
+          <h4>Total</h4>
+          {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
+ 	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
+              <span class="waittime">={{ item.custom-wait-total }}</span>
+            {%- else -%}
+              <span class="waittime">={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo">?</span>
+          {%- endif -%}
+          <p>average minimum total time to hormones</p>
+      </div>
+      <div>
+        <h4>Transfers</h4>
+        <span class="waittime">
+        {%- if item.wait-carried-over -%}
+          {%- if item.wait-carried-over == "yes" -%}
+            <img class="tableicon" src="/assets/images/tick.svg"></img>
+          {%- else -%}
+            <img class="tableicon" src="/assets/images/cross.svg"></img>
+          {%- endif -%}
+        {%- else -%}
+          <img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+        {%- endif -%}
+        </span>
+        <p>are adult NHS gender services waits carried over?</p>
+      </div>
+    </div>
+  {%- endfor -%}
+</div>
