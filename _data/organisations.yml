@@ -227,8 +227,12 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 39
+        date-wait-first-appointment: "Apr '21"
+        source-wait-first-appointment: "https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen"
         publishes-wait-hormones: true
         wait-hormones: 24
+        date-wait-hormones: "Apr '21"
+        source-wait-hormones: "https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -335,10 +339,16 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 44
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info"
+        date-wait-first-appointment: "Apr '21"
         publishes-wait-hormones: true
-        wait-carried-over: "no"
         custom-wait-hormones: "12-18"
+        source-wait-hormones: "https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info"
+        date-wait-hormones: "Apr '21"
         custom-wait-total: "56-62"
+        wait-carried-over: "no"
+        source-wait-carried-over: "https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info"
+        date-wait-carried-over: "Apr '21"
         updated: '2021-01-29'
         nhs-funding: true
         referrals: true
