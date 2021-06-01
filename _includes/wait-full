@@ -7,7 +7,7 @@
       {%- if item.image -%}
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
       {%- endif -%}
-      <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a> 
+      <a href="{{ item.url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a> 
     </h3>
     {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
     {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
@@ -21,9 +21,12 @@
               <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>months average wait for 1st assessment appt</p>
+          {%- if item.source-wait-first-appointment -%}
+            <a class="source" href="{{ item.source-wait-first-appointment }}">(source)</a>
+          {%- endif -%}
       </div>
       <div>
           <h4>Hormones</h4>
@@ -34,9 +37,12 @@
               <span class="waittime">+{{ item.wait-hormones }}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>months additional minimum wait for HRT</p>
+          {%- if item.source-wait-hormones -%}
+            <a class="source" href="{{ item.source-wait-hormones }}">(source)</a>
+          {%- endif -%}
       </div>
       <div>
           <h4>Total</h4>
@@ -47,7 +53,7 @@
               <span class="waittime">={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>average minimum total time to hormones</p>
       </div>
@@ -65,6 +71,9 @@
         {%- endif -%}
         </span>
         <p>are adult NHS gender services waits carried over?</p>
+        {%- if item.source-wait-carried-over -%}
+          <a class="source" href="{{ item.source-wait-carried-over }}">(source)</a>
+        {%- endif -%}
       </div>
     </div>
   {%- endfor -%}

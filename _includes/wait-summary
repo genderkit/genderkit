@@ -33,7 +33,7 @@
               <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
@@ -46,7 +46,7 @@
               <span class="waittime">{{ item.wait-hormones }}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
@@ -58,7 +58,7 @@
               <span class="waittime">{%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
