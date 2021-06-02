@@ -280,7 +280,7 @@ organisations:
         referrals: true
         wait-carried-over: "yes"
         publishes-wait-first-appointment: true
-        custom-wait-first-appointment: '<2'
+        custom-wait-first-appointment: '<3'
         updated: '2020-08-14'
         catchment: 'Very limited access: [more info](http://wearetransplus.co.uk/faqs/)'
     -
