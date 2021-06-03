@@ -17,13 +17,16 @@
   {%- for item in sortedOrganisations -%}
     <tr>
       {%- assign url = item.url -%}
-      <td>
+      <td class="service-name">
       {%- if item.image -%}
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
       {%- endif -%}
           <span class="clinicheading">
             <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a>
           </span>
+     {%- if include.free -%}
+       <a class="detail-link" href="#{{ item.name | slugify }}-fulldetail">more info</a>
+     {%- endif -%}
      </td>
       <td class="centred">
           {%- if item.publishes-wait-first-appointment -%}
