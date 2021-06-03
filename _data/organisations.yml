@@ -64,6 +64,7 @@ organisations:
         publishes-wait-hormones: true
         wait-carried-over: "yes"
         custom-wait-first-appointment: "24-30"
+        source-wait-first-appointment: "https://gender.wales/"
         wait-hormones: 0
         custom-wait-total: "24-30"
         updated: '2021-05-23'
@@ -80,6 +81,7 @@ organisations:
         age-range: 'Under 18'
         publishes-wait-first-appointment: true
         wait-first-appointment: 3
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/waiting_times_for_brackenburns_g"
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
     -
@@ -93,6 +95,7 @@ organisations:
         age-range: 18+
         publishes-wait-first-appointment: true
         custom-wait-first-appointment: '<47'
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/waiting_times_for_brackenburns_g"
         referrals: true
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
@@ -134,7 +137,9 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 31
+        source-wait-first-appointment: "https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/"
         wait-carried-over: "yes"
+        source-wait-carried-over: "https://www.lothiansexualhealth.scot/gender-identity-clinic/accessing-gic/"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -149,6 +154,7 @@ organisations:
         image: nhs-scotland
         publishes-wait-first-appointment: true
         wait-first-appointment: 36
+        source-wait-first-appointment: "https://www.sandyford.scot/sexual-health-services/gender-identity-service/"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -164,6 +170,7 @@ organisations:
         image: nhs-scotland
         publishes-wait-first-appointment: true
         wait-first-appointment: 32
+        source-wait-first-appointment: "https://www.sandyford.scot/sexual-health-services/gender-identity-service/"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -179,10 +186,16 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 57
+        wait-first-appointment: 59
+        source-wait-first-appointment: "https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times"
+        date-wait-first-appointment: "May '21"
         publishes-wait-hormones: true
         wait-hormones: 12
+        source-wait-hormones: "https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in"
+        date-wait-hormones: "Apr '21"
         wait-carried-over: "no"
+        source-wait-carried-over: "https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times"
+        date-wait-carried-over: "Mar '21"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -196,7 +209,8 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 37
+        wait-first-appointment: 38
+        source-wait-first-appointment: "https://www.nottinghamshirehealthcare.nhs.uk/ncth-patient-updates"
         wait-carried-over: "no"
         nhs-funding: true
         referrals: true
@@ -213,6 +227,7 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 43
+        source-wait-first-appointment: "https://www.nhft.nhs.uk/gic/"
         updated: '2021-05-23'
         referrals: true
         nhs-funding: true
@@ -247,8 +262,12 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 37
+        source-wait-first-appointment: "https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/"
+        date-wait-first-appointment: "Mar '21"
         publishes-wait-hormones: true
         wait-hormones: 10
+        source-wait-hormones: "https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/"
+        date-wait-hormones: "Mar '21"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -264,6 +283,7 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 39
+        source-wait-first-appointment: "https://www.shsc.nhs.uk/services/gender-identity-clinic"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
