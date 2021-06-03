@@ -7,9 +7,10 @@
       {%- if item.image -%}
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
       {%- endif -%}
-      <a href="{{ item.url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a> 
+      {%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a> 
     </h3>
     {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
+    {%- if item.url -%}<a href="{{ item.url }}">{{ item.url }}</a>{%- endif -%}
     {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
     <div class="wait-full-details">
       <div>
