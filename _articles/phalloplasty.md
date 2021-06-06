@@ -76,6 +76,8 @@ Several options are available for people who wish to have erections:
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stays and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
+{% include gdnrss %}
+
 ### How much will it cost?
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will usually provide funding for phalloplasty or [metoidioplasty]({% link _articles/metoidioplasty.md %}). The NHS will normally also fund hair removal from the donor skin sites for phalloplasty, either by [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}). 
