@@ -3,6 +3,7 @@
 
 <div class="details summarydetails" id="wait-full">
   {%- for item in sortedOrganisations -%}
+    <div class="wait-full-details">
     <h3 id="{{ item.name | slugify }}-fulldetail">
       {%- if item.image -%}
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
@@ -12,8 +13,7 @@
     {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
     {%- if item.url -%}<a href="{{ item.url }}">{{ item.url }}</a>{%- endif -%}
     {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
-    {%- if item.extra-information -%}<p>{{item.extra-information | markdownify }}</p>{%- endif %}
-    <div class="wait-full-details">
+    <div class="wait-full-details-stats">
       <div>
           <h4>First Seen</h4>
           {%- if item.publishes-wait-first-appointment -%}
@@ -92,6 +92,8 @@
         {%- endif -%}
         {%- endunless -%}
       </div>
+    </div>
+    {%- if item.extra-information -%}<p>{{item.extra-information | markdownify }}</p>{%- endif %}
     </div>
   {%- endfor -%}
 </div>
