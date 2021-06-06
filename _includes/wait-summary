@@ -22,7 +22,7 @@
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
       {%- endif -%}
           <span class="clinicheading">
-            <h4>{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</h4>
+            <h4 id="{%- if item.heading -%}{{ item.heading | slugify }}{%- else -%}{{ item.name | slugify }}{%- endif -%}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</h4>
           </span>
      {%- if include.free -%}
        <a class="detail-link" href="#{{ item.name | slugify }}-fulldetail">more info</a>
@@ -36,7 +36,7 @@
               <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
@@ -49,7 +49,7 @@
               <span class="waittime">{{ item.wait-hormones }}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
@@ -61,19 +61,19 @@
               <span class="waittime">{%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
       <td class="centred">
         {%- if item.wait-carried-over -%}
           {%- if item.wait-carried-over == "yes" -%}
-            <img class="tableicon" src="/assets/images/tick.svg"></img>
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
           {%- else -%}
-            <img class="tableicon" src="/assets/images/cross.svg"></img>
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
           {%- endif -%}
         {%- else -%}
-          <img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
         {%- endif -%}
       </td>
 {%- endif -%}
