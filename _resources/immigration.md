@@ -14,6 +14,11 @@ More useful links for trans asylum seekers and refugees can be found on [the Tra
 
 ### Accessing gender services in the UK
 
+{% capture warn %}
+The information in this section is not a substitute for formal immigration advice.
+{% endcapture %}
+{% include warning warning=warn %}
+
 *British citizens* are all able to access the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS) which provides medical services - including support with gender - for *free*. You can find out how to become a British citizen on [the UK Government website](https://www.gov.uk/becoming-a-british-citizen).
 
 *EU and EEA nationals* who need *care that can't wait until they return home* can use a [European Health Insurance Card](http://ec.europa.eu/social/main.jsp?catId=559) (EHIC). If you have an EHIC, you can use the NHS gender services for *free* while you are in the UK, so long as you're not here for more than 6 months.
