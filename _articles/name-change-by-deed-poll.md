@@ -40,8 +40,7 @@ Many people will make multiple original, signed deed polls so they can send them
 ### Making a deed poll --- under 16
 If you are under 16, you will need to get your parents or guardians to make a deed poll on your behalf. They must all agree to this, otherwise you will need a court order. You do not need to enrol your deed poll.
 
-[Mermaids can provide a template deed poll](https://mermaidsuk.org.uk/changing-your-name/) for under 16s if you contact them.
-
+Mermaids have [resources relating to name changes](https://mermaidsuk.org.uk/legal-resources/) for under 16s on their website, including a template deed poll.
 
 ### Where can I learn more?
 
