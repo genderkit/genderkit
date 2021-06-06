@@ -333,7 +333,7 @@ organisations:
         heading: Merseyside
         nickname: CMAGIC
         name: 'Cheshire and Merseyside Adult Gender Identity Collaborative'
-        url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/'
+        url: 'https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative'
         tags: [NHS, 'Gender Clinics', National, Liverpool, 'North West']
         manualDescription: 'NHS adult gender services in Cheshire and Merseyside'
         image: cmagic
@@ -342,7 +342,7 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: false
         updated: '2021-01-12'
-        catchment: 'Very limited access: [more info](https://www.merseycare.nhs.uk/our-services/physical-health-services/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/cmagic-questions-and-answers/)'
+        catchment: 'Very limited access: [more info](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/cmagic-frequently-asked-questions-faqs)'
     -
         heading: 'London GIDS'
         nickname: Tavistock
