@@ -10,7 +10,7 @@ Anyone carrying out electrolysis in the UK must have [a special license](https:/
 {% endcapture %}
 {% include warning warning=warn %}
 
-The British Institute and Association of Electrolysis maintain a [directory of members](http://www.electrolysis.co.uk/member-directory/) which may be helpful for finding somewhere to treat you.
+The British Institute and Association of Electrolysis maintain a [directory of members](https://www.electrolysis.co.uk/members) which may be helpful for finding somewhere to treat you.
 
 ### What should I be aware of?
 

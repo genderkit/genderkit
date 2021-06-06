@@ -108,7 +108,7 @@ Some options available to you are:
 
 ### How much will it cost?
 
-If you're looking to reduce costs, you can find bargains in charity shops, some of which now even offer online shopping, such as [Oxfam](https://onlineshop.oxfam.org.uk/shop/second-hand-clothes). Other options include vintage and second-hand stores. 
+If you're looking to reduce costs, you can find bargains in charity shops, some of which now even offer online shopping, such as [Oxfam](https://onlineshop.oxfam.org.uk/). Other options include vintage and second-hand stores. 
 
 If you have clothes you no longer need that are in good condition, you may be able to make money to buy new clothes by selling your existing ones online using sites like [Vinted](https://www.vinted.co.uk/), [Depop](https://www.depop.com/), or [Rebelle](https://www.rebelle.com).
 

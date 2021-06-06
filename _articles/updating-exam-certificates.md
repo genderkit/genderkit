@@ -17,7 +17,6 @@ You will need to contact the correct exam board for the qualification to ask the
 Each organisation has a different instructions, which they have published online:
 
 - *AQA*: [Amendments to original certificates](https://www.aqa.org.uk/contact-us/past-results-and-lost-certificates/amendments-to-original-certificates)
-- *CCEA*: [Change of name on certificates](https://ccea.org.uk/learning-resources/obtaining-replacing-and-updating-certificates/change-name)
 - *City and Guilds*: use [this website](https://archiveservices.cityandguilds.com/)
 - *Edexcel*: is now owned by Pearson, see the link for Pearson below
 - *Eduqas*: [Replacement exam certificates](https://www.eduqas.co.uk/home/student-support/replacement-exam-certificates/) (look under the "Amendments to Certificates" tab)
