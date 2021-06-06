@@ -15,7 +15,7 @@
     {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
     <div class="wait-full-details-stats">
       <div>
-          <h4>First Seen</h4>
+          <h4 id="first-seen">First Seen</h4>
           {%- if item.publishes-wait-first-appointment -%}
             {%- if item.custom-wait-first-appointment -%}
               <span class="waittime">{{ item.custom-wait-first-appointment | markdownify }}</span>
@@ -23,7 +23,7 @@
               <span class="waittime"><p>{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</p></span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>months average wait for 1st assessment appt</p>
           {%- if item.source-wait-first-appointment -%}
@@ -35,7 +35,7 @@
       </div>
       <div>
         {%- unless item.hide-wait-hormones -%}
-          <h4>Hormones</h4>
+          <h4 id="hormones">Hormones</h4>
           {%- if item.publishes-wait-hormones -%}
  	    {%- if item.custom-wait-hormones -%}
               <span class="waittime">{{ item.custom-wait-hormones | prepend: "+" | markdownify }}</span>
@@ -43,7 +43,7 @@
               <span class="waittime"><p>{{ item.wait-hormones | prepend: "+" }}</p></span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>months additional minimum wait for HRT</p>
           {%- if item.source-wait-hormones -%}
@@ -56,7 +56,7 @@
       </div>
       <div>
         {%- unless item.hide-wait-hormones -%}
-          <h4>Total</h4>
+          <h4 id="total">Total</h4>
           {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
  	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
               <span class="waittime">{{ item.custom-wait-total | prepend: "=" | markdownify }}</span>
@@ -64,23 +64,23 @@
               <span class="waittime"><p>={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</p></span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>average minimum total time to hormones</p>
           {%- endunless -%}
       </div>
       <div>
         {%- unless item.hide-wait-carried-over -%}
-        <h4>Transfers</h4>
+        <h4 id="transfers">Transfers</h4>
         <span class="waittime">
         {%- if item.wait-carried-over -%}
           {%- if item.wait-carried-over == "yes" -%}
-            <img class="tableicon" src="/assets/images/tick.svg"></img>
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
           {%- else -%}
-            <img class="tableicon" src="/assets/images/cross.svg"></img>
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
           {%- endif -%}
         {%- else -%}
-          <img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
         {%- endif -%}
         </span>
         <p>are transfers from other NHS wait lists prioritised?</p>
