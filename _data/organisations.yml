@@ -452,9 +452,9 @@ organisations:
         url: 'https://www.kellypsychology.co.uk/'
         tags: ['Private healthcare', 'Gender Clinics', National, 'Under 18s']
         image: kelly
-        manualDescription: 'Private gender clinic for under 18s based in London'
-        age-range: 'Under 18'
-        wait-first-appointment: 0
+        manualDescription: 'Private gender clinic for under 23s based in London'
+        age-range: 'Under 23'
+        wait-first-appointment: 2
         publishes-wait-first-appointment: true
         nhs-funding: false
         referrals: true
