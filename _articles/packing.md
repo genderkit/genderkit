@@ -21,12 +21,13 @@ Outside the UK, specialist manufacturers of high quality packers include:
 - [Transthetics](https://transthetics.com/)
 - [ReelMagik](https://www.reelmagik.com/)
 - [GenderCat](https://gendercat.com/)
+
 You may also need something to hold the packer in place:
 
 - *tight/sports underwear:* wearing tight underwear or multiple layers of underwear can often be enough to hold the packer in place. 
 - *packer pouches:* also known as "cock socks", these are fabric pouches with Velcro on one side that attach to the inside of your underwear.
 - *packer harnesses/straps:* a strap that goes around your hips which attaches to the packer to hold it in place.
-- *boxer harnesses:* boxer shorts with a built in ring that the packer fits through to hold it in place.
+- *boxer harnesses:* boxer shorts with a built in ring or pouch that the packer fits in to hold it in place. [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxer shorts with this feature.
 - *DIY options:* such as modifying an existing pair of underwear by stitching in a pocket.
 
 Packers come in different sizes. Bear in mind that penises get bigger during arousal, so don't try and order a packer that has the length of an erect penis unless you want to look like you are in a permanent state of arousal.
