@@ -66,6 +66,8 @@ organisations:
         custom-wait-first-appointment: "24-30"
         source-wait-first-appointment: "https://gender.wales/"
         wait-hormones: 0
+        foi-wait-hormones: "https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s"
+        foi-wait-carried-over: "https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s"
         custom-wait-total: "24-30"
         updated: '2021-05-23'
         catchment: 'Wales GP only'
@@ -82,6 +84,8 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 3
         source-wait-first-appointment: "https://www.whatdotheyknow.com/request/waiting_times_for_brackenburns_g"
+        hide-wait-hormones: true
+        hide-wait-carried-over: true
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
     -
@@ -173,6 +177,8 @@ organisations:
         source-wait-first-appointment: "https://www.sandyford.scot/sexual-health-services/gender-identity-service/"
         nhs-funding: true
         referrals: true
+        hide-wait-hormones: true
+        hide-wait-carried-over: true
         updated: '2021-05-23'
         catchment: 'Scotland GP only'
         self-referral: true
@@ -200,6 +206,7 @@ organisations:
         referrals: true
         updated: '2021-05-23'
         catchment: 'England GP only'
+        extra-information: "The service is currently focusing resources on people who have already had their first appointment, and while they are accepting new appointments, are not currently seeing patients for a first appointment and do not know when this will resume."
     -
         heading: Nottingham
         name: 'The Nottingham Centre for Transgender Health'
@@ -346,8 +353,12 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: true
         wait-first-appointment: 23
+        foi-wait-first-appointment: "https://www.whatdotheyknow.com/request/gids_wait_times"
+        hide-wait-hormones: true
+        hide-wait-carried-over: true
         updated: '2020-11-04'
         catchment: 'UK GP only'
+        extra-information: "For referrals from Wales, the referring clinician will have to make a funding request to the local Health Board before making a referral."
     -
         heading: 'London GIC'
         nickname: Tavistock
