@@ -31,7 +31,7 @@
       <td class="centred">
           {%- if item.publishes-wait-first-appointment -%}
             {%- if item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-first-appointment }}</span>
+              <span class="waittime">{{ item.custom-wait-first-appointment | markdownify}}</span>
             {%- else -%}
               <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
@@ -44,7 +44,7 @@
       <td class="centred">
           {%- if item.publishes-wait-hormones -%}
  	    {%- if item.custom-wait-hormones -%}
-              <span class="waittime">{{ item.custom-wait-hormones }}</span>
+              <span class="waittime">{{ item.custom-wait-hormones | markdownify }}</span>
             {%- else -%}
               <span class="waittime">{{ item.wait-hormones }}</span>
             {%- endif -%}
@@ -56,7 +56,7 @@
       <td class="centred">
           {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
  	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-total }}</span>
+              <span class="waittime">{{ item.custom-wait-total | markdownify }}</span>
             {%- else -%}
               <span class="waittime">{%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}

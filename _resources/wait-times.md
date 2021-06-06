@@ -14,10 +14,6 @@ Waiting times indicate how long patients who have just been invited for an appoi
 
 Many gender services currently have very lengthy wait lists, and it can be very difficult to be waiting for so long. You can find ways you can get help while you are waiting on [our Mental Health page]({% link _resources/mental-health.md %}).
 
-### Summary information
-
-Stuff stuff stuff.
-
 {% include wait-summary tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description="You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area." %}
 
 All these services are now accepting referrals and able to offer both phone and video appointments.

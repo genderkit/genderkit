@@ -35,7 +35,9 @@ A well-run service will be happy to help you with questions on these subjects. Y
 
 ### Waiting times
 
-See the other page for this info.
+UK gender services often have extremely long waiting lists, with the time required to be seen at many clinics measured in **years**.
+
+You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}).
 
 ### Getting a referral to an NHS clinic
 

@@ -12,14 +12,15 @@
     {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
     {%- if item.url -%}<a href="{{ item.url }}">{{ item.url }}</a>{%- endif -%}
     {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
+    {%- if item.extra-information -%}<p>{{item.extra-information | markdownify }}</p>{%- endif %}
     <div class="wait-full-details">
       <div>
           <h4>First Seen</h4>
           {%- if item.publishes-wait-first-appointment -%}
             {%- if item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-first-appointment }}</span>
+              <span class="waittime">{{ item.custom-wait-first-appointment | markdownify }}</span>
             {%- else -%}
-              <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
+              <span class="waittime"><p>{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</p></span>
             {%- endif -%}
           {%- else -%}
               <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
@@ -28,14 +29,18 @@
           {%- if item.source-wait-first-appointment -%}
             <a class="source" href="{{ item.source-wait-first-appointment }}">(source)</a>
           {%- endif -%}
+          {%- if item.foi-wait-first-appointment -%}
+            <a class="source" href="{{ item.foi-wait-first-appointment }}">(requested)</a>
+          {%- endif -%}
       </div>
       <div>
+        {%- unless item.hide-wait-hormones -%}
           <h4>Hormones</h4>
           {%- if item.publishes-wait-hormones -%}
  	    {%- if item.custom-wait-hormones -%}
-              <span class="waittime">+{{ item.custom-wait-hormones }}</span>
+              <span class="waittime">{{ item.custom-wait-hormones | prepend: "+" | markdownify }}</span>
             {%- else -%}
-              <span class="waittime">+{{ item.wait-hormones }}</span>
+              <span class="waittime"><p>{{ item.wait-hormones | prepend: "+" }}</p></span>
             {%- endif -%}
           {%- else -%}
               <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
@@ -44,21 +49,28 @@
           {%- if item.source-wait-hormones -%}
             <a class="source" href="{{ item.source-wait-hormones }}">(source)</a>
           {%- endif -%}
+          {%- if item.foi-wait-hormones -%}
+            <a class="source" href="{{ item.foi-wait-hormones }}">(requested)</a>
+          {%- endif -%}
+          {%- endunless -%}
       </div>
       <div>
+        {%- unless item.hide-wait-hormones -%}
           <h4>Total</h4>
           {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
  	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
-              <span class="waittime">={{ item.custom-wait-total }}</span>
+              <span class="waittime">{{ item.custom-wait-total | prepend: "=" | markdownify }}</span>
             {%- else -%}
-              <span class="waittime">={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
+              <span class="waittime"><p>={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</p></span>
             {%- endif -%}
           {%- else -%}
               <span class="unknowninfo"><img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
           <p>average minimum total time to hormones</p>
+          {%- endunless -%}
       </div>
       <div>
+        {%- unless item.hide-wait-carried-over -%}
         <h4>Transfers</h4>
         <span class="waittime">
         {%- if item.wait-carried-over -%}
@@ -71,10 +83,14 @@
           <img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
         {%- endif -%}
         </span>
-        <p>are adult NHS gender services waits carried over?</p>
+        <p>are transfers from other NHS wait lists prioritised?</p>
         {%- if item.source-wait-carried-over -%}
           <a class="source" href="{{ item.source-wait-carried-over }}">(source)</a>
         {%- endif -%}
+        {%- if item.foi-wait-carried-over -%}
+          <a class="source" href="{{ item.foi-wait-carried-over }}">(requested)</a>
+        {%- endif -%}
+        {%- endunless -%}
       </div>
     </div>
   {%- endfor -%}
