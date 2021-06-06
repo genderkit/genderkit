@@ -313,6 +313,7 @@ organisations:
         custom-wait-total: '<5'
         extra-information: "TransPlus have an in-house pharmacy, so prescriptions for hormones can be filled immediately."
         updated: '2021-06-2'
+        self-referral: true
         catchment: 'Very limited access: [more info](http://wearetransplus.co.uk/faqs/)'
     -
         heading: Manchester
@@ -328,6 +329,7 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: false
         updated: '2020-12-02'
+        self-referral: true
         catchment: 'Very limited access: [more info](https://www.indigogenderservice.uk/files/Patient%20FAQs%20V3%20-%2001.12.20.pdf)'
     -
         heading: Merseyside
@@ -342,6 +344,7 @@ organisations:
         referrals: true
         publishes-wait-first-appointment: false
         updated: '2021-01-12'
+        self-referral: true
         catchment: 'Very limited access: [more info](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/cmagic-frequently-asked-questions-faqs)'
     -
         heading: 'London GIDS'
