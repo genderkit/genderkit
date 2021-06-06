@@ -11,7 +11,7 @@
 {%- if include.free -%}
     <th><div class="rotate"><div class="smaller">To get</div><div>hormones</div><div class="smaller">(in months)</div></div></th>
     <th><div class="rotate"><div>Total</div><div class="smaller">(in months)</div></div></th>
-    <th><div class="rotate"><div>Transfers</div></div></th>
+    <th><div class="rotate"><div class="smaller">Transfers</div><div>prioritised?</div></div></th>
 {%- endif -%}
   </tr>
   {%- for item in sortedOrganisations -%}
