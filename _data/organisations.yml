@@ -233,9 +233,10 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 43
+        wait-first-appointment: 44
+        date-wait-first-appointment: "Jul '21"
         source-wait-first-appointment: "https://www.nhft.nhs.uk/gic/"
-        updated: '2021-05-23'
+        updated: '2021-06-23'
         referrals: true
         nhs-funding: true
         catchment: 'England GP only'
