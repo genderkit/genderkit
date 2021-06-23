@@ -396,7 +396,7 @@ organisations:
         heading: Inverness
         nickname: 'Highland GIS'
         name: 'Highland Gender Identity Service'
-        url: 'http://www.highlandsexualhealth.co.uk/services/gender-identity'
+        url: 'https://www.highlandsexualhealth.co.uk/gender-identity/gender-identity'
         tags: [NHS, 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service based in Inverness'
         image: nhs-scotland
