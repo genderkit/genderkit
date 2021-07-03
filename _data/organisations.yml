@@ -433,7 +433,7 @@ organisations:
         tags: ['Private healthcare', 'Gender Clinics', National]
         image: ngn
         manualDescription: 'Private sector network of specialists in the field of Gender Dysphoria based in the North of England.'
-        age-range: 17.5+
+        age-range: 16+
         publishes-wait-first-appointment: true
         wait-first-appointment: 5
         nhs-funding: false
