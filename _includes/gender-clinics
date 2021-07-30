@@ -1,4 +1,4 @@
-{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"catchment", "last" -%}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | sort:"catchment", "last" -%}
 
 <h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 {%- if include.description -%}
@@ -27,10 +27,14 @@
           {%- else -%}
             <span class="agerange"><em>All</em> ages</span>
           {%- endif -%}
+          {%- if item.referrals == false -%}
+            <span class="referral">No referrals accepted</span>
+          {%- else -%}
           {%- if item.self-referral -%}
             <span class="referral">Allows self-referral</span>
           {%- else -%}
             <span class="referral">GP referral only</span>
+          {%- endif -%}
           {%- endif -%}
 <!-- -->
         </div>

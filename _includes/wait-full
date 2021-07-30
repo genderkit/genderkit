@@ -29,7 +29,7 @@
           <p>months average wait for 1st assessment appt</p>
           <p>
           {%- if item.source-wait-first-appointment -%}
-            <a class="source" href="{{ item.source-wait-first-appointment }}">(source)</a>{%- if item.date-first-appointment -%}&nbsp;- {{ item.date-first-appointment }}{%- endif %}
+            <a class="source" href="{{ item.source-wait-first-appointment }}">(source)</a>{%- if item.date-wait-first-appointment -%}&nbsp;- {{ item.date-wait-first-appointment }}{%- endif %}
           {%- endif -%}
           </p>
           {%- if item.foi-wait-first-appointment -%}

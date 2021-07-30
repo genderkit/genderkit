@@ -115,7 +115,7 @@ organisations:
         publishes-wait-first-appointment: false
         wait-first-appointment: 3
         nhs-funding: false
-        referrals: true
+        referrals: false
         self-referral: true
         updated: '2020-11-25'
     -
@@ -141,8 +141,8 @@ organisations:
         image: nhs-scotland
         age-range: 17+
         publishes-wait-first-appointment: true
-        date-wait-first-appointment: "May '21"
-        wait-first-appointment: 31
+        date-wait-first-appointment: "Jul '21"
+        wait-first-appointment: 32
         source-wait-first-appointment: "https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/"
         wait-carried-over: "yes"
         source-wait-carried-over: "https://www.lothiansexualhealth.scot/gender-identity-clinic/accessing-gic/"
@@ -218,13 +218,13 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 38
-        date-wait-first-appointment: "May '21"
+        wait-first-appointment: 37
+        date-wait-first-appointment: "Jul '21"
         source-wait-first-appointment: "https://www.nottinghamshirehealthcare.nhs.uk/ncth-patient-updates"
         wait-carried-over: "no"
         nhs-funding: true
         referrals: true
-        updated: '2021-05-23'
+        updated: '2021-07-30'
         catchment: 'England GP only'
     -
         heading: Northants
@@ -286,6 +286,7 @@ organisations:
         referrals: true
         updated: '2021-07-04'
         catchment: 'England GP only'
+        extra-information: "More detailed information about wait times is available on the Leeds GIS website."
     -
         heading: Sheffield
         nickname: Porterbrook
@@ -389,10 +390,9 @@ organisations:
         source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info"
         date-wait-first-appointment: "Apr '21"
         publishes-wait-hormones: true
-        custom-wait-hormones: "12-18"
+        wait-hormones: 18
         source-wait-hormones: "https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info"
-        date-wait-hormones: "Apr '21"
-        custom-wait-total: "56-62"
+        date-wait-hormones: "Jul '21"
         wait-carried-over: "no"
         source-wait-carried-over: "https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info"
         date-wait-carried-over: "Apr '21"
