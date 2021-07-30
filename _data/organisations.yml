@@ -1434,7 +1434,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c38.38.479.479/s50x50/936355_554745104576215_130272052_n.jpg?oh=6b6d3cdcc67eb6d56c3237d1f12c9c7b&oe=5ACF25BD'
     -
         name: 'Navigate Brighton'
-        url: 'https://navigatebrighton.wordpress.com/'
+        url: 'https://www.navigatebrighton.co.uk/'
         tags: ['South East', Brighton, 'Local groups']
         twitter: NavigateBton
         facebook: NavigateBrighton
@@ -2264,6 +2264,7 @@ organisations:
         twitterDescription: 'BFI Film Academy present to you a season of transgender films, revealing a beautifully in-depth look at this growing community. Insta: whowearebfi'
         lastTwitterPost: 'Mon Aug 14 19:54:11 +0000 2017'
         twitterIcon: 'https://pbs.twimg.com/profile_images/890683706356244481/nv_kEU5e_normal.jpg'
+        archived: true
     -
         name: 'OII UK'
         url: 'http://oiiuk.org'
@@ -2601,6 +2602,7 @@ organisations:
         twitterDescription: 'Queer & Trans Inclusion Partnership  (+44) 07824701854 info@qtipcic.co.uk'
         lastTwitterPost: 'Thu Nov 28 14:15:24 +0000 2019'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1128378330896576518/M8C4oHQ9_normal.png'
+        archived: true
     -
         name: 'TransForm Renfrewshire'
         tags: [Scotland, 'Local groups']
@@ -2704,7 +2706,7 @@ organisations:
     -
         name: 'Trans Pride NI'
         tags: ['Northern Ireland', 'Local groups', 'Pride events']
-        url: 'https://transprideni.wordpress.com/'
+        url: 'https://transprideni.com/'
         twitter: transprideni
         twitterID: '1080947077130129408'
         twitterDescription: 'Trans Pride NI TNBI Inclusive Charity Donate https://t.co/f7K36u5aUZ #transprideni2022 info@transprideni.com 🎉🎆🌈'
