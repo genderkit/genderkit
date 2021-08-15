@@ -27,7 +27,7 @@
           {%- else -%}
             <span class="agerange"><em>All</em> ages</span>
           {%- endif -%}
-          <span class="referral">{{ item.referral-criteria }}</span>
+          <span class="referral">{{ item.referral-criteria | markdownify }}</span>
 <!-- -->
         </div>
 <!-- -->
