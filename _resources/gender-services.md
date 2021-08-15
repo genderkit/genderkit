@@ -11,11 +11,21 @@ We cannot check the quality or safety of services on this page.
 
 In the UK, people who are changing things linked to gender are supported by a set of specialist centres, often known as "gender identity clinics" (GICs), which offer [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and access to other services like hormone medications and surgeries. 
 
-{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description="You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area." %}
+{% capture gic-description %}
+You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area.
+
+You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}#free-uk-based-services).
+{% endcapture %}
+{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description=gic-description %}
 
 All these services are now accepting referrals and able to offer both phone and video appointments.
 
-{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description="There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service." %}
+{% capture gic-description %}
+There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service.
+
+You can find the waiting times for these services on our [ UK service wait times page]({% link _resources/wait-times.md %}#paid-uk-based-services).
+{% endcapture %}
+{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description=gic-description %}
 
 ### Other services
 
@@ -33,11 +43,6 @@ To ensure that you choose an appropriate service, it is important to investigate
 
 A well-run service will be happy to help you with questions on these subjects. You may also find useful information on these subjects, and other people's thoughts and experiences of services, by searching [/r/transgenderuk](https://www.reddit.com/r/transgenderuk) for information.
 
-### Waiting times
-
-UK gender services often have extremely long waiting lists, with the time required to be seen at many clinics measured in **years**.
-
-You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}).
 
 ### Getting a referral to an NHS clinic
 
