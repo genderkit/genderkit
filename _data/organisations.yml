@@ -238,7 +238,7 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: false
-        wait-carried-over: "no"
+        wait-carried-over: "yes"
         nhs-funding: true
         referral-criteria: "Transfers only"
         updated: '2021-08-15'
