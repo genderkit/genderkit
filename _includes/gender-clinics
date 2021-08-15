@@ -27,15 +27,7 @@
           {%- else -%}
             <span class="agerange"><em>All</em> ages</span>
           {%- endif -%}
-          {%- if item.referrals == false -%}
-            <span class="referral">No referrals accepted</span>
-          {%- else -%}
-          {%- if item.self-referral -%}
-            <span class="referral">Allows self-referral</span>
-          {%- else -%}
-            <span class="referral">GP referral only</span>
-          {%- endif -%}
-          {%- endif -%}
+          <span class="referral">{{ item.referral-criteria }}</span>
 <!-- -->
         </div>
 <!-- -->
