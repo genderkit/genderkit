@@ -342,7 +342,6 @@ organisations:
         custom-wait-total: '<5'
         extra-information: "TransPlus have an in-house pharmacy, so prescriptions for hormones can be filled immediately."
         updated: '2021-06-2'
-        referral-criteria: "Allows self-referral"
         catchment: 'Very limited access: [more info](http://wearetransplus.co.uk/faqs/)'
     -
         heading: Manchester
