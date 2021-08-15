@@ -1,4 +1,4 @@
-{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"heading" -%}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "item.referral-criteria != 'No referrals accepted'" |sort:"heading" -%}
 
 <h3 id="{{ include.title | slugify }}" class="referrals"><img alt="Magnifying glass icon" src="/assets/images/detail.svg" class="inlineIcon" /><span>Detailed information</span></h3>
 
