@@ -240,7 +240,7 @@ organisations:
         publishes-wait-first-appointment: false
         wait-carried-over: "no"
         nhs-funding: true
-        referral-criteria: "GP referral only"
+        referral-criteria: "Transfers only"
         updated: '2021-08-15'
         catchment: '[East of England](https://www.england.nhs.uk/system-and-organisational-oversight/system-directory/east-of-england-region/) only'
     -
@@ -333,7 +333,7 @@ organisations:
         image: transplus
         age-range: 17+
         nhs-funding: true
-        referral-criteria: "GP referral only"
+        referral-criteria: "Transfers only"
         wait-carried-over: "yes"
         publishes-wait-first-appointment: true
         custom-wait-first-appointment: '<3'
@@ -357,7 +357,7 @@ organisations:
         wait-carried-over: "yes"
         publishes-wait-first-appointment: false
         updated: '2020-12-02'
-        referral-criteria: "Allows self-referral"
+        referral-criteria: "Transfers only"
         catchment: 'Very limited access: [more info](https://www.indigogenderservice.uk/files/Patient%20FAQs%20V3%20-%2001.12.20.pdf)'
     -
         heading: Merseyside
@@ -371,7 +371,7 @@ organisations:
         nhs-funding: true
         publishes-wait-first-appointment: false
         updated: '2021-01-12'
-        referral-criteria: "Allows self-referral"
+        referral-criteria: "Transfers only"
         catchment: 'Very limited access: [more info](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/cmagic-cheshire-and-merseyside-adult-gender-identity-collaborative/cmagic-frequently-asked-questions-faqs)'
     -
         heading: 'London GIDS'
@@ -384,7 +384,7 @@ organisations:
         image: gids
         age-range: 'Under 18'
         nhs-funding: true
-        referral-criteria: "GP referral only"
+        referral-criteria: "GP/CAMHS referral only"
         publishes-wait-first-appointment: true
         wait-first-appointment: 22
         source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gids_wait_times"
