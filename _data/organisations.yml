@@ -144,6 +144,7 @@ organisations:
         date-wait-first-appointment: "Jul '21"
         wait-first-appointment: 32
         source-wait-first-appointment: "https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/"
+        foi-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time"
         wait-carried-over: "yes"
         source-wait-carried-over: "https://www.lothiansexualhealth.scot/gender-identity-clinic/accessing-gic/"
         nhs-funding: true
@@ -161,6 +162,8 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 36
         source-wait-first-appointment: "https://www.sandyford.scot/sexual-health-services/gender-identity-service/"
+        foi-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
+        foi-wait-carried-over: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
         nhs-funding: true
         referrals: true
         updated: '2021-05-23'
@@ -194,9 +197,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 60
+        wait-first-appointment: 61
         source-wait-first-appointment: "https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times"
-        date-wait-first-appointment: "Jun '21"
+        date-wait-first-appointment: "Aug '21"
         publishes-wait-hormones: true
         wait-hormones: 12
         source-wait-hormones: "https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in"
@@ -221,11 +224,28 @@ organisations:
         wait-first-appointment: 37
         date-wait-first-appointment: "Jul '21"
         source-wait-first-appointment: "https://www.nottinghamshirehealthcare.nhs.uk/ncth-patient-updates"
+        publishes-wait-hormones: true
+        custom-wait-hormones: "3-4"
+        custom-wait-total: "40-41"
         wait-carried-over: "no"
         nhs-funding: true
         referrals: true
         updated: '2021-07-30'
         catchment: 'England GP only'
+    -
+        heading: NCTH EOE
+        name: 'East of England Gender Service'
+        url: 'https://www.nottinghamshirehealthcare.nhs.uk/east-of-england-gender-service'
+        tags: [NHS, 'Gender Clinics', 'East Anglia']
+        manualDescription: 'NHS gender service located in Cambridge and Norfolk'
+        image: nhs
+        age-range: 17+
+        publishes-wait-first-appointment: false
+        wait-carried-over: "no"
+        nhs-funding: true
+        referrals: true
+        updated: '2021-08-15'
+        catchment: '[East of England](https://www.england.nhs.uk/system-and-organisational-oversight/system-directory/east-of-england-region/) only'
     -
         heading: Northants
         nickname: Daventry
@@ -239,6 +259,8 @@ organisations:
         wait-first-appointment: 44
         date-wait-first-appointment: "Jul '21"
         source-wait-first-appointment: "https://www.nhft.nhs.uk/gic/"
+        foi-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
+        foi-wait-carried-over: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
         updated: '2021-06-23'
         referrals: true
         nhs-funding: true
@@ -252,12 +274,12 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 41
-        date-wait-first-appointment: "Jun '21"
+        wait-first-appointment: 45
+        date-wait-first-appointment: "Jul '21"
         source-wait-first-appointment: "https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen"
         publishes-wait-hormones: true
-        wait-hormones: 27
-        date-wait-hormones: "Jun '21"
+        wait-hormones: 28
+        date-wait-hormones: "Jul '21"
         source-wait-hormones: "https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen"
         wait-carried-over: "yes"
         source-wait-carried-over: "https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic"
@@ -369,8 +391,9 @@ organisations:
         nhs-funding: true
         referrals: true
         publishes-wait-first-appointment: true
-        wait-first-appointment: 23
-        foi-wait-first-appointment: "https://www.whatdotheyknow.com/request/gids_wait_times"
+        wait-first-appointment: 22
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gids_wait_times"
+        date-wait-first-appointment: "Apr '21"
         hide-wait-hormones: true
         hide-wait-carried-over: true
         updated: '2020-11-04'
