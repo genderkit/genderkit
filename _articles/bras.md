@@ -59,7 +59,7 @@ Bra sizes consist of two components:
       <th>FF</th>
     </tr>
     <tr>
-      <td><1 in.</td>
+      <td>&lt;1 in.</td>
       <td>1 in.</td>
       <td>2 in.</td>
       <td>3 in.</td>
