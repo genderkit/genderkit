@@ -28,7 +28,7 @@ To *emphasise* or *increase* breasts:
 * *Push-up bras* push the breasts together and upwards, increasing the amount of cleavage, but don’t increase the overall size
 * *Mastectomy bras* are designed to hold [prosthetic breasts]({% link _articles/prosthetic-breasts.md %})
 
-To *deemphasise* or *reduce* breasts:
+To *de-emphasise* or *reduce* breasts:
 
 * *Sports bras* are designed for use in physical activity, minimising breast movement and often compressing the breasts
 * *Minimiser bras* hold the breasts relatively flat and use minimal padding
