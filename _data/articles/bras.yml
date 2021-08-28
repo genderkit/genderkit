@@ -1,0 +1,9 @@
+summary: "Underwear designed to cover and/or support the breasts."
+plural: yes
+effects:
+  - 
+    category: "Upper body"
+    detail: "Supports breasts, can accentuate or downplay bust size"
+  -
+    category: "Clothes"
+    detail: "Covers and supports breasts"
