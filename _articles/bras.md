@@ -87,8 +87,7 @@ The Reddit community [r/abrathatfits](https://www.reddit.com/r/abrathatfits) has
 ### What if I don’t have breasts?
 
 * *Back size is still important:* measure this about halfway down your chest
-* You can *pick a cup size* that you think looks good, or that will fit [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}) you have
-  * However, keep in mind that too large a cup size could look unnatural
+* You can *pick a cup size* that you think looks good, or that will fit [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}) you have. However, keep in mind that too large a cup size could look unnatural
 
 ### Where can I find a bra?
 
@@ -107,8 +106,7 @@ Usually the easiest way to put a bra on is *"backwards"*:
 1. *Wrap it around your chest*, making sure not to twist it, with the hooks in front of you
 2. *Hook it closed* using the widest hooks that don’t feel too loose
 3. *Turn it around* until the cups are at the front
-4. Put your *breasts* (if you have them) *into the cups*
-   * If you have prosthetic breasts or inserts, you might want to finish putting your bra on first
+4. Put your *breasts* (if you have them) *into the cups*. If you have prosthetic breasts or inserts, you might want to finish putting your bra on first
 5. Put your *arms through the straps*
 
 You may need to *adjust the straps* to the right size for you: usually there will be adjusters on the straps for this purpose.
@@ -120,6 +118,5 @@ To *take off* your bra, just *unhook it* at the back and then *slip your arms ou
 * *Don’t wear it tighter than you need*, as this can weaken the elastic
 * Remember, the *elastic will naturally slacken* over time: that’s why there are multiple sets of hooks at the back
 * You *don’t need to wash it after every wear*: once every 3 or 4 wears is fine. Some people only wash theirs once a week.
-* Some bras need to be hand-washed, but *most can go in the washing machine*
-  * A *mesh lingerie bag* will help prevent it from getting tangled with other laundry items
+* Some bras need to be hand-washed, but *most can go in the washing machine*. A *mesh lingerie bag* will help prevent it from getting tangled with other laundry items
 * After washing, *air drying is best*: the heat from a tumble dryer can reduce the elasticity of the straps
