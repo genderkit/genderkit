@@ -1,6 +1,9 @@
 ---
 title: bras
 weighting: 1
+feature:
+  image: bra.jpg
+  caption: "A person wearing a green and black sports bra"
 ---
 ### Why might I want a bra?
 You might want to wear a bra because:
