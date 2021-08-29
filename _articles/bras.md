@@ -84,7 +84,7 @@ The Reddit community [r/abrathatfits](https://www.reddit.com/r/abrathatfits) has
 ### What if I don’t have breasts?
 
 * *Back size is still important:* measure this about halfway down your chest
-* You can *pick a cup size* that you think looks good, or that will fit [prosthetic breasts] you have
+* You can *pick a cup size* that you think looks good, or that will fit [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}) you have
   * However, keep in mind that too large a cup size could look unnatural
 
 ### Where can I find a bra?
