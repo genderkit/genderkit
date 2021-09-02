@@ -14,13 +14,17 @@ Speech and language therapy can be used by people wanting to change the quality 
 
 Speech therapy cannot normally lower the bottom of the pitch range. Many people are able to accomplish that using [testosterone]({% link _articles/testosterone.md %}) instead, though its effects are permanent. (While [testosterone]({% link _articles/testosterone.md %}) is able to lower the bottom of the vocal range for many people, [oestrogen]({% link _articles/oestrogen.md %}) has no effect on the voice).
 
+In addition to working with a professional, some people will 
+
 A minority of people are unable to reach their goals through speech and language therapy or [testosterone]({% link _articles/testosterone.md %}) treatment and undergo surgical interventions to change their voice.
 
 ### How do I get speech therapy?
 
-Many UK gender services offer speech therapy. Speech therapy may be one-on-one, or in a group therapy setting.
+Many UK gender services offer speech therapy after they have given a [diagnosis]({% link _articles/formal-diagnosis.md %}). 
 
-There is a list of NHS speech and language therapists with specialisms in this area based in Wales on [the GPOne website](http://www.gpone.wales.nhs.uk/sitesplus/documents/1000/Wales%20GI%20Specialist%20SLT%20Contact%20Details%20per%20LHB%20-March%202020.pdf).
+In some parts of the UK, it is also possible to access therapy without having been referred to a gender service or having been given a diagnosis by them. To do this, you will need to be seen by your local Speech and Language Therapy team. Depending on the area, you may need to ask your GP for a referral, though some services will allow people to self-refer.
+
+Speech therapy may be one-on-one, or in a group therapy setting.
 
 You can find a list of speech therapists from across the UK who have a speciality in helping transgender people on the [Association of Speech and Language Therapists in Independent Practice website](https://www.helpwithtalking.com/Member-Directory-specialty-23).
 
