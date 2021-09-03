@@ -1,6 +1,9 @@
 ---
 title: working on your voice
 weighting: 1
+feature:
+  image: spectrogram.jpg
+  caption: "A spectrogram of the sound of a person's voice"
 ---
 
 ### How do I stay safe?
@@ -57,4 +60,6 @@ Some easy ways to practise changes to your voice while interacting with other pe
 - in-person LGBT+ events and meetups
 - phone calls (e.g. make a food order on the phone, or phoning a new person in the workplace)
 
-Practising your voice around other people can also give you really helpful feedback on how your voice is perceived by others. Changing your voice can often take a long time, and it can be easy to feel like you are getting nowhere, and feedback from other people about what they are hearing can help keep your morale up while you are learning. You might want to think about who you can ask for feedback - but don't forget to warn your friends before you use your new voice, or you may get startled or negative reactions. If you're struggling with a lack of feedback from other people, you might find some sessions with a [professional]({% link _articles/speech-therapy.md %}) useful.
+Practising your voice around other people can also give you really helpful feedback on how your voice is perceived by others. Changing your voice can often take a long time, and it can be easy to feel like you are getting nowhere, and feedback from other people about what they are hearing can help keep your morale up while you are learning. 
+
+You might want to think about who you can ask for feedback. Don't forget to let your friends know you're working on your voice before you try to practise around them. Surprising them with a new voice might provoke knee-jerk responses rather than useful feedback. If you're struggling with a lack of feedback from other people, you might find some sessions with a [professional]({% link _articles/speech-therapy.md %}) useful.
