@@ -479,7 +479,8 @@ organisations:
         manualDescription: 'Gender specialists offering assessments for gender dysphoria diagnosis, hormones, surgical referrals and counselling services'
         age-range: 18+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 0
+        wait-first-appointment: 1-2
+        source-wait-first-appointment: "https://genderdoctors.com/faqs/"
         nhs-funding: false
         referral-criteria: "Allows self-referral"
         updated: '2021-03-08'
@@ -521,6 +522,7 @@ organisations:
         nhs-funding: false
         referral-criteria: "Allows self-referral"
     -
+        heading: 'GenderCare'
         name: GenderCare
         url: 'https://gendercare.co.uk'
         twitter: gendercaredrl
