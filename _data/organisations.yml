@@ -237,6 +237,7 @@ organisations:
         manualDescription: 'NHS gender service located in Cambridge and Norfolk'
         image: nhs
         age-range: 17+
+        pilot: true
         publishes-wait-first-appointment: false
         wait-carried-over: "yes"
         nhs-funding: true
@@ -253,12 +254,17 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 44
+        wait-first-appointment: 31
         date-wait-first-appointment: "Jul '21"
-        source-wait-first-appointment: "https://www.nhft.nhs.uk/gic/"
-        foi-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
-        foi-wait-carried-over: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
-        updated: '2021-06-23'
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
+        publishes-wait-hormones: true
+        wait-hormones: 8
+        date-wait-hormones: "Jul '21"
+        source-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
+        wait-carried-over: "no"
+        date-wait-carried-over: "Jul '21"
+        source-wait-carried-over: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data"
+        updated: '2021-09-04'
         referral-criteria: "GP referral only"
         nhs-funding: true
         catchment: 'England GP only'
@@ -333,6 +339,7 @@ organisations:
         image: transplus
         age-range: 17+
         nhs-funding: true
+        pilot: true
         referral-criteria: "Transfers only"
         wait-carried-over: "yes"
         publishes-wait-first-appointment: true
@@ -352,6 +359,7 @@ organisations:
         manualDescription: 'NHS gender service based in Manchester offering services to people who are already on an NHS clinic waiting list.'
         image: indigo
         age-range: 17+
+        pilot: true
         nhs-funding: true
         wait-carried-over: "yes"
         publishes-wait-first-appointment: false
@@ -367,7 +375,9 @@ organisations:
         manualDescription: 'NHS adult gender services in Cheshire and Merseyside'
         image: cmagic
         age-range: 17+
+        pilot: true
         nhs-funding: true
+        wait-carried-over: "yes"
         publishes-wait-first-appointment: false
         updated: '2021-01-12'
         referral-criteria: "Transfers only"

@@ -14,6 +14,10 @@
     {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
     {%- if item.url -%}<a href="{{ item.url }}">{{ item.url }}</a>{%- endif -%}
     {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
+
+    {%- if item.pilot -%}
+    <p>This clinic accepts transfers from other clinics only. Wait times will vary.</p>
+    {%- else -%}
     <div class="wait-full-details-stats">
       <div>
           <h4 id="first-seen">First Seen</h4>
@@ -100,6 +104,7 @@
         {%- endunless -%}
       </div>
     </div>
+    {%- endif -%}
     {%- if item.extra-information -%}<p>{{item.extra-information | markdownify }}</p>{%- endif %}
     </div>
   {%- endfor -%}

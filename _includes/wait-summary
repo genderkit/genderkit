@@ -28,6 +28,12 @@
        <a class="detail-link" href="#{{ item.name | slugify }}-fulldetail">more info</a>
      {%- endif -%}
      </td>
+
+{%- if item.pilot -%}
+      <td colspan=3 class="centred">
+        Waits vary
+      </td>
+{%- else -%}
       <td class="centred">
           {%- if item.publishes-wait-first-appointment -%}
             {%- if item.custom-wait-first-appointment -%}
@@ -65,6 +71,9 @@
           {%- endif -%}
 <!-- -->
       </td>
+{%- endif -%}
+{%- endif -%}
+{%- if include.free -%} 
       <td class="centred">
         {%- if item.wait-carried-over -%}
           {%- if item.wait-carried-over == "yes" -%}
