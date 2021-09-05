@@ -19,6 +19,12 @@ You might prefer to go without a bra if:
 * It *causes dysphoria*
 * You *don’t see the point* of wearing one
 
+### I want to wear a bra, but it's uncomfortable...
+
+If you struggle with wearing a bra for sensory reasons, but still want to wear one, there may be ways to mitigate the discomfort:
+* If you find the material *itchy* or *chafing*, you might find that a *non-lacy* bra is better than a lacy one.
+* If you find the *straps uncomfortable*, you can get *comfort cushions* to go under the shoulder straps.
+
 ### What kinds are there?
 
 There are lots of different kinds of bra, and which kinds you want to wear will depend on your body, your relationship with it, your fashion sense, and the situation you’re dressing for. For this article, we’re focusing on the types of bra that can increase or decrease the prominence or apparent size of breasts.
@@ -40,7 +46,7 @@ To *de-emphasise* or *reduce* breasts:
 
 
 ### How do I work out my bra size?
-To measure yourself you’ll need a *fabric measuring tape*. These usually only cost a few pounds, and can be bought online or at sewing shops.
+To measure yourself you’ll need a *fabric measuring tape*. These usually only cost a few pounds, and can be bought in pound shops, supermarkets, online, or at sewing shops.
 
 Bra sizes consist of two components:
 
@@ -87,7 +93,7 @@ The Reddit community [r/abrathatfits](https://www.reddit.com/r/abrathatfits) has
 ### What if I don’t have breasts?
 
 * *Back size is still important:* measure this about halfway down your chest
-* You can *pick a cup size* that you think looks good, or that will fit [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}) you have. However, keep in mind that too large a cup size could look unnatural
+* You can *pick a cup size* that you think looks good, or that will fit [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}) you have. You may want to make sure the weight of whatever padding you're wearing hangs naturally, or it might be obvious that you're using padding.
 
 ### Where can I find a bra?
 
