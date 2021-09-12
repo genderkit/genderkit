@@ -8,9 +8,12 @@ attention-text: This is the most recent information provided by each organisatio
 
 ### Important notes
 
-Waiting time information shown on this page is taken from information given directly to us by the services or published on their website.
+<section class="info">
+<h3 id="caveat">Caveat</h3>
+<p>Waiting times indicate how long patients who have just been invited for an appointment have waited for. As demand is currently increasing over time, this means it is likely you will wait <em>longer</em> than the time shown on this page.</p>
+</section>
 
-Waiting times indicate how long patients who have just been invited for an appointment have waited for. As demand is currently increasing over time, this means it is likely you will wait *longer* than the time shown on this page.
+Waiting time information shown on this page is taken from information given directly to us by the services or published on their website.
 
 Many gender services currently have very lengthy wait lists, and it can be very difficult to be waiting for so long. You can find ways you can get help while you are waiting on [our Mental Health page]({% link _resources/mental-health.md %}).
 

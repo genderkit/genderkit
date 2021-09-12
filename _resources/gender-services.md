@@ -14,7 +14,7 @@ In the UK, people who are changing things linked to gender are supported by a se
 {% capture gic-description %}
 You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area.
 
-You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}#free-uk-based-services).
+You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}).
 {% endcapture %}
 {% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description=gic-description %}
 
