@@ -117,7 +117,7 @@ Some countries and cultures have their own ways of talking about gender that inc
 
   Unfortunately, the waiting times for [gender identity clinics](/resources/gender-services/) in this country are generally pretty long. If you think you might want any sort of medical treatments, it might be worth getting a referral in as soon as possible, even if you’re not completely sure you’ll need their help.
 
-  If you do want the help of a gender clinic and are finding the waiting time difficult, there may be a clinic out there with a shorter waiting list, or you may be able to get your doctor to [prescribe HRT before the clinic sees you]({% link _resources/hrt-without-diagnosis.md %}).
+  If you do want the help of a gender clinic and are finding the waiting time difficult, there may be a clinic out there with a shorter waiting list. There are [paid services](resources/gender-services/#paid-uk-based-services) that offer diagnosis and treatment, but they charge fees. You may also be able to get your doctor to [prescribe HRT before the clinic sees you]({% link _resources/hrt-without-diagnosis.md %}).
 
 * *Gender Recognition Certificate*
 
