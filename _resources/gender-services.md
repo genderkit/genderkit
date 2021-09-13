@@ -21,6 +21,13 @@ You can find more information about waiting times - and which services will see 
 All these services are now accepting referrals and able to offer both phone and video appointments.
 
 {% capture gic-description %}
+There are also a number of pilot schemes run by different organisations within NHS England. The purpose of these schemes is to explore a more holistic and comprehensive model of how gender clinics can function, with patient agency centred more in the process.
+
+These clinics generally have a much shorter wait, but are only open to people who've already been referred to another clinic, and usually only in a certain area. Waits vary, usually depending on how long you've been on the waiting list for the other clinic.
+{% endcapture %}
+{% include gender-clinics tag="Gender Clinics" icon="tick" title="NHS England pilot schemes" free=true pilot=true referrals=true description=gic-description %}
+
+{% capture gic-description %}
 There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service.
 
 You can find the waiting times for these services on our [ UK service wait times page]({% link _resources/wait-times.md %}#paid-uk-based-services).
