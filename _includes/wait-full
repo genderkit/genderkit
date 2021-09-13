@@ -1,0 +1,111 @@
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "item.referral-criteria != 'No referrals accepted'" |sort:"heading" -%}
+
+<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="Magnifying glass icon" src="/assets/images/detail.svg" class="inlineIcon" /><span>Detailed information</span></h3>
+
+<div class="details summarydetails" id="wait-full">
+  {%- for item in sortedOrganisations -%}
+    <div class="wait-full-details">
+    <h3 id="{{ item.name | slugify }}-fulldetail">
+      {%- if item.image -%}
+        <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+      {%- endif -%}
+      {%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a> 
+    </h3>
+    {%- if item.nickname -%}<p>{{item.nickname}}</p>{%- endif -%}
+    {%- if item.url -%}<a href="{{ item.url }}">{{ item.url }}</a>{%- endif -%}
+    {%- if item.catchment -%}<p>{{item.catchment | markdownify }}</p>{%- endif -%}
+
+    {%- if item.pilot -%}
+    <p>This clinic accepts transfers from other clinics only. Wait times will vary.</p>
+    {%- else -%}
+    <div class="wait-full-details-stats">
+      <div>
+          <h4 id="first-seen">First Seen</h4>
+          {%- if item.publishes-wait-first-appointment -%}
+            {%- if item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-first-appointment | markdownify }}</span>
+            {%- else -%}
+              <span class="waittime"><p>{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</p></span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+          {%- endif -%}
+          <p>months average wait for 1st assessment appt</p>
+          <p>
+          {%- if item.source-wait-first-appointment -%}
+            <a class="source" href="{{ item.source-wait-first-appointment }}">(source)</a>{%- if item.date-wait-first-appointment -%}&nbsp;- {{ item.date-wait-first-appointment }}{%- endif %}
+          {%- endif -%}
+          </p>
+          {%- if item.foi-wait-first-appointment -%}
+            <a class="source" href="{{ item.foi-wait-first-appointment }}">(requested)</a>
+          {%- endif -%}
+      </div>
+      <div>
+        {%- unless item.hide-wait-hormones -%}
+          <h4 id="hormones">Hormones</h4>
+          {%- if item.publishes-wait-hormones -%}
+ 	        {%- if item.custom-wait-hormones -%}
+              <span class="waittime">{{ item.custom-wait-hormones | prepend: "+" | markdownify }}</span>
+            {%- else -%}
+              <span class="waittime"><p>{{ item.wait-hormones | prepend: "+" }}</p></span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+          {%- endif -%}
+          <p>months additional minimum wait for HRT</p>
+          <p>
+          {%- if item.source-wait-hormones -%}
+            <a class="source" href="{{ item.source-wait-hormones }}">(source)</a>{%- if item.date-wait-hormones -%}&nbsp;- {{ item.date-wait-hormones }}{%- endif %}
+          {%- endif -%} 
+          {%- if item.foi-wait-hormones -%}
+            <a class="source" href="{{ item.foi-wait-hormones }}">(requested)</a>
+          {%- endif -%}
+          </p>
+          {%- endunless -%}
+      </div>
+      <div>
+        {%- unless item.hide-wait-hormones -%}
+          <h4 id="total">Total</h4>
+          {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
+ 	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
+              <span class="waittime">{{ item.custom-wait-total | prepend: "=" | markdownify }}</span>
+            {%- else -%}
+              <span class="waittime"><p>={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</p></span>
+            {%- endif -%}
+          {%- else -%}
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
+          {%- endif -%}
+          <p>average minimum total time to hormones</p>
+          {%- endunless -%}
+      </div>
+      <div>
+        {%- unless item.hide-wait-carried-over -%}
+        <h4 id="transfers">Transfers</h4>
+        <span class="waittime">
+        {%- if item.wait-carried-over -%}
+          {%- if item.wait-carried-over == "yes" -%}
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
+          {%- else -%}
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
+          {%- endif -%}
+        {%- else -%}
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+        {%- endif -%}
+        </span>
+        <p>are transfers from other NHS wait lists prioritised?</p>
+        <p>
+        {%- if item.source-wait-carried-over -%}
+          <a class="source" href="{{ item.source-wait-carried-over }}">(source)</a>{%- if item.date-wait-carried-over -%}&nbsp;- {{ item.date-wait-carried-over }}{%- endif %}
+        {%- endif -%}
+        {%- if item.foi-wait-carried-over -%}
+          <a class="source" href="{{ item.foi-wait-carried-over }}">(requested)</a>
+        {%- endif -%}
+        </p>
+        {%- endunless -%}
+      </div>
+    </div>
+    {%- endif -%}
+    {%- if item.extra-information -%}<p>{{item.extra-information | markdownify }}</p>{%- endif %}
+    </div>
+  {%- endfor -%}
+</div>

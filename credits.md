@@ -22,7 +22,7 @@ We would also like to thank a number of other contributors who have chosen to re
 
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and the underlying source code used to format and display that content is licensed under the MIT license.
 
-Gender Construction Kit is deliberately designed as a guide for people in the United Kingdom. If you'd like to create your own version of Gender Construction Kit for another country, please [let us know](http://www.twitter.com/genderkit) as we may be able to help you.
+Gender Construction Kit is deliberately designed as a guide for people in the United Kingdom. If you'd like to create your own version of Gender Construction Kit for another country, please [let us know](https://twitter.com/genderkit) as we may be able to help you.
 
 ### Open Source and Creative Commons
 
@@ -39,6 +39,8 @@ Gender Construction Kit uses the following open source projects:
 Some articles are illustrated using a cropped version of a [photo of surgeons taken by Phalinn Ooi](https://www.flickr.com/photos/phalinn/8116089574/) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by/2.0/).
 
 The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated using a [photograph by freestocks.org on Unsplash](https://unsplash.com/photos/nss2eRzQwgw).
+
+The Bras article is illustrated using a [photograph by Tommas Gunnarsson on Wikimedia](https://commons.wikimedia.org/wiki/File:Greenand_black_sports_bra.jpg) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The Buying Clothes article is illustrated using a [photograph by Sara Kurfeß on Unsplash](https://unsplash.com/photos/5epnzwsphl0).
 

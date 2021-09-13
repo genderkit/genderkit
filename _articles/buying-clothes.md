@@ -52,6 +52,30 @@ If you are having difficulty in finding the style of clothing you want in a size
 
 You may find you are more comfortable in clothing that [disguises your body shape]({% link _articles/disguising-body-shape.md %}). Some retailers specialise in clothes designed to fit people well and make them comfortable in their bodies regardless of their gender, such as [Bull and Dagger](https://www.bullanddagger.com), [GFW](https://www.genderfreeworld.com/), and [King and Allen](https://kingandallen.co.uk/suits/lgbtq-tailoring/).
 
+### Finding clothes that meet your needs
+
+Some types of clothing come with specific features that you might find useful:
+
+- *Boxers with a pouch for [packers]({% link _articles/packing.md %})*
+
+  [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxers with a pouch for packers.
+
+- *Boxers designed for sanitary towels*
+
+  [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxers with an inner lining for sanitary towels.
+
+- *Absorbent underwear designed for menstruation*
+
+  Some underwear is designed to be absorbent enough that you don't need to use tampons or sanitary towels. [Modibodi](https://www.modibodi.co.uk/) offer this, as well as some other companies.
+
+- *Gaffes*
+
+  Gaffes are a type of underwear designed to help with [tucking]({% link _articles/tucking.md %}).
+
+- *Bras with pockets for padding*
+
+  These are sometimes known as "mastectomy bras", and can be found in some high-street shops.
+
 ### Altering clothes
 
 Alterations can change the fit of clothes, which can be particularly useful for shortening leg and sleeve length.
@@ -84,7 +108,7 @@ Some options available to you are:
 
 ### How much will it cost?
 
-If you're looking to reduce costs, you can find bargains in charity shops, some of which now even offer online shopping, such as [Oxfam](https://onlineshop.oxfam.org.uk/shop/second-hand-clothes). Other options include vintage and second-hand stores. 
+If you're looking to reduce costs, you can find bargains in charity shops, some of which now even offer online shopping, such as [Oxfam](https://onlineshop.oxfam.org.uk/). Other options include vintage and second-hand stores. 
 
 If you have clothes you no longer need that are in good condition, you may be able to make money to buy new clothes by selling your existing ones online using sites like [Vinted](https://www.vinted.co.uk/), [Depop](https://www.depop.com/), or [Rebelle](https://www.rebelle.com).
 

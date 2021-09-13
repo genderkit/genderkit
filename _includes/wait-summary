@@ -1,4 +1,4 @@
-{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "include.referrals == item.referrals" |sort:"heading" -%}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "item.referral-criteria != 'No referrals accepted'" |sort:"heading" -%}
 
 <h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 {%- if include.description -%}
@@ -11,29 +11,38 @@
 {%- if include.free -%}
     <th><div class="rotate"><div class="smaller">To get</div><div>hormones</div><div class="smaller">(in months)</div></div></th>
     <th><div class="rotate"><div>Total</div><div class="smaller">(in months)</div></div></th>
-    <th><div class="rotate"><div>Transfers</div></div></th>
+    <th><div class="rotate"><div class="smaller">Transfers</div><div>prioritised?</div></div></th>
 {%- endif -%}
   </tr>
   {%- for item in sortedOrganisations -%}
     <tr>
       {%- assign url = item.url -%}
-      <td>
+      <td class="service-name">
       {%- if item.image -%}
         <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
       {%- endif -%}
           <span class="clinicheading">
-            <a href="{{ url }}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</a>
+            <h4 id="{%- if item.heading -%}{{ item.heading | slugify }}{%- else -%}{{ item.name | slugify }}{%- endif -%}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</h4>
           </span>
+     {%- if include.free -%}
+       <a class="detail-link" href="#{{ item.name | slugify }}-fulldetail">more info</a>
+     {%- endif -%}
      </td>
+
+{%- if item.pilot -%}
+      <td colspan=3 class="centred">
+        Waits vary
+      </td>
+{%- else -%}
       <td class="centred">
           {%- if item.publishes-wait-first-appointment -%}
             {%- if item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-first-appointment }}</span>
+              <span class="waittime">{{ item.custom-wait-first-appointment | markdownify}}</span>
             {%- else -%}
               <span class="waittime">{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
@@ -41,36 +50,39 @@
       <td class="centred">
           {%- if item.publishes-wait-hormones -%}
  	    {%- if item.custom-wait-hormones -%}
-              <span class="waittime">{{ item.custom-wait-hormones }}</span>
+              <span class="waittime">{{ item.custom-wait-hormones | markdownify }}</span>
             {%- else -%}
               <span class="waittime">{{ item.wait-hormones }}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
       <td class="centred">
           {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
  	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-total }}</span>
+              <span class="waittime">{{ item.custom-wait-total | markdownify }}</span>
             {%- else -%}
               <span class="waittime">{%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</span>
             {%- endif -%}
           {%- else -%}
-              <span class="unknowninfo">?</span>
+              <span class="unknowninfo"><img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img></span>
           {%- endif -%}
 <!-- -->
       </td>
+{%- endif -%}
+{%- endif -%}
+{%- if include.free -%} 
       <td class="centred">
         {%- if item.wait-carried-over -%}
           {%- if item.wait-carried-over == "yes" -%}
-            <img class="tableicon" src="/assets/images/tick.svg"></img>
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
           {%- else -%}
-            <img class="tableicon" src="/assets/images/cross.svg"></img>
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
           {%- endif -%}
         {%- else -%}
-          <img class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
         {%- endif -%}
       </td>
 {%- endif -%}

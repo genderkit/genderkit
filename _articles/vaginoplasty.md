@@ -77,9 +77,19 @@ Types of vaginoplasty that surgeons carry out include:
 
   Also known as peritoneal pull-through vaginoplasty, this is a newer technique that is not commonly available in the UK. While the technique has been used for decades for medical conditions that cause underdevelopment of the vagina, and appears to have advantages over sigmoid vaginoplasty, the use of this technique in trans and nonbinary patients is relatively new and untested compared to other techniques {% cite slater2018neovaginal %}.
 
+### Where can I learn more?
+
+You can also read more about vaginoplasty in these booklets from Parkside Hospital who are a UK provider of vaginoplasty surgeries:
+
+- [vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/vaginoplasty-2021-pdf/)
+- [cosmetic vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/labioplasty-2021-pdf/)
+- [sigmoid vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/intestinal-vaginoplasty-pdf/)
+
 ### How do I get ready for surgery?
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+{% include gdnrss %}
 
 ### How much will it cost?
 

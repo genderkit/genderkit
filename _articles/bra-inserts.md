@@ -15,3 +15,5 @@ Some retailers also sell "pocketed bras": these are bras specifically designed f
 ### Are there other options?
 
 An alternative to bra inserts is [prosthetic breasts]({% link _articles/prosthetic-breasts.md %}), which are similar but are stuck to the skin using an adhesive.
+
+You may be able to get a similar effect without inserts by selecting the right type of bra. For example, if you don't need much padding, you could get a padded bra. If you only want to increase the amount of cleavage, you could use a push-up bra.

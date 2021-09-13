@@ -1,0 +1,58 @@
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"heading" -%}
+
+|\**Clinic\**|\**First appointment\**|\**Second appointment\**|
+<br />
+|:-|:-|:-|
+<br />
+{%- for item in sortedOrganisations -%}{%- assign url = item.url -%}
+
+
+
+\|\*\*[{%- if item.heading -%}{{- item.heading | xml_escape -}}{%- else -%}{{- item.name | xml_escape -}}{%- endif -%}\]\({{- item.url -}}\)\*\*
+{%- if item.nickname -%}&nbsp;({{-item.nickname-}}){%- endif -%}
+{%- unless item.nhs-funding -%}&nbsp;(private){%- endunless -%}\|
+
+{%- if item.pilot -%}Transfers only - wait varies\|{%- else -%}
+
+{%- if item.publishes-wait-first-appointment -%}{%- if item.custom-wait-first-appointment -%}{{- item.custom-wait-first-appointment }} months{%- else -%}{%- if item.wait-first-appointment == 0 -%}<1 months{%- else -%}{{ item.wait-first-appointment }}
+ months {%- endif -%} {%- if item.date-wait-first-appointment -%}&nbsp;(as of {{ item.date-wait-first-appointment -}}){%- endif %}{%- endif -%}{%- else -%}?{%- endif -%}
+
+
+{%- if item.source-wait-first-appointment -%}
+&nbsp;\[source\]\({{- item.source-wait-first-appointment -}}\)
+{%- endif -%}
+{%- if item.foi-wait-first-appointment -%}
+&nbsp;\[FOI request\]\({{- item.foi-wait-first-appointment -}}\)
+{%- endif -%}
+ 
+ \|
+
+{%- unless item.hide-wait-hormones -%}
+{%- if item.nhs-funding -%}
+{%- if item.publishes-wait-hormones -%}
+{%- if item.custom-wait-hormones -%}
+{{- item.custom-wait-hormones | prepend: "+ " -}}
+{%- else -%}
+{{- item.wait-hormones | prepend: "+ " -}}
+{%- endif -%}
+{%- else -%}
++ ?
+{%- endif -%}
+&nbsp;months
+{%- if item.date-wait-hormones -%}&nbsp;(as of {{ item.date-wait-hormones -}}){%- endif %}
+{%- endif -%}
+{%- endunless -%} 
+
+{%- if item.source-wait-hormones -%}
+&nbsp;\[source\]\({{- item.source-wait-hormones -}}\)
+{%- endif -%}
+{%- if item.foi-wait-hormones -%}
+&nbsp;\[FOI request\]\({{- item.foi-wait-hormones -}}\)
+{%- endif -%}
+
+{%- endif -%}
+
+\|
+<br />
+{%- endfor -%}
+

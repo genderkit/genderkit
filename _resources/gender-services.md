@@ -11,11 +11,21 @@ We cannot check the quality or safety of services on this page.
 
 In the UK, people who are changing things linked to gender are supported by a set of specialist centres, often known as "gender identity clinics" (GICs), which offer [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and access to other services like hormone medications and surgeries. 
 
-{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description="You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area." %}
+{% capture gic-description %}
+You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area.
+
+You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}).
+{% endcapture %}
+{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description=gic-description %}
 
 All these services are now accepting referrals and able to offer both phone and video appointments.
 
-{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description="There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service." %}
+{% capture gic-description %}
+There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service.
+
+You can find the waiting times for these services on our [ UK service wait times page]({% link _resources/wait-times.md %}#paid-uk-based-services).
+{% endcapture %}
+{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description=gic-description %}
 
 ### Other services
 
@@ -24,6 +34,8 @@ Other services that may be of interest to people in the UK include:
 - [Christian Seipp](https://www.christianseipp-urology.net/transgender-health.html) offers private endocrinology services to people 18 years or older who have been previously assessed for gender dysphoria
 - [GenderHealthCare](https://genderhealthcare.co.uk/) offers private nursing services to gender-diverse youth and trans people of all ages, including offering specialist advice, administering injections, and taking blood samples 
 - [GenderGP](https://gendergp.com/) are an international organisation providing services for trans patients of all ages, including hormones and counselling
+- [56 Dean Street](https://dean.st/trans-non-binary/) provide gender-based counselling and perform injections for hormones prescribed elsewhere
+- [Brighton and Hove Sexual Health](https://brightonsexualhealth.com/service/clinic-t/) provide hormone levels testing and perform injections for hormones prescribed elsewhere
 
 ### Choosing a service
 
@@ -33,9 +45,6 @@ To ensure that you choose an appropriate service, it is important to investigate
 
 A well-run service will be happy to help you with questions on these subjects. You may also find useful information on these subjects, and other people's thoughts and experiences of services, by searching [/r/transgenderuk](https://www.reddit.com/r/transgenderuk) for information.
 
-### Waiting times
-
-See the other page for this info.
 
 ### Getting a referral to an NHS clinic
 
@@ -62,7 +71,7 @@ You may be able to get help with the cost of travelling to attending appointment
 
 More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/) and [the London GIDS website](https://gids.nhs.uk/how-claim-travel-expenses).
 
-Costs for private services vary significantly. You can find price details on their websites, plus a comparison of estimated costs on the [Trans Health UK website](https://transhealthuk.noblogs.org/private-gender-clinics-services-prices/). If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
+Costs for private services vary significantly. You can find price details on their websites, plus a comparison of estimated costs on the [Trans Health UK website](https://transhealthuk.noblogs.org/covid-19-private-clinics/). If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
 
 ### Where can I learn more?
 

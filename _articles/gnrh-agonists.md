@@ -23,7 +23,7 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 {% include needles %}
 
 ### Who might want GnRH agonists?
-<section class="agerestrictions">
+<section class="info">
 <h3 id="note">Note</h3>
 <p>NHS policy on treatment of under-16s has been affected by recent High Court rulings, and is subject to change. This page will be updated regularly.</p>
 </section>

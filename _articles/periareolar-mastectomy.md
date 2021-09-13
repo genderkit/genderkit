@@ -38,11 +38,13 @@ Unlike double incision mastectomy, periareolar mastectomy results in significant
 
 You can read more about mastectomy on the [NHS website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 
-You can also read more about chest surgeries on the [Manchester Chest Wall Contouring Clinic website](http://www.pat.nhs.uk/our-services/general-surgery-gender.htm).
+You can also read more about chest surgeries in [this booklet from the NHS Gender Dysphoria National Referral Support Service](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v6-top-surgery-leaflet-002-pdf/) and on [the Manchester Chest Wall Contouring Clinic website](http://www.pat.nhs.uk/our-services/general-surgery-gender.htm).
 
 ### How do I get ready for surgery?
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+{% include gdnrss %}
 
 ### How much will it cost?
 

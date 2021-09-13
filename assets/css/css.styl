@@ -349,7 +349,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     font-size 120%
 
 // Visual styling
-nav, aside, .warning, .agerestrictions, .regional, .articlescope, .attention, .search
+nav, aside, .warning, .info, .regional, .articlescope, .attention, .search
   h3, p
     margin 0
 nav, aside, footer, .greybox, .search, .requirementsbox
@@ -381,7 +381,7 @@ nav, aside, .articlescope, .attention
   text-align center
 .grouping 
   padding 0 0 1rem 0
-.agerestrictions
+.info
   border-left 4px royalblue solid
   padding 0 0 0 1rem
   margin 0 0 1rem 0 
@@ -675,6 +675,7 @@ div.rotate
   white-space nowrap
   transform translate(0,-10px) rotate(315deg)
   width fit-content
+  width -moz-fit-content
   
 div.rotate > div
   line-height 1
@@ -690,10 +691,56 @@ div.rotate > div > span
 td.centred
   text-align center
 
+.centred .tableicon
+  margin-left auto
+  margin-right auto
+
+.size-table
+  margin-left auto
+  margin-right auto
+  td
+    font-size smaller
+
 #wait-summary tr
-  height 2em
+  height 2.4em
 #wait-summary th
   max-width 50px
 #wait-summary tbody
   margin-left auto
   margin-right auto
+
+#wait-full .wait-full-details-stats
+  display grid
+  grid-template-columns repeat(auto-fit,10rem)
+  justify-content center
+  margin-bottom 1.5ex
+
+#wait-full .wait-full-details
+  margin-bottom 2em
+
+#wait-full .waittime, #wait-full .unknowninfo
+    font-size 2em
+    font-weight bold
+
+#wait-full .tableicon
+  width 1em
+  height 1.5em
+
+#wait-full p
+  font-size 85%
+  color #666
+
+.detail-link
+  display block
+  margin 0
+  font-size 80%
+
+.service-name
+  line-height 1.2
+
+#wait-full .source
+  font-size inherit
+
+#wait-full .waittime p
+  font-size inherit 
+  color inherit

@@ -35,9 +35,15 @@ You will normally need to meet the following conditions:
 
 {% include list-of-surgeons %}
 
+### Where can I learn more?
+
+You can also read more about orchidectomy in [this booklet from Parkside Hospital](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/orchidectomy-2021-pdf/) who are a UK provider of orchidectomy surgery.
+
 ### How do I get ready for surgery?
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+
+{% include gdnrss %}
 
 ### How much will it cost?
 

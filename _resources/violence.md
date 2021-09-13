@@ -6,8 +6,6 @@ description: Information about domestic and sexual violence and abuse for trans,
 
 ### Advice and guidance
 
-Advice for trans survivors of domestic and sexual violence can be found on [the Scottish Trans website](https://www.scottishtrans.org/trans-rights/practice/sexual-violence-abuse/).
-
 There is a very useful guide for trans people who have been affected by sexual violence on [the LGBT Foundation website](https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/14134885-0494-4588-9a36-0de65a71e099/Trans%2520Guide%2520Sexual%2520Violence.pdf).
 
 More general advice for survivors is available on the NHS website:

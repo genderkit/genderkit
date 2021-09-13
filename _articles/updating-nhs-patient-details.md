@@ -12,7 +12,7 @@ You can change your name, title, or gender with the NHS at any time you like by 
 
 Most GP surgeries will be able to update your details if you ask at reception. However, some GP surgeries may be unsure of the procedure for how to do it. You may find it helpful to give them these links which explain how they can update your details:
 
-- in *England*, on the [PCSE website](https://pcse.england.nhs.uk/services/registrations) (search for "How should I advise PCSE of a patient gender re-assignment?" and "A transgender patient registered at our practice would like to change their registered name")
+- in *England*, on the [PCSE website](https://pcse.england.nhs.uk/help/registrations/adoption-and-gender-re-assignment-processes/) (search for "How should I advise PCSE of a patient gender re-assignment?" and "A transgender patient registered at our practice would like to change their registered name")
 - in *Wales*, on the [GPOne website](http://www.gpone.wales.nhs.uk/medical-records)
 - in *Scotland*, on the [NHS National Services Scotland website](https://nhsnss.org/foi-disclosure/requirements-for-processing-a-change-of-gender-and-title/)
 
