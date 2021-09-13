@@ -7,6 +7,8 @@ feature:
 ---
 
 ### How do I stay safe?
+{% include get-tested %}
+
 {% include needles optional=true %}
 
 ### What should I be aware of?

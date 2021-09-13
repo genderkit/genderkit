@@ -7,6 +7,8 @@ feature:
 ---
 
 ### How do I stay safe?
+{% include get-tested %}
+
 {% capture warn %}
 Taking GnRH agonists without also taking a sex hormone (e.g.
 [oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) or inadequate levels of sex hormones can cause osteoporosis or early heart disease {% cite seal2017 %}. 
