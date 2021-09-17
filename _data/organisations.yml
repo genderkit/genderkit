@@ -141,14 +141,14 @@ organisations:
         age-range: 17+
         publishes-wait-first-appointment: true
         date-wait-first-appointment: "Jul '21"
-        wait-first-appointment: 32
-        source-wait-first-appointment: "https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/"
-        foi-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time"
+        wait-first-appointment: 33
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time"
+        source-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time"
         wait-carried-over: "yes"
         source-wait-carried-over: "https://www.lothiansexualhealth.scot/gender-identity-clinic/accessing-gic/"
         nhs-funding: true
         referral-criteria: "GP referral only"
-        updated: '2021-05-23'
+        updated: '2021-09-11'
         catchment: 'Borders, Fife, or Lothian GP only'
     -
         heading: Glasgow
@@ -159,12 +159,14 @@ organisations:
         manualDescription: 'NHS gender service for adults across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 36
-        source-wait-first-appointment: "https://www.sandyford.scot/sexual-health-services/gender-identity-service/"
-        foi-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
-        foi-wait-carried-over: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
+        wait-first-appointment: 32
+        date-wait-first-appointment: "Jul '21"
+        source-wait-first-appointment: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
+        source-wait-hormones: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
+        wait-carried-over: "yes"
+        source-wait-carried-over: "https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2"
         nhs-funding: true
-        updated: '2021-05-23'
+        updated: '2021-09-11'
         catchment: 'Scotland GP only'
         referral-criteria: "Allows self-referral"
     -
