@@ -8,6 +8,8 @@ feature:
 
 ### How do I stay safe?
 
+{% include get-tested %}
+
 {% capture warn %}
 Taking oestrogen causes development of breast tissue. If you have taken oestrogen, you are at risk of breast cancer.
 {% endcapture %}

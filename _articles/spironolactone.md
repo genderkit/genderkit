@@ -8,6 +8,8 @@ feature:
 
 ### What should I be aware of?
 
+{% include get-tested %}
+
 {% capture warn %}
 Spironolactone can cause renal failure (kidney damage), permanent liver damage, and hyperkalemia {% cite seal2017 -l 236 %}. It should be taken under medical supervision with regular blood testing.
 {% endcapture %}

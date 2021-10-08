@@ -8,6 +8,8 @@ feature:
 
 ### What should I be aware of?
 
+{% include get-tested %}
+
 {% capture warn %}
 The safety of bicalutamide is unstudied and unknown outside of cancer treatment {% cite iwamoto2019health %}.
 {% endcapture %}

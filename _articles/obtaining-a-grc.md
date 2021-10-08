@@ -25,7 +25,9 @@ This has three main effects:
 
 ### Why might I not want a Gender Recognition Certificate?
 
-Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
+Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. In particular, you *do not need a GRC* to change the name or gender on your [passport]({% link _articles/getting-a-new-passport.md %}), driving license, or any other identification other than your birth certificate.
+
+You cannot currently use a GRC to change the gender on your birth certificate to anything other than "male" or "female", which limits who it is useful for.
 
 Obtaining a GRC can also have very important consequences for your legal status if you are currently married. In the event you are currently married, there are a complex set of rules around how you and your marriage are effected. UK Trans Info produced [a useful guide](http://web.archive.org/web/20180424042324/http://uktrans.info/graguide.pdf) that provides lots of information about this.
 

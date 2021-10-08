@@ -1,0 +1,4 @@
+{% capture warn %}
+There are a number of health risks associated with hormone therapies. It's important to get [regular blood tests]({% link _resources/blood-testing.md %}), both to spot problems before they arise and to make sure your dosage is correct.
+{% endcapture %}
+{% include warning warning=warn %}

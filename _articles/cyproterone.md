@@ -8,6 +8,8 @@ feature:
 
 ### How do I stay safe?
 
+{% include get-tested %}
+
 {% capture warn %}
 Taking cyproterone without also taking another sex hormone (e.g. [oestrogen]({% link _articles/oestrogen.md %}) and/or [testosterone]({% link _articles/testosterone.md %})) can cause osteoporosis.
 {% endcapture %}
