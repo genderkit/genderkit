@@ -3134,3 +3134,9 @@ organisations:
         facebook: newroadparents
         manualDescription: 'We are a support group for Parents/Carers of LGBTQI+children (including grown up children). We meet monthly in Worcestershire.'
         tags: ['West Midlands', 'Local groups', Families]
+    -
+        name: 'London Transgender Meetup Group'
+        url: 'https://www.meetup.com/London-Transgender-Meetup-Group/'
+        tags: [London, 'Local groups']
+        manualDescription: 'This is a fun, friendly and inclusive Meetup for ALL trans people in London. We have regular meetups in London and will organise other events if the interest is there.'
+    -
