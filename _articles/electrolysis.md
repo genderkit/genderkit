@@ -36,6 +36,10 @@ If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and h
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 
+### Where can I learn more?
+
+There is a helpful page that answers common questions about electrolysis on [the British Institute and Association of Electrolysis website](https://www.electrolysis.co.uk/faq).
+
 ### References
 
 {% bibliography --cited %}
