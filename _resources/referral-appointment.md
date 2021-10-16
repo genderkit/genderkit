@@ -8,6 +8,8 @@ description: Information about what to expect when asking for a referral to a ge
 
 The person referring you should ask you a few questions. This is so they can provide the information that the service they are referring you to has asked for. There is a list of common questions you might be asked further down the page.
 
+If you are in England, you may be asked which gender service you wish to be referred to.
+
 The person referring you may take your height, weight, blood pressure, and waist size, and may ask you to have some blood drawn for testing.
 
 The person referring you might also ask you if you want to update your name or gender on their records.
