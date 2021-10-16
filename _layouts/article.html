@@ -50,6 +50,9 @@ layout: page
       {% else %}
       <h3 id="what-does-{{ in-headings | slugify }}-do">What does {{ in-headings }} do?</h3>
       {% endif %}
+      {% if site.data.articles[slug].effects-vary %}
+      <p>The extent of the effects vary between people. Most people experience these effects:</p>
+      {% endif %}
       <ul class="effects">
       {% for item in info.effects %}
         {% assign slug = item.category | slugify %}

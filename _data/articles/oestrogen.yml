@@ -11,10 +11,11 @@ effects:
   - category: "Upper body"
     detail: "Makes breasts grow"
   - category: "Lower body"
-    detail: "Enlarges hips and buttocks, reduces erections"
+    detail: "More hips and buttock fat, reduces erections"
   - category: "Mood"
     detail: "Often calms or improves mood"
   - category: "Fragrance"
     detail: "Changes body odour"
+effects-vary: true
 requirements:
   - multi: standard-hrt-reqs

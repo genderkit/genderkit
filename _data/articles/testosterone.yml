@@ -9,7 +9,7 @@ effects:
   - category: "Body hair"
     detail: "Grows and thickens"
   - category: "Lower body"
-    detail: "Grows clitoris, reduces hips and buttocks"
+    detail: "Grows clitoris, reduces hip and buttock fat"
   - category: "Muscles"
     detail: "Makes bigger, stronger and more defined"
   - category: "Head hair"
@@ -24,6 +24,7 @@ effects:
     detail: "Increases energy"
   - category: "Fragrance"
     detail: "Changes body odour"
+effects-vary: true
 requirements:
   - multi: standard-hrt-reqs
   - type: not-pregnant
