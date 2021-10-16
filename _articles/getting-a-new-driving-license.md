@@ -1,9 +1,6 @@
 ---
 title: getting a new driving license
-weighting: 3
-feature:
-  image: getting-a-new-license.jpg
-  caption: "Placeholder caption for an image - maybe a D1 form?"
+weighting: 2
 ---
 
 ### How do I get a new driving license?
@@ -14,7 +11,10 @@ To update your name on your license you will need to send your [deed poll]({% li
 
 You do not need a doctor's letter to change the gender of your driving license. UK driving licenses do not have a gender marker but gender is encoded in your driver number {%cite dvla2009drivernumbers %}. You may want to write a covering letter stating your transition and asking for the gender to be changed. 
 
-
 ### Where can I learn more?
 
 You can learn more about applying for and updating driving licenses on [the DVLA website](https://www.gov.uk/change-name-driving-licence).
+
+### References
+
+{% bibliography --cited %}  
