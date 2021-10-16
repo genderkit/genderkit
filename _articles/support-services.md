@@ -21,9 +21,13 @@ In the UK, there are several specialist services available to provide you with i
 If you are on a gender service waiting list or are a current gender service user, you can also get support from:
 
 - *Leeds Gender Identity Service*: [Leeds Gender Outreach Workers](https://www.mesmac.co.uk/our-services/leeds/trans-non-binary-gender-outreach-workers)
+- *Northern Region Gender Dysphoria Service*: [NRGDS Peer Supporter Service](https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/peer-supporter-service/)
 - *Nottingham Centre for Transgender Health*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
+- *NCTH East Of England*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Sheffield Porterbrook Clinic*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Welsh Gender Service*: [XIST at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
+
+If you are in the London area, you can access the [Spectra London Trnas Peer Mentoring Programme](https://spectra-london.org.uk/trans-gender-services/trans-peer-mentoring/).
 
 ### Are there other options?
 
