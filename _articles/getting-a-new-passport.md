@@ -30,6 +30,8 @@ If you have any other passports:
 
 ### How do I get a new passport?
 
+It may take some time to receive your new passport. You can find out the current wait time for a new passport on [the GOV.UK website](https://www.gov.uk/government/organisations/hm-passport-office/about-our-services).
+
 To apply for your own adult passport you must be either:
 - 16 or over
 - turning 16 within the next three weeks.
