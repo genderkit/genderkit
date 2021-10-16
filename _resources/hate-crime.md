@@ -33,7 +33,7 @@ If you want to make a complaint about transphobia from a professional, there is 
 
 - a *doctor* or *surgeon* on [the GMC website](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services)
 - a *nurse* on [the NMC website](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/who-to-contact/)
-- a *police officer* on [the Galop website](http://www.galop.org.uk/wp-content/uploads/Police-Complaints.pdf)
+- a *police officer* on [the Galop website](https://galop.org.uk/wp-content/uploads/2021/06/Police-Complaints.pdf)
 - a *teacher* on [the GOV.UK website](https://www.gov.uk/report-teacher-misconduct)
 
 You may also be able to get advice on making complaints about medical professionals from [PALS](https://www.nhs.uk/common-health-questions/nhs-services-and-treatments/what-is-pals-patient-advice-and-liaison-service/).

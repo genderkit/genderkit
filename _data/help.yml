@@ -37,7 +37,7 @@ help:
     tags: [England, Wales, Mental Health]
   -
     name: 'Shelter England'
-    url: 'http://england.shelter.org.uk/get_advice'
+    url: 'https://england.shelter.org.uk/housing_advice/homelessness'
     category: 'Homelessness and housing'
     manualDescription: 'Shelter are the UK housing and homelessness charity and can provide online, in person, and telephone helpline advice.'
     tags: [England, Homelessness and housing]
@@ -61,7 +61,7 @@ help:
     tags: [Northern Ireland, Homelessness and housing]
   -
     name: 'National LGBT Domestic Abuse Helpline'
-    url: 'http://www.galop.org.uk/domesticabuse/'
+    url: 'https://galop.org.uk/get-help/helplines/'
     category: 'Domestic abuse'
     manualDescription: 'Galop run a helpline supporting LGBT people, their friends & families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.' 
     tags: [Nationwide, Domestic abuse]

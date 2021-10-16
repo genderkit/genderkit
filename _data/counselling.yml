@@ -41,7 +41,7 @@
 - name: Wales
   colour: "#ffe9e5"
   items:
-    - "[LGBT Cymru](https://www.lgbtcymru.org.uk/counselling.html) (sliding scale to free)"
+    - "[LGBT Cymru](https://www.lgbtcymru.org.uk/counselling/) (sliding scale to free)"
 - name: Northern Ireland
   colour: "#fff8e5"
   items:

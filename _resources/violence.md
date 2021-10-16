@@ -23,7 +23,7 @@ If you're under 19 and facing any sort of violence or abuse, [Childline](https:/
 
 The [Rape Crisis Scotland helpline](https://www.rapecrisisscotland.org.uk/help-helpline/) is for anyone, whatever their gender, who has been affected by sexual violence, no matter when or how it happened. They offer both phone and email support.
 
-The Galop [National LGBT Domestic Abuse Helpline](http://www.galop.org.uk/domesticabuse/) supports LGBT people, their friends and families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.
+The Galop [National LGBT Domestic Abuse Helpline](https://galop.org.uk/get-help/helplines/) supports LGBT people, their friends and families across the UK. They operate a freephone telephone helpline service as well as online chat and email support.
 
 There is a 1-to-1 [LGBT* domestic violence support service](https://lgbt.foundation/domesticabuse) run by LGBT Foundation based in Manchester.
 

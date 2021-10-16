@@ -28,7 +28,7 @@ In some parts of the UK, it is also possible to access therapy without having be
 
 Speech therapy may be one-on-one, or in a group therapy setting.
 
-You can find a list of speech therapists from across the UK who have a speciality in helping transgender people on the [Association of Speech and Language Therapists in Independent Practice website](https://www.helpwithtalking.com/Member-Directory-specialty-23).
+You can search for speech therapists from across the UK who have a speciality in helping transgender people on the [Association of Speech and Language Therapists in Independent Practice website](https://asltip.com/find-a-speech-therapist/member-directory/).
 
 Private speech and language therapists in the UK who advertise specific experience around gender on their websites include:
 
@@ -38,7 +38,7 @@ Private speech and language therapists in the UK who advertise specific experien
 - [Heidi de Quincey](http://www.heididequincey.co.uk/) (Hampshire)
 - [Celia Bacon](http://vox-humana.net/) (Hampshire and via Skype)
 - [Sue Addlestone](http://www.sueaddlestone.co.uk) (North West)
-- [Susannah Thomson](http://southbristolvoicetherapy.co.uk) (Bristol)
+- [Susannah Thomson](https://speech-freedom.co.uk/) (Bristol)
 - [Barbara Molteno](http://www.vocalisptp.co.uk) (Derbyshire)
 - [Kathryn Head](http://www.speech.org.uk/Speech_Therapy_Voice_Feminisation.html) (Wales)
 - [Nazlin Kurji-Smith](https://www.northerngendernetwork.co.uk/) (Newcastle)

@@ -449,7 +449,7 @@ organisations:
         extra-information: 'Wait time information is an estimated wait, not the time waited by patients currently being seen'
     -
         name: 'Liverpool Community Health Trans Support Service'
-        url: 'https://www.merseycare.nhs.uk/our-services/physical-health-services/trans-support-service-tss/'
+        url: 'https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss'
         tags: [NHS, National]
         manualDescription: 'A service which has been set up to support local transsexual, transgender, and gender non-conforming people by listening to them, informing them of available options to relieve their gender distress and empowering them to move forward with their lives.'
         image: nhs
@@ -1045,7 +1045,6 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c40.24.297.297/s50x50/396126_10150928010591943_1561092079_n.jpg?oh=bbfc33e25c536d552773dbbfb81f4801&oe=5ACB82CC'
     -
         name: 'Liverpool Trans'
-        url: 'http://www.liverpooltrans.co.uk'
         tags: ['North West', Liverpool, 'Local groups']
         twitter: LiverpoolTrans
         facebook: LivTrans
@@ -1701,8 +1700,7 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/459286410554404864/WkinERFV_normal.jpeg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/14729100_1161501803928603_7698082787394447674_n.png?oh=0ad8d8d3a582e7667754be2e7b1c650e&oe=5AC4AC90'
     -
-        name: 'Trans Youth Hull'
-        url: 'https://www.theproudtrust.org/youth-groups/trans-youth-hull/'
+        name: 'TPSG Dragons'
         facebook: tpsghulldragons
         tags: [Yorkshire, 'Local groups']
         lastFacebookPost: '2017-12-02T21:47:31+0000'
@@ -1722,6 +1720,7 @@ organisations:
         facebookDescription: 'We are a Yorkshire wide support group for anyone assigned female at birth who considers themselves to be on the trans spectrum or is questioning their gender.'
         twitterIcon: 'https://pbs.twimg.com/profile_images/2164807723/logo_green_normal.jpg'
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13659039_1027675343936608_3996004309210497679_n.jpg?oh=12ea3fbb7f5127926ee4b6e5390a55bf&oe=5A8978AA'
+        archived: true
     -
         name: 'TPSG Hull'
         facebook: TPSGhull
@@ -2460,7 +2459,7 @@ organisations:
         lastFacebookPost: '2017-11-02T14:39:15+0000'
     -
         name: 'Imperial College Healthcare NHS Trust Gender Surgery Service'
-        url: 'https://www.imperial.nhs.uk/our-services/surgery/genital-reconstructive-surgery'
+        url: 'https://www.imperial.nhs.uk/our-services/surgery/gender-affirmation-surgery'
         tags: [NHS, Surgery, National]
         manualDescription: 'NHS surgical clinic specialising in vaginoplasty and labiaplasty'
         image: nhs
@@ -2470,6 +2469,7 @@ organisations:
         tags: [NHS, Surgery, Manchester]
         manualDescription: 'NHS surgical clinic specialising in chest surgery'
         image: nhs
+        archived: true
     -
         name: 'St Peters Andrology Centre London (Mr Christopher, Mr Ralph)'
         url: 'https://www.andrology.co.uk/'
@@ -2991,7 +2991,6 @@ organisations:
     -
         name: 'Gender Recognition & Reform Project'
         tags: [Research]
-        url: 'https://www.recogandreform.com/'
         twitter: recogandreform
         twitterID: '1135624615324205059'
         twitterDescription: 'Based @ExeterLawSchool | Investigating legal gender recognition & non-binary experiences | @ESRC funded | Researcher @MollieGascoigne'
