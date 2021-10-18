@@ -1674,6 +1674,7 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/735107940139606016/QVCHL0qh_normal.jpg'
     -
         name: 'Trans Leeds'
+        url: "https://transleeds.org"
         twitter: TransLeeds
         facebook: TransLeeds
         tags: [Yorkshire, 'Local groups']
