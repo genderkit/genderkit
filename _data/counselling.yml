@@ -3,6 +3,7 @@
   colour: "#f7ffe5"
   items:
     - "[LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/lgbt-mental-health/lgbt-counselling/) (sliding scale)"
+    - "[Kaleidoscope Counselling](https://www.kaleidoscopecounselling.org.uk/our-service/) (sliding scale)"
 - name: North West England
   colour: "#e7ffe5"
   items:
@@ -41,6 +42,7 @@
 - name: Wales
   colour: "#ffe9e5"
   items:
+    - "[Constellation](https://www.amberproject.org.uk/Groups/310333/Church_Army/ms/Amber_Project/Constellation/Constellation.aspx) (free)"
     - "[LGBT Cymru](https://www.lgbtcymru.org.uk/counselling/) (sliding scale to free)"
 - name: Northern Ireland
   colour: "#fff8e5"
