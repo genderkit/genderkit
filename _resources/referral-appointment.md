@@ -4,25 +4,33 @@ title: Getting a referral
 description: Information about what to expect when asking for a referral to a gender service
 ---
 
-### What happens when I ask for a referral?
+To get access to specialist medical and surgical treatment on the NHS, you normally need to be referred to an NHS gender service. 
 
-The person referring you should ask you a few questions. This is so they can provide the information that the service they are referring you to has asked for. There is a list of common questions you might be asked further down the page.
+### How do I get a referral?
 
-If you are in England, you may be asked which gender service you wish to be referred to.
+Make an appointment to speak to your GP. This could be an appointment to speak on the telephone, or an appointment to speak in person.
 
-The person referring you may take your height, weight, blood pressure, and waist size, and may ask you to have some blood drawn for testing.
+In this appointment, you should tell your GP that you want them to refer you to a gender service.
 
-The person referring you might also ask you if you want to update your name or gender on their records.
+Your GP will ask you a few questions. This is so they can provide the information that the service they are referring you to has asked for. There is a list of common questions you might be asked further down the page.
 
-If you are asking for a referral to a service for children and young people, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first, who may ask you the questions above and may also ask you more questions, particularly around your mental health. 
+The person referring you may take your height, weight, blood pressure, and waist size, and may ask you to have some blood drawn for testing. They might also ask you if you want to update your name or gender on their records.
 
-### What should not happen when I ask for a referral?
+If you are living in England, you may be asked which gender service you wish to be referred to.
 
-The person who you have asked for a referral should *not*:
+If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first, who may ask you the questions above and may also ask you more questions, particularly around your mental health. 
 
--   ask you to let them examine your chest or genitalia
--   tell you to go to a mental health service or counsellor (unless you are under 18)
--   tell you that no help is available to you
+The person who you have asked for a referral:
+
+-   should *not* ask you to let them examine your chest or genitalia
+-   should *not* tell you to go to a mental health service or counsellor (unless you are under 18)
+-   should *not* tell you that no help is available to you
+
+### What can I do beforehand?
+
+Think about whether it would be helpful to have someone with you when you ask for a referral. Do you find it difficult to explain things clearly? Do you feel able to say no to things you are not comfortable with? Would having someone else there make you feel more comfortable?
+
+You’ll be asked a number of questions as part of being referred to a gender service. We’ve listed common questions below. You might want to think about them beforehand, so that you feel confident to answer them in your appointment.
 
 ### What might I be asked?
 
@@ -55,5 +63,20 @@ You might also be asked:
 -   Are you employed? Are you in education?  
 
 If you’re being referred to a service for young people, you are likely to be asked:
+
 -   Whether you have experienced any bullying
 -   Whether you have experienced any abuse
+
+### What happens next?
+
+After you've been referred, most services send a confirmation letter to you, letting you know you have been added to the wait list. This sometimes takes a few weeks. If you've not heard back within a month, it may be worth phoning or emailing to check that your referral has been received correctly.
+
+Most services will say on their website how long you can expect to wait, and how long people who are currently being offered appointments have been waiting. You might find it helpful to write down what date your referral was made, so that you 
+
+While you are waiting, you could look into:
+
+- what changes you can make that don't require having been seen by a gender service
+- what support you could get on [our page on support services]({% link _articles/support-services.md %})
+- connecting with other people in similar situations through [local organisations]({% link _resources/local.md %})
+
+You can also prepare for when you are seen by the gender service. You can read more about this on [our page about your initial appointment at the gender service]({% link _resources/initial-appointment.md %}).
