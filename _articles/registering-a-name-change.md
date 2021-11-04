@@ -15,6 +15,8 @@ Registering a change of name does not allow you to update the gender recorded on
 
 ### Why might I not want to register a name change?
 
+{% capture warn %} Registering your name change will create a permanent searchable link between your old and new names, including a notification in the London Gazette. Anyone could find out your old name with only a few seconds of web searching. {% endcapture %} {% include warning warning=warn %}
+
 Registering a name change causes information about your name change to become publicly available, and will permanently link your old and new names.
 - In *England and Wales*, an official notice about your name change will be published in the London Gazette.
 - In *Scotland and Northern Ireland*, a name change carried out without a GRC will cause your birth certificate to display both your old and new names.
