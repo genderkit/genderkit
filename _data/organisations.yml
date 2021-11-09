@@ -196,9 +196,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 61
+        wait-first-appointment: 65
         source-wait-first-appointment: 'https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times'
-        date-wait-first-appointment: 'Aug ''21'
+        date-wait-first-appointment: 'Nov ''21'
         publishes-wait-hormones: true
         wait-hormones: 12
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in'
@@ -208,7 +208,7 @@ organisations:
         date-wait-carried-over: 'Mar ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2021-05-23'
+        updated: '2021-11-09'
         catchment: 'England GP only'
         extra-information: 'The service is currently focusing resources on people who have already had their first appointment, and while they are accepting new appointments, are not currently seeing patients for a first appointment and do not know when this will resume.'
     -
@@ -279,12 +279,12 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 45
-        date-wait-first-appointment: 'Jul ''21'
+        wait-first-appointment: 47
+        date-wait-first-appointment: 'Sep ''21'
         source-wait-first-appointment: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
         publishes-wait-hormones: true
-        wait-hormones: 28
-        date-wait-hormones: 'Jul ''21'
+        wait-hormones: 31
+        date-wait-hormones: 'Sep ''21'
         source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic'
@@ -302,13 +302,13 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 41
+        wait-first-appointment: 43
         source-wait-first-appointment: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-first-appointment: 'Jun ''21'
+        date-wait-first-appointment: 'Aug ''21'
         publishes-wait-hormones: true
-        wait-hormones: 7
+        wait-hormones: 12
         source-wait-hormones: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-hormones: 'Jun ''21'
+        date-wait-hormones: 'Aug ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
         updated: '2021-07-04'
@@ -324,13 +324,14 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 39
+        wait-first-appointment: 44.5
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
+        date-wait-first-appointment: 'Oct ''21'
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_porterbrook_clin'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_services_porterbrook_clin'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2021-05-23'
+        updated: '2021-11-09'
         catchment: 'England GP only'
     -
         heading: 'London TransPlus'
@@ -415,9 +416,9 @@ organisations:
         image: gic
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 44
-        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
-        date-wait-first-appointment: 'Apr ''21'
+        wait-first-appointment: 49
+        source-wait-first-appointment: 'https://gic.nhs.uk/appointments/waiting-times/'
+        date-wait-first-appointment: 'Nov ''21'
         publishes-wait-hormones: true
         wait-hormones: 18
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
@@ -425,7 +426,7 @@ organisations:
         wait-carried-over: no
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
         date-wait-carried-over: 'Apr ''21'
-        updated: '2021-01-29'
+        updated: '2021-11-09'
         nhs-funding: true
         catchment: 'UK GP only'
         referral-criteria: 'Allows self-referral'
@@ -482,10 +483,11 @@ organisations:
         age-range: 18+
         publishes-wait-first-appointment: true
         wait-first-appointment: 1-2
+        date-wait-first-appointment: 'Nov ''21'
         source-wait-first-appointment: 'https://genderdoctors.com/faqs/'
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2021-03-08'
+        updated: '2021-11-09'
     -
         heading: 'Kelly Psychology'
         name: 'Kelly Psychology'
@@ -560,7 +562,7 @@ organisations:
         lastTwitterPost: 'Fri Oct 15 15:04:24 +0000 2021'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1412007051694387203/kLfD9F3-_normal.png'
         age-range: 18+
-        wait-first-appointment: 0
+        wait-first-appointment: 6
         updated: '2020-12-09'
         publishes-wait-first-appointment: true
         nhs-funding: false
@@ -2756,10 +2758,11 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/778573552358453248/BtnYxIS6_normal.jpg'
         image: harleystreet
         publishes-wait-first-appointment: true
-        wait-first-appointment: 4
+        wait-first-appointment: 6
+        date-wait-first-appointment: 'Nov ''21'
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2021-04-24'
+        updated: '2021-11-09'
     -
         name: 'Huddersfield SU Trans Campaigns'
         tags: [Students, Yorkshire, 'Local groups']
