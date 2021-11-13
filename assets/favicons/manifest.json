@@ -1,6 +1,6 @@
 {
     "name": "Gender Construction Kit",
-    "short_name": "Gender Kit",
+    "short_name": "genderkit",
     "icons": [
         {
             "src": "/assets/favicons/android-chrome-192x192.png?v=BGBvJ99adG",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#6000ff",
+    "theme_color": "#270C52",
     "background_color": "#ffffff",
     "display": "standalone"
 }
