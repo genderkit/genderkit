@@ -1,7 +1,7 @@
 ---
 layout: misc
-title: Initial appointments at gender services
-description: Information about what to expect in an initial assessment at an NHS gender service
+title: First appointments at gender services
+description: Information about what to expect in a first assessment at an NHS gender service
 feature:
   image: initial-appointment.jpg
   caption: "A black person talking to someone holding a clipboard. Neither person's head is visible."
