@@ -76,6 +76,8 @@ These are all broadly synonymous from a medical perspective, though you may pref
 
 Your GP should be able to refer you to one of the NHS gender services who will be able to diagnose you.  You can read about how to ask for a referral on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
 
+Once you've been referred to a specialist service, you can see our [First Appointments page]({% link _resources/initial-appointment.md %}) for information about what to expect and how to prepare.
+
 {% include travel-costs %}
 
 If you wish, you can pay to use private specialist gender services. You may find this is quicker than using the NHS services, but it may cost £200 per hour or more for your appointments.
