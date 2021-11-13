@@ -26,6 +26,8 @@ The person who you have asked for a referral:
 -   should *not* tell you to go to a mental health service or counsellor (unless you are under 18)
 -   should *not* tell you that no help is available to you
 
+If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
+
 ### What can I do beforehand?
 
 Think about whether it would be helpful to have someone with you when you ask for a referral. Do you find it difficult to explain things clearly? Do you feel able to say no to things you are not comfortable with? Would having someone else there make you feel more comfortable?

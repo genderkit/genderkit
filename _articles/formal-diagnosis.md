@@ -74,7 +74,7 @@ In the UK, diagnoses for trans people are normally made by specialists. The exac
 
 These are all broadly synonymous from a medical perspective, though you may prefer a diagnosis of "dysphoria" as it is less pathologising and does not imply a binary identity. Any of these diagnoses should be as good as any other for accessing treatment.
 
-Your GP should be able to refer you to one of the NHS gender services who will be able to diagnose you. If they are unsure, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
+Your GP should be able to refer you to one of the NHS gender services who will be able to diagnose you.  You can read about how to ask for a referral on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
 
 {% include travel-costs %}
 
