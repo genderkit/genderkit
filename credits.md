@@ -65,3 +65,7 @@ The Getting Started page is illustrated using several photographs from [The Gend
 The Hair Curling article is illustrated using a [photograph by Baylee Gramling on Unsplash](https://unsplash.com/photos/a3xr2mVjT5M).
 
 The Registering A Name Change article is illustrated using a portion of a [photograph by David Caster on Wikimedia](https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_2019.jpg).
+
+The Getting a Referral article is illustrated using a [photograph by Alex Green on Pexels](https://www.pexels.com/photo/serious-ethnic-psychotherapist-listening-to-clients-complains-5699473/).
+
+The First Appointments at Gender Services article is illustrated using a [photograph by Alex Green on Pexels](https://www.pexels.com/photo/crop-ethnic-client-discussing-problems-with-anonymous-psychologist-5699431/).
