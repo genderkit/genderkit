@@ -489,6 +489,20 @@ organisations:
         referral-criteria: 'Allows self-referral'
         updated: '2021-11-09'
     -
+        heading: Dr Lenihan
+        name: Dr Lenihan
+        url: 'https://drpennylenihan.com/'
+        tags: ['Private healthcare', 'Gender Clinics', National]
+        image: lenihan
+        manualDescription: 'Dr Penny Lenihan is a leading UK and International Senior Consultant Psychologist, Senior Gender Specialist and Autism Consultant'
+        age-range: 18+
+        publishes-wait-first-appointment: true
+        wait-first-appointment: 10
+        date-wait-first-appointment: 'Nov ''21'
+        nhs-funding: false
+        referral-criteria: 'Allows self-referral'
+        updated: '2021-11-04'
+    -
         heading: 'Kelly Psychology'
         name: 'Kelly Psychology'
         url: 'https://www.kellypsychology.co.uk/'
@@ -496,7 +510,8 @@ organisations:
         image: kelly
         manualDescription: 'Private gender clinic for under 23s based in London'
         age-range: 'Under 23'
-        wait-first-appointment: 2
+        wait-first-appointment: 2-3
+        date-wait-first-appointment: 'Nov ''21'
         publishes-wait-first-appointment: true
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
