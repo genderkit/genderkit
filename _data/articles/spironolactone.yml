@@ -31,6 +31,7 @@ effects:
     detail: "Prevents change of body odour due to puberty"
   -
     category: "Upper body"
+    sometimes: true
     detail: "May cause some breast growth"
 requirements:
   - type: generic

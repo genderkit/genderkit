@@ -55,10 +55,21 @@ layout: page
       {% endif %}
       <ul class="effects">
       {% for item in info.effects %}
+        {% if item.sometimes %}{% continue %}{% endif %}
         {% assign slug = item.category | slugify %}
         <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/" | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
+      {% assign sometimeseffects = info.effects | where: "sometimes", true %}
+      {% unless sometimeseffects == empty %}
+      <p><em>Occasionally</em>, people experience these effects:</p>
+      <ul class="effects">
+      {% for item in sometimeseffects %}
+        {% assign slug = item.category | slugify %}
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/" | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+      {% endfor %}
+      </ul>
+      {% endunless %}
       {% assign slug = page.title | slugify %}
       {% if info.requirements %}
       <h3 id="who-can-have-{{ in-headings | slugify }}">Who can have {{ in-headings }}?</h3>

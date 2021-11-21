@@ -13,7 +13,8 @@ effects:
   - category: "Muscles"
     detail: "Makes bigger, stronger and more defined"
   - category: "Head hair"
-    detail: "May cause hair loss"
+    sometimes: true
+    detail: "Male-pattern hair loss"
   - category: "Libido"
     detail: "Increases"
   - category: "Voice"
