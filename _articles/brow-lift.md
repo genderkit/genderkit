@@ -2,7 +2,7 @@
 title: brow lift
 weighting: 5
 feature:
-  image: surgeons.jpg
+  image: surgeons2.jpg
   caption: "Faces of surgeons performing surgery"
 ---
 

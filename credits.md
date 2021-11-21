@@ -36,7 +36,7 @@ Gender Construction Kit uses the following open source projects:
 
 ### Photography credits
 
-Some articles are illustrated using a cropped version of a [photo of surgeons taken by Phalinn Ooi](https://www.flickr.com/photos/phalinn/8116089574/) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by/2.0/).
+Some articles are illustrated using a cropped version of a [photograph by Павел Сорокин on Pexels](https://www.pexels.com/photo/surgeons-performing-surgery-2324837/).
 
 The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated using a [photograph by freestocks.org on Unsplash](https://unsplash.com/photos/nss2eRzQwgw).
 

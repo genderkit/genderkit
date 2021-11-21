@@ -2,8 +2,8 @@
 title: packing
 weighting: 1
 feature:
-  image: packing.jpg
-  caption: "A rolled up sock, one method of making a DIY packer"
+  image: packing2.jpg
+  caption: "A Spectrum Outfitters foam packer"
 ---
 
 ### How do I stay safe?

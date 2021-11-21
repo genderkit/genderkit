@@ -15,10 +15,10 @@ layout: page
             
 	  <li>
               <a href="{{ p.url | relative_url }}">
-              {% if p.feature %}
+              {% if p.feature and p.feature.image != "surgeons2.jpg" %}
                 {% include picture.html image=p.feature.image size=240 aria-hidden=true %}
               {% else %}
-                <img alt="" aria-hidden="true" src="{{ 'assets/images/nophoto.png' | relative_url }}">
+                <div class="nophoto" alt="" aria-hidden="true"></div>
               {% endif %}
 		<h3 id="{{ slug }}">{{ p.title | slice: 0 | upcase }}{{ p.title | slice: 1, p.title.size }}</h3>
               </a>
