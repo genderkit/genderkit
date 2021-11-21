@@ -30,6 +30,8 @@ If you have any other passports:
 
 ### How do I get a new passport?
 
+You *do not need a GRC* to change the name or gender on your [passport]({% link _articles/getting-a-new-passport.md %}), driving license, or any other identification other than your birth certificate.
+
 It may take some time to receive your new passport. You can find out the current wait time for a new passport on [the GOV.UK website](https://www.gov.uk/government/organisations/hm-passport-office/about-our-services).
 
 To apply for your own adult passport you must be either:

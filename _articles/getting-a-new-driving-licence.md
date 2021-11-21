@@ -8,6 +8,8 @@ feature:
 
 ### How do I get a new driving licence?
 
+You *do not need a GRC* to change the name or gender on your [passport]({% link _articles/getting-a-new-passport.md %}), driving license, or any other identification other than your birth certificate.
+
 You can update the name, title, and photo on your driving licence with a D1 form. You can't update your licence online. You can get D1 forms at a post office or have DVLA [send one to you](https://www.gov.uk/dvlaforms). 
 
 To update your name on your licence you will need to send your [deed poll]({% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). Photocopies are not accepted, so you must either send the original document or a [certified copy](https://www.gov.uk/certifying-a-document).
