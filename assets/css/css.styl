@@ -22,6 +22,8 @@ $bold-weight = 600
 
 // Basic html styling
 html
+  line-height 2
+#wait-full p, #organisations p, #organisations h3, #books
   line-height 1.5
 body
   margin 0
@@ -65,6 +67,12 @@ img
 article img
   max-width 500px
 h3
+  margin-top 2rem
+  margin-bottom .5rem
+  line-height 1.25
+h3:first-child
+    margin-top 1rem
+h3+p
   margin-top 0
 h4
   font-weight inherit
@@ -392,7 +400,7 @@ nav, aside, .articlescope, .attention
 .warning
   border-left 4px red solid 
   padding 0 0 0 1rem
-  margin 0 0 1rem 0 // make sure that warnings are visually seperate
+  margin 1rem 0 1rem 0 // make sure that warnings are visually seperate
 .gridcontainer li
   width $column
   h3
@@ -660,7 +668,7 @@ figure img
 
 .homescreen section h2, .homescreen section p 
   margin 0 1em
-  font-size 18px
+  font-size 85%
   background inherit
   color black
   padding 0

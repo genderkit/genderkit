@@ -13,7 +13,7 @@ $column = 12rem
 $bold-weight = 600
 
 // Responsive page size changing
-@media screen and (min-width: 620px)
+@media screen and (min-width: 660px)
   body
     max-width 40rem
     margin 0 auto
@@ -38,9 +38,15 @@ $bold-weight = 600
     column-gap 1rem
     padding 0
     list-style-type none
+@media screen and (min-width: 1080px)
+  html
+    font-size: 18px    
+@media screen and (min-width: 1200px)
+  html
+    font-size: 20px
 
 // Change page look based on width
-@media screen and (min-width: 620px)
+@media screen and (min-width: 660px)
   h1
     background-color rgba(0,0,0,0.5)
     width 12rem
@@ -61,6 +67,8 @@ $bold-weight = 600
     padding-left 1rem
     font-size 2rem
     font-weight 300
+  h3:first-child
+    margin-top 0
   .homescreen header h1 img
     width 20rem
     height 10rem
@@ -68,7 +76,6 @@ $bold-weight = 600
     margin-bottom -0.5rem
   .homescreen h2
     margin 0 1em
-    font-size 18px
   #ticker
     padding-left 0
     padding-right 0
