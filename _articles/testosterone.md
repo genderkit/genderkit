@@ -81,6 +81,14 @@ In a small proportion of people menstruation (periods) is not stopped by testost
 
 In the UK, some clinicians recommend that people taking testosterone long-term should have a [hysterectomy]({% link _articles/hysterectomy.md %}). They theorise that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}. Hysterectomy for people taking testosterone is optional and you may feel the risks involved in a major operation are unnecessary. If you decide not to undergo hysterectomy it has been suggested that scans to check for thickening of the endometrium every two years could reduce any potential risks {% cite seal2017 -l 240 %}.
 
+### How do I use testosterone?
+
+Testosterone gels and patches are generally fairly easy to apply, and the medicine will come with clear instructions. For testosterone injections, usually you will be able to get a doctor or a nurse to perform the injection for you.
+
+If you need to administer your testosterone injection yourself, Brighton Health and Wellbeing Centre have video guides on how to do this:
+* For [Sustanon](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/b12-sustanon-injections)
+* For [Nebido](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections)
+
 ### What kinds are there?
 
 Testosterone is commonly available as depot injections or as gels applied to the skin {% cite seal2017 -l 241 %}. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches (transdermal testosterone) are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.

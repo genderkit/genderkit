@@ -53,6 +53,12 @@ Funding for GnRH treatment is available to people with testes who have a [formal
 {% endcapture %}
 {% include hrt-funding specifics=specifics travel="yes" %}
 
+### How do I use GnRH agonists?
+
+Most GnRH agonists are injections. Usually you will be able to get a doctor or a nurse to perform the injection for you.
+
+If you need to administer your injection yourself, Brighton Health and Wellbeing Centre have a video guide on how to do this for [intramuscular injections](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections) like Triptorelin (Decapeptyl) or Leuprorelin (Prostap). Subcutaneous injections will require a different technique.
+
 ### What kinds are there?
 
 Commonly used GnRH agonists in the UK are Goserelin (Zoladex), Triptorelin (Decapeptyl) and Leuprorelin (Prostap). Certain clinicians also offer Buserelin (Suprecur/Suprefact) and Nafarelin (Synarel).
