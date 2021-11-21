@@ -33,6 +33,8 @@ Long-term binding for several years can effect skin elasticity, which increases 
 
 ### Are there other options?
 
+Some people use specially-designed tape for binding, rather than a binder. However, the long-term safety of this is relatively unknown compared to using a binder. *Do not bind with duct tape* or any other kind of tape not specifically designed for binding.
+
 Safer but less effective alternatives to binding are wearing a sports bra or multiple layers of clothing to [hide your chest shape]({% link _articles/disguising-body-shape.md %}).
 
 An operation like [double-incision]({% link _articles/double-incision-mastectomy.md %}) or [periareolar mastectomy]({% link _articles/periareolar-mastectomy.md %}) can permanently remove breasts, eliminating the need to bind.
