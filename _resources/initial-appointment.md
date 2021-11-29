@@ -48,6 +48,7 @@ Common questions about *your current situation* include:
 - What is your sexual orientation?
 - Are you in any sexual or romantic relationships? Are they aware of how you feel about your gender?
 - Do you have any physical or mental health conditions?
+- Do you smoke, drink, or use other drugs?
 
 Common questions about *your future plans* include:
 
@@ -57,6 +58,7 @@ Common questions about *your future plans* include:
 - Are you seeking fertility preservation prior to hormone therapy?
 - Do you want to access surgery? How do you think this will help you?
 - Are you aware that getting genital surgery is irreversible?
+- If you smoke, do you plan to quit?
 
 ### Private services
 
