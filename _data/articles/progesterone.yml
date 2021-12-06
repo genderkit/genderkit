@@ -1,16 +1,19 @@
-aka: [Progestins]
-summary: "Hormone sometimes used in conjunction with oestrogen therapy and also for stopping periods"
+aka: [Utrogestan]
+summary: "Hormone sometimes used in conjunction with oestrogen therapy"
 duration: "Oral progesterone (pills) are taken as a daily dose; depot injections normally last around 12 weeks."
 seealso:
-  - text: "This can also be used for contraception"
+  - text: "Another type of medication related to progesterone is progestogens. Progestogens can be used for contraception and reducing periods"
     link:
       - "contraceptive pill"
       - "contraceptive injection"
       - "contraceptive implant"
 effects:
-  - category: "Menstruation"
-    detail: "Stops"
   - category: "Upper body"
-    detail: "(Possibly) increases breast growth"
+    detail: "(Possibly) effects breast growth"
+  - category: "Libido"
+    detail: "(Possibly) effects libido"
 requirements:
-  - type: non-nhs
+  - type: generic
+    detail: "People with a uterus as a part of post-menopasual HRT"
+  - type: generic
+    detail: "This is not normally available on the NHS for other purposes"
