@@ -14,6 +14,6 @@ effects:
     detail: "(Possibly) effects libido"
 requirements:
   - type: generic
-    detail: "People with a uterus as a part of post-menopasual HRT"
+    detail: "People with a uterus as a part of post-menopausal HRT"
   - type: generic
     detail: "This is not normally available on the NHS for other purposes"
