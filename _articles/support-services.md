@@ -33,6 +33,8 @@ You can also access help:
 - in the London area from the [Spectra London Trans Peer Mentoring Programme](https://spectra-london.org.uk/trans-gender-services/trans-peer-mentoring/)
 - in the Liverpool area from the [Mersey Care Trans Support Service](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss)
 
+If you are 12-18 and in the North of England, you can also access [Gender Space](https://www.barnardos.org.uk/what-we-do/services/positive-identities-gender-space).
+
 ### Are there other options?
 
 If you need longer term support, you may find counselling to be useful. You can find out more about this on our [counselling page]({% link _articles/counselling.md %}).
