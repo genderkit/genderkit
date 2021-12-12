@@ -30,6 +30,19 @@ Labiaplasty is a major surgery and has a significant recovery time. You should e
 
 For some people, labiaplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
+### Where can I learn more?
+
+You can read more about vaginoplasty surgeries in these booklets from the NHS Gender Dysphoria National Referral Support Service:
+
+- [vaginoplasty](https://www.leedsandyorkpft.nhs.uk/our-services/wp-content/uploads/sites/2/2021/10/v3_vaginoplasty-leaflet_gender_dysphoria.pdf)
+- [cosmetic vaginoplasty](https://www.leedsandyorkpft.nhs.uk/our-services/wp-content/uploads/sites/2/2021/10/v3_vulvoplasty_leaflet_gender_dysphoria.pdf)
+
+You can also read more about vaginoplasty in these booklets from Parkside Hospital who are a UK provider of vaginoplasty surgeries:
+
+- [vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/vaginoplasty-2021-pdf/)
+- [cosmetic vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/labioplasty-2021-pdf/)
+- [sigmoid vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/intestinal-vaginoplasty-pdf/)
+
 ### How do I get ready for surgery?
 
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).

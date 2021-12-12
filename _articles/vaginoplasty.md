@@ -79,6 +79,11 @@ Types of vaginoplasty that surgeons carry out include:
 
 ### Where can I learn more?
 
+You can read more about vaginoplasty surgeries in these booklets from the NHS Gender Dysphoria National Referral Support Service:
+
+- [vaginoplasty](https://www.leedsandyorkpft.nhs.uk/our-services/wp-content/uploads/sites/2/2021/10/v3_vaginoplasty-leaflet_gender_dysphoria.pdf)
+- [cosmetic vaginoplasty](https://www.leedsandyorkpft.nhs.uk/our-services/wp-content/uploads/sites/2/2021/10/v3_vulvoplasty_leaflet_gender_dysphoria.pdf)
+
 You can also read more about vaginoplasty in these booklets from Parkside Hospital who are a UK provider of vaginoplasty surgeries:
 
 - [vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/vaginoplasty-2021-pdf/)
