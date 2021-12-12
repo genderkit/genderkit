@@ -2,8 +2,8 @@
 title: progesterone
 weighting: 4
 feature:
-  image: progesterone.jpg
-  caption: "A box of medroxyprogesterone"
+  image: progesterone2.jpg
+  caption: "A blister pack of micronised progesterone"
 ---
 
 ### How do I stay safe?
