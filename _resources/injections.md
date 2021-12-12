@@ -25,10 +25,13 @@ You might want to inject at home:
 You will normally need:
 
 * Unused needles of the correct sizes (needle sizes are known as [gauges](https://en.wikipedia.org/wiki/Birmingham_gauge))
+* Unused syringe bodies
 * Pre-injection swabs
+* Disposable gloves
 * A sharps bin
+* Gauze or cotton wool
 
-You may be able to have these prescribed to you. You can also buy these from your local pharmacy or online medical suppliers. If you’re buying medical supplies online, make sure it’s from a reputable medical supplier, rather than a generic website like Amazon.
+You may be able to have these prescribed to you. You can also buy these from your local pharmacy or online medical suppliers. If you’re buying medical supplies online use a reputable medical supplier registered with the MHRA, such as [Exchange Supplies](https://www.exchangesupplies.org/) or [Medisave](https://www.medisave.co.uk), to make sure your supplies are safe.
 
 {% capture warn %}
 Re-using needles puts you at risk of infection.
@@ -41,12 +44,35 @@ For more information about needle exchanges and where to find them, see [the Wit
 
 ### How to inject medications
 
-Brighton Health and Wellbeing Centre have video guides on how to inject commonly-used medications:
+Do not inject a medication until you are sure of how to do it:
 
-* For [Sustanon](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/b12-sustanon-injections)
-* For [Nebido and Decapeptyl](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections)
+- *Read the instruction leaflet*. You will need to carefully read the instructions provided with the medication. 
+- *Ask for training*. Your GP surgery may be able to offer training on how to perform the injection.
+- *Watch a video*. You may also find it helpful to watch a video demonstration of how to perform the injection. We have listed some below.
 
-Leeds Gender Identity Team have also produced a more detailed [guide to injecting Sustanon](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.leedsandyorkpft.nhs.uk%2Four-services%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F05%2FHow-to-give-a-Testosterone-Intramuscular-IM-Injection.docx&wdOrigin=BROWSELINK).
+So that you can be confident you are avoiding any mistakes, *strongly consider* asking if your first injection can be supervised by a nurse or GP at your local GP surgery. 
+
+For more information about: 
+
+- injecting *Sustanon*
+
+    Leeds Gender Identity Team have produced a detailed [guide to injecting Sustanon](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.leedsandyorkpft.nhs.uk%2Four-services%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F05%2FHow-to-give-a-Testosterone-Intramuscular-IM-Injection.docx&wdOrigin=BROWSELINK). Brighton Health and Wellbeing Centre have [a video guide on how to inject Sustanon](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/b12-sustanon-injections).
+
+- injecting *Nebido* (testosterone undecanoate)
+
+    Nebido can be more difficult to inject than Sustanon, and you may want someone else to inject this for you. Brighton Health and Wellbeing Centre have [a video guide on how to inject Nebido and Decapeptyl](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections).
+
+- injecting *Decapeptyl* (triptorelin)
+
+    You should read the instructions on how to prepare the mixture, which is included in the packaging. Brighton Health and Wellbeing Centre have [a video guide on how to inject Nebido and Decapeptyl](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections).
+
+- injecting *Prostap* (leuprorelin)
+
+    Some patients are permitted to self-administer Prostap. We are not aware of any good quality resources relating to this at present.
+
+- injecting *Oestrogen*
+
+    Oestrogen is not normally prescribed in injectable forms in the UK.
 
 ### Disposing of injection supplies
 
