@@ -38,7 +38,7 @@ For more information about needle exchanges and where to find them, see [the Wit
 
 ### How to inject medications
 
-Brighton Health and Wellbeing Centre have video guides on how to do inject medications commonly used:
+Brighton Health and Wellbeing Centre have video guides on how to inject commonly-used medications:
 
 * For [Sustanon](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/b12-sustanon-injections)
 * For [Nebido and Decapeptyl](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections)
