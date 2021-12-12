@@ -2,6 +2,9 @@
 layout: misc
 title: Self-injection safety
 description: Information about how to safely inject yourself with medications such as testosterone or GnRH agonists.
+feature:
+  image: injection.jpg
+  caption: "Medication being drawn up into a syringe"
 ---
 
 Some medications on this site might be prescribed to you as injections. These will normally be injected by a doctor or nurse at your GP surgery or at a clinic. However, some people choose to either inject these medications themselves, or have a friend or family member do it for them.

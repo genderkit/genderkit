@@ -2,6 +2,9 @@
 layout: misc
 title: Information about blood testing
 description: Information about why you should get levels tested, what specifically should be tested, and where you might be able to get tested
+feature:
+  image: blood-testing.jpg
+  caption: "A set of empty blood sample tubes"
 ---
 
 {% capture warn %}

@@ -42,6 +42,8 @@ The Alfatradiol, Sildenafil, Tadalafil, and Vardenafil articles are illustrated 
 
 The Bras article is illustrated using a [photograph by Tommas Gunnarsson on Wikimedia](https://commons.wikimedia.org/wiki/File:Greenand_black_sports_bra.jpg) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/4.0/).
 
+The Blood Testing article is illustrated using a [photorgaph by Alena Shekhovtcova from Pexels](https://www.pexels.com/photo/set-of-sample-tubes-arranged-on-pink-surface-6074948/).
+
 The Buying Clothes article is illustrated using a [photograph by Sara Kurfeß on Unsplash](https://unsplash.com/photos/5epnzwsphl0).
 
 The Contraceptive Implant article is illustrated using a [photograph by the Science Museum, London](https://wellcomecollection.org/works/vxcg4g86) which was kindly made available under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/).
@@ -69,5 +71,7 @@ The Registering A Name Change article is illustrated using a portion of a [photo
 The Getting a Referral article is illustrated using a [photograph by Alex Green on Pexels](https://www.pexels.com/photo/serious-ethnic-psychotherapist-listening-to-clients-complains-5699473/).
 
 The First Appointments at Gender Services article is illustrated using a [photograph by Alex Green on Pexels](https://www.pexels.com/photo/crop-ethnic-client-discussing-problems-with-anonymous-psychologist-5699431/).
+
+The Self-injection Safety article is illustrated using a [photorgaph by Artem Podrez from Pexels](https://www.pexels.com/photo/man-people-woman-hand-6823562/).
 
 The Tucking article is illustrated using a [photograph by Animesh Srivastava on Pexels](https://www.pexels.com/photo/fashion-jeans-pants-clothing-8188777/).
