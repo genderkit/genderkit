@@ -327,11 +327,16 @@ organisations:
         wait-first-appointment: 44.5
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
         date-wait-first-appointment: 'Oct ''21'
-        foi-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_porterbrook_clin'
-        foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_services_porterbrook_clin'
+        publishes-wait-hormones: true
+        wait-hormones: 18
+        date-wait-hormones: 'Sep ''21'
+        foi-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times'
+        wait-carried-over: 'no'
+        foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times'
+        date-wait-carried-over: 'Dec ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2021-11-09'
+        updated: '2021-12-31'
         catchment: 'England GP only'
     -
         heading: 'London TransPlus'
