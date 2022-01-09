@@ -220,16 +220,16 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 37
-        date-wait-first-appointment: 'Jul ''21'
+        wait-first-appointment: 35
+        date-wait-first-appointment: 'Dec ''21'
         source-wait-first-appointment: 'https://www.nottinghamshirehealthcare.nhs.uk/ncth-patient-updates'
         publishes-wait-hormones: true
         custom-wait-hormones: 3-4
-        custom-wait-total: 40-41
+        custom-wait-total: 38-39
         wait-carried-over: 'no'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2021-07-30'
+        updated: '2021-01-07'
         catchment: 'England GP only'
     -
         heading: 'NCTH EOE'
@@ -330,9 +330,9 @@ organisations:
         publishes-wait-hormones: true
         wait-hormones: 18
         date-wait-hormones: 'Sep ''21'
-        foi-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times'
+        source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times'
         wait-carried-over: 'no'
-        foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times'
+        source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times'
         date-wait-carried-over: 'Dec ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
