@@ -47,6 +47,7 @@ Some voice coaches also advertise specific experience around gender:
 
 - [Maggi Stratford](https://www.maggistratford.com/) (Leeds)
 - [Louise Milner-Smith](https://allaboutyourvoice.com/) (Surrey)
+- [Georgie Mason](https://www.gmvoice.co.uk) (Midlands)
 
 ### How much will it cost?
 
