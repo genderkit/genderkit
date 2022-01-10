@@ -20,7 +20,7 @@ Advice for trans people with housing related problems can be found on [the Actio
 
 [*Simon Community NI*](http://simoncommunity.org/) provide homelessness support throughout Northern Ireland and have a 24/7 helpline.
 
-*Albert Kennedy Trust* provide support for LGBTQ+ young people (aged 16-25). They are currently not accepting new referrals for support, but their [online advice hub](https://www.akt.org.uk/Blogs/online) offers advice on a range of topics including how to access support from local councils.
+[*Albert Kennedy Trust*](https://www.akt.org.uk) provide support for LGBTQ+ young people (aged 16-25) who are homeless or at risk of homelessness. They can help and advise you around accessing housing services or emergency accommodation. You can also access their [online advice hub](https://www.akt.org.uk/Blogs/online) for information on a range of housing topics.
 
 [*The Outside Project*](https://lgbtiqoutside.org) provide an LGBTQ+-specific homeless shelter and community centre in London, as well as a [domestic abuse refuge](https://lgbtiqoutside.org/star/).
 
