@@ -2,7 +2,7 @@
 title: testosterone
 weighting: 4
 feature:
-  image: testosterone.jpg
+  image: testosterone3.jpg
   caption: "A box of Sustanon, an injectable brand of testosterone"
 ---
 
