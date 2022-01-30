@@ -11,7 +11,9 @@ To get access to specialist medical and surgical treatment on the NHS, you norma
 
 ### How do I get a referral?
 
-Make an appointment to speak to your GP. This could be an appointment to speak on the telephone, or an appointment to speak in person.
+For some NHS gender clinics, you can refer yourself by filling out a form you can find on the website of the gender clinic, and emailing it to the clinic. You can find details of which UK services allow self-referral on our [list of gender services]({% link _resources/gender-services.md %}).
+
+For other NHS gender clinics which don't allow self-referral, you will need to make an appointment to speak to your GP. This could be an appointment to speak on the telephone, or an appointment to speak in person.
 
 In this appointment, you should tell your GP that you want them to refer you to a gender service.
 
