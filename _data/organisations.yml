@@ -423,7 +423,7 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 51
         source-wait-first-appointment: 'https://gic.nhs.uk/appointments/waiting-times/'
-        date-wait-first-appointment: 'Feb ''21'
+        date-wait-first-appointment: 'Feb ''22'
         publishes-wait-hormones: true
         wait-hormones: 18
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
