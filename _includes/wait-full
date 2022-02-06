@@ -23,7 +23,7 @@
           <h4 id="first-seen">First Seen</h4>
           {%- if item.publishes-wait-first-appointment -%}
             {%- if item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-first-appointment | escape }}</span>
+              <span class="waittime"><p>{{ item.custom-wait-first-appointment | escape }}</p></span>
             {%- else -%}
               <span class="waittime"><p>{%- if item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-first-appointment }}{%- endif -%}</p></span>
             {%- endif -%}
@@ -45,7 +45,7 @@
           <h4 id="hormones">Hormones</h4>
           {%- if item.publishes-wait-hormones -%}
  	        {%- if item.custom-wait-hormones -%}
-              <span class="waittime">{{ item.custom-wait-hormones | prepend: "+" | escape }}</span>
+              <span class="waittime"><p>{{ item.custom-wait-hormones | prepend: "+" | escape }}</p></span>
             {%- else -%}
               <span class="waittime"><p>{{ item.wait-hormones | prepend: "+" }}</p></span>
             {%- endif -%}
@@ -68,7 +68,7 @@
           <h4 id="total">Total</h4>
           {%- if item.publishes-wait-hormones and item.publishes-wait-first-appointment -%}
  	          {%- if item.custom-wait-hormones or item.custom-wait-first-appointment -%}
-              <span class="waittime">{{ item.custom-wait-total | prepend: "=" | escape }}</span>
+              <span class="waittime"><p>{{ item.custom-wait-total | prepend: "=" | escape }}</p></span>
             {%- else -%}
               <span class="waittime"><p>={%- if item.wait-hormones == 0 and item.wait-first-appointment == 0 -%}&lt;1</em>{%- else -%}{{ item.wait-hormones | plus: item.wait-first-appointment }}{%- endif -%}</p></span>
             {%- endif -%}
