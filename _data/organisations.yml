@@ -564,7 +564,9 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c0.0.50.50/p50x50/13164311_1790073354549106_9094273060506944158_n.jpg?oh=a95f44cf2d1cb231d9f8481af9ab5731&oe=5A8D8182'
         age-range: 18+
         updated: '2021-03-28'
-        wait-first-appointment: 3
+        custom-wait-first-appointment: 1-9
+        date-wait-first-appointment: 'Nov ''21'
+        source-wait-first-appointment: 'https://www.facebook.com/drstuartlorimer/posts/3198988556990905'
         publishes-wait-first-appointment: true
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
