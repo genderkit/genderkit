@@ -4,7 +4,6 @@
 -  
   name: "Cassian"
   contribution: "Photography"
-  mastodon: "https://cybre.space/@cassolotl"
 -
   name: "Iris"
   contribution: "Website development, Build system"
@@ -13,7 +12,6 @@
   contribution: "Graphic Design, Photography"
   articles: 
     - "Getting a New Passport"
-  twitter: "UnconIntimacy"
 -  
   name: "wolfwynd"
   contribution: "Photography"
@@ -26,6 +24,9 @@
 -  
   name: "Mikey"
   contribution: "Writing"
+-
+  name: "Mitzi"
+  contribution: "Article reviewing, Research"
 -  
   name: "Hannah M"
   contribution: "Photography"
