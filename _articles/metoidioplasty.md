@@ -46,7 +46,11 @@ For some people, metoidioplasty can provide a significant improvement in mental 
 
 ### Where can I learn more?
 
-You can find more information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty). Please note that St Peter's are no longer offering gender surgeries, so some information on this site may be out of date.
+You can read more about metoidioplasty in [this booklet from the NHS Gender Dysphoria National Referral Support Service]({% link assets/pdf/Metoidioplasty_Masculinising_Surgery_Leaflet_v3.pdf %}).
+
+You can find information and regular updates about waiting times for phalloplasty and metoidioplasty in the UK on [the TransActual website](https://www.transactual.org.uk/nhs-phallo-meta).
+
+There is some detailed information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty). Please note that St Peter's are no longer offering gender surgeries, so some information on this site may be out of date.
 
 ### How do I get ready for surgery?
 

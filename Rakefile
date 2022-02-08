@@ -231,7 +231,7 @@ class InternalLinkTrailingSlash < ::HTMLProofer::Check
   def run
     @html.css('a').each do |node|
       @link = create_element(node)
-      if @link.internal? and not (@link.href.match(/\/(#.*)?$/) or @link.href[0] == "#")
+      if @link.internal? and not (@link.href.match(/\/(#.*)?$/) or @link.href[0] == "#" or @link.href.match(/\/.*\.pdf$/))
         return add_issue("No trailing slash on internal link #{@link.href}", line: node.line)
       end
     end
