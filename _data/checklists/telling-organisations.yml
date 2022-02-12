@@ -13,13 +13,17 @@ items:
     title: "Hospitals and clinics"
     detail: Hospitals and clinics often keep their own records, so clinics and hospitals may not automatically update their records when you tell your GP.
   - 
-    title: "DVLA"
+    title: "Driving licence"
     detail: "See [getting a new driving licence](/article/getting-a-new-driving-licence/) for information about how to update your details with the DVLA."
+  -
+    title: "Vehicle registration"
+    detail: "You can find instructions for how to update this on [the GOV.UK website](https://www.gov.uk/change-name-v5c)."
   - 
     title: "Employer/educational institution"
     detail: "Your employer will need to complete the steps listed on [the GOV.UK website](https://www.gov.uk/employee-changes-gender)."
   - "Student Loans Company"
   - "Dentist"
+  - "PASS ID card"
   - 
     title: "Electoral roll"
     detail: "There is information about how to change name on the electoral roll on [the GOV.UK website](https://www.gov.uk/register-to-vote)."
@@ -39,6 +43,7 @@ items:
     detail: "You can apply for a new European Health Insurance Card in your new name. You can do this on [the EHIC website](https://www.ehic.org.uk)."
   - "Electricity, gas, and water suppliers"
   - "Pension providers"
+  - "Loans and investments"
   - "Internet service provider"
   - "Mobile phone network"
   - "Landline phone provider"
