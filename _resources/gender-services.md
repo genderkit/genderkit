@@ -12,13 +12,13 @@ We cannot check the quality or safety of services on this page.
 In the UK, people who are changing things linked to gender are supported by a set of specialist centres, often known as "gender identity clinics" (GICs), which offer [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and access to other services like hormone medications and surgeries. 
 
 {% capture gic-description %}
-You can access these gender services for free by [asking your GP to make a referral]({% link _resources/referral-appointment.md %}). However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area.
+You can access these gender services for free on the NHS. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area.
 
 You can find more information about waiting times - and which services will see you more quickly - on our [ UK service wait times page]({% link _resources/wait-times.md %}).
 {% endcapture %}
 {% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description=gic-description %}
 
-All these services are now accepting referrals and able to offer both phone and video appointments.
+We have instructions on how to access these services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
 
 {% capture gic-description %}
 There are also a number of pilot schemes run by different organisations within NHS England. The purpose of these schemes is to explore a more holistic and comprehensive model of how gender clinics can function, with patient agency centred more in the process.
@@ -46,12 +46,7 @@ Other services that may be of interest to people in the UK include:
 
 ### Choosing a service
 
-To ensure that you choose an appropriate service, it is important to investigate:
-
-{% include checklist checklist="genderservices" %}
-
-A well-run service will be happy to help you with questions on these subjects. You may also find useful information on these subjects, and other people's thoughts and experiences of services, by searching [/r/transgenderuk](https://www.reddit.com/r/transgenderuk) for information.
-
+It can overwhelming trying to choose which gender service to be referred to. You can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
 
 ### Getting a referral to an NHS clinic
 

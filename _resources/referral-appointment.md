@@ -23,8 +23,6 @@ The person making the referral may take your height, weight, blood pressure, and
 
 If you are living in England, you may be asked which gender service you wish to be referred to. If you don’t know what clinics there are, we have our own page with a [list of gender services]({% link _resources/gender-services.md %}).
 
-If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first, who may then ask you the questions above. They may also ask you more questions, particularly around your mental health.
-
 The person who you have asked for a referral:
 
 -   should *not* ask you to let them examine your chest or genitalia
@@ -32,6 +30,12 @@ The person who you have asked for a referral:
 -   should *not* tell you that no help is available to you
 
 If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
+
+### Information for under 17s
+
+If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first, who may then ask you the questions above. They may also ask you more questions, particularly around your mental health.
+
+You can see your GP without your parents present, and the GP shouldn't tell them about what you've discussed without your consent, though they may encourage you to talk to them yourself. If you're in England, Wales and Northern Ireland, you might be referred to a CAMHS team before being referred to a specialist gender service. If you're in Scotland, you can be referred to Sandyford's Young People's Gender Service directly.
 
 ### What can I do beforehand?
 
