@@ -18,7 +18,7 @@ You can find more information about waiting times - and which services will see 
 {% endcapture %}
 {% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description=gic-description %}
 
-We have instructions on how to access these services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
+We have instructions on how to access these NHS services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
 
 {% capture gic-description %}
 There are also a number of pilot schemes run by different organisations within NHS England. The purpose of these schemes is to explore a more holistic and comprehensive model of how gender clinics can function, with patient agency centred more in the process.
@@ -28,7 +28,7 @@ These clinics generally have a much shorter wait, but are only open to people wh
 {% include gender-clinics tag="Gender Clinics" icon="tick" title="NHS England pilot schemes" free=true pilot=true referrals=true description=gic-description %}
 
 {% capture gic-description %}
-There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service.
+There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service. It can overwhelming trying to choose which gender service to be referred to, but you can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
 
 You can find the waiting times for these services on our [ UK service wait times page]({% link _resources/wait-times.md %}#paid-uk-based-services).
 {% endcapture %}
@@ -50,11 +50,9 @@ It can overwhelming trying to choose which gender service to be referred to. You
 
 ### Getting a referral to an NHS clinic
 
-If you're an adult, you can ask your GP for a referral to a specialist gender service, and they should refer you directly without first referring you to a local mental health team.
+We have instructions on how to access these NHS services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
 
-If you're a young person, you can ask your GP for a referral to one of the specialist youth gender services. You can see your GP without your parents present, and they shouldn't tell them about what you've discussed without your consent, though they may encourage you to talk to them yourself. If you're in England, Wales and Northern Ireland, you might be referred to a CAMHS team before being referred to a specialist gender service. If you're in Scotland, you can be referred to Sandyford's Young People's Gender Service directly.
-
-If you're in Scotland (regardless of age), you can self-refer to Sandyford; see [their website](https://www.sandyford.scot/sexual-health-services/gender-identity-service/) for more information.
+You do not need to be seen by a local mental health team to be referred to an adult gender service.
 
 All the private gender services accept self-referral. However, it may be helpful to speak to your GP before self-referring to a private service, to find out if your GP will be able to support your treatment and if they are able to support you with blood tests and prescribing.
 
