@@ -31,3 +31,7 @@ Costs for private services vary significantly. Most private gender services list
 You can find a summary of the costs of using private services that has been put together by community members in [this Reddit thread](https://www.reddit.com/r/transgenderUK/comments/pvxt8b/comparison_of_private_providers_of_hrt_for_adults/).
 
 If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
+
+### Wait times
+
+You can find out about wait times for NHS and private gender services on our [UK service wait times page]({% link _resources/wait-times.md %}).

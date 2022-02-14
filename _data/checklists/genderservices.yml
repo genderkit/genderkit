@@ -3,29 +3,30 @@ items:
     title: How long is the wait list?
     detail: Are you likely to be seen promptly by the service?
   - 
+    title: Will your GP work with them?
+    detail: If they ask your GP for blood tests or to prescribe, will your GP agree?
+  - 
+    title: Are the prices reasonable?
+    detail: Do they have fees or subscriptions that have a similar cost to other services?
+  - 
+    title: Regular blood monitoring and testing?
+    detail: Will they regularly monitor your health if you are prescribed hormones?
+  -
+    title: What's their reputation like?
+    detail: Do past patients recommend the service? What are people saying online?
+  - 
     title: Will they confirm your referral?
     detail: Will you get written confirmation you have been added to a waiting list?
   - 
     title: Are there physical exams?
     detail: Will they perform medically unnecessary examinations of your chest or genitals?
   - 
-    title: Regular blood monitoring and testing?
-    detail: Will they regularly monitor your health if you are prescribed hormones?
-  - 
-    title: Will your GP work with them?
-    detail: If they ask your GP for blood tests or to prescribe, will your GP agree?
-  - 
     title: Do surgeons take their referrals?
     detail: If they write a letter recommending you for surgery, will surgeons accept it?
-  - 
-    title: Are the prices reasonable?
-    detail: Do they have fees or subscriptions that have a similar cost to other services?
   -
     title: What is the level of contact?
     detail: Do they respond quickly to questions? How often will they check in with you?
-  -
-    title: What's their reputation like?
-    detail: Do past patients recommend the service? What are people saying online?
+
 
 
     
