@@ -24,7 +24,7 @@ Each nation has different policies for how patients should be treated.
     
 - *NHS Wales*
 
-    For non-surgical matters, NHS Wales follow the [Specialised Services Commissioning Policy](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182a%5FGender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Policy%20V3.0%20March%202020.pdf) and [Service Specification](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182b%20Gender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Spec%20V2.0%20March%202020.pdf). Surgical matters are referred to NHS England and follow their policy.
+    For non-surgical matters, NHS Wales follow the [Specialised Services Commissioning Policy](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182a%5FGender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Policy%20V3.0%20March%202020.pdf) and [Service Specification](http://www.whssc.wales.nhs.uk/sitesplus/documents/1119/CP182b%20Gender%20Identity%20Service%20for%20Adults%20%28non%20surgical%29%20Spec%20V2.0%20March%202020.pdf). Surgical matters are referred to NHS England and follow their policy. All Wales Medicines Strategy Groups have also published information for GPs on [endocrine management of gender dysphoria in adults](https://awmsg.nhs.wales/files/guidelines-and-pils/endocrine-management-of-gender-dysphoria-in-adults-pdf/) and information for GPs on handling [requests for shared care](https://awmsg.nhs.wales/files/guidelines-and-pils/shared-care-prescribing-and-monitoring-guidance-pdf/).
 
 - *HSC Northern Ireland*
 
