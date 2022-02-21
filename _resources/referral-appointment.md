@@ -33,7 +33,7 @@ If your GP is unsure what the next step should be, you can direct them to [the a
 
 ### Information for under 17s
 
-If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first, who may then ask you the questions above. They may also ask you more questions, particularly around your mental health.
+If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first. They may also ask you more questions of their own, particularly around your mental health.
 
 You can see your GP without your parents present, and the GP shouldn't tell them about what you've discussed without your consent, though they may encourage you to talk to them yourself. If you're in England, Wales and Northern Ireland, you might be referred to a CAMHS team before being referred to a specialist gender service. If you're in Scotland, you can be referred to Sandyford's Young People's Gender Service directly.
 
@@ -45,9 +45,9 @@ You’ll be asked a number of questions as part of being referred to a gender se
 
 ### What might I be asked?
 
-Many clinics publish their referral form on their website, so you can look ahead to see exactly which questions your GP might ask you.
+Many clinics publish their referral form on their website, so you can look ahead to see exactly which questions you might be asked.
 
-Common questions that GPs might ask include:
+Common questions that you will likely be asked include:
 
 - What is your current gender identity and pronouns?
 - Have you previously attended a gender clinic?
@@ -63,7 +63,7 @@ Specific questions about gender you could be asked are:
 - Have you updated your NHS records?
 - Have you made any public changes to your gender presentation?
 
-Your GP will need to state which medical conditions you have, or have a history of. This may mean your GP needs to ask you questions about your medical history or family medical history. In particular, you are likely to be asked if you have any of the following:
+The person referring you will need to list which medical conditions you have on your referral. This may you are asked questions about your medical history or family medical history. In particular, you are likely to be asked if you have any of the following:
 
 - mental health conditions
 - DSD or intersex conditions
