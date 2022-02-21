@@ -71,7 +71,7 @@ You may be able to get help with the cost of travelling to attending appointment
 
 More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/) and [the London GIDS website](https://gids.nhs.uk/how-claim-travel-expenses).
 
-Costs for private services vary significantly, and you can find detailed information on costs on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
+Costs for private services vary significantly, and you can find detailed information on costs on our [Private fees page]({% link _resources/private-fees.md %}).
 
 ### Where can I learn more?
 
