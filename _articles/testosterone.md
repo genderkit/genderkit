@@ -98,6 +98,11 @@ If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md 
 {% endcapture %}
 {% include hrt-funding specifics=specifics %}
 
+If you are unable to be prescribed testosterone on the NHS, private prescription fees for commonly used forms of testosterone (as of February 2022) are:
+
+- *testosterone gel*: around £50 for a two month supply
+- *testosterone injections*: around £5-6 every 2-4 weeks for Sustanon, £100 for three months for Nebido
+
 ### References
 
 {% bibliography --cited %}

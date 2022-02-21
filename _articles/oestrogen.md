@@ -82,6 +82,12 @@ If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md 
 {% endcapture %}
 {% include hrt-funding specifics=specifics %}
 
+If you are unable to be prescribed oestrogen on the NHS, private prescription fees for commonly used forms of oestrogen (as of February 2022) are:
+
+- *oestrogen gel*: around £10 for a 2-8 weeks supply
+- *oestrogen patches*: around £10 for a 2-4 weeks supply
+- *oestrogen pills*: around £10 for a 1-4 weeks supply
+
 ### References
 
 {% bibliography --cited %}

@@ -48,7 +48,7 @@ Other services that may be of interest to people in the UK include:
 
 It can overwhelming trying to choose which gender service to be referred to. You can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
 
-### Getting a referral to an NHS clinic
+### Getting a referral
 
 We have instructions on how to access these NHS services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
 
@@ -71,7 +71,7 @@ You may be able to get help with the cost of travelling to attending appointment
 
 More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/) and [the London GIDS website](https://gids.nhs.uk/how-claim-travel-expenses).
 
-Costs for private services vary significantly. You can find price details on their websites, plus a comparison of estimated costs on the [Trans Health UK website](https://transhealthuk.noblogs.org/covid-19-private-clinics/). If you are using private gender services to obtain medications, the service will normally ask your GP to write you NHS prescriptions. Your GP may or may not agree to do this - it is up to them. NHS England have published [guidance for GPs](https://gendergp.com/wp-content/uploads/2018/02/GMC-advice-to-GPs-on-online-specialists.pdf) to help them make this decision, which you may wish to give to your GP. If your GP agrees to prescribe, the cost of your medication is the same as any other NHS prescription. If your GP does not, the private service can write you private prescriptions, which you will have to pay the full cost of.
+Costs for private services vary significantly, and you can find detailed information on costs on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
 
 ### Where can I learn more?
 
