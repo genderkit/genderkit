@@ -46,8 +46,9 @@ To keep the genitals held in this position, one or both of the following are nor
 
 Some people find it easier to use a specialised item of clothing called a "gaff" or "concealing underwear" designed specifically to hold the genitals in place. UK retailers include:
 
-- [StripItBack](https://www.etsy.com/uk/shop/Stripitback)
 - [Guiniveres](https://guiniveres.co.uk)
+- [StripItBack](https://www.etsy.com/uk/shop/Stripitback)
+- [Trans Shop UK](https://uktransshop.co.uk/collections/gaffs)
 
 Lingerie that functions as a gaff can also be purchased from places like:
 
