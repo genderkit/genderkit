@@ -26,6 +26,7 @@ If you are on a gender service waiting list or are a current gender service user
 - *NCTH East Of England*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Sheffield Porterbrook Clinic*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Welsh Gender Service*: [XIST at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
+- *West of England Specialist Gender Identity Clinic* (The Laurels, Exeter): [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 
 You can also access help:
 
