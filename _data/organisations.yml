@@ -159,9 +159,9 @@ organisations:
         manualDescription: 'NHS gender service for adults across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 32
-        date-wait-first-appointment: 'Jul ''21'
-        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
+        wait-first-appointment: 47
+        date-wait-first-appointment: 'Mar ''22'
+        source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
         wait-carried-over: 'yes'
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
@@ -220,16 +220,16 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 35
-        date-wait-first-appointment: 'Dec ''21'
+        wait-first-appointment: 32
+        date-wait-first-appointment: 'Mar ''22'
         source-wait-first-appointment: 'https://www.nottinghamshirehealthcare.nhs.uk/ncth-patient-updates'
         publishes-wait-hormones: true
         custom-wait-hormones: 3-4
-        custom-wait-total: 38-39
+        custom-wait-total: 35-36
         wait-carried-over: 'no'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2021-01-07'
+        updated: '2022-03-31'
         catchment: 'England GP only'
     -
         heading: 'NCTH EOE'
@@ -279,12 +279,12 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 49
-        date-wait-first-appointment: 'Dec ''21'
+        wait-first-appointment: 50
+        date-wait-first-appointment: 'Mar ''22'
         source-wait-first-appointment: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
         publishes-wait-hormones: true
-        wait-hormones: 35
-        date-wait-hormones: 'Dec ''21'
+        wait-hormones: 39
+        date-wait-hormones: 'Mar ''22'
         source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
         wait-carried-over: 'yes'
         source-wait-carried-over: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic'
@@ -423,7 +423,7 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 52
         source-wait-first-appointment: 'https://gic.nhs.uk/appointments/waiting-times/'
-        date-wait-first-appointment: 'Mar ''22'
+        date-wait-first-appointment: 'Apr ''22'
         publishes-wait-hormones: true
         wait-hormones: 18
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
@@ -511,16 +511,16 @@ organisations:
         heading: 'Kelly Psychology'
         name: 'Kelly Psychology'
         url: 'https://www.kellypsychology.co.uk/'
-        tags: ['Private healthcare', 'Gender Clinics', National, 'Under 18s']
+        tags: ['Private healthcare', 'Gender Clinics', 'Under 18s']
         image: kelly
         manualDescription: 'Private gender clinic for under 23s based in London'
         age-range: 'Under 23'
         wait-first-appointment: 2-3
         date-wait-first-appointment: 'Nov ''21'
-        publishes-wait-first-appointment: true
+        publishes-wait-first-appointment: false
         nhs-funding: false
-        referral-criteria: 'Allows self-referral'
-        updated: '2020-07-05'
+        referral-criteria: 'No referrals accepted'
+        updated: '2022-03-31'
     -
         heading: GenderGP
         name: GenderGP
