@@ -218,6 +218,8 @@ organisations:
         tags: [NHS, 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Nottingham'
         image: nhs
+        twitter: NottsCTH
+        twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 32
@@ -345,6 +347,8 @@ organisations:
         tags: [NHS, 'Gender Clinics', National, London]
         manualDescription: 'NHS gender service based in London offering services to people who are already on an NHS clinic waiting list.'
         image: transplus
+        twitter: 56TSoho
+        twitterID: '1161953279779192832'
         age-range: 17+
         nhs-funding: true
         pilot: true
@@ -366,6 +370,8 @@ organisations:
         tags: [NHS, 'Gender Clinics', National, Manchester]
         manualDescription: 'NHS gender service based in Manchester offering services to people who are already on an NHS clinic waiting list.'
         image: indigo
+        twitter: IndigoGender
+        twitterID: '1304064005636579331'
         age-range: 17+
         pilot: true
         nhs-funding: true
@@ -3266,3 +3272,63 @@ organisations:
         twitterDescription: 'Registered charity supporting the lives of trans+ adults across the UK. 🏳️‍⚧️ (we currently keep our Instagram as our main social feed @notaphaseorg)'
         lastTwitterPost: 'Wed Nov 17 00:17:04 +0000 2021'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1414685530890153992/OealH_Co_normal.jpg'
+    -
+        name: 'Trans Aid Bristol'
+        url: 'https://www.instagram.com/transaidbristol/'
+        twitter: TransAidBristol
+        twitterID: '1487138736634834949'
+        tags: ['Local groups', 'South West']
+    -
+        name: 'Stonewall Was A Riot'
+        url: 'https://www.stonewallwasariot.co.uk/'
+        twitter: WasARiot
+        twitterID: '1472363680213970950'
+        tags: [National]
+    -
+        name: 'Transgender Action Block'
+        url: 'https://linktr.ee/transactionbloc'
+        twitter: TransActionBloc
+        twitterID: '1341097715267203073'
+        tags: [National]
+    -
+        name: 'Trans Activism UK'
+        url: 'https://linktr.ee/TransActivismUK'
+        twitter: TransActivismUK
+        twitterID: '1425842334671982593'
+        tags: [National]
+    -
+        name: 'My Genderation'
+        url: 'https://linktr.ee/MyGenderation'
+        twitter: mygenderation
+        twitterID: '1455273656'
+        tags: [National]
+    -
+        name: 'Lancashire LGBT'
+        url: 'https://lancslgbt.org.uk/'
+        twitter: LancsLGBT
+        twitterID: '275705765'
+        tags: ['Local groups', 'North West']
+    -
+        name: 'Intercom Trust'
+        url: 'https://www.intercomtrust.org.uk/'
+        twitter: IntercomTrust
+        twitterID: '301394174'
+        tags: ['Local groups', 'South West']
+    -
+        name: 'Switchboard'
+        url: 'https://www.switchboard.org.uk/'
+        twitter: LGBTSwitchboard
+        twitterID: '285680273'
+        tags: ['Local groups', 'South East', Brighton]
+    -
+        name: 'Allsorts Youth Project'
+        url: 'https://www.allsortsyouth.org.uk/'
+        twitter: allsortsyouth
+        twitterID: '151034721'
+        tags: ['Local groups','South East']
+    -
+        name: 'LGBT Foundation'
+        url: 'https://www.lgbt.foundation/'
+        twitter: LGBTfdn
+        twitterID: '20374624'
+        tags: ['Local groups',Manchester, 'North West']
