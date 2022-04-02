@@ -17,6 +17,9 @@ items:
   - 
     title: Wet wipes 
     detail: These are helpful if you have been told you cannot bathe or shower after your surgery
+  -
+    title: Thermometer
+    detail: This will tell you if you have a fever and may have an infection that needs medical treatment
   - 
     title: Readiwipes
     detail: These disposable fabric cloths are useful for cleaning yourself or things with bodily fluids on them)
@@ -31,3 +34,6 @@ items:
   - 
     title: Anti-bacterial cleaning spray
     detail: This is useful for cleaning your bath to help avoid getting infections
+  -
+    title: Vitamin and mineral supplements
+    detail: Your surgeon may recommend supplements to ensure good health and healing during recovery

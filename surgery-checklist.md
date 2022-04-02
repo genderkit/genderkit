@@ -34,10 +34,14 @@ If you have trouble sleeping in a hospital ward you might want:
 
 {% include checklist checklist="sleeping" %}
 
-For **genital surgeries**, you might also want some of these:
+For **genital surgeries**, the following are also very useful to buy:
 
 {% include checklist checklist="genitalshopping" %}
 
-If you will need to **dilate** using an insertable medical device, you should also consider:
+If you will need to **dilate** using an insertable medical device, you should also consider buying:
 
 {% include checklist checklist="dilationshopping" %}
+
+For your **comfort** these might be helpful to you after many surgeries, but are not essential:
+
+{% include checklist checklist="comfort" %}
