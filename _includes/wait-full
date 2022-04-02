@@ -82,8 +82,8 @@
         {%- unless item.hide-wait-carried-over -%}
         <h4 id="transfers">Transfers</h4>
         <span class="waittime">
-        {%- if item.wait-carried-over -%}
-          {%- if item.wait-carried-over == "yes" -%}
+        {%- if item.wait-carried-over != nil -%}
+          {%- if item.wait-carried-over == "yes" or item.wait-carried-over == true -%}
             <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
           {%- else -%}
             <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
@@ -94,10 +94,10 @@
         </span>
         <p>are transfers from other NHS wait lists prioritised?</p>
         <p>
-        {%- if item.source-wait-carried-over -%}
+        {%- if item.source-wait-carried-over != nil -%}
           <a class="source" href="{{ item.source-wait-carried-over }}">(source)</a>{%- if item.date-wait-carried-over -%}&nbsp;- {{ item.date-wait-carried-over }}{%- endif %}
         {%- endif -%}
-        {%- if item.foi-wait-carried-over -%}
+        {%- if item.foi-wait-carried-over != nil -%}
           <a class="source" href="{{ item.foi-wait-carried-over }}">(requested)</a>
         {%- endif -%}
         </p>
