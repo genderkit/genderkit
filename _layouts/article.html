@@ -57,7 +57,7 @@ layout: page
       {% for item in info.effects %}
         {% if item.sometimes %}{% continue %}{% endif %}
         {% assign slug = item.category | slugify %}
-        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/" | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | append: "?1" | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/" | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
       {% assign sometimeseffects = info.effects | where: "sometimes", true %}
@@ -66,7 +66,7 @@ layout: page
       <ul class="effects">
       {% for item in sometimeseffects %}
         {% assign slug = item.category | slugify %}
-        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/" | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: slug | append: '.png' | absolute_url | append: "?1" | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i><a href="{{ '/category/' | append: slug | append: "/"  | relative_url }}">{{ item.category}}</a><p>{{ item.detail }}</p></li>
       {% endfor %}
       </ul>
       {% endunless %}
@@ -80,7 +80,7 @@ layout: page
         {% assign reqs = site.data.requirements[item.multi] | concat: reqs %}
       {% endfor %}
       {% for item in reqs %}
-        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: site.data.requirements[item.type].icon | append: '.png' | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i>
+        <li><i style="background-image: url({{ 'assets/images/icons/icon_' | append: site.data.requirements[item.type].icon | append: '.png' | absolute_url | append: "?1" | replace: '0.0.0.0', '127.0.0.1' }})" aria-hidden="true"></i>
 		{% if item.detail %} {{ item.detail | markdownify }}
 		{% else %} {{ site.data.requirements[item.type].text | markdownify }}
 		{% endif %}</li>
