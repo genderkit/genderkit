@@ -64,11 +64,12 @@ organisations:
         wait-carried-over: yes
         custom-wait-first-appointment: 24-28
         source-wait-first-appointment: 'https://gender.wales/'
+        date-wait-first-appointment: 'Jun ''22'
         publishes-wait-hormones: false
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
-        custom-wait-total: 24-30
-        updated: '2021-05-23'
+        custom-wait-total: 24-28
+        updated: '2022-06-10'
         catchment: 'Wales GP only'
     -
         heading: 'Belfast KOI'
@@ -159,14 +160,14 @@ organisations:
         manualDescription: 'NHS gender service for adults across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 47
-        date-wait-first-appointment: 'Mar ''22'
+        wait-first-appointment: 48
+        date-wait-first-appointment: 'Jun ''22'
         source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
         nhs-funding: true
-        updated: '2021-09-11'
+        updated: '2022-06-10'
         catchment: 'Scotland GP only'
         referral-criteria: 'Allows self-referral'
     -
@@ -178,7 +179,8 @@ organisations:
         manualDescription: 'NHS gender service for young people across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 32
+        wait-first-appointment: 36
+        date-wait-first-appointment: 'Jun ''22'
         source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
         nhs-funding: true
         hide-wait-hormones: true
@@ -196,9 +198,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 68
+        wait-first-appointment: 71
         source-wait-first-appointment: 'https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times'
-        date-wait-first-appointment: 'Feb ''22'
+        date-wait-first-appointment: 'Apr ''22'
         publishes-wait-hormones: true
         wait-hormones: 12
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in'
@@ -208,7 +210,7 @@ organisations:
         date-wait-carried-over: 'Mar ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2022-03-01'
+        updated: '2022-04-01'
         catchment: 'England GP only'
         extra-information: 'The service is currently focusing resources on people who have already had their first appointment, and while they are accepting new appointments, are not currently seeing patients for a first appointment and do not know when this will resume.'
     -
@@ -222,16 +224,16 @@ organisations:
         twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 32
-        date-wait-first-appointment: 'Mar ''22'
-        source-wait-first-appointment: 'https://www.nottinghamshirehealthcare.nhs.uk/ncth-patient-updates'
+        wait-first-appointment: 27
+        date-wait-first-appointment: 'May ''22'
+        source-wait-first-appointment: 'https://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
         publishes-wait-hormones: true
-        custom-wait-hormones: 3-4
-        custom-wait-total: 35-36
+        custom-wait-hormones: 3-6
+        custom-wait-total: 30-33
         wait-carried-over: no
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2022-03-31'
+        updated: '2022-06-12'
         catchment: 'England GP only'
         twitterDescription: 'The Nottingham Centre for Transgender Health is an NHS clinic for people who want support with their gender.'
         lastTwitterPost: 'Fri Apr 01 08:41:55 +0000 2022'
@@ -261,8 +263,8 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 40
-        date-wait-first-appointment: 'Jan ''22'
+        wait-first-appointment: 49
+        date-wait-first-appointment: 'May ''22'
         source-wait-first-appointment: 'https://www.nhft.nhs.uk/gic'
         publishes-wait-hormones: true
         wait-hormones: 8
@@ -309,11 +311,11 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 44
         source-wait-first-appointment: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-first-appointment: 'Feb ''22'
+        date-wait-first-appointment: 'Jun ''22'
         publishes-wait-hormones: true
-        wait-hormones: 13
+        wait-hormones: 16
         source-wait-hormones: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-hormones: 'Feb ''22'
+        date-wait-hormones: 'Jun ''22'
         nhs-funding: true
         referral-criteria: 'Allows self-referral'
         updated: '2022-03-01'
@@ -329,9 +331,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 44.5
+        wait-first-appointment: 49
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
-        date-wait-first-appointment: 'Oct ''21'
+        date-wait-first-appointment: 'Apr ''22'
         publishes-wait-hormones: true
         wait-hormones: 18
         date-wait-hormones: 'Sep ''21'
@@ -341,7 +343,7 @@ organisations:
         date-wait-carried-over: 'Dec ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2021-12-31'
+        updated: '2022-06-10'
         catchment: 'England GP only'
     -
         heading: 'London TransPlus'
@@ -418,9 +420,9 @@ organisations:
         nhs-funding: true
         referral-criteria: 'GP/CAMHS referral only'
         publishes-wait-first-appointment: true
-        wait-first-appointment: 30
+        wait-first-appointment: 31
         source-wait-first-appointment: 'https://gids.nhs.uk/how-long-wait-first-appointment-gids'
-        date-wait-first-appointment: 'Nov ''21'
+        date-wait-first-appointment: 'Feb ''22'
         hide-wait-hormones: true
         hide-wait-carried-over: true
         updated: '2022-03-01'
@@ -467,7 +469,7 @@ organisations:
         referral-criteria: 'Allows self-referral'
         update-date: '2020-07-05'
         catchment: 'Highland GP only'
-        extra-information: 'Wait time information is an estimated wait, not the time waited by patients currently being seen'
+        extra-information: 'Currently not processing new patients, but will accept them onto wait list. Wait time information is an estimated wait, not the time waited by patients currently being seen'
     -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss'
