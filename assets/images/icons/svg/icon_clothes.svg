@@ -1,1 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-miterlimit:10;stroke-width:16px;}</style></defs><title>icon</title><g id="clothes"><path class="cls-1" d="M298.29,259.19,472.5,333.85c12.33,5.29,8.56,23.68-4.79,23.68H52.35c-13.41,0-17.19-18.39-4.86-23.68L260,242.76"/><path class="cls-1" d="M313.83,159.5l-20.29-20.29a38.25,38.25,0,0,0-54.1,54.1L260,213.6v29.16"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: none;
+                stroke-width: 16px;
+            }
+
+            .line-thin {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 8px;
+            }
+
+            .line {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 20px;
+            }
+
+            .line-thick {
+                fill: none;
+                stroke: white;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 72px;
+            }
+
+            .line-extra-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="clothes">
+        <!-- <circle class="filled" cx="256" cy="256" r="256" /> -->
+        <!-- <rect class="filled" x="122" width="300" y="300" height="210" /> -->
+        <g transform="translate(0,0)">
+        <path class="line-thick" 
+            d="M298.29,259.19,472.5,333.85c12.33,5.29,8.56,23.68-4.79,23.68H52.35c-13.41,0-17.19-18.39-4.86-23.68L260,242.76" />
+        <path class="line-thick" transform="translate(0,-20)" d="M313.83,159.5l-20.29-20.29a38.25,38.25,0,0,0-54.1,54.1L260,213.6v49.16" />
+        
+        <path class="line"
+            d="M298.29,259.19,472.5,333.85c12.33,5.29,8.56,23.68-4.79,23.68H52.35c-13.41,0-17.19-18.39-4.86-23.68L260,242.76" />
+        <path class="line" transform="translate(0,-20)" d="M313.83,159.5l-20.29-20.29a38.25,38.25,0,0,0-54.1,54.1L260,213.6v49.16" />
+        </g>
+        <!-- <rect class="filled" x="106" width="300" y="280" height="160" /> 
+        <path class="line-thin" d="M180,280 v100" />
+        <path class="line-thin" d="M200,280 v100" stroke-dasharray="16" />
+        <path class="line-thin" d="M200,440 v60" />
+        <path class="line-thin" d="M220,440 v60" stroke-dasharray="16" />
+        <path class="line-thin" d="M106,380 h300" /> -->
+    </g>
+</svg>

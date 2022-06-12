@@ -9,9 +9,6 @@ explore:
     url: '/explore/titles/'
     name: Titles
   -
-    url: '/words/'
-    name: Words
-  -
     url: '/category/id-documents/'
     name: ID documents
   -
@@ -62,9 +59,6 @@ explore:
   -
     url: '/category/mood/'
     name: Mood
-  -
-    url: '/category/legal-and-financial/'
-    name: Legal
   -
     url: '/category/medical-documents/'
     name: Medical

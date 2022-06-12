@@ -3,9 +3,6 @@ duration: "The change is permanent. It is possible to reverse a GRC but this wou
 in-headings: "a GRC"
 effects:
   -
-    category: "Legal and financial"
-    detail: "Changes pension, prison and marriage rights"
-  -
     category: "ID documents"
     detail: "Changes birth and marriage certificates"
 requirements:

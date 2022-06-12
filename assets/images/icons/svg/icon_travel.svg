@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: none;
+            }
+            .filled-2 {
+                fill: black;
+                stroke: black;
+                stroke-width: 32px;
+            }
+
+            .line {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
+            }
+
+            .line-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 24px;
+            }
+
+            .line-extra-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <title>Travel</title>
+    <g id="icon" transform='translate(32 0) rotate(90 256 256)'>
+        <path class="filled-2" d="M256,64 c 16 0, 32 48, 32,64 l0,64 l128,72 c 8 8, 8 28, 16,56 l-96,-32l-48,0l0,128l32,32l0,16l-44,-8L256,464" />
+<!--         <path class="line" d="M288,416 c -4 32, -16 32, -32,64" />
+        <path class="line" d="M224,416 c 4 32, 16 32, 32,64" />
+        <path class="line" d="M256,400 l 0, 80" /> -->
+        <path class="filled-2" d="M256,64 c -16 0, -32 48, -32,64 l0,64 l-128,72 c -8 8, -8 28, -16,56 l96,-32l48,0l0,128l-32,32l0,16l44,-8L256,464" />
+        <path class="filled" d="M256,64 c 16 0, 32 48, 32,64 l0,64 l128,72 c 8 8, 8 28, 16,56 l-96,-32l-48,0l0,128l32,32l0,16l-44,-8L256,464" />
+<!--         <path class="line" d="M288,416 c -4 32, -16 32, -32,64" />
+        <path class="line" d="M224,416 c 4 32, 16 32, 32,64" />
+        <path class="line" d="M256,400 l 0, 80" /> -->
+        <path class="filled" d="M256,64 c -16 0, -32 48, -32,64 l0,64 l-128,72 c -8 8, -8 28, -16,56 l96,-32l48,0l0,128l-32,32l0,16l44,-8L256,464" />
+    </g>
+</svg>

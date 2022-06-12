@@ -1,1 +1,50 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1,.cls-2{fill:none;stroke:#231f20;}.cls-1{stroke-width:16px;}.cls-2{stroke-width:8px;}.cls-3{font-size:36px;fill:#231f20;font-family:Overpass-SemiBold, Overpass;font-weight:700;}</style></defs><title>icon</title><path class="cls-1" d="M128,458.57v-384L313,37.89c26.51-4.67,48,13,48,39.54v25.78"/><path class="cls-1" d="M336,478,128,459.8V75.8L336,94c26.51,2.32,48,25.69,48,52.2v288C384,460.71,362.51,480.32,336,478Z"/><path class="cls-2" d="M275,416.66l-40-3.5a8.93,8.93,0,0,1-8-8.7v-16a7.24,7.24,0,0,1,8-7.3l40,3.5a8.94,8.94,0,0,1,8,8.7v16A7.23,7.23,0,0,1,275,416.66Z"/><ellipse class="cls-2" cx="256" cy="399" rx="3.83" ry="4.18" transform="translate(-204.83 287.78) rotate(-43.75)"/><ellipse class="cls-2" cx="256" cy="279" rx="61.26" ry="66.86" transform="translate(-121.86 254.47) rotate(-43.75)"/><line class="cls-2" x1="256" y1="383" x2="256" y2="415"/><text class="cls-3" transform="matrix(1, 0.09, 0, 1, 172.46, 167.52)">IIIIIIIIIIIIIIII</text><line class="cls-2" x1="256" y1="215" x2="256" y2="343"/><path class="cls-2" d="M288.5,282.5C288.5,245.19,274,215,256,215"/><path class="cls-2" d="M220,274.5c0-32.89,16.1-59.5,36-59.5"/><path class="cls-2" d="M220,274.5c0,37.86,16.1,68.5,36,68.5"/><path class="cls-2" d="M288.5,282.5C288.5,315.94,274,343,256,343"/><path class="cls-2" d="M192.47,265.67c0,15.94,28.42,28.83,63.53,28.83"/><path class="cls-2" d="M320,284.6c0,5.47-28.62,9.9-64,9.9"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2 {
+                fill: none;
+                stroke: black;
+            }
+
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 12px;
+            }
+
+            .cls-1 {
+                stroke-width: 16px;
+            }
+
+            .cls-2 {
+                stroke-width: 8px;
+            }
+
+            .cls-3 {
+                font-size: 36px;
+                fill: black;
+                font-family: Overpass-SemiBold, Overpass;
+                font-weight: 700;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <path class="filled" d="M128,458.57v-384L313,37.89c26.51-4.67,48,13,48,39.54v25.78" />
+    <path class="filled"
+        d="M336,478,128,459.8V75.8L336,94c26.51,2.32,48,25.69,48,52.2v288C384,460.71,362.51,480.32,336,478Z" />
+    <path class="cls-2"
+        d="M275,416.66l-40-3.5a8.93,8.93,0,0,1-8-8.7v-16a7.24,7.24,0,0,1,8-7.3l40,3.5a8.94,8.94,0,0,1,8,8.7v16A7.23,7.23,0,0,1,275,416.66Z" />
+    <ellipse class="cls-2" cx="256" cy="399" rx="3.83" ry="4.18" transform="translate(-204.83 287.78) rotate(-43.75)" />
+    <ellipse class="cls-2" cx="256" cy="279" rx="61.26" ry="66.86"
+        transform="translate(-121.86 254.47) rotate(-43.75)" />
+    <line class="cls-2" x1="256" y1="383" x2="256" y2="415" /><text class="cls-3"
+        transform="matrix(1, 0.09, 0, 1, 172.46, 167.52)">IIIIIIIIIIIIIIII</text>
+    <line class="cls-2" x1="256" y1="215" x2="256" y2="343" />
+    <path class="cls-2" d="M288.5,282.5C288.5,245.19,274,215,256,215" />
+    <path class="cls-2" d="M220,274.5c0-32.89,16.1-59.5,36-59.5" />
+    <path class="cls-2" d="M220,274.5c0,37.86,16.1,68.5,36,68.5" />
+    <path class="cls-2" d="M288.5,282.5C288.5,315.94,274,343,256,343" />
+    <path class="cls-2" d="M192.47,265.67c0,15.94,28.42,28.83,63.53,28.83" />
+    <path class="cls-2" d="M320,284.6c0,5.47-28.62,9.9-64,9.9" />
+</svg>

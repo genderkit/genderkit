@@ -1,81 +1,95 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
     <defs>
         <style>
-            .filled
-            {
-                fill:#231f20;
-                stroke:none;
-                stroke:#231f20;
-                stroke-linecap:round;
-                stroke-width:8px;
+            .filled-contrast {
+                fill: black;
+                stroke: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-width: 8px;
             }
-            .line
-            {
-                fill:none;
-                stroke:#231f20;
-                stroke-linecap:round;
-                stroke-miterlimit:2;
-                stroke-width:16px;
+            
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-width: 12px;
             }
-            .line-thin
-            {
-                
-                fill:none;
-                stroke:#231f20;
-                stroke-linecap:round;
-                stroke-miterlimit:2;
-                stroke-width:8px;
+
+            .line {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
             }
-            .line-extra-thick
-            {
-                fill:none;
-                stroke:#231f20;
-                stroke-linecap:round;
-                stroke-miterlimit:2;
-                stroke-width:32px;
+
+            .line-thin {
+
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 8px;
             }
-            .text
-            {
-                font-size:300px;
-                font-weight:100;
-                fill:#231f20;
-                stroke:#231f20;
-                font-family:Overpass-Thin, Overpass;
-                letter-spacing:-0.08em;
+
+            .line-extra-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
             }
         </style>
     </defs>
-    <title>icon</title>
+    <title>Sanitary towel</title>
     <g id="icon">
 
-        <path class="line" d='
-            M346,192 
+        <path class="filled" d='
+            M300,192 
+            h 46
             c 24 24 64 0 64 24
             l0,104
             c 0 24 -40 0 -64 24
-        '/>
+            h -46
+        ' />
 
-        <path class="line" d='
-            M166,192 
+        <path class="filled" d='
+            M200,192 
+            h-34
             c -24 24 -64 0 -64 24
             l0,104
             c 0 24 40 0 64 24
-        '/>
-
-        <!-- <path class="line-thin" stroke-dasharray="16" d='
-            M224,160 
-            a 360 360 0 0 1 0 192
-            a 32 32 0 0 0 64 0
-            a 360 360 0 0 1 0 -192
-            a 32 32 0 0 0 -64 0
-        '/> -->
+            h34
+        ' />
 
         <path class="filled" d='
+            M160,416 
+            a 96 64 0 0 0 192 0
+            a 256 256 0 0 0 -4 -32
+            a 700 700 0 0 1 0 -256
+            a 256 256 0 0 0 4 -32
+            a 96 64 0 0 0 -192 0
+            a 256 256 0 0 0 4 32
+            a 700 700 0 0 1 0 256
+            a 256 256 0 0 0 -4 32
+        ' />
+
+        <path class="filled-contrast" d='
             M256,208
             c 0 32 24 40 24 64
             a 24 24 0 0 1 -48 0
             c 0 -24 24 -32 24 -64
-        '/>
+        ' />
 
         <path class="line-thin" stroke-dasharray="16" d='
             M184,400 
@@ -87,18 +101,8 @@
             a 256 256 0 0 0 4 32
             a 512 512 0 0 1 0 224
             a 256 256 0 0 0 -4 32
-        '/>
-
-        <path class="line" d='
-            M160,416 
-            a 96 64 0 0 0 192 0
-            a 256 256 0 0 0 -4 -32
-            a 700 700 0 0 1 0 -256
-            a 256 256 0 0 0 4 -32
-            a 96 64 0 0 0 -192 0
-            a 256 256 0 0 0 4 32
-            a 700 700 0 0 1 0 256
-            a 256 256 0 0 0 -4 32
         ' />
+
+        
     </g>
 </svg>

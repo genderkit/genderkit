@@ -1,1 +1,37 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1,.cls-2{fill:none;stroke:#231f20;}.cls-1{stroke-width:16px;}.cls-2{stroke-width:8px;}</style></defs><title>icon</title><path class="cls-1" d="M96,64,275.42,76.82A48,48,0,0,1,320,124.69V353.5a16,16,0,0,0,9.25,14.5c17.57,8.15,56.68,24.88,86.75,27.56,11.4,1,5,23,0,32C399.88,456.81,368,432,304,432c-13.89,0-46,22.52-64,0-32-40,24-48,8-88s-33.72-76.26-32-112a481,481,0,0,1,8-64L96,184"/><line class="cls-2" x1="291" y1="168" x2="291.5" y2="185.5"/><line class="cls-2" x1="268" y1="185.5" x2="273" y2="198.33"/><line class="cls-2" x1="248" y1="213" x2="244.33" y2="226"/><line class="cls-2" x1="278.33" y1="224" x2="281.03" y2="239.31"/><line class="cls-2" x1="291" y1="261.03" x2="291.25" y2="284.33"/><line class="cls-2" x1="264" y1="263" x2="259.18" y2="286"/><line class="cls-2" x1="281.49" y1="319.05" x2="285" y2="331"/><line class="cls-2" x1="183" y1="139" x2="205" y2="137"/><line class="cls-2" x1="172.51" y1="109" x2="188" y2="109"/><line class="cls-2" x1="121" y1="132" x2="150" y2="131"/><line class="cls-2" x1="111" y1="94" x2="131" y2="95"/><line class="cls-2" x1="214" y1="94.5" x2="237" y2="99"/><line class="cls-2" x1="145" y1="153" x2="167" y2="148"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 16px;
+            }
+
+            .line-thin {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 8px;
+            }
+        </style>
+    </defs>
+    <title>Body hair</title>
+    <path class="filled"
+        d="M96,64,275.42,76.82A48,48,0,0,1,320,124.69V353.5a16,16,0,0,0,9.25,14.5c17.57,8.15,56.68,24.88,86.75,27.56,11.4,1,5,23,0,32C399.88,456.81,368,432,304,432c-13.89,0-46,22.52-64,0-32-40,24-48,8-88s-33.72-76.26-32-112a481,481,0,0,1,8-64L96,184" />
+    <line class="line-thin" x1="291" y1="168" x2="291.5" y2="185.5" />
+    <line class="line-thin" x1="268" y1="185.5" x2="273" y2="198.33" />
+    <line class="line-thin" x1="248" y1="213" x2="244.33" y2="226" />
+    <line class="line-thin" x1="278.33" y1="224" x2="281.03" y2="239.31" />
+    <line class="line-thin" x1="291" y1="261.03" x2="291.25" y2="284.33" />
+    <line class="line-thin" x1="264" y1="263" x2="259.18" y2="286" />
+    <line class="line-thin" x1="281.49" y1="319.05" x2="285" y2="331" />
+    <line class="line-thin" x1="183" y1="139" x2="205" y2="137" />
+    <line class="line-thin" x1="172.51" y1="109" x2="188" y2="109" />
+    <line class="line-thin" x1="121" y1="132" x2="150" y2="131" />
+    <line class="line-thin" x1="111" y1="94" x2="131" y2="95" />
+    <line class="line-thin" x1="214" y1="94.5" x2="237" y2="99" />
+    <line class="line-thin" x1="145" y1="153" x2="167" y2="148" />
+</svg>

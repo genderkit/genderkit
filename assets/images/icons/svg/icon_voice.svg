@@ -1,1 +1,50 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-miterlimit:10;stroke-width:16px;}</style></defs><title>icon</title><path class="cls-1" d="M357,348v64.72L283,348H158c-50.6,0-92-41.4-92-92V185c0-50.6,41.4-92,92-92H357c50.6,0,92,41.4,92,92v71C449,306.6,407.6,348,357,348Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 14px;
+                stroke-miterlimit: 2;
+                stroke-linecap: round;
+            }
+
+            .line {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
+            }
+
+            .line-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 24px;
+            }
+
+            .line-extra-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <title>Voice</title>
+    <g id="icon">
+        <path class="filled" d="M352,384l32,96l-128,-96h-96a128,160,0,0,1,0,-320h192a128,160,0,0,1,1,320Z" />
+    </g>
+</svg>

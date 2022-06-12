@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .line
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+            }
+            .text
+            {
+                font-size:320px;
+                font-weight:400;
+                fill:#231f20;
+                stroke:#231f20;
+                font-family:Overpass-Thin, Overpass;
+                letter-spacing:-0.08em;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="icon">
+        <circle class="line" cx="256" cy="256" r="192" />
+        <text class="text" x="116" y="372">17</text>
+    </g>
+</svg>

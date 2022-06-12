@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .line
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="icon">
+        
+        <circle class="line" cx="256" cy="208" r="92" />
+
+        <path class="line" d="M256,304 L256,432" />
+        <path class="line" d="M192,368 L320,368" />
+
+        <path class="line" d="M400,64 L324,140" />
+        <path class="line" d="M400,64 L304,64" />
+        <path class="line" d="M400,160 L400,64" />
+
+    </g>
+</svg>

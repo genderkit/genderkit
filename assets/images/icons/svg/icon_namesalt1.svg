@@ -1,1 +1,53 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1,.cls-2,.cls-3{fill:none;}.cls-1,.cls-2{stroke:#000;}.cls-1{stroke-linecap:square;stroke-width:16px;}.cls-2,.cls-3{stroke-linecap:round;stroke-miterlimit:10;stroke-width:8px;}.cls-3{stroke:#231f20;}</style></defs><title>icon</title><rect class="cls-1" x="64" y="192" width="384" height="256" rx="48" ry="48"/><rect class="cls-1" x="112" y="216" width="40" height="40" rx="20" ry="20"/><rect class="cls-1" x="352" y="216" width="40" height="40" rx="20" ry="20"/><polygon class="cls-1" points="56 24 120 232 136 232 72 24 56 24"/><path class="cls-2" d="M192,326.58c0,19.26-11.71,41.42-26.16,41.42s-26.16-22.16-26.16-41.42,11.71-28.34,26.16-28.34S192,307.32,192,326.58Z"/><path class="cls-3" d="M114.28,400.35a13.07,13.07,0,0,1,13-14.42l5.11-.55c8.43,0,19.62-6.83,19.62-15.26"/><path class="cls-3" d="M178.18,370.12c0,8.43,11.2,15.26,19.62,15.26l5.12.55a13.07,13.07,0,0,1,13,14.42"/><line class="cls-2" x1="256" y1="320" x2="368" y2="320"/><line class="cls-2" x1="256" y1="344" x2="320" y2="344"/><line class="cls-2" x1="256" y1="368" x2="352" y2="368"/><polygon class="cls-1" points="448 20 384 228 368 228 432 20 448 20"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 16px;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+            }
+
+            .cls-1,
+            .cls-2,
+            .cls-3 {
+                fill: none;
+            }
+
+            .cls-1,
+            .cls-2 {
+                stroke: #000;
+            }
+
+            .cls-1 {
+                stroke-linecap: square;
+                stroke-width: 16px;
+            }
+
+            .cls-2,
+            .cls-3 {
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 8px;
+            }
+
+            .cls-3 {
+                stroke: black;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <rect class="filled" x="64" y="192" width="384" height="256" rx="48" ry="48" />
+    <rect class="cls-1" x="112" y="216" width="40" height="40" rx="20" ry="20" />
+    <rect class="cls-1" x="352" y="216" width="40" height="40" rx="20" ry="20" />
+    <polygon class="cls-1" points="56 24 120 232 136 232 72 24 56 24" />
+    <path class="cls-2"
+        d="M192,326.58c0,19.26-11.71,41.42-26.16,41.42s-26.16-22.16-26.16-41.42,11.71-28.34,26.16-28.34S192,307.32,192,326.58Z" />
+    <path class="cls-3" d="M114.28,400.35a13.07,13.07,0,0,1,13-14.42l5.11-.55c8.43,0,19.62-6.83,19.62-15.26" />
+    <path class="cls-3" d="M178.18,370.12c0,8.43,11.2,15.26,19.62,15.26l5.12.55a13.07,13.07,0,0,1,13,14.42" />
+    <line class="cls-2" x1="256" y1="320" x2="368" y2="320" />
+    <line class="cls-2" x1="256" y1="344" x2="320" y2="344" />
+    <line class="cls-2" x1="256" y1="368" x2="352" y2="368" />
+    <polygon class="cls-1" points="448 20 384 228 368 228 432 20 448 20" />
+</svg>

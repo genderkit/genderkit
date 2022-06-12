@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled
+            {
+                fill:#231f20;
+                stroke:none;
+            }
+            .line
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+            }
+            .line-thick
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:24px;
+            }
+            .line-extra-thick
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:32px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="icon">
+        
+        <circle class="filled" cx="128" cy="120" r="32" />
+        <ellipse class="filled" cx="128" cy="240" rx="40" ry="80" />
+
+        <path class="line" d="M64,286 A48 90 0 0 1 112 168" />
+        <path class="line" d="M192,286 A48 90 0 0 0 144 168" />
+
+        <path class="line" d="M104,458 L104,270" />
+        <path class="line" d="M152,458 L152,270" />
+
+
+        <circle class="filled" cx="384" cy="96" r="32" />
+        <ellipse class="filled" cx="384" cy="224" rx="48" ry="86" />
+
+        <path class="line-thick" d="M320,270 A48 90 0 0 1 368 152" />
+        <path class="line-thick" d="M448,270 A48 90 0 0 0 400 152" />
+
+        <path class="line-extra-thick" d="M360,450 L360,270" />
+        <path class="line-extra-thick" d="M408,450 L408,270" />
+
+        <path class="line" d="M224,96 L224,450" />
+        <path class="line" d="M208,112 L224,96 L240,112" />
+        <path class="line" d="M208,438 L224,454 L240,438" />
+
+        <path class="line" d="M408,360 L480,360" />
+        <path class="line" d="M440,344 L424,360 L440,376" />
+
+        <path class="line" d="M360,360 L288,360" />
+        <path class="line" d="M328,344 L344,360 L328,376" />
+
+    </g>
+</svg>

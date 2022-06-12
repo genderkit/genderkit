@@ -1,1 +1,25 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1{font-size:400px;font-weight:100;fill:#231f20;stroke:#231f20;font-family:Overpass-Thin, Overpass;letter-spacing:-0.08em;}</style></defs><title>icon</title><text class="cls-1" transform="translate(-8 384)">Ms.</text></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: none;
+                stroke-width: 16px;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+            }
+
+            .cls-1 {
+                font-size: 328px;
+                font-weight: 200;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.075em;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <circle class="filled" cx="256" cy="256" r="256" />
+    <text class="cls-1" transform="translate(52 372)">Ms.</text>
+</svg>

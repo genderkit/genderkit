@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled
+            {
+                fill:#231f20;
+                stroke:none;
+            }
+            .line
+            {
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:24px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="icon">
+
+        <circle class="filled" cx="112" cy="184" r="32" />
+        <ellipse class="filled" cx="112" cy="300" rx="40" ry="72" />
+
+        <path class="line" d="M60,346 a48 88 0 0 1 52 -106" />
+        <path class="line" d="M164,346 a48 88 0 0 0 -52 -106" />
+        
+        <path class="line" d="M88,450 L88,270" />
+        <path class="line" d="M136,450 L136,270" />
+
+        
+        <circle class="filled" cx="256" cy="139" r="32" />
+        <ellipse class="filled" cx="256" cy="262" rx="40" ry="78" />
+
+        <path class="line" d="M208,308 a48 88 0 0 1 32 -106" />
+        <path class="line" d="M304,308 a48 88 0 0 0 -32 -106" />
+
+        <path class="line" d="M236,450 L236,270" />
+        <path class="line" d="M276,450 L276,270" />
+
+
+        <circle class="filled" cx="400" cy="96" r="32" />
+        <ellipse class="filled" cx="400" cy="224" rx="48" ry="86" />
+
+        <path class="line" d="M352,270 a48 90 0 0 1 32 -118" />
+        <path class="line" d="M448,270 a48 90 0 0 0 -32 -118" />
+
+        <path class="line" d="M376,450 L376,270" />
+        <path class="line" d="M424,450 L424,270" />
+
+    </g>
+</svg>

@@ -1,25 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
     <defs>
         <style>
-            .line{
-                fill:none;
-                stroke:#231f20;
-                stroke-linecap:round;
-                stroke-miterlimit:10;
-                stroke-width:16px;
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 12px;
             }
-            .line-thick{
-                fill:none;
-                stroke:#231f20;
-                stroke-linecap:round;
-                stroke-miterlimit:10;
-                stroke-width:24px;
+
+            .line-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-linejoin: round;
+                stroke-width: 36px;
             }
         </style>
     </defs>
-    <title>icon</title>
+    <title>Ticked checkbox</title>
     <g id="clothes">
-        <rect class="line" x='96' y='96' width='320' height='320' rx='16' />
+        <rect class="filled" x='96' y='96' width='320' height='320' rx='16' />
         <path class="line-thick" d="M168,280 L240,352 L352,160" />
     </g>
 </svg>

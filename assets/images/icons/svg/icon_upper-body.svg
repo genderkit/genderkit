@@ -1,1 +1,26 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-linecap:round;stroke-miterlimit:10;stroke-width:16px;}</style></defs><title>icon</title><path class="cls-1" d="M368.23,224s-24,110.52-24,160c0,16.49,8,64,8,64"/><line class="cls-1" x1="256.23" y1="192" x2="256.23" y2="352"/><path class="cls-1" d="M304.23,64c0,30.93,41.07,56,72,56L395,122A48,48,0,0,1,442.74,175L414.23,448h-316L69.72,175A48,48,0,0,1,117.46,122l18.77-2c30.93,0,72-25.07,72-56"/><path class="cls-1" d="M144.23,224s24,110.52,24,160c0,16.49-8,64-8,64"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 12px;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+            }
+            .cls-1 {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 16px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <path class="filled"
+        d="M304.23,64c0,30.93,41.07,56,72,56L395,122A48,48,0,0,1,442.74,175L414.23,448h-316L69.72,175A48,48,0,0,1,117.46,122l18.77-2c30.93,0,72-25.07,72-56" />
+    <path class="cls-1" d="M368.23,224s-24,110.52-24,160c0,16.49,8,64,8,64" />
+    <line class="cls-1" x1="256.23" y1="192" x2="256.23" y2="352" />
+    <path class="cls-1" d="M144.23,224s24,110.52,24,160c0,16.49-8,64-8,64" />
+</svg>

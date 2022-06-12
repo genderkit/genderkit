@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .scotland{
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+                stroke-dasharray: 1 32;
+            }
+            .wales{
+                fill:#231f20;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+            }
+            .n-ireland{
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+                stroke-dasharray: 1 32;
+            }
+            .england{
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+                stroke-opacity: 1;
+                stroke-dasharray: 1 32;
+            }
+            .eire{
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+                stroke-opacity: 1;
+                stroke-dasharray: 1 32;
+            }
+            .cls-2{
+                fill:none;
+                stroke:#231f20;
+                stroke-linecap:round;
+                stroke-miterlimit:2;
+                stroke-width:16px;
+                stroke-opacity: 1;
+                stroke-dasharray: 1 32;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="clothes">
+        <path class="n-ireland" d="M208,272 L192,242 L176,248 L160,272 L192,288 L208,272" />
+
+        <path class="scotland" d="M272,70 L268,64 L276,60 L272,70" />
+
+        <path class="scotland" d="M192,112 L200,96 L176,104 L160,160 L192,112" />
+
+        <path class="england" d="M272,320 L264,320 L264,380 L272,380 L272,400 L240,416 L224,444 L240,440 L256,440 L272,432 L336,432 L384,416 L384,408 L368,400 L384,368 A16 16 0 0 0 356,336 A8 8 0 0 0 360,312 L352,288 L320,256 L304,224 L256,256 L272,288 L272,312" />
+
+        <path class="eire" d="M176,248 L168,240 L144,248 L144,288 L96,288 L96,320 L128,320 L88,368 L96,392 L128,384 L160,368 L192,368 L200,320 L192,288" />
+
+        <path class="scotland" d="M304,224 L272,200 L288,192 L304,128 L256,128 L272,90 L224,96 L216,128 L192,144 L208,160 L200,192 L238,224 L230,256 L256,256 L304,224" />
+
+        <path class="wales" d="M272,400 L272,380 L264,380 L264,320 L272,320 L272,312 L240,320 A32 32 0 0 1 224 380 L272,400" />
+    </g>
+</svg>

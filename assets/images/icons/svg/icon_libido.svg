@@ -1,1 +1,48 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1{fill:none;}.cls-1,.cls-2{stroke:#231f20;stroke-linecap:round;stroke-miterlimit:10;stroke-width:16px;}</style></defs><title>icon</title><path class="cls-1" d="M224,328V96a32.09,32.09,0,0,1,32-32h0a32.09,32.09,0,0,1,32,32V328"/><path class="cls-1" d="M288,328.56a64,64,0,1,1-64,0"/><circle class="cls-2" cx="256" cy="384.28" r="24"/><line class="cls-1" x1="256" y1="384.28" x2="256" y2="192.28"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+
+            .filled-white {
+                fill: white;
+                stroke: black;
+                stroke-width: 12px;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-linejoin: round;
+            }
+
+            .line-white {
+                fill: none;
+                stroke: white;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
+            }
+
+            .filled {
+                fill: black;
+                stroke: none;
+            }
+
+            .line {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
+            }
+
+            .line-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 24px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <path class="filled-white" d="M216,332v-240a40,40,0,0,1,40-40h0a40,40,0,0,1,40,40v240a80,80,0,1,1-80,0 Z" />
+    <circle class="filled" cx="256" cy="400" r="48" />
+    <line class="line-thick" x1="256" y1="384" x2="256" y2="192" />
+</svg>

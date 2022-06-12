@@ -1,1 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><style>.cls-1,.cls-2{fill:none;stroke:#231f20;stroke-linecap:round;stroke-miterlimit:10;}.cls-1{stroke-width:16px;}.cls-2{stroke-width:8px;}</style></defs><title>icon</title><g id="accessories"><line class="cls-1" x1="285.98" y1="128" x2="448" y2="128"/><line class="cls-1" x1="64" y1="128" x2="134" y2="128"/><line class="cls-1" x1="64" y1="384" x2="64" y2="128"/><line class="cls-1" x1="448" y1="170.71" x2="448" y2="128"/><line class="cls-1" x1="448" y1="385.33" x2="448" y2="213.6"/><path class="cls-1" d="M448,384c0,17.69-28.62,32-64,32H128c-35.37,0-64-14.31-64-32"/><line class="cls-1" x1="448" y1="128" x2="488" y2="184"/><line class="cls-1" x1="480" y1="224" x2="488" y2="184"/><path class="cls-1" d="M488,184s-72-25-132.5-40.5c-58.66-15-99.35-20.66-131.75-26.25-29.06-5-78.7-2.76-107.78,2.09L64,128"/><path class="cls-1" d="M480,224s-118.18-39.49-174.75-56C183,132.33,134,128,134,128"/><line class="cls-1" x1="394.59" y1="200.46" x2="366.59" y2="190.46"/><line class="cls-1" x1="414.87" y1="153" x2="386.21" y2="144.65"/><line class="cls-1" x1="386.21" y1="144.65" x2="366.59" y2="190.46"/><path class="cls-1" d="M448,288c0,17.69-28.62,32-64,32H128c-35.37,0-64-14.31-64-32"/><line class="cls-2" x1="95.99" y1="192" x2="367.99" y2="192"/><path class="cls-2" d="M115,208h-4.93a.88.88,0,0,1-.87-1.05l2.89-14.46"/><line class="cls-2" x1="112.09" y1="192.49" x2="115" y2="208"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+
+            .filled {
+                fill: white;
+                stroke: none;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 16px;
+            }
+
+            .filled-2 {
+                fill: bisque;
+                stroke: red;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 16px;
+            }
+
+            .cls-1,
+            .cls-2 {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-1 {
+                stroke-width: 16px;
+            }
+
+            .cls-2 {
+                stroke-width: 8px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <g id="accessories">
+        
+        <path class="filled" d="M64,128h384v256c0,17.69-28.62,32-64,32H128c-35.37,0-64-14.31-64-32v-256Z" />
+
+        <line class="cls-1" x1="286" y1="128" x2="448" y2="128" />
+        <line class="cls-1" x1="64" y1="128" x2="134" y2="128" />
+        <line class="cls-1" x1="64" y1="384" x2="64" y2="128" />
+        <line class="cls-1" x1="448" y1="170.71" x2="448" y2="128" />
+        <line class="cls-1" x1="448" y1="385.33" x2="448" y2="213.6" />
+        <path class="cls-1" d="M448,384c0,17.69-28.62,32-64,32H128c-35.37,0-64-14.31-64-32" /> -->
+        
+        <line class="cls-1" x1="448" y1="128" x2="488" y2="184" />
+        <line class="cls-1" x1="480" y1="224" x2="488" y2="184" />
+        
+        <path class="cls-1" d="M488,184s-72-25-132.5-40.5c-58.66-15-99.35-20.66-131.75-26.25-29.06-5-78.7-2.76-107.78,2.09L64,128" />
+
+        <path class="cls-1" d="M480,224s-118.18-39.49-174.75-56C183,132.33,134,128,134,128" />
+        <line class="cls-1" x1="394.59" y1="200.46" x2="366.59" y2="190.46" />
+        <line class="cls-1" x1="414.87" y1="153" x2="386.21" y2="144.65" />
+        <line class="cls-1" x1="386.21" y1="144.65" x2="366.59" y2="190.46" />
+        <path class="cls-1" d="M448,288c0,17.69-28.62,32-64,32H128c-35.37,0-64-14.31-64-32" />
+        <line class="cls-2" x1="95.99" y1="192" x2="367.99" y2="192" />
+        <path class="cls-2" d="M115,208h-4.93a.88.88,0,0,1-.87-1.05l2.89-14.46" />
+        <line class="cls-2" x1="112.09" y1="192.49" x2="115" y2="208" />
+    </g>
+</svg>

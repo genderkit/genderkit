@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+.filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 16px;
+            }
+
+            .line-thin, .line, .line-thick, .line-extra-thick
+            {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-linejoin: round;
+            }
+
+            .line-thin {
+                stroke-width: 8px;
+            }
+
+            .line {
+                stroke-width: 32px;
+            }
+
+            .line-thick {
+                stroke-width: 24px;
+            }
+
+            .line-extra-thick {
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <title>Neighbourhood</title>
+    <g id="icon">
+        <path class="filled" d="M64,384 m32,0 l0,-160 l-32,0 l48,-48 l0,-80 l48,0 l0,32 l32,-32 l128,128 l-32,0 l0,160 Z" />
+        <path class="line-thin" d="M256,96 m-16,16 l16,-16 l128,128 l-32,0 l0,160" />
+        <path class="line-thin" d="M320,96 m-16,16 l16,-16 l128,128 l-32,0 l0,160" />
+    </g>
+</svg>

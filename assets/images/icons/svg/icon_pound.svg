@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 16px;
+            }
+
+            .line-thin {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 8px;
+            }
+
+            .line {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
+            }
+
+            .line-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 24px;
+            }
+
+            .line-extra-thick {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: black;
+                stroke: black;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <title>Pound coin</title>
+    <g id="icon">
+        <circle class="filled" cx="256" cy="256" r="192" />
+        <circle class="line-thin" cx="256" cy="256" r="172" stroke-dasharray="12" />
+        <path d="M 200 352 v -144 a 64 64 0 0 1 128 0" class="line-thick" />
+        <path d="M 184 240 h 96" class="line" />
+        <path d="M 184 272 h 96" class="line" />
+        <path d="M 172 352 h 156" class="line-thick" />
+    </g>
+</svg>
