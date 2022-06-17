@@ -1,0 +1,27 @@
+items:
+  - 
+    name: 'hysterectomy'
+    url: '_articles/hysterectomy.md'
+    icon: 'cross.svg'
+  - 
+    name: 'orchidectomy'
+    url: '_articles/orchidectomy.md'
+    icon: 'cross.svg'
+  - 
+    name: 'breast reduction'
+    url: '_articles/breast-reduction.md'
+    icon: 'cross.svg'
+  - 
+    name: 'breast augmentation'
+    url: '_articles/breast-augmentation.md'
+    icon: 'cross.svg'
+  - 
+    name: 'thyroid chondroplasty'
+    url: '_articles/thyroid-chondroplasty.md'
+    icon: 'cross.svg'
+  - 
+    name: 'voice surgeries'
+    icon: 'cross.svg'
+  - 
+    name: 'facial surgeries'
+    icon: 'cross.svg'

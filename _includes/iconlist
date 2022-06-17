@@ -1,0 +1,21 @@
+<div class="iconlistcontainer">
+  {%- assign slug = page.title | slugify -%}
+  {%- if include.iconlist -%}
+    {%- assign data = site.data.iconlists[include.iconlist] -%}
+  {%- else -%}
+    {%- assign data = site.data.iconlists[slug] -%}
+  {%- endif -%}
+<!-- -->  
+  {%- if data.title -%}<h3 id="{{ data.title | slugify }}">{{ data.title }}</h3>{%- endif -%}
+  {%- if data.items -%}
+    <ul class="iconlist">
+    {%- for item in data.items -%}
+      {%- if item.url -%}
+        <li><img class="inlineIcon" src="/assets/images/{{item.icon}}" /><a href="{% link {{ item.url }} %}">{{ item.name | markdownify}}</a></li>
+      {%- else -%}
+      <li><img class="inlineIcon" src="/assets/images/{{item.icon}}" />{{ item.name | markdownify}}</li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>

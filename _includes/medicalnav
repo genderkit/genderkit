@@ -1,0 +1,6 @@
+<ul>
+{% for item in site.data.medical.nav %}
+    {%- assign url = item.url -%}
+	<li><a href="{% link {{ url }} %}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>

@@ -1,0 +1,25 @@
+items:
+  - 
+    name: 'periareolar mastectomy'
+    url: '_articles/periareolar-mastectomy.md'
+    icon: 'tick.svg'
+  - 
+    name: 'double-incision mastectomy'
+    url: '_articles/double-incision-mastectomy.md'
+    icon: 'tick.svg'
+  - 
+    name: 'vaginoplasty'
+    url: '_articles/vaginoplasty.md'
+    icon: 'tick.svg'
+  - 
+    name: 'labiaplasty'
+    url: '_articles/labiaplasty.md'
+    icon: 'tick.svg'
+  - 
+    name: 'metoidioplasty'
+    url: '_articles/metoidioplasty.md'
+    icon: 'tick.svg'
+  - 
+    name: 'phalloplasty'
+    url: '_articles/phalloplasty.md'
+    icon: 'tick.svg'
