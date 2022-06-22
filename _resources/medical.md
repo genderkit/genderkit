@@ -20,7 +20,7 @@ feature:
    Read [our page on how to get a referral]({% link _resources/referral-appointment.md %}) to find out how to get on the wait list. If you’d like hormone therapy, you may want to ask your GP for a [bridging prescription](https://www.transactual.org.uk/bridging-prescriptions) at this point.
 4. *Have your first appointment*
 
-   Read [our first appointments at gender services page]({% link _resources/initial-appointment.md %}) so you know what to expect when you get to the end of the waitlist.
+   Read [our first appointments at gender services page]({% link _resources/initial-appointment.md %}) so you know what to expect when you get to the end of the waiting list.
 5. *Have your second appointment*
 
    Over 18s are normally offered hormones after their second appointment. If you are using a private service, *shared care* with your GP would normally start after this appointment.
