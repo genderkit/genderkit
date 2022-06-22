@@ -13,13 +13,13 @@ The following surgeries are funded by the NHS for people with a [formal diagnosi
 
 {% include iconlist iconlist="surgery1" %}
 
+There is a considerable wait to access medical support from the NHS. If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), you can pay for these surgeries yourself, which can mean a shorter wait.
+
 The following surgeries are not normally funded by the NHS gender pathway:
 
 {% include iconlist iconlist="surgery2" %}
 
 While funding for these surgeries is not normally provided by the NHS gender services, approval for funding can sometimes be given on an individual basis. 
-
-If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), you can pay to have these surgeries privately.
 
 ### How do I access medical support?
 
