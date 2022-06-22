@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" x="0px" y="0px">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-miterlimit: 2;
+                stroke-width: 16px;
+            }
+
+            .text-superbold {
+                font-size: 400px;
+                font-weight: 300;
+                fill: white;
+                stroke: white;
+                stroke-width: 48px;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                font-family: Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <circle cx="256" cy="256" r="255" style="fill: #9980ff"/>
+    <text class="text-superbold" text-anchor="middle" x="256" y="396">6</text>
+</svg>

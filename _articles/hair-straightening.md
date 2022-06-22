@@ -36,9 +36,9 @@ To straighten your hair using hair straighteners:
 5. *Straighten each section in strands*
 
    Take a strand of hair about 2 to 5cm wide and about 1cm thick. Holding the hair taut, run the straighteners smoothly along the length of the hair. Repeat this until you have straightened all the hair in one section, and then move on to the next section.
-6. *If you have hairspray, you can apply it once you are done*
+6. *Apply hairspray*
 
-   Hairspray will make the straightening last longer.
+   Once you are done, apply hairspray if you have it, which will make the straightening last longer.
 7. *Unplug the straighteners*
 
    Place the straighteners somewhere away from anything flammable while they cool. Keep them out of reach of children.

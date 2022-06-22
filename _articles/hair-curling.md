@@ -42,9 +42,9 @@ To curl your hair using curling tongs:
 5. *Curl each section in turn*
 
    Wrap the hair around the iron and holding it there for about ten seconds before releasing it. Untie or unclip each section as you work on it.
-6. *If you have hairspray, you can apply it once you are done*
+6. *Apply hairspray*
 
-   Hairspray will make the curls last longer.
+   Once you are done, apply hairspray if you have it - this will make the curls last longer.
 7. *Unplug the curling tongs*
 
    Place the tongs somewhere away from anything flammable while they cool. Keep them out of reach of children.
