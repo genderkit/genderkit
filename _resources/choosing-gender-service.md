@@ -4,6 +4,12 @@ title: Choosing a gender service
 description: Tips on things to consider when choosing a UK gender clinic
 ---
 
+### UK gender services
+
+We have a page with a full [list of UK gender services]({% link _resources/gender-services.md %}) you can use to work out which options are available to you. Due to the waits for NHS services, many people opt to be referred to *both* a private and NHS service.
+
+### Things to consider
+
 To ensure that you choose an appropriate service, it is important to investigate:
 
 {% include checklist checklist="genderservices" %}

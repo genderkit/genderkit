@@ -14,7 +14,7 @@ feature:
    Read [our formal diagnosis page]({% link _articles/formal-diagnosis.md %}) to find out if you need to use a medical service. 
 2. *Choose which services to use*
 
-   Read [our tips on things to consider when choosing a service]({% link _resources/choosing-gender-service.md %}) - we have a full list of UK private and NHS services including details about current wait times and costs. If you can afford it, go for both a private and NHS referral.
+   Read [our tips for choosing a gender service]({% link _resources/choosing-gender-service.md %}) - we have a full [list of UK private and NHS services]({% link _resources/gender-services.md %}) including details about current [wait times]({% link _resources/wait-times.md %}) and [costs]({% link _resources/private-fees.md %}). If you can afford it, go for both a private and NHS referral.
 3. *Get referrals to your chosen services*
 
    Read [our page on how to get a referral]({% link _resources/referral-appointment.md %}) to find out how to get on the wait list. If you’d like hormone therapy, you may want to ask your GP for a [bridging prescription](https://www.transactual.org.uk/bridging-prescriptions) at this point.
