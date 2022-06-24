@@ -2,9 +2,6 @@
 layout: misc
 title: Medical services
 description: Information about accessing medical gender services in the UK
-feature:
-  image: initial-appointment.jpg
-  caption: "A black person talking to someone holding a clipboard. Neither person's head is visible."
 ---
 
 ### How to use medical services 
