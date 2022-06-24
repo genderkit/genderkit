@@ -8,31 +8,31 @@ feature:
 
 ### Why might I want a diagnosis?
 
-Getting a formal medical diagnosis may help you access treatment, especially surgery. It may also help you update some legal documents, and acquire a [gender recognition certificate]({% link _articles/obtaining-a-grc.md %}). 
+You can do these now, without a formal diagnosis:
+
+{% include iconlist iconlist="diagnosis1" %}
+
+You don't need a diagnosis if you only want to do these things.
+
+A diagnosis is needed for:
+
+{% include iconlist iconlist="diagnosis2" %}
+
+In the UK, most people will get a diagnosis to access hormone therapy, though there are also ways of [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
+
+Both NHS and private gender services can give you a diagnosis. If you have been diagnosed by an NHS gender service, you can access funding for:
+
+{% include iconlist iconlist="funding" %}
+
+### Why might I not want a diagnosis?
 
 Before getting a diagnosis, it's worth considering carefully whether you need one. It can be tempting to look for a diagnosis as validation, but it can also be pathologising --- making you feel like your identity is a "disease" --- and may be unnecessary, depending on what your needs are. Remember that lacking a diagnosis does not make your identity as a trans person any less valid.
 
-Here are some reasons you might want a diagnosis:
+You might find that obtaining a diagnosis provides you with a sense of validation or closure. It could be a powerful acknowledgement that what you've been feeling is, from a medical perspective, real.
 
--  *To access treatment*
+However, you should keep in mind that the lack of a diagnosis does not imply that you aren't "really" trans.
 
-   A diagnosis is usually required to receive gender-related surgeries, and may help you get hormone treatment and NHS funding for hair removal or [speech therapy]({% link _articles/speech-therapy.md %}).
-
-   You may be able to get your GP to prescribe hormones *without* getting a diagnosis: see [Accessing HRT without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}) for more information.
-
--  *To get a Gender Recognition Certificate, or update the gender on your [passport]({% link _articles/getting-a-new-passport.md %})*
-
-   Applying for a GRC requires providing a medical report detailing treatments you've had. Updating the gender marker on your passport requires either a GRC or a letter from a medical professional.
-
-   In both cases your GP may be willing to write a letter for you without a formal diagnosis.
-
--  *For emotional reasons*
-
-   You might find that obtaining a diagnosis provides you with a sense of validation or closure. It could be a powerful acknowledgement that what you've been feeling is, from a medical perspective, real.
-
-   However, you should keep in mind that the lack of a diagnosis does not imply that you aren't "really" trans.
-
-### Why might I not want a diagnosis?
+Some reasons you might not want a diagnosis are:
 
 -  *You find it pathologising*
 

@@ -1,0 +1,9 @@
+items:
+  - 
+    name: 'gender-related surgery in the UK'
+    url: '_resources/surgery.md'
+    icon: 'warning.svg'
+  - 
+    name: 'getting a Gender Recognition Certificate'
+    url: '_articles/obtaining-a-grc.md'
+    icon: 'warning.svg'

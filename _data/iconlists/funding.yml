@@ -1,0 +1,16 @@
+items:
+  - 
+    name: 'hormone therapies'
+    url: '_resources/hormones.md'
+    icon: 'pound.svg'
+  - 
+    name: 'some surgeries'
+    url: '_resources/surgery.md'
+    icon: 'pound.svg'
+  - 
+    name: 'fertility preservation'
+    url: '_articles/gamete-storage.md'
+    icon: 'pound.svg'
+  - 
+    name: 'facial hair removal (except in Wales)'
+    icon: 'pound.svg'
