@@ -18,7 +18,7 @@ A diagnosis is needed for:
 
 {% include iconlist iconlist="diagnosis2" %}
 
-In the UK, most people will get a diagnosis to access hormone therapy, though there are also ways of [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
+In the UK, most people will get a diagnosis to access hormone therapy, though there are also ways to [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
 
 Both NHS and private gender services can give you a diagnosis. If you have been diagnosed by an NHS gender service, you can access funding for:
 
