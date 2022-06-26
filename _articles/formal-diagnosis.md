@@ -34,7 +34,7 @@ Some people do not want to be diagnosed because they feel it is pathologising (t
 
 In the UK, diagnosis is normally made by a specialist GP, psychologist, or psychiatrist at a gender service. 
 
-You need to either self-refer to a service or be referred by your GP - read how to do this on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
+To get a diagnosis in the UK, you need to either self-refer to a gender service or be referred by your GP - read how to do this on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
 
 ### What diagnosis will I be given?
 
