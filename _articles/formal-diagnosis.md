@@ -8,23 +8,23 @@ feature:
 
 ### Why might I want a diagnosis?
 
-You can do these now, without a formal diagnosis:
-
-{% include iconlist iconlist="diagnosis1" %}
-
-You don't need a diagnosis if you only want to do these things.
-
 A diagnosis is needed for:
 
 {% include iconlist iconlist="diagnosis2" %}
 
-In the UK, most people will get a diagnosis to access hormone therapy, though there are also ways to [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
+In the UK, most people will get a diagnosis to access *hormone therapy*, though there are also ways to [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
 
 Both NHS and private gender services can give you a diagnosis. If you have been diagnosed by an NHS gender service, you can access funding for:
 
 {% include iconlist iconlist="funding" %}
 
 ### Why might I not want a diagnosis?
+
+You can do these now, without a formal diagnosis:
+
+{% include iconlist iconlist="diagnosis1" %}
+
+You don't need a diagnosis if you only want to do these things.
 
 Before getting a diagnosis, it's worth considering carefully whether you need one. It can be tempting to look for a diagnosis as validation, but it can also be pathologising --- making you feel like your identity is a "disease" --- and may be unnecessary, depending on what your needs are. Remember that lacking a diagnosis does not make your identity as a trans person any less valid.
 
@@ -65,7 +65,13 @@ them without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
 
 ### How do I get a diagnosis?
 
-In the UK, diagnoses for trans people are normally made by specialists. The exact diagnosis given in the UK can vary, but common diagnoses include:
+In the UK, diagnoses for trans people are normally made by specialists. 
+
+Your GP should be able to refer you to one of the NHS gender services who will be able to diagnose you.  You can read about how to ask for a referral on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
+
+Once you've been referred to a specialist service, you can see our [First Appointments page]({% link _resources/initial-appointment.md %}) for information about what to expect and how to prepare.
+
+The exact diagnosis given in the UK can vary, but common diagnoses include:
 
 - gender dysphoria
 - transsexualism
@@ -73,10 +79,6 @@ In the UK, diagnoses for trans people are normally made by specialists. The exac
 - gender identity disorder
 
 These are all broadly synonymous from a medical perspective, though you may prefer a diagnosis of "dysphoria" as it is less pathologising and does not imply a binary identity. Any of these diagnoses should be as good as any other for accessing treatment.
-
-Your GP should be able to refer you to one of the NHS gender services who will be able to diagnose you.  You can read about how to ask for a referral on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
-
-Once you've been referred to a specialist service, you can see our [First Appointments page]({% link _resources/initial-appointment.md %}) for information about what to expect and how to prepare.
 
 {% include travel-costs %}
 

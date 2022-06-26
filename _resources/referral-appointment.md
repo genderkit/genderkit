@@ -31,6 +31,8 @@ The person who you have asked for a referral:
 
 If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
 
+If your GP is unwilling to refer you to gender services, 
+
 ### Information for under 17s
 
 If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first. They may also ask you more questions of their own, particularly around your mental health.
