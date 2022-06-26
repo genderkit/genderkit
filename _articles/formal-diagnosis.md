@@ -8,19 +8,21 @@ feature:
 
 ### Why might I want a diagnosis?
 
-A diagnosis is needed for:
+You need a diagnosis to get:
 
 {% include iconlist iconlist="diagnosis2" %}
 
-In the UK, most people will get a diagnosis to access *hormone therapy*, though there are also ways to [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
+Most people who want *hormone therapy* will get a diagnosis to make this simpler, though you can [access hormones without a diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
 
-Both NHS and private gender services can give you a diagnosis. If you have been diagnosed by an NHS gender service, you can access funding for:
+You can get a diagnosis from a NHS gender service or a private gender service. 
+
+It is quicker to be diagnosed privately, but if you have an NHS diagnosis, you can get NHS funding for:
 
 {% include iconlist iconlist="funding" %}
 
 ### Why might I not want a diagnosis?
 
-You can do these now, without a formal diagnosis:
+You can do these now without a diagnosis:
 
 {% include iconlist iconlist="diagnosis1" %}
 
