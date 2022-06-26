@@ -7,43 +7,28 @@ feature:
   caption: "A medical professional looking at a patient while taking notes"
 ---
 
-To get access to specialist medical and surgical treatment on the NHS, you normally need to be referred to an NHS gender service, often called a “gender clinic” or GIC. This is just like being referred for any other kind of specialist treatment.
+To get medical treatment related to gender, you normally need to be referred to a specialist gender service, often called a “gender clinic” or GIC. This is just like being referred for any other kind of medical treatment.
 
 ### How do I get a referral?
 
-For some NHS gender clinics, you can refer yourself by filling out a form you can find on the website of the gender clinic, and emailing it to the clinic. You can find details of which UK services allow self-referral on our [list of gender services]({% link _resources/gender-services.md %}).
+Private gender services let you refer yourself - the website for the service will tell you how. Normally they will ask you to send them an email or fill in a form on their website.
 
-For other NHS gender clinics which don't allow self-referral, you will need to make an appointment to speak to your GP. This could be an appointment to speak on the telephone, or an appointment to speak in person.
+Some NHS gender services also let you refer yourself. You can refer yourself to one of these services by filling out a form downloaded from their website and emailing it to them. You can find out which NHS services allow self-referral on our [list of gender services]({% link _resources/gender-services.md %}).
 
-In this appointment, you should tell your GP that you want them to refer you to a gender service.
+To be referred to a NHS gender service which don't allow self-referral, you will need to make an appointment to speak to your GP. This could be an appointment to speak on the telephone, or an appointment to speak in person.
 
-Your GP will ask you a few questions. This is so they can provide the information that the service they are referring you to has asked for. There is a list of common questions you might be asked further down the page.
+### How do I ask my GP for a referral?
 
-The person making the referral may take your height, weight, blood pressure, and waist size, and may ask you to have some blood drawn for testing. They might also ask you if you want to update your name or gender on their records.
+In your GP appointment, you should tell your GP that you want them to refer you to a gender service. If you are living in England, you may be asked which gender service you wish to be referred to. If you don’t know what clinics there are, we have our own page with a [list of gender services]({% link _resources/gender-services.md %}).
 
-If you are living in England, you may be asked which gender service you wish to be referred to. If you don’t know what clinics there are, we have our own page with a [list of gender services]({% link _resources/gender-services.md %}).
+What happens next depends on your age:
 
-The person who you have asked for a referral:
+- *if you're under 17*, depending on where you live, your GP might need to refer you to Child and Adolescent Mental Health Services (CAMHS) first. CAMHS can then refer on to gender services. You can see your GP without your parents present, and the GP shouldn't tell your parents about what you've talked about without your consent, though they might encourage you to talk to them yourself.
+- *if you're 17 or over*, your GP should always refer you straight to the gender service. You should *not* be asked to use a mental health service or counsellor. 
 
--   should *not* ask you to let them examine your chest or genitalia
--   should *not* tell you to go to a mental health service or counsellor (unless you are under 18)
--   should *not* tell you that no help is available to you
+The person making the referral may take your height, weight, blood pressure, and waist size, and may ask you to have some blood drawn for testing. They might also ask you if you want to update your name or gender on their records. They should *not* ask you to let them examine your chest or genitalia.
 
-If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
-
-If your GP is unwilling to refer you to gender services, 
-
-### Information for under 17s
-
-If you are under 17, your GP may suggest you are referred to your local Child and Adolescent Mental Health Services (CAMHS) first. They may also ask you more questions of their own, particularly around your mental health.
-
-You can see your GP without your parents present, and the GP shouldn't tell them about what you've discussed without your consent, though they may encourage you to talk to them yourself. If you're in England, Wales and Northern Ireland, you might be referred to a CAMHS team before being referred to a specialist gender service. If you're in Scotland, you can be referred to Sandyford's Young People's Gender Service directly.
-
-### What can I do beforehand?
-
-Think about whether it would be helpful to have someone with you when you ask for a referral. Do you find it difficult to explain things clearly? Do you find it hard to say no to things that make you uncomfortable? Would having someone else there make you feel more comfortable?
-
-You’ll be asked a number of questions as part of being referred to a gender service. We’ve listed common questions below. You might want to think about them beforehand, so that you feel confident to answer them in your appointment.
+The person making the referral will ask you a list of questions.
 
 ### What might I be asked?
 
@@ -86,6 +71,12 @@ If you’re being referred to a service for young people, you are likely to be a
 - whether you have experienced any bullying
 - whether you have experienced any abuse
 
+### What can I do beforehand?
+
+Think about whether it would be helpful to have someone with you when you ask for a referral. Do you find it difficult to explain things clearly? Do you find it hard to say no to things that make you uncomfortable? Would having someone else there make you feel more comfortable?
+
+You might want to think about the questions that are usually asked in a referral appointment beforehand, so that you feel confident to answer them in your appointment.
+
 ### What happens next?
 
 After you’ve been referred, most services send a confirmation letter to you, letting you know you have been added to their waiting list. This usually takes a few weeks. If you’ve not heard back within a month, it may be worth phoning or emailing to check that your referral has been received correctly.
@@ -99,3 +90,7 @@ While you are waiting, you could look into:
 - connecting with other people in similar situations through [local organisations]({% link _resources/local.md %})
 
 You can also prepare for when you are seen by the gender service. You can read more about this on [our page about your first appointment at a gender service]({% link _resources/initial-appointment.md %}).
+
+### Dealing with problems
+
+If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.
