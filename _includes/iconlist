@@ -11,9 +11,9 @@
     <ul class="iconlist">
     {%- for item in data.items -%}
       {%- if item.url -%}
-        <li><img class="inlineIcon" data-proofer-ignore src="/assets/images/{{item.icon}}" /><a href="{% link {{ item.url }} %}">{{ item.name | markdownify}}</a></li>
+        <li><img class="inlineIcon" data-proofer-ignore src="/assets/images/icons/{{item.icon}}.png" /><a href="{% link {{ item.url }} %}">{{ item.name | markdownify}}</a></li>
       {%- else -%}
-      <li><img class="inlineIcon" data-proofer-ignore src="/assets/images/{{item.icon}}" />{{ item.name | markdownify}}</li>
+      <li><img class="inlineIcon" data-proofer-ignore src="/assets/images/icons/{{item.icon}}.png" />{{ item.name | markdownify}}</li>
       {%- endif -%}
     {%- endfor -%}
     </ul>

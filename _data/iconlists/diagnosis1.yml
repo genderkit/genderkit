@@ -2,23 +2,23 @@ items:
   - 
     name: 'change your name'
     url: '_articles/name-change-by-deed-poll.md'
-    icon: 'tick.svg'
+    icon: 'circle_tick'
   - 
     name: 'change the gender on your passport'
     url: '_articles/getting-a-new-passport.md'
-    icon: 'tick.svg'
+    icon: 'circle_tick'
   - 
     name: 'update your NHS medical record'
     url: '_articles/updating-nhs-patient-details.md'
-    icon: 'tick.svg'
+    icon: 'circle_tick'
   - 
     name: 'have facial hair removal'
     url: '_articles/laser-hair-reduction.md'
-    icon: 'tick.svg'
+    icon: 'circle_tick'
   - 
     name: 'have speech therapy'
     url: '_articles/speech-therapy.md'
-    icon: 'tick.svg'
+    icon: 'circle_tick'
   - 
     name: 'access single-gender spaces'
-    icon: 'tick.svg'
+    icon: 'circle_tick'
