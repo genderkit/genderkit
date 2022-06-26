@@ -1,5 +1,6 @@
 summary: "Getting diagnosed by a specialist medical professional"
 hideeffects: true
+in-headings: "a formal diagnosis"
 effects:
   -
     category: "Medical documents"
