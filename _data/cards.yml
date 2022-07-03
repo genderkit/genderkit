@@ -15,23 +15,32 @@ explore:
     url: '/article/updating-nhs-patient-details/'
     name: NHS records
   -
+    url: '/category/clothes/'
+    name: Clothes
+  -
+    url: '/category/voice/'
+    name: Voice
+  -
+    url: '/category/menstruation/'
+    name: Menstruation
+  -
     url: '/category/head-hair/'
     name: Head hair
   -
     url: '/category/body-hair/'
     name: Body hair
   -
-    url: '/category/voice/'
-    name: Voice
-  -
-    url: '/category/clothes/'
-    name: Clothes
-  -
     url: '/category/facial-hair/'
     name: Facial hair
   -
     url: '/category/muscles/'
     name: Muscles
+  -
+    url: '/category/upper-body/'
+    name: Upper body
+  -
+    url: '/category/lower-body/'
+    name: Lower body
   -
     url: '/category/eyes/'
     name: Eyes
@@ -42,17 +51,8 @@ explore:
     url: '/category/fragrance/'
     name: Fragrance
   -
-    url: '/category/upper-body/'
-    name: Upper body
-  -
-    url: '/category/lower-body/'
-    name: Lower body
-  -
     url: '/category/hands/'
     name: Hands
-  -
-    url: '/category/menstruation/'
-    name: Menstruation
   -
     url: '/category/fertility/'
     name: Fertility
