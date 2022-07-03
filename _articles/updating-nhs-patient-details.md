@@ -1,12 +1,12 @@
 ---
-title: updating NHS patient details
+title: updating NHS records
 weighting: 3
 feature:
   image: updating-nhs-patient-details.jpg
   caption: "NHS logo closeup on computer screen"
 ---
 
-### How do I update my NHS patient details?
+### How do I update my NHS records?
 
 You can change your name, title, or gender with the NHS at any time you like by telling your GP surgery. 
 

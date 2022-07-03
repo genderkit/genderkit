@@ -3,7 +3,7 @@ hideeffects: true
 in-headings: "a formal diagnosis"
 effects:
   -
-    category: "Medical documents"
+    category: "NHS records"
     detail: "Generally required for surgery; may help get hormones and funding for other treatments"
   -
     category: "ID documents"

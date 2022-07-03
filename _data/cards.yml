@@ -12,6 +12,9 @@ explore:
     url: '/category/id-documents/'
     name: ID documents
   -
+    url: '/article/updating-nhs-patient-details/'
+    name: NHS records
+  -
     url: '/category/head-hair/'
     name: Head hair
   -
@@ -59,9 +62,6 @@ explore:
   -
     url: '/category/mood/'
     name: Mood
-  -
-    url: '/category/medical-documents/'
-    name: Medical
 find:
   -
     url: '/resources/gender-services/'

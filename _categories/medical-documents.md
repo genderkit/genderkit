@@ -1,4 +1,4 @@
 ---
-index-for: Medical documents
-title: 'Medical documents'
+index-for: NHS records
+title: 'NHS records'
 ---

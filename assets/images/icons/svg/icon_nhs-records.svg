@@ -1,0 +1,45 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 10;
+                stroke-width: 12px;
+            }
+
+            .cls-1,
+            .cls-3 {
+                fill: none;
+            }
+
+            .cls-1,
+            .cls-2,
+            .cls-3 {
+                stroke: #000;
+                stroke-linecap: square;
+            }
+
+            .cls-1 {
+                stroke-width: 12px;
+            }
+
+            .cls-2,
+            .cls-3 {
+                stroke-width: 8px;
+            }
+        </style>
+    </defs>
+    <title>icon</title>
+    <rect class="filled" x="128" y="72" width="248" height="376" />
+    <polygon class="cls-2"
+        points="184 160 200 160 200 184 224 184 224 200 200 200 200 224 184 224 184 200 160 200 160 184 184 184 184 160" />
+    <line class="cls-3" x1="160" y1="264" x2="304" y2="264" />
+    <line class="cls-3" x1="160" y1="296" x2="344" y2="296" />
+    <line class="cls-3" x1="160" y1="328" x2="344" y2="328" />
+    <line class="cls-3" x1="160" y1="360" x2="312" y2="360" />
+    <line class="cls-3" x1="160" y1="392" x2="336" y2="392" />
+    <path class="cls-1" d="M386,207.33,402,202c4.75-1.83,16-3.33,16-16V130c0-12.67-11.25-14.17-16-16l-16-5.33" />
+    <path class="cls-1" d="M379,276.33,395,271c4.75-1.83,16-3.33,16-16V202" />
+</svg>
