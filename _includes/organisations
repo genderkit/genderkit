@@ -1,6 +1,6 @@
 {%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"name" -%}
 
-<ol class="details" id="organisations">
+<ul class="details" id="organisations">
   {%- for item in sortedOrganisations -%}
     {%- assign cssclasses = "" -%}
     {%- for category in item.tags -%}
@@ -51,4 +51,4 @@
       </p>
     </li>
   {%- endfor -%}
-</ol>
+</ul>
