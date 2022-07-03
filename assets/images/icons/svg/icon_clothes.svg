@@ -3,8 +3,11 @@
         <style>
             .filled {
                 fill: white;
-                stroke: none;
-                stroke-width: 16px;
+                stroke-width: 12px;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-linejoin: round;
             }
 
             .line-thin {
@@ -20,7 +23,7 @@
                 stroke: black;
                 stroke-linecap: round;
                 stroke-miterlimit: 2;
-                stroke-width: 20px;
+                stroke-width: 12px;
             }
 
             .line-thick {
@@ -51,22 +54,11 @@
     </defs>
     <title>icon</title>
     <g id="clothes">
-        <!-- <circle class="filled" cx="256" cy="256" r="256" /> -->
-        <!-- <rect class="filled" x="122" width="300" y="300" height="210" /> -->
-        <g transform="translate(0,0)">
-        <path class="line-thick" 
-            d="M298.29,259.19,472.5,333.85c12.33,5.29,8.56,23.68-4.79,23.68H52.35c-13.41,0-17.19-18.39-4.86-23.68L260,242.76" />
-        <path class="line-thick" transform="translate(0,-20)" d="M313.83,159.5l-20.29-20.29a38.25,38.25,0,0,0-54.1,54.1L260,213.6v49.16" />
-        
-        <path class="line"
-            d="M298.29,259.19,472.5,333.85c12.33,5.29,8.56,23.68-4.79,23.68H52.35c-13.41,0-17.19-18.39-4.86-23.68L260,242.76" />
-        <path class="line" transform="translate(0,-20)" d="M313.83,159.5l-20.29-20.29a38.25,38.25,0,0,0-54.1,54.1L260,213.6v49.16" />
-        </g>
-        <!-- <rect class="filled" x="106" width="300" y="280" height="160" /> 
-        <path class="line-thin" d="M180,280 v100" />
-        <path class="line-thin" d="M200,280 v100" stroke-dasharray="16" />
-        <path class="line-thin" d="M200,440 v60" />
-        <path class="line-thin" d="M220,440 v60" stroke-dasharray="16" />
-        <path class="line-thin" d="M106,380 h300" /> -->
+        <path class="filled"
+            d="M256,448 h128 v-256 l64,16 l32,-96 l-160,-48 a128 128 0 0 1 -128 0
+                     
+            l-160,48 l32,96 l64,-16 v256 h128 Z" />
+
+        <path class="line" d="M320,64 a64 64 0 0 1 -128 0 " />
     </g>
 </svg>

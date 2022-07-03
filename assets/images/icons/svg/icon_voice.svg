@@ -4,7 +4,7 @@
             .filled {
                 fill: white;
                 stroke: black;
-                stroke-width: 14px;
+                stroke-width: 12px;
                 stroke-miterlimit: 2;
                 stroke-linecap: round;
             }

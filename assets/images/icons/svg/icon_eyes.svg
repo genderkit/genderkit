@@ -9,7 +9,7 @@
             .filled-2 {
                 fill: white;
                 stroke: black;
-                stroke-width:16px;
+                stroke-width:12px;
             }
 
             .line-thin,
@@ -53,7 +53,7 @@
     
     <ellipse rx="96" ry="96" cx="128" cy="256" class="filled-2" />
     <ellipse rx="96" ry="96" cx="384" cy="256" class="filled-2" />
-    <path class="line" d="M228,208a96,96,0,0,1,56,0" />
-    <path class="line-thick" d="M40,208l-40,0" />
-    <path class="line-thick" d="M512,208l-40,0" />
+    <path class="line" d="M224,208a96,96,0,0,1,64,0" />
+    <path class="line-thick" d="M36,208l-32,0" />
+    <path class="line-thick" d="M508,208l-32,0" />
 </svg>

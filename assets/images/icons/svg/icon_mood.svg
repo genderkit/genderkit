@@ -4,7 +4,7 @@
             .filled {
                 fill: white;
                 stroke: black;
-                stroke-width: 16px;
+                stroke-width: 12px;
                 stroke-linecap: round;
                 stroke-miterlimit: 2;
             }
@@ -22,15 +22,7 @@
                 stroke: black;
                 stroke-linecap: round;
                 stroke-miterlimit: 2;
-                stroke-width: 16px;
-            }
-
-            .line {
-                fill: none;
-                stroke: black;
-                stroke-linecap: round;
-                stroke-miterlimit: 2;
-                stroke-width: 16px;
+                stroke-width: 12px;
             }
 
             .line-extra-thick {
@@ -52,13 +44,13 @@
         </style>
     </defs>
     <title>icon</title>
-    <circle class="filled" cx="256" cy="256" r="104" />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(0 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(45 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(90 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(135 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(180 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(225 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(270 256 256)' />
-    <line class="line" x1="16" y1="256" x2="96" y2="256" transform='rotate(315 256 256)' />
+    <circle class="filled" cx="256" cy="256" r="96" />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(0 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(90 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(45 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(135 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(180 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(225 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(270 256 256)' />
+    <line class="line" x1="32" y1="256" x2="112" y2="256" transform='rotate(315 256 256)' />
 </svg>

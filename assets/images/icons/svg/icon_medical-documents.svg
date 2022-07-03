@@ -6,7 +6,7 @@
                 stroke: black;
                 stroke-linecap: round;
                 stroke-miterlimit: 10;
-                stroke-width: 16px;
+                stroke-width: 12px;
             }
 
             .cls-1,
@@ -22,7 +22,7 @@
             }
 
             .cls-1 {
-                stroke-width: 14.75px;
+                stroke-width: 12px;
             }
 
             .cls-2,

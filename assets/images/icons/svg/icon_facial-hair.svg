@@ -6,21 +6,21 @@
                 stroke: black;
                 stroke-linecap: round;
                 stroke-miterlimit: 10;
-                stroke-width: 16px;
+                stroke-width: 12px;
             }
             .red {
                 fill: none;
                 stroke: red;
                 stroke-linecap: round;
                 stroke-miterlimit: 10;
-                stroke-width: 16px;
+                stroke-width: 12px;
             }
             .white {
                 fill: white;
                 stroke: none;
                 stroke-linecap: round;
                 stroke-miterlimit: 10;
-                stroke-width: 16px;
+                stroke-width: 12px;
             }
         </style>
     </defs>

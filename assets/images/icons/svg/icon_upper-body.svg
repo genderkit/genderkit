@@ -13,7 +13,7 @@
                 stroke: black;
                 stroke-linecap: round;
                 stroke-miterlimit: 10;
-                stroke-width: 16px;
+                stroke-width: 12px;
             }
         </style>
     </defs>
