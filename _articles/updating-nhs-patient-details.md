@@ -26,8 +26,8 @@ Each NHS system is different and able to hold different information about [title
 
 In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded. 
 
-Usually, when you change your gender marker, you are also assigned a new [NHS number](
-http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx). This means that records from before your change in gender marker are kept separately, to protect your privacy.
+Usually, when you change your gender marker you will be assigned a new [NHS number](
+http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx) in England and Wales, or assigned a new [CHI number](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community) in Sctoland.
 
 ### What should I be aware of?
 
@@ -43,3 +43,9 @@ When you change your NHS gender marker, you should remember that you may not rec
 - on the [UK Government website](https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people/nhs-population-screening-information-for-trans-people)
 - on the [NHS Wales website](https://phw.nhs.wales/services-and-teams/cervical-screening-wales/information-resources/information-leaflets-poster-downloads-and-accessible-information/screening-information-for-transgender-service-users/)
 - and on the [Cancer Research UK website](https://www.cancerresearchuk.org/about-cancer/screening/trans-and-non-binary-cancer-screening)
+
+In *Scotland*, you will normally be invited to the correct tests automatically (unless the gender marker on your records was changed before 2016). You can read more about testing in Scotland on [the NHS Inform website](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community).
+
+### Where can I learn more?
+
+You can read more detailed information about updating your NHS details on [the DMC blog](https://www.dillonmarshallcowell.co.uk/legal-transition-blog/changing-your-nhs-number).
