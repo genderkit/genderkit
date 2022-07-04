@@ -4,7 +4,17 @@ title: Names
 description: Suggestions about how to choose a new name including lists of common names
 ---
 
-### How do I choose a new name?
+### How do I change my name?
+
+Changing your name is easy:
+
+1. Choose your new name
+2. Print and sign a [deed poll]({% link _articles/name-change-by-deed-poll.md %})
+3. [Tell everyone you need to]({% link _articles/telling-organisations.md %}) about your name change
+
+That's it!
+
+### How do I choose a name?
 
 Choosing a name might be a quick and easy decision or it may take a long time to decide. Take as much time as you need.
 
@@ -57,6 +67,3 @@ These useful lists might inspire you.
 {% endfor %}
 </ul>
 
-### Changing your name
-
-You can read about how to change your name on our [ID documents page]({% link _categories/id-documents.md %}).
