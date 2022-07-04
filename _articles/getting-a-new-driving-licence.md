@@ -24,7 +24,11 @@ You do not need a doctor's letter to change the gender of your driving licence.
 
 ### What else might I want?
 
-If you own a vehicle, you will also want to update its vehicle registration certificate to list your new name. You can find information on how to do this on [the GOV.UK website](https://www.gov.uk/change-name-address-v5c). 
+If you own a vehicle, you will also want to update its vehicle registration certificate to list your new name. You can find information on how to do this on [the GOV.UK website](https://www.gov.uk/change-name-address-v5c).
+
+### How much will it cost?
+
+The cost of updating your driving licence can vary depending on what you are changing - there are full details of costs on [this DVLA page](https://www.gov.uk/driving-licence-fees).
 
 ### Where can I learn more?
 
