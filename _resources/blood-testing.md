@@ -69,9 +69,14 @@ Your GP should be able to offer blood tests *even if you're self-medicating*.
 Some *sexual health clinics* may be able to offer blood tests. These clinics will often provide a "drop-in" service where you don't have to make an appointment, and will be able to keep your records separate from your main NHS record if that's what you want.
 
 The following clinics offer blood testing for trans people:
+
 * [Clinic T](https://brightonsexualhealth.com/service/clinic-t/) in Brighton
 * [56 Dean Street](https://dean.st/trans-non-binary/) in London
 * [CliniQ](https://cliniq.org.uk/cliniq-kings-south-london/) in London
+
+You may also be able to find blood testing at:
+
+* [Harm Reduction Team Steroid Clinic](https://services.nhslothian.scot/harmreductionteam/) in Edinburgh
 
 Some clinics might provide these tests without necessarily advertising them. To find out exactly what your local clinic can and can't offer, you can phone up and ask.
 
