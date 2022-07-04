@@ -4,4 +4,4 @@ duration: "The change of name or gender is permanent. It remains in effect unles
 effects:
   -
     category: "ID documents"
-    detail: "Provides ability to change other documents"
+    detail: "Changes name, title, and gender code"
