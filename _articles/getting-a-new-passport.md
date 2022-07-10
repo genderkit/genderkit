@@ -46,11 +46,11 @@ Updating a passport is different depending on whether you already have a UK pass
 
   You can update your name and/or gender marker on an existing UK passport either [online](https://www.gov.uk/apply-renew-passport) or by post. Forms for postal updates are available from your local post office. You will need to return your old passport along with the application. If you have lost your passport, you will need to declare it lost. 
 
-  To update your name on your passport you will need to send your [deed poll]({% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). Photocopies are not accepted, so you must either send the original document or a [certified copy](https://www.gov.uk/certifying-a-document).  
+  To update your name on your passport you will need to send your [deed poll]({% link _articles/name-change-by-deed-poll.md %}) or [statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). Photocopies are not accepted, so you must either send the original document or a [certified copy](https://www.gov.uk/certifying-a-document).
 
-  To update your gender marker on an existing passport you will also need one of two things. The first way to update the gender on your passport is with a letter from a doctor stating that they consider this change to be permanent. You can get this from a gender specialist or from your GP. In both cases, they will usually charge you money for writing this letter.
-
-  The second way to update the gender on your passport is with a [gender recognition certificate (GRC)]({% link _articles/obtaining-a-grc.md %}). A GRC is *not* required to update your passport if you have a letter from your doctor.
+  To update your gender marker on an existing passport you will need *either* to send evidence *or* a [gender recognition certificate (GRC)]({% link _articles/obtaining-a-grc.md %}). A GRC is *not* required to update your passport.
+  
+  The required evidence is proof of your change of gender (like bank statements, utility bills, or payslips) and a letter from a medical professional. The medical letter should state that the professional considers your change of gender to be permanent. The letter could be written by your GP or a gender specialist you have seen at a gender clinic, and they will normally charge you money for writing this letter. [Passport Office guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974817/Gender_recognition_V8.pdf) suggests that if you cannot provide such a letter, you might instead be able to make a statement confirming you permanently use the preferred identity instead.
 
 - *If you don't have an existing UK passport*
 
@@ -63,3 +63,5 @@ Regardless of whether you have an existing UK passport, you will need to send th
 ### Where can I learn more?
 
 You can read more about obtaining or renewing passports on [the HM Passport Office website](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251703/Applying_for_a_passport_additional_information.PDF).
+
+There is very detailed information on the exact rules for when a change of gender is permitted and what evidence needs to be provided in [this HM Passport Office document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974817/Gender_recognition_V8.pdf).
