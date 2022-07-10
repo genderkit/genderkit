@@ -27,7 +27,7 @@ Each NHS system is different and able to hold different information about [title
 In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded. 
 
 Usually, when you change your gender marker you will be assigned a new [NHS number](
-http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx) in England and Wales, or assigned a new [CHI number](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community) in Sctoland.
+http://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx) in England and Wales, or assigned a new [CHI number](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community) in Scotland.
 
 ### What should I be aware of?
 
