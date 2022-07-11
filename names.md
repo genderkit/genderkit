@@ -10,7 +10,7 @@ Changing your name is easy:
 
 1. Choose your new name
 2. Print and sign a [deed poll]({% link _articles/name-change-by-deed-poll.md %})
-3. [Tell everyone you need to]({% link _articles/telling-organisations.md %}) about your name change
+3. Tell [everyone you need to]({% link _articles/telling-organisations.md %}) about it
 
 That's it!
 
