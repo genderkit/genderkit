@@ -24,6 +24,14 @@ You might want to read our pages on [exercise]({% link _articles/exercise.md %})
 
 You can find out more about sports and exercise on [our page on this subject]({% link _resources/sports-and-fitness.md %}).
 
+### Dealing with problems
+
+If you are experiencing problems accessing healthcare, we have [guidance on fixing problems or making a complaint]({% link _resources/problems.md %}).
+
 ### Further reading
 
 You can find a detailed list of resources about health, ageing, exercise, nutrition, and sexual health on the [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/health-information/).
+
+You can find more information about accessing healthcare on our pages here:
+
+{% include medicalnav %}

@@ -1,8 +1,5 @@
 nav:
   -
-    url: '_articles/formal-diagnosis.md'
-    name: 'Do I need a diagnosis?'
-  -
     url: '_resources/referral-appointment.md'
     name: 'How to get a referral'
   -
@@ -24,5 +21,8 @@ nav:
     url: '_resources/surgery.md'
     name: 'Surgery'
   -
-    url: '_articles/updating-nhs-patient-details.md'
-    name: 'Updating NHS records'
+    url: '_resources/problems.md'
+    name: 'Dealing with problems'
+  -
+    url: '_resources/complaints.md'
+    name: 'Making a complaint'

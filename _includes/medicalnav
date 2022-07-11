@@ -1,6 +1,8 @@
 <ul>
 {% for item in site.data.medical.nav %}
     {%- assign url = item.url -%}
+    {%- unless url == page.path -%}
 	<li><a href="{% link {{ url }} %}">{{ item.name }}</a></li>
+    {%- endunless -%}
 {% endfor %}
 </ul>

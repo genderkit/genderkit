@@ -77,6 +77,10 @@ Think about whether it would be helpful to have someone with you when you ask fo
 
 You might want to think about the questions that you'll be asked before your appointment so that you feel confident to answer them.
 
+### Dealing with problems
+
+If you find you have difficulties getting your GP to make a referral, you can read about what to do on [our page about dealing with common healthcare system problems]({% link _resources/problems.md %}).
+
 ### What happens next?
 
 After you’ve been referred, most services send a confirmation letter to you, letting you know you have been added to their waiting list. This usually takes a few weeks. If you’ve not heard back within a month, try phoning or emailing to check that your referral has been received correctly.
@@ -91,7 +95,3 @@ While you are waiting, you could look into:
 - stopping smoking or smoking less if you are planning to take hormones or have surgery
 
 You can also prepare for when you are seen by the gender service. You can read more about this on [our page about your first appointment at a gender service]({% link _resources/initial-appointment.md %}).
-
-### Dealing with problems
-
-If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions), or the resources on our [Information for clinicians]({% link _resources/clinicians.md %}) page.

@@ -21,12 +21,6 @@ The following surgeries are not normally funded by the NHS gender pathway:
 
 While funding for these surgeries is not normally provided by the NHS gender services, approval for funding can sometimes be given on an individual basis. 
 
-### How do I access medical support?
-
-To get access to surgery, you will need to use medical services. You can read information about these services using on our pages:
-
-{% include medicalnav %}
-
 ### How do I choose a surgical team?
 
 For some surgeries there are a large number of teams that will offer the surgery in the UK.
@@ -38,6 +32,12 @@ You can find useful tips for deciding which surgery team to use on [the Umbrella
 Doing some preparation in advance can help make sure everything goes smoothly during your hospital stay and recovery. To help you avoid forgetting to do or buy something we have created a [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
 {% include gdnrss %}
+
+### How do I access medical support?
+
+To get access to surgery, you will need to use medical services. You can read information about these services using on our pages:
+
+{% include medicalnav %}
 
 ### Where can I find out more?
 

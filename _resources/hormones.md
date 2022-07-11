@@ -19,12 +19,6 @@ We have pages with information about the most commonly used medications in hormo
 - [finasteride]({% link _articles/finasteride.md %}) (a medication sometimes used to reduce some effects from testosterone)
 - [anastrozole]({% link _articles/anastrozole.md %}) (an oestrogen blocker not normally used in the UK)
 
-### How do I access medical support?
-
-To get access to prescribed hormone treatments, you will need to use medical services. You can read information about using these services on our pages:
-
-{% include medicalnav %}
-
 ### Where can I get blood tests done?
 
 You can read more about what blood tests you need, and you how you can arrange them if they are not being provided for you, on our <a href="{% link _resources/blood-testing.md %}">blood testing page</a>.
@@ -32,6 +26,12 @@ You can read more about what blood tests you need, and you how you can arrange t
 ### How do I self-inject?
 
 If you want to inject a medication yourself, rather than a medical practitioner doing it for you, you can read about how to do this safely on our <a href="{% link _resources/injections.md %}">self-injection page</a>.
+
+### How do I access medical support?
+
+To get access to prescribed hormone treatments, you will need to use medical services. You can read information about using these services on our pages:
+
+{% include medicalnav %}
 
 ### Where can I find out more?
 
