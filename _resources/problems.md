@@ -30,11 +30,11 @@ Here's how to handle some common issues with the UK healthcare system:
 
 If you are in London and are over 18, you can access [the Spectra Trans Health Advocacy Service](https://spectra-london.org.uk/trans-services/trans-health-advocacy/) who can help you get your problem resolved.
 
-### That didn't help, what do I do?
+### That didn't help, what can I do?
 
 If you want to make a complaint, read [our page on how to do it]({% link _resources/complaints.md %}).
 
-If your GP is unsupportive or unhelpful, you might want to consider:
+If your GP is not supportive or is being unhelpful, you might want to consider:
 
 - *switching to a different GP at the surgery*
 
