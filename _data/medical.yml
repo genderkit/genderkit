@@ -1,19 +1,22 @@
 nav:
   -
-    url: '_resources/referral-appointment.md'
-    name: 'How to get a referral'
+    url: '_resources/medical.md'
+    name: 'How to use medical services'
   -
     url: '_resources/gender-services.md'
     name: 'List of UK services'
   -
-    url: '_resources/initial-appointment.md'
-    name: 'First appointments'
-  -
     url: '_resources/choosing-gender-service.md'
     name: 'Choosing a service'
   -
+    url: '_resources/referral-appointment.md'
+    name: 'How to get a referral'
+  -
     url: '_resources/wait-times.md'
     name: 'Wait times'
+  -
+    url: '_resources/initial-appointment.md'
+    name: 'First appointments'
   -
     url: '_resources/hormones.md'
     name: 'Hormones'
