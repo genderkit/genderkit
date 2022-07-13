@@ -116,7 +116,7 @@ end
 desc "Test for broken internal links"
 task :checklinksinternal => :jekyll do
   options = {
-    :assume_extension => true,
+    :assume_extension => ".html",
     :disable_external => true,
     :empty_alt_ignore => true,
     :alt_ignore => [ /.*/ ],
@@ -138,7 +138,7 @@ end
 desc "Test for broken external links"
 task :checklinks => :jekyll do
   options = {
-    :assume_extension => true,
+    :assume_extension => ".html",
     :disable_external => false,
     :empty_alt_ignore => true,
     :alt_ignore => [ /.*/ ],
@@ -254,7 +254,7 @@ end
 desc "Test the built html"
 task :htmlproofer => :jekyll do
   options = {
-    :assume_extension => true,
+    :assume_extension => ".html",
     :disable_external => true,
     :check_html => true,
     :validation => {
