@@ -10,7 +10,7 @@ ruby '>= 2.5.5'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0"
-gem "citeproc-ruby", "~> 1.1.12" # Need the most up to date version
+gem "citeproc-ruby", "> 1.1.12" # Need the most up to date version
 gem "rake"
 gem "rszr"
 
@@ -22,9 +22,7 @@ gem "bibtex-ruby"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-scholar", "~> 6.6.0"
-   gem "jekyll-last-modified-at", "~> 1.1.0"
-   #gem "jekyll-sitemap"
+   gem "jekyll-scholar", "~> 7.0"
    gem "jekyll-commonmark-ghpages"
 end
 
@@ -34,4 +32,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "stylus"
 
 # Testing
-gem "html-proofer"
+gem "html-proofer", "~> 3.0" # needs updating to 4.0 see issue 357

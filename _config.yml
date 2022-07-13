@@ -16,7 +16,6 @@ commonmark:
   options: ["DEFAULT", "SMART"]
 gems:
   - 'jekyll/scholar'
-  - jekyll-last-modified-at
   - jekyll-sitemap
 exclude:
   - Gemfile
