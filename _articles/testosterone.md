@@ -28,7 +28,7 @@ Testosterone use can cause serious medical conditions including polycythaemia (t
 To avoid serious side-effects, it is important to only use testosterone under medical supervision with regular blood testing.
 
 {% capture warn %}
-Testosterone increases the risk of [obstructive sleep apnoea](http://www.nhs.uk/Conditions/Sleep-apnoea/Pages/Introduction.aspx) (stopping breathing during sleep) which can lead to heart problems or sudden death. 
+Testosterone increases the risk of [obstructive sleep apnoea](https://www.nhs.uk/Conditions/Sleep-apnoea/Pages/Introduction.aspx) (stopping breathing during sleep) which can lead to heart problems or sudden death. 
 {% endcapture %}
 {% include warning warning=warn %}
 
@@ -52,7 +52,7 @@ Testosterone usually causes periods to stop, but does not remove the risk of pre
 {% endcapture %}
 {% include warning warning=warn %}
 
-Testosterone does not remove the need for [cervical screening tests](http://www.nhs.uk/conditions/cervical-screening-test/pages/introduction.aspx).
+Testosterone does not remove the need for [cervical screening tests](https://www.nhs.uk/conditions/cervical-screening-test/pages/introduction.aspx).
 
 {% capture warn %}
 Do not take testosterone if you are pregnant as it can damage a developing foetus {% cite wpath7 fsrh2017contraceptive %}.
@@ -71,7 +71,7 @@ Many effects of testosterone, such as changes to your voice or body hair, are pe
 
 You might want some of the effects of testosterone, but not all of them, which may mean testosterone is not the right option for you.
 
-Testosterone may cause acne. You can read more about acne and how to reduce it on the [NHS website](http://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
+Testosterone may cause acne. You can read more about acne and how to reduce it on the [NHS website](https://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
 
 ### How do I get testosterone?
 

@@ -9,4 +9,4 @@ Permanent makeup can also be used on other parts of the body. This can be partic
 
 ### Where can I learn more?
 
-You can read more about permanent makeup on the [NHS website](http://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/permanent-make-up.aspx).
+You can read more about permanent makeup on the [NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/permanent-make-up.aspx).

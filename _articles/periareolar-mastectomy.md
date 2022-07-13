@@ -8,7 +8,7 @@ feature:
 
 ### What should I be aware of?
 
-Complications of mastectomy can include too much or too little tissue removed, "dog ears" (pouches of skin), and hypertrophic or [keloid scars](http://www.nhs.uk/Livewell/skin/Pages/Keloidscarring.aspx) {% cite yelland2017 -l 262 %}.
+Complications of mastectomy can include too much or too little tissue removed, "dog ears" (pouches of skin), and hypertrophic or [keloid scars](https://www.nhs.uk/Livewell/skin/Pages/Keloidscarring.aspx) {% cite yelland2017 -l 262 %}.
 
 {% capture info %}
 Chest reconstruction surgeries on under 18s who have been on testosterone appear to have similar complications to those in young adults {% cite mahfouda2019 %}, but the research on this is limited.
@@ -38,7 +38,7 @@ Unlike double incision mastectomy, periareolar mastectomy results in significant
 
 You can read more about chest surgeries in [this booklet from the NHS Gender Dysphoria National Referral Support Service](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v6-top-surgery-leaflet-002-pdf/).
 
-You can also read more about mastectomy on the [NHS website](http://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
+You can also read more about mastectomy on the [NHS website](https://www.nhs.uk/conditions/mastectomy/Pages/Introduction.aspx).
 
 ### How do I get ready for surgery?
 

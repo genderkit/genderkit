@@ -61,7 +61,7 @@ Public Health England and the Chartered Institute of Environmental Health have p
 
 ### Where can I learn more?
 
-You can find out more about piercing on [the NHS website](http://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
+You can find out more about piercing on [the NHS website](https://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
 
 ### References
 

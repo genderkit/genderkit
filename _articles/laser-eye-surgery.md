@@ -34,7 +34,7 @@ Laser eye surgery is not normally funded by the NHS unless it is to treat a cond
 
 ### Where can I learn more?
 
-You can read more about laser eye surgery on the [NHS website](http://www.nhs.uk/Livewell/Eyehealth/Pages/Lasers.aspx).
+You can read more about laser eye surgery on the [NHS website](https://www.nhs.uk/Livewell/Eyehealth/Pages/Lasers.aspx).
 
 ### References
 

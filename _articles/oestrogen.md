@@ -22,7 +22,7 @@ There is no recommended method for breast self-examination in the UK, but you sh
 ### What should I be aware of?
 
 {% capture warn %}
-Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting like [deep vein thrombosis](http://www.nhs.uk/Conditions/deep-vein-thrombosis/Pages/Introduction.aspx)), prolactinoma, [gallstones](http://www.nhs.uk/conditions/Gallstones/Pages/Introduction.aspx), and liver problems. These risks can be reduced by regular blood testing, stopping smoking, and maintaining a healthy lifestyle {% cite seal2017 %}.
+Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting like [deep vein thrombosis](https://www.nhs.uk/Conditions/deep-vein-thrombosis/Pages/Introduction.aspx)), prolactinoma, [gallstones](https://www.nhs.uk/conditions/Gallstones/Pages/Introduction.aspx), and liver problems. These risks can be reduced by regular blood testing, stopping smoking, and maintaining a healthy lifestyle {% cite seal2017 %}.
 {% endcapture %}
 {% include warning warning=warn %}
 
