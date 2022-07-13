@@ -121,6 +121,7 @@ organisations:
     -
         heading: Grampian
         name: 'Grampian Gender Identity Clinic'
+        url: 'https://www.ngicns.scot.nhs.uk/gender-identity-clinics/'
         tags: [NHS, 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service located in Aberdeen'
         image: nhs-scotland
