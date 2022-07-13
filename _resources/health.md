@@ -26,7 +26,7 @@ You can find out more about sports and exercise on [our page on this subject]({%
 
 ### Dealing with problems
 
-If you are experiencing problems accessing healthcare, we have [guidance on fixing problems or making a complaint]({% link _resources/problems.md %}).
+If you are experiencing problems accessing healthcare, we have information about [fixing common problems]({% link _resources/problems.md %}) and about [making a complaint]({% link _resources/complaints.md %}).
 
 ### Further reading
 
