@@ -14,9 +14,9 @@
       {%- elsif item.twitter -%}
       {%- assign url = "https://twitter.com/" | append: item.twitter -%}
       {%- elsif item.facebook -%}
-      {%- assign url = "http://www.facebook.com/" | append: item.facebook -%}
+      {%- assign url = "https://www.facebook.com/" | append: item.facebook -%}
       {%- elsif item.facebookId -%}
-      {%- assign url = "http://www.facebook.com/" | append: item.facebookId -%}
+      {%- assign url = "https://www.facebook.com/" | append: item.facebookId -%}
       {%- endif -%}
       {%- if item.image -%}
         <img alt="Logo of {{ item.name | xml_escape }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
@@ -44,9 +44,9 @@
         <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
       {%- endif -%}
       {%- if item.facebook -%}
-        <a href="http://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;
+        <a href="https://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;
       {%- elsif item.facebookId -%}
-        <a href="http://www.facebook.com/{{ item.facebookId }}">Facebook</a>&nbsp;
+        <a href="https://www.facebook.com/{{ item.facebookId }}">Facebook</a>&nbsp;
       {%- endif -%}
       </p>
     </li>

@@ -1,6 +1,6 @@
 # Gender Construction Kit
 
-The UK guide to changing things linked to gender - [http://www.genderkit.org.uk](http://www.genderkit.org.uk)
+The UK guide to changing things linked to gender - [https://www.genderkit.org.uk](https://www.genderkit.org.uk)
 
 Want to help out? Please read the [CONTRIBUTING](https://github.com/genderkit/genderkit/blob/master/CONTRIBUTING.md) file.
 
