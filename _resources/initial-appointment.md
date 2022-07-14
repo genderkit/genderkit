@@ -9,6 +9,16 @@ feature:
 
 It can be really daunting to go to your first appointment at a specialist gender service. Not knowing what to expect can make it difficult to know how to prepare, and make the whole experience seem even more scary. On this page, we’ve collected some information about who you’re likely to be seen by and what you’re likely to be asked at a first appointment, so you can feel confident that you’re well prepared.
 
+### How many appointments will I have?
+
+The number of assessment appointments varies:
+
+- *NHS adult services*: two or more appointments 
+- *Private adult services*: one or more appointments 
+- *Under 18s services*: at least three appointments and normally more
+
+This article covers what to expect in your first appointment.
+
 ### What happens in the appointment?
 
 At most services, your first appointment is a conversation between you and a clinician. This clinician might be a doctor, nurse, psychologist, or psychiatrist. Sometimes, there might be more than one clinician there. You will normally be asked a number of questions. Don’t worry if you don’t have all the answers to these questions yet: it’s completely fine to still be thinking about some of them. You can also ask questions of your own. The appointment could be via video call, or in person at the gender service. Normally, the appointment will last around an hour.
@@ -69,6 +79,8 @@ You may be asked some additional questions in a consultation with a private serv
 
 ### What happens next?
 
-After your appointment, you should receive a letter which has been sent to you and your GP. This should summarise what happened in your appointment and what will happen next.
+After your appointment, you should receive a letter which has been sent to you and your GP. This should summarise what happened in your appointment and explain what will happen next.
 
-After a first appointment with an NHS service, you will normally need to be seen for at least one more appointment before you are given any hormone prescriptions.
+After a first appointment with an NHS service, you will normally need to be seen for at least one more appointment before you are given a formal diagnosis or hormones.
+
+After a first appointment with a private service, people are often given a formal diagnosis, but will also need an a private endocrinologist appointment before they can access hormones.
