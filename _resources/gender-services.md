@@ -38,11 +38,7 @@ You can find the waiting times for these services on our [ UK service wait times
 
 Other services that may be of interest to people in the UK include:
 
-- [Christian Seipp](https://www.christianseipp-urology.net/transgender-health.html) offers private endocrinology services to people 18 years or older who have been previously assessed for gender dysphoria
-- [GenderHealthCare](https://genderhealthcare.co.uk/) offers private nursing services to gender-diverse youth and trans people of all ages, including offering specialist advice, administering injections, and taking blood samples 
-- [GenderGP](https://gendergp.com/) are an international organisation providing services for trans patients of all ages, including hormones and counselling
-- [56 Dean Street](https://dean.st/trans-non-binary/) provide gender-based counselling and perform injections for hormones prescribed elsewhere
-- [Brighton and Hove Sexual Health](https://brightonsexualhealth.com/service/clinic-t/) provide hormone levels testing and perform injections for hormones prescribed elsewhere
+{% include organisations tag="Other gender services" %}
 
 ### Choosing a service
 

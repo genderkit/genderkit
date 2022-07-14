@@ -546,9 +546,9 @@ organisations:
         twitter: gendergp
         facebook: gendergp
         youtube: UCU1mUfFhtdIRZiWADXqPtnw
-        tags: ['Private healthcare']
+        tags: ['Private healthcare', 'Other gender services']
         image: gendergp
-        manualDescription: 'International private gender service'
+        manualDescription: 'International organisation providing services for trans patients of all ages including hormone prescribing and counselling'
         notes: 'Wait times may vary depending on your needs but are targeted at below 1 month'
         lastFacebookPost: '2017-12-09T09:31:45+0000'
         facebookDescription: 'This is a page to allow people to contact a real NHS GP for confidential advice on Transgender hormones, counselling and advice.'
@@ -2750,10 +2750,13 @@ organisations:
         image: transedu
     -
         name: 'Clinic T Trans Clinic'
-        tags: ['South East', Brighton, 'Local groups', 'Sexual health']
+        tags: ['South East', Brighton, 'Local groups', 'Sexual health', 'Other gender services']
         url: 'http://brightonsexualhealth.com/service/clinic-t/'
-        manualDescription: 'Clinic T is a sexual health service based in Brighton for anyone who identifies as trans, non-binary or gender variant (partners are welcome too).'
-        image: brightonsexualhealth
+        manualDescription: 'Clinic T is a sexual health service based in Brighton for anyone who identifies as trans, non-binary or gender variant (partners are welcome too). Clinic T can provide hormone levels testing and perform injections for hormones prescribed elsewhere, and also testing and treatment for STIS, help with bleeding control and contraception, cervical cytology, vaccination, social support and signposting to local partner support organisations.'
+        twitter: 'clinictbrighton'
+        twitterID: '1022835843617177601'
+        twitterIcon: 'https://pbs.twimg.com/profile_images/1022847261288656896/P9Dqxhr6_400x400.jpg'
+        twitterDescription: 'Sexual health service at Brighton SHAC for trans, non-binary and all gender diverse people.'
     -
         name: 'Space Youth Project T-Group'
         tags: ['South West', 'Local groups']
@@ -2990,9 +2993,10 @@ organisations:
     -
         name: '56T at 56 Dean Street'
         url: 'http://dean.st/trans-non-binary/'
-        tags: [London, 'Sexual health']
+        tags: [London, 'Sexual health', 'Other gender services']
         image: 56T
-        manualDescription: '56T is a holistic sexual health and wellbeing service for all trans/non-binary people, their partners and friends.'
+        manualDescription: '56T is a holistic sexual health and wellbeing service for all trans/non-binary people, their partners and friends. 56T provide gender-based counselling and perform injections for hormones prescribed elsewhere.'
+        facebook: 56TSoho
     -
         name: 'London Intersex + Trans Community Healthcare Hub'
         tags: [London, 'Local groups']
@@ -3167,8 +3171,8 @@ organisations:
         name: GenderHealthCare
         url: 'https://genderhealthcare.co.uk/'
         image: genderhealthcare
-        manualDescription: 'Help, advice and support from registered health professionals with personal and professional experience of non-conforming gender identities. Provides services to people of all ages.'
-        tags: ['Private services', 'Under 18s', National]
+        manualDescription: 'Help, advice and support from registered health professionals with personal and professional experience of non-conforming gender identities. Provides services to people of all ages including offering specialist advice, administering injections, and taking blood samples.'
+        tags: ['Private services', 'Under 18s', National, 'Other gender services']
     -
         name: 'Butterfly Clinic at the Royal Liverpool Hospital'
         url: 'https://www.axess.clinic/find-service/axess-services-liverpool/butterfly/'

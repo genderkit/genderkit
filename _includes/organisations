@@ -28,12 +28,12 @@
 
       <h3 id="{{ item.name | slugify }}"><a href="{{ url }}">{{ item.name | xml_escape }}</a></h3>
       <p>
-        {%- if item.twitterDescription -%}
+        {%- if item.manualDescription -%}
+          {{ item.manualDescription | xml_escape }}
+        {%- elsif item.twitterDescription -%}
           {{ item.twitterDescription | xml_escape }}
         {%- elsif item.facebookDescription -%}
           {{ item.facebookDescription | xml_escape }}
-        {%- else -%}
-          {{ item.manualDescription | xml_escape }}
         {%- endif -%}
       </p>
       <p>
