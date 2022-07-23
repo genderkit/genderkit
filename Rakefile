@@ -257,6 +257,8 @@ task :htmlproofer => :jekyll do
     :assume_extension => ".html",
     :disable_external => true,
     :check_html => true,
+    :enforce_https => false,
+    :allow_missing_href => false,
     :validation => {
       :report_missing_names => true
     },
