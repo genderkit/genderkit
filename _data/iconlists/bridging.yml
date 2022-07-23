@@ -1,0 +1,16 @@
+items:
+  - 
+    name: 'Monitored by medical professional'
+    icon: 'circle_plus'
+  - 
+    name: 'Standard UK prescriptions'
+    icon: 'circle_plus'
+  - 
+    name: 'Little or no costs'
+    icon: 'circle_plus'
+  - 
+    name: 'Usually only a minimum dose'
+    icon: 'circle_minus'
+  - 
+    name: 'Must be planning to get a diagnosis'
+    icon: 'circle_minus'   

@@ -4,31 +4,55 @@ title: Accessing HRT without a diagnosis
 description: Information on how to get hormone therapy without a diagnosis
 ---
 
-Normally, your GP will want you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) before they are willing to prescribe. However, there are some circumstances under which your GP may be willing to prescribe without a diagnosis.
+### How can I get hormones without a diagnosis?
 
-Unfortunately, there is not much consistency between different sources of guidance, with different organisations giving different criteria under which a GP should prescribe. This page is intended to help you understand what the different published guidance says, so that you can be fully informed when discussing this with your GP.
+Normally, your GP will want you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) before they are willing to prescribe. However, there are some circumstances under which your GP may be willing to prescribe without a diagnosis, and ways you can get hormones without involving your GP.
 
-Vincent {% cite vincent2018transgender --locator 148 %} lists the following circumstances when it could be appropriate for your GP to prescribe hormones without referring to a GIC, or before you've been seen by the GIC you've been referred to:
+### Using a gender service outside of the UK
 
-- When you've *already been seen* by a GIC
+As well as gender services based in the UK, there are also some based outside of the UK. Some pros and cons to consider are:
 
-  If you've already been seen by a GIC, there's little point in sending you back to one for another diagnosis. GMC guidelines state that "Once the patient has been discharged by a GIC or experienced gender specialist, the prescribing and monitoring of hormone therapy can be carried out in primary care without further specialist input." {% cite GMCTransPrescribing %}.
-- When you've *changed GP practice, and your previous practice was prescribing*
+{% include iconlist iconlist="clinic-outside-uk" %}
 
-  There are various health risks associated with stopping hormones, so if you've already been prescribed then your GP should continue prescribing without requiring an assessment {% cite cr181 --locator 28 %}. They may want to take a blood test, and this is usually a good idea.
-- When you need a *bridging prescription* --- a temporary prescription while you wait to be seen by a specialist
+In the UK, many people people looking for a service based outside of the UK use [GenderGP](https://www.gendergp.com/). 
 
-  Waiting lists for NHS services are notoriously long, and you might be able to convince your GP that it's unreasonable to expect you to wait that long for hormones {% cite cr181 --locator 25 %}. However, current GMC guidance is for GPs to only prescribe bridging prescriptions when a patient is already self-medicating, or is likely to start self-medicating, and is at risk of self-harm or suicide {% cite GMCTransBridging %}. You can find more information about bridging prescriptions on [the TransActual website](https://www.transactual.org.uk/bridging-prescriptions).
-- When you're already *self-medicating*, as part of a harm-reduction strategy
+Services based outside the UK may give you a prescription written by a doctor in the EU --- and some UK pharmacies may refuse to accept these. There is information about filling an EU prescription on [the GOV.UK website](https://www.gov.uk/guidance/prescriptions-issued-in-the-eea-and-switzerland-guidance-for-pharmacists) and [the Royal Pharmaceutical Society website](https://www.rpharms.com/about-us/news/details/Prescriptions-issued-in-the-EEA-and-Switzerland-guidance-for-pharmacists).
 
-  Unmonitored hormone therapy carries a number of risks. If you're already taking hormones you got from another source, your GP should strongly consider providing a bridging prescription and monitoring blood tests {% cite cr181 --locator 21 %}. You may have to convince them that without safe access to medication you will be at a greater risk of self-harm or suicide {% cite GMCTransBridging %}.
+### Bridging prescriptions
 
-It's very likely that your GP will still want to refer you to a GIC even if they do prescribe.
+A bridging prescription is temporary support from your GP while you wait for a diagnosis.
+
+{% include iconlist iconlist="bridging" %}
+
+Waiting lists for NHS services are notoriously long, and you might be able to convince your GP that it's unreasonable to expect you to wait that long for hormones {% cite cr181 --locator 25 %}. However, current GMC guidance is for GPs to only prescribe bridging prescriptions when a patient is already self-medicating, or is likely to start self-medicating, and is at risk of self-harm or suicide {% cite GMCTransBridging %}. The guidelines also suggest that only the minimum dose is provided {% cite GMCTransBridging %}, which may result in a GP prescribing the smallest possible dose, rather than the minimum dose that is actually effective. If your GP is uncertain about providing a bridging prescription, you can suggest they speak to their local NHS gender service for advice.
+
+You can find more information about bridging prescriptions on [the TransActual website](https://www.transactual.org.uk/bridging-prescriptions).
+
+### Self-medicating
+
+Self-medicating means buying hormones directly yourself.
+
+{% include iconlist iconlist="self-med" %}
+
+Unmonitored hormone therapy carries a number of risks. If you're already taking hormones you got from another source, your GP should strongly consider providing a bridging prescription and monitoring blood tests {% cite cr181 --locator 21 %}. You may have to convince them that without safe access to medication you will be at a greater risk of self-harm or suicide {% cite GMCTransBridging %}.
+
+Regardless of where you get your hormones, regular blood tests are essential to make sure that your hormone levels are safe and there are no problems. You can read more about these on [our blood testing page]({% link _resources/blood-testing.md %}). If your GP is unable or unwilling to give you blood tests at the practice, you should ask them to refer you to a local endocrinologist who can do the tests for them.
 
 {%capture warn%}
-Regardless of where you get your hormones, regular blood tests are essential to make sure that your hormone levels are safe and there are no problems. If your GP is unable or unwilling to give you blood tests at the practice, you should ask them to refer you to a local endocrinologist who can do the tests for them.
+Testosterone is a *controlled substance* and illegal to buy under UK law.
 {%endcapture%}
 {%include warning warning=warn%}
+
+If you are injecting medications yourself, read [our self-injections page]({% link _resources/injections.md %}) for information about safety, getting injection supplies, and safely disposing of waste.
+
+{%capture warn%}
+Medications not bought from a legitimate pharmaceutical supplier can be dangerous or ineffective.
+{%endcapture%}
+{%include warning warning=warn%}
+
+Many medications sold online do not contain any active ingredients and are a waste of your money. Even if your medications are genuine, the safety and purity of the medications is not guaranteed unless you have bought them from a legitimate pharmacy.
+
+### How do I talk to my GP?
 
 When talking to your GP, the following references may be useful:
 

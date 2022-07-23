@@ -1,0 +1,22 @@
+items:
+  - 
+    name: 'Monitored by medical professional'
+    icon: 'circle_plus'
+  - 
+    name: 'Quicker access to treatment'
+    icon: 'circle_plus'
+  - 
+    name: 'Clinicians may not be [GMC-registered](https://www.gmc-uk.org/registration-and-licensing/the-medical-register)'
+    icon: 'circle_minus'
+  - 
+    name: 'Pharmacists may not accept prescriptions'
+    icon: 'circle_minus'
+  - 
+    name: 'Surgeons may not accept referrals'
+    icon: 'circle_minus'
+  - 
+    name: 'UK GPs might not offer shared care'
+    icon: 'circle_minus'
+  - 
+    name: 'Fees for appointments, tests, and meds'
+    icon: 'circle_minus'

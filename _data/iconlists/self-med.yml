@@ -1,0 +1,22 @@
+items:
+  - 
+    name: 'Quick access to hormone treatment'
+    icon: 'circle_plus'
+  - 
+    name: 'Some medications are illegal to purchase'
+    icon: 'circle_exclamationmark'
+  - 
+    name: 'No medical supervision'
+    icon: 'circle_minus'
+  - 
+    name: 'Medications might not be genuine'
+    icon: 'circle_minus'
+  - 
+    name: 'Travelling with meds can be difficult'
+    icon: 'circle_minus'
+  - 
+    name: 'Costs of medications and blood tests'
+    icon: 'circle_minus'
+  - 
+    name: 'Not eligible for surgery in UK'
+    icon: 'circle_minus'
