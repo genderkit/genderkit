@@ -7,7 +7,9 @@
 - name: North West England
   colour: "#e7ffe5"
   items:
+    - "[Lancashire LGBT+](https://lancslgbt.org.uk) (free)"
     - "[LGBT Foundation](http://www.lgbt.foundation/talkingtherapies) (free)"
+    - "[Outreach Cumbria](http://www.outreachcumbria.org.uk/Talk-It-Out-Therapy.php) (free)"
 - name: Yorkshire
   colour: "#e5fff3"
   items:
@@ -28,9 +30,9 @@
     - "[Spectra](https://spectra-london.org.uk/trans-gender-services/trans-counselling/) (free)"
     - "[London Friend](https://londonfriend.org.uk/counselling/) (sliding scale)"
     - "[ELOP](http://www.elop.org/) (sliding scale)"
-    - "[Albany Trust](https://www.albanytrust.org/therapy) (sliding scale for short-term counselling)"
+    - "[Albany Trust](https://www.albanytrust.org/therapy) (sliding scale)"
     - "[The Awareness Centre](https://theawarenesscentre.com/therapy-services/lgbt-counselling/) (low cost)"
-    - "[Metro](https://metrocharity.org.uk/mental-health/lgbt-counselling-for-adults) (some low cost places available for Lewisham and Greenwich residents, full cost for those living elsewhere)"
+    - "[Metro](https://metrocharity.org.uk/mental-health/lgbt-counselling-for-adults) (low cost for Lewisham and Greenwich residents only)"
 - name: Brighton
   colour: "#fde5ff"
   items:
