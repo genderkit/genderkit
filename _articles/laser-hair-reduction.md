@@ -33,7 +33,9 @@ Another similar treatment is [IPL]({% link _articles/ipl.md %}).
 
 ### Where can I learn more?
 
-You can read more about laser hair removal on the [NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
+You can read more about facial hair removal methods in [this booklet produced by the NHS GDNRSS]({% link assets/pdf/PIL Facial Hair Reduction v5.pdf %}).
+
+There is also general information about laser hair removal on the [NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
 
 ### What kinds are there?
 

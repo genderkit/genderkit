@@ -81,8 +81,9 @@ Types of vaginoplasty that surgeons carry out include:
 
 You can read more about vaginoplasty surgeries in these booklets from the NHS Gender Dysphoria National Referral Support Service:
 
-- [vaginoplasty](https://www.leedsandyorkpft.nhs.uk/our-services/wp-content/uploads/sites/2/2021/10/v3_vaginoplasty-leaflet_gender_dysphoria.pdf)
-- [cosmetic vaginoplasty](https://www.leedsandyorkpft.nhs.uk/our-services/wp-content/uploads/sites/2/2021/10/v3_vulvoplasty_leaflet_gender_dysphoria.pdf)
+- [vaginoplasty]({% link assets/pdf/v7_vaginoplasty leaflet_gender_dysphoria.pdf %})
+- [cosmetic vaginoplasty]({% link assets/pdf/v6_vulvoplasty_leaflet_gender_dysphoria.pdf %})
+- [hair removal prior to vaginoplasty]({% link assets/pdf/PIL_Vaginoplasty_Epilation_Prior_To_Surgery_V6.pdf %})
 
 You can also read more about vaginoplasty in these booklets from Parkside Hospital who are a UK provider of vaginoplasty surgeries:
 

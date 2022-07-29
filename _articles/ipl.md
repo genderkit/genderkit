@@ -29,6 +29,10 @@ Intense pulsed light (IPL) therapy is an alternative to [laser hair reduction]({
 
 A similar technique is [laser hair reduction]({% link _articles/laser-hair-reduction.md %}). Medical studies have yet to come to a clear conclusion about whether IPL is more or less effective than laser hair reduction. Some studies have suggested that treatment with IPL is less effective {% cite klein2013photoepilation ormiga2014comparison %}, while others have found no difference {% cite gan2013laser szima2017comparison %}. NHS Scotland have produced guidance suggesting that IPL therapy may work less effectively on thicker hairs with deeper roots {% cite ngicns2020facial -l 7 %}.
 
+### Where can I learn more?
+
+You can read more about facial hair removal methods in [this booklet produced by the NHS GDNRSS]({% link assets/pdf/PIL Facial Hair Reduction v5.pdf %}).
+
 ### What else might I want?
 
 IPL hair reduction may be painful or uncomfortable. You can reduce the discomfort by asking your GP to prescribe you lidocaine and prilocaine cream, also known as EMLA cream. This is a local anaesthetic, applied directly onto the skin, which numbs the skin so you feel less pain from the treatment. You will normally need to apply the cream around an hour before your treatment.
