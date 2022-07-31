@@ -6,7 +6,15 @@ description: Information on how to get hormone therapy without a diagnosis
 
 ### How can I get hormones without a diagnosis?
 
-Normally, your GP will want you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) before they are willing to prescribe. However, there are some circumstances under which your GP may be willing to prescribe without a diagnosis, and ways you can get hormones without involving your GP.
+In the UK, there are a number of different ways you can access hormone therapy:
+
+- using an NHS gender service
+- using a private gender service
+- [using a gender service outside of the UK](#using-a-gender-service-outside-of-the-uk)
+- [bridging prescriptions](#bridging-prescriptions)
+- [self-medicating](#self-medicating)
+
+The last three options do not require you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), but have a number of pros and cons you might want to think through carefully before considering. You can read about more about these options on this page.
 
 ### Using a gender service outside of the UK
 
