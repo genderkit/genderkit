@@ -5,19 +5,17 @@
   name: "Cassian"
   contribution: "Photography"
 -
+  name: "Emily"
+  contribution: "Research, Writing"
+-  
+  name: "Hannah M"
+  contribution: "Photography"
+  articles:
+    - "Oestrogen"
+    - "Corsets"
+-
   name: "Iris"
   contribution: "Website development, Build system"
--
-  name: "Mx Aithne"
-  contribution: "Graphic Design, Photography"
-  articles: 
-    - "Getting a New Passport"
--  
-  name: "wolfwynd"
-  contribution: "Photography"
-  articles: 
-    - "Binding"
-    - "Piercings"
 -
   name: "Jenny"
   contribution: "Website development, Research"
@@ -27,15 +25,20 @@
 -
   name: "Mitzi"
   contribution: "Article reviewing, Research"
--  
-  name: "Hannah M"
-  contribution: "Photography"
-  articles:
-    - "Oestrogen"
-    - "Corsets"
 -
-  name: "Emily"
-  contribution: "Research, Writing"
+  name: "Mx Aithne"
+  contribution: "Graphic Design, Photography"
+  articles: 
+    - "Getting a New Passport"
+-
+  name: "Sophie"
+  contribution: "Research"
+-  
+  name: "wolfwynd"
+  contribution: "Photography"
+  articles: 
+    - "Binding"
+    - "Piercings"
 
 # Example credit
 # -
