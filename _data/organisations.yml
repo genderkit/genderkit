@@ -538,8 +538,8 @@ organisations:
         date-wait-first-appointment: 'Nov ''21'
         publishes-wait-first-appointment: false
         nhs-funding: false
-        referral-criteria: 'No referrals accepted'
-        updated: '2022-03-31'
+        referral-criteria: 'Allows self-referral'
+        updated: '2022-08-05'
     -
         heading: GenderGP
         name: GenderGP
