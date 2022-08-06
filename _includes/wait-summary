@@ -19,7 +19,7 @@
       {%- assign url = item.url -%}
       <td class="service-name">
       {%- if item.image -%}
-        <img alt="Logo of {{ item.name }}" src="{{ 'assets/images/organisations/' | append: item.image | append: '.jpg' | absolute_url | replace: '0.0.0.0', '127.0.0.1'}}" />
+        <img alt="Logo of {{ item.name }}" src="{% link assets/images/organisations/{{ item.image }}.jpg %}" />
       {%- endif -%}
           <span class="clinicheading">
             <h4 id="{%- if item.heading -%}{{ item.heading | slugify }}{%- else -%}{{ item.name | slugify }}{%- endif -%}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</h4>
