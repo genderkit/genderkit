@@ -1,69 +1,8 @@
 ---
 layout: page
 ---
-<script>
-function toggle(target)
-{
-  var isOpen = $(target).attr('aria-expanded') == 'true' ? true : false;
 
-  $('#categorylist').toggleClass("hidden");
-  if (isOpen)
-  {
-    $(target).find('span').html("&#9654;&#65038;&nbsp;");
-    $('#categorylist').attr('aria-hidden',"true");
-    $(target).attr('aria-expanded', 'false');
-  }
-  else
-  {
-    $(target).find('span').html("&#9660;&#65038;&nbsp;");
-    $('#categorylist').attr('aria-hidden',"false");
-    $(target).attr('aria-expanded', 'true');
-  }
-  return true;
-}
-
-function filterlist()
-{
-  if ($('#categorylist input:checked').length > 0)
-  {
-    $('.details > li').hide();
-    $('#categorylist input:checked').each(function ()
-      {
-        var category = $(this).attr('id');
-        $('.category-' + category).show();
-      }
-    );
-  }
-  else
-  {
-    $('.details > li').show();
-  }
-
-  return true;
-}
-
-document.body.onload = function() {
-  if ($(window).width() > 620)
-  {
-    toggle($("#accordionButton").get(0));
-  }
-};
-
-</script>
 <main>
-  <nav>
-    <h3 id="accordion-button">
-      <a role="button" id="accordionButton" aria-expanded="false" aria-controls="categorylist" onclick="return toggle(event.currentTarget);"><span aria-hidden="true">&#9654;&#65038;&nbsp;</span>Filters</a>
-    </h3>
-    <ul id="categorylist" role="region" aria-labelledby="accordionButton" aria-hidden="true" class="hidden">
-      {% for item in site.data.organisations.tags %}
-      <li>
-        <input onclick="return filterlist();" type="checkbox" id="{{ item | slugify }}">
-        <label for="{{ item | slugify }}">{{ item }}</label>
-      </li>
-      {% endfor %}
-    </ul>
-  </nav>
   <article>
     <section class="attention">
       <h3 id="youth-groups">Youth Groups</h3>
