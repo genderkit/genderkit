@@ -9,7 +9,7 @@ feature:
 
 ### What surgeries are available?
 
-The following surgeries are funded by the NHS for people with a [formal diagnosis]({% link _articles/formal-diagnosis.md %}):
+If you're over 18 and have a [formal gender diagnosis]({% link _articles/formal-diagnosis.md %}), the NHS will fund:
 
 {% include iconlist iconlist="surgery1" %}
 

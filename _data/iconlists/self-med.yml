@@ -1,13 +1,13 @@
 items:
   - 
+    name: 'Some medications are illegal to purchase'
+    icon: 'circle_danger'
+  - 
+    name: 'No medical supervision unless GP agrees to'
+    icon: 'circle_danger'
+  - 
     name: 'Quick access to hormone treatment'
     icon: 'circle_plus'
-  - 
-    name: 'Some medications are illegal to purchase'
-    icon: 'circle_exclamationmark'
-  - 
-    name: 'No medical supervision'
-    icon: 'circle_minus'
   - 
     name: 'Medications might not be genuine'
     icon: 'circle_minus'

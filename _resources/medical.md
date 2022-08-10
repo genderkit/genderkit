@@ -29,7 +29,7 @@ description: Information about accessing medical gender services in the UK
    Young people have two additional assessment appointments with the UCLH team.
 6. *Under 18 only: get puberty blockers*
 
-   Young people may then be offered [GnRH agonist]({% link _articles/gnrh-agonists.md %}) medication.
+   Young people may then be offered [gamete storage]({% link _articles/gamete-storage.md %}) and [GnRH agonist]({% link _articles/gnrh-agonists.md %}) medication.
 7. *Approval for hormone treatment*
 
    You may be allowed to start hormones at this point if either:
@@ -41,9 +41,9 @@ description: Information about accessing medical gender services in the UK
    Read our [hormones page]({% link _resources/hormones.md %}) for more information about hormones.
 
    If you are using a private service you will need to book an appointment with a private endocrinologist to begin your hormone treatment. After that appointment your endocrinologist can write to your GP to request shared care.
-8. *Referral for surgery if you want it*
+8. *Onward referrals*
 
-   Read our [surgery page]({% link _resources/surgery.md %}) for more information. Surgeries are only available to over 18s. NHS surgery funding is only available to patients who have been given a formal diagnosis by the NHS.
+   If you are over 18, you can also begin to be referred for any other services that you wish to use at this point, such as [speech therapy]({% link _articles/speech-therapy.md %}), [surgery]({% link _resources/surgery.md %}), and [laser]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}) hair removal. If you have not undertaken it already, you can also ask for a [gamete storage]({% link _articles/gamete-storage.md %}) referral, ideally before hormone treatment is started.
 
 ### What do I do if something goes wrong?
 
