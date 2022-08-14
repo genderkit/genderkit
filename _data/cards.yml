@@ -1,144 +1,127 @@
+network-nav:
+  -
+    url: 'https://supportsibs.org.uk'
+    name: Support Our Siblings
+    description: 'How to help other UK trans people'
+    icon: 'trans_heart.png'
+  -
+    url: 'https://stonewallwasariot.co.uk/'
+    name: Stonewall Was A Riot
+    description: 'Find trans protests in the UK'
+    icon: 'swar.png'
+  -
+    url: 'https://www.dillonmarshallcowell.co.uk/'
+    name: 'Dillon Marshall Cowell'
+    description: 'Information blog for UK trans people'
+    icon: 'dmc.png'
+  -
+    url: 'https://genderlibrary.co.uk/'
+    name: Gender Community Lending Library
+    description: 'Free access to trans and queer texts'
+    icon: 'gcll.jpg'
+  -
+    url: 'https://www.transactual.org.uk/'
+    name: TransActual
+    description: 'A range of info for trans people and allies'
+    icon: 'transactual.png'
+  -
+    url: 'https://genderarchive.org.uk/'
+    name: Gender Archive
+    description: 'Archive of UK trans info'
+    icon: 'gender-archive.png'
+page-nav:
+  -
+    page: 'index.md'
+    name: Change anything
+    description: How-to articles
+    icon: 'circle_info.png'
+  -
+    page: '_resources/medical.md'
+    name: Medical guide
+    description: UK services info
+    icon: 'circle_medical.png'
+  -
+    page: 'help.md'
+    name: Get help
+    description: Pages and groups
+    icon: 'circle_exclamationmark.png'
+main-nav:
+  -
+    page: '_resources/getting-started.md'
+    name: Feeling lost?
+    description: Read how to begin.
+    icon: 'circle_questionmark.png'
+  -
+    page: '_resources/medical.md'
+    name: Medical guide
+    description: UK services info
+    icon: 'circle_medical.png'
+  -
+    page: 'help.md'
+    name: Get help
+    description: Pages and groups
+    icon: 'circle_exclamationmark.png'
 explore:
   -
-    url: '/names/'
+    page: 'names.md'
     name: Names
   -
-    url: '/explore/pronouns/'
+    page: '_explore/pronouns.md'
     name: Pronouns
   -
-    url: '/explore/titles/'
+    page: '_explore/titles.md'
     name: Titles
   -
-    url: '/category/id-documents/'
+    page: '_categories/id-documents.md'
     name: ID documents
   -
-    url: '/article/updating-nhs-patient-details/'
+    page: '_articles/updating-nhs-patient-details.md'
     name: NHS records
   -
-    url: '/category/clothes/'
+    page: '_categories/clothes.md'
     name: Clothes
   -
-    url: '/category/voice/'
+    page: '_categories/voice.md'
     name: Voice
   -
-    url: '/category/menstruation/'
+    page: '_categories/menstruation.md'
     name: Menstruation
   -
-    url: '/category/head-hair/'
+    page: '_categories/head-hair.md'
     name: Head hair
   -
-    url: '/category/body-hair/'
+    page: '_categories/body-hair.md'
     name: Body hair
   -
-    url: '/category/facial-hair/'
+    page: '_categories/facial-hair.md'
     name: Facial hair
   -
-    url: '/category/muscles/'
+    page: '_categories/muscles.md'
     name: Muscles
   -
-    url: '/category/upper-body/'
+    page: '_categories/upper-body.md'
     name: Upper body
   -
-    url: '/category/lower-body/'
+    page: '_categories/lower-body.md'
     name: Lower body
   -
-    url: '/category/eyes/'
+    page: '_categories/eyes.md'
     name: Eyes
   -
-    url: '/category/face/'
+    page: '_categories/face.md'
     name: Face
   -
-    url: '/category/fragrance/'
+    page: '_categories/fragrance.md'
     name: Fragrance
   -
-    url: '/category/hands/'
+    page: '_categories/hands.md'
     name: Hands
   -
-    url: '/category/fertility/'
+    page: '_categories/fertility.md'
     name: Fertility
   -
-    url: '/category/libido/'
+    page: '_categories/libido.md'
     name: Libido
   -
-    url: '/category/mood/'
+    page: '_categories/mood.md'
     name: Mood
-find:
-  -
-    url: '/resources/gender-services/'
-    name: Gender clinics
-    footer: UK gender services
-  -
-    url: '/resources/local/'
-    name: Local organisations
-    footer: local groups
-  -
-    url: '/resources/national/'
-    name: National organisations
-    footer: our national organisations directory
-  -
-    url: '/resources/national/'
-    name: Books and PDFs
-    footer: our national organisations directory
-help:
-  -
-    url: '/resources/housing/'
-    name: Homelessness
-    footer: homelessness and housing
-  -
-    url: '/resources/violence/'
-    name: Violence and abuse
-    footer: domestic and sexual violence and abuse
-  -
-    url: '/resources/hate-crime/'
-    name: Hate crime
-    footer: hate crime
-  -
-    url: '/resources/immigration/'
-    name: Immigration
-    footer: immigration and asylum
-  -
-    url: '/resources/prisons/'
-    name: Prisons
-    footer: prisons
-information:
-  -
-    url: '/resources/family/'
-    name: Youth and families
-    footer: family
-  -
-    url: '/resources/employers/'
-    name: Employers
-    footer: employers
-  -
-    url: '/resources/clinicians/'
-    name: Clinicians
-    footer: clinicians
-  -
-    url: '/resources/schools/'
-    name: Schools
-    footer: schools and colleges
-  -
-    url: '/resources/universities/'
-    name: Universities
-    footer: universities
-resources:
-  -
-    url: '/resources/health/'
-    name: Staying healthy
-    footer: health and screening tests
-  -
-    url: '/resources/mental-health/'
-    name: Mental health
-    footer: mental health
-  -
-    url: '/resources/sports-and-fitness/'
-    name: 'Sport and fitness/'
-    footer: sport and fitness clubs and venues
-  -
-    url: '/resources/faith/'
-    name: Faith and religion
-    footer: faith and religion groups
-  -
-    url: '/resources/sex/'
-    name: Sex
-    footer: sex and contraception

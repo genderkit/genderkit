@@ -57,18 +57,18 @@ $bold-weight = 600
   header
     display flex
     margin-bottom 2rem
-  h2
-    background none
-    display flex
-    align-items flex-end
-    padding-bottom .25rem
-    margin-left 1rem
-    border none
-    justify-content flex-start
-    flex-grow 1
-    padding-left 1rem
-    font-size 2rem
-    font-weight 300
+    h2
+      background none
+      display flex
+      align-items flex-end
+      padding-bottom .25rem
+      margin-left 1rem
+      border none
+      justify-content flex-start
+      flex-grow 1
+      padding-left 1rem
+      font-size 2rem
+      font-weight 300
   h3:first-child
     margin-top 0
   .homescreen header h1 img
@@ -283,3 +283,7 @@ footer
     display flex
     flex-wrap wrap
   padding-bottom 15px
+
+#main-nav, #page-nav, #network-nav
+  grid-template-columns repeat(auto-fit,16rem)
+  justify-content center

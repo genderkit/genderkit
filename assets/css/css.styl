@@ -34,22 +34,22 @@ header
   background-color black
   background-size cover
   background-position center center
-h1, h2
-  color white
-  margin 0
-  padding 0
-  line-height 1.25
-h1
-  display flex
-  flex-direction column
-  img
-    width 12rem
-    height 6rem
-h2
-  background-color rgba(0,0,0,0.6)
-  font-size 1.5rem
-  letter-spacing -0.05rem
-  padding 1rem
+  h1, h2
+    color white
+    margin 0
+    padding 0
+    line-height 1.25
+  h1
+    display flex
+    flex-direction column
+    img
+      width 12rem
+      height 6rem
+  h2
+    background-color rgba(0,0,0,0.6)
+    font-size 1.5rem
+    letter-spacing -0.05rem
+    padding 1rem
 a
   color $main-colour
   text-decoration none
@@ -101,7 +101,7 @@ section, footer
   box-shadow #60f 0 0 5px
 
 // Remove default UL styling on most lists  
-nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, .requirements, #effectslist, #categorylist
+nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, .requirements, #effectslist, #categorylist, #main-nav, #page-nav, #network-nav
   padding 0
   margin 0
   li
@@ -181,7 +181,7 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
     margin-bottom 1rem
     
 // Article pages
-.effects, .requirements, #effectslist, #explore, #resources 
+.effects, .requirements, #effectslist, #explore, #resources, #main-nav, #page-nav, #network-nav
   margin-top 1rem
   margin-bottom 2rem
   padding 0
@@ -672,7 +672,7 @@ figure img
   padding 0
   list-style-type none
 
-.homescreen section h2, .homescreen section p 
+.homescreen section h2, .homescreen section p
   margin 0 1rem
   font-size 85%
   background inherit
@@ -828,36 +828,45 @@ ol#organisations > li
   margin-left 50px
   margin-bottom 1rem
 
-.navpanel
-  list-style-type none
-  padding 0
+#main-nav, #page-nav, #network-nav
   display grid
-  grid-template-columns repeat(auto-fit,16rem)
-  grid-gap 1rem
-  column-gap 1rem
-  justify-content center
+  gap 1rem
+  padding 1rem
+  justify-content stretch
   li
-    margin 0
-    display flex
-    flex-direction column
-    align-items flex-start
-    height 10rem
-    padding 1rem
-    justify-content flex-end
     background-color #f0effe
     box-shadow inset 0 0 10px 10px rgba(208,204,255,0.1)
     border-radius 8px
-    color #444
-    background-size cover
-    padding-bottom 0
-    padding-right 0
+    width 100%
+    min-height 6rem
+    margin 0
+    padding 0
+    a
+      display flex
+      flex-direction row
+      align-items center
+      padding 1rem
+      justify-content flex-start
+      padding 0 1rem
+      min-height 6rem
+    div
+      display flex
+      flex-direction column
+      align-items flex-start
+      margin .5rem
+      line-height 1.25
+      gap initial
     h2
       margin 0
       flex-grow 0
+      font-size 1rem
     p
       margin 0
-      margin-bottom 1rem
-    img
-      width 4rem
-      height 4rem
-      margin-bottom 1rem
+      color black
+    i
+      padding 0
+      margin .5rem 0
+      box-shadow none
+      min-width 4rem
+
+  
