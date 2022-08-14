@@ -12,7 +12,7 @@ These are things that are suitable for new contributors to do that would be real
 
 In around a couple of months, there should be many more opportunities to contribute, as we'll be moving some parts of what is currently genderkit.org.uk over to a new site, which should look something like:
 
-![Mobile genderarchive.org.uk mockup](https://s3.eu-west-2.amazonaws.com/alpha.genderkit.org.uk/mobile.JPG)  
+![Mobile genderarchive.org.uk mockup](https://s3.eu-west-2.amazonaws.com/alpha.genderkit.org.uk/mobile.jpg)  
   
 and on a desktop/tablet:
   
