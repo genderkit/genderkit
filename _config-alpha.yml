@@ -29,6 +29,7 @@ exclude:
   - LICENSE
   - CONTRIBUTING.md
   - README.md
+  - HELP-WANTED.md
   - whitelist
   - "data/*"
   - "vagrant/*"
