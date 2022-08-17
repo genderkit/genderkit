@@ -10,9 +10,10 @@
     - "[Lancashire LGBT+](https://lancslgbt.org.uk) (free)"
     - "[LGBT Foundation](http://www.lgbt.foundation/talkingtherapies) (free)"
     - "[Outreach Cumbria](http://www.outreachcumbria.org.uk/Talk-It-Out-Therapy.php) (free)"
-- name: Yorkshire
+- name: North East England
   colour: "#e5fff3"
   items:
+    - "[Arcus LGBT CIC](https://arcuslgbt.com/counselling-refferal-self-assessment/) (sliding scale)"
     - "[Yorkshire MESMAC](https://www.mesmac.co.uk/our-services/bradford/counselling) (free)"
 - name: West Midlands
   colour: "#e5fcff"
@@ -23,6 +24,7 @@
   colour: "#e5ecff"
   items:
     - "[Leicester LGBT Centre](https://leicesterlgbtcentre.org/lgbt-counselling) (sliding scale)"
+    - "[LGBT+ Nottinghamshire](https://www.lgbtplusnotts.org.uk) (free, 11-25 only)"
 - name: London
   colour: "#eee5ff"
   large: yes
