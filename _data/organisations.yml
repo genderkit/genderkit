@@ -115,7 +115,7 @@ organisations:
         publishes-wait-first-appointment: false
         wait-first-appointment: 3
         nhs-funding: false
-        referral-criteria: 'No referrals accepted'
+        referral-criteria: 'Allows self-referral'
         updated: '2020-11-25'
     -
         heading: Grampian
@@ -129,7 +129,7 @@ organisations:
         wait-first-appointment: 18
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2020-10-21'
+        updated: '2022-08-12'
         catchment: 'Grampian, Orkney and Shetland GP only'
     -
         heading: Edinburgh
@@ -463,15 +463,14 @@ organisations:
         manualDescription: 'NHS gender service based in Inverness'
         image: nhs-scotland
         age-range: 17+
-        publishes-wait-first-appointment: true
-        custom-wait-first-appointment: '>7'
-        source-wait-first-appointment: 'https://www.highlandsexualhealth.co.uk/gender-identity/gender-identity'
-        date-wait-first-appointment: 'Dec ''21'
+        publishes-wait-first-appointment: false
+        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_highland_sexual'
+        date-wait-first-appointment: 'Aug ''21'
         nhs-funding: true
         referral-criteria: 'Allows self-referral'
         update-date: '2020-07-05'
         catchment: 'Highland GP only'
-        extra-information: 'Currently not processing new patients, but will accept them onto wait list. Wait time information is an estimated wait, not the time waited by patients currently being seen'
+        extra-information: 'Not processing patients so no current wait time info. Will accept referrals'
     -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss'
@@ -491,12 +490,12 @@ organisations:
         tags: ['Private healthcare', 'Gender Clinics', National]
         image: ngn
         manualDescription: 'Private sector network of specialists in the field of Gender Dysphoria based in the North of England.'
-        age-range: 16+
+        age-range: 18+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 5
+        wait-first-appointment: 6-8
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2020-08-14'
+        updated: '2022-08-15'
     -
         heading: GenderDoctors
         name: GenderDoctors
