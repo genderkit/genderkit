@@ -30,6 +30,7 @@ exclude:
   - logs
   - LICENSE
   - CONTRIBUTING.md
+  - HELP-WANTED.md
   - README.md
   - whitelist
   - "data/*"

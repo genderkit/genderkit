@@ -29,7 +29,7 @@ Many swimming pools and gyms now have cubicle based changing rooms and showers w
 
 Swimming can be particularly difficult for many people as it can involve very tight clothing that can make the shape of your chest or crotch visible. If you find your chest shape distresses you, most pools will be happy for you to wear a rash vest, which can help to hide your chest shape or conceal a [binder]({% link _articles/binding.md %}). Many binders can be worn while swimming - check with your binder manufacturer to be sure. If your crotch causes you distress, you may be able to find "swim skirt" swimwear that hides your crotch shape, or wear loose "board shorts" style swimming trunks.
 
-In some areas of the country there are organisations specifically for expanding access to sport and fitness for people regardless of their gender history. Some run regular sessions at swimming pools where transgender, nonbinary or gender variant people can attend as a group. These organisations are listed further down this page.
+In some areas of the country there are organisations specifically for expanding access to sport and fitness for people regardless of their gender history. Some run regular sessions at swimming pools where transgender, nonbinary or gender variant people can attend as a group. You can find a map with LGBT+ friendly sports clubs and exercise clubs on [the Pride Sports website](https://pridesports.org.uk/lgbt-club-finder/) - many of these clubs are welcoming of trans people, and you can also use their database to search for trans-only clubs.
 
 You may also want to consider other ways of getting physical exercise that may be less gendered, for example:
 
