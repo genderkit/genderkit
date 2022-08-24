@@ -3409,3 +3409,18 @@ organisations:
         twitterDescription: 'Loving Me is an online support service for trans, non-binary and gender queer individuals who live in England and are suffering from Domestic/Sexual violence.'
         lastTwitterPost: 'Fri Jul 08 21:05:30 +0000 2022'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1494702207828217862/hszww07e_normal.jpg'
+    -
+        heading: Gender Identity SW
+        name: Gender Identity South West
+        url: 'https://www.genderidentitysouthwest.co.uk'
+        tags: ['Private healthcare', 'Gender Clinics', National]
+        image: gisw
+        manualDescription: 'Service based in Exeter, South West England for trans, non-binary and gender diverse adults who experience gender related distress and difficulty and are considering, or have decided that they would like to access gender affirming healthcare, including hormone therapy and surgery.​'
+        age-range: 18+
+        updated: '2022-08-24'
+        wait-first-appointment: 3
+        date-wait-first-appointment: 'Aug ''22'
+        source-wait-first-appointment: 'https://www.genderidentitysouthwest.co.uk/faq-s'
+        publishes-wait-first-appointment: true
+        nhs-funding: false
+        referral-criteria: 'Allows self-referral'
