@@ -127,6 +127,12 @@ organisations:
         age-range: 18+
         publishes-wait-first-appointment: true
         wait-first-appointment: 18
+        date-wait-first-appointment: 'Aug ''22'
+        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen'
+        publishes-wait-hormones: true
+        wait-hormones: 8
+        source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen'
+        date-wait-hormones: 'Aug ''22'
         nhs-funding: true
         referral-criteria: 'GP referral only'
         updated: '2022-08-12'
