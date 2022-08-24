@@ -10,18 +10,21 @@
     - "[Lancashire LGBT+](https://lancslgbt.org.uk) (free)"
     - "[LGBT Foundation](http://www.lgbt.foundation/talkingtherapies) (free)"
     - "[Outreach Cumbria](http://www.outreachcumbria.org.uk/Talk-It-Out-Therapy.php) (free)"
-- name: Yorkshire
+- name: North East England
   colour: "#e5fff3"
   items:
+    - "[Arcus LGBT CIC](https://arcuslgbt.com/counselling-refferal-self-assessment/) (sliding scale)"
     - "[Yorkshire MESMAC](https://www.mesmac.co.uk/our-services/bradford/counselling) (free)"
 - name: West Midlands
   colour: "#e5fcff"
   items:
     - "[Birmingham LGBT](https://blgbt.org/counselling-and-psychotherapy/) (free)"
+    - "[Wolverhampton LGBT](https://wolverhamptonlgbt.org/inclusive-counselling/) (free)"
 - name: East Midlands
   colour: "#e5ecff"
   items:
     - "[Leicester LGBT Centre](https://leicesterlgbtcentre.org/lgbt-counselling) (sliding scale)"
+    - "[LGBT+ Nottinghamshire](https://www.lgbtplusnotts.org.uk) (free, 11-25 only)"
 - name: London
   colour: "#eee5ff"
   large: yes
@@ -33,14 +36,16 @@
     - "[Albany Trust](https://www.albanytrust.org/therapy) (sliding scale)"
     - "[The Awareness Centre](https://theawarenesscentre.com/therapy-services/lgbt-counselling/) (low cost)"
     - "[Metro](https://metrocharity.org.uk/mental-health/lgbt-counselling-for-adults) (low cost for Lewisham and Greenwich residents only)"
-- name: Brighton
+- name: South West England
   colour: "#fde5ff"
   items:
-    - "[Mind Out](https://www.mindout.org.uk/get-support/counselling/) (sliding scale)"
-- name: South West England
+    - "[Intercom Trust](https://www.intercomtrust.org.uk/) (low cost)"
+    - "[Mind Bristol](https://bristolmind.org.uk/counselling/lgbtqcounselling/) (sliding scale)"
+- name: South East England
   colour: "#ffe5f1"
   items:
-    - "[Intercom Trust](https://www.intercomtrust.org.uk/) (low cost)"
+    - "[Mind Out](https://www.mindout.org.uk/get-support/counselling/) (sliding scale)"
+    - "[Support U](https://www.supportu.org.uk/counselling/) (free)"
 - name: Wales
   colour: "#ffe9e5"
   items:
