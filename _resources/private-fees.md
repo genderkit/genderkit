@@ -17,6 +17,7 @@ You may also need to pay prescription costs, costs for blood tests, and costs fo
 Most private gender services list information about fees on their websites. 
 
 - [GenderCare fees](https://gendercare.co.uk/fees.shtml)
+- [Gender Identity South West fees](https://www.genderidentitysouthwest.co.uk/specialist-gender-assessment)
 - [Harley Street Gender Clinic fees](https://www.harleystgenderclinic.com/pricing)
 - [London Transgender Clinic fees](https://www.thelondontransgenderclinic.uk/price-list/)
 - [Dr Lenihan fees](https://www.drpennylenihan.co.uk/services)
