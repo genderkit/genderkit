@@ -14,12 +14,16 @@
   </header>
 
   <section>
+ 
   <h2 id="in-the-uk-heres-how-to-change-your">In the UK? Here's how to change your:</h2>
-  {% include cards cards="explore" icons="true" %}
-  <h2 id="dont-know-where-to-begin">Don't know where to begin?</h2>
-  <p>Read <a href="{% link _resources/getting-started.md %}">how to get started.</a></p>
+  {% include cards cards="explore" %}
+
+  {% include cards cards="main-nav" %}
   </section>
 
-  {% include footer.html %}
+  <section>
+    <p style="text-align: center">made for UK queers by UK queers<br><a href="{% link credits.md %}">credits</a> - <a href="https://github.com/genderkit/genderkit">github</a> - <a href="https://www.facebook.com/{{ site.facebook_username }}">facebook</a> - <a
+      href="https://twitter.com/{{ site.twitter_username }}">twitter</a></p>
+  </section>
 </body>
 </html>
