@@ -22,7 +22,7 @@ As well as gender services based in the UK, there are also some based outside of
 
 {% include iconlist iconlist="clinic-outside-uk" %}
 
-In the UK, many people people looking for a service based outside of the UK use [GenderGP](https://www.gendergp.com/). 
+In the UK, many people looking for a service based outside of the UK use [GenderGP](https://www.gendergp.com/). 
 
 Services based outside the UK may give you a prescription written by a doctor in the EU --- and some UK pharmacies may refuse to accept these. There is information about filling an EU prescription on [the GOV.UK website](https://www.gov.uk/guidance/prescriptions-issued-in-the-eea-and-switzerland-guidance-for-pharmacists) and [the Royal Pharmaceutical Society website](https://www.rpharms.com/about-us/news/details/Prescriptions-issued-in-the-EEA-and-Switzerland-guidance-for-pharmacists).
 
