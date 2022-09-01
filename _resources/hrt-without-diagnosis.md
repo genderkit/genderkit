@@ -14,7 +14,7 @@ In the UK, there are a number of different ways you can access hormone therapy:
 - [bridging prescriptions](#bridging-prescriptions)
 - [self-medicating](#self-medicating)
 
-The last three options do not require you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), but have a number of pros and cons you might want to think through carefully before considering. You can read about more about these options on this page.
+The last three options do not require you to have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), but have a number of pros and cons you might want to think through carefully before considering. You can read more about these options on this page.
 
 ### Using a gender service outside of the UK
 
@@ -38,13 +38,13 @@ You can find more information about bridging prescriptions on [the TransActual w
 
 ### Self-medicating
 
-Self-medicating means buying hormones directly yourself.
+Self-medicating means buying hormones directly yourself without a prescription.
 
 {% include iconlist iconlist="self-med" %}
 
 Unmonitored hormone therapy carries a number of risks. If you're already taking hormones you got from another source, your GP should strongly consider providing a bridging prescription and monitoring blood tests {% cite cr181 --locator 21 %}. You may have to convince them that without safe access to medication you will be at a greater risk of self-harm or suicide {% cite GMCTransBridging %}.
 
-Regardless of where you get your hormones, regular blood tests are essential to make sure that your hormone levels are safe and there are no problems. You can read more about these on [our blood testing page]({% link _resources/blood-testing.md %}). If your GP is unable or unwilling to give you blood tests at the practice, you should ask them to refer you to a local endocrinologist who can do the tests for them.
+Regardless of where you get your hormones, regular blood tests are essential to make sure that your hormone levels are safe and there are no problems. You can read more about these on [our blood testing page]({% link _resources/blood-testing.md %}). If your GP is unable or unwilling to give you blood tests at the practice, read [our page on dealing with common problems]({% link _resources/problems.md %}) for more suggestions.
 
 {%capture warn%}
 Testosterone is a *controlled substance* and illegal to buy under UK law.
