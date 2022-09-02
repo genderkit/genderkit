@@ -26,6 +26,12 @@ Your work will appear on the credits page if you add an entry for yourself [to t
 4. Press the big green "Create Fork" button.
 5. You now have your own version of the site that you can make changes to. Find the files you want to change, and when you want to make a change, use the edit (pencil) button to start making changes.
 6. When you've made your updates to the file, use the "Commit changes" button at the bottom of the page to save your changes.
+7. Now go back to the main page of your fork (e.g. "github.com/my_user_name/genderkit"). 
+8. At the top of the list of files there should be a Sync Changes button - use this to check if your version of the site is up to date and update it if needed.
+9. Now you can make a request to add your changes to the main version of the site (called a 'pull request'). Click  the Contribute button at the top of the list of pages . You will need to press the "Create Pull Request" button.
+10. Make sure that the pull request you are creating only has the changes you want in it, and then hit the green button to create the pull request.
+
+We'll be notified that you've put a request in, and will approve the changes if we're happy with them.
 
 ### I can code - how do I do development for the site?
 
