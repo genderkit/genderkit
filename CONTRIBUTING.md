@@ -18,6 +18,21 @@ If you need help, message us on Twitter or Facebook and we can help get you star
 
 Your work will appear on the credits page if you add an entry for yourself [to this file](https://github.com/genderkit/genderkit/blob/master/_data/credits.yml).
 
+### I'm not a coder - how do I contribute to the site?
+
+1. Make yourself a GitHub account and log in to GitHub.
+2. Open the [genderkit repository](https://github.com/genderkit/genderkit) on GitHub.
+3. Press the "Fork" button (normally in the top right)
+4. Press the big green "Create Fork" button.
+5. You now have your own version of the site that you can make changes to. Find the files you want to change, and when you want to make a change, use the edit (pencil) button to start making changes.
+6. When you've made your updates to the file, use the "Commit changes" button at the bottom of the page to save your changes.
+7. Now go back to the main page of your fork (e.g. "github.com/my_user_name/genderkit"). 
+8. At the top of the list of files there should be a Sync Changes button - use this to check if your version of the site is up to date and update it if needed.
+9. Now you can make a request to add your changes to the main version of the site (called a 'pull request'). Click  the Contribute button at the top of the list of pages . You will need to press the "Create Pull Request" button.
+10. Make sure that the pull request you are creating only has the changes you want in it, and then hit the green button to create the pull request.
+
+We'll be notified that you've put a request in, and will approve the changes if we're happy with them.
+
 ### I can code - how do I do development for the site?
 
 Want to write some code? Please read [Local Development](https://github.com/genderkit/genderkit/wiki/Local-development) on the wiki for instructions on how to set up a local installation of the website for testing. If you're looking for some jobs to do, check out the [issues list](https://github.com/genderkit/genderkit/issues) for ideas.
