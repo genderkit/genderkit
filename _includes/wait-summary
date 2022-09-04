@@ -11,7 +11,6 @@
 {%- if include.free -%}
     <th><div class="rotate"><div class="smaller">To get</div><div>hormones</div><div class="smaller">(in months)</div></div></th>
     <th><div class="rotate"><div>Total</div><div class="smaller">(in months)</div></div></th>
-    <th><div class="rotate"><div class="smaller">Transfers</div><div>prioritised?</div></div></th>
 {%- endif -%}
   </tr>
   {%- for item in sortedOrganisations -%}
@@ -72,19 +71,6 @@
 <!-- -->
       </td>
 {%- endif -%}
-{%- endif -%}
-{%- if include.free -%} 
-      <td class="centred">
-        {%- if item.wait-carried-over != nil -%}
-          {%- if item.wait-carried-over == "yes" or item.wait-carried-over == true -%}
-            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
-          {%- else -%}
-            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
-          {%- endif -%}
-        {%- else -%}
-          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
-        {%- endif -%}
-      </td>
 {%- endif -%}
     </tr>
   {%- endfor -%}

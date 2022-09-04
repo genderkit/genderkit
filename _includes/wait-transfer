@@ -1,0 +1,65 @@
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "item.pilot != true" | where_exp:"item", "item.referral-criteria != 'No referrals accepted'" |sort:"heading" -%}
+
+<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
+{%- if include.description -%}
+<p>{{ include.description | markdownify }}</p>
+{%- endif -%}
+<table class="details summarydetails" id="wait-summary">
+  <tr>
+    <th>{% if include.free %}<div class="rotate">{% endif %}<div>Service</div>{% if include.free %}</div>{% endif %}</th>
+    <th>{% if include.free %}<div class="rotate">{% endif %}<div class="smaller">from</div><div>youth</div><div class="smaller">wait list</div>{% if include.free %}</div>{% endif %}</th>
+{%- if include.free -%}
+    <th><div class="rotate"><div class="smaller">from</div><div>any NHS</div><div class="smaller">wait list</div></div></th>
+    <th><div class="rotate"></div></th>
+{%- endif -%}
+  </tr>
+  {%- for item in sortedOrganisations -%}
+    <tr>
+      {%- assign url = item.url -%}
+      <td class="service-name">
+      {%- if item.image -%}
+        <img alt="Logo of {{ item.name }}" src="{% link assets/images/organisations/{{ item.image }}.jpg %}" />
+      {%- endif -%}
+          <span class="clinicheading">
+            <h4 id="{%- if item.heading -%}{{ item.heading | slugify }}{%- else -%}{{ item.name | slugify }}{%- endif -%}">{%- if item.heading -%}{{ item.heading | xml_escape }}{%- else -%}{{ item.name | xml_escape }}{%- endif -%}</h4>
+          </span>
+     {%- if include.free -%}
+       <a class="detail-link" href="#{{ item.name | slugify }}-fulldetail">more info</a>
+     {%- endif -%}
+     </td>
+{%- if include.free -%} 
+      <td class="centred">
+        {%- if item.wait-youth-carried-over != nil -%}
+          {%- if item.wait-youth-carried-over == "yes" or item.wait-youth-carried-over == true -%}
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
+          {%- else -%}
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
+          {%- endif -%}
+        {%- else -%}
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+        {%- endif -%}
+      </td>
+{%- endif -%}
+{%- if include.free -%} 
+      <td class="centred">
+        {%- if item.wait-carried-over != nil -%}
+          {%- if item.wait-carried-over == "yes" or item.wait-carried-over == true -%}
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
+          {%- else -%}
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
+          {%- endif -%}
+        {%- else -%}
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
+        {%- endif -%}
+      </td>
+{%- endif -%}
+{%- if include.free -%} 
+      <td class="centred">
+        {%- if item.transfer-info != nil -%}
+          {{ item.transfer-info | markdownify }}
+        {%- endif -%}
+      </td>
+{%- endif -%}
+    </tr>
+  {%- endfor -%}
+</table>

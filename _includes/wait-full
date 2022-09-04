@@ -92,7 +92,7 @@
           <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
         {%- endif -%}
         </span>
-        <p>are transfers from other NHS wait lists prioritised?</p>
+        <p>is original referral date kept for transfers?</p>
         <p>
         {%- if item.source-wait-carried-over != nil -%}
           <a class="source" href="{{ item.source-wait-carried-over }}">(source)</a>{%- if item.date-wait-carried-over -%}&nbsp;- {{ item.date-wait-carried-over }}{%- endif %}

@@ -61,6 +61,7 @@ organisations:
         nhs-funding: true
         referral-criteria: 'GP referral only'
         publishes-wait-first-appointment: true
+        wait-youth-carried-over: yes
         wait-carried-over: yes
         wait-first-appointment: 24
         source-wait-first-appointment: 'https://gender.wales/'
@@ -170,6 +171,7 @@ organisations:
         date-wait-first-appointment: 'Jun ''22'
         source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
+        wait-youth-carried-over: yes
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
         nhs-funding: true
@@ -211,7 +213,8 @@ organisations:
         wait-hormones: 12
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in'
         date-wait-hormones: 'Apr ''21'
-        wait-carried-over: no
+        wait-youth-carried-over: yes
+        wait-carried-over: yes
         source-wait-carried-over: 'https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times'
         date-wait-carried-over: 'Mar ''21'
         nhs-funding: true
@@ -277,6 +280,7 @@ organisations:
         wait-hormones: 8
         date-wait-hormones: 'Jul ''21'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data'
+        wait-youth-carried-over: yes
         wait-carried-over: no
         date-wait-carried-over: 'Jul ''21'
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data'
@@ -300,6 +304,7 @@ organisations:
         wait-hormones: 41
         date-wait-hormones: 'Jun ''22'
         source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
+        wait-youth-carried-over: yes
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic'
         date-wait-carried-over: 'Jun ''21'
@@ -346,6 +351,7 @@ organisations:
         wait-hormones: 18
         date-wait-hormones: 'Sep ''21'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times'
+        wait-youth-carried-over: yes
         wait-carried-over: no
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times'
         date-wait-carried-over: 'Dec ''21'
@@ -453,6 +459,7 @@ organisations:
         wait-hormones: 18
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
         date-wait-hormones: 'Jul ''21'
+        wait-youth-carried-over: yes
         wait-carried-over: no
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
         date-wait-carried-over: 'Apr ''21'
