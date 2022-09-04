@@ -3460,3 +3460,9 @@ organisations:
         manualDescription: 'TSG HERTS is a support group for Trans people, their families and friends.'
         image: tsg
         tags: ['Local groups', 'East of England']
+    -
+        name: 'The Wardrobe'
+        url: 'https://thenewbridgeproject.com/artist/the-wardrobe/'
+        manualDescription: 'The Wardrobe is a clothing resource for trans, non-binary and genderqueer people. We collect quality secondhand clothes and provide a safe space to try them on. Find us at The NewBridge Project in Shieldfield, Newcastle upon Tyne.'
+        image: wardrobe
+        tags: ['Local groups', 'North East']

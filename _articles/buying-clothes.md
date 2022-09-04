@@ -116,7 +116,10 @@ Some options available to you are:
 
 ### How much will it cost?
 
-You can browse free clothes donated for use by trans people on [the TIN Wardrobe site](https://www.instagram.com/tin_wardrobe/).
+You can browse free clothes donated for use by trans people:
+
+- on [the TIN Wardrobe site](https://www.instagram.com/tin_wardrobe/)
+- at [The Wardrobe](https://thenewbridgeproject.com/artist/the-wardrobe/) (Newcastle-upon-Tyne)
 
 Some areas of the UK have clothes swaps or exchanges, where trans and nonbinary people can find clothes that have been donated by other people who no longer need them and swap them with ones they do not want. You can do this online on [the G(end)er Swap N' Shop Facebook group](https://www.facebook.com/groups/303310593636125). LGBT+ organisations, student unions, and LGBT events will often run in-person clothes swap events - if there isn't one coming up, you can try asking them if they would run one. You might also want to look into events run by [G(end)er Swap CIC](https://genderswap.org/events).
 
