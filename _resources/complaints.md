@@ -6,21 +6,37 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
 ### How do I make a complaint?
 
-1.  *Tell people about the problem*
+1.  *Tell the service about the problem*
 
-    The first step is to informally let someone know you are having a problem. This might mean speaking to your GP or GP surgery reception staff. You can find information that can be useful when doing this on [our page about common healthcare issues]({% link _resources/problems.md %}).
+    The first step is to informally let the healthcare service you are using know you are having a problem. For example, if you are having a problem at a GP surgery, this might mean speaking to your GP or GP surgery reception staff. 
 
-2.  if things don't get fixed, *make a formal complaint*
+    It's important to think about what could help you be comfortable and confident when explaining your problem:
 
-    If you aren't able to get the issue fixed, or you want there to be a record that a problem happened, you might want to use the formal complaint process. If your complaint is about how you were treated at a GP surgery, your GP surgery should provide information on how to do this on their website - if not, contact the surgery and ask to speak to the practice manager.
+    - would it be helpful to have someone with you as emotional support?
+    - would it be helpful for someone else to advocate on your behalf? 
+    - would it help to write down a list of points you want to make so nothing gets forgotten about?
+    - would it be easier to tell the service by email or letter than in person?
+    - do you need to ask for a private room to discuss the problem in for privacy?
+    
+    You can find information that can be useful when talking to a GP surgery on [our page about common healthcare issues]({% link _resources/problems.md %}).
 
-3.  consider *getting support with making your complaint*
+2.  if things don't get fixed, consider *getting support with making a complaint*
 
-    To find out what help you can get in England speak to [the Patient Advice and Liaison Service](https://www.nhs.uk/nhs-services/hospitals/what-is-pals-patient-advice-and-liaison-service/), in Northern Ireland to [the Patient and Client Council Complaints Support Service](https://pcc-ni.net/), in Scotland to [the Patient Advice and Support Service](https://www.cas.org.uk/pass), and in Wales to your local [Community Health Council](https://111.wales.nhs.uk/localservices/communityhealthcouncils).
+    If you aren't able to get the issue fixed, or you want there to be a record that a problem happened, you might want to use the formal complaint process. Going through the process of making a complaint can be draining - it's a good idea to get help with the process, or to ask someone else to do it on your behalf, particularly if you've not been through the process before. You can find information lower down this page about services that can help support you to make a complaint.
+
+3.  *make a formal complaint*
+
+    NHS healthcare services all have a system for handling official complaints. You can normally find information about how to make complaint on their website. If you aren't able to find out how to make a complaint from their website, ask staff at the service how to make a complaint.
+
+    For example, if your complaint is about how you were treated at a GP surgery, your GP surgery should provide information on how to do this on their website - if not, contact the surgery and ask to speak to the practice manager.
 
 4.  *file a formal complaint at a higher level*
 
-    There are guides on how to do this on the websites of the national healthcare organisations for [England](https://www.england.nhs.uk/contact-us/complaint/complaining-to-nhse/), [Northern Ireland](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/feedback-and-complaints/feedback-complaints-and-your-rights), and [Wales](https://www.wales.nhs.uk/ourservices/contactus/nhscomplaints). If your complaint is about a specific person who has behaved inappropriately you could also complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/who-to-contact/).
+    There are guides on how to do this on the websites of the national healthcare organisations for [England](https://www.england.nhs.uk/contact-us/complaint/complaining-to-nhse/), [Northern Ireland](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/feedback-and-complaints/feedback-complaints-and-your-rights), and [Wales](https://www.wales.nhs.uk/ourservices/contactus/nhscomplaints). 
+    
+    If your complaint is about a specific person who has behaved inappropriately you could also complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/who-to-contact/).
+
+    In all parts of the UK, you can also complain about data protection issues to the [Information Commissioners Office](https://ico.org.uk/make-a-complaint/data-protection-complaints/). You might want to do this if private information about you or your health conditions has been shared with someone who should not have access to this information.
 
 5.  if you're unhappy with the response, *complain to the ombudsman*
 
@@ -28,13 +44,31 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
 It is important to consider making a complaint quickly as some nations have time limits after which your complaint will not be accepted.
 
-In all parts of the UK, you can also complain about data protection issues to the [Information Commissioners Office](https://ico.org.uk/make-a-complaint/data-protection-complaints/). You might want to do this if private information about you or your health conditions has been shared with someone who should not have access to this information.
+### Where can I get support with making a complaint?
+
+To get free support to make a complaint about NHS care:
+
+- in *England* find your local Healthwatch using [their search tool](https://www.healthwatch.co.uk/your-local-healthwatch/list). The website for your local Healthwatch will normally include information about where you can get support locally for making a complaint, which is often provided by an independent organisation like [POhWER](https://www.pohwer.net/) or [VoiceAbility](https://www.voiceability.org/). You can also contact [the Patient Advice and Liaison Service](https://www.nhs.uk/nhs-services/hospitals/what-is-pals-patient-advice-and-liaison-service/) for help with making a complaint.
+- in *Northern Ireland* speak to [the Patient and Client Council Complaints Support Service](https://pcc-ni.net/)
+- in *Scotland* speak to [the Patient Advice and Support Service](https://www.cas.org.uk/pass)
+- in *Wales* to your local [Community Health Council](https://111.wales.nhs.uk/localservices/communityhealthcouncils)
+
+You may also be able to get free support:
+
+- in *London*, people over 18 can access [the Spectra Trans Health Advocacy Service](https://spectra-london.org.uk/trans-services/trans-health-advocacy/)
+- in *Manchester* and Greater Manchester, people over 16 can access [the LGBT Foundation Trans Advocacy service](http://lgbt.foundation/how-we-can-help-you/trans-advocacy)
+- from another [local LGBT+ organisation]({% link _resources/local.md %})
+- or if your complaint relates to mental health services, from [your local branch of Mind](https://www.mind.org.uk/information-support/local-minds/).
+
+To get information and ask questions about the complaints process you can also contact [the Patient's Association helpline](https://www.patients-association.org.uk/helpline).
+
+### How do I request my medical records?
 
 If you think it might be helpful to know what has been written in your medical records, you have a legal right to ask for this information. You can find out how to get access to your medical records on these pages about the process in [England](https://www.nhs.uk/using-the-nhs/about-the-nhs/how-to-get-your-medical-records/), [Northern Ireland](https://www.nidirect.gov.uk/articles/accessing-medical-or-health-and-social-care-records), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/confidentiality-and-data-protection/health-records#accessing-your-health-records), and [Wales](https://thepracticeofhealth.nhs.wales/patient-information/subject-access-request-sar/).
 
 ### Where can I learn more?
 
-To get support with understanding the whole complaints process you can contact [the Patient's Association helpline](https://www.patients-association.org.uk/helpline), or read [their detailed guide to making a complaint](https://www.patients-association.org.uk/making-a-complaint).
+There is a detailed guide to making a complaint about UK healthcare [on the Patient's Association website](https://www.patients-association.org.uk/making-a-complaint).
 
 You can read more about how the complaints process works in each UK nation in these resources for [England](https://www.ombudsman.org.uk/sites/default/files/How_to_raise_concerns_about_a_general_practice_0.pdf), [Northern Ireland](https://pcc-ni.net/download/20/leaflets-and-literature/4433/how-can-we-help-booklet.pdf), [Scotland](https://www.citizensadvice.org.uk/scotland/health/nhs-healthcare-s/nhs-complaints-s/), and [Wales](http://www.wales.nhs.uk/sites3/Documents/932/Healthcare%20Quality%20-%2030166_Putting%20Things%20Right_a5%20leaflet_English_WEB%20VERSION%20-%20FINAL%20-%202017%2003%2001.pdf).
 
