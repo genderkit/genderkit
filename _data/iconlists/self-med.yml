@@ -23,3 +23,6 @@ items:
   - 
     name: 'Difficult to access surgery in the UK'
     icon: 'circle_minus'
+  - 
+    name: 'Hard to access meds while an inpatient'
+    icon: 'circle_minus'

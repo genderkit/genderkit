@@ -60,7 +60,7 @@ Medications not bought from a legitimate pharmaceutical supplier can be dangerou
 
 Many medications sold online do not contain any active ingredients and are a waste of your money. Even if the medications are genuine, their safety and purity are not guaranteed unless you have bought them from a legitimate pharmacy.
 
-Finally, it is important to note that if you are self medicating, your access to hormones may be affected in the event that you are admitted as an in-patient at a hospital or psychiatric facility. 
+Finally, it is important to note that if you are self medicating, your access to hormones may be affected in the event that you are admitted as an inpatient at a hospital or psychiatric facility. 
 
 ### How do I talk to my GP?
 
