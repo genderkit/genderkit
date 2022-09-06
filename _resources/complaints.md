@@ -8,35 +8,35 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
 1.  *Tell the service about the problem*
 
-    The first step is to informally let the healthcare service you are using know you are having a problem. For example, if you are having a problem at a GP surgery, this might mean speaking to your GP or GP surgery reception staff. 
+    The first step is to tell the healthcare service informally that you are having a problem. For example, if you are having a problem with a GP surgery, this might mean speaking to your GP or to the surgery reception staff. 
 
-    It's important to think about what could help you be comfortable and confident when explaining your problem:
+    It's important to think about what would help you to feel comfortable and confident when explaining your problem:
 
-    - would it be helpful to have someone with you as emotional support?
-    - would it be helpful for someone else to advocate on your behalf? 
-    - would it help to write down a list of points you want to make so nothing gets forgotten about?
-    - would it be easier to tell the service by email or letter than in person?
-    - do you need to ask for a private room to discuss the problem in for privacy?
+    - would it be helpful to have someone with you for emotional support?
+    - would it be helpful for someone else to speak on your behalf? 
+    - would it help to write down a list of points you want to make so you don't forget anything?
+    - would it be easier to speak to the service through email or letter than in person?
+    - would you prefer to discuss the problem in a private room where your privacy is protected?
     
-    You can find information that can be useful when talking to a GP surgery on [our page about common healthcare issues]({% link _resources/problems.md %}).
+    You can find useful information about talking to your GP surgery on [our page about common healthcare issues]({% link _resources/problems.md %}).
 
-2.  if things don't get fixed, consider *getting support with making a complaint*
+2.  if the problem is not resolved, consider *getting support with making a complaint*
 
-    If you aren't able to get the issue fixed, or you want there to be a record that a problem happened, you might want to use the formal complaint process. Going through the process of making a complaint can be draining - it's a good idea to get help with the process, or to ask someone else to do it on your behalf, particularly if you've not been through the process before. You can find information lower down this page about services that can help support you to make a complaint.
+    If you aren't able to get the problem resolved, or if you want it to be on record, you can use a formal complaint process. Going through the process of making a complaint can be draining. It's a good idea to get help at this stage, or to ask someone else to lodge the complaint on your behalf, particularly if you've not been through the process before. You can find information about services that can help with your complaint further down this page. 
 
 3.  *make a formal complaint*
 
-    NHS healthcare services all have a system for handling official complaints. You can normally find information about how to make complaint on their website. If you aren't able to find out how to make a complaint from their website, ask staff at the service how to make a complaint.
+    All NHS healthcare services have a system for handling official complaints. You can normally find information about how to make complaint on their website. If you aren't able to find this information on their website, ask staff at the service how to make a formal complaint.
 
-    For example, if your complaint is about how you were treated at a GP surgery, your GP surgery should provide information on how to do this on their website - if not, contact the surgery and ask to speak to the practice manager.
+    For example, if your complaint is about how you were treated at a GP surgery, your GP surgery should provide information on how to do this on their website. If this information is not available, contact the surgery and ask to speak to the practice manager.
 
 4.  *file a formal complaint at a higher level*
 
     There are guides on how to do this on the websites of the national healthcare organisations for [England](https://www.england.nhs.uk/contact-us/complaint/complaining-to-nhse/), [Northern Ireland](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/feedback-and-complaints/feedback-complaints-and-your-rights), and [Wales](https://www.wales.nhs.uk/ourservices/contactus/nhscomplaints). 
     
-    If your complaint is about a specific person who has behaved inappropriately you could also complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/who-to-contact/).
+    If your complaint is about a specific person who has behaved inappropriately you can complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/who-to-contact/).
 
-    In all parts of the UK, you can also complain about data protection issues to the [Information Commissioners Office](https://ico.org.uk/make-a-complaint/data-protection-complaints/). You might want to do this if private information about you or your health conditions has been shared with someone who should not have access to this information.
+    In all parts of the UK, you can also complain about data protection issues to the [Information Commissioners Office](https://ico.org.uk/make-a-complaint/data-protection-complaints/). You might want to do this if private information about you or your health conditions has been shared with someone who should not have access to it.
 
 5.  if you're unhappy with the response, *complain to the ombudsman*
 
