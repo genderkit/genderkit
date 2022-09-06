@@ -14,7 +14,7 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
     - you had someone with you for emotional support?
     - you had someone else to speak on your behalf? 
-    - you wrote down a list of points you want to make to make sure don't forget anything?
+    - you wrote down a list of points to cover to ensure don't forget anything?
     - you spoke to the service through email or letter than in person?
     - you could discuss the problem in a private room where your privacy is protected?
     
