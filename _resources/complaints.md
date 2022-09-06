@@ -10,13 +10,13 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
     The first step is to tell the healthcare service informally that you are having a problem. For example, if you are having a problem with a GP surgery, this might mean speaking to your GP or to the surgery reception staff. 
 
-    It's important to think about what would help you to feel comfortable and confident when explaining your problem:
+    It's important to think about what would help you to feel comfortable and confident when explaining your problem. Would it help you if:
 
-    - would it be helpful to have someone with you for emotional support?
-    - would it be helpful for someone else to speak on your behalf? 
-    - would it help to write down a list of points you want to make so you don't forget anything?
-    - would it be easier to speak to the service through email or letter than in person?
-    - would you prefer to discuss the problem in a private room where your privacy is protected?
+    - you had someone with you for emotional support?
+    - you had someone else to speak on your behalf? 
+    - you wrote down a list of points you want to make to make sure don't forget anything?
+    - you spoke to the service through email or letter than in person?
+    - you could discuss the problem in a private room where your privacy is protected?
     
     You can find useful information about talking to your GP surgery on [our page about common healthcare issues]({% link _resources/problems.md %}).
 
