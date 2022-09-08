@@ -8,50 +8,66 @@ description: Handling common problems with UK healthcare
 
 Here's how to handle some common issues with the UK healthcare system:
 
-- *My GP doesn't know how to update my name or gender marker*
+{% capture title %}My GP doesn't know how to update my name or gender marker{% endcapture %}
+{% capture body %}
+You can find information about what to tell your GP surgery staff on [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}).
+{% endcapture %}
+{% include details body=body title=title %}    
 
-    You can find information about what to tell your GP surgery staff on [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}).
+{% capture title %}My GP doesn't know how to refer me to a gender service{% endcapture %}
+{% capture body %}
+First check to see if it is possible to refer yourself to the gender service instead. You can find this information on [our UK Gender Services page]({% link _resources/gender-services.md %}).
 
-- *My GP doesn't know how to refer me to a gender service*
+If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions) - it is their responsibility to read this information and be familiar with it. If you're still not able to get a referral, you may find contacting the service you want to be referred to can support you in getting a referral.
+{% endcapture %}
+{% include details body=body title=title %}    
 
-    First check to see if it is possible to refer yourself to the gender service instead. You can find this information on [our UK Gender Services page]({% link _resources/gender-services.md %}).
+{% capture title %}I have a problem with my hormone treatment{% endcapture %}
+{% capture body %}
+First speak to the person who monitors your hormone therapy - often, this is your GP. 
 
-    If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions) - it is their responsibility to read this information and be familiar with it. If you're still not able to get a referral, you may find contacting the service you want to be referred to can support you in getting a referral.
+If they are unsure how to help, you can suggest they get advice from one of these sources:
 
-- *I have a problem with my hormone treatment*
+- NHS prescribing policies for trans people
+- an endocrinologist who originally recommended your hormone therapy
+- the endocrinology team at an NHS gender service
+- a local NHS endocrinology team if there is one in your area with expertise working with trans patients
+{% endcapture %}
+{% include details body=body title=title %}    
 
-    First speak to the person who monitors your hormone therapy - often, this is your GP. 
-    
-    If they are unsure how to help, you can suggest they get advice from one of these sources:
+{% capture title %}I have a problem with my gender surgery referral{% endcapture %}
+{% capture body %}
+If you have problems with your gender surgery referral, the NHS Gender Dysphoria National Referral Support Services (GDNRSS) have a Single Point of Access support line that you can call for information and advice about your referral. You can read how to access the service in [this booklet](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v2-gender-dysphoria-about-us-booklet-pdf/).
+{% endcapture %}
+{% include details body=body title=title %}    
 
-    - NHS prescribing policies for trans people
-    - an endocrinologist who originally recommended your hormone therapy
-    - the endocrinology team at an NHS gender service
-    - a local NHS endocrinology team if there is one in your area with expertise working with trans patients
+{% capture title %}My GP isn't willing to offer bridging prescriptions{% endcapture %}
+{% capture body %}
+- self-medication is not illegal
+- existing hormone prescriptions should not be abruptly stopped
+- bridging prescriptions guides
+{% endcapture %}
+{% include details body=body title=title %}    
 
-- *I have a problem with my gender surgery referral*
+{% capture title %}My GP isn't willing to offer shared care or blood testing{% endcapture %}
+{% capture body %}
+- GP can choose whether to offer shared care
+- What you can show them that might help
+- You can read about other places you can get blood tests from on [our Blood Testing page]({% link _resources/blood-testing.md %}).
+{% endcapture %}
+{% include details body=body title=title %}    
 
-    If you have problems with your gender surgery referral, the NHS Gender Dysphoria National Referral Support Services (GDNRSS) have a Single Point of Access support line that you can call for information and advice about your referral. You can read how to access the service in [this booklet](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v2-gender-dysphoria-about-us-booklet-pdf/).
+{% capture title %}My GP isn't willing to perform injections for me{% endcapture %}
+{% capture body %}
+TODO
+{% endcapture %}
+{% include details body=body title=title %}    
 
-- *My GP isn't willing to offer bridging prescriptions*
-
-    - self-medication is not illegal
-    - existing hormone prescriptions should not be abruptly stopped
-    - bridging prescriptions guides
-
-- *My GP isn't willing to offer shared care or blood testing*
-
-    - GP can choose whether to offer shared care
-    - What you can show them that might help
-    - You can read about other places you can get blood tests from on [our Blood Testing page]({% link _resources/blood-testing.md %}).
-
-- *My GP isn't willing to perform injections for me*
-
-    - What should we write here?
-
-- *I have another problem with my GP surgery*
-
-    If you're having a problem with the care you're receiving from a GP, start by talking to the reception staff of the GP surgery in question by email or phone call.
+{% capture title %}I have another problem with my GP surgery{% endcapture %}
+{% capture body %}
+If you're having a problem with the care you're receiving from a GP, start by talking to the reception staff of the GP surgery in question by email or phone call.
+{% endcapture %}
+{% include details body=body title=title %}    
 
 ### That didn't help, what can I do?
 

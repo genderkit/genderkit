@@ -1,0 +1,4 @@
+<details id="details-{% increment warnings %}">
+  <summary>{{ include.title }}</summary>
+  {{ include.body | markdownify }}
+</details>
