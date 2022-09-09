@@ -46,19 +46,20 @@ It is important to consider making a complaint quickly as some nations have time
 
 ### Where can I get support with making a complaint?
 
-To get free support to make a complaint about NHS care:
+You can get free support to make your complaint if you are trans:
+
+- in *London*, people over 18 can access [the Spectra Trans Health Advocacy Service](https://spectra-london.org.uk/trans-services/trans-health-advocacy/)
+- in *Manchester* and Greater Manchester, people over 16 can access [the LGBT Foundation Trans Advocacy service](http://lgbt.foundation/how-we-can-help-you/trans-advocacy)
+- in *other areas* [local LGBT+ organisations]({% link _resources/local.md %}) may also provide support
+
+There is also free support for making a complaint available to anyone in the UK:
 
 - in *England* find your local Healthwatch using [their search tool](https://www.healthwatch.co.uk/your-local-healthwatch/list). The website for your local Healthwatch will normally include information about where you can get support locally for making a complaint, which is often provided by an independent organisation like [POhWER](https://www.pohwer.net/) or [VoiceAbility](https://www.voiceability.org/). You can also contact [the Patient Advice and Liaison Service](https://www.nhs.uk/nhs-services/hospitals/what-is-pals-patient-advice-and-liaison-service/) for help with making a complaint.
 - in *Northern Ireland* speak to [the Patient and Client Council Complaints Support Service](https://pcc-ni.net/)
 - in *Scotland* speak to [the Patient Advice and Support Service](https://www.cas.org.uk/pass)
 - in *Wales* to your local [Community Health Council](https://111.wales.nhs.uk/localservices/communityhealthcouncils)
 
-You may also be able to get free support:
-
-- in *London*, people over 18 can access [the Spectra Trans Health Advocacy Service](https://spectra-london.org.uk/trans-services/trans-health-advocacy/)
-- in *Manchester* and Greater Manchester, people over 16 can access [the LGBT Foundation Trans Advocacy service](http://lgbt.foundation/how-we-can-help-you/trans-advocacy)
-- from another [local LGBT+ organisation]({% link _resources/local.md %})
-- or if your complaint relates to mental health services, from [your local branch of Mind](https://www.mind.org.uk/information-support/local-minds/).
+If your complaint relates to mental health services you may be able to get support from [your local branch of Mind](https://www.mind.org.uk/information-support/local-minds/).
 
 To get information and ask questions about the complaints process you can also contact [the Patient's Association helpline](https://www.patients-association.org.uk/helpline).
 
