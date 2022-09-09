@@ -10,7 +10,9 @@ Here's how to handle some common issues with the UK healthcare system:
 
 {% capture title %}My GP doesn't know how to update my name or gender marker{% endcapture %}
 {% capture body %}
-You can find information about what to tell your GP surgery staff on [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}).
+Read [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}) for information about talking to your GP surgery.
+
+<a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
 {% include details body=body title=title %}    
 
@@ -19,6 +21,8 @@ You can find information about what to tell your GP surgery staff on [our Updati
 First check to see if it is possible to refer yourself to the gender service instead. You can find this information on [our UK Gender Services page]({% link _resources/gender-services.md %}).
 
 If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions) - it is their responsibility to read this information and be familiar with it. If you're still not able to get a referral, you may find contacting the service you want to be referred to can support you in getting a referral.
+
+<a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
 {% include details body=body title=title %}    
 
@@ -43,29 +47,35 @@ If you have problems with your gender surgery referral, the NHS Gender Dysphoria
 
 {% capture title %}My GP isn't willing to offer bridging prescriptions{% endcapture %}
 {% capture body %}
-- self-medication is not illegal
-- existing hormone prescriptions should not be abruptly stopped
-- bridging prescriptions guides
+Read the [TransActual guide to bridging prescriptions](https://www.transactual.org.uk/bridging-prescriptions) for more information on what you can do.
+
+GPs are free to decide not to offer bridging prescriptions for a number of reasons, such as if you do not meet the criteria listed in [the GMC guidance](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#Mental%20health%20and%20bridging%20prescriptions), or because they do not feel comfortable doing so. Many requests for bridging prescriptions are unsuccessful.
+
+<a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
 {% include details body=body title=title %}    
 
 {% capture title %}My GP isn't willing to offer shared care or blood testing{% endcapture %}
 {% capture body %}
-- GP can choose whether to offer shared care
-- What you can show them that might help
-- You can read about other places you can get blood tests from on [our Blood Testing page]({% link _resources/blood-testing.md %}).
-{% endcapture %}
-{% include details body=body title=title %}    
+In some local areas, there are local restrictions on who GPs can agree to shared care agreements with, but normally your GP can choose whether to offer you shared care. 
 
-{% capture title %}My GP isn't willing to perform injections for me{% endcapture %}
-{% capture body %}
-TODO
+To help them make this decision, you can offer your GP information like:
+
+- the guidance on prescribing for trans people on [the GMC website](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#Prescribing) (which covers prescribing "unlicensed medications")
+- the guidance to GPs around shared care agreements with private clinics [published by NHS England](https://www.dpt.nhs.uk/download/VjSSV5TQVv)
+- whether the clinicians that have diagnosed you are [GMC registered](https://www.gmc-uk.org/registration-and-licensing/the-medical-register) and are a [registered specialist in gender dysphoria](https://www.gov.uk/government/publications/gender-recognition-certificate-list-of-medical-practitioners-in-gender-dysphoria/doctors-and-psychologists-specialising-in-gender-dysphoria)
+
+If your GP does not feel comfortable prescribing for you, you can ask your private endocrinologist to write prescriptions for you instead. Your NHS GP may still be willing to perform blood testing for you, but if your GP is not willing to do this, you can read about other places you can get blood testing on [our Blood Testing page]({% link _resources/blood-testing.md %}).
+
+<a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
 {% include details body=body title=title %}    
 
 {% capture title %}I have another problem with my GP surgery{% endcapture %}
 {% capture body %}
 If you're having a problem with the care you're receiving from a GP, start by talking to the reception staff of the GP surgery in question by email or phone call.
+
+<a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
 {% include details body=body title=title %}    
 
