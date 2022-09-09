@@ -10,7 +10,7 @@ Here's how to handle some common issues with the UK healthcare system:
 
 {% capture title %}My GP doesn't know how to update my name or gender marker{% endcapture %}
 {% capture body %}
-Read [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}) for information about talking to your GP surgery.
+Read [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}) for information on talking to your GP surgery.
 
 <a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
@@ -18,9 +18,9 @@ Read [our Updating NHS Records page]({% link _articles/updating-nhs-patient-deta
 
 {% capture title %}My GP doesn't know how to refer me to a gender service{% endcapture %}
 {% capture body %}
-First check to see if it is possible to refer yourself to the gender service instead. You can find this information on [our UK Gender Services page]({% link _resources/gender-services.md %}).
+First check to see if it is possible to refer yourself to the gender service. You can find this information on [our UK Gender Services page]({% link _resources/gender-services.md %}).
 
-If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions) - it is their responsibility to read this information and be familiar with it. If you're still not able to get a referral, you may find contacting the service you want to be referred to can support you in getting a referral.
+If your GP is unsure what the next step should be, you can direct them to [the advice for GPs published by the General Medical Council](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#mental-health-and-bridging-prescriptions) - it is their responsibility to read this information and to be familiar with it. If you're still not able to get a referral, you may find contacting the service you want to be referred to can help.
 
 <a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
@@ -28,7 +28,7 @@ If your GP is unsure what the next step should be, you can direct them to [the a
 
 {% capture title %}I have a problem with my hormone treatment{% endcapture %}
 {% capture body %}
-First speak to the person who monitors your hormone therapy - often, this is your GP. 
+First speak to the person who monitors your hormone therapy - usually your GP. 
 
 If they are unsure how to help, you can suggest they get advice from one of these sources:
 
@@ -57,15 +57,15 @@ GPs are free to decide not to offer bridging prescriptions for a number of reaso
 
 {% capture title %}My GP isn't willing to offer shared care or blood testing{% endcapture %}
 {% capture body %}
-In some local areas, there are local restrictions on who GPs can agree to shared care agreements with, but normally your GP can choose whether to offer you shared care. 
+In some local areas, there are restrictions on who GPs can make shared care agreements with, but normally your GP can choose whether to offer you shared care. 
 
-To help them make this decision, you can offer your GP information like:
+To help them make this decision, you can offer your GP information such as:
 
 - the guidance on prescribing for trans people on [the GMC website](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#Prescribing) (which covers prescribing "unlicensed medications")
-- the guidance to GPs around shared care agreements with private clinics [published by NHS England](https://www.dpt.nhs.uk/download/VjSSV5TQVv)
+- the guidance to GPs on shared care agreements with private clinics [published by NHS England](https://www.dpt.nhs.uk/download/VjSSV5TQVv)
 - whether the clinicians that have diagnosed you are [GMC registered](https://www.gmc-uk.org/registration-and-licensing/the-medical-register) and are a [registered specialist in gender dysphoria](https://www.gov.uk/government/publications/gender-recognition-certificate-list-of-medical-practitioners-in-gender-dysphoria/doctors-and-psychologists-specialising-in-gender-dysphoria)
 
-If your GP does not feel comfortable prescribing for you, you can ask your private endocrinologist to write prescriptions for you instead. Your NHS GP may still be willing to perform blood testing for you, but if your GP is not willing to do this, you can read about other places you can get blood testing on [our Blood Testing page]({% link _resources/blood-testing.md %}).
+If your GP does not feel comfortable prescribing for you, you can ask your private endocrinologist to write prescriptions for you instead. Your NHS GP may still be willing to perform blood testing for you, but if not, you can find other blood testing services on [our Blood Testing page]({% link _resources/blood-testing.md %}).
 
 <a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
@@ -73,7 +73,7 @@ If your GP does not feel comfortable prescribing for you, you can ask your priva
 
 {% capture title %}I have another problem with my GP surgery{% endcapture %}
 {% capture body %}
-If you're having a problem with the care you're receiving from a GP, start by talking to the reception staff of the GP surgery in question by email or phone call.
+If you're having a problem with the care you're receiving from a GP, start by talking to the reception staff of the GP surgery by email or phone call.
 
 <a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
@@ -83,15 +83,15 @@ If you're having a problem with the care you're receiving from a GP, start by ta
 
 If you want to make a complaint, read [our page on how to do it]({% link _resources/complaints.md %}).
 
-If your GP is not supportive or is being unhelpful, you might want to consider:
+If your GP surgery is unhelpful or unsupportive, you might want to consider:
 
 - *speaking to the practice manager*
 
-    The practice manager is the head of the whole GP surgery. You can request to talk to the practice manager on the phone or in-person, and this is often the quickest way to get problems resolved if you're experiencing issues talking to staff that they manage.
+    The practice manager is the head of the GP surgery. You can request to talk to the practice manager on the phone or in-person, and this is often the quickest way to get problems resolved if you're experiencing issues with their staff.
 
 - *switching to a different GP at the surgery*
 
-    You have the right to change to a different GP at your GP surgery without giving a reason why. You can also ask that you are given appointments with any GP except for one you are uncomfortable with.
+    You have the right to change to a different GP at your GP surgery without giving a reason why. If you are uncomfortable with a particular GP, you can also ask to be given appointments with any other GP.
 
 - *changing to another GP surgery*
 
@@ -101,7 +101,7 @@ If your GP is not supportive or is being unhelpful, you might want to consider:
 
     Some online services specifically advertise support for LGBT+ and trans people, such as [GP At Hand](https://www.babylonhealth.com/en-gb/lgbtq).
 
-You can also get support to help you resolve your problem:
+You can also get support to help you resolve your problem from these sources:
 
 - in London, people over 18 can access [the Spectra Trans Health Advocacy Service](https://spectra-london.org.uk/trans-services/trans-health-advocacy/)
 - in Manchester and Greater Manchester, people over 16 can access [the LGBT Foundation Trans Advocacy service](http://lgbt.foundation/how-we-can-help-you/trans-advocacy)
