@@ -16,6 +16,9 @@ not-pregnant:
 18+:
  text: "You usually need to be at least 18"
  icon: age18
+18+referral17:
+ text: "Under 18s cannot have this but can be referred at 17"
+ icon: age18
 16+:
  text: "You usually need to be at least 16"
  icon: age16
@@ -72,14 +75,14 @@ standard-top-surgery-reqs:
  - type: persistent-dysphoria
  - type: consent
  - type: other-conditions-controlled
- - type: 16-scot-17-uk
+ - type: 18+referral17
  - type: bmi-40
 standard-bottom-surgery-reqs:
  - type: 12-months-rle
  - type: 12-months-hrt
  - type: consent
  - type: other-conditions-controlled
- - type: 16-scot-17-uk
+ - type: 18+referral17
  - type: bmi-30
 standard-hrt-reqs:
  - type: persistent-dysphoria
