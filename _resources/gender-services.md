@@ -25,7 +25,7 @@ There are also a number of pilot schemes run by different organisations within N
 
 These clinics generally have a much shorter wait, but are only open to people who've already been referred to another clinic, and who meet particular requirements. Waits vary, usually depending on how long you've been on the waiting list for the other clinic.
 {% endcapture %}
-{% include gender-clinics tag="Gender Clinics" icon="tick" title="NHS England pilot schemes" free=true pilot=true referrals=true description=gic-description %}
+{% include gender-clinics tag="Gender Clinics" icon="star" title="NHS England pilot schemes" free=true pilot=true referrals=true description=gic-description %}
 
 {% capture gic-description %}
 There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service. It can overwhelming trying to choose which gender service to be referred to, but you can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).

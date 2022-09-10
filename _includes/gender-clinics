@@ -1,6 +1,6 @@
 {%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.pilot == include.pilot", | where_exp:"item", "item.nhs-funding == include.free" | sort:"catchment", "last" -%}
 
-<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
+<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/icons/circle_{{ include.icon }}.png" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 {%- if include.description -%}
 <p>{{ include.description | markdownify }}</p>
 {%- endif -%}

@@ -1,6 +1,6 @@
 {%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | where_exp:"item", "item.nhs-funding == include.free" | where_exp:"item", "item.pilot != true" | where_exp:"item", "item.referral-criteria != 'No referrals accepted'" |sort:"heading" -%}
 
-<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/{{ include.icon }}.svg" class="inlineIcon" /><span>{{ include.title }}</span></h3>
+<h3 id="{{ include.title | slugify }}" class="referrals"><img alt="{{include.icon}}" src="/assets/images/icons/circle_{{ include.icon }}.png" class="inlineIcon" /><span>{{ include.title }}</span></h3>
 {%- if include.description -%}
 <p>{{ include.description | markdownify }}</p>
 {%- endif -%}
@@ -10,7 +10,7 @@
     <th>{% if include.free %}<div class="rotate">{% endif %}<div class="smaller">from</div><div>youth</div><div class="smaller">wait list</div>{% if include.free %}</div>{% endif %}</th>
 {%- if include.free -%}
     <th><div class="rotate"><div class="smaller">from</div><div>any NHS</div><div class="smaller">wait list</div></div></th>
-    <th><div class="rotate"></div></th>
+    <th><div class="rotate"><div class="smaller">between</div><div>UK</div><div class="smaller">nations</div></div></th>
 {%- endif -%}
   </tr>
   {%- for item in sortedOrganisations -%}
@@ -55,8 +55,14 @@
 {%- endif -%}
 {%- if include.free -%} 
       <td class="centred">
-        {%- if item.transfer-info != nil -%}
-          {{ item.transfer-info | markdownify }}
+        {%- if item.wait-cross-nations != nil -%}
+          {%- if item.wait-cross-nations == "yes" or item.wait-cross-nations == true -%}
+            <img alt="A green tick sign" class="tableicon" src="/assets/images/tick.svg"></img>
+          {%- else -%}
+            <img alt="A red X sign" class="tableicon" src="/assets/images/cross.svg"></img>
+          {%- endif -%}
+        {%- else -%}
+          <img alt="A grey question mark" class="tableicon" src="/assets/images/questionmarkgrey.svg"></img>
         {%- endif -%}
       </td>
 {%- endif -%}
