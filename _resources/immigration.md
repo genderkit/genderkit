@@ -8,9 +8,26 @@ description: Helpful information, publications, and organisations for trans, non
 
 You can find general information about moving to the UK on [the UK Government Visas and Immigration page](https://www.gov.uk/browse/visas-immigration). There is information about immigration and asylum for LGBT+ people on [the Rainbow Migration website](https://www.rainbowmigration.org.uk/).
 
-If you are intending to claim *asylum* in the UK, you can find information about asylum from [Transgender Europe](https://tgeu.org/issues/asylum/), [Stonewall UK](https://www.stonewall.org.uk/help-advice/asylum), [UK Lesbian & Gay Immigration Group (UKLGIG)](https://uklgig.org.uk) (who also support trans and intersex people), and [the UK government](https://www.gov.uk/claim-asylum). Transgender Europe also have a [guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum. Micro Rainbow provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact.
+### Asylum in the UK
 
-More useful links for trans asylum seekers and refugees can be found on [the Trans-Fit website](https://www.trans-fit.co.uk/asylum-and-refugee-support).
+If you are intending to claim asylum in the UK, you can find support from:
+
+- [Rainbow Migration](https://www.rainbowmigration.org.uk/) provide support and legal advice including [video guides in many languages](https://www.youtube.com/c/RainbowMigration/playlists)
+- [Say It Loud Club](https://www.sayitloudclub.org/) provide mentoring and social events
+- [Micro Rainbow](https://microrainbow.org/) provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact
+- [Persian LGBT](https://www.persianlgbt.org/) provide support for Persian speaking LGBT refugees and asylum seekers
+- [African Rainbow Family](https://africanrainbowfamily.org/) provide support for LGBTIQ people of African and BAME heritage
+- [Rainbow Home](https://rainbowhome.org.uk/) support LGBT asylum seekers in North East England
+- [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/refugee-support/) provide support to LGBT asylum seekers in Scotland
+- [The Rainbow Project](https://www.rainbow-project.org) provide support and signposting to aslyum seekrs in Northern Ireland
+
+You can find additional information for LGBT asylum seekers:
+
+- on [the Transgender Europe website](https://tgeu.org/issues/asylum/) including [a guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum rights
+- on [the Stonewall UK website](https://www.stonewall.org.uk/help-advice/asylum)
+- on [the UK government website](https://www.gov.uk/claim-asylum)
+- on [the Trans-Fit website](https://www.trans-fit.co.uk/asylum-and-refugee-support)
+- on [the Lesbian Immigration Support Group website](https://lisg.uk/support-links-1)
 
 ### Accessing gender services in the UK
 
