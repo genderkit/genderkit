@@ -16,6 +16,7 @@ Packing provides an easy way to make it look like you have a penis. UK retailers
 
 - [Spectrum Outfitters](https://spectrumoutfitters.co.uk/)
 - [Trans Shop UK](https://uktransshop.co.uk/)
+- [TransNext](https://transnext.co.uk/)
 - [Lovehoney](https://www.lovehoney.co.uk)
 - [Uberkinky](http://www.uberkinky.co.uk)
 

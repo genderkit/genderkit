@@ -67,6 +67,7 @@ Binders typically cost £25-50. Some retailers of binders serving the UK include
 - [Spectrum Outfitters](https://www.spectrumoutfitters.co.uk)
 - [F2mbinders](https://www.f2mbinders.com/) - formerly known as Underworks
 - [gc2b](https://www.gc2b.io/)
+- [TransNext](https://transnext.co.uk/)
 - [Trans Shop UK](https://uktransshop.co.uk/)
 
 Buying from abroad may incur customs charges.
