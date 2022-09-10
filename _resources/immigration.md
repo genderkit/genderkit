@@ -16,10 +16,11 @@ If you are intending to claim asylum in the UK, you can find support from:
 - [Say It Loud Club](https://www.sayitloudclub.org/) provide mentoring and social events
 - [Micro Rainbow](https://microrainbow.org/) provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact
 - [Persian LGBT](https://www.persianlgbt.org/) provide support for Persian speaking LGBT refugees and asylum seekers
-- [African Rainbow Family](https://africanrainbowfamily.org/) provide support for LGBTIQ people of African and BAME heritage
+- [African Rainbow Family](https://africanrainbowfamily.org/) provide support for LGBTQI people of African and BAME heritage
 - [Rainbow Home](https://rainbowhome.org.uk/) support LGBT asylum seekers in North East England
 - [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/refugee-support/) provide support to LGBT asylum seekers in Scotland
-- [The Rainbow Project](https://www.rainbow-project.org) provide support and signposting to aslyum seekrs in Northern Ireland
+- [LGBT Unity](https://www.lgbtunity.org/) support LGBT asylum seekers in Glasgow
+- [The Rainbow Project](https://www.rainbow-project.org) provide support and signposting to asylum seekers in Northern Ireland
 
 You can find additional information for LGBT asylum seekers:
 
