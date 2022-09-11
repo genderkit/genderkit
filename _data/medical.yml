@@ -29,3 +29,24 @@ nav:
   -
     url: '_resources/complaints.md'
     name: 'Making a complaint'
+  -
+    url: '_articles/updating-nhs-patient-details.md'
+    name: 'Updating NHS records'
+  -
+    url: '_resources/hrt-without-diagnosis.md'
+    name: 'Accessing HRT without a diagnosis'
+  -
+    url: '_resources/blood-testing.md'
+    name: 'Blood testing'
+  -
+    url: '_resources/injections.md'
+    name: 'Self-injection safety'
+  -
+    url: '_articles/gamete-storage.md'
+    name: 'Gamete storage'
+  -
+    url: '_resources/private-fees.md'
+    name: 'Private fees'
+  -
+    url: '_resources/private-surgery.md'
+    name: 'Private surgery'

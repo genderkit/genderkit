@@ -1,4 +1,4 @@
-<ul>
+<ul class="wordlist">
 {% for item in site.data.medical.nav %}
     {%- assign url = item.url -%}
     {%- unless url == page.path -%}
