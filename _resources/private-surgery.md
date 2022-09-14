@@ -14,7 +14,7 @@ A small number of UK surgeons offering gender surgeries will only take private p
 
 - *multiple surgery types* are performed by the [London Transgender Clinic](https://www.thelondontransgenderclinic.uk/) and [The Hamlet Clinic](https://thehamletclinic.com/plastic-surgery-london/surgical/gender-enhancement/)
 - *chest surgery* is performed by [Miles Berry and Dai Davies](https://simplybettertransgender.co.uk/), [Mohsen El Gammal](https://www.cadoganclinic.com/mohsen-el-gammal/), [Mysore Chandrashekar](https://liverpoolbreastclinic.co.uk/gender-chest-reassignment-surgery/), and [Guy Sterne](https://www.consultantplasticsurgeon.co.uk/cosmetic-breast-surgery/gender-reassignment-chest-surgery/)
-- *lower surgery* is performed by [Christian Seipp](https://www.christianseipp-urology.net/) (including orchidectomy)
+- *feminising lower surgery* is performed by [Christian Seipp](https://www.christianseipp-urology.net/) (including orchidectomy)
 - *facial surgery* is performed by [Nik Maini](https://www.nikmaini.com/), [Brian Musgrove](https://www.facialplasticsurgery.org.uk/), and [Moorthy Halsnad](https://www.elanicclinicspa.co.uk/staff/moorthy-halsnad)
 
 ### Surgery teams outside of the UK
