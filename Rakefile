@@ -317,6 +317,7 @@ task :spellcheckmarkdown do
   errors = 0
   files = FileList['**/*.md']
   files.exclude("CONTRIBUTING.md")
+  files.exclude("HELP-WANTED.md")
   files.exclude("credits.md")
   files.each do |file|
     results = run_spellcheck_markdown(file)
