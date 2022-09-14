@@ -33,6 +33,8 @@ You will normally need to meet the following conditions:
 - 12 months’ continuous endocrine treatment as appropriate to the patient’s goals (unless the patient has medical contraindications or is otherwise unable to take hormones)
 - at least 12 months’ living continuously in a gender role that is congruent with the gender identity {% cite cr181 %}.
 
+The NHS gender pathway does not normally fund orchidectomy surgery. However, you can ask your gender service to write a letter to your GP asking them to refer you for an orchidectomy, or you can arrange for one privately.
+
 {% include list-of-surgeons %}
 
 ### Where can I learn more?

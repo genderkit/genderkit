@@ -24,7 +24,7 @@ Hysterectomy for people taking testosterone is optional and you may feel the ris
 
 Hysterectomies are usually carried out because of cancer or other tumours of the uterus, cervix, fallopian tubes or ovaries. They are also sometimes carried out on people with very heavy periods. 
 
-In the UK, some clinicians recommend that people taking [testosterone]({% link _articles/testosterone.md %}) long-term should have a hysterectomy. They theorise that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}.
+In the UK, some clinicians have recommended in the past that people taking [testosterone]({% link _articles/testosterone.md %}) long-term should have a hysterectomy. They theorised that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}.
 
 ### Why might I not want a hysterectomy?
 
@@ -32,7 +32,7 @@ Hysterectomy is irreversible and permanently destroys the uterus. If you hope to
 
 ### How do I get a hysterectomy?
 
-To get a hysterectomy, you will need to be referred to a gynaecological department at a hospital, either by your GP or by a gender clinician. However, outside of Scotland this is normally only funded by the NHS for non-gender-related reasons or as part of a larger operation like [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}). If you don't wish to have one of these other operations, you may have to seek a private referral.
+To get a hysterectomy, you will need to be referred to a gynaecological department at a hospital, either by your GP or by a gender clinician. However, outside of Scotland, the NHS gender pathway only funds hysterectomy as part of a larger operation like [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}). If you don't wish to have one of these other operations, you can ask your gender service to write a letter to your GP asking them to refer you for a hysterectomy, or you can arrange for one privately.
 
 To obtain hysterectomy for gender-related reasons, you will normally need to meet the following conditions:
 
@@ -40,9 +40,7 @@ To obtain hysterectomy for gender-related reasons, you will normally need to mee
 - capacity to make fully informed decisions and to consent to treatment
 - if significant medical or mental health concerns are present, they must be reasonably well controlled
 - two medical opinions, usually at least one from a gender clinic, that surgery is appropriate 
-- 12 months’ continuous endocrine treatment as appropriate to the
-patient’s goals (unless the patient has medical contraindications
-or is otherwise unable to take hormones) {% cite cr181 %}. 
+- 12 months’ continuous endocrine treatment as appropriate to the patient’s goals (unless the patient has medical contraindications or is otherwise unable to take hormones) {% cite cr181 %}. 
 
 Hysterectomy for other medical reasons is not subject to these requirements.
 

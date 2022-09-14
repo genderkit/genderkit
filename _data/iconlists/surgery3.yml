@@ -1,0 +1,25 @@
+items:
+  - 
+    name: 'breast reduction'
+    url: '_articles/breast-reduction.md'
+    icon: 'circle_cross'
+  - 
+    name: 'breast augmentation'
+    url: '_articles/breast-augmentation.md'
+    icon: 'circle_cross'
+  - 
+    name: 'thyroid chondroplasty'
+    url: '_articles/thyroid-chondroplasty.md'
+    icon: 'circle_cross'
+  - 
+    name: 'voice surgeries'
+    icon: 'circle_cross'
+  - 
+    name: 'facial surgeries'
+    icon: 'circle_cross'
+  -
+    name: 'liposuction'
+    icon: 'circle_cross'
+  -
+    name: 'hair transplantation'
+    icon: 'circle_cross' 

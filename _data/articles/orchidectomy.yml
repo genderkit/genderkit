@@ -19,5 +19,3 @@ effects:
     detail: "Softens skin, lessens acne"
 requirements:
   - multi: standard-bottom-surgery-reqs
-  - type: not-standalone
-    detail: "Outside of Scotland this is only commissioned as a part of [vaginoplasty](/article/vaginoplasty/), [labiaplasty](/article/labiaplasty/) or [clitoroplasty](/article/clitoroplasty/)"  

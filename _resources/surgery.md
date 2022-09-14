@@ -13,13 +13,17 @@ If you're over 18 and have a [formal gender diagnosis]({% link _articles/formal-
 
 {% include iconlist iconlist="surgery1" %}
 
-There is a considerable wait to access medical support from the NHS. If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), you can pay for these surgeries yourself, which can mean a shorter wait.
+There is a considerable wait to access medical support from the NHS. If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}), you can [pay for these surgeries yourself]({% link _resources/private-surgery.md %}), which can mean a shorter wait.
 
-The following surgeries are not normally funded by the NHS gender pathway:
+The following surgeries are not normally funded by the NHS gender pathway, but gender services can write to your GP to ask they refer you:
 
 {% include iconlist iconlist="surgery2" %}
 
-While funding for these surgeries is not normally provided by the NHS gender services, approval for funding can sometimes be given on an individual basis. 
+These surgeries are not normally funded by the NHS:
+
+{% include iconlist iconlist="surgery3" %}
+
+Approval for funding for these surgeries is very occasionally given on an individual basis.
 
 ### How do I choose a surgical team?
 
