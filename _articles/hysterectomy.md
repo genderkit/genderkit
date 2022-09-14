@@ -24,7 +24,7 @@ Hysterectomy for people taking testosterone is optional and you may feel the ris
 
 Hysterectomies are usually carried out because of cancer or other tumours of the uterus, cervix, fallopian tubes or ovaries. They are also sometimes carried out on people with very heavy periods. 
 
-In the UK, some clinicians have recommended in the past that people taking [testosterone]({% link _articles/testosterone.md %}) long-term should have a hysterectomy. They theorised that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}.
+In the past, some clinicians have recommended that people taking [testosterone]({% link _articles/testosterone.md %}) long-term should have a hysterectomy. They theorised that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}.
 
 ### Why might I not want a hysterectomy?
 
