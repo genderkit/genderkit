@@ -23,3 +23,11 @@ items:
     name: 'phalloplasty'
     url: '_articles/phalloplasty.md'
     icon: 'circle_tick'
+  - 
+    name: 'vaginectomy'
+    url: '_articles/vaginectomy.md'
+    icon: 'circle_tick'
+  - 
+    name: 'scrotoplasty'
+    url: '_articles/scrotoplasty.md'
+    icon: 'circle_tick'
