@@ -18,7 +18,7 @@ In Scotland and Northern Ireland, a name change carried out without a GRC will a
 
 ### Why might I want to register a name change?
 There are two main situations in which you might want to register a name change:
-- *If you are under 16*, registering your name change officially may reduce the need to supply proof of parental consent when updating your name with other organisations. You may wish to contact the organisation you are registering the name change with to discuss the legal situation related to privacy.
+- *If you are under 16*, registering your name change officially may reduce the need to supply proof of parental consent when updating your name with other organisations. You may wish to contact the organisation you are registering the name change with to discuss the legal situation related to privacy, or speak to an organisation supporting trans young people such as [Mermaids UK](https://mermaidsuk.org.uk) for legal advice.
 - *If you were born or adopted in Scotland or Northern Ireland*, registering a change of name will allow you to request an updated birth certificate with your new name alongside your original name. You do not need to do this to use a new name in Scotland or Northern Ireland – you can use a [statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}) instead.
 
 Registering a change of name does not allow you to update the gender recorded on your birth certificate, which is instead changed by [obtaining a GRC]({% link _articles/obtaining-a-grc.md %}).
