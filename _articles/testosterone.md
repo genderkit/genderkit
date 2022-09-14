@@ -75,6 +75,8 @@ Testosterone may cause acne. You can read more about acne and how to reduce it o
 
 ### How do I get testosterone?
 
+Most people get testosterone using the UK system for gender medicine. Read [our step-by-step guide to getting medical support]({% link _resources/medical.md %}) for information about using that system. Some people also choose to [access hormones without a medical diagnosis]({% link _resources/hrt-without-diagnosis.md %}).
+
 For testosterone therapy to begin, it is required that any other significant medical or mental health issues are "reasonably well controlled" {% cite cr181 -l 24 %}. This means that a medical professional is currently helping or has helped you manage the condition.
 
 In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this instead.

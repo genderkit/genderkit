@@ -47,9 +47,11 @@ Unmonitored hormone therapy carries several risks. If you're already taking horm
 Regardless of where you get your hormones, regular blood tests are essential to ensure your hormone levels are safe and that there are no problems. You can read more about blood tests on [our blood testing page]({% link _resources/blood-testing.md %}). If your GP is unable or unwilling to give you blood tests at the practice, read [our page on dealing with common problems]({% link _resources/problems.md %}) for more suggestions.
 
 {%capture warn%}
-Testosterone is a *controlled substance* and illegal to buy under UK law.
+Testosterone is a *controlled substance* and illegal to sell, import, or share under UK law.
 {%endcapture%}
 {%include warning warning=warn%}
+
+As testosterone is illegal to import into or sell in the UK, it can only be purchased on the "grey market" from vendors who are willing to break the law.
 
 If you are injecting medications yourself, read [our self-injections page]({% link _resources/injections.md %}) for information about safety, obtaining injection supplies, and correct disposal of waste.
 
