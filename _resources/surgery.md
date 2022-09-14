@@ -27,7 +27,7 @@ Approval for funding for these surgeries is very occasionally given on an indivi
 
 ### How do I choose a surgical team?
 
-For some surgeries there are a large number of teams that will offer the surgery in the UK. You can find a complete list of UK surgeons who can be accessed via the NHS on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/surgery/surgery-providers/). If you have decided to fund your own surgery, rather than using NHS funding, there is more information about your options on [our private surgery page]({% link _resources/private-surgery.md %}).
+For some surgeries there are a large number of teams that will offer the surgery in the UK. You can find a complete list of UK surgeons who can be accessed via the NHS on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/surgery/surgery-providers/). If you have decided to pay for your own surgery, rather than using NHS funding, there are additional options available to you. For more information about these private surgery options read [our private surgery page]({% link _resources/private-surgery.md %}).
 
 You can find useful tips for deciding which surgery team to use on [the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/396664-Choosing-your-surgeon?catid=1&subid=4).
 
