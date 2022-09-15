@@ -169,16 +169,43 @@ nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore,
   li
     padding 0 0.5rem
 .wordlist
-  display flex
-  flex-direction row
-  flex-wrap wrap
-  align-items flex-start
-  margin 0rem 0.5rem
+  display grid
+  margin 0
   padding 0
+  gap 1rem
+  grid-template-columns repeat(auto-fit, 10rem)
+  justify-content center
+  li:nth-child(10n+0)
+    background-color #f7ffe5
+  li:nth-child(10n+1) 
+    background-color #e7ffe5
+  li:nth-child(10n+2) 
+    background-color #e5fff3
+  li:nth-child(10n+3) 
+    background-color #e5fcff
+  li:nth-child(10n+4) 
+    background-color #e5ecff
+  li:nth-child(10n+5) 
+    background-color #eee5ff
+  li:nth-child(10n+6)
+    background-color #fde5ff
+  li:nth-child(10n+7) 
+    background-color #ffe5f1
+  li:nth-child(10n+8) 
+    background-color #ffe9e5
+  li:nth-child(10n+9) 
+    background-color #fff8e5
   li
-    padding 0.25rem 0.5rem
+    padding .5rem
     line-height 1.25
-    margin-bottom 1rem
+    min-height 2.5rem
+    border-radius 8px
+    background-color #f0effe
+    a
+      display block
+      height 100%
+      width 100%
+      font-weight bold
     
 // Article pages
 .effects, .requirements, #effectslist, #explore, #resources, #main-nav, #page-nav, #network-nav
