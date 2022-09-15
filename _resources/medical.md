@@ -26,17 +26,19 @@ description: Information about accessing medical gender services in the UK
 
 5. *Under 18 only: further assessments*
 
-   Young people have two additional assessment appointments with the UCLH team.
+   Young people using NHS gender services will have two additional assessment appointments with the UCLH team.
 6. *Under 18 only: get puberty blockers*
 
    Young people may then be offered [gamete storage]({% link _articles/gamete-storage.md %}) and [GnRH agonist]({% link _articles/gnrh-agonists.md %}) medication.
 7. *Approval for hormone treatment*
 
-   You may be allowed to start hormones at this point if either:
+   In the UK, gender services may allow you to start hormones at this point if either:
    - you are over 18
    - or you are over 15 and have taken blockers for more than a year
 
-   and your clinical team feel you are ready to begin.
+   and your clinical team feel you are ready to begin. 
+   
+   [Services based outside the UK]({% link _resources/hrt-without-diagnosis.md %}) may not require you to meet these criteria.
    
    Read our [hormones page]({% link _resources/hormones.md %}) for more information about hormones.
 
