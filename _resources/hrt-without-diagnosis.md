@@ -24,7 +24,7 @@ You may opt to access HRT services outside the UK. Here are some pros and cons o
 
 In the UK, many people looking for an overseas service use [GenderGP](https://www.gendergp.com/). 
 
-Services outside the UK may give you a prescription written by a doctor in the EU --- but some UK pharmacies may refuse to accept these. There is information about filling an EU prescription on [the GOV.UK website](https://www.gov.uk/guidance/prescriptions-issued-in-the-eea-and-switzerland-guidance-for-pharmacists) and [the Royal Pharmaceutical Society website](https://www.rpharms.com/about-us/news/details/Prescriptions-issued-in-the-EEA-and-Switzerland-guidance-for-pharmacists).
+Services outside the UK may give you a prescription written by a doctor in the EU. Some UK pharmacies may refuse to accept these, even though a prescription being from the EU rather than the UK does not make the prescription invalid. If you experience problems with your pharmacy, you may wish to show them the information about filling an EU prescription on [the GOV.UK website](https://www.gov.uk/guidance/prescriptions-issued-in-the-eea-and-switzerland-guidance-for-pharmacists) and [the Royal Pharmaceutical Society website](https://www.rpharms.com/about-us/news/details/Prescriptions-issued-in-the-EEA-and-Switzerland-guidance-for-pharmacists), or ask [local groups]({% link _resources/local.md %}) for recommendations for pharmacies to use.
 
 ### Bridging prescriptions
 
@@ -51,7 +51,7 @@ Testosterone is a *controlled substance* and illegal to sell, import, or share u
 {%endcapture%}
 {%include warning warning=warn%}
 
-As testosterone is illegal to import into or sell in the UK, it can only be purchased on the "grey market" from vendors who are willing to break the law.
+As testosterone is illegal to import into or sell in the UK, it can only be purchased on the "grey market" from vendors who are willing to break the law. Giving testosterone to someone else - even for free - can also have serious legal consequences [including time in prison](https://www.gov.uk/penalties-drug-possession-dealing).
 
 If you are injecting medications yourself, read [our self-injections page]({% link _resources/injections.md %}) for information about safety, obtaining injection supplies, and correct disposal of waste.
 
