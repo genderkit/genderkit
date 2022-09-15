@@ -545,13 +545,12 @@ organisations:
         tags: ['Private healthcare', 'Gender Clinics', 'Under 18s']
         image: kelly
         manualDescription: 'Private gender clinic for under 23s based in London'
-        age-range: 'Under 23'
         wait-first-appointment: 2-3
-        date-wait-first-appointment: 'Nov ''21'
-        publishes-wait-first-appointment: false
+        date-wait-first-appointment: 'Aug ''22'
+        publishes-wait-first-appointment: true
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2022-08-05'
+        updated: '2022-09-15'
     -
         heading: GenderGP
         name: GenderGP
