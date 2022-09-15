@@ -17,6 +17,14 @@ Phalloplasty involves a degree of risk. UK surgeons have reported a 3% rate of p
 
 ### Why might I want phalloplasty?
 
+There are several reasons you might want a phalloplasty:
+
+- you want a penis that is of an average size
+- you want to be able to penetrate someone with your penis during sex
+- you want to be able to urinate while standing without needing an [STP device]({% link _articles/stp-devices.md %})
+- you don't want to be visibly different to other men when naked
+- you were dissatisfied with alternative options like [packing and prosthetics]({% link _articles/packing.md %}), genital growth from [testosterone]({% link _articles/testosterone.md %}), or [metoidioplasty]({% link _articles/metoidioplasty.md %})
+
 For some people, phalloplasty can provide a significant improvement in mental health. There is overall agreement in medical studies that after gender confirming medical interventions, rates of psychiatric disorders and psychiatric symptoms reduce considerably {% cite arcelus2017 -l 181 %}. However, as with other major life changes, you may find that [counselling]({% link _articles/counselling.md %}) before and after surgery may be helpful.
 
 ### Why might I not want phalloplasty?
