@@ -9,7 +9,7 @@
 
   <li>
     <a href="{% if item.url %}{{item.url}}{%else%}{% link {{item.page}} %}{%endif%}">
-      <i style="background-image: url({{ 'assets/images/icons/' | append: icon  | absolute_url | replace: '0.0.0.0', '127.0.0.1' | append: '?2' }})" aria-hidden="true"></i>
+      <i style="background-image: url({{ 'assets/images/icons/' | append: icon  | absolute_url | replace: '0.0.0.0', '127.0.0.1' | append: '?3' }})" aria-hidden="true"></i>
       {% if item.description %}
       <div>
         <h2>{{ item.name }}</h2>
