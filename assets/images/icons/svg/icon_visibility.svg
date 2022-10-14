@@ -25,7 +25,7 @@
             }
 
             .line-thick {
-                stroke-width: 32px;
+                stroke-width: 24px;
             }
 
             .line-extra-thick {
