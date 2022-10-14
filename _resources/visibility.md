@@ -18,6 +18,14 @@ You can find good advice on about coming out on these pages:
 
 You do not have to come out to anyone else, and if you do choose to, you can choose when you want to do it.
 
+### Pride events
+
+Attending a pride event can be a huge boost to your confidence and make you feel more confident about coming out. The following groups have run or are planning to run trans-specific pride events in the UK:
+
+{% include organisations tag="Pride events" %}
+
+Many LGBT+ pride events can be extremely diverse and accepting too. Why not try searching for an LGBT+ Pride event in your area?
+
 ### Finding words to describe yourself
 
 You're allowed to be whoever you like. No-one can tell you who you are. Everyone is unique and is not fully described by any word or combination of words.
@@ -43,7 +51,7 @@ Remember when you are talking about other people to use the words they prefer. I
 
 Some words are commonly used as a slur - an offensive word used to insult or attack people. Some of these words may be upsetting or traumatic for people, and we strongly suggest you avoid using them. If you want to find out more about these words, you can [read our page about them]({% link slurs.md %}).
 
-There are also words which are specific to a particular culture, such as [two spirit](https://en.wikipedia.org/wiki/Two-Spirit), [hijra](https://en.wikipedia.org/wiki/Hijra_(South_Asia)), or [kathoey](https://en.wikipedia.org/wiki/Kathoey). Do not use these words to describe yourself unless you are a member of the culture that the word comes from - that would be [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). You can read more about these words on [the PBS website](http://www.pbs.org/independentlens/content/two-spirits_map-html/).
+There are also words which are specific to a particular culture, such as [two spirit](https://en.wikipedia.org/wiki/Two-Spirit), [hijra](https://en.wikipedia.org/wiki/Hijra_(South_Asia)), or [kathoey](https://en.wikipedia.org/wiki/Kathoey). Because of the cultural context to these words, it is often better not to use them to describe yourself if you are not a member of said culture as it may be considered [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). You can read more about these words on [the PBS website](http://www.pbs.org/independentlens/content/two-spirits_map-html/).
 
 People from other cultures may not wish to be described as [transgender]({% link _words/transgender.md %}) or [nonbinary]({% link _words/nonbinary.md %}), because these words use a particular way of thinking about gender specific to [Western culture](https://en.wikipedia.org/wiki/Western_culture). Words like these may not correctly describe who the person is, or how they interact with the society around them.
 

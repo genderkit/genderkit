@@ -905,7 +905,7 @@ organisations:
         url: 'http://www.sparkle.org.uk'
         twitter: SparkleWeekend
         facebook: sparkletg
-        tags: [National]
+        tags: [National, 'Pride events']
         lastFacebookPost: '2017-12-01T10:29:47+0000'
         facebookDescription: 'The Sparkle Weekend is a celebration of gender diversity and expression. Hosted in Manchester over the second weekend every July. '
         twitterDescription: 'The world''s largest free-to-attend celebration of gender diversity, the second weekend of July every year, training, advocacy & campaigning #SpreadSomeTransJoy'
@@ -1271,7 +1271,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/20265013_1391676864241638_6638942751285548352_n.jpg?oh=5d7f8cc5616ae4548d385307a4d24cb9&oe=5A908548'
     -
         name: 'Trans Pride North'
-        tags: ['North East', 'North West', 'Local groups']
+        tags: ['North East', 'North West', 'Local groups', 'Pride Events']
         twitter: TransPrideNorth
         facebook: 1605155223139265
         lastFacebookPost: '2017-09-04T16:18:46+0000'
@@ -2309,6 +2309,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/21231583_889986837818828_3251283934105152039_n.jpg?oh=48f32f16696dd107090ad58eba56446f&oe=5AC8E0F3'
     -
         name: 'Trans Pride Scotland'
+        url: 'https://transpridescotland.com/'
         twitter: TransPrideScot
         twitterID: '824038249534464000'
         facebook: TransPrideScotland
@@ -2944,6 +2945,7 @@ organisations:
     -
         name: 'Trans Pride Leeds'
         tags: [Yorkshire, 'Local groups', 'Pride events']
+        url: 'https://www.transprideleeds.org/'
         twitter: transprideleeds
         twitterID: '1071752555976368129'
         facebook: TransPrideLeeds
@@ -3494,7 +3496,7 @@ organisations:
         twitter: TransPrideBrum
         twitterID: '1409850744128294917'
         facebook: TransPrideBrum
-        tags: ['Local groups', 'West Midlands']
+        tags: ['Local groups', 'West Midlands', 'Pride events']
         twitterDescription: '#TransPrideBrum is a grassroots movement run by volunteers that aims to create Birmingham''s first trans pride.'
         lastTwitterPost: 'Fri Aug 26 18:49:25 +0000 2022'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1438829160403804160/mRPgBcTA_normal.jpg'
@@ -3553,3 +3555,15 @@ organisations:
         image: carmstrans
         facebook: CarmsTrans
         tags: [Wales, 'Local groups']
+    -
+        name: 'London Trans+ Pride'
+        facebook: londontranspride
+        tags: ['Local Groups', 'London', 'Pride events']
+        image: londontranspride
+        manualDescription: 'London Trans+ Pride is a grassroots, DIY event (not affiliated with Pride in London).'
+    -
+        name: 'Trans Pride Manchester'
+        facebook: transpridemanchester
+        tags: ['Local Groups', 'North West', 'Manchester', 'Pride events']
+        image: transpridemanchester
+        manualDescription: 'Celebrating Trans Lives in Manchester and Greater Manchester'
