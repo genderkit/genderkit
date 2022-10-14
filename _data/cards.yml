@@ -78,6 +78,9 @@ explore:
     page: '_articles/updating-nhs-patient-details.md'
     name: NHS records
   -
+    page: '_resources/visibility.md'
+    name: Visibility
+  -
     page: '_categories/clothes.md'
     name: Clothes
   -
