@@ -36,6 +36,8 @@ You can also access help:
 
 If you are 12-18 and in the North of England, you can also access [Gender Space](https://www.barnardos.org.uk/what-we-do/services/positive-identities-gender-space).
 
+If you are a student at a school, college, university, or any other educational setting, you can access [the Gendered Intelligence Mentoring Service](https://genderedintelligence.co.uk/professionals/mentoring.html) for a fee.
+
 ### Are there other options?
 
 If you need longer term support, you may find counselling to be useful. You can find out more about this on our [counselling page]({% link _articles/counselling.md %}).
