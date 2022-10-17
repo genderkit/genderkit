@@ -6,18 +6,13 @@ First, something really important:
 
 **Any contributions you make to the articles on this website will be made available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.**
 
-Here's how to do some common things:
-
-- to add a new organisation to the organisations list, edit the ```_data/organisations.yml``` file.
-- to add a new organisation to the publications list, edit the ```_data/publications.yml``` file.
-
-If you need help, message us on Twitter or Facebook and we can help get you started. We'd be really excited to hear from you!
-
 ### How do I get my hard work credited?
 
 Your work will appear on the credits page if you add an entry for yourself [to this file](https://github.com/genderkit/genderkit/blob/master/_data/credits.yml).
 
 ### I'm not a coder - how do I contribute to the site?
+
+If you need any help adding things to the site, message us on Twitter or Facebook and we can help get you started. We'd be really excited to hear from you!
 
 1. Make yourself a GitHub account and log in to GitHub.
 2. Open the [genderkit repository](https://github.com/genderkit/genderkit) on GitHub.
