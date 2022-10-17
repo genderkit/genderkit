@@ -42,7 +42,9 @@ You will need to make two new files:
 1. a file in ```_articles/``` called ```[your-article-name].md```
 2. a file in ```_data/articles``` called ```[your-article-name].yml```
 
-### What goes in the article?
+### What goes in the article (.md) file?
+
+The article file is written in [Markdown](https://daringfireball.net/projects/markdown/basics).
 
 At the start of the main article file (the .md one) is the *frontmatter* (the stuff between the --- and the ---):
 
@@ -118,7 +120,9 @@ These headings are a rough guideline. Not all articles will have all of these he
 
 If you need a different phrasing of [name] from the article title, you can specify that in the data file under ```in-headings:```. If you need the plural versions of these phrases (what are, what do, how long do) you can specify ```plural: true``` in the data.
 
-### What goes in the data file?
+### What goes in the data (.yml) file?
+
+The data file is written in [YAML](https://www.yaml.info/learn/index.html).
 
 The following should be in the data file (.yml in _data/articles/):
 
