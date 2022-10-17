@@ -8,9 +8,8 @@ First, something really important:
 
 Here's how to do some common things:
 
-- to add a new organisation to the organisations list, edit the _data/organisations.yml file.
-- to add a new organisation to the publications list, edit the _data/publications.yml file.
-- if you want to change the "What effects does it have?", "What is it?" or "How long does it last?" sections of an article, look in _data/articles/ for a file with the same name as the article - that's where you find that stuff.
+- to add a new organisation to the organisations list, edit the ```_data/organisations.yml``` file.
+- to add a new organisation to the publications list, edit the ```_data/publications.yml``` file.
 
 If you need help, message us on Twitter or Facebook and we can help get you started. We'd be really excited to hear from you!
 
