@@ -12,6 +12,12 @@ Anyone carrying out electrolysis in the UK must have [a special license](https:/
 
 The British Institute and Association of Electrolysis maintain a [directory of members](https://www.electrolysis.co.uk/members) which may be helpful for finding somewhere to treat you.
 
+{%capture warn%} Attempting to do electrolysis yourself can lead to permanent skin damage 
+{%endcapture%} 
+{%include warning warning=warn%}
+
+At-home, DIY electrolysis can cause permanent scarring or burns and should be avoided.
+
 ### What should I be aware of?
 
 Electrolysis may be painful or uncomfortable. You can reduce the discomfort by asking your GP to prescribe you lidocaine and prilocaine cream, also known as EMLA cream. This is a local anaesthetic, applied directly onto the skin, which numbs the skin so you feel less pain from the treatment. You will normally need to apply the cream around an hour before your treatment.
