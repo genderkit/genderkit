@@ -8,7 +8,7 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
 1.  *Tell the service about the problem*
 
-    The first step is to tell the healthcare service informally that you are having a problem. For example, if you are having a problem with a GP surgery, this might mean speaking to your GP or to the surgery reception staff. 
+    The first step is to tell the healthcare service informally that you are having a problem. For example, if you are having a problem with a GP surgery, this might mean speaking to the practice manager. 
 
     It's important to think about what would help you to feel comfortable and confident when explaining your problem. Would it help you if:
 
