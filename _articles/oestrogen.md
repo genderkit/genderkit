@@ -82,6 +82,10 @@ If you have received a [formal diagnosis]({% link _articles/formal-diagnosis.md 
 {% endcapture %}
 {% include hrt-funding specifics=specifics %}
 
+### How much does it cost?
+
+Different types of oestrogen have varying costs, which which are listed [here]({% link _resources/private-fees.md %})
+
 ### References
 
 {% bibliography --cited %}
