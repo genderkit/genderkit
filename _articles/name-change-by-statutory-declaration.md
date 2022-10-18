@@ -20,7 +20,11 @@ Once you have changed your name, you will need to update your details with lots 
 
 ### How much will it cost?
 
+{% capture info %} 
 The charge for witnessing a statutory declaration is set at £5 in law {% cite commisioners1993 %}.
+{% endcapture %} 
+
+Solicitors may not charge more than £5 for witnessing a simple statutory declaration like a name change.
 
 ### References
 
