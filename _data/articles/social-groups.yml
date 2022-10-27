@@ -1,0 +1,6 @@
+summary: "A trans-inclusive social gathering that meets regularly at a local venue such as a pub or café. Some social groups also organise day trips or special events"
+plural: true
+effects:
+  -
+    category: "Mood"
+    detail: "Reduces social isolation"
