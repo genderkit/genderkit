@@ -129,3 +129,7 @@ Some countries and cultures have their own ways of talking about gender that inc
 
 * Kate Bornstein's [My New Gender Workbook](https://www.amazon.co.uk/New-Gender-Workbook-Step-Step/dp/0415538653) and Meg-John Barker and Alex Iantaffi's [How to Understand Your Gender](https://www.amazon.co.uk/How-Understand-Your-Gender-Practical/dp/1785927469/) are books offering advice to anyone questioning their gender identity.
 * Trans Health UK have a [Navigating UK Trans Healthcare](https://transhealthuk.noblogs.org/navigating-uk-trans-healthcare/) page with links to a number of useful resources on how to navigate the healthcare system.
+
+### Acknowledgements
+
+This page is illustrated using several photographs from [The Gender Spectrum Collection](https://genderphotos.vice.com) which were made available under a [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/4.0/). The page also contains a [photo by Shane](https://unsplash.com/photos/RnreUGy5Apk), a [photo by Nick Page](https://unsplash.com/photos/XMg8GBzNmgA), a [photo by Jana Sabeth](https://unsplash.com/photos/USKsnSIDNIA), and a [photo by Bret Kavanaugh](https://unsplash.com/photos/ge8IxvM5Gxk) as found on Unsplash.

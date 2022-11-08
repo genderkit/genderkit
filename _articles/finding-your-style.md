@@ -4,6 +4,9 @@ weighting: 1
 feature:
   image: finding-your-style.jpg
   caption: "A rail of shirts in different shades of blue and white"
+  url: 'https://unsplash.com/photos/NPPNHZK1U0s'
+  creator: 'Waldemar Brandt'
+  source: 'Unsplash'
 ---
 
 ### How do I find my style?

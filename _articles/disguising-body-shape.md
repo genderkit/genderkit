@@ -4,6 +4,9 @@ weighting: 2
 feature:
   image: disguising-body-shape.jpg
   caption: "Silhouette of a person against a sunset"
+  url: https://unsplash.com/photos/N2rYZg72Lig
+  creator: 'Cristian Castillo'
+  source: 'Unsplash'
 ---
 
 ### Why might I want to disguise my body shape?

@@ -4,6 +4,9 @@ weighting: 4
 feature:
   image: finasteride.jpg
   caption: "Finasteride pills in blister pack"
+  url: 'https://commons.wikimedia.org/wiki/File:Propecia_box_and_tablet.jpg'
+  creator: 'Kristoferb'
+  source: 'Wikimedia'
 ---
 
 ### What should I be aware of?

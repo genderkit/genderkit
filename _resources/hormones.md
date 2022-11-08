@@ -5,6 +5,9 @@ description: Information about hormone replacement therapies used by people chan
 feature:
   image: pills.jpg
   caption: "A photograph of a pile of pills"
+  url: https://unsplash.com/photos/nss2eRzQwgw
+  creator: 'freestocks.org'
+  source: 'Unsplash'
 ---
 
 ### What different kinds of hormones are there?

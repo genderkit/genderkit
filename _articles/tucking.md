@@ -4,6 +4,9 @@ weighting: 1
 feature:
   image: tucking.jpg
   caption: "A close-up photo of the waistline of blue denim jeans"
+  url: 'https://www.pexels.com/photo/fashion-jeans-pants-clothing-8188777/'
+  creator: 'Animesh Srivastava'
+  source: 'Pexels'
 ---
 
 ### What should I be aware of?

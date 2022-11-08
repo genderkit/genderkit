@@ -4,6 +4,9 @@ weighting: 3
 feature:
   image: contraceptive-implant.jpg
   caption: "Contraceptive implants in their packaging"
+  url: https://wellcomecollection.org/works/vxcg4g86
+  creator: 'the Science Museum, London'
+  source: 'The Welcome Collection'
 ---
 
 ### What should I be aware of?

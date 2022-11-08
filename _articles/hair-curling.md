@@ -4,6 +4,9 @@ weighting: 1
 feature:
   image: "hair-curling.jpg"
   caption: "Hair being curled with a curling iron"
+  url: 'https://unsplash.com/photos/a3xr2mVjT5M'
+  creator: 'Baylee Gramling'
+  source: 'Unsplash'
 ---
 
 ### How do I stay safe?

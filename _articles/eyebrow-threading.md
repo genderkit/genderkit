@@ -4,6 +4,9 @@ weighting: 2
 feature:
   image: eyebrow-threading.jpg
   caption: "A person's eyebrows being threaded"
+  url: 'https://unsplash.com/photos/cowLgyb63c4'
+  creator: 'Rune Enstad'
+  source: 'Unsplash'
 ---
 
 ### Why might I want eyebrow threading?

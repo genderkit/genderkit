@@ -4,6 +4,9 @@ weighting: 4
 feature:
   image: gamete-storage.jpg
   caption: "A sample of ovarian tissue being inserted into a cryopreservation chamber"
+  url: 'https://commons.wikimedia.org/wiki/File:Petef%C3%A9szeksz%C3%B6vet-cs%C3%ADkok_fagyasztva_t%C3%A1rol%C3%A1sa.jpg'
+  creator: 'Dr. Vereczkey Attila'
+  source: 'Wikimedia'
 ---
 
 ### What should I be aware of?

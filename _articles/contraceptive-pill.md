@@ -4,6 +4,9 @@ weighting: 2
 feature:
   image: contraceptive-pill.jpg
   caption: "A pill board of combined contraceptive pills"
+  url: https://unsplash.com/photos/psgqUnk8zvM
+  creator: 'Thought Catalog'
+  source: 'Unsplash'
 ---
 
 ### What should I be aware of?

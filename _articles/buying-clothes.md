@@ -4,6 +4,9 @@ weighting: 2
 feature:
   image: buying-clothes.jpg
   caption: "Three shop mannequins in a clothes store"
+  url: https://unsplash.com/photos/5epnzwsphl0
+  creator: 'Sara Kurfeß'
+  source: 'Unsplash'
 ---
 
 ### How do I buy clothes?

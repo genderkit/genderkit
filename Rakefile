@@ -277,7 +277,7 @@ def run_spellcheck(file)
 end
 
 def run_spellcheck_markdown(file)
-  cmd = "cat #{file} | sed 's/image:.*//g' | sed 's/{%[^%]*%}//g' | aspell -p './whitelist' -M -d en_GB --encoding utf-8 list | cat"
+  cmd = "cat #{file} | sed 's/image:.*//g' | sed 's/url:.*//g' | sed 's/creator:.*//g' | sed 's/{%[^%]*%}//g' | aspell -p './whitelist' -M -d en_GB --encoding utf-8 list | cat"
   result = `#{cmd}`
   result
 end

@@ -95,9 +95,15 @@ layout: page
         {% else %}
         <h3 id="how-long-does-{{ in-headings | slugify }}-last">How long does {{ in-headings }} last?</h3>
         {% endif %}
-        <p>{{ info.duration }}</p>
+        <p>{{ info.duration | markdownify }}</p>
       {% endif %}
       {{ content }}
+      {% if page.feature %}
+        {% if page.feature.url %}
+          <h3 id="errors-and-omissions">Acknowledgements</h3>
+          <p>This page is illustrated using a <a href="{{ page.feature.url }}">photograph by {{ page.feature.creator }} available at {{ page.feature.source }}</a>.
+        {% endif %}
+      {% endif %}
       <h3 id="errors-and-omissions">Errors and omissions</h3>
       <p>Is there something missing from this page? Have you spotted something that isn't correct? Please <a href="https://twitter.com/genderkit">tweet us</a> or message us <a href="https://www.facebook.com/genderkit">on Facebook</a> to let us know, or <a href="https://github.com/genderkit/genderkit/issues">file an issue on GitHub</a>.</p>
     </section>

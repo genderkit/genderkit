@@ -5,6 +5,9 @@ description: Information about what to expect when asking for a referral to a ge
 feature:
   image: referral-appointment.jpg
   caption: "A medical professional looking at a patient while taking notes"
+  url: 'https://www.pexels.com/photo/serious-ethnic-psychotherapist-listening-to-clients-complains-5699473/'
+  creator: 'Alex Green'
+  source: 'Pexels'
 ---
 
 To get gender-related medical treatment, you normally need to be *referred* to a specialist gender service. This works just like being referred for any other kind of medical treatment.

@@ -5,6 +5,9 @@ description: Information about what to expect in a first assessment at an NHS ge
 feature:
   image: initial-appointment.jpg
   caption: "A black person talking to someone holding a clipboard. Neither person's head is visible."
+  url: 'https://www.pexels.com/photo/crop-ethnic-client-discussing-problems-with-anonymous-psychologist-5699431/'
+  creator: 'Alex Green'
+  source: 'Pexels'
 ---
 
 It can be really daunting to go to your first appointment at a specialist gender service. Not knowing what to expect can make it difficult to know how to prepare, and make the whole experience seem even more scary. On this page, we’ve collected some information about who you’re likely to be seen by and what you’re likely to be asked at a first appointment, so you can feel confident that you’re well prepared.

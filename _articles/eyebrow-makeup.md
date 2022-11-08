@@ -4,6 +4,9 @@ weighting: 1
 feature:
   image: eye-makeup.jpg
   caption: "A photograph of a person's eye area with makeup applied"
+  url: 'https://unsplash.com/@thebernhardy'
+  creator: 'Bernard Osei'
+  source: 'Unsplash'
 ---
 
 ### How do I use eyebrow makeup?

@@ -5,6 +5,9 @@ description: Information about surgeries for trans, non-binary, and gender non-c
 feature:
   image: surgeons2.jpg
   caption: "Faces of surgeons performing surgery"
+  url: https://www.pexels.com/photo/surgeons-performing-surgery-2324837/
+  creator: 'Павел Сорокин'
+  source: 'Pexels'
 ---
 
 ### What surgeries are available?

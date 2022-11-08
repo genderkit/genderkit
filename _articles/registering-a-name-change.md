@@ -4,6 +4,9 @@ weighting: 4
 feature:
   image: registering-a-name-change.jpg
   caption: "A photo of the Royal Courts of Justice"
+  url: 'https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_2019.jpg'
+  creator: 'David Caster'
+  source: 'Wikimedia'
 ---
 
 ### Why might I not want to register a name change?
