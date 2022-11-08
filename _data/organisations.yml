@@ -286,7 +286,7 @@ organisations:
         date-wait-carried-over: 'Jul ''21'
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_data'
         updated: '2021-09-04'
-        referral-criteria: 'GP referral only'
+        referral-criteria: 'Allows self-referral'
         nhs-funding: true
         catchment: 'England GP only'
     -
