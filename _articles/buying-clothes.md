@@ -51,7 +51,7 @@ If you are having difficulty in finding the style of clothing you want in a size
 
 - *retailers specialising in clothing for trans people?*
 
-	Some clothing stores online specialise in producing clothes specifically for trans and nonbinary people. Some examples of these are [both&](https://bothandapparel.co.uk/), [fittome](https://www.fittome.com/), and [Tomboy Toes](https://www.tomboytoes.com/). There are also retailers of underwear designed specifically for trans people, which you can find information about on [our buying underwear page]({% link _articles/buying-underwear.md %}).
+	Some clothing stores online specialise in producing clothes specifically for trans and nonbinary people. Some examples of these are [both&](https://bothandapparel.co.uk/), [fittome](https://www.fittome.com/), and [Tomboy Toes](https://www.tomboytoes.com/). Some retailers stock swimwear intended specifically for trans people, such as [Spectrum Outfitters](https://spectrumoutfitters.co.uk/collections/swim-shorts-with-packing-pouch), [Trans Shop UK](https://uktransshop.co.uk/collections/binders/products/underworks-compression-swim-top), and [Zoah](https://zoah.shop/collections/swimwear). There are also retailers of underwear designed specifically for trans people, which you can find information about on [our buying underwear page]({% link _articles/buying-underwear.md %}).
 
 - *clothes designed to fit well regardless of gender?*
 
