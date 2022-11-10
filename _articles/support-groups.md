@@ -22,6 +22,11 @@ The following might run support groups or be able to give you a list of local on
 - other local trans people
 - your GP
 
+You can also search for groups near you on these sites:
+
+- [The Trans Dimension](https://transdimension.uk/) (London only)
+- [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
+
 ### What should I be aware of?
 
 Support groups vary in their format, focus and size, although most groups will give you the opportunity to discuss your experiences and to listen to others.

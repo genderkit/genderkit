@@ -17,12 +17,17 @@ Social groups can:
 
 The following might run social groups or be able to give you a list of local ones:
 
-- [NHS gender services]({% link _resources/gender-services.md %})
 - [local LGBTQIA+ organisations]({% link _resources/local.md %})
 - [trans support services]({% link _articles/support-services.md %})
+- [NHS gender services]({% link _resources/gender-services.md %})
 - university LGBTQIA+ societies or networks
 - workplace pride and LGBTQIA+ networks
 - other local trans people
+
+You can also search for groups near you on these sites:
+
+- [The Trans Dimension](https://transdimension.uk/) (London only)
+- [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
 
 ### What should I be aware of?
 
