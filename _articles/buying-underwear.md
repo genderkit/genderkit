@@ -32,7 +32,7 @@ To find briefs that are designed for:
 - *menstruation without products*: try [Modibodi](https://www.modibodi.co.uk/), [WUKA](https://wuka.co.uk/), and many other retailers.
 - *tucking*: try [ButterfliesGB](https://beautifullyhandmade.co.uk/store/butterfliesgb/), [Guiniveres](https://guiniveres.co.uk), [StripItBack](https://www.etsy.com/uk/shop/Stripitback), [Trans Shop UK](https://uktransshop.co.uk/collections/gaffs), and [Zoah](https://zoah.shop/).
 
-### How do I find “lingerie” sale underwear?
+### How do I find “lingerie” style underwear?
 
 To find lingerie designed for:
 
