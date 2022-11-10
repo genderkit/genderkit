@@ -47,16 +47,7 @@ To keep the genitals held in this position, one or both of the following are nor
 - *tight underwear or shorts*: look for stretchy fabric containing elastane, which is sometimes known as Lycra. You should be able to find this kind of clothing described as "shapewear", "control pants" or "control knickers" in most shops that sell underwear. Another option using similar fabrics is cycling shorts or swimwear. You could also try using two pairs of briefs in a smaller size than normal on top of each other, which may be more comfortable in warm weather.
 - *medical tape*: this usually requires shaving the area to be comfortable. Make sure you use tape which is designed to be used for medical or sports purposes as this is suitable to spend an extended period on skin. Other types of tape, such as packing tape or duct tape, can cause damage to your skin.
 
-Some people find it easier to use a specialised item of clothing called a "gaff" or "concealing underwear" designed specifically to hold the genitals in place. UK retailers include:
-
-- [Guiniveres](https://guiniveres.co.uk)
-- [StripItBack](https://www.etsy.com/uk/shop/Stripitback)
-- [Trans Shop UK](https://uktransshop.co.uk/collections/gaffs)
-
-Lingerie that functions as a gaff can also be purchased from places like:
-
-- [Carmen Liu Lingerie](https://www.carmenliulingerie.co.uk)
-- [ZHE by Karyn Elizabeth](https://zhebykarynelizabeth.com)
+Some people find it easier to use a specialised item of clothing called a "gaff" or "concealing underwear" designed specifically to hold the genitals in place. You can read more about underwear designed to help with tucking on [our buying underwear page]({% link _articles/buying-underwear.md %}).
 
 Some people are able to partly or completely insert the testes into the entrances to the inguinal canals to further hide them, but it is usually not necessary to do this in order to tuck effectively, and the health risks of doing this are unknown.
 

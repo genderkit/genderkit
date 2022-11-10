@@ -1,0 +1,6 @@
+summary: "Buying new underwear with specific features related to gender"
+hideeffects: true
+effects:
+  -
+    category: "Clothes"
+    detail: "Changes style or crotch shape"
