@@ -2,10 +2,10 @@
 ---
 
 // Colours
-$main-colour = #6600ff
+$main-colour = #6515f6
 $background-colour = #4400aa
-$grey-colour = hsl(250, 100%, 98%)
-$grey-border = hsl(250, 100%, 94%)
+$grey-colour = #ededfc
+$grey-border = hsl(252, 100%, 94%)
 
 // Column size
 $column = 12rem
@@ -92,13 +92,13 @@ section, footer
   font-size 125%
   font-family Overpass
   height 2em
-  border 1px #60f solid
+  border 1px $main-colour solid
   background-image url(/assets/images/search.svg)
   background-repeat no-repeat
   background-position .5em center
   padding-left 2.5rem
   background-size 1em
-  box-shadow #60f 0 0 5px
+  box-shadow $main-colour 0 0 5px
 
 // Remove default UL styling on most lists  
 nav ul, .wordcloud, .wordlist, .gridcontainer, .griditem ul, #indexes, #explore, #resources, #help, .links, .details, .articles, .effects, .requirements, #effectslist, #categorylist, #main-nav, #page-nav, #network-nav
@@ -839,21 +839,21 @@ ol:not(.bibliography) > li
     min-height 3rem
 
 ol:not(.bibliography) > li:nth-child(1)
-  background-image url('/assets/images/icons/circle_one.png')
+  background-image url('/assets/images/icons/circle_one.png?4')
 ol:not(.bibliography) > li:nth-child(2)
-  background-image url('/assets/images/icons/circle_two.png')
+  background-image url('/assets/images/icons/circle_two.png?4')
 ol:not(.bibliography) > li:nth-child(3)
-  background-image url('/assets/images/icons/circle_three.png')
+  background-image url('/assets/images/icons/circle_three.png?4')
 ol:not(.bibliography) > li:nth-child(4)
-  background-image url('/assets/images/icons/circle_four.png')
+  background-image url('/assets/images/icons/circle_four.png?4')
 ol:not(.bibliography) > li:nth-child(5)
-  background-image url('/assets/images/icons/circle_five.png')
+  background-image url('/assets/images/icons/circle_five.png?4')
 ol:not(.bibliography) > li:nth-child(6)
-  background-image url('/assets/images/icons/circle_six.png')
+  background-image url('/assets/images/icons/circle_six.png?4')
 ol:not(.bibliography) > li:nth-child(7)
-  background-image url('/assets/images/icons/circle_seven.png')
+  background-image url('/assets/images/icons/circle_seven.png?4')
 ol:not(.bibliography) > li:nth-child(8)
-  background-image url('/assets/images/icons/circle_eight.png')
+  background-image url('/assets/images/icons/circle_eight.png?4')
 
 // Temporary hack - remove this in future
 ol#organisations > li
