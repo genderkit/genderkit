@@ -1,7 +1,14 @@
-summary: "Returning your current passport for one with an updated name, photograph, and/or gender marker"
+summary: "Applying for a new passport or returning your current passport for one with an updated name, photograph, and/or gender marker"
 in-headings: "a new passport"
-duration: "Passports are valid for ten years, but can be updated at anytime during their validity."
+duration: "UK adult passports are valid for ten years, but can be updated at anytime during their validity."
 effects:
   -
     category: "ID documents"
     detail: "Changes name and/or gender marker"
+requirements:
+  -
+    type: parents
+    detail: Parental consent is normally required if you are under 18
+  -
+    type: binary-only
+    detail: You must be willing to state you are male or female in your application
