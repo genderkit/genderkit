@@ -37,11 +37,11 @@ You will normally need:
 You may be able to have these prescribed to you. You can also buy these from your local pharmacy or online medical suppliers. If you’re buying medical supplies online use a reputable medical supplier registered with the MHRA, such as [Exchange Supplies](https://www.exchangesupplies.org/) or [Medisave](https://www.medisave.co.uk), to make sure your supplies are safe.
 
 {% capture warn %}
-Re-using needles puts you at risk of infection.
+Re-using needles or syringe bodies puts you at risk of infection.
 {% endcapture %}
 {% include warning warning=warn %}
 
-For any injected drug, it is important that you always use fresh needles. If you're injecting yourself and you're not sure where you can get fresh needles, look for a local *needle exchange*. These are organisations that will take used needles and replace them with fresh, sterile ones.
+For any injected drug, it is important that you always use fresh needles and syringe bodies. If you're injecting yourself and you're not sure where you can get fresh needles, look for a local *needle exchange*. These are organisations that will take used needles and replace them with fresh, sterile ones.
 
 For more information about needle exchanges and where to find them, see [the With You website](https://www.wearewithyou.org.uk/what-we-do/visiting-needle-exchange/).
 
