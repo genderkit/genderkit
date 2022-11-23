@@ -3729,3 +3729,18 @@ organisations:
         tags: ['Local Groups', 'Wales']
         image: northwalestinn
         manualDescription: 'We are a mutual aid network and social community for trans, intersex and nonbinary people in North Wales.'
+    -
+        heading: The Gender Clinic
+        name: The Gender Clinic
+        url: 'https://thegenderclinic.co.uk/'
+        tags: ['Private healthcare', 'Gender Clinics', National]
+        image: 'the-gender-clinic'
+        manualDescription: 'Dr Popelyuk’s Gender Clinic at 70 Harley Street provides psychological assessments and diagnoses for people over 18 suffering from gender dysphoria.'
+        age-range: 18+
+        publishes-wait-first-appointment: true
+        wait-first-appointment: 1
+        date-wait-first-appointment: 'Nov ''22'
+        source-wait-first-appointment: 'https://thegenderclinic.co.uk/'
+        nhs-funding: false
+        referral-criteria: 'Allows self-referral'
+        updated: '2022-11-23'
