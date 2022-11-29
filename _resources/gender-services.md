@@ -34,6 +34,8 @@ You can find the waiting times for these services on our [ UK service wait times
 {% endcapture %}
 {% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description=gic-description %}
 
+Note that while some services will see patients younger than 18 for an assessment, not all will offer hormone therapy. You may wish to contact services to find out if they are willing to prescribe to under 18s before paying money to a service.
+
 ### Other services
 
 Other services that may be of interest to people in the UK include:
