@@ -65,11 +65,11 @@ organisations:
         wait-carried-over: yes
         custom-wait-first-appointment: 23-24
         source-wait-first-appointment: 'https://gender.wales/'
-        date-wait-first-appointment: 'Oct ''22'
+        date-wait-first-appointment: 'Nov ''22'
         publishes-wait-hormones: false
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
-        updated: '2022-06-10'
+        updated: '2022-11-29'
         catchment: 'Wales GP only'
     -
         heading: 'Belfast KOI'
@@ -206,9 +206,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 72
+        wait-first-appointment: 74
         source-wait-first-appointment: 'https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times'
-        date-wait-first-appointment: 'Jul ''22'
+        date-wait-first-appointment: 'Aug ''22'
         publishes-wait-hormones: true
         wait-hormones: 12
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in'
@@ -220,7 +220,7 @@ organisations:
         date-wait-carried-over: 'Mar ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2022-04-01'
+        updated: '2022-11-29'
         catchment: 'England GP only'
         extra-information: 'The service is currently focusing resources on people who have already had their first appointment, and while they are accepting new appointments, are not currently seeing patients for a first appointment and do not know when this will resume.'
     -
@@ -234,8 +234,8 @@ organisations:
         twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 32
-        date-wait-first-appointment: 'Oct ''22'
+        wait-first-appointment: 33
+        date-wait-first-appointment: 'Nov ''22'
         source-wait-first-appointment: 'https://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
         publishes-wait-hormones: true
         wait-hormones: 4
@@ -298,13 +298,13 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 54
-        date-wait-first-appointment: 'Aug ''22'
-        source-wait-first-appointment: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
+        wait-first-appointment: 57
+        date-wait-first-appointment: 'Nov ''22'
+        source-wait-first-appointment: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/waiting-list-waiting-times/'
         publishes-wait-hormones: true
         wait-hormones: 44
-        date-wait-hormones: 'Aug ''22'
-        source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#i-have-been-referred-to-nrgds-how-long-do-i-have-to-wait-to-be-seen'
+        date-wait-hormones: 'Nov ''22'
+        source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/waiting-list-waiting-times/'
         wait-youth-carried-over: yes
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic'
@@ -322,9 +322,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 44
+        wait-first-appointment: 48
         source-wait-first-appointment: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-first-appointment: 'Jun ''22'
+        date-wait-first-appointment: 'Nov ''22'
         publishes-wait-hormones: true
         custom-wait-hormones: '<6'
         source-wait-hormones: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
@@ -345,9 +345,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 53
+        wait-first-appointment: 55
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
-        date-wait-first-appointment: 'Aug ''22'
+        date-wait-first-appointment: 'Oct ''22'
         publishes-wait-hormones: true
         wait-hormones: 18
         date-wait-hormones: 'Sep ''21'
@@ -552,12 +552,12 @@ organisations:
         tags: ['Private healthcare', 'Gender Clinics', 'Under 18s']
         image: kelly
         manualDescription: 'Private gender clinic for under 23s based in London'
-        wait-first-appointment: 2-3
-        date-wait-first-appointment: 'Aug ''22'
+        wait-first-appointment: 1
+        date-wait-first-appointment: 'Nov ''22'
         publishes-wait-first-appointment: true
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2022-09-15'
+        updated: '2022-11-29'
     -
         heading: GenderGP
         name: GenderGP
@@ -2896,11 +2896,11 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/778573552358453248/BtnYxIS6_normal.jpg'
         image: harleystreet
         publishes-wait-first-appointment: true
-        wait-first-appointment: 6
-        date-wait-first-appointment: 'Nov ''21'
+        wait-first-appointment: 2-3
+        date-wait-first-appointment: 'Nov ''22'
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2021-11-09'
+        updated: '2022-11-29'
     -
         name: 'Huddersfield SU Trans Campaigns'
         tags: [Students, Yorkshire, 'Local groups']
