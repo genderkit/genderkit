@@ -26,8 +26,17 @@ The following might run social groups or be able to give you a list of local one
 
 You can also search for groups near you on these sites:
 
-- [The Trans Dimension](https://transdimension.uk/) (London only)
 - [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
+- [The Trans Dimension](https://transdimension.uk/) (London only)
+
+There are also some social groups run as video chats:
+
+- [Spectra London online trans groups](https://spectra-london.org.uk/trans-services/trans-groups/online-group/)
+- [The Clare Project online social group](https://clareproject.org.uk/online-social/)
+- [T on Tuesday run by London Friend](https://londonfriend.org.uk/london-friend-groups/)
+- [Unique Transgender Network](http://www.uniquetg.org.uk/meetings.html)
+
+These groups allow anyone from across the UK to attend.
 
 ### What should I be aware of?
 

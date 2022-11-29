@@ -18,21 +18,24 @@ In the UK, there are several specialist services available to provide you with i
 
 [Mindline Trans+](http://bristolmind.org.uk/help-and-counselling/mindline-transplus/) is a helpline for adults in the UK who identify as trans or non-binary, run by mental health charity Mind.
 
+There is local support available:
+
+- in the *Brighton and Hove* area from [Switchboard Trans and Non-binary Link](https://www.switchboard.org.uk/what-we-do/trans-and-non-binary-link/)
+- in the *London* area from the [Spectra London Trans Peer Mentoring Programme](https://spectra-london.org.uk/trans-gender-services/trans-peer-mentoring/)
+- in the *Liverpool* area from the [Mersey Care Trans Support Service](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss)
+- in *Scotland* from the [Transgender Support Service at LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/trans-support/individual-support/)
+- in *Sussex* from [The Clare Project](https://clareproject.org.uk/1-1-support/)
+- in *Wales* from the [XIST service at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
+
 If you are on a gender service waiting list or are a current gender service user, you can also get support from:
 
 - *Leeds Gender Identity Service*: [Leeds Gender Outreach Workers](https://www.mesmac.co.uk/our-services/leeds/trans-non-binary-gender-outreach-workers)
-- *Northern Region Gender Dysphoria Service*: [NRGDS Peer Supporter Service](https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/peer-supporter-service/)
+- *Northern Region Gender Dysphoria Service*: [NRGDS Peer Support Service](https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/peer-support-service/)
 - *Nottingham Centre for Transgender Health*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *NCTH East Of England*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Sheffield Porterbrook Clinic*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Welsh Gender Service*: [XIST at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
 - *West of England Specialist Gender Identity Clinic* (The Laurels, Exeter): [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
-
-You can also access help:
-
-- in the Brighton and Hove area from [Switchboard Trans and Non-binary Link](https://www.switchboard.org.uk/what-we-do/trans-and-non-binary-link/)
-- in the London area from the [Spectra London Trans Peer Mentoring Programme](https://spectra-london.org.uk/trans-gender-services/trans-peer-mentoring/)
-- in the Liverpool area from the [Mersey Care Trans Support Service](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss)
 
 If you are 12-18 and in the North of England, you can also access [Gender Space](https://www.barnardos.org.uk/what-we-do/services/positive-identities-gender-space).
 
@@ -40,4 +43,10 @@ If you are a student at a school, college, university, or any other educational 
 
 ### Are there other options?
 
-If you need longer term support, you may find counselling to be useful. You can find out more about this on our [counselling page]({% link _articles/counselling.md %}).
+Other sources of support you could consider are:
+
+*   [counselling]({% link _articles/counselling.md %})
+*   [social groups]({% link _articles/social-groups.md %})
+*   [support groups]({% link _articles/support-groups.md %})
+
+You might want to consider these in combination with accessing a trans support service.

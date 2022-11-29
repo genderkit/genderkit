@@ -81,6 +81,13 @@ The [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/types-of-therapy) and
 
 You can also find advice on finding a counsellor on the [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/how-to-choose-a-psychotherapist/) and [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/finding-the-right-therapist) websites.
 
+### Are there other options?
+
+Other sources of support you could consider are:
+
+*   one-to-one [trans support services]({% link _articles/support-services.md %})
+*   [support groups]({% link _articles/social-groups.md %})
+
 ### References
 
 {% bibliography --cited %}

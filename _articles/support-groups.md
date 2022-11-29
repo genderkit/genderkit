@@ -24,8 +24,13 @@ The following might run support groups or be able to give you a list of local on
 
 You can also search for groups near you on these sites:
 
-- [The Trans Dimension](https://transdimension.uk/) (London only)
 - [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
+- [The Trans Dimension](https://transdimension.uk/) (London only)
+
+The following groups specifically focus on mental health:
+
+- Peer support groups run by [MindOut](https://mindout.org.uk/get-support/peer-support-groups/) (Brighton and Hove only)
+- "Imago" run by [ELOP](http://elop.org/) (London/Greater London only)
 
 ### What should I be aware of?
 
