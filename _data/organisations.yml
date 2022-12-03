@@ -114,10 +114,10 @@ organisations:
         image: your-gp
         age-range: 17+
         publishes-wait-first-appointment: false
-        wait-first-appointment: 3
+        wait-first-appointment: 1
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
-        updated: '2020-11-25'
+        updated: '2022-12-03'
     -
         heading: Grampian
         name: 'Grampian Gender Identity Clinic'
@@ -234,9 +234,8 @@ organisations:
         twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 33
+        wait-first-appointment: 25
         date-wait-first-appointment: 'Nov ''22'
-        source-wait-first-appointment: 'https://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
         publishes-wait-hormones: true
         wait-hormones: 4
         date-wait-hormones: 'Apr ''22'
