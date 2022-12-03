@@ -27,6 +27,10 @@ You can also search for groups near you on these sites:
 - [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
 - [The Trans Dimension](https://transdimension.uk/) (London only)
 
+Some support groups run online:
+
+- [Beyond Reflections Online Trans, Non-binary and Questioning Group](https://beyond-reflections.org.uk/) (England and Wales only)
+
 The following groups specifically focus on mental health:
 
 - Peer support groups run by [MindOut](https://mindout.org.uk/get-support/peer-support-groups/) (Brighton and Hove only)
