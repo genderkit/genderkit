@@ -113,8 +113,9 @@ organisations:
         manualDescription: 'Private gender service located in Edinburgh'
         image: your-gp
         age-range: 17+
-        publishes-wait-first-appointment: false
+        publishes-wait-first-appointment: true
         wait-first-appointment: 1
+        date-wait-first-appointment: 'Dec ''22'
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
         updated: '2022-12-03'
