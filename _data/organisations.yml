@@ -540,8 +540,8 @@ organisations:
         manualDescription: 'Dr Penny Lenihan is a leading UK and International Senior Consultant Psychologist, Senior Gender Specialist and Autism Consultant'
         age-range: 18+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 10
-        date-wait-first-appointment: 'Nov ''21'
+        wait-first-appointment: 7
+        date-wait-first-appointment: 'Dec ''22'
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
         updated: '2021-11-04'
