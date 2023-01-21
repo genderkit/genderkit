@@ -24,27 +24,5 @@ layout: page
     <section>
       {{ content }}
     </section>
-    {% if page.format == "grid" %}
-      <section>
-        <ul class="gridcontainer">
-          {% for item in site.data.explore[page.data] %}
-          <li class="griditem">
-            <h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
-            <ul>
-            {% for subitem in item.items %}
-              <li>{{ subitem }}</li>
-            {% endfor %}
-            </ul>
-          </li>
-          {% endfor %}
-        </ul>
-      </section>
-    {% else %}
-      <ul class="wordcloud">
-        {% for name in site.data.explore[page.data] %}
-          <li style="font-size:{{ site.data.wordcloud.sizes | sample }};color:{{ site.data.wordcloud.colours | sample }};font-weight:{{ site.data.wordcloud.weights | sample }};">{{ name }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </article>
 </main>
