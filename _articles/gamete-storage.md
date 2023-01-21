@@ -34,7 +34,7 @@ If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and t
 
 - *NHS England*: funding varies by local area based on rules set by your local Clinical Commissioning Group (CCG), with many CCGs now funding treatment.
 - *NHS Wales*: gamete storage is funded for 10 years {% cite walesfertility -l 2 %}
-- *NHS Scotland*: information can be found on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/assisted-conception/)
+- *NHS Scotland*: information can be found on [the NGICNS website](https://www.ngicns.scot.nhs.uk/assisted-conception/)
 
 The Human Fertilisations and Embryology Authority have details of [costs and funding of gamete collection and storage](https://www.hfea.gov.uk/treatments/explore-all-treatments/costs-and-funding/), including options that may help you reduce costs such as egg sharing and treatment abroad. You also can use [their search tool](https://www.hfea.gov.uk/choose-a-clinic/clinic-search/) to find a clinic that will help you.
 

@@ -27,7 +27,7 @@ You may be able to find specialists in your area using a search engine.
 
 Funding for hair replacement varies by region:
 
-- in *Scotland*, guidance can be found [on the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/wigs/).
+- in *Scotland*, guidance can be found [on the NGICNS website](https://www.ngicns.scot.nhs.uk/wigs/).
 - in the rest of the UK, you may wish to contact a NHS [gender service]({% link _resources/gender-services.md %}) to ask for advice.
 
 If no funding is available in your region, and you believe an exception to the funding rules should be made in your case, the following documents give information about to apply for this:
