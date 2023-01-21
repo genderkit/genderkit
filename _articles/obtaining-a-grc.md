@@ -10,7 +10,7 @@ feature:
 
 <section class="info">
 <h3 id="note">Note</h3>
-<p>Due to the recent passage of the <a href="https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill">Gender Recognition Reform (Scotland) Bill</a>, processes around GRCs may change in Scotland in the near future.</p>
+<p>Due to the recent passage of the <a href="https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill">Gender Recognition Reform (Scotland) Bill</a>, processes relating to obtaining a GRC may change in Scotland in the near future.</p>
 </section>
 
 {% capture warn %}
