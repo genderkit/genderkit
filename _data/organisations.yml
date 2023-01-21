@@ -63,9 +63,9 @@ organisations:
         publishes-wait-first-appointment: true
         wait-youth-carried-over: yes
         wait-carried-over: yes
-        custom-wait-first-appointment: 23-24
+        custom-wait-first-appointment: 20
         source-wait-first-appointment: 'https://gender.wales/'
-        date-wait-first-appointment: 'Nov ''22'
+        date-wait-first-appointment: 'Jan ''23'
         publishes-wait-hormones: false
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
@@ -235,8 +235,8 @@ organisations:
         twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 25
-        date-wait-first-appointment: 'Nov ''22'
+        wait-first-appointment: 26
+        date-wait-first-appointment: 'Jan ''23'
         publishes-wait-hormones: true
         wait-hormones: 4
         date-wait-hormones: 'Apr ''22'
@@ -345,9 +345,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 55
+        wait-first-appointment: 56
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
-        date-wait-first-appointment: 'Oct ''22'
+        date-wait-first-appointment: 'Jan ''23'
         publishes-wait-hormones: true
         wait-hormones: 18
         date-wait-hormones: 'Sep ''21'
@@ -483,14 +483,14 @@ organisations:
         manualDescription: 'NHS gender service based in Inverness'
         image: nhs-scotland
         age-range: 17+
-        publishes-wait-first-appointment: false
-        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_highland_sexual'
-        date-wait-first-appointment: 'Aug ''21'
+        publishes-wait-first-appointment: true
+        wait-first-appointment: 33
+        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_identity_service_waiting_4'
+        date-wait-first-appointment: 'Dec ''22'
         nhs-funding: true
         referral-criteria: 'Allows self-referral'
-        update-date: '2020-07-05'
+        update-date: '2023-01-21'
         catchment: 'Highland GP only'
-        extra-information: 'Not processing patients so no current wait time info. Will accept referrals'
     -
         name: 'Liverpool Community Health Trans Support Service'
         url: 'https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss'
