@@ -16,7 +16,7 @@ description: Information about accessing medical gender services in the UK
 
    Read our [how to get referred page]({% link _resources/referral-appointment.md %}) for more information. 
 
-   Once you are referred you will be placed onto a wait list. We have a page with [information about wait times]({% link _resources/wait-times.md %}). If you’d like to begin hormone therapy while you are waiting you can also ask your GP for a [bridging prescription](https://www.transactual.org.uk/bridging-prescriptions).
+   Once you are referred you will be placed onto a wait list. We have a page with [information about wait times]({% link _resources/wait-times.md %}). If you’d like to begin hormone therapy while you are waiting you can also ask your GP for a [bridging prescription]({% link _resources/hrt-without-diagnosis.md %}).
 
 4. *Attend assessment appointments*
 
