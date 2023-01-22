@@ -22,7 +22,7 @@ Sometimes organisations will tell you that they are unable to update your name o
 
 It's important to remember that to change your name and title:
 
-- you *do not* need to enroll your deed poll
+- you *do not* need to enrol your deed poll
 - you *do not* need a deed poll with an official seal or stamp
 - you *do not* need a Gender Recognition Certificate
 
