@@ -2,8 +2,8 @@
 layout: misc
 title: UK service wait times
 description: List of waits for UK gender services
-attention-title: Updated Oct 2022
-attention-text: This is the most recent information we have been provided with by each organisation as of 2022-10-14.
+attention-title: Updated Jan 2022
+attention-text: This is the most recent information we have been provided with by each organisation as of 2023-01-21.
 ---
 
 ### Important notes
