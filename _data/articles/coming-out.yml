@@ -1,0 +1,6 @@
+summary: "Telling other people about your gender, sexual, or romantic identity, or that you are questioning your identity"
+hideeffects: true
+effects:
+  -
+    category: "Visibility"
+    detail: "Allows you to be open with friends, family, and others"
