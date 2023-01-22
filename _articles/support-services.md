@@ -14,6 +14,8 @@ Changing things about your gender can bring up lots of questions and unexpected 
 
 In the UK, there are several specialist services available to provide you with information and support. If these services cannot help you themselves, they may be able to point you to other people who can help.
 
+[Gendered Intelligence](http://genderedintelligence.co.uk/projects/supportline) provides phone, WhatsApp, and email support for those aged 17.5+ who need information and emotional support while waiting for gender affirmative healthcare.
+
 [Mermaids](https://mermaidsuk.org.uk/contact-us/) provide phone, online chat, and email support for transgender youth aged up to 25 in the UK.
 
 [Mindline Trans+](http://bristolmind.org.uk/help-and-counselling/mindline-transplus/) is a helpline for adults in the UK who identify as trans or non-binary, run by mental health charity Mind.
