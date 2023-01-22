@@ -6,7 +6,7 @@ description: Information about gender surgery services available for private fun
 
 ### Surgeons offering both private and NHS services
 
-You can find a complete list of UK surgeons who can be accessed via the NHS on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/surgery/surgery-providers/). Many of these surgeons will see patients "privately" also - that is, where the patient pays for the surgery themselves, rather than it being paid for by the NHS.
+You can find a complete list of UK surgeons who can be accessed via the NHS on [the NGICNS website](https://www.ngicns.scot.nhs.uk/surgery/surgery-providers/). Many of these surgeons will see patients "privately" also - that is, where the patient pays for the surgery themselves, rather than it being paid for by the NHS.
 
 ### Private-only surgery teams in the UK
 
