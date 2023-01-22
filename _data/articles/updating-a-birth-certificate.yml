@@ -1,0 +1,5 @@
+summary: "Updating your birth or adoption certificates to change the listed name or gender"
+effects:
+  -
+    category: "ID documents"
+    detail: "Alters name or gender"
