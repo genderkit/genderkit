@@ -227,16 +227,17 @@ organisations:
     -
         heading: Nottingham
         name: 'The Nottingham Centre for Transgender Health'
-        url: 'http://www.nottinghamshirehealthcare.nhs.uk/nottingham-centre-for-transgender-health'
+        url: 'https://ncth.nhs.uk/'
         tags: [NHS, 'Gender Clinics', 'East Midlands']
         manualDescription: 'NHS gender service located in Nottingham'
-        image: nhs
+        image: ncth
         twitter: NottsCTH
         twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
         wait-first-appointment: 26
         date-wait-first-appointment: 'Jan ''23'
+        source-wait-first-appointment: 'https://ncth.nhs.uk/waiting-time-and-appointment-statistics'
         publishes-wait-hormones: true
         wait-hormones: 4
         date-wait-hormones: 'Apr ''22'
