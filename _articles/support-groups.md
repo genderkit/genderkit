@@ -31,7 +31,7 @@ Some support groups run online:
 
 - [Beyond Reflections Online Trans, Non-binary and Questioning Group](https://beyond-reflections.org.uk/) (England and Wales only)
 - [Bloom](https://www.lgbthero.org.uk/bloom) run by LGBT Hero (UK-wide)
-- "Waiting List Warriors" run by [Gendered Intelligence](https://genderedintelligence.co.uk/) for people on a waiting list for a NHS gender service - contact the [Support Line](http://genderedintelligence.co.uk/projects/supportline) for more information
+- [Waiting List Warriors](https://genderedintelligence.co.uk/projects/waitinglistwarriors.html) run by [Gendered Intelligence](https://genderedintelligence.co.uk/) for people on a waiting list for a NHS gender service
 
 The following groups specifically focus on mental health:
 
