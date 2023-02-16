@@ -34,6 +34,8 @@ You can find the waiting times for these services on our [ UK service wait times
 {% endcapture %}
 {% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description=gic-description %}
 
+Note that while some services will see patients younger than 18 for an assessment, not all will offer hormone therapy. You may wish to contact services to find out if they are willing to prescribe to under 18s before paying money to a service.
+
 ### Other services
 
 Other services that may be of interest to people in the UK include:
@@ -62,7 +64,7 @@ You may be able to get help with the cost of travelling to attending appointment
 
 - on [the NHS website](https://www.nhs.uk/using-the-nhs/help-with-health-costs/healthcare-travel-costs-scheme-htcs/) (valid across the whole of the UK)
 - on [the Welsh Government website](https://gov.wales/low-income-scheme-help-nhs-health-costs)
-- on [the NGICNS website](https://www.ngicns.scot.nhs.uk/nhsservices/adults/surgery/claiming-travel-subsistence-expenses/) (Scotland only)
+- on [the NGICNS website](https://www.ngicns.scot.nhs.uk/surgery/claiming-travel-subsistence-expenses/) (Scotland only)
 - on [the HSC Northern Ireland website](http://www.hscbusiness.hscni.net/pdf/Expenses.pdf)
 
 More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/) and [the London GIDS website](https://gids.nhs.uk/how-claim-travel-expenses).

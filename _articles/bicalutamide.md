@@ -4,6 +4,9 @@ weighting: 5
 feature:
   image: pills.jpg
   caption: "A photograph of a pile of pills"
+  url: https://unsplash.com/photos/nss2eRzQwgw
+  creator: 'freestocks.org'
+  source: 'Unsplash'
 ---
 
 ### What should I be aware of?

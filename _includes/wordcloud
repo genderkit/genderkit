@@ -1,0 +1,5 @@
+<ul class="wordcloud">
+{% for name in site.data.explore[page.data] %}
+<li style="font-size:{{ site.data.wordcloud.sizes | sample }};color:{{ site.data.wordcloud.colours | sample }};font-weight:{{ site.data.wordcloud.weights | sample }};">{{ name }}</li>
+{% endfor %}
+</ul>

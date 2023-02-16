@@ -1,0 +1,9 @@
+summary: "Choosing words, labels, or groups you can use to help explain your identity to other people"
+hideeffects: true
+effects:
+  -
+    category: "Visibility"
+    detail: "Helps quickly summarise aspects of yourself"
+  -
+    category: "Mood"
+    detail: "Increases feelings of community and validity"

@@ -4,35 +4,12 @@
     - Alexander 1890s-2010s
     - Alexandra 1960s-2010s
 -
-  title: Nat
-  items: 
-    - Nathan 1960s-2010s
-    - Natasha 1960s-2000s
-    - Natalie 1960s-2000s
--
-  title: Sam
-  items:
-    - Samuel 1890s-2010s
-    - Samantha 1960s-2000s
--
   title: Chris
   items:
     - Christopher 1890s-2000s
     - Christian 1960s-1990s
     - Christina 1890s-1950s
     - Christine 1910s-1980s
--
-  title: Nicky
-  items:
-    - Nicola 1940s-1990s
-    - Nichola 1960s-1970s
-    - Nicole 1980s-2010s
-    - Nicholas 1930s-2000s
--
-  title: Terry
-  items:
-    - Terence 1910s-1970s
-    - Teresa 1920s-1970s
 -
   title: Fran
   items:
@@ -47,10 +24,21 @@
     - Joanne 1950s-1980s
     - Josephine 1900s-1950s
 -
+  title: Max
+  items: 
+    - Maxine 1960s-1970s
+    - Max 1990s-2000s
+-
   title: Les
   items:
     - Leslie 1890s-1960s
     - Lesley 1930s-1970s
+-
+  title: Lou
+  items:
+    - Louis 1890s-2010s
+    - Louise 1950s-2000s
+    - Louisa 1890s-1910s
 -
   title: Mel
   items:
@@ -58,13 +46,24 @@
     - Melanie 1950s-1980s
     - Melissa 1970s-2000s
 -
+  title: Nicky
+  items:
+    - Nicola 1940s-1990s
+    - Nichola 1960s-1970s
+    - Nicole 1980s-2010s
+    - Nicholas 1930s-2000s
+-
   title: Pat
   items:
     - Patricia 1900s-1970s
     - Patrick 1890s-2000s
 -
-  title: Lou
+  title: Sam
   items:
-    - Louis 1890s-2010s
-    - Louise 1950s-2000s
-    - Louisa 1890s-1910s
+    - Samuel 1890s-2010s
+    - Samantha 1960s-2000s
+-
+  title: Terry
+  items:
+    - Terence 1910s-1970s
+    - Teresa 1920s-1970s

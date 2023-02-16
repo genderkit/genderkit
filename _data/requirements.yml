@@ -4,6 +4,9 @@ other-conditions-controlled:
 generic:
  text: "This text should never be seen, so I will spell a word badly to make the build break: sdkjghfdjkghfd"
  icon: otherrestriction
+binary-only:
+ text: "You can only state a gender of male or female on your application"
+ icon: otherrestriction
 non-nhs:
  text: "This is not normally available on the NHS"
  icon: otherrestriction

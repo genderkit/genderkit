@@ -8,4 +8,6 @@ description: "Shortened versions of longer names where the longer name appeared 
 
 These names are shortened versions of longer names. The longer names were popular enough to appear on top 100 lists in the listed decades.
 
+{% include headed-grid %}
+
 Source: [Office of National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalestop100babynameshistoricaldata).

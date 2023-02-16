@@ -8,6 +8,16 @@ description: Helpful organisations and publications in the UK for people with tr
 
 {% include organisations tag="Families" %}
 
+### Support groups
+
+There are a number of local support groups available for family members of trans people. 
+
+If you cannot find a local support group, you could consider these groups that run online:
+
+- [Beyond Reflections Family and Friends Group](https://beyond-reflections.org.uk/) (England and Wales only)
+- [Gendered Intelligence parents and carers group](https://genderedintelligence.co.uk/families/group.html)
+- [Mermaids Parents and Carers Community](https://mermaidsuk.org.uk/parents/)
+
 ### Books
 
 {% include books tag="Family" thumbnails="true" %}

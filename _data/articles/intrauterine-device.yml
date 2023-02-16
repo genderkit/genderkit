@@ -1,0 +1,11 @@
+aka: [IUD, IUS, Coil, Mirena]
+in-headings: "an intrauterine device"
+summary: "An contraceptive implant inserted into the uterus"
+duration: "Depending on the type of device it may last from 3 to 10 years. It can be removed by a medical professional if needed."
+effects:
+  -
+    category: "Menstruation"
+    detail: "Reduces or stops"
+  -
+    category: "Fertility"
+    detail: "Reduces pregnancy risk"

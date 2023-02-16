@@ -28,7 +28,9 @@ layout: page
           {% assign url = "https://www.facebook.com/" | append: item.facebook %}
           {% elsif item.facebookId %}
           {% assign url = "https://www.facebook.com/" | append: item.facebookId %}
-          {% endif %}
+          {%- elsif item.instagram -%}
+          {%- assign url = "https://www.instagram.com/" | append: item.instagram -%}
+          {%- endif -%}
           {% if item.image %}
             <img alt="Logo of {{ item.name | xml_escape }}" src="{% link assets/images/organisations/{{ item.image }}.jpg %}" />
           {% elsif item.twitterID %}
@@ -48,17 +50,20 @@ layout: page
             {% endif %}
           </p>
           <p>
-          {% if item.url %}
+            {%- if item.url -%}
             <a href="{{ item.url }}">Website</a>&nbsp;
-          {% endif %}
-          {% if item.twitter %}
-            <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
-          {% endif %}
-          {% if item.facebook %}
-            <a href="https://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;
-          {% elsif item.facebookId %}
-            <a href="https://www.facebook.com/{{ item.facebookId }}">Facebook</a>&nbsp;
-          {% endif %}
+            {%- endif -%}
+            {%- if item.facebook -%}
+              <a href="https://www.facebook.com/{{ item.facebook }}">Facebook</a>&nbsp;
+            {%- elsif item.facebookId -%}
+              <a href="https://www.facebook.com/{{ item.facebookId }}">Facebook</a>&nbsp;
+            {%- endif -%}
+            {%- if item.instagram -%}
+              <a href="https://instagram.com/{{ item.instagram }}">Instagram</a>&nbsp;
+            {%- endif -%}
+            {%- if item.twitter -%}
+              <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>&nbsp;
+            {%- endif -%}
           </p>
         </li>
       {% endfor %}

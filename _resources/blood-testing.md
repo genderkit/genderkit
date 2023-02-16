@@ -5,6 +5,9 @@ description: Information about why you should get levels tested, what specifical
 feature:
   image: blood-testing.jpg
   caption: "A set of empty blood sample tubes"
+  url: https://www.pexels.com/photo/set-of-sample-tubes-arranged-on-pink-surface-6074948/
+  creator: 'Alena Shekhovtcova'
+  source: 'Pexels'
 ---
 
 {% capture warn %}

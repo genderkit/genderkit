@@ -4,6 +4,9 @@ weighting: 1
 feature:
   image: bra.jpg
   caption: "A person wearing a green and black sports bra"
+  url: https://commons.wikimedia.org/wiki/File:Greenand_black_sports_bra.jpg
+  creator: 'Tommas Gunnarsson'
+  source: 'Wikimedia'
 ---
 ### Why might I want a bra?
 You might want to wear a bra because:

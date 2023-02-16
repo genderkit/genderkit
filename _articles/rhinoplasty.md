@@ -4,6 +4,9 @@ weighting: 5
 feature:
   image: surgeons2.jpg
   caption: "Faces of surgeons performing surgery"
+  url: https://www.pexels.com/photo/surgeons-performing-surgery-2324837/
+  creator: 'Павел Сорокин'
+  source: 'Pexels'
 ---
 
 ### How do I stay safe?

@@ -4,6 +4,9 @@ weighting: 2
 feature:
   image: buying-clothes.jpg
   caption: "Three shop mannequins in a clothes store"
+  url: https://unsplash.com/photos/5epnzwsphl0
+  creator: 'Sara Kurfeß'
+  source: 'Unsplash'
 ---
 
 ### How do I buy clothes?
@@ -40,7 +43,7 @@ If you are having difficulty in finding the style of clothing you want in a size
 
 - *unisex or ambiguous clothing?*
 
-	Many items of clothing with a more casual style are considered unisex, and are worn by people of any gender. Smaller sizes of these clothes can be bought from the Women's section and larger from the Men's section. Examples include many styles of hoodies, t-shirts, jeans, and jogging bottoms. This also applies to some footwear, such as trainers and boots, which will often be virtually identical in versions sold in Women's and Men's sections of retailers. Some retailers also sell unisex underwear, such as [FOCX](https://focx.co.uk/) or [rodeoH](https://rodeoh.com/collections/underwear).
+	Many items of clothing with a more casual style are considered unisex, and are worn by people of any gender. Smaller sizes of these clothes can be bought from the Women's section and larger from the Men's section. Examples include many styles of hoodies, t-shirts, jeans, and jogging bottoms. This also applies to some footwear, such as trainers and boots, which will often be virtually identical in versions sold in Women's and Men's sections of retailers. Some retailers also sell unisex underwear, which you read more about on [our buying underwear page]({% link _articles/buying-underwear.md %}).
 
 - *retailers that don't divide by gender?*
 
@@ -48,7 +51,7 @@ If you are having difficulty in finding the style of clothing you want in a size
 
 - *retailers specialising in clothing for trans people?*
 
-	Some clothing stores online specialise in producing clothes specifically for trans and nonbinary people. Some examples of these are [both&](https://bothandapparel.co.uk/), [fittome](https://www.fittome.com/), and [Tomboy Toes](https://www.tomboytoes.com/). There are also retailers of underwear designed specifically for trans people, which you can find information about on our pages about [tucking]({% link _articles/tucking.md %}) and [packing]({% link _articles/packing.md %}).
+	Some clothing stores online specialise in producing clothes specifically for trans and nonbinary people. Some examples of these are [both&](https://bothandapparel.co.uk/), [fittome](https://www.fittome.com/), and [Tomboy Toes](https://www.tomboytoes.com/). Some retailers stock swimwear intended specifically for trans people, such as [Spectrum Outfitters](https://spectrumoutfitters.co.uk/collections/swim-shorts-with-packing-pouch), [Trans Shop UK](https://uktransshop.co.uk/collections/binders/products/underworks-compression-swim-top), and [Zoah](https://zoah.shop/collections/swimwear). There are also retailers of underwear designed specifically for trans people, which you can find information about on [our buying underwear page]({% link _articles/buying-underwear.md %}).
 
 - *clothes designed to fit well regardless of gender?*
 
@@ -62,27 +65,13 @@ You may find you are more comfortable in clothing that [disguises your body shap
 
 ### Finding clothes that meet your needs
 
-Some types of clothing come with specific features that you might find useful:
+Some types of clothing come with specific features that you might find useful.
 
-- *Boxers with a pouch for [packers]({% link _articles/packing.md %})*
+You can find more information on [our buying underwear page]({% link _articles/buying-underwear.md %}) about underwear that allows [tucking]({% link _articles/tucking.md %}) and [packing]({% link _articles/packing.md %}).
 
-  [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxers with a pouch for packers.
+You can find more information on [our bras page]({% link _articles/bras.md %}) about underwear options that allow inserting packing or prosthetics.
 
-- *Boxers designed for sanitary towels*
-
-  [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxers with an inner lining for sanitary towels.
-
-- *Absorbent underwear designed for menstruation*
-
-  Some underwear is designed to be absorbent enough that you don't need to use tampons or sanitary towels. [Modibodi](https://www.modibodi.co.uk/) offer this, as well as some other companies.
-
-- *Gaffes*
-
-  Gaffes are a type of underwear designed to help with [tucking]({% link _articles/tucking.md %}).
-
-- *Bras with pockets for padding*
-
-  These are sometimes known as "mastectomy bras", and can be found in some high-street shops.
+You can find more information on [our binding page]({% link _articles/binding.md %}) about clothing designed to reduce the appearance of your chest. 
 
 ### Altering clothes
 

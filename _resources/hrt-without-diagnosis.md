@@ -34,6 +34,11 @@ A bridging prescription provides temporary HRT from your GP while you wait for a
 
 Waiting lists for NHS services are notoriously long, and you might be able to convince your GP that it's unreasonable to expect you to wait that long for hormones {% cite cr181 --locator 25 %}. However, current GMC guidance is for GPs to prescribe bridging prescriptions only when a patient is already self-medicating, or is likely to start self-medicating, and is at risk of self-harm or suicide {% cite GMCTransBridging %}. The guidelines also suggest providing only the minimum dose {% cite GMCTransBridging %}, which some GPs interpret as being the smallest possible dose, rather than the smallest effective dose. If your GP is uncertain about providing a bridging prescription, you can suggest they speak to their local NHS gender service for advice.
 
+Members of the UK trans community have created a guide to asking for a bridging prescription that you can download:
+
+- [How to Self-Advocate for a Bridging Prescription]({% link assets/pdf/Bridging Prescription Self-Advocacy Resource.pdf %})
+- [How to Self-Advocate for a Bridging Prescription (easy read version)]({% link assets/pdf/Easy Read Bridging Prescription Self-Advocacy Resource.pdf %})
+
 You can find more information about bridging prescriptions on [the TransActual website](https://www.transactual.org.uk/bridging-prescriptions).
 
 ### Self-medicating

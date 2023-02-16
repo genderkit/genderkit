@@ -23,6 +23,6 @@
             }
         </style>
     </defs>
-    <circle cx="256" cy="256" r="255" style="fill: #9980ff"/>
+    <circle cx="256" cy="256" r="255" style="fill: #988cfc"/>
     <text class="text-superbold" text-anchor="middle" x="256" y="396">2</text>
 </svg>

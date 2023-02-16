@@ -1,0 +1,12 @@
+<ul class="gridcontainer">
+{% for item in site.data.explore[page.data] %}
+<li class="griditem">
+<h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
+<ul>
+{% for subitem in item.items %}
+<li>{{ subitem }}</li>
+{% endfor %}
+</ul>
+</li>
+{% endfor %}
+</ul>

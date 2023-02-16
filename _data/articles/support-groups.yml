@@ -1,0 +1,6 @@
+summary: "A trans-inclusive or trans-focused group that meets on a regular basis to discuss issues relating to gender identity, to share problems, resources and solutions, and to offer support to one another"
+plural: true
+effects:
+  -
+    category: "Mood"
+    detail: "Reduced distress"
