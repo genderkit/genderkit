@@ -3763,3 +3763,17 @@ organisations:
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
         updated: '2022-11-23'
+    -
+        name: 'Galop'
+        url: 'https://galop.org.uk/'
+        tags: [National, Violence]
+        image: galop
+        twitter: GalopUK
+        twitterID: '395368385'
+        facebook: galopuk
+        facebookId: '100067466839546'
+        facebookDescription: "Galop is the UK's LGBT+ anti-abuse charity. We are run by the LGBT+ community, for the LGBT+ community"
+        twitterDescription: 'We support all LGBT+ victims/survivors of domestic abuse, sexual violence, hate crime, and other forms of abuse. We are run by LGBT+ people, for LGBT+ people.'
+        twitterIcon: 'https://pbs.twimg.com/profile_images/1441416593360175104/LO61bHmK_400x400.jpg'
+        facebookIcon: 'https://scontent.flba3-1.fna.fbcdn.net/v/t39.30808-6/261412959_4266660600112298_3835911733446515306_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Zb20hJRVXDEAX9YFT5p&_nc_ht=scontent.flba3-1.fna&oh=00_AfBPHscKXOvJ-jY7eQfD1wygZNWzs01RwEDdmzt6w_I4-g&oe=63F31EC2'
+    -
