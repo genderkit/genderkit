@@ -21,3 +21,11 @@ If you were born or adopted in *Scotland* or *Northern Ireland*, you may also be
 If you update your name on your birth certificate without a GRC, your birth certificate will show both your old and new names.
 {% endcapture %}
 {% include warning warning=warn %}
+
+### Are there other options?
+
+Depending on what you need it for, you may not have to update your birth certificate. 
+
+If you need proof of your right to work in the UK, you may wish to [update the gender on your passport]({% link _/articles/getting-a-new-passport.md }). If you need photo ID, you may wish to [update your full or provisional driving licence]({% link _/articles/getting-a-new-driving-licence.md }). 
+
+These are both easier to update than a birth certificate and can often replace having to show a birth certificate for identification. 
