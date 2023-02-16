@@ -26,8 +26,13 @@ Enrolling a deed poll will create a *permanent searchable link* between your old
 
 Once you have changed your name, you will need to update your details with lots of different organisations. You can find out who you need to notify and how to do it on our page about [telling organisations]({% link _articles/telling-organisations.md %}).
 
-### Making a deed poll --- 16 and over
-To change your own name by deed poll, you must be 16 or over.
+
+### How do I make a deed poll?
+
+Changing your name by deed poll is different depending on if you are under or over 16. 
+
+{% capture title %}I am over 16{% endcapture %} {% capture body %}
+You can change your own name by deed poll. 
 
 You will need to obtain the signatures of two independent witnesses to your deed poll. These need to be people who know you personally but who are not part of your family. If you are unable to do this, you may wish to use a [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). A statutory declaration must be witnessed by a solicitor, which will involve paying a small fee.
 
@@ -37,11 +42,15 @@ After you have completed your deed poll, you can also choose to officially [regi
 
 Many people will make multiple original, signed deed polls so they can send them to multiple organisations at once. Most organisations will return original deed polls although they may take some time to do so.
 
-### Making a deed poll --- under 16
-If you are under 16, you will need to get your parents or guardians to make a deed poll on your behalf. They must all agree to this, otherwise you will need a court order. You do not need to enrol your deed poll.
+{% endcapture %} {% include details body=body title=title %}
+
+{% capture title %}I am under 16{% endcapture %} {% capture body %}
+
+You will need to get your parents or guardians to make a deed poll on your behalf. They must all agree to this, otherwise you will need a court order. You do not need to enrol your deed poll.
 
 Mermaids have [resources relating to name changes](https://mermaidsuk.org.uk/legal-resources/) for under 16s on their website, including a template deed poll.
 
+{% endcapture %} {% include details body=body title=title %}
 ### Where can I learn more?
 
 You can find more information about changing your name by deed poll on [the GOV.UK website](https://www.gov.uk/change-name-deed-poll/overview).
@@ -50,7 +59,7 @@ You can find more information about changing your name by deed poll on [the GOV.
 
 Name change by deed poll is free.
 
-Some companies offer paid services for "official" deed polls: these "official" deed polls are no more legal {% cite vincent2018transgender -l 71 %} than one you have printed yourself using the [Free UK Deed Poll website](https://freedeedpoll.org.uk/) or [the template on the GOV.UK website](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll). There is no need to pay an organisation for a deed poll (see [this Guardian article](https://www.theguardian.com/money/2013/jun/29/deed-poll-websites-avoid) for more information).
+Some companies offer paid services for "official" deed polls: these "official" deed polls are no more legal {% cite vincent2018transgender -l 71 %} than one you have printed yourself using the [Free UK Deed Poll website](https://freedeedpoll.org.uk/) or [the template on the GOV.UK website](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll). There is no need to pay an organisation for a deed poll.
 
 ### References
 
