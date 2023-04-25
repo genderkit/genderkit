@@ -35,7 +35,7 @@ If you are on a gender service waiting list or are a current gender service user
 - *Northern Region Gender Dysphoria Service*: [NRGDS Peer Support Service](https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/peer-support-service/)
 - *Nottingham Centre for Transgender Health*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *NCTH East Of England*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
-- *Sheffield Porterbrook Clinic*: [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
+- *Sheffield Porterbrook Clinic*: [Sheffield Peer Support Workers](https://www.shsc.nhs.uk/gender-services-peer-support-team) or the [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 - *Welsh Gender Service*: [XIST at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
 - *West of England Specialist Gender Identity Clinic* (The Laurels, Exeter): [Gendered Intelligence Support Line](http://genderedintelligence.co.uk/projects/supportline)
 
