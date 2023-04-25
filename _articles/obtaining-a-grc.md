@@ -28,6 +28,8 @@ This has three main effects:
 - it may change whether you would be housed in a women's prison or a men's prison
 - it may affect your rights around pensions, particularly if you were born before 6th December 1953. 
 
+You *do not* need a GRC to have your death certificate registered under the correct gender or to have a funeral in which your gender is respected {% cite kermode2021older -l 128 %}. There is detailed information about this in posts on [the Trans Safety Network website](https://transsafety.network/posts/you-dont-need-a-grc-death-cert/) which has been subsequently [confirmed by a coroner](https://transsafety.network/posts/coroner-confirms-grc-death-cert/). If the gender of someone has been recorded incorrectly on their death certificate, you can [apply to have this corrected](https://www.gov.uk/correcting-a-death-registration).
+
 ### Why might I not want a Gender Recognition Certificate?
 
 Obtaining a GRC would not normally have any effects on your everyday life, so few people ever apply for it. In particular, you *do not need a GRC* to change the name or gender on your [passport]({% link _articles/getting-a-new-passport.md %}), driving license, or any other identification other than your birth certificate.
@@ -62,3 +64,7 @@ There is a box on the application form for a GRC that allows HMRC and the DWP to
 ### Where can I learn more?
 
 A number of organisations have produced guidance on the process of obtaining a GRC. You can find a comprehensive list of resources about obtaining a Gender Recognition Certificate and on the Gender Recognition Act on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/gender-recognition/).
+
+### References
+
+{% bibliography --cited %}
