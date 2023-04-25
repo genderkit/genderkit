@@ -119,5 +119,3 @@ There is very detailed information on the exact rules for when a change of gende
 ### References
 
 {% bibliography --cited %}
-=======
-There is very detailed information on the exact rules for when a change of gender is permitted and what evidence needs to be provided in [this HM Passport Office document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974817/Gender_recognition_V8.pdf).
