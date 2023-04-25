@@ -27,6 +27,8 @@ TransgenderNI have a resource discussing the [sexual health of trans young peopl
 
 {% include organisations tag="Sexual health" %}
 
+In Nottingham, there is also Clinic X at [The Health Shop](https://www.nottinghamshirehealthcare.nhs.uk/the-health-shop), a closed sexual health clinic for people who are trans and gender diverse. 
+
 ### More information
 
 You can find a variety of UK-specific publications about sex, contraception, and sexual health aimed a trans, nonbinary, and gender-variant audience on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/sex-and-contraception/).
