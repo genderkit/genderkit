@@ -100,10 +100,6 @@ In both cases, you will need to send the passport office two [passport photograp
 
 ### How much does getting a new passport cost?
 
-To update your gender marker on an existing passport you will need *either* to send evidence *or* a [gender recognition certificate (GRC)]({% link _articles/obtaining-a-grc.md %}). A GRC is *not* required to update your passport.
-  
-  The required evidence is proof of your change of gender (like bank statements, utility bills, or payslips) and a letter from a medical professional. The medical letter must state that the professional considers your change of gender is "likely to be permanent". The letter could be written by your GP or a gender specialist you have seen at a gender clinic, and they will normally charge you money for writing this letter. [Passport Office guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/974817/Gender_recognition_V8.pdf) suggests that if you cannot provide such a letter, you might instead be able to make a statement confirming you permanently use the preferred identity instead.
-
 At the time of writing (November 2022) the cost of a new or updated UK adult passport is £75.50 (online) or £85 (paper form). You can find up-to-date information on [the HM Passport Office website](https://www.gov.uk/renew-adult-passport).
 
 ### Visas
