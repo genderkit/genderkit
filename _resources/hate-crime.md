@@ -17,8 +17,6 @@ Hate crimes can also be motivated by a persons sexuality, disability, religion, 
 
 ### Useful links
 
-GALOP have a [trans advocacy service](http://www.galop.org.uk/trans-advocacy/) that can help provide advice and support if you are experiencing or have experienced a hate crime.
-
 LGBT Foundation have produced [A Guide to Reporting Transphobic Crime](https://s3-eu-west-1.amazonaws.com/lgbt-website-media/Files/afe45faa-5fff-425d-a4f4-ec8c55c78ebd/hatecrimereporting-webdesign.pdf).
 
 There is detailed information about sexual orientation and transgender identity hate crime on [the Citizens Advice England website](https://www.citizensadvice.org.uk/law-and-courts/discrimination/hate-crime/sexual-orientation-and-transgender-identity-hate-crime/).
