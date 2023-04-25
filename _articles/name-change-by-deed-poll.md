@@ -50,7 +50,7 @@ Many people make multiple original signed deed polls so they can send them to mu
 
 Once you have changed your name, you will need to update your details with lots of different organisations. You can find out who you need to notify and how to do it on our page about [telling organisations]({% link _articles/telling-organisations.md %}).
 
-After you have completed your deed poll, you can also choose to officially [register your name change]({% link _articles/registering-a-name-change.md %}), but most people do not do this. You do not need to enroll your deed poll and there is no requirement to do this.
+After you have completed your deed poll, you can also choose to officially [register your name change]({% link _articles/registering-a-name-change.md %}), but most people do not do this.
 
 ### Where can I learn more?
 
