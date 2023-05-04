@@ -22,4 +22,4 @@ You can also buy [packers]({% link _articles/packing.md %}) (devices placed in y
 
 Basic STP devices can cost around £5-15. More complex devices (for example, built into a packer or prosthetic) can cost significantly more. 
 
-UK retailers of STP devices include [SheWee](http://www.shewee.com/), [Whiz](http://www.whizproducts.co.uk) and [Uberkinky](http://www.uberkinky.co.uk).
+UK retailers of STP devices include [SheWee](http://www.shewee.com/), [Trans Shop UK](https://uktransshop.co.uk/collections/get-your-joeys), [Whiz](http://www.whizproducts.co.uk) and [Uberkinky](http://www.uberkinky.co.uk).
