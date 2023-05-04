@@ -13,6 +13,8 @@ Attending a pride event can be a huge boost to your confidence and make you feel
 
 ### Where can I find a pride event near me?
 
+You can find full details of Trans Pride events for 2023 on [the Celebrate Trans Joy website](https://www.celebratetransjoy.co.uk/trans-prides-2023).
+
 The following groups have run or are planning to run trans-specific pride events in the UK:
 
 {% include organisations tag="Pride events" %}
