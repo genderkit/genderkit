@@ -23,7 +23,7 @@ If you're under 19 and facing any sort of violence or abuse, [Childline](https:/
 
 [Switchboard's Domestic Abuse service](https://www.switchboard.org.uk/what-we-do/domestic-abuse/) is for LGBTQ people affected by domestic abuse.
 
-[Star Support](https://www.consortium.lgbt/member-directory/star-support/) help to provide access to safe and inclusive accommodation for LGBTIQ+ survivors of domestic and sexual violence. 
+[Star Support](https://www.consortium.lgbt/member-directory/star-support/) help to provide access to safe and inclusive accommodation for LGBTQ+ survivors of domestic and sexual violence. 
 
 The [Rape Crisis Scotland helpline](https://www.rapecrisisscotland.org.uk/help-helpline/) is for anyone, whatever their gender, who has been affected by sexual violence, no matter when or how it happened. They offer both phone and email support.
 
