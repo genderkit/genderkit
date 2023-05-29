@@ -3763,3 +3763,16 @@ organisations:
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
         updated: '2022-11-23'
+    -
+        heading: 'GenderPlus'
+        name: 'GenderPlus'
+        url: 'https://www.genderplus.com'
+        tags: ['Private healthcare', 'Gender Clinics', 'Under 18s']
+        image: genderplus
+        manualDescription: 'Private gender clinic'
+        wait-first-appointment: 1-2
+        date-wait-first-appointment: 'May ''23'
+        publishes-wait-first-appointment: true
+        nhs-funding: false
+        referral-criteria: 'Allows self-referral'
+        updated: '2023-05-29'
