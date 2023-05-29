@@ -21,6 +21,10 @@ If you're under 19 and facing any sort of violence or abuse, [Childline](https:/
 
 {% include organisations tag="Violence" %}
 
+[Switchboard's Domestic Abuse service](https://www.switchboard.org.uk/what-we-do/domestic-abuse/) is for LGBTQ people affected by domestic abuse.
+
+[Star Support](https://www.consortium.lgbt/member-directory/star-support/) help to provide access to safe and inclusive accommodation for LGBTIQ+ survivors of domestic and sexual violence. 
+
 The [Rape Crisis Scotland helpline](https://www.rapecrisisscotland.org.uk/help-helpline/) is for anyone, whatever their gender, who has been affected by sexual violence, no matter when or how it happened. They offer both phone and email support.
 
 The [GALOP Helpline](https://galop.org.uk/get-help/helplines/) supports LGBT people, their friends and families across the UK. The helpline is for LGBT+ people experiencing abuse or violence, such as hate crime, domestic abuse, sexual violence, so-called “conversion therapy” or any other kind of abuse. They operate a freephone telephone helpline service as well as online chat and email support.
