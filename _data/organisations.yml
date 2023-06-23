@@ -299,19 +299,19 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 60
-        date-wait-first-appointment: 'Feb ''23'
+        wait-first-appointment: 62
+        date-wait-first-appointment: 'May ''23'
         source-wait-first-appointment: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/waiting-list-waiting-times/'
         publishes-wait-hormones: true
-        wait-hormones: 46
-        date-wait-hormones: 'Feb ''23'
+        wait-hormones: 47
+        date-wait-hormones: 'May ''23'
         source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/waiting-list-waiting-times/'
         wait-youth-carried-over: yes
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic'
         date-wait-carried-over: 'Jun ''21'
         nhs-funding: true
-        referral-criteria: 'GP referral only'
+        referral-criteria: 'Allows self-referral'
         updated: '2021-05-23'
         catchment: 'England GP only'
     -
