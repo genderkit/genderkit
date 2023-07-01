@@ -18,7 +18,7 @@ The following organisations offer free or low-cost legal advice to LGBT+ people:
 
 ### Legal issues and the prison system
 
-Chapter 12 of the [Equal Treatment Bench Book](https://www.judiciary.uk/wp-content/uploads/2018/02/equal-treatment-bench-book-february-v6-2018.pdf) gives an overview of relevant legal issues for legal professionals.
+Chapter 12 of the [Equal Treatment Bench Book](https://www.judiciary.uk/about-the-judiciary/diversity/equal-treatment-bench-book/) gives an overview of relevant legal issues for legal professionals.
 
 You can find more publications on the genderarchive.org.uk website relating to:
 

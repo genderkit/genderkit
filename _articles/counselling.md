@@ -68,16 +68,16 @@ Regional LGBT+ organisations that offer counselling services include:
 
 There are online directories you can use to find a counsellor offering private services:
 
-- [British Association for Counselling and Psychotherapy](http://www.itsgoodtotalk.org.uk/)
+- [British Association for Counselling and Psychotherapy](https://www.bacp.co.uk/)
 - [UK Council for Psychotherapy](https://www.psychotherapy.org.uk/find-a-therapist/)
-- [Pink Therapy](http://pinktherapy.com/en-us/findatherapist.aspx)
-- [Gendered Intelligence Therapists and Counsellors Directory](http://genderedintelligence.co.uk/professionals/therapists-and-counsellors/directory)
+- [Pink Therapy](https://pinktherapy.com/find-a-therapist/)
+- [Gendered Intelligence Therapists and Counsellors Directory](https://genderedintelligence.co.uk/professionals/therapists-and-counsellors/directory)
 
 When searching for a counsellor, you should check they have been accredited by a professional body. Professional bodies ensure that your counsellor is properly trained and follows their rules and ethical framework.
 
 You may find that choosing a counsellor can be difficult because they all offer differing approaches to counselling. 
 
-The [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/types-of-therapy) and [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/types-of-psychotherapy/) both have guides to the different approaches.
+The [BACP](https://www.bacp.co.uk/about-therapy/types-of-therapy/) and [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/types-of-psychotherapy/) both have guides to the different approaches.
 
 You can also find advice on finding a counsellor on the [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/how-to-choose-a-psychotherapist/) and [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/finding-the-right-therapist) websites.
 

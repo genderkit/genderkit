@@ -76,10 +76,7 @@ The following clinics offer blood testing for trans people:
 * [Clinic T](https://brightonsexualhealth.com/service/clinic-t/) in Brighton
 * [56 Dean Street](https://dean.st/trans-non-binary/) in London
 * [CliniQ](https://cliniq.org.uk/cliniq-kings-south-london/) in London
-
-You may also be able to find blood testing at:
-
-* [Harm Reduction Team Steroid Clinic](https://services.nhslothian.scot/harmreductionteam/) in Edinburgh
+* [Trans Clinic](https://www.suttonlgbtq.org/trans-clinic) if you are registered with a Sutton GP
 
 Some clinics might provide these tests without necessarily advertising them. To find out exactly what your local clinic can and can't offer, you can phone up and ask.
 
@@ -92,6 +89,6 @@ Finally, there are several private companies (for example, [MediChecks](https://
 
 The prospect of getting blood tests done might be particularly difficult if you have a fear of needles. However, there are some practical ways you can deal with this.
 
-* Guys and St. Thomas' NHS Foundation Trust have produced a [short guide](https://www.guysandstthomas.nhs.uk/resources/patient-information/all-patients/overcoming-your-fear-of-needles.pdf) on how to deal with a fear of needles.
+* Guys and St. Thomas' NHS Foundation Trust have produced a [short guide](https://www.leicspart.nhs.uk/wp-content/uploads/2021/08/overcoming-your-fear-of-needlesv1.pdf) on how to deal with a fear of needles.
 * *EMLA cream* or a similar local anaesthetic may be useful if you're *worried about pain*.
 * If you're taking any other medication that needs blood monitoring, they should be able to *combine the tests* so you only need to get your blood taken once.

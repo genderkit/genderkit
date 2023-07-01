@@ -34,7 +34,7 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
     There are guides on how to do this on the websites of the national healthcare organisations for [England](https://www.england.nhs.uk/contact-us/complaint/complaining-to-nhse/), [Northern Ireland](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/feedback-and-complaints/feedback-complaints-and-your-rights), and [Wales](https://www.wales.nhs.uk/ourservices/contactus/nhscomplaints). 
     
-    If your complaint is about a specific person who has behaved inappropriately you can complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/who-to-contact/).
+    If your complaint is about a specific person who has behaved inappropriately you can complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/).
 
     In all parts of the UK, you can also complain about data protection issues to the [Information Commissioners Office](https://ico.org.uk/make-a-complaint/data-protection-complaints/). You might want to do this if private information about you or your health conditions has been shared with someone who should not have access to it.
 

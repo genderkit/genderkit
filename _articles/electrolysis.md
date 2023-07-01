@@ -46,7 +46,7 @@ The NHS will normally fund genital hair removal before [vaginoplasty]({% link _a
 
 You can read more about facial hair removal methods in [this booklet produced by the NHS GDNRSS]({% link assets/pdf/PIL Facial Hair Reduction v5.pdf %}).
 
-There is a helpful page that answers common questions about electrolysis on [the British Institute and Association of Electrolysis website](https://www.electrolysis.co.uk/faq).
+There is a helpful page that answers common questions about electrolysis on [the British Institute and Association of Electrolysis website](https://www.electrolysis.co.uk/faqs).
 
 ### References
 

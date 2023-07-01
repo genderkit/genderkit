@@ -44,7 +44,7 @@ It costs £5 to apply for a GRC. You may also need to pay in order to obtain med
 
 ### How do I obtain a Gender Recognition Certificate?
 
-Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://formfinder.hmctsformfinder.justice.gov.uk/t455-eng.pdf).
+Detailed guidance on the process, requirements for and effects of applying for a GRC is given on the [HM Courts and Tribunals Service website](https://www.gov.uk/apply-gender-recognition-certificate).
 
 You cannot obtain a GRC unless you:
 
