@@ -62,7 +62,7 @@ Many regional LGBT+ organisations offer counselling services for LGBT+ people. M
 
 Regional LGBT+ organisations that offer counselling services include:
 
-{% include regional-counselling %}
+{% include coloured-boxes data="counselling" %}
 
 ### Privately funded counselling
 

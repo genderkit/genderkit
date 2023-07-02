@@ -1,0 +1,49 @@
+- name: Online
+  large: yes
+  colour: "#f7ffe5"
+  items:
+    - "[Phillipa Hughes](https://www.phillipa-hughes.com/makeuplessons)"
+    - "[Jecca Blac](https://jeccablac.com/pages/makeup-assistance)"
+- name: North West England
+  colour: "#e7ffe5"
+  items:
+    - "[Nicola Jane](https://www.nicolajane-makeupartist.com/post/trans-makeup-lessons-lgbt-friendly-makeup-artist)"
+    - "[Born](http://born.uk.com/makeup-and-photography/)"
+    - "[Kardi Blac](https://www.kardiblac.com/)"
+    - "[Rachael Dutton](https://www.rachaeldutton.co.uk/service/transgender-makeup-and-hair)"
+- name: North East England
+  colour: "#e5fff3"
+  items: 
+    - "[Victoria Marley](https://www.victoriamarleymua.co.uk/transgender-services)"
+- name: West Midlands
+  colour: "#e5fcff"
+  items: []
+- name: East Midlands
+  colour: "#e5ecff"
+  items:
+    - "[Ms Moo](https://www.msmoomakeup.com/lessons)"
+    - "[Natalie Flewitt](https://www.natalieflewittmakeup.com/)"
+- name: London
+  colour: "#eee5ff"
+  large: yes
+  items:
+    - "[Antonia Wood](https://www.antoniawood.co.uk/)"
+    - "[Roseanna Velin](https://www.roseannavelin.com/makeup-lessons-london)"
+    - "[TG Makeup London](http://www.transgendermakeuplondon.com/)"
+- name: South West England
+  colour: "#fde5ff"
+  items: []
+- name: South East England
+  colour: "#ffe5f1"
+  items:
+    - "[Christiane Dowling](https://www.christianedowling.com/transgender-makeup/)"
+    - "[Rediscovered Skin](https://rediscoveredskinclinic.co.uk/transgender-beauty/)"
+- name: Wales
+  colour: "#ffe9e5"
+  items:
+    - "[Phillipa Hughes](https://www.phillipa-hughes.com/makeuplessons)"
+- name: Scotland
+  colour: "#fff8e5"
+  items:
+    - "[Sin Dollhouse](https://sindollhouse.com/)"
+
