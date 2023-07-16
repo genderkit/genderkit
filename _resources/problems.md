@@ -14,6 +14,15 @@ Read [our Updating NHS Records page]({% link _articles/updating-nhs-patient-deta
 
 <a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
 {% endcapture %}
+{% include details body=body title=title %}
+
+{% capture title %}My GP will only update my title to Mx{% endcapture %}
+{% capture body %}
+
+Some NHS systems may require that you have updated your gender marker to be ‘M’ to use the title ‘Mr’, and others may required your gender marker to be ‘F’ to use the titles ‘Ms’, ‘Mrs’, or ‘Miss’. Read [our Updating NHS Records page]({% link _articles/updating-nhs-patient-details.md %}) for information on talking to your GP surgery about changing your gender marker.
+
+<a href="#that-didnt-help-what-can-i-do">That didn't help, what can I do?</a>
+{% endcapture %}
 {% include details body=body title=title %}    
 
 {% capture title %}My GP doesn't know how to refer me to a gender service{% endcapture %}

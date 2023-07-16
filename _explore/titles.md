@@ -23,7 +23,9 @@ As titles are often associated with particular genders, you may wish to change y
 
 You will need to tell people that you have changed your title before they will start to use it. You can find information about how to do this on our [Telling Organisations]({% link _articles/telling-organisations.md %}) page. Often people will notify organisations of a change of title at the same time as notifying them about about a change of name or change of gender, as these can usually all be changed at once.
 
-Unfortunately, some organisations restrict what titles they will refer to you by. Some will only allow you to choose a title from a short list, and others require a title to always be provided (rather than allowing you to not use a title). In this situation, it is often useful to contact the organisation first to politely ask them to update their systems to allow more flexibility. You can find more information about which UK organisations allow which titles to be used by visiting [dontgender.me](https://dontgender.me/).
+Unfortunately, some organisations restrict what titles they will refer to you by. In particular, some NHS systems may require that you have updated your gender marker to be 'M' to use the title 'Mr', and others may required your gender marker to be 'F' to use the titles 'Ms', 'Mrs', or 'Miss'. You can read about how to update your gender marker on the [Updating NHS records page]({% link _articles/updating-nhs-patient-details.md %}).
+
+Some will only allow you to choose a title from a short list, and others require a title to always be provided (rather than allowing you to not use a title). In this situation, it is often useful to contact the organisation first to politely ask them to update their systems to allow more flexibility. You can find more information about which UK organisations allow which titles to be used by visiting [dontgender.me](https://dontgender.me/).
 
 ### References
 
