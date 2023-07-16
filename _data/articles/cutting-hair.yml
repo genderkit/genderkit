@@ -1,0 +1,5 @@
+summary: Changing hair style to a shorter length, often with the help of a hair stylist
+hideeffects: true
+effects:
+  - category: "Head hair"
+    detail: "Reduces length"
