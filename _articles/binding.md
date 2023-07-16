@@ -74,10 +74,10 @@ Buying from abroad may incur customs charges.
 
 If you are unable to afford purchasing a binder from these sources, you may also be able to obtain free binders from:
 
-- [the G(END)ER SWAP CIC Binder Giveaway Scheme](https://genderswap.org/gc2b-x-gender-swap)
-- [Scottish Binders](https://scotbinders.com)
-- [Safe2Trans](https://safe2trans.org)
 - [Point of Pride](https://pointofpride.org/chest-binder-donations/)
+- [Safe2Trans](https://safe2trans.org)
+- [Scottish Binders](https://scotbinders.com)
+- [Spectra London](https://spectra-london.org.uk/trans-services/trans-resources/) (for Spectra London [social groups](https://spectra-london.org.uk/trans-services/trans-groups/) members only)
 - [TransgenderNI Binder Scheme](https://transgenderni.org.uk/binder-scheme/)
 
 You may also be able to find other people in your area who are willing to donate a binder they no longer use.
