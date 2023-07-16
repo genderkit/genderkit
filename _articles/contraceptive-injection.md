@@ -31,7 +31,7 @@ It can take considerable time for fertility to return again after stopping contr
 
 Other options that can also be used while taking [testosterone]({% link _articles/testosterone.md %}) include a [contraceptive implant]({% link _articles/contraceptive-implant.md %}), progesterone-only contraceptive pills, and most types of IUD {% cite fsrh2017contraceptive %}.
 
-If you are not using testosterone, other options also include the [combined contraceptive pill]({% link _articles/contraceptive-pill.md %}), patches, and vaginal rings.
+If you are not using testosterone, other options also include the [combined contraceptive pill]({% link _articles/contraceptive-pill.md %}), patches, and vaginal rings. You can read more about what types of contraception are right for you on the [Contraception Choices](https://www.contraceptionchoices.org/whats-right-for-me) website.
 
 ### How do I get a contraceptive injection?
 

@@ -22,7 +22,7 @@ Combining contraceptive pills with the use of barrier methods such as a condom w
 
 Other options that can also be used while taking [testosterone]({% link _articles/testosterone.md %}) include [contraceptive injections]({% link _articles/contraceptive-injection.md %}), a [contraceptive implant]({% link _articles/contraceptive-implant.md %}), and most types of IUD {% cite fsrh2017contraceptive %}.
 
-If you are not using testosterone, other options also include contraceptive patches and vaginal rings.
+If you are not using testosterone, other options also include contraceptive patches and vaginal rings. You can read more about what types of contraception are right for you on the [Contraception Choices](https://www.contraceptionchoices.org/whats-right-for-me) website.
 
 ### How do I get contraceptive pills?
 
