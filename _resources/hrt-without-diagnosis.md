@@ -39,7 +39,7 @@ Members of the UK trans community have created a guide to asking for a bridging 
 - [How to Self-Advocate for a Bridging Prescription]({% link assets/pdf/Bridging Prescription Self-Advocacy Resource.pdf %})
 - [How to Self-Advocate for a Bridging Prescription (easy read version)]({% link assets/pdf/Easy Read Bridging Prescription Self-Advocacy Resource.pdf %})
 
-You can find more information about bridging prescriptions on [the TransActual website](https://www.transactual.org.uk/bridging-prescriptions).
+You can find more information about bridging prescriptions in [this booklet by The Love Tank CIC](https://static1.squarespace.com/static/60be2f8a0cc8001044609e26/t/641ad7bb003f3f6d6f4dcf70/1679480765264/LBGT-BridgingPrescriptions.pdf) and on [the TransActual website](https://www.transactual.org.uk/bridging-prescriptions).
 
 ### Self-medicating
 

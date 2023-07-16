@@ -52,6 +52,7 @@ The following guides created by UK trans community members offer advice:
 
 - [How to Self-Advocate for a Bridging Prescription]({% link assets/pdf/Bridging Prescription Self-Advocacy Resource.pdf %})
 - [How to Self-Advocate for a Bridging Prescription (easy read version)]({% link assets/pdf/Easy Read Bridging Prescription Self-Advocacy Resource.pdf %})
+- [Little Back Pocket Guide to Bridging Prescriptions](https://static1.squarespace.com/static/60be2f8a0cc8001044609e26/t/641ad7bb003f3f6d6f4dcf70/1679480765264/LBGT-BridgingPrescriptions.pdf)
 - [TransActual guide to bridging prescriptions](https://www.transactual.org.uk/bridging-prescriptions) for more information on what you can do.
 
 GPs are free to decide not to offer bridging prescriptions for a number of reasons, such as if you do not meet the criteria listed in [the GMC guidance](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#Mental%20health%20and%20bridging%20prescriptions), or because they do not feel comfortable doing so. Many requests for bridging prescriptions are unsuccessful.
