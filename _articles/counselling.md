@@ -79,7 +79,7 @@ You may find that choosing a counsellor can be difficult because they all offer 
 
 The [BACP](https://www.bacp.co.uk/about-therapy/types-of-therapy/) and [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/types-of-psychotherapy/) both have guides to the different approaches.
 
-You can also find advice on finding a counsellor on the [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/how-to-choose-a-psychotherapist/) and [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/finding-the-right-therapist) websites.
+You can also find advice on finding a counsellor on the [Pink Therapy](https://pinktherapy.com/choosing-a-therapist/), [UKCP](https://www.psychotherapy.org.uk/seeking-therapy/how-to-choose-a-psychotherapist/) and [BACP](http://www.itsgoodtotalk.org.uk/what-is-therapy/finding-the-right-therapist) websites.
 
 ### Are there other options?
 
