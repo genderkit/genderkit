@@ -635,8 +635,8 @@ organisations:
         lastTwitterPost: 'Fri Feb 03 18:49:34 +0000 2023'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1484201653314015235/VzLaWalp_normal.jpg'
         age-range: 18+
-        wait-first-appointment: 6
-        updated: '2020-12-09'
+        wait-first-appointment: 2
+        updated: '2023-07-22'
         publishes-wait-first-appointment: true
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
