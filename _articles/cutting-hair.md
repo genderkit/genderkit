@@ -13,7 +13,13 @@ feature:
 
 1. *Decide what you want*
 
-    The first step is to investigate what style you want your hair cut in. To get ideas, you could try using a search engine to look for current styles (e.g. "nonbinary hair winter 2024") or looking at Instagram accounts of stylists who specialise in cutting short hair (if you're looking for hair with a queer style, try searching for phrases like 'queer hair stylist UK'). If you're still not sure what might suit you, you can always ask the stylist what styles might suit you, and they can provide you with some options they feel will work well with your face shape.
+    The first step is to investigate what style you want your hair cut in. To get ideas, you could try:
+    
+    - use search engine to look for current styles (e.g. "nonbinary hair winter 2024")
+    - looking for short hair styles on Pinterest
+    - looking at Instagram accounts of stylists (e.g. search 'queer hair stylist UK')
+    
+    If you're still not sure what might suit you, you can always ask the stylist what styles might suit you, and they can provide you with some options they feel will work well with your face shape.
 2. *Find a stylist*
 
     Finding the right stylist can be anxiety provoking. You might find it easier to look specifically for an LGBT-friendly stylist - this can make it more likely that they will be happy to cut the hair of people of all genders, understand nonbinary gender identities, and charge you appropriately. If you're looking for a queer-friendly stylist, there are ideas on how to do that in the next section.
