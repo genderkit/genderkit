@@ -22,7 +22,7 @@ Retailers that sell boxers that are designed:
 - for *women*: [GAP](https://www.gap.co.uk/), [Oddballs](https://www.myoddballs.com/collections/ladies-boxer-shorts), and [Step One](https://uk.stepone.life/products/womens-boxer-tap-shoe).
 - for *menstruation without products*: [Flux Undies](https://www.fluxundies.com/collections/period-pants/products/the-boxer-short), [Pantys](https://pantys.com/en-gb/collections/absorbent-underwear/products/boxer) and [WUKA](https://wuka.co.uk/collections/boxer-shorts).
 - for *using menstruation products*: [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) and [Wilde Mode](https://wildemode.com/collections/mens-womens-boxer-shorts).
-- for *packing*: [RodeOH](https://rodeoh.com/collections/packer-underwear), [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer), by using a "packer pouch" to adapt standard underwear such as those sold at [Trans Shop UK](https://uktransshop.co.uk/), or by using an alteration service like [Packer Punch Pants](https://www.instagram.com/packerpunchpants) to adapt existing standard underwear
+- for *packing*: [RodeOH](https://rodeoh.com/collections/packer-underwear), [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer), by using a "packer pouch" to adapt standard underwear such as those sold at [Trans Shop UK](https://uktransshop.co.uk/), or by using an alteration service like [Packer Punch Pants](https://www.instagram.com/packerpunchpants) to adapt existing standard underwear.
 
 ### How do I find “briefs” style underwear?
 
@@ -31,7 +31,7 @@ Retailers that sell briefs that are designed:
 - for *people of all genders*: [FOCX](https://focx.co.uk/), [rodeoH](https://rodeoh.com/collections/underwear), and [Woxer](https://woxer.com/).
 - for *menstruation without products*: [Modibodi](https://www.modibodi.co.uk/), [WUKA](https://wuka.co.uk/), and many other retailers.
 - for *tucking*: [ButterfliesGB](https://beautifullyhandmade.co.uk/store/butterfliesgb/), [Guiniveres](https://guiniveres.co.uk), [StripItBack](https://www.etsy.com/uk/shop/Stripitback), [Trans Shop UK](https://uktransshop.co.uk/collections/gaffs), and [Zoah](https://zoah.shop/).
-- for *packing*: [RodeOH](https://rodeoh.com/collections/packer-underwear) and [The Pleasure Garden](https://pleasuregardenshop.co.uk).
+- for *packing*: [RodeOH](https://rodeoh.com/collections/packer-underwear), [The Pleasure Garden](https://pleasuregardenshop.co.uk), and [Trans Shop UK](https://uktransshop.co.uk/).
 
 ### How do I find “lingerie” style underwear?
 

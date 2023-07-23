@@ -32,7 +32,7 @@ You may also need something to hold the packer in place:
 - *tight/sports underwear:* wearing tight underwear or multiple layers of underwear can often be enough to hold the packer in place. 
 - *packer pouches:* also known as "cock socks", these are fabric pouches with Velcro on one side that attach to the inside of your underwear. [Trans Shop UK](https://uktransshop.co.uk/) are a retailer that stocks these.
 - *packer harnesses/straps:* a strap that goes around your hips which attaches to the packer to hold it in place.
-- *boxer harnesses:* boxer shorts with a built in ring or pouch that the packer fits in to hold it in place. [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxer shorts with this feature.
+- *boxer harnesses:* boxer shorts with a built in ring or pouch that the packer fits in to hold it in place. [Trans Shop UK](https://uktransshop.co.uk/) and [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxer shorts with this feature.
 - *professional alteration:* services such as [Packer Punch Pants](https://www.instagram.com/packerpunchpants) can add a built-in packer pouch to many types of underwear
 - *DIY options:* such as modifying an existing pair of underwear by stitching in a pocket.
 
