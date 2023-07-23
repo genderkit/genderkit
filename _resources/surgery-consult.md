@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Surgery consultations
+title: Surgical consultations
 description: Information about what to expect in a surgical consultation
 feature:
   image: initial-appointment.jpg
@@ -10,38 +10,51 @@ feature:
   source: 'Pexels'
 ---
 
-### What should I expect to happen in my surgery consultation?
+### What is a surgical consultation?
 
-You will meet with the surgeon who will be operating on you and probably a senior nurse from the surgery team. This is to give you an opportunity to:
+This is a first appointment with a surgeon to give you an opportunity to:
 
 - *agree to the surgery* - though you can still change your mind later
+- *learn more about the surgery* - including options and risks
 - *ask the surgeon questions* - there are suggested questions on this page
 - *indicate what you want from your surgery* - see below for things you might request
-- *receive information* - like documents to read over before your surgery
+- *explain your situation* - like your medical conditions and medications
+- *receive paperwork* - like documents to read over before your surgery
+
+You will normally have a surgical consultation before any gender surgery to make sure you are fully prepared for the surgery and that surgeon agrees you are ready to proceed.
+
+### What happens in a surgical consultation?
+
+You will meet with the surgeon who will be operating on you, and probably a senior nurse from the surgery team, at their offices. You will have a conversation about the surgery with the surgeon where you can ask each other questions.
+
+The surgeon may ask if you are currently smoking, vaping, or using nicotine products, as these may affect your recovery.
 
 In this consultation, the surgeon may also ask you to:
 
 - *show them the part of your body that will be operated on*:  this might be very uncomfortable for you, but it is generally very brief, and done in a private and clinical way.
 - *touch this part of your body*: or may ask you to move it so that they can more clearly examine your body.
 - *allow them to take photos of that part of your body*: this is for reference during surgery.
-- *provide a urine sample*: this can be used to test you for particular medical conditions
-- *use a test swab*: this is a small stick covered in fabric which you may be asked to rub on a part of your body, which may be your genitalia or anus, and can also be used to test you for particular medical conditions
+- *weigh your body*: as some surgeons may require you to have a certain BMI index.
+- *provide a urine sample*: this can be used to test you for particular medical conditions.
+- *use a test swab*: this is a small stick covered in fabric which you may be asked to rub on a part of your body, which may be your genitalia or anus, and can also be used to test you for particular medical conditions.
 
 Remember that if you would feel more comfortable with a friend, family member, or another person present, you are allowed to ask for this.
 
 After your consultation you are still free to change your mind and decide not to have surgery, or to switch to a different surgeon or surgery team. 
 
-### What questions can I ask during my surgery consultation?
+### What questions can I ask during my surgical consultation?
 
 Some common things you might want to ask your surgeon about are: 
 
 - What do I need to do before the surgery?
 - What complications (problems after the surgery) may happen?
 - What are the risks of complications happening? What can be done if they happen?
-- Would my medical conditions affect my surgery or recovery?
+- Would my medical conditions or medications affect my surgery or recovery?
 - How long will I be in the hospital?
 - How does discharge (leaving hospital) work?
 - What do I need to do when I get back home?
+- What should I expect during my recovery?
+- What should I look out for after the surgery?
 - What do I do if an emergency happens at home?
 - How soon can I go back to work, exercising, or playing sports?
 - Will I need to come back to see the surgery team again? When?
@@ -85,8 +98,14 @@ If you are having a masculinising lower surgery, you might want to indicate if y
 - ability to penetrate your partner with your genitalia is required
 - standing to urinate will be possible or not
 
+### Where can I learn more?
+
+There are more ideas for questions you might ask in your consultation on [this article on the Dillon Marshall Cowell website](https://www.dillonmarshallcowell.co.uk/medical-transition-blog/ftm-surgery-options).
+
+You can also speak to NHS Gender Dysphoria National Referral Support Services (GDNRSS) to discuss how to make best use of your surgical consultation. You can contact the service by calling 01522 85 77 99 or by email. The service is open Monday to Friday from 9am until 5pm. You can find out more about the service in [this booklet](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v2-gender-dysphoria-about-us-booklet-pdf/).
+
 ### What do I do next?
 
-Once you've had your surgery consultation, you might want to start preparing for your surgery. You can find a useful guide on doing that on our [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
+Once you've had your surgical consultation, you might want to start preparing for your surgery. You can find a useful guide on doing that on our [Getting ready for gender surgeries page]({% link surgery-checklist.md %}).
 
-If you decide that you would prefer to use a different surgeon, you can contact  NHS Gender Dysphoria National Referral Support Services (GDNRSS) to arrange this, though you may find that you have to wait additional time to access the new surgeon. You can contact the service by calling 01522 85 77 99 or by email. The service is open Monday to Friday from 9am until 5pm. You can find out more about the service in [this booklet](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v2-gender-dysphoria-about-us-booklet-pdf/).
+If you decide that you would prefer to use a different surgeon, you can contact  NHS Gender Dysphoria National Referral Support Services (GDNRSS) to arrange this, though you may find that you have to wait additional time to access the new surgeon. 
