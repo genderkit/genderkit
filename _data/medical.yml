@@ -24,6 +24,9 @@ nav:
     url: '_resources/surgery.md'
     name: 'Surgery'
   -
+    url: '_resources/surgery-consult.md'
+    name: 'Surgical consultations'
+  -
     url: '_resources/problems.md'
     name: 'Dealing with problems'
   -
