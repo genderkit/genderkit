@@ -27,7 +27,7 @@ If you are having difficulty in finding the style of clothing you want in a size
 
 - *retailers that stock small sizes?*
 
-	UK high street retailers offering XS sizes in their Men's section include [H&M](https://www.hm.com), [New Look](https://www.newlook.com), [Topman](https://www.topman.com), and [Uniqlo](https://www.uniqlo.com).
+	UK high street retailers offering XS sizes in their Men's section include [H&M](https://www.hm.com), [New Look](https://www.newlook.com), [Topman](https://www.topman.com), and [Uniqlo](https://www.uniqlo.com), and some specialise in clothes in smaller sizes such as [Bantam Clothing](https://bantamclothing.co.uk/).
 
 - *retailers that stock clothes intended for taller people?*
 
