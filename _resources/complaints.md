@@ -32,7 +32,7 @@ description: Step-by-step guide to complaints in the UK healthcare system
 
 4.  *file a formal complaint at a higher level*
 
-    There are guides on how to do this on the websites of the national healthcare organisations for [England](https://www.england.nhs.uk/contact-us/complaint/complaining-to-nhse/), [Northern Ireland](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/feedback-and-complaints/feedback-complaints-and-your-rights), and [Wales](https://www.wales.nhs.uk/ourservices/contactus/nhscomplaints). 
+    There are guides on how to do this on the websites of the national healthcare organisations for [England](https://www.england.nhs.uk/contact-us/complaint/complaining-to-nhse/), [Northern Ireland](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services), [Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/feedback-and-complaints/feedback-complaints-and-your-rights), and [the Welsh Government website](https://www.gov.wales/nhs-wales-complaints-and-concerns-putting-things-right). 
     
     If your complaint is about a specific person who has behaved inappropriately you can complain to the professional body for [doctors and surgeons](https://www.gmc-uk.org/concerns/information-for-patients/local-help-services) or [nurses](https://www.nmc.org.uk/concerns-nurses-midwives/support-for-patients-families-and-public/).
 
