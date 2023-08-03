@@ -32,7 +32,7 @@ Some NHS gender services have created videos to demonstrate working on voice:
 - [these videos](https://www.youtube.com/playlist?list=PLnhF6aFSY3hWneHjboMgpDi8fesMOZJDS) cover pitch and resonance, among other topics
 - [these videos](https://www.nottinghamshirehealthcare.nhs.uk/intonation-and-rhythm-exercises) focus on intonation and speech rhythm
 
-Some members of the trans community have also created their own videos. Some have particularly high quality information, such as [the TransVoiceLessons YouTube channel](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA).
+There are some useful video resources on [the Not A Phase website](https://notaphase.org/trans-voice-academy/) created by a voice coach. Some members of the trans community have also created their own videos, and some have particularly high quality information, such as [the TransVoiceLessons YouTube channel](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA).
 
 You will ideally need to work on your voice both by practising by yourself, and also practising around other people.
 
