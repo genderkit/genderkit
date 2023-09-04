@@ -6,7 +6,10 @@ description: Information about gender surgery services available for private fun
 
 ### Surgeons offering both private and NHS services
 
-You can find a complete list of UK surgeons who can be accessed via the NHS on [the NGICNS website](https://www.ngicns.scot.nhs.uk/surgery/surgery-providers/). Many of these surgeons will see patients "privately" also - that is, where the patient pays for the surgery themselves, rather than it being paid for by the NHS.
+You can find a complete list of UK surgeons who can be accessed via the NHS on [the NGICNS website](https://www.ngicns.scot.nhs.uk/surgery/surgery-providers/). Many of these surgeons will see patients "privately" also - that is, where the patient pays for the surgery themselves, rather than it being paid for by the NHS, including:
+
+- *chest surgery*: [The Harley Medical Group](https://www.harleymedical.co.uk/) (Kate Williams and Chloë Wright), [Andrew Fitton](https://plasticsurgeryplymouth.com/), [Ioannis Ntanos](https://www.ioannisntanos.com/), [Victoria Rose](https://drg-plasticsurgery.co.uk/procedures/gender-reassignment), [Phillip Rubin](https://londontopsurgery.com/)
+- *feminising lower surgery*: [Nuffield Health](https://www.nuffieldhealth.com/hospitals/brighton/our-expert-gender-affirmation-team) (Charles Coker and Tim Larner), and [Parkside Hospital](https://www.parkside-hospital.co.uk/services/gender-identity-service/) (James Bellringer and Tina Rashid)
 
 ### Private-only surgery teams in the UK
 
@@ -24,6 +27,8 @@ There are many other private surgery teams based outside of the UK. You might wa
 ### Choosing your surgery team
 
 You can find useful tips for deciding which surgery team to use on [the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/396664-Choosing-your-surgeon?catid=1&subid=4).
+
+You can find more information about private hospitals in the UK by searching on [the Private Healthcare Information Network website](https://www.phin.org.uk/).
 
 ### More information
 
