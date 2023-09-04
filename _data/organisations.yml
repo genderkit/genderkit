@@ -63,13 +63,14 @@ organisations:
         publishes-wait-first-appointment: true
         wait-youth-carried-over: yes
         wait-carried-over: yes
-        custom-wait-first-appointment: 14
+        custom-wait-first-appointment: "12-13"
         source-wait-first-appointment: 'https://gender.wales/'
-        date-wait-first-appointment: 'Apr ''23'
-        publishes-wait-hormones: false
+        date-wait-first-appointment: 'Sep ''23'
+        custom-wait-hormones: "<12"
+        custom-wait-total: '<25'
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
-        updated: '2023-04-25'
+        updated: '2023-09-04'
         catchment: 'Wales GP only'
     -
         heading: 'Belfast KOI'
@@ -149,21 +150,21 @@ organisations:
         image: nhs-scotland
         age-range: 17+
         publishes-wait-first-appointment: true
-        date-wait-first-appointment: 'May ''23'
-        wait-first-appointment: 27
+        date-wait-first-appointment: 'Aug ''23'
+        wait-first-appointment: 23
         source-wait-first-appointment: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time'
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/accessing-gic/'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2023-07-01'
+        updated: '2023-09-01'
         catchment: 'Borders, Fife, or Lothian GP only'
     -
         heading: Glasgow
         nickname: Sandyford
         name: 'Sandyford Gender Identity Service'
-        url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
+        url: 'https://www.sandyford.scot/sexual-health-services/gender-dysphoria-service-at-sandyford/gender-adult-service/'
         tags: [NHS, 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service for adults across Scotland located in Glasgow'
         image: nhs-scotland
@@ -183,7 +184,7 @@ organisations:
         heading: 'Glasgow Youth'
         nickname: 'Sandyford Youth'
         name: 'Sandyford Youth Gender Identity Service'
-        url: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
+        url: 'https://www.sandyford.scot/sexual-health-services/gender-dysphoria-service-at-sandyford/gender-young-people-service/'
         tags: [NHS, 'Gender Clinics', Scotland, 'Under 18s']
         manualDescription: 'NHS gender service for young people across Scotland located in Glasgow'
         image: nhs-scotland
@@ -220,7 +221,7 @@ organisations:
         source-wait-carried-over: 'https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times'
         date-wait-carried-over: 'Mar ''21'
         nhs-funding: true
-        referral-criteria: 'GP referral only'
+        referral-criteria: 'Allows self-referral'
         updated: '2022-11-29'
         catchment: 'England GP only'
         extra-information: 'The service is currently focusing resources on people who have already had their first appointment, and while they are accepting new appointments, are not currently seeing patients for a first appointment and do not know when this will resume.'
@@ -323,16 +324,16 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 52
+        wait-first-appointment: 53
         source-wait-first-appointment: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-first-appointment: 'May ''23'
+        date-wait-first-appointment: 'Sep ''23'
         publishes-wait-hormones: true
         wait-hormones: '10'
         source-wait-hormones: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
         date-wait-hormones: 'May ''23'
         nhs-funding: true
         referral-criteria: 'Allows self-referral'
-        updated: '2022-07-01'
+        updated: '2023-09-01'
         catchment: 'England GP only'
         extra-information: 'More detailed information about wait times is available on the Leeds GIS website.'
     -
@@ -345,9 +346,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 59
+        wait-first-appointment: 60
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
-        date-wait-first-appointment: 'May ''23'
+        date-wait-first-appointment: 'Jul ''23'
         publishes-wait-hormones: true
         wait-hormones: 18
         date-wait-hormones: 'Sep ''21'
@@ -462,9 +463,9 @@ organisations:
         image: gic
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 55
+        wait-first-appointment: 59
         source-wait-first-appointment: 'https://gic.nhs.uk/appointments/waiting-times/'
-        date-wait-first-appointment: 'Feb ''23'
+        date-wait-first-appointment: 'Jul ''23'
         publishes-wait-hormones: true
         wait-hormones: 18
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times_and_related_info'
@@ -491,7 +492,7 @@ organisations:
         source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_identity_service_waiting_4'
         date-wait-first-appointment: 'Dec ''22'
         nhs-funding: true
-        referral-criteria: 'Allows self-referral'
+        referral-criteria: 'GP referral only'
         update-date: '2023-01-21'
         catchment: 'Highland GP only'
     -
