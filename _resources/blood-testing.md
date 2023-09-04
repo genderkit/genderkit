@@ -80,8 +80,9 @@ The following clinics offer blood testing for trans people:
 
 Some clinics might provide these tests without necessarily advertising them. To find out exactly what your local clinic can and can't offer, you can phone up and ask.
 
+Some clinics offer blood tests on a private basis (i.e. you pay for the test yourself) where you attend one of their clinics to have blood taken and tested (for example, clinics operated by [Randox Health](https://randoxhealth.com/)).
+
 Finally, there are several private companies (for example, [MediChecks](https://medichecks.com)) which will send you *fingerprick tests* for you to use at home. These come with a vial that you'll fill with blood and send off to a lab. This can be a useful option if you can't get a test through your GP or local clinic, but keep in mind that:
-* It *will cost money*
 * You might find it difficult to draw your own blood at home
 * A fingerprick test *may be less accurate* than a normal venous blood draw test
 
