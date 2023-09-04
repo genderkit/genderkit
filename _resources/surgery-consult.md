@@ -14,26 +14,26 @@ feature:
 
 This is a first appointment with a surgeon to give you an opportunity to:
 
-- *agree to the surgery* - though you can still change your mind later
-- *learn more about the surgery* - including options and risks
-- *ask the surgeon questions* - there are suggested questions on this page
-- *indicate what you want from your surgery* - see below for things you might request
 - *explain your situation* - like your medical conditions and medications
+- *indicate what you want from your surgery* - see below for things you might request
+- *ask the surgeon questions* - there are suggested questions on this page
+- *learn more about the surgery* - including options and risks
 - *receive paperwork* - like documents to read over before your surgery
+- *agree to the surgery* - this is called giving your consent, but you can still change your mind later
 
-You will normally have a surgical consultation before any gender surgery to make sure you are fully prepared for the surgery and that surgeon agrees you are ready to proceed.
+You should always have a surgical consultation before any gender surgery to make sure you are fully prepared for the surgery and that surgeon agrees you are ready to proceed.
 
 ### What happens in a surgical consultation?
 
-You will meet with the surgeon who will be operating on you, and probably a senior nurse from the surgery team, at their offices. You will have a conversation about the surgery with the surgeon where you can ask each other questions.
+You will meet with a member of the surgery team, and often a senior nurse from the surgery team, at their offices. You will have a conversation about the surgery with the surgeon where you can ask each other questions.
 
 The surgeon may ask if you are currently smoking, vaping, or using nicotine products, as these may affect your recovery.
 
 In this consultation, the surgeon may also ask you to:
 
-- *show them the part of your body that will be operated on*:  this might be very uncomfortable for you, but it is generally very brief, and done in a private and clinical way.
+- *show them the part of your body that will be operated on*:  his might be very uncomfortable for you, but it is generally very brief, and done in a private and clinical way.
 - *touch this part of your body*: or may ask you to move it so that they can more clearly examine your body.
-- *allow them to take photos of that part of your body*: this is for reference during surgery.
+- *allow them to take photos of that part of your body*: this is for your medical records and may be used for surgical planning. You may be asked for your consent for the anonymised photos to be used for patient education, staff education, and potentially for publication. It is your choice whether to give this consent or not.
 - *weigh your body*: as some surgeons may require you to have a certain BMI index.
 - *provide a urine sample*: this can be used to test you for particular medical conditions.
 - *use a test swab*: this is a small stick covered in fabric which you may be asked to rub on a part of your body, which may be your genitalia or anus, and can also be used to test you for particular medical conditions.
@@ -102,7 +102,7 @@ If you are having a masculinising lower surgery, you might want to indicate if y
 
 There are more ideas for questions you might ask in your consultation on [this article on the Dillon Marshall Cowell website](https://www.dillonmarshallcowell.co.uk/medical-transition-blog/ftm-surgery-options).
 
-You can also speak to NHS Gender Dysphoria National Referral Support Services (GDNRSS) to discuss how to make best use of your surgical consultation. You can contact the service by calling 01522 85 77 99 or by email. The service is open Monday to Friday from 9am until 5pm. You can find out more about the service in [this booklet](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v2-gender-dysphoria-about-us-booklet-pdf/).
+You can also speak to NHS Gender Dysphoria National Referral Support Services (GDNRSS) to discuss how to make best use of an NHS surgical consultation. You can contact the service by calling 01522 85 77 99 or by email. The service is open Monday to Friday from 9am until 5pm. You can find out more about the service in [this booklet](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v2-gender-dysphoria-about-us-booklet-pdf/).
 
 ### What do I do next?
 
