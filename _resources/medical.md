@@ -4,6 +4,11 @@ title: Medical gender services
 description: Information about accessing medical gender services in the UK
 ---
 
+<section class="attention">
+<h3 id="caveat">Information for under 17s</h3>
+<p>NHS procedures for people aged 16 and younger in England and Wales are currently being reviewed and this information may not reflect your experience. More information about referrals to youth services in England and Wales can be found on <a href="https://www.ardengemcsu.nhs.uk/services/clinical-support/national-referral-support-service-for-the-nhs-gender-incongruence-service-for-children-and-young-people/">the Arden and GEM website</a>.</p>
+</section>
+
 ### Step-by-step: how to get medical support
    
 1. *Do you need medical support?*
@@ -29,12 +34,12 @@ description: Information about accessing medical gender services in the UK
    Young people using NHS gender services will have two additional assessment appointments with the UCLH team.
 6. *Under 18 only: get puberty blockers*
 
-   Young people may then be offered [gamete storage]({% link _articles/gamete-storage.md %}) and [GnRH agonist]({% link _articles/gnrh-agonists.md %}) medication.
+   Young people may then be offered [gamete storage]({% link _articles/gamete-storage.md %}) and [GnRH agonist]({% link _articles/gnrh-agonists.md %}) medication. Access to GnRH agonists may be affected by future changes to NHS services.
 7. *Approval for hormone treatment*
 
    In the UK, gender services may allow you to start hormones at this point if either:
    - you are over 18
-   - or you are over 15 and have taken blockers for more than a year
+   - or you are over 15, have taken blockers for more than a year
 
    and your clinical team feel you are ready to begin. 
    
