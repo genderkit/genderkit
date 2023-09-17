@@ -67,6 +67,7 @@ organisations:
         source-wait-first-appointment: 'https://gender.wales/'
         date-wait-first-appointment: 'Sep ''23'
         custom-wait-hormones: "<12"
+        publishes-wait-hormones: true
         custom-wait-total: '<25'
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
@@ -129,16 +130,16 @@ organisations:
         image: nhs-scotland
         age-range: 18+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 18
-        date-wait-first-appointment: 'Aug ''22'
-        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen'
+        wait-first-appointment: 24
+        date-wait-first-appointment: 'Aug ''23'
+        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen_2'
         publishes-wait-hormones: true
-        wait-hormones: 8
-        source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen'
-        date-wait-hormones: 'Aug ''22'
+        wait-hormones: 12
+        source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen_2'
+        date-wait-hormones: 'Aug ''23'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2022-08-12'
+        updated: '2023-09-17'
         catchment: 'Grampian, Orkney and Shetland GP only'
     -
         heading: Edinburgh
