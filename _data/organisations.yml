@@ -68,7 +68,7 @@ organisations:
         date-wait-first-appointment: 'Sep ''23'
         custom-wait-hormones: "<12"
         publishes-wait-hormones: true
-        custom-wait-total: '<25'
+        custom-wait-total: '12-25'
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         updated: '2023-09-04'
