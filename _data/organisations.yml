@@ -73,6 +73,7 @@ organisations:
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         updated: '2023-09-04'
         catchment: 'Wales GP only'
+        extra-information: 'Waits for hormone therapy prescribing will usually vary by which NHS Wales Health Board you are part of.'
     -
         heading: 'Belfast KOI'
         nickname: KOI
