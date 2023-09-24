@@ -28,9 +28,9 @@
      {%- endif -%}
      </td>
 
-{%- if item.pilot -%}
+{%- if item.custom-wait-message -%}
       <td colspan=3 class="centred">
-        Waits vary
+        {{ item.custom-wait-message }}
       </td>
 {%- else -%}
       <td class="centred">

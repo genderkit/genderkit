@@ -435,6 +435,21 @@ organisations:
         lastTwitterPost: 'Thu Dec 16 22:51:40 +0000 2021'
         twitterIcon: 'https://pbs.twimg.com/profile_images/1341805268829671425/GN8D_FSq_normal.png'
     -
+        heading: Sussex
+        name: 'Sussex Gender Service'
+        url: 'https://www.sussexpartnership.nhs.uk/our-services/specialist-services/sussex-gender-service'
+        tags: [NHS, 'Gender Clinics', National, 'South East']
+        manualDescription: 'NHS adult gender services in Sussex'
+        image: nhs
+        age-range: 17+
+        pilot: true
+        nhs-funding: true
+        wait-carried-over: yes
+        publishes-wait-first-appointment: false
+        updated: '2023-09-24'
+        referral-criteria: 'Transfers only'
+        catchment: 'Very limited access: [more info](https://www.sussexpartnership.nhs.uk/our-services/specialist-services/sussex-gender-service)'
+    -
         heading: 'London GIDS'
         nickname: Tavistock
         name: 'Tavistock and Portman Gender Identity Development Service'
@@ -445,7 +460,8 @@ organisations:
         image: gids
         age-range: 'Under 18'
         nhs-funding: true
-        referral-criteria: 'GP/CAMHS referral only'
+        referral-criteria: 'Not accepting new patients'
+        custom-wait-message: 'Not accepting new patients'
         publishes-wait-first-appointment: true
         custom-wait-first-appointment: ">39"
         source-wait-first-appointment: 'https://gids.nhs.uk/how-long-wait-first-appointment-gids'
@@ -453,6 +469,36 @@ organisations:
         hide-wait-hormones: true
         hide-wait-carried-over: true
         updated: '2023-04-25'
+        catchment: 'UK GP only'
+        extra-information: 'For referrals from Wales, the referring clinician will have to make a funding request to the local Health Board before making a referral.'
+    -
+        heading: 'The Southern Hub'
+        name: 'The Southern Hub'
+        url: 'https://www.ardengemcsu.nhs.uk/services/clinical-support/national-referral-support-service-for-the-nhs-gender-incongruence-service-for-children-and-young-people/'
+        tags: [NHS, 'Gender Clinics', 'Under 18s', National]
+        manualDescription: 'NHS gender service for under 18s across the UK'
+        notes: 'Patients from Wales must ask their GP to apply for funding to access the service.'
+        image: nhs
+        age-range: 'Under 18'
+        nhs-funding: true
+        referral-criteria: 'GP/CAMHS referral only'
+        custom-wait-message: 'Opening late 2023'
+        updated: '2023-09-24'
+        catchment: 'UK GP only'
+        extra-information: 'For referrals from Wales, the referring clinician will have to make a funding request to the local Health Board before making a referral.'
+    -
+        heading: 'The Northern Hub'
+        name: 'The Northern Hub'
+        url: 'https://www.ardengemcsu.nhs.uk/services/clinical-support/national-referral-support-service-for-the-nhs-gender-incongruence-service-for-children-and-young-people/'
+        tags: [NHS, 'Gender Clinics', 'Under 18s', National]
+        manualDescription: 'NHS gender service for under 18s across the UK'
+        notes: 'Patients from Wales must ask their GP to apply for funding to access the service.'
+        image: nhs
+        age-range: 'Under 18'
+        nhs-funding: true
+        referral-criteria: 'GP/CAMHS referral only'
+        custom-wait-message: 'Opening in 2024'
+        updated: '2023-09-24'
         catchment: 'UK GP only'
         extra-information: 'For referrals from Wales, the referring clinician will have to make a funding request to the local Health Board before making a referral.'
     -

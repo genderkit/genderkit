@@ -14,6 +14,8 @@
 
 {%- if item.pilot -%}Transfers only - wait varies\|{%- else -%}
 
+{%- if item.custom-wait-message -%}{{ item.custom-wait-message }}\|{%- else -%}
+
 {%- if item.publishes-wait-first-appointment -%}{%- if item.custom-wait-first-appointment -%}{{- item.custom-wait-first-appointment }} months{%- else -%}{%- if item.wait-first-appointment == 0 -%}<1 months{%- else -%}{{ item.wait-first-appointment }}
  months {%- endif -%} {%- if item.date-wait-first-appointment -%}&nbsp;(as of {{ item.date-wait-first-appointment -}}){%- endif %}{%- endif -%}{%- else -%}?{%- endif -%}
 
@@ -51,7 +53,7 @@
 {%- endif -%}
 
 {%- endif -%}
-
+{%- endif -%}
 \|
 <br />
 {%- endfor -%}
