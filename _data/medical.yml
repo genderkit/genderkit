@@ -27,6 +27,9 @@ nav:
     url: '_resources/surgery-consult.md'
     name: 'Surgical consultations'
   -
+    url: '_articles/speech-therapy.md'
+    name: 'Speech therapy'
+  -
     url: '_resources/problems.md'
     name: 'Dealing with problems'
   -
