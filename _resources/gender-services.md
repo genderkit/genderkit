@@ -30,7 +30,6 @@ These clinics generally have a much shorter wait, but are only open to people wh
 {% capture gic-description %}
 There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service. It can overwhelming trying to choose which gender service to be referred to, but you can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
 
-You can find the waiting times for these services on our [ UK service wait times page]({% link _resources/wait-times.md %}#paid-uk-based-services).
 {% endcapture %}
 {% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description=gic-description %}
 
@@ -58,7 +57,7 @@ All the private gender services accept self-referral. However, it may be helpful
 
 *British citizens* are able to access the NHS and HSC gender services for *free*. If you are not a British citizen, you may still be able to access these services for free, and more details can be found on the [Immigration page]({% link _resources/immigration.md %}).
 
-Patients applying to Tavistock GIDS from Wales will need to ask their GP to apply for funding from their local CCG. 
+Patients in Wales being referred to gender services for children and young people will need to ask their GP to apply for funding from their local Health Board. 
 
 You may be able to get help with the cost of travelling to attending appointments at NHS or HSC gender services. Further information about travel costs can be found:
 
@@ -67,7 +66,7 @@ You may be able to get help with the cost of travelling to attending appointment
 - on [the NGICNS website](https://www.ngicns.scot.nhs.uk/surgery/claiming-travel-subsistence-expenses/) (Scotland only)
 - on [the HSC Northern Ireland website](http://www.hscbusiness.hscni.net/pdf/Expenses.pdf)
 
-More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/) and [the London GIDS website](https://gids.nhs.uk/how-claim-travel-expenses).
+More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/).
 
 Costs for private services vary significantly, and you can find detailed information on costs on our [Private fees page]({% link _resources/private-fees.md %}).
 

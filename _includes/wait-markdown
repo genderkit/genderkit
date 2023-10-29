@@ -1,4 +1,4 @@
-{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.archived != true" | sort:"heading" -%}
+{%- assign sortedOrganisations = site.data.organisations.organisations | where_exp:"item", "item.tags contains include.tag" | where_exp:"item", "item.tags contains 'NHS'" | where_exp:"item", "item.archived != true" | sort:"heading" -%}
 
 |\**Clinic\**|\**First appointment\**|\**Second appointment\**|
 <br />

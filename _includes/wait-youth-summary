@@ -1,0 +1,56 @@
+<table class="details summarydetails" id="wait-summary">
+  <tr style="line-height: 1">
+    <th></th>
+    <th><div>Longest wait</div></th>
+    <th><div><div>First&nbsp;apts</div><small>per month</small></div></th>
+    <th><div>Queue length</div></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+      England & Wales
+    </td>
+    <td class="centred">
+      5 years
+    </td>
+    <td  class="centred">
+      0
+    </td>
+    <td  class="centred">
+      7902+
+    </td>
+    <td>
+      <small>(<a href="https://www.whatdotheyknow.com/request/gender_dysphoria_services_waitin">source</a>)</small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Scotland 
+    </td>
+    <td class="centred">
+      4.5 years
+    </td>
+    <td  class="centred">
+      0
+    </td>
+    <td  class="centred">
+      1179
+    </td>
+    <td><small>(<a href="https://www.whatdotheyknow.com/request/gender_services_greater_glasgow">source</a>)</small></td>
+  </tr>
+  <tr>
+    <td>
+      Northern Ireland 
+    </td>
+    <td  class="centred">
+      2 years
+    </td>
+    <td  class="centred">
+      0.5
+    </td>
+    <td  class="centred">
+      45
+    </td>
+    <td><small>(<a href="https://www.whatdotheyknow.com/request/gender_services_belfast_health_a">source</a>)</small></td>
+  </tr>
+</table>

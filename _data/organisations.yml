@@ -191,13 +191,13 @@ organisations:
         manualDescription: 'NHS gender service for young people across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 41
-        date-wait-first-appointment: 'Oct ''22'
-        source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-identity-service/'
+        wait-first-appointment: 42
+        date-wait-first-appointment: 'Oct ''23'
+        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_greater_glasgow'
         nhs-funding: true
         hide-wait-hormones: true
         hide-wait-carried-over: true
-        updated: '2022-10-14'
+        updated: '2023-10-29'
         catchment: 'Scotland GP only'
         referral-criteria: 'Allows self-referral'
     -
@@ -354,16 +354,16 @@ organisations:
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
         date-wait-first-appointment: 'Sep ''23'
         publishes-wait-hormones: true
-        wait-hormones: 18
-        date-wait-hormones: 'Sep ''21'
-        source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_wait_times'
+        wait-hormones: 16
+        date-wait-hormones: 'Oct ''23'
+        source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_sheffield_health'
         wait-youth-carried-over: yes
         wait-carried-over: no
         source-wait-carried-over: 'https://www.whatdotheyknow.com/request/gic_wait_times'
         date-wait-carried-over: 'Dec ''21'
         nhs-funding: true
         referral-criteria: 'GP referral only'
-        updated: '2022-06-10'
+        updated: '2023-10-29'
         catchment: 'England GP only'
     -
         heading: 'London TransPlus'
@@ -483,8 +483,8 @@ organisations:
         age-range: 'Under 18'
         nhs-funding: true
         referral-criteria: 'GP/CAMHS referral only'
-        custom-wait-message: 'Opening late 2023'
-        updated: '2023-09-24'
+        custom-wait-message: 'Opening in 2024'
+        updated: '2023-10-29'
         catchment: 'UK GP only'
         extra-information: 'For referrals from Wales, the referring clinician will have to make a funding request to the local Health Board before making a referral.'
     -
