@@ -63,9 +63,9 @@ organisations:
         publishes-wait-first-appointment: true
         wait-youth-carried-over: yes
         wait-carried-over: yes
-        custom-wait-first-appointment: "12-13"
-        source-wait-first-appointment: 'https://gender.wales/'
-        date-wait-first-appointment: 'Sep ''23'
+        custom-wait-first-appointment: "15"
+        source-wait-first-appointment: 'https://cavuhb.nhs.wales/our-services/welsh-gender-service/'
+        date-wait-first-appointment: 'Nov ''23'
         custom-wait-hormones: "<12"
         publishes-wait-hormones: true
         custom-wait-total: '12-25'
@@ -152,7 +152,7 @@ organisations:
         image: nhs-scotland
         age-range: 17+
         publishes-wait-first-appointment: true
-        date-wait-first-appointment: 'Aug ''23'
+        date-wait-first-appointment: 'Nov ''23'
         wait-first-appointment: 23
         source-wait-first-appointment: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time'
@@ -328,9 +328,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 53
+        wait-first-appointment: 57
         source-wait-first-appointment: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-first-appointment: 'Sep ''23'
+        date-wait-first-appointment: 'Nov ''23'
         publishes-wait-hormones: true
         wait-hormones: '10'
         source-wait-hormones: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
@@ -379,9 +379,9 @@ organisations:
         nhs-funding: true
         referral-criteria: 'Invitation only'
         wait-carried-over: yes
-        publishes-wait-first-appointment: true
+        publishes-wait-first-appointment: false
         custom-wait-first-appointment: '<3'
-        publishes-wait-hormones: true
+        publishes-wait-hormones: false
         custom-wait-hormones: '<2'
         custom-wait-total: '<5'
         extra-information: 'TransPlus have an in-house pharmacy, so prescriptions for hormones can be filled immediately.'
@@ -514,7 +514,7 @@ organisations:
         publishes-wait-first-appointment: true
         wait-first-appointment: 60
         source-wait-first-appointment: 'https://gic.nhs.uk/appointments/waiting-times/'
-        date-wait-first-appointment: 'Aug ''23'
+        date-wait-first-appointment: 'Oct ''23'
         publishes-wait-hormones: true
         wait-hormones: 10
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_tavistock_and_po'
