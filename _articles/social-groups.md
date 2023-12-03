@@ -33,6 +33,7 @@ There are also some social groups run as video chats:
 
 - [Spectra London online trans groups](https://spectra-london.org.uk/trans-services/trans-groups/online-group/) (UK-wide)
 - [The Clare Project online social group](https://clareproject.org.uk/online-social/) (UK-wide)
+- [TSMU online social group](https://www.facebook.com/groups/tsmucardiff/) (Wales)
 - [T on Tuesday run by London Friend](https://londonfriend.org.uk/london-friend-groups/) (UK-wide)
 - [Unique Transgender Network](http://www.uniquetg.org.uk/meetings.html) (UK-wide)
 - [Beyond Reflections online wellbeing drop-in](https://beyond-reflections.org.uk/) (England and Wales only)
