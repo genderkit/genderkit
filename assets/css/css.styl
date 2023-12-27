@@ -3,6 +3,7 @@
 
 // Colours
 $main-colour = #6515f6
+$muted-colour = #988cfc
 $background-colour = #4400aa
 $grey-colour = #ededfc
 $grey-border = hsl(252, 100%, 94%)
@@ -56,6 +57,9 @@ a
   cursor pointer
 ul, ol
   padding-left 1.5rem
+li::marker 
+    color $muted-colour
+    line-height 1em
 main
   display flex
   flex-direction column
@@ -761,6 +765,7 @@ td.centred
   margin-right auto
   td
     font-size smaller
+    text-align center
 
 #wait-summary tr
   height 2.4em
@@ -817,15 +822,19 @@ td.centred
     display flex
     flex-direction row
     justify-content flex-start
-    align-items center
+    align-items flex-start
     margin .5rem 0
+    min-height 2.5rem
   a, p
     display inline-block
     margin 0
   img
-    width 1.5rem
-    height 1.5rem
+    width 2rem
+    height 2rem
     margin-right .5rem
+  div
+    display flex
+    flex-direction column
 
 ol:not(.bibliography)
   padding 0

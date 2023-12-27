@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <defs>
+        <style>
+            .filled {
+                fill: white;
+                stroke: black;
+                stroke-width: 12px;
+            }
+
+            .line-thin, .line, .line-thick, .line-extra-thick
+            {
+                fill: none;
+                stroke: black;
+                stroke-linecap: round;
+                stroke-miterlimit: 2;
+                stroke-linejoin: round;
+            }
+
+            .line-thin {
+                stroke-width: 8px;
+            }
+
+            .line {
+                stroke-width: 16px;
+            }
+
+            .line-thick {
+                stroke-width: 24px;
+            }
+
+            .line-extra-thick {
+                stroke-width: 32px;
+            }
+
+            .text {
+                font-size: 300px;
+                font-weight: 100;
+                fill: #231f20;
+                stroke: #231f20;
+                font-family: Overpass-Thin, Overpass;
+                letter-spacing: -0.08em;
+            }
+        </style>
+    </defs>
+    <title>Injections</title>
+    <g id="icon" transform='rotate(45 256 256)'>
+        <path class="line" d="M224, 160 h 64" />
+        <path class="filled" d="M316, 256 v 192 a 60 30 0 0 1 -120 0 v -72" style="fill: #988cfc" />
+        <path class="line-thick" d="M256, 0 c 16 0 28 16 32 32 l 12 96 a 256 128 0 0 0 0 64 c 8 16 16 16 16 64 v 192 a 60 30 0 0 1 -120 0 v -192"/> <!-- v 192 h -120 v -192" /> -->
+        <path class="line-thick" d="M256, 0 c -16 0 -28 16 -32 32 l -12 96 a 256 128 0 0 1 0 64 c -8 16 -16 16 -16 64" />
+    </g>
+</svg>
