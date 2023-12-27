@@ -77,7 +77,7 @@ For testosterone therapy to begin, it is required that any other significant med
 
 {% include iconlist2 iconlist="forms" %}
 
-Testosterone is commonly available as depot injections or as gels applied to the skin {% cite seal2017 -l 241 %}. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches (transdermal testosterone) are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.
+Testosterone is commonly available as depot injections or as gels applied to the skin {% cite seal2017 -l 241 %}. Oral (pill) forms of testosterone are rarely used as blood testing is more complex, and patches  are rarely used in the UK (partly because of the frequency of bad reactions to patches) {% cite cr181 -l 37 %}.
 
 ### What else might I want?
 
