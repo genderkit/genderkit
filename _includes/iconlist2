@@ -1,0 +1,29 @@
+<div class="iconlistcontainer">  
+  {%- if include.iconlist -%}
+    {%- assign data = page[include.iconlist] -%}
+  {%- else -%}
+    {%- assign slug = page.title | slugify -%}
+    {%- assign data = site.data.iconlists[slug] -%}
+  {%- endif -%}
+<!-- -->  
+  {%- if data.title -%}<h3 id="{{ data.title | slugify }}">{{ data.title }}</h3>{%- endif -%}
+  {%- if data.items -%}
+    <ul class="iconlist">
+    {%- for item in data.items -%}
+      {%- if item.url -%}
+        <li><img class="inlineIcon" data-proofer-ignore src="/assets/images/icons/{{item.icon}}.png" /><a href="{% link {{ item.url }} %}">{{ item.name | markdownify}}</a></li>
+      {%- else -%}
+      <li><img class="inlineIcon" data-proofer-ignore src="/assets/images/icons/{{item.icon}}.png" />
+        <div>
+        <span style="font-weight: bold;">{{ item.name | markdownify}}</span>
+        {%- if item.detail -%}
+          {{ item.detail | markdownify}}
+        {%- endif -%}
+        </div>
+      </li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
