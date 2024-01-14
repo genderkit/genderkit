@@ -1,14 +1,14 @@
 network-nav:
   -
-    url: 'https://supportsibs.org.uk'
-    name: Support Our Siblings
-    description: 'How to help other UK trans people'
-    icon: 'trans_heart.png'
+    url: 'https://www.transactual.org.uk/'
+    name: TransActual
+    description: 'A range of info for UK trans people and allies'
+    icon: 'transactual.png'
   -
-    url: 'https://stonewallwasariot.co.uk/'
-    name: Stonewall Was A Riot
-    description: 'Find trans protests in the UK'
-    icon: 'swar.png'
+    url: 'https://genderswap.org/'
+    name: "G(END)ER SWAP"
+    description: 'Style, makeup and wellness resources'
+    icon: 'genderswap.png'
   -
     url: 'https://www.dillonmarshallcowell.co.uk/'
     name: 'Dillon Marshall Cowell'
@@ -20,15 +20,15 @@ network-nav:
     description: 'Free access to trans and queer texts'
     icon: 'gcll.jpg'
   -
-    url: 'https://www.transactual.org.uk/'
-    name: TransActual
-    description: 'A range of info for trans people and allies'
-    icon: 'transactual.png'
-  -
     url: 'https://genderarchive.org.uk/'
     name: Gender Archive
     description: 'Archive of UK trans info'
     icon: 'gender-archive.png'
+  -
+    url: 'https://supportsibs.org.uk'
+    name: Support Our Siblings
+    description: 'How to help other UK trans people'
+    icon: 'trans_heart.png'
 page-nav:
   -
     page: 'index.md'
