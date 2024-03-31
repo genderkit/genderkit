@@ -36,7 +36,7 @@ page-nav:
     description: How-to articles
     icon: 'circle_info.png'
   -
-    page: '_resources/medical.md'
+    url: 'https://transactual.org.uk/medical-transition/'
     name: Medical guide
     description: UK services info
     icon: 'circle_medical.png'
@@ -52,9 +52,9 @@ main-nav:
     description: Read how to begin.
     icon: 'circle_questionmark.png'
   -
-    page: '_resources/medical.md'
+    page: 'https://transactual.org.uk/medical-transition/'
     name: Medical guide
-    description: UK services info
+    description: 'UK services info'
     icon: 'circle_medical.png'
   -
     page: 'help.md'
