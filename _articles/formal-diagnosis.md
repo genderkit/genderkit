@@ -34,7 +34,7 @@ Remember: you don't need a diagnosis to be trans. Your trans identity is valid w
 
 In the UK, diagnosis is normally made by a specialist GP, psychologist, or psychiatrist at a gender service. 
 
-To get a diagnosis in the UK, you need to either self-refer to a gender service or be referred by your GP - read how to do this on our [Getting a Referral page]({% link _resources/referral-appointment.md %}).
+To get a diagnosis in the UK, you need to either self-refer to a gender service or be referred by your GP. You can read more about how to access the medical system on [the TransActual website](https://transactual.org.uk/medical-transition/).
 
 ### What diagnosis will I be given?
 
