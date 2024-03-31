@@ -25,43 +25,21 @@ If you are planning on taking hormones, dieting, or exercising, your size may ch
 
 If you are having difficulty in finding the style of clothing you want in a size that is appropriate for you, have you considered:
 
-- *retailers that stock small sizes?*
+- retailers that stock small sizes?
+- retailers that stock clothes intended for taller people?
+- online retailers, which often have better stocks of smaller and larger sizes?
+- children's clothing?
+- unisex or ambiguous clothing?
+- retailers that don't divide by gender?
+- retailers specialising in clothing for trans people?
+- clothes designed to fit well regardless of gender?
+- menswear styles made for women?
 
-	UK high street retailers offering XS sizes in their Men's section include [H&M](https://www.hm.com), [New Look](https://www.newlook.com), [Topman](https://www.topman.com), and [Uniqlo](https://www.uniqlo.com), and some specialise in clothes in smaller sizes such as [Bantam Clothing](https://bantamclothing.co.uk/).
+You can find lots of information about places you could try buying clothes on [the G(END)ER SWAP Style Resource Index page](https://genderswap.org/style-resource-index).
 
-- *retailers that stock clothes intended for taller people?*
+Many items of clothing with a more casual style are considered unisex, and are worn by people of any gender. Smaller sizes of these clothes can be bought from the Women's section, larger from the Men's section, and sometimes the children's section of many retailers will contain clothes that are suitable for smaller adults. Examples include many styles of hoodies, t-shirts, jeans, and jogging bottoms. This also applies to some footwear, such as trainers and boots, which will often be virtually identical in versions sold in Women's and Men's sections of retailers. Some retailers also sell unisex underwear, which you read more about on [our buying underwear page]({% link _articles/buying-underwear.md %}). 
 
-	UK high street retailers with collections for tall people in their Women's section include [Dorothy Perkins](https://www.dorothyperkins.com), [GAP](https://www.gap.co.uk/gap/women/special-sizes/the-tall-shop/), [New Look](https://www.newlook.com/uk/womens/tall-clothing/c/uk-womens-tall-clothing), [Next](https://www.next.co.uk/shop/gender-women/sizetype-tall#1_0), and [Topshop](https://www.topshop.com/en/tsuk/category/clothing-427/tall-454). Some retailers specialise in only offering clothing for taller people, such as [Long Tall Sally](https://www.longtallsally.com/), [The Tall Collective](https://thetallcollective.com), and [TTYA London](https://ttyalondon.com). 
-
-- *online retailers?*
-
-	Often retailers will have much better stocks of smaller and larger sizes available online than they do in their physical stores. Retailers that only operate online, such as [ASOS](https://www.asos.com), will often have a very wide selection of sizes.
-
-- *children's clothing?*
-
-	The children's section of many retailers will contain clothes that are suitable for smaller adults.
-
-- *unisex or ambiguous clothing?*
-
-	Many items of clothing with a more casual style are considered unisex, and are worn by people of any gender. Smaller sizes of these clothes can be bought from the Women's section and larger from the Men's section. Examples include many styles of hoodies, t-shirts, jeans, and jogging bottoms. This also applies to some footwear, such as trainers and boots, which will often be virtually identical in versions sold in Women's and Men's sections of retailers. Some retailers also sell unisex underwear, which you read more about on [our buying underwear page]({% link _articles/buying-underwear.md %}).
-
-- *retailers that don't divide by gender?*
-
-	Some retailers don't divide their clothes into gendered sections, like [Outplay](https://shopoutplay.com/), [Femme Forte](https://www.wearefemmeforte.com), [Beefcake Swimwear](https://www.beefcakeswimwear.com), or [VERV London](https://vervlondon.com). There's a useful list of these retailers in [this article from The Evening Standard](https://www.standard.co.uk/fashion/genderless-brands-to-know-about-a4269756.html).
-
-- *retailers specialising in clothing for trans people?*
-
-	Some clothing stores online specialise in producing clothes specifically for trans and nonbinary people. Some examples of these are [both&](https://bothandapparel.co.uk/), [fittome](https://www.fittome.com/), and [Tomboy Toes](https://www.tomboytoes.com/). Some retailers stock swimwear intended specifically for trans people, such as [Spectrum Outfitters](https://spectrumoutfitters.co.uk/collections/swim-shorts-with-packing-pouch), [Trans Shop UK](https://uktransshop.co.uk/collections/binders/products/underworks-compression-swim-top), and [Zoah](https://zoah.shop/collections/swimwear). There are also retailers of underwear designed specifically for trans people, which you can find information about on [our buying underwear page]({% link _articles/buying-underwear.md %}).
-
-- *clothes designed to fit well regardless of gender?*
-
-  Some retailers specialise in clothes designed to fit people well and make them comfortable in their bodies regardless of their gender, such as [Bull and Dagger](https://www.bullanddagger.com), [GFW](https://www.genderfreeworld.com/), and [King and Allen](https://kingandallen.co.uk/suits/lgbtq-tailoring/).
-
-- *menswear styles made for women?*
-
-	Some retailers specialise in selling menswear for women, such as [The Butch Clothing Company](https://www.thebutchclothingcompany.com) and [Thomas Thomas](https://www.thomasthomaslondon.com/).
-
-You may find you are more comfortable in clothing that [disguises your body shape]({% link _articles/disguising-body-shape.md %}). 
+Some retailers specialise in clothes designed to fit people well and make them comfortable in their bodies regardless of their gender. You may find you are more comfortable in clothing that [disguises your body shape]({% link _articles/disguising-body-shape.md %}). 
 
 ### Finding clothes that meet your needs
 
