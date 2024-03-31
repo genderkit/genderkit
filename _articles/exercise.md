@@ -51,14 +51,10 @@ Remember that you can have a considerable amount of muscle without it being clea
 
 ### Personal training
 
-A personal trainer can help you to safely and effectively reach your goals for your body by providing support and recommending activities.
+A personal trainer can help you to safely and effectively reach your goals for your body by providing support and recommending activities. Some personal trainers run services specifically catering to transgender clients, and you can find more information about these services:
 
-If you are based in London, there are some personal trainers specifically catering to transgender clients:
-
-- [Pete Griggs](http://www.petegriggs.com/personal-trainer-transgender/) offers a personal training service for transgender people
-- [Becca Knapp](http://www.trainwithbecca.com/) is a personal trainer advertising queer and transgender friendly services
-
-There is more information on finding a properly qualified and insured personal trainer on [the National Register of Personal Trainers website](http://www.nrpt.co.uk/find/index.htm).
+- on [the Trans Fitness Personal Trainers, Coaches and Instructors page](https://www.trans-fitness.co.uk/personal-trainerscoaches)
+- on [the G(END)ER SWAP Style Resource Index page](https://genderswap.org/style-resource-index)
 
 ### UK organisations
 

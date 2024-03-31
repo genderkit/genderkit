@@ -50,7 +50,7 @@ Some places you can look to find a queer-friendly stylist are:
 
 - Lists of queer-friendly and gender-neutral stylists and barbers, like the ones on [the Proud Geek website](https://www.proud-geek.co.uk/post/gender-neutral-barbers-and-hairdressers-uk) and [the Glamour Magazine website](https://www.glamourmagazine.co.uk/gallery/lgbtqia-hair-salons)
 - Apps for finding hair stylists like [dooo.co.uk](https://dooo.co.uk)
-- Sites listing trans-friendly salons like [Strands For Trans](https://strandsfortrans.com)
+- Sites listing trans-friendly salons like [the G(END)ER SWAP Style Resource Index page](https://genderswap.org/style-resource-index) or [Strands For Trans](https://strandsfortrans.com)
 - Asking for opinions at a local [social group]({% link _articles/social-groups.md %}) or [support group]({% link _articles/support-groups.md %})
 
 ### What do hair clipper guard size numbers mean?

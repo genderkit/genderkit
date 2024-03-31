@@ -62,25 +62,7 @@ You may need to adjust your chest once the binder is on to get the flattest look
 
 ### How much will it cost?
 
-Binders typically cost £25-50. Some retailers of binders serving the UK include:
-
-- [Spectrum Outfitters](https://www.spectrumoutfitters.co.uk)
-- [F2mbinders](https://www.f2mbinders.com/) - formerly known as Underworks
-- [gc2b](https://www.gc2b.io/)
-- [TransNext](https://transnext.co.uk/)
-- [Trans Shop UK](https://uktransshop.co.uk/)
-
-Buying from abroad may incur customs charges.
-
-If you are unable to afford purchasing a binder from these sources, you may also be able to obtain free binders from:
-
-- [Point of Pride](https://pointofpride.org/chest-binder-donations/)
-- [Safe2Trans](https://safe2trans.org)
-- [Scottish Binders](https://scotbinders.com)
-- [Spectra London](https://spectra-london.org.uk/trans-services/trans-resources/) (for Spectra London [social groups](https://spectra-london.org.uk/trans-services/trans-groups/) members only)
-- [TransgenderNI Binder Scheme](https://transgenderni.org.uk/binder-scheme/)
-
-You may also be able to find other people in your area who are willing to donate a binder they no longer use.
+Binders typically cost £25-50, but some organisations will provide you with a binder for free or for a small fee. You can find suppliers of binders, along with many other gender-related products and services on [the G(END)ER SWAP Style Resource Index page](https://genderswap.org/style-resource-index).
 
 ### References
 

@@ -9,14 +9,9 @@ feature:
   source: 'Pexels'
 ---
 
-### Gender-specific makeup services
+### Makeup lessons
 
-Makeup services offering lessons to trans, nonbinary, or gender non-conforming people in the UK include:
-
-{% include coloured-boxes data="makeup-lessons" %}
-
-### General makeup lessons
-You can get *free* online consultations with [Clinique](https://www.clinique.co.uk/book-appointment), [Jecca Blac](https://jeccablac.com/pages/makeup-assistance), and [MAC](https://www.maccosmetics.co.uk/makeup-services) to ask questions. You can also get in-person and online skills lessons from [Bobbi Brown](https://www.bobbibrown.co.uk/book-appointment), [the Body Shop](https://support-gb.thebodyshop.com/hc/en-gb/articles/4406443166225-Can-I-come-in-for-a-free-makeover-and-skin-consultation-), [Boots](https://www.boots.com/beauty-services/no7-book-an-appointment), and [Sephora](https://www.sephora.co.uk/in-store-services).
+You can find information about makeup lessons - including some which are free - for trans people on [the G(END)ER SWAP Style Resource Index page](https://genderswap.org/style-resource-index).
 
 ### Video classes
 
@@ -31,4 +26,3 @@ Some alternatives to makeup lessons are:
 
 - purchasing a book on makeup
 - asking friends for advice
-

@@ -12,29 +12,16 @@ If you are using a packer as part of sex, be aware that it may transfer sexually
 
 ### How do I pack?
 
-Packing provides an easy way to make it look like you have a penis. UK retailers of packers and harnesses include:
-
-- [Spectrum Outfitters](https://spectrumoutfitters.co.uk/)
-- [Trans Shop UK](https://uktransshop.co.uk/)
-- [TransNext](https://transnext.co.uk/)
-- [Lovehoney](https://www.lovehoney.co.uk)
-- [Uberkinky](http://www.uberkinky.co.uk)
-
-Outside the UK, specialist manufacturers of high-end packers include:
-
-- [Emesil](https://www.emisil.com/)
-- [GenderCat](https://gendercat.com/)
-- [ReelMagik](https://www.reelmagik.com/)
-- [Transthetics](https://transthetics.com/)
-
-You may also need something to hold the packer in place:
+Packing provides an easy way to make it look like you have a penis. You may need something to hold the packer in place:
 
 - *tight/sports underwear:* wearing tight underwear or multiple layers of underwear can often be enough to hold the packer in place. 
-- *packer pouches:* also known as "cock socks", these are fabric pouches with Velcro on one side that attach to the inside of your underwear. [Trans Shop UK](https://uktransshop.co.uk/) are a retailer that stocks these.
+- *packer pouches:* also known as "cock socks", these are fabric pouches with Velcro on one side that attach to the inside of your underwear. 
 - *packer harnesses/straps:* a strap that goes around your hips which attaches to the packer to hold it in place.
-- *boxer harnesses:* boxer shorts with a built in ring or pouch that the packer fits in to hold it in place. [Trans Shop UK](https://uktransshop.co.uk/) and [Spectrum Outfitters](https://spectrumoutfitters.co.uk/pages/3-in-1-spectrum-boxer) offer boxer shorts with this feature.
-- *professional alteration:* services such as [Packer Punch Pants](https://www.instagram.com/packerpunchpants) can add a built-in packer pouch to many types of underwear
+- *boxer harnesses:* boxer shorts with a built in ring or pouch that the packer fits in to hold it in place.
+- *professional alteration:* services such as can add a built-in packer pouch to many types of underwear
 - *DIY options:* such as modifying an existing pair of underwear by stitching in a pocket.
+
+UK retailers of packers and harnesses are listed, along with many other gender-related products and services, on [the G(END)ER SWAP Style Resource Index page](https://genderswap.org/style-resource-index).
 
 Packers come in different sizes. Bear in mind that penises get bigger during arousal, so don't try and order a packer that has the length of an erect penis unless you want to look like you are in a permanent state of arousal.
 
@@ -53,4 +40,5 @@ If you find that you are still unhappy when packing, there are the more risky an
 
 ### How much will it cost?
 
-Basic packers can cost as little as £5. Packers designed to look extremely realistic and with extra features can cost much more, up to several hundred pounds.
+Basic packers can cost as little as £5. Packers designed to look extremely realistic and with extra features can cost much more, up to several hundred pounds. 
+
