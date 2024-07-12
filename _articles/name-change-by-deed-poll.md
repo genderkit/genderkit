@@ -46,6 +46,7 @@ It can be hard to think of who you want to witness your deed poll. Here are some
 - Youth group leaders
 - Volunteer coordinators
 {% endcapture %}
+
 If you are unable to find two witnesses, you may wish to use a [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). A statutory declaration must be witnessed by a solicitor, which will involve paying a small fee.
 {% endcapture %}
 {% include details body=body title=title %}    
