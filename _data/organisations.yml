@@ -659,24 +659,11 @@ organisations:
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
     -
-        heading: 'London Transgender Clinic'
-        name: 'London Transgender Clinic'
-        tags: ['Private healthcare', Surgery, National]
-        url: 'https://www.thelondontransgenderclinic.uk/'
-        manualDescription: 'Private clinic providing gender related surgery'
-        image: ltc
-        facebook: londontransclinic
-        twitter: TransClinicUK
-        twitterID: '739820630531530753'
-        twitterDescription: 'Providing guidance & treatment towards authentic gender expression - incl. hormone therapy & surgery. #myLTCjourney'
-        lastTwitterPost: 'Fri Feb 03 18:49:34 +0000 2023'
-        twitterIcon: 'https://pbs.twimg.com/profile_images/1484201653314015235/VzLaWalp_normal.jpg'
-    -
         heading: 'The Gender Hormone Clinic'
         name: 'The Gender Hormone Clinic'
         tags: ['Private healthcare', 'Gender Clinics', National]
         url: 'https://thegenderhormoneclinic.com/'
-        manualDescription: 'Private gender clinic previously part of The London Gender Clinic'
+        manualDescription: 'Private gender clinic previously part of the now-closed London Transgender Clinic'
         image: ltc
         facebook: 100088405381636
         twitter: genderclinicuk
@@ -690,6 +677,16 @@ organisations:
         publishes-wait-first-appointment: true
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
+    -
+        heading: 'Dignity Gender Services'
+        name: 'Dignity Gender Services'
+        tags: ['Private healthcare', 'Gender Clinics', 'Under 18s', National]
+        url: 'https://www.dignitygender.co.uk/'
+        image: dignitygender
+        nhs-funding: false
+        updated: '2024-07-12'
+        referral-criteria: 'Allows self-referral'
+        age-range: ['Under 18', 18+]
     -
         name: 'National Gender Identity Clinical Network for Scotland'
         url: 'http://www.ngicns.scot.nhs.uk'
