@@ -3821,3 +3821,9 @@ organisations:
         nhs-funding: false
         referral-criteria: 'Allows self-referral'
         updated: '2023-05-29'
+    -
+        name: 'Outreach Sexual Health Clinic for Trans and Non-Binary People'
+        url: 'https://www.lgbthealth.org.uk/trans-sexual-health-clinic/'
+        tags: [Scotland, 'Local groups', 'Sexual health']
+        manualDescription: 'Scotland’s first Community Sexual Health Clinic for Trans and Non-Binary people'
+        image: lgbt-health-and-wellbeing
