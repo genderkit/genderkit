@@ -32,20 +32,19 @@ To make an unenrolled deed poll for yourself, you can use the [Free UK Deed Poll
 
 You will need to obtain the signatures of two independent witnesses to your deed poll. These need to be people who know you personally but who are not part of your family. 
 
-{% capture title %}Examples of people who can witness your deed poll{% endcapture %}
-{% capture body %}
 It can be hard to think of who you want to witness your deed poll. Here are some examples of people you might ask:
+
 - Friends
 - Family
 - Coworkers or fellow students
+- Volunteer coordinators
 - People at social groups you go to
-- People at a queer support group
-- University professors/staff
+- People at a support group you attend
+- University or college professors/staff
 - Neighbours
 - Family friends
 - Youth group leaders
-- Volunteer coordinators
-{% endcapture %}  {% include details body=body title=title %}
+- Teachers
 
 If you are unable to find two witnesses, you may wish to use a [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}). A statutory declaration must be witnessed by a solicitor, which will involve paying a small fee.
 {% endcapture %}
