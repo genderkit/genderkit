@@ -131,9 +131,9 @@ organisations:
         image: nhs-scotland
         age-range: 18+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 24
-        date-wait-first-appointment: 'Aug ''23'
-        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen_2'
+        wait-first-appointment: 35
+        date-wait-first-appointment: 'May ''24'
+        source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/waiting_list_data_grampian_gende'
         publishes-wait-hormones: true
         wait-hormones: 12
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_the_grampian_gen_2'
