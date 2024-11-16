@@ -152,8 +152,8 @@ organisations:
         image: nhs-scotland
         age-range: 17+
         publishes-wait-first-appointment: true
-        date-wait-first-appointment: 'Nov ''23'
-        wait-first-appointment: 23
+        date-wait-first-appointment: 'Nov ''24'
+        wait-first-appointment: 16
         source-wait-first-appointment: 'https://www.lothiansexualhealth.scot/gender-identity-clinic/gic-waiting-times/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time'
         wait-carried-over: yes
@@ -171,8 +171,8 @@ organisations:
         manualDescription: 'NHS gender service for adults across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 65
-        date-wait-first-appointment: 'April ''24'
+        wait-first-appointment: 72
+        date-wait-first-appointment: 'November ''24'
         source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-service-at-sandyford/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
         wait-youth-carried-over: yes
@@ -191,8 +191,8 @@ organisations:
         manualDescription: 'NHS gender service for young people across Scotland located in Glasgow'
         image: nhs-scotland
         publishes-wait-first-appointment: true
-        wait-first-appointment: 58
-        date-wait-first-appointment: 'Oct ''23'
+        wait-first-appointment: 65
+        date-wait-first-appointment: 'Nov ''24'
         source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-service-at-sandyford/'
         nhs-funding: true
         hide-wait-hormones: true
@@ -210,9 +210,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 88
+        wait-first-appointment: 93
         source-wait-first-appointment: 'https://www.dpt.nhs.uk/our-services/gender-identity/waiting-times'
-        date-wait-first-appointment: 'Nov ''23'
+        date-wait-first-appointment: 'Oct ''24'
         publishes-wait-hormones: true
         wait-hormones: 12
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gic_waiting_times_and_related_in'
@@ -238,8 +238,8 @@ organisations:
         twitterID: '1486729929861394436'
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 27
-        date-wait-first-appointment: 'Apr ''24'
+        wait-first-appointment: 26
+        date-wait-first-appointment: 'Nov ''24'
         source-wait-first-appointment: 'https://ncth.nhs.uk/waiting-time-and-appointment-statistics'
         publishes-wait-hormones: true
         wait-hormones: 11
@@ -278,8 +278,8 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 53
-        date-wait-first-appointment: 'Oct ''23'
+        wait-first-appointment: 70
+        date-wait-first-appointment: 'Nov ''24'
         source-wait-first-appointment: 'https://www.whatdotheyknow.com/request/gender_services_northamptonshire_2'
         publishes-wait-hormones: true
         wait-hormones: 9
@@ -302,20 +302,19 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 65
-        date-wait-first-appointment: 'Aug ''23'
+        wait-first-appointment: 75
+        date-wait-first-appointment: 'Oct ''24'
         source-wait-first-appointment: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/waiting-list-waiting-times/'
         publishes-wait-hormones: true
-        wait-hormones: 50
-        date-wait-hormones: 'Aug ''23'
+        wait-hormones: 12
+        date-wait-hormones: 'Oct ''24'
         source-wait-hormones: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/waiting-list-waiting-times/'
         wait-youth-carried-over: yes
         wait-carried-over: yes
         source-wait-carried-over: 'https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/additional-information/faq/#can-i-transfer-my-care-to-the-northern-region-gender-dysphoria-service-from-a-different-gender-identity-clinic'
         date-wait-carried-over: 'Jun ''21'
         nhs-funding: true
-        referral-criteria: 'Not accepting referrals'
-        custom-wait-message: 'Not accepting new patients'
+        referral-criteria: 'Allows self-referral'
         updated: '2021-05-23'
         catchment: 'England GP only'
         extra-information: 'NRGDS is not currently accepting referrals as of Aug 2023 ([more information](https://www.cntw.nhs.uk/services/northern-region-gender-dysphoria-service-specialist-service-walkergate-park/how-to-be-referred/)'
@@ -328,9 +327,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 58
+        wait-first-appointment: 63
         source-wait-first-appointment: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
-        date-wait-first-appointment: 'Feb ''24'
+        date-wait-first-appointment: 'Nov ''24'
         publishes-wait-hormones: true
         wait-hormones: '10'
         source-wait-hormones: 'https://www.leedsandyorkpft.nhs.uk/our-services/gender-identity-service/'
@@ -350,9 +349,9 @@ organisations:
         image: nhs
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 65
+        wait-first-appointment: 67
         source-wait-first-appointment: 'https://www.shsc.nhs.uk/services/gender-identity-clinic'
-        date-wait-first-appointment: 'Feb ''24'
+        date-wait-first-appointment: 'Oct ''24'
         publishes-wait-hormones: true
         wait-hormones: 16
         date-wait-hormones: 'Oct ''23'
@@ -470,7 +469,7 @@ organisations:
         hide-wait-hormones: true
         hide-wait-carried-over: true
         updated: '2023-04-25'
-        catchment: 'UK GP only'
+        catchment: 'Permanently closed'
         extra-information: 'For referrals from Wales, the referring clinician will have to make a funding request to the local Health Board before making a referral.'
     -
         heading: 'The Southern Hub'
@@ -512,9 +511,9 @@ organisations:
         image: gic
         age-range: 17+
         publishes-wait-first-appointment: true
-        wait-first-appointment: 61
+        wait-first-appointment: 67
         source-wait-first-appointment: 'https://tavistockandportman.nhs.uk/services/gender-identity-clinic-gic/'
-        date-wait-first-appointment: 'Jan ''24'
+        date-wait-first-appointment: 'Aug ''24'
         publishes-wait-hormones: true
         wait-hormones: 10
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_services_tavistock_and_po'
