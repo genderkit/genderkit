@@ -2,7 +2,6 @@
   <tr style="line-height: 1">
     <th></th>
     <th><div>Longest wait</div></th>
-    <th><div><div>First&nbsp;apts</div><small>per month</small></div></th>
     <th><div>Queue length</div></th>
     <th></th>
   </tr>
@@ -11,16 +10,13 @@
       England & Wales
     </td>
     <td class="centred">
-      5 years
+      5.5 years
     </td>
     <td  class="centred">
-      0
-    </td>
-    <td  class="centred">
-      7902+
+      5676
     </td>
     <td>
-      <small>(<a href="https://www.whatdotheyknow.com/request/gender_dysphoria_services_waitin">source</a>)</small>
+      <small>(<a href="https://www.whatdotheyknow.com/request/waiting_list_data_national_refer">source</a>)</small>
     </td>
   </tr>
   <tr>
@@ -29,9 +25,6 @@
     </td>
     <td class="centred">
       4.5 years
-    </td>
-    <td  class="centred">
-      0
     </td>
     <td  class="centred">
       1179
@@ -44,9 +37,6 @@
     </td>
     <td  class="centred">
       2 years
-    </td>
-    <td  class="centred">
-      0.5
     </td>
     <td  class="centred">
       45

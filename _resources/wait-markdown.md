@@ -21,13 +21,13 @@ Most NHS clinics will expect you to attend a minimum of two appointments before 
 
 Keep in mind that the data here is based on how long the wait was for the people who are being seen now. It’s likely that if you were referred today, you’d end up waiting significantly longer, as the waiting times have been on an upward trend for a while now. Unfortunately, these wait times are far in excess of the 18-week limit \[set out in the NHS constitution](https://www.nhs.uk/nhs-services/hospitals/guide-to-nhs-waiting-times-in-england/).
 
-*Youth services*: As of October 2023, the current wait list status is:
+*Youth services*: The most recent information we have about wait list status is:
 
-    |                   | Queue length   | Longest wait | First apts/month | Source                                                                            |
-    |-------------------|----------------|--------------|------------------|-----------------------------------------------------------------------------------|
-    | England and Wales | >7902          | 5 years      | 0                | [source](https://www.whatdotheyknow.com/request/gender_dysphoria_services_waitin) |
-    | Scotland          | 1179           | 4.5 years    | 0                | [source](https://www.whatdotheyknow.com/request/gender_services_greater_glasgow)  |
-    | Northern Ireland  | 45             | 2 years      | 0.5              | [source](https://www.whatdotheyknow.com/request/gender_services_belfast_health_a) |
+    |                   | Queue length   | Longest wait | Source                                                                            |
+    |-------------------|----------------|--------------|-----------------------------------------------------------------------------------|
+    | England and Wales | 5676           | 5.5 years    | [source](https://www.whatdotheyknow.com/request/waiting_list_data_national_refer) |
+    | Scotland          | 1179           | 4.5 years    | [source](https://www.whatdotheyknow.com/request/gender_services_greater_glasgow)  |
+    | Northern Ireland  | 45             | 2 years      | [source](https://www.whatdotheyknow.com/request/gender_services_belfast_health_a) |
 
 Information about referrals for under 17s in England and Wales can be found on \[the Arden and GEM website](https://www.ardengemcsu.nhs.uk/services/clinical-support/national-referral-support-service-for-the-nhs-gender-incongruence-service-for-children-and-young-people/).
 

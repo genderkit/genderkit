@@ -19,7 +19,7 @@ Many gender services currently have very lengthy wait lists, and it can be very 
 
 {% include wait-summary tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true description="You can access these gender services for free by asking your GP to make a referral. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area." %}
 
-*Youth services*: As of October 2023, the wait status for children and young people's gender services is:
+*Youth services*: The most recent information we have about waits for children and young people's gender services is:
 
 {% include wait-youth-summary %}
 
