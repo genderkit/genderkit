@@ -22,7 +22,7 @@ Here are some ideas that may help you in choosing a new name:
 
 - *Make a shortlist*
 
-    If you are struggling to think of a name, try compiling a list of names that you like. This could include the names of favourite characters, celebrities, influential figures in your life, or just names you find interesting, attractive, or unique. You might want to add to this list by looking at baby name websites or if you come across a name that you like while out and about in the world.
+    If you are struggling to think of a name, try compiling a list of names that you like. This could include the names of favourite characters, celebrities, influential figures in your life, or just names you find interesting, attractive, or unique. You might want to add to this list by looking at baby name websites or if you come across a name that you like while out and about in the world. Many people name themselves after trees, plants, birds, gemstones, rocks, spices, places, or colours that feel right as a name for them - you may want to look through lists of those for ideas.
 
 - *Talk to other people*
 
