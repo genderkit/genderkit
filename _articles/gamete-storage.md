@@ -44,7 +44,7 @@ There are also a number of private options. This will generally cost several hun
 
 There is detailed information about gamete storage and fertility treatments for trans and non-binary people on [the Human Fertilisations and Embryology Authority website](https://www.hfea.gov.uk/treatments/fertility-preservation/information-for-trans-and-non-binary-people-seeking-fertility-treatment/) and on [the Wales Fertility Institute website](https://www.umbrellacymru.co.uk/wp-content/uploads/2023/06/Fertility-Preservation-Information-for-Gender-Diversity..V1.pdf).
 
-You can 
+You can also get support for learning more about gamete storage and fertility treatments, or ask questions about any worries you have, by attending [online LGBTQ+ Fertility Group meetings](https://fertilitynetworkuk.org/lgbtq-group).
 
 ### References
 
