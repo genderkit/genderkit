@@ -43,12 +43,12 @@ The main types of laser used are ruby, alexandrite, diode, and Nd:YAG. Diode and
 
 ### How much will it cost?
 
-The price of laser hair reduction varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £100-200 per session. NHS Scotland have produced guidance that suggests that around 15 sessions of 30 minutes each would normally be needed to clear facial hair growth {% cite ngicns2020facial -l 6 %}.
+The price of laser hair reduction varies depending on the size of the area to be treated. A common area is the face and neck, which would normally cost around £100-200 per session. NHS Scotland have produced guidance that suggests that around 15 sessions of 30 minutes each would normally be needed to clear facial hair growth {% cite ngicns2022facial -l 7 %}.
 
 If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and unwanted facial hair, the NHS may provide funding for some laser hair reduction or [electrolysis]({% link _articles/electrolysis.md %}):
 
 - *NHS England*: up to 8 sessions of laser hair removal {% cite specEngNonsurgical -l 17 %}
-- *NHS Scotland*: a minimum of 15 sessions of laser hair removal {% cite ngicns2020facial -l 10 %}
+- *NHS Scotland*: a minimum of 15 sessions of laser hair removal {% cite ngicns2022facial -l 7 %}
 - *NHS Wales*: facial hair removal is not currently funded by NHS Wales {% cite specWalesNonsurgical -l 40 %}
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.

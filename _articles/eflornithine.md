@@ -8,7 +8,7 @@ feature:
 
 ### Why might I want to use eflornithine?
 
-You might use it as a temporary alternative measure for managing facial hair while you are waiting to access more permanent approaches, such as [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}) hair removal {% cite ngicns2020facial %}. This might be useful if:
+You might use it as a temporary alternative measure for managing facial hair while you are waiting to access more permanent approaches, such as [laser hair reduction]({% link _articles/laser-hair-reduction.md %}) or [electrolysis]({% link _articles/electrolysis.md %}) hair removal {% cite ngicns2022facial %}. This might be useful if:
 
 - you cannot afford to pay for permanent approaches yet, and there is no funding for it in your area
 - you are delaying permanent approaches until you are prescribed GnRH agonists or other anti-androgens so that a better result can be achieved
