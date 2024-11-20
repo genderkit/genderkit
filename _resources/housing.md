@@ -13,12 +13,12 @@ Advice for trans people with housing related problems can be found on [the Actio
 *Shelter* are the UK housing and homelessness charity and can provide online, in person, and telephone helpline advice.
 
 - [Shelter England](https://england.shelter.org.uk/get_help)
-- [Shelter Scotland](http://scotland.shelter.org.uk/get_advice)
-- [Shelter Cymru](http://www.sheltercymru.org.uk/get-advice/) (Wales)
+- [Shelter Scotland](https://scotland.shelter.org.uk/housing_advice)
+- [Shelter Cymru](https://sheltercymru.org.uk/housing-advice/) (Wales)
 
 *Micro Rainbow* provide support for housing LGBTI asylum seekers and refugees. They have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact. 
 
-[*Simon Community NI*](http://simoncommunity.org/) provide homelessness support throughout Northern Ireland and have a 24/7 helpline.
+[*Simon Community NI*](https://simoncommunity.org) provide homelessness support throughout Northern Ireland and have a 24/7 helpline.
 
 [*Albert Kennedy Trust*](https://www.akt.org.uk) provide support for LGBTQ+ young people (aged 16-25) who are homeless or at risk of homelessness. They can help and advise you around accessing housing services or emergency accommodation. You can also access their [online advice hub](https://www.akt.org.uk/Blogs/online) for information on a range of housing topics.
 

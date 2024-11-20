@@ -23,7 +23,7 @@ aware-of:
     - 
       name: 'Oestrogen is not a contraceptive'
       icon: 'circle_danger' 
-      detail: "You can still make someone pregnant while taking oestrogen. You can read more about contraceptive options for people taking oestrogen on [the FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf)."
+      detail: "You can still make someone pregnant while taking oestrogen. You can read more about contraceptive options for people taking oestrogen on [the FSRH website](https://www.fsrh.org/Common/Uploaded%20files/documents/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf)."
     - 
       name: 'Oestrogen use increases your risk of serious medical conditions'
       icon: 'circle_danger'  

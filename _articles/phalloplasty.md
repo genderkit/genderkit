@@ -101,7 +101,7 @@ If not funded by the NHS, the cost of a phalloplasty performed in the UK is appr
 
 You can read more about phalloplasty in [this booklet from the NHS Gender Dysphoria National Referral Support Service]({% link assets/pdf/Phalloplasty_leaflet_v8.pdf %}). They have also produced [this booklet about hair removal prior to phalloplasty]({% link assets/pdf/PIL_phalloplasty_epilation_v5.pdf %}).
 
-You can find information and regular updates about waiting times for phalloplasty and metoidioplasty in the UK on [the TransActual website](https://www.transactual.org.uk/nhs-phallo-meta).
+You can find information and regular updates about waiting times for phalloplasty and metoidioplasty in the UK on [the TransActual website](https://transactual.org.uk/whats-happening-with-nhs-phallo-and-meta/).
 
 There is some detailed information about phalloplasty and metoidioplasty on the [St. Peter's Andrology Centre website](https://www.andrology.co.uk/phalloplasty). Please note that St Peter's are no longer offering gender surgeries, so some information on this site may be out of date.
 

@@ -59,15 +59,15 @@ For more information about:
 
 - injecting *Sustanon*
 
-    Leeds Gender Identity Team have produced a detailed [guide to injecting Sustanon](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.leedsandyorkpft.nhs.uk%2Four-services%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F05%2FHow-to-give-a-Testosterone-Intramuscular-IM-Injection.docx&wdOrigin=BROWSELINK). Brighton Health and Wellbeing Centre have [a video guide on how to inject Sustanon](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/b12-sustanon-injections).
+    Leeds Gender Identity Team have produced a detailed [guide to injecting Sustanon](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.leedsandyorkpft.nhs.uk%2Four-services%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F05%2FHow-to-give-a-Testosterone-Intramuscular-IM-Injection.docx&wdOrigin=BROWSELINK). The Health Centre at the University of Sussex also have [a guide including videos on how to inject Sustanon](https://www.unimed.co.uk/self-injecting/).
 
 - injecting *Nebido* (testosterone undecanoate)
 
-    Nebido can be more difficult to inject than Sustanon, and you may want someone else to inject this for you. Brighton Health and Wellbeing Centre have [a video guide on how to inject Nebido and Decapeptyl](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections).
+    Nebido can be more difficult to inject than Sustanon, and you may want someone else to inject this for you.
 
 - injecting *Decapeptyl* (triptorelin)
 
-    You should read the instructions on how to prepare the mixture, which is included in the packaging. Brighton Health and Wellbeing Centre have [a video guide on how to inject Nebido and Decapeptyl](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections).
+    You should read the instructions on how to prepare the mixture, which is included in the packaging.
 
 - injecting *Prostap* (leuprorelin)
 

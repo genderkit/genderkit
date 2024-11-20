@@ -11,7 +11,7 @@ During your life the NHS will invite you to a number of screening tests for comm
 If you change your NHS gender marker, you should remember that you may not receive reminders for the tests you need, and may have to ask for them yourself. You can read more about screening tests and which tests you might need:
 
 - on the [UK Government website](https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people/nhs-population-screening-information-for-trans-people)
-- on the [NHS Wales website](https://phw.nhs.wales/services-and-teams/cervical-screening-wales/information-resources/information-leaflets-poster-downloads-and-accessible-information/screening-information-for-transgender-service-users/)
+- on the [NHS Wales website](https://phw.nhs.wales/services-and-teams/cervical-screening-wales/information-resources/transgender-information/screening-information-for-people-who-are-transgender-non-binary-gender-diverse/)
 - and on the [Cancer Research UK website](https://www.cancerresearchuk.org/about-cancer/screening/trans-and-non-binary-cancer-screening)
 
 ### Sexual health and contraception

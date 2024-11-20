@@ -13,7 +13,7 @@ Remember to check the official inspection reports for your IPL clinic before you
 - in Wales, you can read the reports on [the Healthcare in Wales website](http://hiw.org.uk/find-service/?lang=en)
 - in Northern Ireland, you can read the reports on [the Regulation and Quality Improvement Authority website](https://www.rqia.org.uk/inspections/view-inspections-as/map/)
 - in England, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on [the Care Quality Commission website](https://www.cqc.org.uk)
-- in Scotland, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on [the Healthcare Improvement Scotland website](http://www.healthcareimprovementscotland.org/our_work/inspecting_and_regulating_care/independent_healthcare/find_a_provider_or_service.aspx)
+- in Scotland, unfortunately reports are not available for all clinics, but some can be found by typing in the search box on [the Healthcare Improvement Scotland website](https://www.healthcareimprovementscotland.scot/inspections-reviews-and-regulation/regulation-of-independent-healthcare/find-an-independent-healthcare-provider-or-service/)
 
 You may also may want to ask a [local group]({% link _resources/local.md %}) for people changing things related to gender to find out if people have had any problems with the clinic.
 

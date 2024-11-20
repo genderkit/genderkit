@@ -16,7 +16,7 @@ You will need to contact the correct exam board for the qualification to ask the
 
 Each organisation has a different instructions, which they have published online:
 
-- *AQA*: [Amendments to original certificates](https://www.aqa.org.uk/contact-us/past-results-and-lost-certificates/amendments-to-original-certificates)
+- *AQA*: [Certificate changes for transgender people](https://www.aqa.org.uk/contact-us/certificate-services/amendments-to-original-certificates/certificate-changes-for-transgender-people)
 - *City and Guilds*: use [this website](https://archiveservices.cityandguilds.com/)
 - *Edexcel*: is now owned by Pearson, see the link for Pearson below
 - *Eduqas*: [Replacement exam certificates](https://www.eduqas.co.uk/home/student-support/replacement-exam-certificates/) (look under the "Amendments to Certificates" tab)

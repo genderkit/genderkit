@@ -10,9 +10,8 @@ description: Information about being visible as a trans, non-binary, or gender n
 
 You can find good advice on about coming out on these pages:
 
-- [The Trans Non-binary and Questioning Coming Out Guide for Young People](https://www.lgbtyouth.org.uk/media/2892/tnq-coming-out-e-use.pdf)
+- [The Trans Non-binary and Questioning Coming Out Guide for Young People](https://lgbtyouth.org.uk/trans-and-non-binary-coming-out-guide/)
 - [Coming Out on the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/477499-How-do-I-come-out-to-other-people??catid=1&subid=12)
-- [Coming Out Stories from the LGBT Foundation](https://lgbt.foundation/comingout)
 - [Coming Out on the Childline website](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/coming-out/)
 - [Coming Out Guidance for Young People from Cara-Friend](https://cara-friend.org.uk/wp-content/uploads/2021/09/Cara-Friend-Coming-Out-Guide.pdf)
 
@@ -51,7 +50,7 @@ Remember when you are talking about other people to use the words they prefer. I
 
 Some words are commonly used as a slur - an offensive word used to insult or attack people. Some of these words may be upsetting or traumatic for people, and we strongly suggest you avoid using them. If you want to find out more about these words, you can [read our page about them]({% link slurs.md %}).
 
-There are also words which are specific to a particular culture, such as [two spirit](https://en.wikipedia.org/wiki/Two-Spirit), [hijra](https://en.wikipedia.org/wiki/Hijra_(South_Asia)), or [kathoey](https://en.wikipedia.org/wiki/Kathoey). Because of the cultural context to these words, it is often better not to use them to describe yourself if you are not a member of said culture, as it may be considered [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). You can read more about these words on [the PBS website](http://www.pbs.org/independentlens/content/two-spirits_map-html/).
+There are also words which are specific to a particular culture, such as [two spirit](https://en.wikipedia.org/wiki/Two-Spirit), [hijra](https://en.wikipedia.org/wiki/Hijra_(South_Asia)), or [kathoey](https://en.wikipedia.org/wiki/Kathoey). Because of the cultural context to these words, it is often better not to use them to describe yourself if you are not a member of said culture, as it may be considered [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). You can read more about these words on [the PBS website](https://www.pbs.org/independentlens/content/two-spirits_map-html/).
 
 People from other cultures may not wish to be described as [transgender]({% link _words/transgender.md %}) or [nonbinary]({% link _words/nonbinary.md %}), because these words use a particular way of thinking about gender specific to [Western culture](https://en.wikipedia.org/wiki/Western_culture). Words like these may not correctly describe who the person is, or how they interact with the society around them.
 

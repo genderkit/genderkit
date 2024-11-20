@@ -13,7 +13,7 @@ There is no safe or healthy way to get a tan from sunlight, according to the  Na
 {% endcapture %}
 {% include warning warning=warn %}
 
-The British Photodermatology Group and British Association of Dermatologists have released [a joint statement](http://www.bad.org.uk/for-the-public/skin-cancer/sunbeds) stating that the use of sunbeds should be strongly discouraged. The NHS provide an [Are Sunbeds Safe? page](https://www.nhs.uk/chq/pages/852.aspx) which has further information on sunbeds. It is **illegal** to allow people who are under the age of 18 to use tanning beds, under section 2 of the [Sunbeds (Regulation) Act 2010](http://www.legislation.gov.uk/ukpga/2010/20/section/2).
+The British Photodermatology Group and British Association of Dermatologists have released [a joint statement](http://www.bad.org.uk/for-the-public/skin-cancer/sunbeds) stating that the use of sunbeds should be strongly discouraged. The NHS provide an [Are Sunbeds Safe? page](https://www.nhs.uk/chq/pages/852.aspx) which has further information on sunbeds. It is **illegal** to allow people who are under the age of 18 to use tanning beds, under section 2 of the [Sunbeds (Regulation) Act 2010](https://www.legislation.gov.uk/ukpga/2010/20/section/2).
 
 Some people incorrectly think that having a tan is useful protection against sun damage to skin and skin cancer. In fact, the risks of exposure outweigh any protective effect {% cite nice-sunlight %}.
 

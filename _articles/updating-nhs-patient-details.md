@@ -31,10 +31,10 @@ You can change your name, title, or gender with the NHS at any time you like by 
 Most GP surgeries will be able to update your details if you ask at reception. However, some GP surgeries may be unsure of the procedure for how to do it. You may find it helpful to give them these links which explain how they can update your details:
 
 - in *England*, on the [PCSE website](https://pcse.england.nhs.uk/help/registrations/adoption-and-gender-re-assignment-processes/) (search for "How should I advise PCSE of a patient gender re-assignment?" and "A transgender patient registered at our practice would like to change their registered name")
-- in *Wales*, on the [Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/preview/640439-Changing-Personal-Details-at-the-GP)
+- in *Wales*, on the [Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/640439-Changing-Personal-Details-at-the-GP?catid=1&subid=4)
 - in *Scotland*, on the [NHS National Services Scotland website](https://www.nss.nhs.scot/medical-services/patient-registration-and-medical-records/how-to-change-patient-details/) (you can find further information about your rights in [this Freedom of Information disclosure](https://www.nss.nhs.scot/publications/foi-000084-requirements-for-processing-a-change-of-gender-and-title/foi-000084-requirements-for-processing-a-change-of-gender-and-title-html/) and in [this document for staff in Greater Glasgow and Clyde](https://www.nhsggc.org.uk/media/255885/nhsggc_equalities__changing_your_chi.pdf))
 
-If your GP surgery is still unhappy to do this, or request a Gender Recognition Certificate before making a change, you may wish to show your GP [the General Medical Council guidance on this issue](https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare#confidentiality-and-equality).
+If your GP surgery is still unhappy to do this, or request a Gender Recognition Certificate before making a change, you may wish to show your GP [the General Medical Council guidance on this issue](https://www.gmc-uk.org/professional-standards/ethical-hub/trans-healthcare#Confidentiality-and-equality).
 
 If you are still experiencing issues, take a look at the advice on [our page about common healthcare issues]({% link _resources/problems.md %}).
 
@@ -61,7 +61,7 @@ During your life the NHS will invite you to a number of screening tests for comm
 When you change your NHS gender marker, you should remember that you may not receive reminders for the tests you need, and may have to ask for them yourself. You can read more about screening tests and which tests you might need:
 
 - on the [UK Government website](https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people/nhs-population-screening-information-for-trans-people)
-- on the [NHS Wales website](https://phw.nhs.wales/services-and-teams/cervical-screening-wales/information-resources/information-leaflets-poster-downloads-and-accessible-information/screening-information-for-transgender-service-users/)
+- on the [NHS Wales website](https://phw.nhs.wales/services-and-teams/cervical-screening-wales/information-resources/transgender-information/screening-information-for-people-who-are-transgender-non-binary-gender-diverse/)
 - and on the [Cancer Research UK website](https://www.cancerresearchuk.org/about-cancer/screening/trans-and-non-binary-cancer-screening)
 
 In *Scotland*, you will normally be invited to the correct tests automatically (unless the gender marker on your records was changed before 2016). You can read more about testing in Scotland on [the NHS Inform website](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community).

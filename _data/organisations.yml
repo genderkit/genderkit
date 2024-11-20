@@ -111,7 +111,7 @@ organisations:
     -
         heading: YourGP
         name: YourGP
-        url: 'http://your-gp.com/services/sexual-health-gender-clinic/gender-dysphoria/'
+        url: 'https://your-gp.com/gender-clinic/gender-dysphoria-consultation/'
         tags: ['Private healthcare', 'Gender Clinics', Scotland]
         manualDescription: 'Private gender service located in Edinburgh'
         image: your-gp

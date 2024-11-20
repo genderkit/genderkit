@@ -32,7 +32,7 @@ You can search for speech therapists from across the UK who have a speciality in
 
 Private speech and language therapists in the UK who advertise specific experience around gender on their websites include:
 
-- [Matthew Mills](http://www.matthewmills.uk.com/) (London)
+- [Matthew Mills](https://gendercare.co.uk/matthew-mills.shtml) (London)
 - [Christella Antoni and others](http://www.christellaantoni.co.uk/) (London)
 - [Nicola Gorb](https://voicecommunicationclinic.com/) (London and Hertfordshire)
 - [Heidi de Quincey](http://www.heididequincey.co.uk/) (Hampshire)

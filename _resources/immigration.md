@@ -18,17 +18,14 @@ If you are intending to claim asylum in the UK, you can find support from:
 - [Persian LGBT](https://www.persianlgbt.org/) provide support for Persian speaking LGBT refugees and asylum seekers
 - [African Rainbow Family](https://africanrainbowfamily.org/) provide support for LGBTQI people of African and BAME heritage
 - [Rainbow Home](https://rainbowhome.org.uk/) support LGBT asylum seekers in North East England
-- [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/refugee-support/) provide support to LGBT asylum seekers in Scotland
+- [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/newscots/) provide support to LGBT asylum seekers in Scotland
 - [LGBT Unity](https://www.lgbtunity.org/) support LGBT asylum seekers in Glasgow
 - [The Rainbow Project](https://www.rainbow-project.org) provide support and signposting to asylum seekers in Northern Ireland
 
 You can find additional information for LGBT asylum seekers:
 
-- on [the Transgender Europe website](https://tgeu.org/issues/asylum/) including [a guide to your rights](https://tgeu.org/wp-content/uploads/2015/07/TGEUs-Know-your-Rights-Guide-for-Trans-People-in-the-EU.pdf) that covers asylum rights
-- on [the Stonewall UK website](https://www.stonewall.org.uk/help-advice/asylum)
 - on [the UK government website](https://www.gov.uk/claim-asylum)
 - on [the Trans-Fit website](https://www.trans-fit.co.uk/asylum-and-refugee-support)
-- on [the Lesbian Immigration Support Group website](https://lisg.uk/support-links-1)
 
 ### Accessing gender services in the UK
 
@@ -39,7 +36,7 @@ The information in this section is not a substitute for formal immigration advic
 
 *British citizens* are all able to access the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS) which provides medical services - including support with gender - for *free*. You can find out how to become a British citizen on [the UK Government website](https://www.gov.uk/becoming-a-british-citizen).
 
-*EU and EEA nationals* who need *care that can't wait until they return home* can use a [European Health Insurance Card](http://ec.europa.eu/social/main.jsp?catId=559) (EHIC). If you have an EHIC, you can use the NHS gender services for *free* while you are in the UK, so long as you're not here for more than 6 months.
+*EU and EEA nationals* who need *care that can't wait until they return home* can use a [European Health Insurance Card](https://ec.europa.eu/social/main.jsp?catId=559) (EHIC). If you have an EHIC, you can use the NHS gender services for *free* while you are in the UK, so long as you're not here for more than 6 months.
 
 *EU and EEA nationals* who are *in the UK for more than 6 months* can pay the [immigration health surcharge](https://www.gov.uk/healthcare-immigration-application) when applying for a visa. If you have an *S1 certificate* from the healthcare authority in your home country and [register it with Overseas Healthcare Services](https://www.gov.uk/healthcare-immigration-application), you may be able to get this [reimbursed](https://www.gov.uk/guidance/healthcare-for-eu-and-efta-nationals-living-in-the-uk#when-your-healthcare-costs-in-the-uk-are-covered-by-an-eu-country).
 

@@ -46,5 +46,3 @@ If you're worried about someone's mental health or whether they are thinking of 
 ### More information
 
 There are many useful resources relating to trans people and sexual and domestic violence on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/violence/).
-
-There are PDFs about domestic violence for LGBT+ people available on [the Stonewall UK website](https://www.stonewall.org.uk/help-advice/criminal-law/domestic-violence).

@@ -37,7 +37,7 @@ aware-of:
     - 
       name: 'Testosterone is not a contraceptive'
       icon: 'circle_danger' 
-      detail: "You can still become pregnant while taking testosterone. You can read more about contraceptive options for people on testosterone on [the FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf). If you become pregnant testosterone use must be stopped."
+      detail: "You can still become pregnant while taking testosterone. You can read more about contraceptive options for people on testosterone on [the FSRH website](https://www.fsrh.org/Common/Uploaded%20files/documents/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf). If you become pregnant testosterone use must be stopped."
     - 
       name: 'Testosterone may contain peanut oil'
       icon: 'circle_danger'

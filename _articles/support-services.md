@@ -18,14 +18,14 @@ In the UK, there are several specialist services available to provide you with i
 
 [Mermaids](https://mermaidsuk.org.uk/contact-us/) provide phone, online chat, and email support for transgender youth aged up to 25 in the UK.
 
-[Mindline Trans+](http://bristolmind.org.uk/help-and-counselling/mindline-transplus/) is a helpline for adults in the UK who identify as trans or non-binary, run by mental health charity Mind.
+[Mindline Trans+](https://www.mindinsomerset.org.uk/our-services/adult-one-to-one-support/mindline-trans/) is a helpline for adults in the UK who identify as trans or non-binary, run by mental health charity Mind.
 
 There is local support available:
 
 - in the *Brighton and Hove* area from [Switchboard Trans and Non-binary Link](https://www.switchboard.org.uk/what-we-do/trans-and-non-binary-link/)
 - in the *London* area from the [Spectra London Trans Peer Mentoring Programme](https://spectra-london.org.uk/trans-gender-services/trans-peer-mentoring/)
-- in the *Liverpool* area from the [Mersey Care Trans Support Service](https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss)
-- in *Scotland* from the [Transgender Support Service at LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/trans-support/individual-support/)
+- in the *Liverpool* area from the [Mersey Care Trans Support Service](https://www.merseycare.nhs.uk/our-services/liverpool/trans-support-service)
+- in *Scotland* from the [Transgender Support Service at LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/trans/individual-support/)
 - in *Sussex* from [The Clare Project](https://clareproject.org.uk/1-1-support/)
 - in *Wales* from the [XIST service at Umbrella Cymru](https://www.umbrellacymru.co.uk/request-support/)
 

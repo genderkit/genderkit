@@ -55,14 +55,7 @@ However, these documents are largely quoting the WPATH Standards of Care {% cite
 
 If you're worried that your health conditions might be used to deny you gender-affirming treatment, or that you might be required to undergo treatment that you don't want, you could consider bringing an advocate to medical appointments. This could be a friend or relative, or someone experienced in medical advocacy.
 
-If you have been denied gender-affirming treatment due to one of your health conditions, or are being required to undergo treatment that you don't want, you can make a complaint:
-
-* For NHS England, you can complain to [PALS](https://www.nhs.uk/common-health-questions/nhs-services-and-treatments/what-is-pals-patient-advice-and-liaison-service/)
-* For NHS Scotland, you can complain to [PASS](https://www.cas.org.uk/pass)
-* For NHS Wales, you can find details of your local health board's process [here](http://www.wales.nhs.uk/ourservices/contactus/nhscomplaints)
-* For HSC Northern Ireland, you can find out how to make a complaint [here](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services)
-* Private clinics will have their own complaints process
-
+If you have been denied gender-affirming treatment due to one of your health conditions, or are being required to undergo treatment that you don't want, you can make a complaint. You can find a guide on how to make a complaint and how to get support in handling a medical issue on [the TransActual website](https://transactual.org.uk/medical-transition/common-healthcare-issues-and-what-to-do/).
 
 ### References
 

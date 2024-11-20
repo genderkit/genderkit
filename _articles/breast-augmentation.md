@@ -52,9 +52,9 @@ It is possible to apply for funding for augmentation through exceptional funding
 In the event that you believe an exception to the funding rules should be made in your case, the following documents give information about to apply for this:
 
 - *England:* [Interim Commissioning Policy: Individual funding requests](https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2016/08/cp-03.pdf)
-- *Scotland:* [Adult Exceptional Aesthetic Referral Protocol](http://www.sehd.scot.nhs.uk/mels/CEL2011_27.pdf)
+- *Scotland:* [Adult Exceptional Aesthetic Referral Protocol](https://www.publications.scot.nhs.uk/files/cmo-2019-05.pdf)
 - *Wales:* [Patient guide to Individual Patient Funding Requests (IPFR)](https://whssc.nhs.wales/about-us/what-we-do/what-we-do-document/3-aw-ipfr-patient-leaflet-november-2019/)
-- *Northern Ireland:* [HSCB ARRANGEMENTS FOR THE CONSIDERATION OF REQUESTS FOR CARE AND /OR TREATMENT ON BEHALF OF INDIVIDUAL PATIENTS](http://www.hscbusiness.hscni.net/pdf/Protocol_ECR_and__IFR_arrangements.pdf) 
+- *Northern Ireland:* [Individual Funding Requests](https://online.hscni.net/our-work/ifrs/) 
 
 ### Where can I learn more?
 

@@ -47,7 +47,7 @@ You can receive contraceptive injections for free at an NHS GP surgery, sexual h
 
 You can read more about the contraceptive injection on [the NHS website](https://www.nhs.uk/conditions/contraception/contraceptive-injection/).
 
-You can find more information about contraception specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
+You can find more information about contraception specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/Common/Uploaded%20files/documents/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
 
 ### References
 

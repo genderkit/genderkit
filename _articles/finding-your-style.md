@@ -50,7 +50,7 @@ You can also get advice from a professional stylist. This is someone who can sug
 
 - *high-street retailers* like [Debenhams](https://www.debenhams.com/content/personal-shopper), [John Lewis](https://www.johnlewis.com/our-services/personal-styling), or [Topshop](https://www.topshop.com/en/tsuk/category/topshop-personal-shopping-4886705/home)
 - *online fashion services* like [StitchFix](https://www.stitchfix.co.uk) or [Lookiero](https://lookiero.co.uk)
-- *independent agencies*, some of which specifically advertise services to trans clients, like [Born](https://born.uk.com/), [Rachel Watson](https://rachelwatson.net/), or [TRANS.style](http://www.trans.style/)
+- *independent agencies*, some of which specifically advertise services to trans clients, like [Born](https://born.uk.com/), [Rachel Watson](https://rachelwatson.net/), or [TRANS.style](https://www.trans.style)
 
 ### Trying things out
 

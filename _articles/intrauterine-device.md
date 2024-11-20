@@ -39,7 +39,7 @@ An IUD or IUS is available for free at an NHS GP surgery, sexual health, or GUM 
 
 You can read more on the NHS website about [intrauterine devices](https://www.nhs.uk/conditions/contraception/iud-coil/) and [intrauterine systems](https://www.nhs.uk/conditions/contraception/ius-intrauterine-system/).
 
-You can find more information specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
+You can find more information specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/Common/Uploaded%20files/documents/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
 
 ### References
 

@@ -51,7 +51,7 @@ If fitted at an NHS GP surgery, sexual health, or GUM clinic, the contraceptive 
 
 You can read more about the contraceptive implant on [the NHS website](https://www.nhs.uk/conditions/contraception/contraceptive-implant/).
 
-You can find more information about contraception specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/documents/fsrh-ceu-statement-contraceptive-choices-and-sexual-health-for/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
+You can find more information about contraception specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/Common/Uploaded%20files/documents/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
 
 ### References
 
