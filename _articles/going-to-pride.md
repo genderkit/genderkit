@@ -13,10 +13,24 @@ Attending a pride event can be a huge boost to your confidence and make you feel
 
 ### Where can I find a pride event near me?
 
-You can find full details of Trans Pride events for 2023 on [the Celebrate Trans Joy website](https://www.celebratetransjoy.co.uk/trans-prides-2023).
+The following organisations run UK Trans Pride events:
 
-The following groups have run or are planning to run trans-specific pride events in the UK:
-
-{% include organisations tag="Pride events" %}
+- [Birmingham](https://www.instagram.com/transpridebirmingham)
+- [Brighton](https://www.transpridebrighton.org)
+- [Coventry](https://linktr.ee/covtrans)
+- [Hastings](https://transpridehastings.uk)
+- [Leeds](https://transprideleeds.org)
+- [Liverpool](https://www.instagram.com/liverpooltranspride/)
+- [London](https://linktr.ee/londontranspride)
+- [Manchester](https://www.transpridemcr.org)
+- [Northern Ireland](https://transprideni.com)
+- [Norwich](https://linktr.ee/norwichtranspride)
+- [Nottingham](https://www.instagram.com/transpridenotts/)
+- [Plymouth](https://www.instagram.com/transprideplymouth/)
+- [Scotland](https://transpride.scot)
+- [Southampton](https://transpridesouthampton.org)
+- [Surrey](https://linktr.ee/transpridesurrey)
+- [Bristol](https://www.transpridebristol.org.uk/)
+- [Winchester](https://transpridewinchester.org)
 
 Many LGBT+ pride events can be extremely diverse and accepting too. Why not try searching for an LGBT+ Pride event in your area?
