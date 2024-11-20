@@ -68,13 +68,7 @@ relative, or someone experienced in medical advocacy.
 
 If your *capacity to consent has been denied* and you want to challenge this
 decision, you can ask for a second opinion, request a "best interest" meeting,
-or make a complaint:
-
-* For NHS England, you can complain to [PALS](https://www.nhs.uk/common-health-questions/nhs-services-and-treatments/what-is-pals-patient-advice-and-liaison-service/)
-* For NHS Scotland, you can complain to [PASS](https://www.cas.org.uk/pass)
-* For NHS Wales, you can find details of your local health board's process [here](http://www.wales.nhs.uk/ourservices/contactus/nhscomplaints)
-* For HSC Northern Ireland, you can find out how to make a complaint [here](https://www.nidirect.gov.uk/articles/raising-concern-or-making-complaint-about-health-services)
-* Private clinics will have their own complaints process
+or make a complaint. You can find a guide on how to make a complaint and how to get support in handling a medical issue on [the TransActual website](https://transactual.org.uk/medical-transition/common-healthcare-issues-and-what-to-do/).
 
 ### References
 
