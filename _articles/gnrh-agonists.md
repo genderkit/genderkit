@@ -27,7 +27,7 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 ### Who might want GnRH agonists?
 <section class="info">
 <h3 id="note">Note</h3>
-<p>NHS policy on treatment of under-16s has been affected by recent High Court rulings, and is subject to change. This page will be updated regularly.</p>
+<p>GnRH agonists are subject to legal restrictions in the UK.</p>
 </section>
 
 - *If you have testes*, treatment with GnRH agonists will reduce your testosterone levels. GnRH agonists will cause an initial rise in testosterone levels for the first few weeks of use, which is sometimes stopped by a short course of [cyproterone]({% link _articles/cyproterone.md %}) {% cite seal:2007 -l 170 %}.
@@ -36,11 +36,9 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 
 - *If you do not have gonads (ovaries and/or testes)*, you will not need to take GnRH agonists. This means that after [orchidectomy]({% link _articles/orchidectomy.md %}) or [salpingo-oophorectomy]({% link _articles/salpingo-oophorectomy.md %}), there is no longer any need to use GnRH agonists.
 
-- *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are considered a fully reversible treatment {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. Further information is available on [the GIDS website](https://gids.nhs.uk/evidence-base).
+- *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are considered a fully reversible treatment {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. 
 
-  Due to a recent high court ruling, under-16s will not receive this treatment from the NHS in England and Wales without a 'best interests' court order {% cite specEngDec20Update %}. The Tavistock and Portman NHS Foundation Trust is currently in the process of appealing this ruling, and a ruling on appeal will affect the whole of the UK.
-
-  If your doctor determines that prescribing blockers would be in your best interests, they will have to apply to a court for a final decision. At the moment, it is unclear exactly what this process will involve. It is likely that private clinics will adopt similar policies, but the legal situation is still developing, so it is difficult to say for certain whether this will become the norm.
+  At present, providing GnRH agonsists to people under 18 in the UK is subject to restrictions which means that obtaining GnRH agonists for someone under 18 is normally illegal except in certain specific conditions. You can read more about the situation in [this letter from NHS England](https://www.ardengemcsu.nhs.uk/media/3979/nhs-england-letter-31052024.pdf).
 
 ### Are there other options?
 
@@ -56,8 +54,6 @@ Funding for GnRH treatment is available to people with testes who have a [formal
 ### How do I use GnRH agonists?
 
 Most GnRH agonists are injections. Usually you will be able to get a doctor or a nurse to perform the injection for you.
-
-If you need to administer your injection yourself, Brighton Health and Wellbeing Centre have a video guide on how to do this for [intramuscular injections](https://www.brightonhealthandwellbeingcentre.co.uk/selfcare/nebido-decapeptyl-injections) like Triptorelin (Decapeptyl) or Leuprorelin (Prostap). Subcutaneous injections will require a different technique.
 
 ### What kinds are there?
 
