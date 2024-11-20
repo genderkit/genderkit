@@ -59,12 +59,7 @@ All the private gender services accept self-referral. However, it may be helpful
 
 Patients in Wales being referred to gender services for children and young people will need to ask their GP to apply for funding from their local Health Board. 
 
-You may be able to get help with the cost of travelling to attending appointments at NHS or HSC gender services. Further information about travel costs can be found:
-
-- on [the NHS website](https://www.nhs.uk/using-the-nhs/help-with-health-costs/healthcare-travel-costs-scheme-htcs/) (valid across the whole of the UK)
-- on [the Welsh Government website](https://gov.wales/low-income-scheme-help-nhs-health-costs)
-- on [the NGICNS website](https://www.ngicns.scot.nhs.uk/surgery/claiming-travel-subsistence-expenses/) (Scotland only)
-- on [the HSC Northern Ireland website](http://www.hscbusiness.hscni.net/pdf/Expenses.pdf)
+{% include travel-costs %}
 
 More information about travel funding is also available on [the London GIC website](https://gic.nhs.uk/help-with-travel-costs/).
 
