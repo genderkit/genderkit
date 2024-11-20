@@ -6,14 +6,8 @@ groups: [Umbrella term, Defined by breaking norms]
 > "This is an umbrella term for people whose gender is different from their "assigned" sex at birth - that written on their birth certificate."
 > <figcaption>
 >
-> --- [BBC](http://www.bbc.co.uk/news/magazine-32979297)
->
-> </figcaption>
+> --- [BBC](https://www.bbc.co.uk/news/magazine-32979297)
 
-> "Denoting or relating to a person whose sense of personal identity and gender does not correspond with their birth sex."
-> <figcaption>
->
-> --- [Oxford Dictionaries](https://en.oxforddictionaries.com/definition/transgender)
 >
 > </figcaption>
 

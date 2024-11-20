@@ -3,13 +3,6 @@ title: Genderqueer
 groups: [Umbrella term]
 ---
 
-> "A person who does not subscribe to conventional gender distinctions but identifies with neither, both, or a combination of male and female genders."
-> <figcaption>
->
-> --- [Oxford Dictionaries](https://en.oxforddictionaries.com/definition/genderqueer)
->
-> </figcaption>
-
 > "an umbrella term used to describe gender identities other than man and woman – for example, those who are both man and woman, or neither man nor woman, or moving between genders"
 > <figcaption>
 >

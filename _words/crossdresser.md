@@ -8,7 +8,7 @@ Someone who uses the clothes or presentation of a different gender. The act of d
 > "This describes a person who wears the clothes usually associated with the "opposite" sex."
 > <figcaption>
 >
-> --- [BBC](http://www.bbc.co.uk/news/magazine-32979297)
+> --- [BBC](https://www.bbc.co.uk/news/magazine-32979297)
 >
 > </figcaption>
 

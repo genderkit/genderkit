@@ -4,7 +4,7 @@ groups: [Medical term, Change focused]
 ---
 
 
-"Transsexualism" - the condition of being transsexual - is a medical diagnosis listed in the [ICD-10](https://en.wikipedia.org/wiki/ICD-10), the international classification system for medical conditions. It is [defined as](http://apps.who.int/classifications/icd10/browse/2016/en#/F64.0):
+"Transsexualism" - the condition of being transsexual - is a medical diagnosis listed in the [ICD-10](https://en.wikipedia.org/wiki/ICD-10), the international classification system for medical conditions. It is [defined as](https://icd.who.int/browse10/2019/en#/F64.0):
 
 > "A desire to live and be accepted as a member of the opposite sex, usually accompanied by a sense of discomfort with, or inappropriateness of, one's anatomic sex, and a wish to have surgery and hormonal treatment to make one's body as congruent as possible with one's preferred sex."
 
