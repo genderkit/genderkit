@@ -170,7 +170,7 @@ organisations:
         image: nhs-scotland
         publishes-wait-first-appointment: true
         wait-first-appointment: 72
-        date-wait-first-appointment: 'November ''24'
+        date-wait-first-appointment: 'Nov ''24'
         source-wait-first-appointment: 'https://www.sandyford.scot/sexual-health-services/gender-service-at-sandyford/'
         source-wait-hormones: 'https://www.whatdotheyknow.com/request/gender_identity_clinic_wait_time_2'
         wait-youth-carried-over: yes
