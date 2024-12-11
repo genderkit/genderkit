@@ -6,4 +6,4 @@ description: UK-specific information for clinicians supporting trans, nonbinary,
 
 This information is no longer maintained on this site.
 
-You can find detailed information for clinicans on [the TransActual website](https://transactual.org.uk/healthcare-professionals/).
+You can find detailed information for clinicians on [the TransActual website](https://transactual.org.uk/healthcare-professionals/).

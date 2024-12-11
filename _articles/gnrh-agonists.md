@@ -38,7 +38,7 @@ GnRH agonists do not provide reliable contraception {% cite fsrh2017contraceptiv
 
 - *If you are going through, or about to start puberty*, GnRH agonists can be used to delay puberty. The effects of GnRH agonists when used in this way are considered a fully reversible treatment {% cite hembree2009endocrine %}, and may reduce the distress of going through the "wrong" puberty {% cite giordano2020 %} as well as the need for some other treatments later in life {% cite wpath7 %}. This is generally considered safe, though there is some evidence that suppressing puberty may have a negative impact on bone development {% cite giordano2020 %}. 
 
-  At present, providing GnRH agonsists to people under 18 in the UK is subject to restrictions which means that obtaining GnRH agonists for someone under 18 is normally illegal except in certain specific conditions. You can read more about the situation in [this letter from NHS England](https://www.ardengemcsu.nhs.uk/media/3979/nhs-england-letter-31052024.pdf).
+  At present, providing GnRH agonists to people under 18 in the UK is subject to restrictions which means that obtaining GnRH agonists for someone under 18 is normally illegal except in certain specific conditions. You can read more about the situation in [this letter from NHS England](https://www.ardengemcsu.nhs.uk/media/3979/nhs-england-letter-31052024.pdf).
 
 ### Are there other options?
 
