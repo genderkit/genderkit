@@ -63,7 +63,7 @@ organisations:
         publishes-wait-first-appointment: true
         wait-youth-carried-over: yes
         wait-carried-over: yes
-        custom-wait-first-appointment: "20"
+        wait-first-appointment: "20"
         source-wait-first-appointment: 'https://cavuhb.nhs.wales/our-services/welsh-gender-service/'
         date-wait-first-appointment: 'Nov ''24'
         publishes-wait-hormones: false
