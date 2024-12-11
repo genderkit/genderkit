@@ -27,7 +27,7 @@ The following might run social groups or be able to give you a list of local one
 You can also search for groups near you on these sites:
 
 - [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
-- [The Trans Dimension](https://transdimension.uk/) (London only)
+- [The Trans Dimension](https://transdimension.uk/) (London and Manchester only)
 
 There are also some social groups run as video chats:
 
