@@ -63,15 +63,13 @@ organisations:
         publishes-wait-first-appointment: true
         wait-youth-carried-over: yes
         wait-carried-over: yes
-        custom-wait-first-appointment: "15"
+        custom-wait-first-appointment: "20"
         source-wait-first-appointment: 'https://cavuhb.nhs.wales/our-services/welsh-gender-service/'
-        date-wait-first-appointment: 'Nov ''23'
-        custom-wait-hormones: "<12"
-        publishes-wait-hormones: true
-        custom-wait-total: '12-25'
+        date-wait-first-appointment: 'Nov ''24'
+        publishes-wait-hormones: false
         foi-wait-hormones: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
         foi-wait-carried-over: 'https://www.whatdotheyknow.com/request/waiting_times_for_welsh_gender_s'
-        updated: '2023-09-04'
+        updated: '2024-12-11'
         catchment: 'Wales GP only'
         extra-information: 'Waits for hormone therapy prescribing will usually vary by which NHS Wales Health Board you are part of.'
     -
@@ -685,7 +683,6 @@ organisations:
         nhs-funding: false
         updated: '2024-07-12'
         referral-criteria: 'Allows self-referral'
-        age-range: ['Under 18', 18+]
     -
         name: 'National Gender Identity Clinical Network for Scotland'
         url: 'http://www.ngicns.scot.nhs.uk'
