@@ -17,9 +17,11 @@ You will need to contact the correct exam board for the qualification to ask the
 Each organisation has a different instructions, which they have published online:
 
 - *AQA*: [Certificate changes for transgender people](https://www.aqa.org.uk/contact-us/certificate-services/amendments-to-original-certificates/certificate-changes-for-transgender-people)
+- *CCEA*: [Replacement certificates](https://ccea.org.uk/learning-resources/obtaining-replacing-and-updating-certificates)
 - *City and Guilds*: use [this website](https://archiveservices.cityandguilds.com/)
 - *Edexcel*: is now owned by Pearson, see the link for Pearson below
 - *Eduqas*: [Replacement exam certificates](https://www.eduqas.co.uk/home/student-support/replacement-exam-certificates/) (look under the "Amendments to Certificates" tab)
+- *NCFE*: [Replacement certificates](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/replacement-certificates/)
 - *OCR*: [Gender reassignment](https://www.ocr.org.uk/students/replacing-lost-certificates/gender-reassignment/)
 - *Pearson*: [Certificate services: replacement documents](https://qualifications.pearson.com/en/support/Services/certificate-services/replacement-documents.html) (look under "Amendment to an original")
 - *SQA*: [Updating personal information — guidance for transgender learners](https://www.sqa.org.uk/sqa/75545.html)
