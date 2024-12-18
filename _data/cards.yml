@@ -20,10 +20,10 @@ network-nav:
     description: 'Free access to trans and queer texts'
     icon: 'gcll.jpg'
   -
-    url: 'https://genderarchive.org.uk/'
-    name: Gender Archive
-    description: 'Archive of UK trans info'
-    icon: 'gender-archive.png'
+    url: 'https://transdimension.uk/'
+    name: The Trans Dimension
+    description: 'space & spaces for us'
+    icon: 'transdim.png'
   -
     url: 'https://supportsibs.org.uk'
     name: Support Our Siblings

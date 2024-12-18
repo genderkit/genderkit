@@ -1,29 +1,16 @@
 ---
-layout: page
+layout: misc
 title: Local groups in the UK
 description: Local organisations, support groups, and social groups in the UK for trans, nonbinary, and gender non-conforming people
 ---
-<main role="main">
-  <nav>
-    <h3 id="jump-to">Jump to:</h3>
-    <ul>
-      {%- for region in site.data.organisations.regions -%}
-        <li><a href="#{{ region | slugify }}">{{ region }}</a></li>
-      {%- endfor -%}
-    </ul>
-  </nav> 
-  <article>
-    <section class="attention">
-      <h3 id="youth-groups">Youth Groups</h3>
-      <p>
-        Looking for youth support groups? Find them on the <a href="https://www.theproudtrust.org/for-young-people/lgbt-youth-groups/where-can-i-find-a-youth-group/">Proud Trust</a> group finder. 
-      </p>
-    </section>
-    <section>
-        {%- for region in site.data.organisations.regions -%}
-	  <h3 id="{{ region | slugify }}">{{ region }}</h3>
-	  {%- include organisations tag=region -%}
-	{%- endfor -%}
-	</section>
-  </article>
-</main>
+
+Looking for local support and social groups for trans, nonbinary, and gender non-conforming people in the UK?
+
+These sites list groups you could consider visiting:
+
+- London: [The Trans Dimension](https://transdimension.uk/)
+- Manchester: [The Trans Dimension](https://transdimension.uk/)
+- Scotland: [LGBT Health and Wellbeing What's On Calendar](https://www.lgbthealth.org.uk/whats-on/)
+- Wales: [Umbrella Cymru Social Groups page](https://umbrellagwent.od2.vtiger.com/kb/category/3-Social)
+
+You can find a directory of groups in other parts of the country on [the GIRES website](https://www.gires.org.uk/tranzwiki/).

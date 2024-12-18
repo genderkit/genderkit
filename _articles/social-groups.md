@@ -24,10 +24,14 @@ The following might run social groups or be able to give you a list of local one
 - workplace pride and LGBTQIA+ networks
 - other local trans people
 
-You can also search for groups near you on these sites:
+These sites list social and support groups you could consider visiting:
 
-- [TranzWiki](https://www.gires.org.uk/tranzwiki/) (information is infrequently updated and may be out of date)
-- [The Trans Dimension](https://transdimension.uk/) (London and Manchester only)
+- London: [The Trans Dimension](https://transdimension.uk/)
+- Manchester: [The Trans Dimension](https://transdimension.uk/)
+- Scotland: [LGBT Health and Wellbeing What's On Calendar](https://www.lgbthealth.org.uk/whats-on/)
+- Wales: [Umbrella Cymru Social Groups page](https://umbrellagwent.od2.vtiger.com/kb/category/3-Social)
+
+You can find a directory of groups in other parts of the country on [the GIRES website](https://www.gires.org.uk/tranzwiki/).
 
 There are also some social groups run as video chats:
 
