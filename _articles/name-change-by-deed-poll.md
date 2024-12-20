@@ -35,7 +35,6 @@ You will need to obtain the signatures of two independent witnesses to your deed
 It can be hard to think of who you want to witness your deed poll. Here are some examples of people you might ask:
 
 - Friends
-- Family
 - Coworkers or fellow students
 - Volunteer coordinators
 - People at social groups you go to
