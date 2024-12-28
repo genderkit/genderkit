@@ -19,6 +19,7 @@ commonmark:
 gems:
   - 'jekyll/scholar'
   - jekyll-sitemap
+  - jekyll-last-modified-at
 exclude:
   - Gemfile
   - Gemfile.lock

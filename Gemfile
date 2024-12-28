@@ -25,6 +25,7 @@ group :jekyll_plugins do
    gem "jekyll-scholar", "~> 7.0"
    gem "jekyll-commonmark-ghpages"
    gem "jekyll-sitemap"
+   gem "jekyll-last-modified-at"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
