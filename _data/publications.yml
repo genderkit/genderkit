@@ -1526,14 +1526,14 @@ publications:
     title: 'Supporting trans employees in the workplace'
     organisation: ACAS
     year: 2017
-    url: 'https://archive.acas.org.uk/media/4908/Supporting-trans-employees-in-the-workplace/pdf/Supporting-trans-employees-in-the-workplace.pdf'
+    url: 'https://www.acas.org.uk/research-and-commentary/supporting-trans-employees-in-the-workplace'
     tags: [Employment, 'National employment guidance']
     uuid: 459a8ae0-c533-4847-8c01-c7f8302eb63a
   -
     title: 'Gender reassignment discrimination: key points for the workplace'
     organisation: ACAS
     year: 2017
-    url: 'https://archive.acas.org.uk/media/4912/Gender-reassignment-discrimination-key-points-for-the-workplace/pdf/Gender_reassignment_discrimination_Nov.pdf'
+    url: 'https://www.acas.org.uk/gender-reassignment-discrimination'
     tags: [Employment, 'National employment guidance']
     uuid: e22ae592-f482-4990-a8fc-ff3c1c295099
   -
@@ -1916,10 +1916,10 @@ publications:
     tags: [Wales]
     uuid: 29fc3fda-a90c-4647-a8ae-80e355c2ea85
   -
-    title: 'Gender Identity and Gender Reassignment Policy for those in our Custody'
+    title: 'SPS Policy for the Management of Transgender People in Custody'
     organisation: 'Scottish Prison Service'
-    year: 2014
-    url: 'http://www.sps.gov.uk/nmsruntime/saveasdialog.aspx?fileName=SPSGenderIdentityandGenderReassignmentPolicy20142562_1392.pdf'
+    year: 2024
+    url: 'https://www.sps.gov.uk/sites/default/files/2024-02/Management%20of%20Transgender%20Prisoner%20Operational%20Guidance%202024.pdf'
     tags: [Prisons, Legal]
     uuid: 2745a528-a2c0-4f63-9eaa-e2b6936674ed
   -

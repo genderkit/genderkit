@@ -47,7 +47,7 @@ Alternatives to GnRH agonists include [cyproterone]({% link _articles/cyproteron
 While these options are cheaper, GnRH agonists are generally preferred by NHS clinicians, as GnRH agonists are considered to have an excellent side-effect profile with minimal side-effects compared to the other alternatives {% cite seal2017 -l 236 %}.
 
 {% capture specifics %}
-Funding for GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It is also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}. Under-16s attending the GIDS clinic in England will require a 'best interests' court judgement to receive this treatment {% cite specEngDec20Update %}.
+Funding for GnRH treatment is available to people with testes who have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) on the NHS. It was also used by the NHS to prevent puberty in under 18s, and sometimes in conjunction with testosterone treatment to stop menstruation (periods) {% cite ngicns-endocrine -l 5 %}, but initiation of this treatment on the NHS is now only carried out as part of medical studies.
 {% endcapture %}
 {% include hrt-funding specifics=specifics travel="yes" %}
 

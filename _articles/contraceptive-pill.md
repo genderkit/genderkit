@@ -34,7 +34,7 @@ The contraceptive pill is available for free at an NHS GP surgery, sexual health
 
 ### Where can I learn more?
 
-You can read more on the NHS website about [the progestogen-only pill](https://www.nhs.uk/conditions/contraception/the-pill-progestogen-only/) and [the combined contraceptive pill](https://www.nhs.uk/conditions/contraception-guide/pages/combined-contraceptive-pill.aspx).
+You can read more on the NHS website about [the progestogen-only pill](https://www.nhs.uk/contraception/methods-of-contraception/progestogen-only-pill/) and [the combined contraceptive pill](https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/).
 
 You can find more information specifically for transgender and non-binary people on [the FSRH website](https://www.fsrh.org/Common/Uploaded%20files/documents/contraceptive-choices-and-sexual-health-for-transgender-non-binary-people-oct-2017.pdf).
 

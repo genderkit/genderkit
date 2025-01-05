@@ -13,17 +13,17 @@
 - name: North East England
   colour: "#e5fff3"
   items:
-    - "[Arcus LGBT CIC](https://arcuslgbt.com/counselling-refferal-self-assessment/) (sliding scale)"
+    - "[Arcus LGBT CIC](https://arcuslgbt.com/) (sliding scale)"
     - "[Yorkshire MESMAC](https://www.mesmac.co.uk/our-services/bradford/counselling) (free)"
 - name: West Midlands
   colour: "#e5fcff"
   items:
-    - "[Birmingham LGBT](https://blgbt.org/counselling-and-psychotherapy/) (free)"
+    - "[Birmingham LGBT](https://blgbt.org/services/support-services/counselling/) (free)"
     - "[Wolverhampton LGBT](https://wolverhamptonlgbt.org/inclusive-counselling/) (free)"
 - name: East Midlands
   colour: "#e5ecff"
   items:
-    - "[Leicester LGBT Centre](https://www.leicesterlgbtcentre.org/counselling) (sliding scale)"
+    - "[Leicester LGBT Centre](https://www.leicestershirelgbtqcentre.org/lgbtq-counselling/) (sliding scale)"
     - "[LGBT+ Nottinghamshire](https://www.lgbtplusnotts.org.uk) (free, 11-25 only)"
 - name: London
   colour: "#eee5ff"
@@ -40,12 +40,10 @@
   colour: "#fde5ff"
   items:
     - "[Intercom Trust](https://www.intercomtrust.org.uk/) (low cost)"
-    - "[Mind Bristol](https://bristolmind.org.uk/counselling/lgbtqcounselling/) (sliding scale)"
 - name: South East England
   colour: "#ffe5f1"
   items:
     - "[Mind Out](https://www.mindout.org.uk/get-support/counselling/) (sliding scale)"
-    - "[Support U](https://www.supportu.org.uk/counselling/) (free)"
 - name: Wales
   colour: "#ffe9e5"
   items:

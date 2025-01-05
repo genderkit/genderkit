@@ -14,7 +14,7 @@ Silicone injections are different from modern [breast augmentation]({% link _art
 
 ### Are there other options?
 
-You may wish to consider lower risk alternative treatments such as liposuction.
+You may wish to consider lower risk alternative treatments such as [liposuction](https://www.nhs.uk/conditions/cosmetic-procedures/cosmetic-surgery/liposuction/).
 
 ### References
 

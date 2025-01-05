@@ -4,7 +4,7 @@ weighting: 3
 feature:
   image: contraceptive-implant.jpg
   caption: "Contraceptive implants in their packaging"
-  url: https://wellcomecollection.org/works/vxcg4g86
+  url: https://collection.sciencemuseumgroup.org.uk/objects/co96805/packet-of-norplant-contraceptive-implants-middlesex-england-1993
   creator: 'the Science Museum, London'
   source: 'The Welcome Collection'
 ---

@@ -27,7 +27,7 @@ safety:
     - 
       name: 'Learn about sleep apnoea symptoms'
       icon: 'circle_arrow'
-      detail: "Testosterone users are more likely to have sleep apnoea. Learn about the [symptoms to watch out for](https://www.nhs.uk/Conditions/Sleep-apnoea/Pages/Introduction.aspx), and if you sleep in a room with someone else, you may wish to tell them too."
+      detail: "Testosterone users are more likely to have sleep apnoea. Learn about the [symptoms to watch out for](https://www.nhs.uk/conditions/sleep-apnoea/), and if you sleep in a room with someone else, you may wish to tell them too."
     - 
       name: 'Use safe injection practices'
       icon: 'circle_arrow'
@@ -63,9 +63,9 @@ Testosterone causes a large number of physical changes to your body, including s
 
 However, many effects of testosterone, such as changes to your voice or body hair, are permanent or not easily reversed. You might want some of the effects of testosterone, but not all of them, which may mean testosterone is not the right option for you. You can talk to your gender clinician if you would like to further discuss the possible effects.
 
-Testosterone may cause acne. You can read more about acne and how to manage it on the [NHS website](https://www.nhs.uk/conditions/Acne/Pages/Introduction.aspx). 
+Testosterone may cause acne. You can read more about acne and how to manage it on the [NHS website](https://www.nhs.uk/conditions/acne/). 
 
-While taking testosterone, you will still need to have [cervical screening tests](https://www.nhs.uk/conditions/cervical-screening-test/pages/introduction.aspx) if you have a cervix.
+While taking testosterone, you will still need to have [cervical screening tests](https://www.nhs.uk/conditions/cervical-screening/) if you have a cervix.
 
 ### How do I get testosterone?
 

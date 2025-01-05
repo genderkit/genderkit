@@ -92,7 +92,7 @@ Some areas of the UK have clothes swaps or exchanges, where trans and nonbinary 
 
 You can also find bargains in charity shops, some of which now even offer online shopping, such as [Oxfam](https://onlineshop.oxfam.org.uk/). Other options include vintage and second-hand stores.
 
-If you have clothes you no longer need that are in good condition, you may be able to make money to buy new clothes by selling your existing ones online using sites like [Vinted](https://www.vinted.co.uk/), [Depop](https://www.depop.com/), or [Rebelle](https://www.rebelle.com).
+If you have clothes you no longer need that are in good condition, you may be able to make money to buy new clothes by selling your existing ones online using sites like [Vinted](https://www.vinted.co.uk/), [Depop](https://www.depop.com/gb/), or [Rebelle](https://www.rebelle.com).
 
 ### Where can I learn more?
 

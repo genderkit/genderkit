@@ -94,7 +94,7 @@ organisations:
         heading: Belfast
         nickname: Brackenburn
         name: 'Brackenburn Clinic Regional Gender Identity Service'
-        url: 'https://belfasttrust.hscni.net/service/regional-gender-identity-service/'
+        url: 'https://belfasttrust.hscni.net/service/brackenburn-clinic/'
         tags: [NHS, 'Gender Clinics', 'Northern Ireland']
         manualDescription: 'HSC gender service located in Belfast'
         image: hsc
@@ -123,7 +123,7 @@ organisations:
     -
         heading: Grampian
         name: 'Grampian Gender Identity Clinic'
-        url: 'https://www.ngicns.scot.nhs.uk/gender-identity-clinics/'
+        url: 'https://www.nn.nhs.scot/ngicns/public/gender-identity-clinics/'
         tags: [NHS, 'Gender Clinics', Scotland]
         manualDescription: 'NHS gender service located in Aberdeen'
         image: nhs-scotland
@@ -449,6 +449,7 @@ organisations:
         catchment: 'Very limited access: [more info](https://www.sussexpartnership.nhs.uk/our-services/specialist-services/sussex-gender-service)'
     -
         heading: 'London GIDS'
+        archived: true
         nickname: Tavistock
         name: 'Tavistock and Portman Gender Identity Development Service'
         url: 'https://gids.nhs.uk/'
@@ -685,7 +686,7 @@ organisations:
         referral-criteria: 'Allows self-referral'
     -
         name: 'National Gender Identity Clinical Network for Scotland'
-        url: 'http://www.ngicns.scot.nhs.uk'
+        url: 'https://www.nn.nhs.scot/ngicns'
         manualDescription: 'NHS Scotland network for Scottish gender clinics and online information hub'
         tags: [NHS, Scotland]
         image: nhs-scotland
@@ -1338,7 +1339,8 @@ organisations:
         archived: true
     -
         name: 'Non-Binary NI'
-        url: 'http://nbni.org.uk'
+        url: 'https://nonbinaryni.wordpress.com/'
+        archived: true
         twitter: nonbinaryni
         facebook: nonbinaryNI
         tags: ['Northern Ireland', Nonbinary, 'Local groups']
@@ -1386,6 +1388,7 @@ organisations:
         twitterIcon: 'https://pbs.twimg.com/profile_images/446938134215811072/bIuhpQg0_normal.png'
     -
         name: 'Beaumont Trust'
+        archived: true
         url: 'http://www.beaumont-trust.org.uk'
         twitter: Beaumont_Trust
         facebook: BeaumontTrust
@@ -1501,7 +1504,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/c33.0.50.50/p50x50/23630_324688566914_6257327_n.jpg?oh=ce762e3a783d96633b96709f9f96baf2&oe=5AD11B72'
     -
         name: 'The Sibyls'
-        url: 'http://sibyls.gndr.org.uk/'
+        url: 'https://sibyls.co.uk/'
         facebook: sibylsgroup
         tags: [National, Faith]
         lastFacebookPost: '2017-12-04T19:30:54+0000'
@@ -2544,6 +2547,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/10881504_1439201296378761_7630955867978066977_n.jpg?oh=5748ce42ad5f8c795c0a4b25a5901577&oe=5A88F62B'
     -
         name: 'Drag World UK'
+        archived: true
         url: 'http://dragworld.co.uk/'
         twitter: DragWorldUK
         twitterID: '794111635875053568'
@@ -2894,6 +2898,7 @@ organisations:
         tags: ['North West', Manchester, 'Local groups']
         url: 'http://www.manchesterconcord.org.uk/'
         facebook: 57286277400
+        archived: true
     -
         name: TransEDU
         tags: [National, Education]
@@ -2971,6 +2976,7 @@ organisations:
         archived: true
     -
         name: 'Non-binary London'
+        archived: true
         tags: [London, Nonbinary, 'Local groups']
         url: 'https://nonbinary.london/'
         facebook: nonbinarylondon
@@ -3495,6 +3501,7 @@ organisations:
     -
         name: 'Stonewall Was A Riot'
         url: 'https://www.stonewallwasariot.co.uk/'
+        archived: true
         linktree: stonewallwasariot
         twitter: WasARiot
         twitterID: '1472363680213970950'
@@ -3651,7 +3658,6 @@ organisations:
         manualDescription: 'A support group for people based in the South West of England who identify beyond binary gender'
     -
         name: TransBarnsley
-        url: 'https://www.barnsleyrecoverycollege.nhs.uk/transbarnsley/'
         instagram: transbarnsley
         twitter: TransBarnsley
         twitterID: '1527387726974111744'

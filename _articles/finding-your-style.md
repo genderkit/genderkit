@@ -48,7 +48,7 @@ Other people can also be a good source of clothes to try on. Do you have friends
 
 You can also get advice from a professional stylist. This is someone who can suggest clothes and ideas based on what you say you like. You can access them through:
 
-- *high-street retailers* like [Debenhams](https://www.debenhams.com/content/personal-shopper), [John Lewis](https://www.johnlewis.com/our-services/personal-styling), or [Topshop](https://www.topshop.com/en/tsuk/category/topshop-personal-shopping-4886705/home)
+- *high-street retailers* like [House of Fraser](https://www.houseoffraser.co.uk/personal-shopping), [John Lewis](https://www.johnlewis.com/our-services/personal-styling), or [Topshop](https://www.topshop.com/en/tsuk/category/topshop-personal-shopping-4886705/home)
 - *online fashion services* like [StitchFix](https://www.stitchfix.co.uk) or [Lookiero](https://lookiero.co.uk)
 - *independent agencies*, some of which specifically advertise services to trans clients, like [Born](https://born.uk.com/), [Rachel Watson](https://rachelwatson.net/), or [TRANS.style](https://www.trans.style)
 

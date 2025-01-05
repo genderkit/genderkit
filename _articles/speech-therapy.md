@@ -22,39 +22,4 @@ A minority of people are unable to reach their goals through speech and language
 
 ### How do I get speech therapy?
 
-Many UK gender services offer speech therapy after they have given a [diagnosis]({% link _articles/formal-diagnosis.md %}). 
-
-In some parts of the UK, it is also possible to access therapy without having been referred to a gender service or having been given a diagnosis by them. To do this, you will need to be seen by your local Speech and Language Therapy team. Depending on the area, you may need to ask your GP for a referral, though some services will allow people to self-refer.
-
-Speech therapy may be one-on-one, or in a group therapy setting.
-
-You can search for speech therapists from across the UK who have a speciality in helping transgender people on the [Association of Speech and Language Therapists in Independent Practice website](https://asltip.com/find-a-speech-therapist/member-directory/).
-
-Private speech and language therapists in the UK who advertise specific experience around gender on their websites include:
-
-- [Matthew Mills](https://gendercare.co.uk/matthew-mills.shtml) (London)
-- [Christella Antoni and others](http://www.christellaantoni.co.uk/) (London)
-- [Nicola Gorb](https://voicecommunicationclinic.com/) (London and Hertfordshire)
-- [Heidi de Quincey](http://www.heididequincey.co.uk/) (Hampshire)
-- [Celia Bacon](http://vox-humana.net/) (Hampshire and via Skype)
-- [Sue Addlestone](http://www.sueaddlestone.co.uk) (North West)
-- [Susannah Thomson](https://speech-freedom.co.uk/) (Bristol)
-- [Barbara Molteno](http://www.vocalisptp.co.uk) (Derbyshire)
-- [Kathryn Head](http://www.speech.org.uk/Speech_Therapy_Voice_Feminisation.html) (Wales)
-- [Nazlin Kurji-Smith](https://www.northerngendernetwork.co.uk/) (Newcastle)
-
-Some voice coaches also advertise specific experience around gender:
-
-- [Maggi Stratford](https://www.maggistratford.com/) (Leeds)
-- [Louise Milner-Smith](https://allaboutyourvoice.com/) (Surrey)
-- [Georgie Mason](https://www.gmvoice.co.uk) (Midlands)
-
-### How much will it cost?
-
-Speech and language therapy is often provided free of charge by UK gender identity clinics, with several clinics having their own in-house speech and language therapists. 
-
-{% include travel-costs %}
-
-The LGBT Foundation in Manchester also run [free introductory workshops](https://lgbt.foundation/who-we-help/trans-people/voice-coaching) for people who identify as trans.
-
-Private speech therapists can charge a variety of different rates, from as low as £50/hour up to over £150/hour. When searching for a speech therapist, you should check they are registered with [HCPC UK](https://www.hcpc-uk.org/) by checking on their website. Checking they are an HCPC member helps make sure that your therapist is properly trained.
+You can find more information about accessing speech therapy, both via the NHS and via private speech and language therapists, on [the TransActual website](https://transactual.org.uk/medical-transition/speech-therapy/).

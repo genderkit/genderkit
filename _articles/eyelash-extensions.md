@@ -5,7 +5,7 @@ weighting: 2
 
 ### What should I be aware of?
 
-Eyelash extensions may cause minor health side effects such as pain or itching {% cite amano2013national %}, and in some cases may irritate the eyes causing [blepharitis](https://www.nhs.uk/Conditions/Blepharitis/Pages/Introduction.aspx) or [conjunctivitis](https://www.nhs.uk/Conditions/Conjunctivitis-infective/Pages/Introduction.aspx) {% cite amano2012ocular %}. If you are experiencing side effects you may wish to contact your pharmacist or GP for advice as eye drops may help you.
+Eyelash extensions may cause minor health side effects such as pain or itching {% cite amano2013national %}, and in some cases may irritate the eyes causing [blepharitis](https://www.nhs.uk/conditions/blepharitis/) or [conjunctivitis](https://www.nhs.uk/conditions/conjunctivitis/) {% cite amano2012ocular %}. If you are experiencing side effects you may wish to contact your pharmacist or GP for advice as eye drops may help you.
 
 ### Are there other options?
 

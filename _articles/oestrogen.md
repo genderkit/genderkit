@@ -51,7 +51,7 @@ forms:
 
 {% include iconlist2 iconlist="aware-of" %}
 
-Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting like [deep vein thrombosis](https://www.nhs.uk/Conditions/deep-vein-thrombosis/Pages/Introduction.aspx)), prolactinoma, [gallstones](https://www.nhs.uk/conditions/Gallstones/Pages/Introduction.aspx), and liver problems. These risks can be reduced by regular blood testing, stopping smoking, and maintaining a healthy lifestyle {% cite seal2017 %}. While oestrogen does reduce production of sperm, it does not provide adequate contraception {% cite fsrh2017contraceptive %} and does not effectively prevent pregnancy.
+Taking oestrogen may increase the risk of thromboembolic disease (problems caused by blood clotting like [deep vein thrombosis](https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/)), prolactinoma, [gallstones](https://www.nhs.uk/conditions/gallstones/), and liver problems. These risks can be reduced by regular blood testing, stopping smoking, and maintaining a healthy lifestyle {% cite seal2017 %}. While oestrogen does reduce production of sperm, it does not provide adequate contraception {% cite fsrh2017contraceptive %} and does not effectively prevent pregnancy.
 
 ### Is oestrogen right for me?
 

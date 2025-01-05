@@ -17,7 +17,7 @@ To ensure you are receiving the safest possible treatment, you should follow [th
 
 ### Where can I learn more?
 
-You can find more information about rhinoplasty on the [NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/nose-job.aspx).
+You can find more information about rhinoplasty on the [NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/cosmetic-surgery/nose-reshaping-rhinoplasty/).
 
 ### References
 
