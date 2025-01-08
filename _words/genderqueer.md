@@ -3,12 +3,7 @@ title: Genderqueer
 groups: [Umbrella term]
 ---
 
-> "an umbrella term used to describe gender identities other than man and woman – for example, those who are both man and woman, or neither man nor woman, or moving between genders"
-> <figcaption>
->
-> --- [NHS](https://www.nhs.uk/conditions/Gender-dysphoria/Pages/Introduction.aspx)
->
-> </figcaption>
+An umbrella term used to describe gender identities other than man and woman.
 
 Terms with similar meanings are [nonbinary]({% link _words/nonbinary.md %}) and [enby]({% link _words/enby.md %}). 
 

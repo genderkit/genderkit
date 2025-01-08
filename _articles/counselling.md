@@ -14,9 +14,9 @@ You may be experiencing distress or problems with your mental health due to not 
 
 One in six people in the UK are experiencing a common mental health problem right now, and nearly half (43.4%) of all adults say they have experienced one {% cite apms2014 %}. It is particularly common for people who experience gender dysphoria to also have mental health conditions, with transgender health services reporting that up to 38% of people attending their service have at least one "psychiatric disorder" (mental illness) {% cite arcelus2017 -l 177 %}. 
 
-The most commonly found problems are [depression](https://www.nhs.uk/conditions/depression/Pages/Introduction.aspx) and [anxiety](https://www.nhs.uk/Conditions/Anxiety/Pages/Introduction.aspx) {% cite arcelus2017 -l 177 %}. This can range from mild depression or anxiety to major conditions with a severe effect on quality of life. Other studies of people with gender dysphoria have shown that people may also have problems with [social anxiety](https://www.nhs.uk/conditions/social-anxiety/Pages/Social-anxiety.aspx), [addiction](https://www.nhs.uk/Livewell/Addiction/Pages/addictionhome.aspx), and [eating disorders](https://www.nhs.uk/conditions/Eating-disorders/Pages/Introduction.aspx) {% cite sta2012 de2011psychiatric %}. Counselling is one of the most effective ways of dealing with problems like these.
+The most commonly found problems are [depression](https://www.nhs.uk/mental-health/conditions/depression/) and [anxiety](https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/) {% cite arcelus2017 -l 177 %}. This can range from mild depression or anxiety to major conditions with a severe effect on quality of life. Other studies of people with gender dysphoria have shown that people may also have problems with [social anxiety](https://www.nhs.uk/mental-health/conditions/social-anxiety/), [addiction](https://www.nhs.uk/live-well/addiction-support/addiction-what-is-it/ [eating disorders](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/) {% cite sta2012 de2011psychiatric %}. Counselling is one of the most effective ways of dealing with problems like these.
 
-A large number of people with gender dysphoria (perhaps up to 20%) also have an [autism spectrum condition](https://www.nhs.uk/conditions/autistic-spectrum-disorder/Pages/Introduction.aspx) {% cite van2016gender %}. If you are one of these people dealing with emotional problems on your own without help can be even more complex and difficult.
+A large number of people with gender dysphoria (perhaps up to 20%) also have an [autism spectrum condition](https://www.nhs.uk/conditions/autism/) {% cite van2016gender %}. If you are one of these people dealing with emotional problems on your own without help can be even more complex and difficult.
 
 ### How do I get counselling?
 
@@ -43,7 +43,7 @@ You might find that some of these approaches are more suited to you than others.
 
 ### Where can I learn more?
 
-You can read more about counselling on [the NHS website](https://www.nhs.uk/conditions/Counselling/Pages/Introduction.aspx).
+You can read more about counselling on [the NHS website](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/counselling/).
 
 ### How much will it cost?
 

@@ -31,4 +31,4 @@ Blocker medications such as [GNRH Agonists]({% link _articles/gnrh-agonists.md %
 
 <h3 id="where-can-i-learn-more">Where can I learn more?</h3>
 
-[This page from NHS Wales](https://111.wales.nhs.uk/encyclopaedia/p/article/puberty/) may be useful.
+[This page from NHS Wales](https://111.wales.nhs.uk/puberty/) may be useful.

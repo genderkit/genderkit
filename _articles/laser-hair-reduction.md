@@ -35,8 +35,6 @@ Another similar treatment is [IPL]({% link _articles/ipl.md %}).
 
 You can read more about facial hair removal methods in [this booklet produced by the NHS GDNRSS]({% link assets/pdf/PIL Facial Hair Reduction v5.pdf %}).
 
-There is also general information about laser hair removal on the [NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/laser-hair-removal.aspx).
-
 ### What kinds are there?
 
 The main types of laser used are ruby, alexandrite, diode, and Nd:YAG. Diode and alexandrite lasers are most effective for hair reduction, but only work effectively on pale skin. For people with darker coloured skin, Nd:YAG is more effective {% cite sadighha2009meta lapidoth2010best %}. Your laser technician should be able to discuss with you the type of laser they have available and whether it will be suitable for you.

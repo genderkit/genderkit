@@ -13,13 +13,13 @@ You can find general information about moving to the UK on [the UK Government Vi
 If you are intending to claim asylum in the UK, you can find support from:
 
 - [Rainbow Migration](https://www.rainbowmigration.org.uk/) provide support and legal advice including [video guides in many languages](https://www.youtube.com/c/RainbowMigration/playlists)
-- [Say It Loud Club](https://www.sayitloudclub.org/) provide mentoring and social events
+- [Say It Loud Club](https://www.instagram.com/sayitloudclub) provide mentoring and social events
 - [Micro Rainbow](https://microrainbow.org/) provide support for housing LGBTI asylum seekers and refugees, and have a [helpline and email address](https://microrainbow.org/contact-us/) you can contact
 - [Persian LGBT](https://www.persianlgbt.org/) provide support for Persian speaking LGBT refugees and asylum seekers
 - [African Rainbow Family](https://africanrainbowfamily.org/) provide support for LGBTQI people of African and BAME heritage
 - [Rainbow Home](https://rainbowhome.org.uk/) support LGBT asylum seekers in North East England
 - [LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/newscots/) provide support to LGBT asylum seekers in Scotland
-- [LGBT Unity](https://www.lgbtunity.org/) support LGBT asylum seekers in Glasgow
+- [LGBT Unity](https://www.facebook.com/UnityLgbtGroup/) support LGBT asylum seekers in Glasgow
 - [The Rainbow Project](https://www.rainbow-project.org) provide support and signposting to asylum seekers in Northern Ireland
 
 You can find additional information for LGBT asylum seekers:
@@ -42,11 +42,11 @@ The information in this section is not a substitute for formal immigration advic
 
 Bear in mind that the waiting lists for NHS gender services are currently very long and you may need to wait several years before you get your first appointment. An quicker approach is to use one of the private gender services, but these will charge you money.
 
-There is information about moving to England from the EEA or Switzerland on [the NHS website](https://www.nhs.uk/nhsengland/aboutnhsservices/uk-visitors/moving-to-england/pages/moving-to-england-from-the-eea.aspx).
+There is information about moving to England from the EEA or Switzerland on [the NHS website](https://www.nhs.uk/nhs-services/visiting-or-moving-to-england/moving-to-england-from-eu-countries-or-norway-iceland-liectenstein-or-switzerland/).
 
 *People from outside the EU and EEA* can apply for access to the NHS as part of their immigration application. This costs you specific amount of money each year (around £400-600 as of January 2023) which will pay for you to be able to access the health services in the UK - including gender services - without paying any more money. There is information on [the UK Government website](https://www.gov.uk/healthcare-immigration-application) on applying for this during the visa process.
 
-You can read more about moving to England from outside the EEA on [the NHS website](https://www.nhs.uk/NHSEngland/AboutNHSservices/uk-visitors/moving-to-england/Pages/moving-from-outside-the-eea.aspx).
+You can read more about moving to England from outside the EEA on [the NHS website](https://www.nhs.uk/nhs-services/visiting-or-moving-to-england/moving-to-england-from-outside-the-european-economic-area-eea/).
 
 *Refugees and asylum seekers* can access NHS services - including gender services - for free. There is more information about this on [the UK Government website](https://www.gov.uk/guidance/nhs-entitlements-migrant-health-guide).
 

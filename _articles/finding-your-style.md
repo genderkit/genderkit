@@ -76,7 +76,7 @@ It can be much easier to try out a new style in a place where you feel safe from
 
 - *At local trans groups*
 
-  Local groups for trans people may have an accepting environment or even provide changing rooms for you to change into different clothing when you arrive. You can find trans groups near to you on our page of [local organisations]({% link _resources/local.md %}), [TranzWiki](https://www.tranzwiki.net/), or [TransUnite](https://www.transunite.co.uk/).
+  Local groups for trans people may have an accepting environment or even provide changing rooms for you to change into different clothing when you arrive. Read our pages about attending [social groups]({% link _articles/social-groups.md %}) or [support groups]({% link _articles/support-groups.md %}) for more details about finding local community.
 
 ### More ideas
 

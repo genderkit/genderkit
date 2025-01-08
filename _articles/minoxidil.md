@@ -22,7 +22,7 @@ A commonly used alternative to minoxidil for hair loss is [finasteride]({% link 
 
 ### Where can I learn more?
 
-You can read more about hair loss treatments at the [NHS website](https://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+You can read more about hair loss treatments at the [NHS website](https://www.nhs.uk/conditions/keloid-scars/).
 
 ### How much will it cost?
 

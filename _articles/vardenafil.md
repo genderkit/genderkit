@@ -19,7 +19,7 @@ There is good medical evidence that all three treatments are safe {% cite porst2
 
 ### Where can I learn more?
 
-You can read more about erectile dysfunction treatments on the [NHS website](https://www.nhs.uk/Conditions/Erectile-dysfunction/Pages/Treatment.aspx).
+You can read more about erectile dysfunction treatments on the [NHS website](https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/).
 
 ### References
 

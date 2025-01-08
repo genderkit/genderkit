@@ -50,6 +50,8 @@ The time required for a piercing to heal will vary depending on the location of 
 
 While your piercing is healing, keep the area clean and dry, and make sure your hands are clean before you touch the area. It is not normally necessary to rotate or remove a piece of jewellery - try and handle it as little as possible, and touch the jewellery instead of the skin if you can {% cite cieh2013 -l 28 %}.
 
+### Where can I learn more?
+
 Public Health England and the Chartered Institute of Environmental Health have published advice on how to care for your piercing:
 
 - [ear and face piercing](https://www.cieh.org/media/1974/tattoo-toolkit_part-c_02-ear-and-face-piercing-aftercare.pdf)
@@ -58,10 +60,6 @@ Public Health England and the Chartered Institute of Environmental Health have p
 - [vulva piercings](https://www.cieh.org/media/1977/tattoo-toolkit_part-c_05-genital-piercing-female-aftercare.pdf)
 - [penis and scrotum piercings](https://www.cieh.org/media/1978/tattoo-toolkit_part-c_06-genital-piercing-male-aftercare.pdf)
 - [microdermal implants](https://www.cieh.org/media/1979/tattoo-toolkit_part-c_07-microdermal-implants-aftercare.pdf)
-
-### Where can I learn more?
-
-You can find out more about piercing on [the NHS website](https://www.nhs.uk/Conditions/Body-piercing/Pages/Introduction.aspx).
 
 ### References
 

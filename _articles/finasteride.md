@@ -42,7 +42,7 @@ Finasteride costs around £5-£10 per week depending on your dosage level.
 
 ### Where can I learn more?
 
-You can read more about hair loss treatments on [the NHS website](https://www.nhs.uk/Conditions/Hair-loss/Pages/Treatment.aspx).
+You can read more about hair loss treatments on [the NHS website](https://www.nhs.uk/conditions/hair-loss/).
 
 ### References
 

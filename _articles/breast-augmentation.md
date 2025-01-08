@@ -39,7 +39,7 @@ There a number of ways of performing breast augmentation using implants, with di
 - *implant shells*: smooth or textured surface 
 - *implant shape*: round or anatomical (teardrop) 
 
-There is detailed information on [the NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx) which can help you understand these choices.
+There is detailed information on [the NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/cosmetic-surgery/breast-enlargement/) which can help you understand these choices.
 
 ### How do I get ready for surgery?
 
@@ -53,12 +53,12 @@ In the event that you believe an exception to the funding rules should be made i
 
 - *England:* [Interim Commissioning Policy: Individual funding requests](https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2016/08/cp-03.pdf)
 - *Scotland:* [Adult Exceptional Aesthetic Referral Protocol](https://www.publications.scot.nhs.uk/files/cmo-2019-05.pdf)
-- *Wales:* [Patient guide to Individual Patient Funding Requests (IPFR)](https://whssc.nhs.wales/about-us/what-we-do/what-we-do-document/3-aw-ipfr-patient-leaflet-november-2019/)
+- *Wales:* [Patient guide to Individual Patient Funding Requests (IPFR)](https://whssc.nhs.wales/about-us/what-we-do/what-we-do-document/3-aw-ipfr-patient-leaflet-november-2019/?filetype=pdf)
 - *Northern Ireland:* [Individual Funding Requests](https://online.hscni.net/our-work/ifrs/) 
 
 ### Where can I learn more?
 
-You can read more about breast augmentation on [the NHS website](https://www.nhs.uk/Conditions/cosmetic-treatments-guide/Pages/breast-enlargement.aspx).
+You can read more about breast augmentation on [the NHS website](https://www.nhs.uk/conditions/cosmetic-procedures/cosmetic-surgery/breast-enlargement/).
 
 ### References
 

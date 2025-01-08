@@ -8,7 +8,7 @@ A phrase you might find often comes up in requirements is that other medical con
 
 > If significant medical or mental health concerns are present, they must be reasonably well controlled
 
-This wording appears in the WPATH Standards of Care {% cite wpath7 %}, the NHS England Service Specifications {% cite specEngNonsurgical specEngSurgical %}, the NHS Wales Service Specification {% cite specWalesNonsurgical %}, and the NHS Scotland gender reassignment protocol and its explanatory notes {% cite ngicnsProtocol ngicnsExplanatoryNotes %}.
+This wording appears in the WPATH Standards of Care version 7 {% cite wpath7 %}, the NHS England Service Specifications {% cite specEngNonsurgical specEngSurgical %}, the NHS Wales Service Specification {% cite specWalesNonsurgical %}, and the NHS Scotland gender reassignment protocol and its explanatory notes {% cite ngicnsProtocol ngicnsExplanatoryNotes %}.
 
 ### What does this mean?
 
@@ -19,7 +19,7 @@ The information given in this section is based on our best understanding of curr
 
 The phrase "reasonably well-controlled" does not have a set meaning in medicine, and the meaning is not clearly set out in any of the NHS documents that use it.
 
-However, these documents are largely quoting the WPATH Standards of Care {% cite wpath7 %}, which does provide some more clarity.
+However, these documents are largely quoting the WPATH Standards of Care v7 {% cite wpath7 %}, which does provide some more clarity.
 
 - *For hormone treatment*
 

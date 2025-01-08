@@ -10,7 +10,7 @@ feature:
 
 You may consider exercise to improve physical fitness but also to improve mental health and fitness. You may also be interested in changing body shape by developing muscle.
 
-It is now widely recognised that there is good evidence that regular exercise has beneficial effects on mental health {% cite stathopoulou2006exercise %}. (You can [read more about this from the NHS](https://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/mental-benefits-of-exercise.aspx)).
+It is now widely recognised that there is good evidence that regular exercise has beneficial effects on mental health {% cite stathopoulou2006exercise %}. (You can [read more about this from the NHS](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/be-active-for-your-mental-health/)).
 
 ### How much should I exercise?
 
@@ -64,9 +64,7 @@ There is also advice for sports and fitness clubs and venues about how to suppor
 
 ### Where can I learn more?
 
-You can read more about the benefits of regular exercise and get advice on what you can do next on [the NHS website](https://www.nhs.uk/livewell/fitness/Pages/Fitnesshome.aspx).
-
-There is also specific information for people with disabilities on [the NHS website](https://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx).
+You can read more about the benefits of regular exercise and get advice on what you can do next on [the NHS website](https://www.nhs.uk/live-well/exercise/). This includes specific information for people with disabilities and long term health conditions.
 
 ### References
 

@@ -31,4 +31,7 @@ A more permanent alternative to contact lenses for some people is [laser eye sur
 
 ### Where can I learn more?
 
-You can read more about how to use contact lenses safely at [the NHS website](https://www.nhs.uk/Livewell/Eyehealth/Pages/Contactlenssafety.aspx).
+You can read more about how to use contact lenses safely:
+
+- on [the Moorfields Eye Hospital website](https://www.moorfields.nhs.uk/private/about-moorfields-private/blog-articles/five-golden-rules-for-safe-contact-lens-use)
+- on [the College of Ophthalmologists website](https://www.college-optometrists.org/news/2020/august/2020-08-howto_contactlenses)

@@ -14,7 +14,7 @@ You may be required to grow your hair to a minimum length before the extensions 
 Some hair salons advertise services specifically for transgender clients that include hair extensions:
 
 - [Hair InXs](https://www.hairinxs.com/transgender.html) (Berkshire)
-- [Optima Hair Specialists](https://www.optimahair.co.uk/hair-loss-services/women/transgender/) (Birmingham)
+- [Optima Hair Specialists](https://www.optimahair.co.uk/our-treatments/hair-systems-for-trans/) (Birmingham)
 
 Some specialist hair extension salons also have statements on their websites that indicate they are happy to work with transgender clients, such as:
 

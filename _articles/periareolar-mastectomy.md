@@ -11,7 +11,7 @@ feature:
 
 ### What should I be aware of?
 
-Complications of mastectomy can include too much or too little tissue removed, "dog ears" (pouches of skin), and hypertrophic or [keloid scars](https://www.nhs.uk/Livewell/skin/Pages/Keloidscarring.aspx) {% cite yelland2017 -l 262 %}.
+Complications of mastectomy can include too much or too little tissue removed, "dog ears" (pouches of skin), and hypertrophic or [keloid scars](https://www.nhs.uk/conditions/keloid-scars/) {% cite yelland2017 -l 262 %}.
 
 {% capture info %}
 Chest reconstruction surgeries on under 18s who have been on testosterone appear to have similar complications to those in young adults {% cite mahfouda2019 %}, but the research on this is limited.

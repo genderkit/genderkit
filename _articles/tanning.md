@@ -19,7 +19,7 @@ Some people incorrectly think that having a tan is useful protection against sun
 
 Common risks of overexposure to sunlight are skin cancer, cataracts, and premature wrinkling and ageing.
 
-This does not mean that people should avoid all sunlight - which is important for vitamin D levels and emotional well-being. However, people should pay careful attention to the advice given on how to reduce the risks. More guidance and information is available [on the NHS website](https://www.nhs.uk/Livewell/skin/Pages/Sunsafe.aspx).
+This does not mean that people should avoid all sunlight - which is important for vitamin D levels and emotional well-being. However, people should pay careful attention to the advice given on how to reduce the risks. More guidance and information is available [on the NHS website](https://www.nhs.uk/Live-well/seasonal-health/sunscreen-and-sun-safety/).
 
 ### Are there other options?
 

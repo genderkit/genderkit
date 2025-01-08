@@ -8,14 +8,6 @@ description: UK-specific information about supporting trans, nonbinary, and gend
 
 There is information from the UK government on what you must do if an employee changes gender available on [the GOV.UK website](https://www.gov.uk/employee-changes-gender).
 
-### Useful PDFs
-
-{% include publications-grouped tag="National employment guidance" %}
-
-### Books
-
-{% include books tag="Employment" thumbnails="true" %}
-
 ### Further reading
 
 At genderarchive.org.uk, you can find detailed lists of employment guidance:

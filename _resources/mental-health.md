@@ -39,9 +39,8 @@ Thankfully, you can find information about what to do online on the NHS website:
 - [How to help someone with depression](https://www.nhs.uk/conditions/stress-anxiety-depression/signs-someone-is-depressed/)
 - [Supporting someone with an eating disorder](https://www.nhs.uk/live-well/healthy-weight/supporting-someone-with-an-eating-disorder/)
 
-If the person you're supporting would rather not have formal medical help for their problems, you might find one of the following resources useful:
+If the person you're supporting would rather not have formal medical help for their problems, you might find the following resource useful:
 
-- [Mental health intervention protocol](https://wiki.queercare.network/Mental_Health_Intervention_Protocol) by QueerCare (If this link fails, try the [Internet Archive](https://web.archive.org/web/20201115170136/https://wiki.queercare.network/Mental_Health_Intervention_Protocol))
 - [What to do if a friend goes mad](https://asylummagazine.org/2019/03/what-to-do-if-a-friend-goes-mad-by-donnard-white/?fbclid=IwAR1OH7o6Q07h7ekQ1BRz4dBmnYi-_ex3DePsjvsF5O6mKdMSfxQwUmiGqRU) by Donnard White
 
 It's generally unhelpful to impose help on somebody who doesn't want it, or to try to help them in ways they don't want. Talk with the person you're worried about and act with their consent as much as possible.
