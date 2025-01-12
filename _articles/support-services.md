@@ -22,7 +22,7 @@ In the UK, there are several specialist services available to provide you with i
 
 There is local support available:
 
-- in the *Brighton and Hove* area from [Switchboard Trans and Non-binary Link](https://www.switchboard.org.uk/what-we-do/trans-and-non-binary-link/)
+- in the *Brighton and Hove* area from [Switchboard Trans and Non-binary Social Prescribing Service](https://www.switchboard.org.uk/what-we-do/tnbi-social-prescribing-service/)
 - in the *London* area from the [Spectra London Trans Peer Mentoring Programme](https://spectra-london.org.uk/trans-gender-services/trans-peer-mentoring/)
 - in the *Liverpool* area from the [Mersey Care Trans Support Service](https://www.merseycare.nhs.uk/our-services/liverpool/trans-support-service)
 - in *Scotland* from the [Transgender Support Service at LGBT Health and Wellbeing](https://www.lgbthealth.org.uk/services-support/trans/individual-support/)

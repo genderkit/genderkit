@@ -8,7 +8,7 @@ feature:
 
 ### What should I be aware of?
 
-Minoxidil is not suitable for people who are sunburned or who have psoriasis or hypertension, as well as people taking certain medications. You should check with your doctor or pharmacist about whether Minoxidil is suitable for you {% cite minoxidil %}.
+You should check with your doctor or pharmacist about whether Minoxidil is suitable for you, as Minoxidil is not suitable for people who have particular medical conditions or who take certain medications. {% cite minoxidil %}.
 
 ### Why might I want minoxidil?
 
@@ -22,7 +22,7 @@ A commonly used alternative to minoxidil for hair loss is [finasteride]({% link 
 
 ### Where can I learn more?
 
-You can read more about hair loss treatments at the [NHS website](https://www.nhs.uk/conditions/keloid-scars/).
+You can read more about hair loss treatments at the [NHS website](https://www.nhs.uk/conditions/hair-loss/).
 
 ### How much will it cost?
 

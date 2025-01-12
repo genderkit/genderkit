@@ -107,9 +107,9 @@ organisations:
         nhs-funding: true
         catchment: 'Northern Ireland residents only'
     -
-        heading: YourGP
-        name: YourGP
-        url: 'https://your-gp.com/gender-clinic/gender-dysphoria-consultation/'
+        heading: Waterside
+        name: Waterside Clinic
+        url: 'https://waterside.clinic'
         tags: ['Private healthcare', 'Gender Clinics', Scotland]
         manualDescription: 'Private gender service located in Edinburgh'
         image: your-gp
