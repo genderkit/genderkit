@@ -81,7 +81,7 @@ Testosterone is commonly available as depot injections or as gels applied to the
 
 ### What else might I want?
 
-In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({% link _articles/gnrh-agonists.md %}) {% cite ngicns-endocrine -l 5 %} or [progesterone]({% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this in addition to testosterone.
+In a small proportion of people menstruation (periods) is not stopped by testosterone therapy, and either [GnRH agonists]({% link _articles/gnrh-agonists.md %}) {% cite awmsg-endocrine2022 -l 20 %} or [progesterone]({% link _articles/progesterone.md %}) {% cite seal:2007 %} can be used to do this in addition to testosterone.
 
 In the UK, some clinicians have in the past recommended that people taking testosterone long-term should have a [hysterectomy]({% link _articles/hysterectomy.md %}). They theorised that as testosterone suppresses menstruation (periods), which could lead to endometrial hyperplasia (thickening of the lining of the womb), this might increase the risk of cancer {% cite seal2017 -l 240 %}. However, subsequent studies have not shown any evidence of an increased risk of reproductive cancers from testosterone use, and they do not suggest any need for hysterectomy {% cite toze2018risky %}. Hysterectomy for people taking testosterone is optional and you may feel the risks involved in a major operation are unnecessary. If you decide not to undergo hysterectomy it has been suggested that scans to check for thickening of the endometrium every two years could reduce any potential risks {% cite seal2017 -l 240 %}.
 

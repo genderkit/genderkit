@@ -543,8 +543,8 @@ organisations:
         update-date: '2023-10-11'
         catchment: 'Highland GP only'
     -
-        name: 'Liverpool Community Health Trans Support Service'
-        url: 'https://www.merseycare.nhs.uk/our-services/liverpool/sexual-health/trans-support-service-tss'
+        name: 'Mersey Trans Support Service'
+        url: 'https://www.merseycare.nhs.uk/our-services/sefton/trans-support-service-tss'
         tags: [NHS, National]
         manualDescription: 'A service which has been set up to support local transsexual, transgender, and gender non-conforming people by listening to them, informing them of available options to relieve their gender distress and empowering them to move forward with their lives.'
         image: nhs
@@ -2693,7 +2693,7 @@ organisations:
         facebookIcon: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/15032288_604099266445130_194900867751464681_n.png?oh=99ba66c6a2037ef78271e370f490c767&oe=5AD75943'
     -
         name: TranzWiki
-        url: 'https://www.tranzwiki.net/'
+        url: 'https://www.gires.org.uk/tranzwiki/'
         tags: [National]
         manualDescription: 'Directory of the groups campaigning for, supporting or assisting trans and gender non-conforming individuals, including those who are non-binary and non-gender, as well as their families across the UK.'
         image: gires
