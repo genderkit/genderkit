@@ -17,11 +17,13 @@ If you are currently married or in a civil partnership, obtaining a GRC may annu
 
 The process of obtaining a *Gender Recognition Certificate* (GRC) allows you to change the gender listed on your birth certificate to either "female" or "male", provided you meet the requirements of the Gender Recognition Panel (GRP).
 
-This has three main effects:
+The main effects of doing this are:
 
 - it changes which marriage laws apply to you (e.g. whether you would be able to apply for a civil partnership), and may cause you to need to obtain a new marriage or civil partnership certificate
-- it may change whether you would be housed in a women's prison or a men's prison
-- it may affect your rights around pensions, particularly if you were born before 6th December 1953. 
+- it changes whether you would initially be housed in a women's prison or a men's prison {% cite moj2024Care %}
+- it may affect your rights around pensions, particularly if you were born before 6th December 1953
+- it allows you to update your gender marker with HMRC and credit reference agencies
+- it provides you with some additional legal protections to privacy, though the situations in which these apply are limited
 
 You *do not* need a GRC to have your death certificate registered under the correct gender or to have a funeral in which your gender is respected {% cite kermode2021older -l 128 %}. There is detailed information about this in posts on [the Trans Safety Network website](https://transsafety.network/posts/you-dont-need-a-grc-death-cert/) which has been subsequently [confirmed by a coroner](https://transsafety.network/posts/coroner-confirms-grc-death-cert/). If the gender of someone has been recorded incorrectly on their death certificate, you can [apply to have this corrected](https://www.gov.uk/correcting-a-death-registration).
 
