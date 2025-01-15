@@ -14,7 +14,8 @@ feature:
 You can find good advice on about coming out on these pages:
 
 - [The Trans Non-binary and Questioning Coming Out Guide for Young People](https://lgbtyouth.org.uk/trans-and-non-binary-coming-out-guide/)
-- [Coming Out on the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/477499-How-do-I-come-out-to-other-people??catid=1&subid=12)
+- [Coming Out on the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/477499-How-do-I-come-out-to-other-people??catid=1&subid=12&coroner=false)
+- [Coming Out on the Brook website](https://www.brook.org.uk/your-life/coming-out/)
 - [Coming Out on the Childline website](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/coming-out/)
 - [Coming Out Guidance for Young People from Cara-Friend](https://cara-friend.org.uk/wp-content/uploads/2021/09/Cara-Friend-Coming-Out-Guide.pdf)
 
