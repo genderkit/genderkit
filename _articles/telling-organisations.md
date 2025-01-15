@@ -16,6 +16,8 @@ We've created a checklist of places you might want to notify of a change of name
 
 {% include checklist checklist=telling-organisations %}
 
+You might also want to make sure that emergency contact details are updated if you've been listed as an emergency contact by your child, partner, family member, or friend.
+
 ### What do I do if something goes wrong?
 
 Sometimes organisations will tell you that they are unable to update your name or title.
