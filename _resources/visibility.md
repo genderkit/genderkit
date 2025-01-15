@@ -11,7 +11,7 @@ description: Information about being visible as a trans, non-binary, or gender n
 You can find good advice on about coming out on these pages:
 
 - [The Trans Non-binary and Questioning Coming Out Guide for Young People](https://lgbtyouth.org.uk/trans-and-non-binary-coming-out-guide/)
-- [Coming Out on the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/477499-How-do-I-come-out-to-other-people??catid=1&subid=12)
+- [Coming Out on the Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/477499-How-do-I-come-out-to-other-people??catid=1&subid=12&coroner=false)
 - [Coming Out on the Childline website](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/coming-out/)
 - [Coming Out Guidance for Young People from Cara-Friend](https://cara-friend.org.uk/wp-content/uploads/2021/09/Cara-Friend-Coming-Out-Guide.pdf)
 
@@ -19,11 +19,7 @@ You do not have to come out to anyone else, and if you do choose to, you can cho
 
 ### Pride events
 
-Attending a pride event can be a huge boost to your confidence and make you feel more confident about coming out. The following groups have run or are planning to run trans-specific pride events in the UK:
-
-{% include organisations tag="Pride events" %}
-
-Many LGBT+ pride events can be extremely diverse and accepting too. Why not try searching for an LGBT+ Pride event in your area?
+Attending a pride event can be a huge boost to your confidence and make you feel more confident about coming out. You can find more information about attending pride events on [the Going to Pride page]({% link _articles/going-to-pride.md %}).
 
 ### Finding words to describe yourself
 

@@ -14,10 +14,6 @@ The following UK organisations support LGBT people - including people of differe
 
 {% include organisations tag="LGBT Faith" %}
 
-### Books about faith and gender
-
-{% include books tag="Faith" thumbnails="true" %}
-
 ### Further reading
 
 You can find many more useful documents and books relating to gender on [the genderarchive.org.uk website](https://genderarchive.org.uk/tag/faith/).
