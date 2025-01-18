@@ -27,7 +27,7 @@ These sites list social and support groups you could consider visiting:
 - London: [The Trans Dimension](https://transdimension.uk/)
 - Manchester: [The Trans Dimension](https://transdimension.uk/)
 - Scotland: [LGBT Health and Wellbeing What's On Calendar](https://www.lgbthealth.org.uk/whats-on/)
-- Wales: [Umbrella Cymru Social Groups page](https://umbrellagwent.od2.vtiger.com/kb/category/3-Social)
+- Wales: [Umbrella Cymru Social Groups page](https://umbrellagwent.od2.vtiger.com/kb/category/3-Social?coroner=false)
 
 You can find a directory of groups in other parts of the country on [the GIRES website](https://www.gires.org.uk/tranzwiki/).
 

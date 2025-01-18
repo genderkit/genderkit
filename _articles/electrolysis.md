@@ -38,7 +38,7 @@ If you have a [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and h
 
 - *NHS England*: electrolysis sessions up to the value of 8 sessions of laser hair removal{% cite specEngNonsurgical -l 17 %}
 - *NHS Scotland*: at least 250 hours of treatment {% cite ngicns2022facial -l 9 %}
-- *NHS Wales*: facial hair removal is not currently funded by NHS Wales {% cite specWalesNonsurgical -l 40 %}
+- *NHS Wales*: facial hair removal is not currently funded by NHS Wales {% cite specWales2024Nonsurgical -l 13 %}
 
 The NHS will normally fund genital hair removal before [vaginoplasty]({% link _articles/vaginoplasty.md %}) surgery or hair removal for donor skin sites for [phalloplasty]({% link _articles/phalloplasty.md %}) or [metoidioplasty]({% link _articles/metoidioplasty.md %}) surgery if urethroplasty is to be performed.
 

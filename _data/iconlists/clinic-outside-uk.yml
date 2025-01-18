@@ -6,7 +6,7 @@ items:
     name: 'Quicker access to treatment'
     icon: 'circle_plus'
   - 
-    name: 'Clinicians may not be [GMC-registered](https://www.gmc-uk.org/registration-and-licensing/the-medical-register)'
+    name: 'Clinicians may not be [GMC-registered](https://www.gmc-uk.org/registration-and-licensing/our-registers)'
     icon: 'circle_minus'
   - 
     name: 'Pharmacists may not accept prescriptions'

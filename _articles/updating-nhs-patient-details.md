@@ -31,7 +31,7 @@ You can change your name, title, or gender with the NHS at any time you like by 
 Most GP surgeries will be able to update your details if you ask at reception. However, some GP surgeries may be unsure of the procedure for how to do it. You may find it helpful to give them these links which explain how they can update your details:
 
 - in *England*, on [the PCSE website](https://pcse.england.nhs.uk/help/patient-registrations/adoption-and-gender-reassignment-processes). If the GP surgery has further queries, they can contact the PCSE using [this page](https://pcse.england.nhs.uk/contact-us/patient-registrations-enquiry-categories/adoptions-and-gender-reassignment).
-- in *Wales*, on the [Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/640439-Changing-Personal-Details-at-the-GP?catid=1&subid=4)
+- in *Wales*, on the [Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/640439-Changing-Personal-Details-at-the-GP?catid=1&subid=4&coroner=false)
 - in *Scotland*, on the [NHS National Services Scotland website](https://www.nss.nhs.scot/medical-services/patient-registration-and-medical-records/how-to-change-patient-details/) (you can find further information about your rights in [this Freedom of Information disclosure](https://www.nss.nhs.scot/publications/foi-000084-requirements-for-processing-a-change-of-gender-and-title/foi-000084-requirements-for-processing-a-change-of-gender-and-title-html/) and in [this document for staff in Greater Glasgow and Clyde](https://www.nhsggc.org.uk/media/255885/nhsggc_equalities__changing_your_chi.pdf))
 
 If your GP surgery is still unhappy to do this, or request a Gender Recognition Certificate before making a change, you may wish to show your GP [the General Medical Council guidance on this issue](https://www.gmc-uk.org/professional-standards/ethical-hub/trans-healthcare#Confidentiality-and-equality).
@@ -47,7 +47,7 @@ Each NHS system is different and able to hold different information about [title
 In most NHS systems there are gender options for not only male and female, but often also a "not specified" marker which may be useful if you do not wish to have male or female recorded. 
 
 Usually, when you change your gender marker you will be assigned a new [NHS number](
-https://www.nhs.uk/NHSEngland/thenhs/records/nhs-number/Pages/what-is-the-nhs-number.aspx) in England and Wales, or assigned a new [CHI number](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community) in Scotland.
+https://www.nhs.uk/using-the-nhs/about-the-nhs/what-is-an-nhs-number/) in England and Wales, or assigned a new [CHI number](https://www.nhsinform.scot/healthy-living/screening/screening-information-for-the-transgender-community) in Scotland.
 
 ### What should I be aware of?
 

@@ -42,7 +42,7 @@ The NHS gender pathway does not normally fund orchidectomy surgery. However, you
 
 ### Where can I learn more?
 
-You can also read more about orchidectomy in [this booklet from Parkside Hospital](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/orchidectomy-2021-pdf/) who are a UK provider of orchidectomy surgery.
+You can also read more about orchidectomy in [this booklet from Parkside Hospital](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/orchidectomy-2021-pdf/?content-type=application/pdf) who are a UK provider of orchidectomy surgery.
 
 ### How do I get ready for surgery?
 

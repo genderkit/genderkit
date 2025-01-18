@@ -39,7 +39,7 @@ Unlike double incision mastectomy, periareolar mastectomy results in significant
 
 ### Where can I learn more?
 
-You can read more about chest surgeries in [this booklet from the NHS Gender Dysphoria National Referral Support Service](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v6-top-surgery-leaflet-002-pdf/).
+You can read more about chest surgeries in [this booklet from the NHS Gender Dysphoria National Referral Support Service](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/v6-top-surgery-leaflet-002-pdf/?content-type=application/pdf).
 
 You can also read more about mastectomy on the [NHS website](https://www.nhs.uk/conditions/mastectomy/).
 

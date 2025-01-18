@@ -43,9 +43,9 @@ You can read more about vaginoplasty surgeries in these booklets from the NHS Ge
 
 You can also read more about vaginoplasty in these booklets from Parkside Hospital who are a UK provider of vaginoplasty surgeries:
 
-- [vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/vaginoplasty-2021-pdf/)
-- [cosmetic vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/labioplasty-2021-pdf/)
-- [sigmoid vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/intestinal-vaginoplasty-pdf/)
+- [vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/vaginoplasty-2021-pdf/?content-type=application/pdf)
+- [cosmetic vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/labioplasty-2021-pdf/?content-type=application/pdf)
+- [sigmoid vaginoplasty](https://cavuhb.nhs.wales/files/specialised-medicine/welsh-gender-service/intestinal-vaginoplasty-pdf/?content-type=application/pdf)
 
 ### How do I get ready for surgery?
 
