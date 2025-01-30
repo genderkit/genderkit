@@ -93,3 +93,15 @@ The prospect of getting blood tests done might be particularly difficult if you 
 * Guys and St. Thomas' NHS Foundation Trust have produced a [short guide](https://www.leicspart.nhs.uk/wp-content/uploads/2021/08/overcoming-your-fear-of-needlesv1.pdf) on how to deal with a fear of needles.
 * *EMLA cream* or a similar local anaesthetic may be useful if you're *worried about pain*.
 * If you're taking any other medication that needs blood monitoring, they should be able to *combine the tests* so you only need to get your blood taken once.
+
+### Getting your results
+
+Getting your blood test results depends on how you organised the tests. You have the right to access medical records about you, including blood test results. 
+
+Blood tests organised through your NHS GP should be added to your GP medical record. In England, you can access this with the [NHS App](https://www.nhs.uk/nhs-app/). In Scotland and Wales, you should contact your GP surgery directly for a copy of your results. 
+
+For private blood tests, contact the clinic or service directly. For example, this could be the clinic where you had your blood tests. Many private services will send you a copy of your results once they are available. 
+
+Sexual health clinics may contact you directly with the results of your tests, or you may have to reach out to them for a copy of your results.
+
+Having a copy of your results lets you give them to your GIC or endocrinologist, in case they are not sent by your GP or clinic. It may be useful to ask your GIC or endocrinologist if they have received a copy of your blood results. 

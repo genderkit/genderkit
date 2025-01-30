@@ -10,6 +10,11 @@ feature:
 
 You should check with your doctor or pharmacist about whether Minoxidil is suitable for you, as Minoxidil is not suitable for people who have particular medical conditions or who take certain medications. {% cite minoxidil %}.
 
+{%capture warn%}
+Minoxidil is toxic to dogs and cats, even in small doses like a drop or lick. {% cite minoxidil_pet_toxicity %}.
+{%endcapture%}
+{%include warning warning=warn%}
+
 ### Why might I want minoxidil?
 
 Minoxidil is normally used to treat hair loss caused by testosterone (androgenic alopecia), and can temporarily slow hair loss and sometimes cause some regrowth.
