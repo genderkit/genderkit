@@ -10,7 +10,7 @@ Unfortunately we don't have the resources to provide individual advice or suppor
 
 ### I've found a mistake in the site - can you fix it?
 
-Spotted something that isn't correct? Please [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit) to let us know.
+Spotted something that isn't correct? Please [contact us](https://form.typeform.com/to/aCZZqtWL) to let us know.
 
 ### Why haven't you got an article about (x)?
 
@@ -30,7 +30,7 @@ Either we haven't had time to write an article about it yet, or it's not commonl
 
 ### How do I get a link to my organisation / company / support group to appear on Gender Construction Kit?
 
-If you'd like your organisation to appear on the UK Organisations page, [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit) to let us know. Please note that we will only add organisations which have a public Facebook page or Twitter account - this is so visitors can see if you are still active or not, what sort of things you do, and contact you easily.
+If you'd like your organisation to appear on the UK Organisations page, [contact us](https://form.typeform.com/to/aCZZqtWL) to let us know. Please note that we will only add organisations which have a public Facebook page or Twitter account - this is so visitors can see if you are still active or not, what sort of things you do, and contact you easily.
 
 ### You've linked to my organisation / company / support group but the description is wrong!
 

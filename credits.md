@@ -8,13 +8,13 @@ description: Information about the team behind Gender Construction Kit and what 
 
 Please take a look at our [Frequently Asked Questions]({% link faq.md %}) page first.
 
-If you need to contact the team, [tweet us](https://twitter.com/genderkit) or message us [on Facebook](https://www.facebook.com/genderkit).
+If you need to contact the team, use [this form](https://form.typeform.com/to/aCZZqtWL).
 
 ### License
 
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and the underlying source code used to format and display that content is licensed under the MIT license.
 
-Gender Construction Kit is deliberately designed as a guide for people in the United Kingdom. If you'd like to create your own version of Gender Construction Kit for another country, please [let us know](https://twitter.com/genderkit) as we may be able to help you.
+Gender Construction Kit is deliberately designed as a guide for people in the United Kingdom. If you'd like to create your own version of Gender Construction Kit for another country, please [let us know](https://form.typeform.com/to/aCZZqtWL) as we may be able to help you.
 
 ### Open Source and Creative Commons
 
