@@ -12,7 +12,7 @@ Your work will appear on the credits page if you add an entry for yourself [to t
 
 ### I'm not a coder - how do I contribute to the site?
 
-If you need any help adding things to the site, message us on Twitter or Facebook and we can help get you started. We'd be really excited to hear from you!
+If you need any help adding things to the site, contact us thorugh our [form](https://form.typeform.com/to/aCZZqtWL) and we can help get you started. We'd be really excited to hear from you!
 
 1. Make yourself a GitHub account and log in to GitHub.
 2. Open the [genderkit repository](https://github.com/genderkit/genderkit) on GitHub.
