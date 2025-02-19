@@ -1,57 +1,16 @@
 ---
 layout: misc
 title: Specialist UK gender clinics
-description: List of UK gender services including NHS and private clinics
+description: Information about accessing specialist UK gender services
 ---
-
-{% capture warn %}
-We cannot check the quality or safety of services on this page.
-{% endcapture %}
-{% include warning warning=warn %}
 
 In the UK, people who are changing things linked to gender are supported by a set of specialist centres, often known as "gender identity clinics" (GICs), which offer [formal diagnosis]({% link _articles/formal-diagnosis.md %}) and access to other services like hormone medications and surgeries. 
 
-{% capture gic-description %}
-You can access these gender services for free on the NHS. However, these services have significant waiting lists, and may require a wait of several years before being seen. They will also only accept you as a patient if you are registered with a GP in a specific area.
+You can find information about what clinics are available to you, their waiting times, and which services will see you more quickly on [the TransActual website](https://transactual.org.uk/medical-transition/gender-dysphoria-clinics/). 
 
-You can find more information about waiting times - and which services will see you more quickly - on [the TransActual website](https://transactual.org.uk/medical-transition/gender-dysphoria-clinics/).
-{% endcapture %}
-{% include gender-clinics tag="Gender Clinics" icon="tick" title="Free UK-based services" free=true referrals=true description=gic-description %}
+There are instructions on how to access NHS services on [the TransActual website](https://transactual.org.uk/medical-transition/).
 
-We have instructions on how to access these NHS services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
-
-{% capture gic-description %}
-There are also a number of pilot schemes run by different organisations within NHS England. The purpose of these schemes is to explore a more holistic and comprehensive model of how gender clinics can function, with patient agency centred more in the process.
-
-These clinics generally have a much shorter wait, but are only open to people who've already been referred to another clinic, and who meet particular requirements. Waits vary, usually depending on how long you've been on the waiting list for the other clinic.
-{% endcapture %}
-{% include gender-clinics tag="Gender Clinics" icon="star" title="NHS England pilot schemes" free=true pilot=true referrals=true description=gic-description %}
-
-{% capture gic-description %}
-There are also several private gender services which charge fees but which may have significantly shorter waiting lists. You may wish to use these services while on the waiting list for an NHS service. It can overwhelming trying to choose which gender service to be referred to, but you can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
-
-{% endcapture %}
-{% include gender-clinics tag="Gender Clinics" icon="pound" title="Paid UK-based services" free=false referrals=true description=gic-description %}
-
-Note that while some services will see patients younger than 18 for an assessment, not all will offer hormone therapy. You may wish to contact services to find out if they are willing to prescribe to under 18s before paying money to a service.
-
-### Other services
-
-Other services that may be of interest to people in the UK include:
-
-{% include organisations tag="Other gender services" %}
-
-### Choosing a service
-
-It can overwhelming trying to choose which gender service to be referred to. You can find useful tips on how to choose on our [Choosing a Gender Service page]({% link _resources/choosing-gender-service.md %}).
-
-### Getting a referral
-
-We have instructions on how to access these NHS services on our [Getting A Referral page]({% link _resources/referral-appointment.md %}).
-
-You do not need to be seen by a local mental health team to be referred to an adult gender service.
-
-All the private gender services accept self-referral. However, it may be helpful to speak to your GP before self-referring to a private service, to find out if your GP will be able to support your treatment and if they are able to support you with blood tests and prescribing.
+There are also some private services which you can access, and details of this service are also on [the TransActual website](https://transactual.org.uk/medical-transition/private-care/).
 
 ### How much will it cost?
 

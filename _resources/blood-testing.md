@@ -36,28 +36,7 @@ Regular blood testing is important for two main reasons:
 
 ### What tests you need
 
-Blood tests for people taking *oestrogen* will usually include things like:
-* Oestradiol
-* Testosterone
-* Prolactin
-* FSH (Follicle Stimulating Hormone)
-* LH (Luteinising Hormone)
-* Liver function
-* Thyroid stimulating hormone
-* Lipid profile
-* Fasting glucose
-
-Blood tests for people taking *testosterone* will usually include things like:
-* Oestradiol
-* Testosterone
-* Prolactin
-* Haemoglobin
-* Haematocrit
-* Liver function
-* Lipid profile
-* Fasting glucose
-
-Note that these are *just representative examples*, and the exact tests you need may vary. Many gender clinics have published guidance for GPs about the particular tests needed for people taking hormones, which you can find on [the Gender Archive website](https://genderarchive.org.uk/tag/hormones/).
+Many gender clinics have published guidance for GPs about the particular tests needed for people taking hormones, such as [this NHS Wales guidance](https://awttc.nhs.wales/files/guidelines-and-pils/endocrine-management-of-gender-incongruence-in-adults-pdf/).
 
 In addition to blood tests, you may also need regular monitoring of things like blood pressure and weight. People taking blockers but not oestrogen or testosterone may need to have bone density monitored.
 
