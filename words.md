@@ -27,7 +27,7 @@ Remember when you are talking about other people to use the words they prefer. I
 
 ### Words to avoid
 
-Some words are commonly used as a slur - an offensive word used to insult or attack people. Some of these words may be upsetting or traumatic for people, and we strongly suggest you avoid using them. If you want to find out more about these words, you can [read our page about them]({% link slurs.md %}).
+Some words are commonly used as a slur - an offensive word used to insult or attack people. Some of these words may be upsetting or traumatic for people, and we strongly suggest you avoid using them. You can learn more about slurs used to describe LGBTQ+ people, and slang used to describe LGBTQ+ people, on the [Chew Inclusive Terminology Glossary website](https://itg.nls.uk/wiki/LGBTQIA%2B_Slurs_and_Slang).
 
 There are also words which are specific to a particular culture, such as [two spirit](https://en.wikipedia.org/wiki/Two-Spirit), [hijra](https://en.wikipedia.org/wiki/Hijra_(South_Asia)), or [kathoey](https://en.wikipedia.org/wiki/Kathoey). Because of the cultural context to these words, it is often better not to use them to describe yourself if you are not a member of that culture, as it may be considered [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). You can read more about these words on [the PBS website](https://www.pbs.org/independentlens/content/two-spirits_map-html/).
 
