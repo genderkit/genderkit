@@ -100,7 +100,7 @@ In both cases, you will need to send the passport office two [passport photograp
 
 ### How much does getting a new passport cost?
 
-At the time of writing (November 2022) the cost of a new or updated UK adult passport is £75.50 (online) or £85 (paper form). You can find up-to-date information on [the HM Passport Office website](https://www.gov.uk/renew-adult-passport).
+At the time of writing (April 2025) the cost of a new or updated UK adult passport is £94.50 (online) or £107 (paper form). You can find up-to-date information on [the HM Passport Office website](https://www.gov.uk/renew-adult-passport).
 
 ### Visas
 
