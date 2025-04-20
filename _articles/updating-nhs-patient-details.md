@@ -8,7 +8,7 @@ feature:
 
 ### Who can update their NHS records?
 
-In some parts of the UK, updating the gender (sex marker) on your NHS records is not permitted for *people who are under 18*. For up-to-date information, see [the NHS PCSE Patient Registrations page](https://pcse.england.nhs.uk/help/patient-registrations/gender-reassignment).
+In some parts of the UK, updating the gender (sex marker) on your NHS records is not permitted for *people who are under 18*. For up-to-date information, see [the NHS PCSE Patient Registrations page](https://pcse.england.nhs.uk/help/patient-registrations/gender-reassignment) (England) or [the NHS National Services Scotland page](https://www.nss.nhs.scot/medical-services/patient-registration-and-medical-records/how-to-change-patient-details/) (Scotland).
 
 ### What do I need first?
 
