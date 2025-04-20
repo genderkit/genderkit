@@ -44,7 +44,11 @@ aware-of:
       detail: "Tell your doctor if you have an allergy to peanuts so they can choose a formulation of testosterone that does not contain peanut oil."
     - 
       name: 'Testosterone use increases your risk of serious medical conditions'
-      icon: 'circle_danger'  
+      icon: 'circle_danger'
+    -
+      name: 'Testosterone gel exposure has risks to children'
+      icon: 'circle_danger'
+      detail: 'Repeated accidental exposure caused by physical contact with the gel application site can have lasting physical effects on children. You can read more on [the GOV.UK website](https://www.gov.uk/drug-safety-update/topical-testosterone-testogel-risk-of-harm-to-children-following-accidental-exposure). Tell your doctor if you are likely to be in repeated physical contact with children so they can prescribe a different formulation of testosterone.'
 ---
 
 ### How do I stay safe?
