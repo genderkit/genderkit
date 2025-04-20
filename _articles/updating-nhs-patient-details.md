@@ -6,6 +6,10 @@ feature:
   caption: "NHS logo closeup on computer screen"
 ---
 
+### Who can update their NHS records?
+
+In some parts of the UK, updating the gender (sex marker) on your NHS records is not permitted for *people who are under 18*. For up-to-date information, see [the NHS PCSE Patient Registrations page](https://pcse.england.nhs.uk/help/patient-registrations/gender-reassignment).
+
 ### What do I need first?
 
 You will normally need:
@@ -30,7 +34,7 @@ You can change your name, title, or gender with the NHS at any time you like by 
 
 Most GP surgeries will be able to update your details if you ask at reception. However, some GP surgeries may be unsure of the procedure for how to do it. You may find it helpful to give them these links which explain how they can update your details:
 
-- in *England*, on [the PCSE website](https://pcse.england.nhs.uk/help/patient-registrations/adoption-and-gender-reassignment-processes). If the GP surgery has further queries, they can contact the PCSE using [this page](https://pcse.england.nhs.uk/contact-us/patient-registrations-enquiry-categories/adoptions-and-gender-reassignment).
+- in *England*, on [the PCSE website](https://pcse.england.nhs.uk/help/patient-registrations/gender-reassignment/). If the GP surgery has further queries, they can contact the PCSE using [this page](https://pcse.england.nhs.uk/contact-us/patient-registrations-enquiry-categories/adoptions-and-gender-reassignment).
 - in *Wales*, on the [Umbrella Cymru website](https://umbrellagwent.od2.vtiger.com/kb/article/640439-Changing-Personal-Details-at-the-GP?catid=1&subid=4&coroner=false)
 - in *Scotland*, on the [NHS National Services Scotland website](https://www.nss.nhs.scot/medical-services/patient-registration-and-medical-records/how-to-change-patient-details/) (you can find further information about your rights in [this Freedom of Information disclosure](https://www.nss.nhs.scot/publications/foi-000084-requirements-for-processing-a-change-of-gender-and-title/foi-000084-requirements-for-processing-a-change-of-gender-and-title-html/) and in [this document for staff in Greater Glasgow and Clyde](https://www.nhsggc.org.uk/media/255885/nhsggc_equalities__changing_your_chi.pdf))
 
