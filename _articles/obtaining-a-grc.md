@@ -9,9 +9,15 @@ feature:
 ### What should I be aware of?
 
 {% capture warn %}
+These pages summarise general information about law in England and Wales and represents our understanding of legislation and case law as volunteer laypeople. It is not intended to give specific legal advice on which you should rely. If you require legal advice relating to this subject please consult an independent legal professional.{% endcapture %}
+{% include warning warning=warn %}
+
+{% capture warn %}
 If you are currently married or in a civil partnership, obtaining a GRC may annul your marriage or civil partnership. See below for more details.
 {% endcapture %}
 {% include warning warning=warn %}
+
+
 
 ### Why might I want a Gender Recognition Certificate?
 
