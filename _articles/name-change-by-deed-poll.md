@@ -6,6 +6,12 @@ feature:
   caption: "An example deed poll document"
 ---
 
+### What should I be aware of?
+
+{% capture warn %}
+These pages summarise general information about law in England and Wales and represents our understanding of legislation and case law as volunteer laypeople. It is not intended to give specific legal advice on which you should rely. If you require legal advice relating to this subject please consult an independent legal professional.{% endcapture %}
+{% include warning warning=warn %}
+
 ### Are there other options?
 
 Another option is [name change by statutory declaration]({% link _articles/name-change-by-statutory-declaration.md %}).

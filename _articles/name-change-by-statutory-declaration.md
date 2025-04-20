@@ -6,6 +6,12 @@ feature:
   caption: "An example statutory declaration document"
 ---
 
+### What should I be aware of?
+
+{% capture warn %}
+These pages summarise general information about law in England and Wales and represents our understanding of legislation and case law as volunteer laypeople. It is not intended to give specific legal advice on which you should rely. If you require legal advice relating to this subject please consult an independent legal professional.{% endcapture %}
+{% include warning warning=warn %}
+
 ### Are there other options?
 
 The simplest and most commonly used way of changing name in the UK is a [name change by deed poll]({% link _articles/name-change-by-deed-poll.md %}). However, if you are unable to find the two independent witnesses which are required for a deed poll change of name, you may wish to use name change by statutory declaration instead.
