@@ -18,6 +18,7 @@ You can find good advice on about coming out on these pages:
 - [Coming Out on the Brook website](https://www.brook.org.uk/your-life/coming-out/)
 - [Coming Out on the Childline website](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/coming-out/)
 - [Coming Out Guidance for Young People from Cara-Friend](https://cara-friend.org.uk/wp-content/uploads/2021/09/Cara-Friend-Coming-Out-Guide.pdf)
+- [Coming Out at Work on the Community Trade Union website](https://community-tu.org/mymembership/advice-centre/equalities-hub/coming-out-at-work/)
 
 You do not have to come out to anyone else, and if you do choose to, you can choose when you want to do it.
 
