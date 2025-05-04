@@ -5,7 +5,7 @@ weighting: 3
 
 ### How do I get permanent eyelash curling?
 
-Permanent eyelash curling is performed in a beauty salon. A beautician applies a gel to the eyebrows which contains chemicals which are used to curl the eyelashes.
+Permanent eyelash curling, also commonly known as a lash lift, is a treatment performed in a beauty salon. A beautician applies a gel to the eyebrows which contains chemicals which are used to curl the eyelashes.
 
 There are currently no national standards for beauty salons, and anyone can legally start a salon in most parts of the country. However, many salons have voluntarily joined professional organisations that maintain registers of beauticians who have a minimum level of educational qualifications to be able to provide safe and hygienic treatment. 
 
